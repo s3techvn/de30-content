@@ -1,0 +1,68 @@
+<Vocab id="0724b70e-b883-469d-b475-25ee8a624f2d" word="tension" type="short" status="done">
+  <Topics>
+    <Topic id="a20bc3cb-aab3-4837-8079-149e92d5cebc" value="Emotions and Feelings" />
+    <Topic id="8e3c0e88-2a49-4dca-9c0e-71c151fd2e21" value="Physics and Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7393664c-9303-4e69-9508-750980bd0f22" value="Physician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="29ff64e2-5a05-4499-911b-767533023141" ipa="/ˈten.ʃən/" vi_ipa="ten-sion">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="36af4e80-9725-484a-bd5a-6bc96ab9a388" type="Noun">
+          <Vi>Sự căng thẳng, căng cơ, căng thẳng tinh thần</Vi>
+          <En>A state of mental or emotional strain or tension resulting from adverse or demanding circumstances.</En>
+          <Example>She felt a growing sense of tension before the job interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8de514e6-516d-4503-91fd-0d58326bbf87">
+              <Vi>Một người cảm thấy lo âu, bồn chồn trước một sự kiện quan trọng.</Vi>
+              <En>A person feels anxious or restless before an important event.</En>
+            </Situation>
+            <Situation id="89ccbfa6-546d-4e95-a7fc-3ec95243348a">
+              <Vi>Căng thẳng trong quan hệ giữa hai người do bất đồng.</Vi>
+              <En>Strained relations between two people due to disagreement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="00f934d8-87eb-4057-8417-43a501822616" type="Noun">
+          <Vi>Sức căng (vật lý), lực kéo căng</Vi>
+          <En>A force that stretches or pulls something, especially a rope, wire, or muscle.</En>
+          <Example>The tension in the cable must be carefully monitored to prevent failure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f3c6bbeb-7478-48f5-9eaa-74aa89d73294">
+              <Vi>Kỹ sư đo lực căng dây cáp trong cầu treo.</Vi>
+              <En>An engineer measures the tension in suspension bridge cables.</En>
+            </Situation>
+            <Situation id="812f052a-30ca-4da8-aca7-f05583898ebf">
+              <Vi>Căng cơ bắp khi tập thể dục quá mức.</Vi>
+              <En>Muscle strain from overexertion during exercise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bd3b5270-b86a-4431-9783-256c959ba4f8" type="Noun">
+          <Vi>Sự căng thẳng (giữa các nhóm, quốc gia), căng thẳng chính trị</Vi>
+          <En>A state of strained relations or unresolved conflict, especially between nations or groups.</En>
+          <Example>Tensions between the two countries have escalated over the border dispute.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f08333d8-c374-49eb-9416-6f1be9dc0581">
+              <Vi>Căng thẳng địa chính trị giữa hai quốc gia dẫn đến khủng hoảng ngoại giao.</Vi>
+              <En>Geopolitical tensions between two countries lead to a diplomatic crisis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

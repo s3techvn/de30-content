@@ -80,4 +80,6 @@
   <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" slug="chef" value="Chef" />
   <Profession id="2cda5b8d-cf19-4c22-9593-aaac92a8c889" slug="petroleum-engineer" value="Petroleum Engineer" />
   <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" slug="none" value="None" />
+  <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" slug="psychologist" value="Psychologist" />
+  <Profession id="7393664c-9303-4e69-9508-750980bd0f22" slug="physician" value="Physician" />
 </Professions>
