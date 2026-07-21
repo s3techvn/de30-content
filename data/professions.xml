@@ -149,4 +149,6 @@
   <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" slug="economist" value="Economist" />
   <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" slug="dancer" value="Dancer" />
   <Profession id="623b8b9d-57b6-4b03-a84a-590c577eeb2f" slug="choreographer" value="Choreographer" />
+  <Profession id="91d56833-c21b-4b64-89d3-d1026b92f35f" slug="microbiologist" value="Microbiologist" />
+  <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" slug="pharmacist" value="Pharmacist" />
 </Professions>
