@@ -1,0 +1,59 @@
+<Vocab id="6c13be90-1873-4ee5-bc5c-cb22c1d2eac3" word="journey" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c174b7e-5ad0-4d15-89e8-e45eb53c7e52" ipa="/ˈdʒɜːr.ni/" vi_ipa="giơ-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dfe83df8-2efb-4103-bab8-2f95fb73b3f0" type="Noun">
+          <Vi>Cuộc hành trình, chuyến đi (thường là dài ngày hoặc đi xa)</Vi>
+          <En>An act of traveling from one place to another, especially when they are far apart.</En>
+          <Example>They embarked on a long journey across the desert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9671bc6-eeff-455f-a894-7854b96b8037">
+              <Vi>Nói về một chuyến đi dài ngày hoặc một hành trình trải nghiệm.</Vi>
+              <En>Talking about a long trip or an experiential travel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a9813d63-a381-48ac-927b-e411f759ead1" type="Noun">
+          <Vi>Hành trình phát triển bản thân, chặng đường trải nghiệm cuộc sống</Vi>
+          <En>A long and often difficult process of personal change and development.</En>
+          <Example>Her spiritual journey led her to find inner peace.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc614f76-61b7-496d-81a3-99e0a736ce6e">
+              <Vi>Nói về quá trình phát triển bản thân, vượt qua khó khăn trong cuộc sống.</Vi>
+              <En>Describing personal growth or overcoming life challenges.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="18a24da5-ab18-46bc-8490-30db33d4421e" type="Verb">
+          <Vi>Đi du lịch, hành trình, di chuyển (đến một nơi xa)</Vi>
+          <En>To travel somewhere, especially a long distance.</En>
+          <Example>We journeyed through the mountains for three days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="feb858b6-287f-40c6-ae1c-cf3406bab565">
+              <Vi>Mô tả việc di chuyển qua những quãng đường dài hoặc địa hình hiểm trở.</Vi>
+              <En>Describing traveling over long distances or difficult terrains.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
