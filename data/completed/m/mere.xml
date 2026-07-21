@@ -1,0 +1,32 @@
+<Vocab id="953507a6-bca6-47b1-893e-caed761fcca0" word="mere" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="99372e45-dee9-4e80-b6e4-5fd99dbde3f1" ipa="/mɪr/" vi_ipa="mi-ə">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4939a2cd-b609-4d04-a463-5b9a884c83bd" type="Adjective">
+          <Vi>chỉ, đơn thuần</Vi>
+          <En>only, nothing more than</En>
+          <Example>It was a mere suggestion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7121b199-18c4-49aa-9485-5396e226c36a">
+              <Vi>Khi muốn nhấn mạnh rằng điều gì đó không quan trọng.</Vi>
+              <En>When emphasizing that something is not important.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
