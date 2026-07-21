@@ -139,4 +139,5 @@
   <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" slug="actor" value="Actor" />
   <Profession id="856adf36-7dd9-486f-a88b-b4e8654bf94a" slug="food-critic" value="Food Critic" />
   <Profession id="a5bbdccc-a983-4ce7-affe-1787dfe4c6d5" slug="culinary-instructor" value="Culinary Instructor" />
+  <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" slug="data-analyst" value="Data Analyst" />
 </Professions>

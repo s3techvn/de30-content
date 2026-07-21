@@ -1,0 +1,40 @@
+<Vocab id="5b6bc7b4-eddf-4183-8ef4-a2ab2645ee63" word="cumulative" type="short" status="done">
+  <Topics>
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="525b7a4c-1fbe-46df-9a92-e215f7eba862" ipa="/ˈkjuːmjələtɪv/" vi_ipa="ki-ơ-miu-lơ-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="702d2e34-e19b-4354-9a0c-f6333e7d085a" type="Adjective">
+          <Vi> tích lũy; cộng dồn</Vi>
+          <En>increasing in quantity or effect by successive additions; built up over time</En>
+          <Example>The cumulative effect of small daily expenses can lead to significant debt over a year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51563f38-fdaa-4924-9a29-10cbd64a1a5a">
+              <Vi>Mô tả hiệu ứng tăng dần theo thời gian, như lãi kép hoặc điểm số cộng dồn.</Vi>
+              <En>Describes an effect or value that grows progressively as more elements are added over time, such as compound interest or accumulated grades.</En>
+            </Situation>
+            <Situation id="18bab458-4fda-4a55-806d-cdd6ea05877b">
+              <Vi>Dùng trong báo cáo để chỉ tổng số tính đến thời điểm hiện tại.</Vi>
+              <En>Used in reports to indicate the total amount calculated up to the current point in time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
