@@ -19,6 +19,8 @@
           <En>...</En>
           <Example>...</Example>
         
+        <IsArchaic>false</IsArchaic>
+        
         <Situations>
           <Situation id="__UUID__">
             <Vi>...</Vi>
