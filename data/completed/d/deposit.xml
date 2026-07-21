@@ -1,0 +1,76 @@
+<Vocab id="c223ad2c-e776-466f-abd0-358094e4f2af" word="deposit" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="06c715eb-d4ad-44af-ba35-cfb26bc062b1" ipa="/dɪˈpɒz.ɪt/" vi_ipa="đị-pô-dít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="656091d5-3d5a-4e74-ab77-16e241f4b386" type="Verb">
+          <Vi>gửi tiền vào ngân hàng; đặt cọc; để riêng, cất giữ</Vi>
+          <En>to put money into a bank account; to give money as a guarantee; to store or set aside something</En>
+          <Example>She deposited $500 into her savings account yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e18d316d-8627-458a-8cdc-cd36d05b4c1a">
+              <Vi>Người gửi tiền vào tài khoản ngân hàng để tiết kiệm hoặc thanh toán.</Vi>
+              <En>A person puts money into a bank account to save or make a payment.</En>
+            </Situation>
+            <Situation id="09711b1a-7af4-4361-9884-a3d49d13f408">
+              <Vi>Người thuê nhà đặt cọc cho chủ nhà trước khi nhận chìa khóa.</Vi>
+              <En>A tenant gives a deposit to the landlord before receiving the keys.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dd5b40f3-9f86-4898-8a9f-84a996fcb4fd" type="Noun">
+          <Vi>số tiền gửi; tiền đặt cọc; sự để riêng, sự cất giữ</Vi>
+          <En>a sum of money kept in a bank account; a sum given as a guarantee; the act of storing or setting something aside</En>
+          <Example>The hotel requires a $200 deposit before check-in.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf34c96a-7c8d-47a3-8579-b56bd44bef90">
+              <Vi>Khi thuê xe, khách hàng phải trả một khoản tiền đặt cọc.</Vi>
+              <En>When renting a car, the customer must pay a deposit.</En>
+            </Situation>
+            <Situation id="8e426ab0-5b3a-423c-a9d9-6b85433a1489">
+              <Vi>Số tiền gửi tiết kiệm được tính lãi hàng tháng.</Vi>
+              <En>The savings deposit earns interest monthly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="ad225898-6e57-4558-a7c5-a4ff55c77d2c" ipa="/ˈdep.ə.zɪt/" vi_ipa="đép-dờ-dít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d340dd1a-7617-4acc-be77-bdcd36a7355f" type="Noun">
+          <Vi>sự để riêng (hóa chất, mẫu vật); kho chứa (hóa chất, mẫu vật)</Vi>
+          <En>a place where something is stored, especially chemicals or biological samples</En>
+          <Example>The laboratory maintains a deposit of vaccines at ultra-low temperatures.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fceb6296-8cee-4fc9-a27e-196950f913b7">
+              <Vi>Bệnh viện có kho chứa mẫu máu dự phòng cho các ca ghép tạng.</Vi>
+              <En>The hospital has a blood sample deposit for organ transplant procedures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
