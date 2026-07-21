@@ -43,4 +43,6 @@
   <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" slug="journalist" value="Journalist" />
   <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" slug="political-scientist" value="Political Scientist" />
   <Profession id="b80b1249-3ff7-4651-883d-44bb8f960d63" slug="everyone" value="Everyone" />
+  <Profession id="5a3c5868-21ad-49f0-9262-4b1178a8ef15" slug="pediatrician" value="Pediatrician" />
+  <Profession id="01f54551-bfbf-4f8c-b601-067730e60be6" slug="early-childhood-educator" value="Early Childhood Educator" />
 </Professions>
