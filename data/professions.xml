@@ -182,4 +182,5 @@
   <Profession id="47b6e1cf-93e4-4cda-abb1-4aa13c18f637" slug="woodworker" value="Woodworker" />
   <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" slug="academic" value="Academic" />
   <Profession id="026fc1fd-4c0a-4e3b-a026-e135dfb80540" slug="policy-maker" value="Policy Maker" />
+  <Profession id="3e602b8e-9101-4ac7-992f-e896ae639352" slug="port-manager" value="Port Manager" />
 </Professions>
