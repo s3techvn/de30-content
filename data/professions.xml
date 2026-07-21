@@ -163,4 +163,6 @@
   <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" slug="recruiter" value="Recruiter" />
   <Profession id="43a547d5-8a3f-4d77-ad3e-9bc82a9aad2e" slug="insurance-adjuster" value="Insurance Adjuster" />
   <Profession id="a86fcb76-f813-45be-8ef9-469d98fd2201" slug="furniture-designer" value="Furniture Designer" />
+  <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" slug="model" value="Model" />
+  <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" slug="photographer" value="Photographer" />
 </Professions>
