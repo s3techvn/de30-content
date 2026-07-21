@@ -7,4 +7,7 @@
   <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" slug="clergy" value="Clergy" />
   <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" slug="publisher" value="Publisher" />
   <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" slug="theologian" value="Theologian" />
+  <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" slug="logistics-coordinator" value="Logistics Coordinator" />
+  <Profession id="dab2219c-841e-435d-947c-bd8ffbb5526d" slug="supply-chain-manager" value="Supply Chain Manager" />
+  <Profession id="18a69abd-6d6d-452d-a718-363136b8b071" slug="warehouse-worker" value="Warehouse Worker" />
 </Professions>
