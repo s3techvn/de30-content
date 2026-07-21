@@ -1,0 +1,34 @@
+<Vocab id="6cb3d591-57bb-4d06-b690-9154fdfd7ca3" word="whilst" type="short" status="done">
+  <Topics>
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6e6505cd-25d0-4d44-a067-b4bbf6cd3ca2" ipa="/waɪlst/" vi_ipa="hai-lớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2b4c6fd0-bf95-404b-b745-7f24942e41be" type="Conjunction">
+          <Vi>trong khi, trong lúc</Vi>
+          <En>at the same time as; during the time that</En>
+          <Example>She read a book whilst waiting for the bus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="641c61cc-4751-498d-b2bc-8c357366991e">
+              <Vi>Mô tả hai hành động xảy ra đồng thời.</Vi>
+              <En>Describes two actions happening at the same time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
