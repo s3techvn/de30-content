@@ -1,0 +1,52 @@
+<Vocab id="57fdb55c-8aab-430e-a2a2-be5779436f1a" word="possess" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" value="Business Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df83ccd8-7b1d-4b6b-a3c9-1dbb8dd70ca0" ipa="/pəˈzes/" vi_ipa="pờ-đây-zết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ec5ad5ce-15a4-45cc-889d-40c5505e3b5e" type="Verb">
+          <Vi>giữ, sở hữu, có (một tài sản, quyền, phẩm chất, v.v.)</Vi>
+          <En>to have or hold something as property, rights, or a quality</En>
+          <Example>She possesses exceptional leadership skills.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7e6ac5b-a048-470a-ba3a-2fc96253ca56">
+              <Vi>Mô tả việc ai đó sở hữu một vật hoặc phẩm chất đặc biệt.</Vi>
+              <En>Describing someone owning a physical object or possessing a particular trait.</En>
+            </Situation>
+            <Situation id="336e0f6b-8980-41be-9af1-01b138b070b3">
+              <Vi>Trong pháp lý: xác nhận quyền sở hữu tài sản.</Vi>
+              <En>In legal contexts: confirming ownership of property.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03d595cf-8f2c-4b86-83be-b64a66c58846" type="Verb">
+          <Vi>chiếm giữ (tâm trí, cảm xúc), làm cho ai đó bị ám ảnh hoặc bị chi phối</Vi>
+          <En>to control or dominate someone’s thoughts or emotions; to obsess or haunt someone</En>
+          <Example>The memory of the accident still possesses her.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ec89083-2ba8-40ed-a523-2dee2c260524">
+              <Vi>Mô tả cảm xúc mạnh mẽ hoặc nỗi ám ảnh chi phối một người.</Vi>
+              <En>Describing strong emotions or obsessions that dominate a person’s mind.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

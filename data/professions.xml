@@ -212,4 +212,5 @@
   <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" slug="physicist" value="Physicist" />
   <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" slug="any" value="Any" />
   <Profession id="f709fa4d-125b-445b-992e-0f910d565398" slug="actuary" value="Actuary" />
+  <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" slug="business-manager" value="Business Manager" />
 </Professions>
