@@ -1,0 +1,32 @@
+<Vocab id="a805c777-5959-43f3-aa0d-37a390ad4526" word="raymond" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd85b170-d40d-44e2-9fa0-f315dceb5b1e" ipa="/ˈreɪ.mənd/" vi_ipa="rây-mơn-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7970bb21-a86e-44c2-b1df-085bcb3a4641" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là Raymon hoặc Raymond (dạng tiếng Anh của tên Raymund)</Vi>
+          <En>A masculine given name or surname, derived from Germanic elements meaning “wise protector”.</En>
+          <Example>Raymond Chiang is a well-known figure in the local chess community.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a83b13f-b43c-4e6f-b0d3-66874eb283e1">
+              <Vi>Dùng để chỉ một người nam giới, thường trong văn cảnh cá nhân hoặc giới thiệu nhân vật.</Vi>
+              <En>Used to refer to a male individual, typically in personal or biographical contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
