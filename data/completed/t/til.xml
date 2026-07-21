@@ -1,0 +1,32 @@
+<Vocab id="edd88f73-2d88-498d-bafb-42cf0a9c6da0" word="til" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b106601d-9ff6-49cf-aad5-9d42ce93ac0b" ipa="/tɪl/" vi_ipa="tíl">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="185566e5-ede2-4ad6-893e-ee467dfd41ce" type="Conjunction">
+          <Vi>cho đến khi; cho tới khi</Vi>
+          <En>used to indicate the time up to which an action or condition continues.</En>
+          <Example>We’ll wait here til the rain stops.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9de0ba26-eed1-446b-ab49-9a33fcdacfaa">
+              <Vi>Thể hiện thời điểm kết thúc của một hành động hoặc trạng thái đang tiếp diễn.</Vi>
+              <En>Used in informal speech to express the time up to which something continues.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
