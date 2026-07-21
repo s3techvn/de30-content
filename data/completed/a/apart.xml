@@ -1,0 +1,48 @@
+<Vocab id="fe6e869a-741f-4c28-af5e-520bd8c3a0b8" word="apart" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="680de5b2-a9f1-4084-aec1-4665c0982de8" ipa="/əˈpɑːrt/" vi_ipa="ơ-pác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c4c8ecd5-f141-4bcc-a240-d3f252cdc70e" type="Adverb">
+          <Vi>tách biệt, riêng biệt</Vi>
+          <En>in a separated or detached state or position; separately</En>
+          <Example>They live in separate apartments, but they’re still close — just a few blocks apart.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="11d29e5e-3aa0-44c4-a0c7-1795153f716c">
+              <Vi>Mô tả khoảng cách vật lý giữa hai người hoặc vật.</Vi>
+              <En>Describing physical distance or separation between two people or objects.</En>
+            </Situation>
+            <Situation id="72bda402-7086-4d0e-9ec9-0f80bc3d10bb">
+              <Vi>Dùng trong ngữ cảnh so sánh sự khác biệt rõ rệt giữa hai điều.</Vi>
+              <En>Used when highlighting clear differences between two things or situations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4766267b-a585-40f8-9145-056e0364e4a6" type="Adverb">
+          <Vi>riêng rẽ, không cùng nhau</Vi>
+          <En>not together; individually or separately</En>
+          <Example>The team members worked apart on their respective tasks before merging results.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85e808aa-6495-471b-8078-412be3b78850">
+              <Vi>Mô tả hành động làm việc không cùng lúc hoặc không cùng nhóm.</Vi>
+              <En>Describing actions performed individually rather than collaboratively.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
