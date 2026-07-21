@@ -35,3 +35,4 @@ arizona
 alabama
 fleet
 for
+fan
