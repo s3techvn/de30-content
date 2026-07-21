@@ -1,0 +1,68 @@
+<Vocab id="249ecaf8-6883-47cc-86c8-6d476718c337" word="caught" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="6bce3aa2-cf99-4ced-bd3f-6d6428443456" value="Law &amp; Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1069a03e-07f9-403c-bfcb-af44aa384aa3" value="Transport Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f820f74-acdc-45ae-881c-424f70ce259f" ipa="/kɔːt/" vi_ipa="cốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2ba25463-4898-4b60-aee3-990eaba8aa76" type="Verb">
+          <Vi>Bắt, tóm, bắt gặp (động tác nắm giữ hoặc ngăn chặn ai đó đang làm điều gì đó)</Vi>
+          <En>To take hold of suddenly or forcibly; to capture or seize, especially unexpectedly.</En>
+          <Example>The police caught the thief red-handed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67a55d96-e0e6-4647-a1c7-64978ab113a4">
+              <Vi>Cảnh sát bắt quả tang tên trộm đang ăn trộm.</Vi>
+              <En>Police caught the thief in the act of stealing.</En>
+            </Situation>
+            <Situation id="bdb82aad-2194-463b-ab7b-ef42672646f2">
+              <Vi>Con trai tôi bị mẹ bắt đang xem TV thay vì học bài.</Vi>
+              <En>My son was caught watching TV instead of studying.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b8b2a90f-1096-4516-a6b7-1e36d29bdc5b" type="Verb">
+          <Vi>Bị mắc kẹt, bị ảnh hưởng bởi (điều không mong muốn)</Vi>
+          <En>To become involved or affected by something, especially something undesirable.</En>
+          <Example>We got caught in a heavy rainstorm on the way home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6b5b852-07c8-40b0-8b6b-a2ca77ef7b08">
+              <Vi>Bị kẹt trong giao thông giờ cao điểm.</Vi>
+              <En>We were caught in rush-hour traffic and arrived late.</En>
+            </Situation>
+            <Situation id="16df6de1-4a0d-4634-9b41-39ffd45ee31e">
+              <Vi>Bị mưa bất ngờ khi đang đi dạo.</Vi>
+              <En>We were caught in a sudden downpour while walking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="25e069f1-b911-4585-813e-fab1a4410e65" type="Verb">
+          <Vi>Bị lây (bệnh), bị trúng (vi-rút, vi khuẩn)</Vi>
+          <En>To become infected or affected by a disease or virus.</En>
+          <Example>He caught a cold after walking home in the snow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="549942b8-99c8-47cc-9e2c-c3958ce30bb5">
+              <Vi>Bị cảm lạnh sau khi bơi trong nước lạnh.</Vi>
+              <En>She caught a cold after swimming in the cold lake.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
