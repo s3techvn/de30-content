@@ -201,4 +201,6 @@
   <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" slug="legal-professional" value="Legal Professional" />
   <Profession id="cea379da-2024-4a17-9541-a765f4a56db3" slug="animal-trainer" value="Animal Trainer" />
   <Profession id="7b21b88a-d5ff-415b-a3a5-7be484e303a1" slug="prison-officer" value="Prison Officer" />
+  <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" slug="botanist" value="Botanist" />
+  <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" slug="gardener" value="Gardener" />
 </Professions>
