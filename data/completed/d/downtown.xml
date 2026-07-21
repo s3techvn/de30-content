@@ -1,0 +1,48 @@
+<Vocab id="b99c118d-e93d-4e9e-8484-2d80f7e4b248" word="downtown" type="short" status="done">
+  <Topics>
+    <Topic id="3dc7aad4-4f7c-4f3c-beb9-ac7fd44f3dee" value="Urban Planning" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="540f9e49-ea2e-417a-9e84-2e85f2580806" ipa="/ˌdaʊnˈtɑːn/" vi_ipa="đao-n-tao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8d0b898a-a481-45be-a3d0-ec9932931990" type="Adjective">
+          <Vi>thuộc trung tâm thành phố, ở trung tâm thành phố</Vi>
+          <En>located in or relating to the central business district of a city</En>
+          <Example>She works in a downtown office building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5a01649-4710-4a38-bba6-773bfb4b5a65">
+              <Vi>Mô tả vị trí của một địa điểm trong khu vực trung tâm thành phố, thường là nơi tập trung các văn phòng, cửa hàng, và hoạt động thương mại.</Vi>
+              <En>Describes the location of a place in the city’s central business district, typically where offices, shops, and commercial activities are concentrated.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="113b436a-1639-4916-b20f-20074c676586" type="Adverb">
+          <Vi>vào trung tâm thành phố</Vi>
+          <En>to or toward the central part of a city</En>
+          <Example>We’re heading downtown for dinner tonight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1cdf1b7b-35c5-4a27-aaa7-044efedd05a9">
+              <Vi>Dùng khi nói về việc di chuyển vào khu vực trung tâm thành phố.</Vi>
+              <En>Used when referring to movement into the central part of a city.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
