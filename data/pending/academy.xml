@@ -18,14 +18,15 @@
           <Vi>...</Vi>
           <En>...</En>
           <Example>...</Example>
+        
+        <Situations>
+          <Situation id="__UUID__">
+            <Vi>...</Vi>
+            <En>...</En>
+          </Situation>
+        </Situations>
         </Meaning>
       </Meanings>
-      <Situations>
-        <Situation id="__UUID__">
-          <Vi>...</Vi>
-          <En>...</En>
-        </Situation>
-      </Situations>
     </Pronunciation>
   </Pronunciations>
 </Vocab>
