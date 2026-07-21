@@ -1,0 +1,45 @@
+<Vocab id="ab8545a2-bda5-4703-85b3-ff4c18e38c7b" word="gathering" type="short" status="done">
+  <Topics>
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="daba2a11-fd83-498e-952c-1e665e71a55d" value="Community Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7c196607-608b-4ab6-9a2b-0685c9364e0e" ipa="/ˈɡæð.ər.ɪŋ/" vi_ipa="gát-ơ-rinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b9428df5-8ad0-4e21-af75-eda1eee512e3" type="Noun">
+          <Vi>Sự tụ họp; buổi tụ họp</Vi>
+          <En>A collection of people in one place, especially for a social or formal purpose.</En>
+          <Example>The community held a gathering to celebrate the holiday season.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="879c1b86-2ed6-4c8c-875d-046daf8b5f00">
+              <Vi>Một nhóm người gặp gỡ tại một địa điểm để thảo luận, chia sẻ hoặc tổ chức hoạt động chung.</Vi>
+              <En>A group of people meeting at a location to discuss, share, or participate in a shared activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="46d0bf19-2496-41e4-a507-8ffb7339b3b9" type="Noun">
+          <Vi>Sự thu thập; sự sưu tầm</Vi>
+          <En>The action or process of collecting things, especially items of a particular type or for a specific purpose.</En>
+          <Example>Her art collection is the result of years of careful gathering.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="271011d7-77a4-4c6c-b30a-4e4622449643">
+              <Vi>Hành động thu thập các vật phẩm, ví dụ như sách, tranh, hoặc đồ cổ.</Vi>
+              <En>The act of collecting items, such as books, paintings, or antiques.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

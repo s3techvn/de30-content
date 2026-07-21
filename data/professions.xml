@@ -197,4 +197,5 @@
   <Profession id="33c8c6eb-d672-461a-a30f-3e0e1246c47f" slug="network-engineer" value="Network Engineer" />
   <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" slug="it-administrator" value="IT Administrator" />
   <Profession id="ab57b45e-acd7-4aa8-8225-2106d029509f" slug="cybersecurity-specialist" value="Cybersecurity Specialist" />
+  <Profession id="daba2a11-fd83-498e-952c-1e665e71a55d" slug="community-organizer" value="Community Organizer" />
 </Professions>
