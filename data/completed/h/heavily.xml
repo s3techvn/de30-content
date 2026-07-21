@@ -1,0 +1,51 @@
+<Vocab id="3b671c6d-9d09-4e40-ae8d-6e426fabe3e6" word="heavily" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="1a68931c-9bd2-47dc-b2c4-2cc1f09e8979" value="Descriptive Language" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="04b67c11-f5b4-4c84-8396-24d5b8801cf7" ipa="/ˈhev.i.lɪ/" vi_ipa="hè-vi-lì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f9fad2e4-5b3c-46d8-bee9-f87bd53a3450" type="Adverb">
+          <Vi>một cách nặng nề; một cách đậm đặc; một cách mạnh mẽ</Vi>
+          <En>In a heavy manner; with great weight, intensity, or strength.</En>
+          <Example>The rain was falling heavily, making the road slippery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6bc05927-39db-4a69-ba5f-bbfc748bfb84">
+              <Vi>Mô tả lượng mưa lớn hoặc cường độ cao của một hiện tượng tự nhiên.</Vi>
+              <En>Describing intense natural phenomena such as heavy rain, snow, or wind.</En>
+            </Situation>
+            <Situation id="1301197f-a76e-4b39-a5cf-9eff828e200d">
+              <Vi>Mô tả cảm giác nặng nề hoặc khó khăn trong một tình huống.</Vi>
+              <En>Describing a situation that feels burdensome or difficult to bear.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="81fd5d6d-d0b2-4c0f-8092-0266eed7ece7" type="Adverb">
+          <Vi>một cách quá mức; một cách thái quá</Vi>
+          <En>To an excessive degree; overly.</En>
+          <Example>The report was heavily biased toward one side of the argument.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2e64209-1da9-4ffa-ad9a-f240c7d423d8">
+              <Vi>Mô tả sự thiên vị hoặc thái quá trong đánh giá, phân tích.</Vi>
+              <En>Describing excessive bias, emphasis, or distortion in analysis or reporting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
