@@ -1,0 +1,57 @@
+<Vocab id="2462f48b-448e-412b-8088-165f8c206b78" word="war" type="short" status="done">
+  <Topics>
+    <Topic id="b147921d-f0e6-45fa-8473-e10269893bed" value="History &amp; Politics" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="8fb800d4-7925-4aae-a124-2f6512d5f99f" value="Conflict &amp; Peace" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" value="Military Strategist" />
+    <Profession id="b0581a69-f212-431d-bc24-7eabb4244f78" value="Journalist (War Correspondent)" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a8d7b6f-b03b-4e03-846a-6b3c1c977fb9" ipa="/wɔːr/" vi_ipa="oa-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="891c7e84-b310-4db5-a811-3be1be5fcba6" type="Noun">
+          <Vi>Chiến tranh</Vi>
+          <En>A state of armed conflict between different countries or different groups within a country.</En>
+          <Example>World War II was one of the deadliest conflicts in human history.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64bd1803-4cd0-486d-8583-7b845f1bda5c">
+              <Vi>Mô tả tình trạng xung đột vũ trang quy mô lớn giữa các quốc gia.</Vi>
+              <En>Describes a large-scale armed conflict between nations.</En>
+            </Situation>
+            <Situation id="2c6ec9d4-bf33-4944-ba47-7645fcedc019">
+              <Vi>Ngôn ngữ thường dùng khi nói về lịch sử, chính trị, hoặc xung đột quốc tế.</Vi>
+              <En>Commonly used in discussions of history, politics, or international conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ace5ab16-6361-4811-b0e7-a4be4fb3cf5f" type="Verb">
+          <Vi>Đánh nhau, gây chiến, tiến hành chiến tranh</Vi>
+          <En>To engage in or carry out war, especially on a large scale.</En>
+          <Example>The two nations have been warring over border disputes for decades.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cd1837a9-e595-422c-98d9-e98ba75a735c">
+              <Vi>Mô tả hành động sử dụng vũ lực giữa các bên đối địch.</Vi>
+              <En>Describes the act of using force between hostile parties.</En>
+            </Situation>
+            <Situation id="a389d84a-4c24-4267-b339-adbe15aeb4aa">
+              <Vi>Thường dùng trong văn cảnh lịch sử hoặc phân tích chính trị.</Vi>
+              <En>Often used in historical or political analysis contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

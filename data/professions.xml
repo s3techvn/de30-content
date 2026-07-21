@@ -207,4 +207,6 @@
   <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" slug="nutritionist" value="Nutritionist" />
   <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" slug="food-scientist" value="Food Scientist" />
   <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" slug="driver" value="Driver" />
+  <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" slug="military-strategist" value="Military Strategist" />
+  <Profession id="b0581a69-f212-431d-bc24-7eabb4244f78" slug="journalist-(war-correspondent)" value="Journalist (War Correspondent)" />
 </Professions>
