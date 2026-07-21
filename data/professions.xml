@@ -206,4 +206,5 @@
   <Profession id="368ab5e1-9b9f-43f4-b1c6-4b9c9a28081a" slug="election-official" value="Election Official" />
   <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" slug="nutritionist" value="Nutritionist" />
   <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" slug="food-scientist" value="Food Scientist" />
+  <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" slug="driver" value="Driver" />
 </Professions>
