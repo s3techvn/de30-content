@@ -1,0 +1,47 @@
+<Vocab id="d3f7d3ce-7ca2-4fc6-9cd9-63b6a2355405" word="pretty" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="10db3845-4052-4049-824b-513261342b34" ipa="/ˈprɪt.i/" vi_ipa="pờ-rít-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a30e17ed-0f4f-4a6e-8bdb-7485377cbec8" type="Adjective">
+          <Vi>đẹp, xinh, dễ thương (thường dùng để khen ngoại hình hoặc cách trang trí, mang sắc thái thân mật, không trang trọng bằng "beautiful")</Vi>
+          <En>attractive or pleasing in appearance, especially in a delicate or charming way; often used informally or affectionately.</En>
+          <Example>She wore a pretty dress to the picnic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1edb014-11e5-464e-93a5-25c71673ba5c">
+              <Vi>Mô tả một cô gái hoặc một vật nhỏ xinh, đáng yêu (ví dụ: váy, hoa, đồ trang trí).</Vi>
+              <En>Describing a girl, a small object, or something charming and delicate (e.g., a dress, a flower, decorative items).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aac678dd-d447-4e7a-a74d-e3b851d7f0ae" type="Adverb">
+          <Vi>khá, tương đối (dùng để làm nhẹ mức độ của tính từ hoặc trạng từ)</Vi>
+          <En>fairly; quite (used to reduce the intensity of an adjective or adverb).</En>
+          <Example>The movie was pretty good, though not perfect.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3942f640-48a5-48f2-b35e-fe37bd81f855">
+              <Vi>Khi muốn nói một điều gì đó tốt nhưng không xuất sắc, mang tính trung lập hoặc khiêm tốn.</Vi>
+              <En>When expressing something moderately good or satisfactory, but not outstanding—often used to soften a statement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
