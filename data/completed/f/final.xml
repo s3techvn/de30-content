@@ -1,0 +1,40 @@
+<Vocab id="04c96e4b-4301-46f7-8ecf-74f8dec866dd" word="final" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3494fdfd-0dca-435f-a528-1c2714b5c72f" ipa="/ˈfaɪ.nəl/" vi_ipa="fai-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8de36f51-d5d9-4605-b392-6a0a3eba9006" type="Adjective">
+          <Vi>cuối cùng, chung kết</Vi>
+          <En>coming at the end; last in a series; relating to the final stage or match of a competition.</En>
+          <Example>The final exam will be held next Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dbca6ca0-4062-4def-974f-6361932f12bb">
+              <Vi>Thi cuối kỳ hoặc sự kiện kết thúc một chuỗi hoạt động.</Vi>
+              <En>A test or event marking the conclusion of a course or competition series.</En>
+            </Situation>
+            <Situation id="fcde288f-4405-433c-93f0-a362fc636ec6">
+              <Vi>Trận chung kết một giải đấu thể thao.</Vi>
+              <En>The last and decisive match in a sports tournament.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
