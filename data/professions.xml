@@ -88,4 +88,7 @@
   <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" slug="civil-engineer" value="Civil Engineer" />
   <Profession id="f0a90d1d-3def-4e17-8a51-ccd453c0de08" slug="traffic-controller" value="Traffic Controller" />
   <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" slug="medical-professional" value="Medical Professional" />
+  <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" slug="data-scientist" value="Data Scientist" />
+  <Profession id="c09ef771-e05d-423a-aacc-1ba04f703054" slug="statistician" value="Statistician" />
+  <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" slug="financial-analyst" value="Financial Analyst" />
 </Professions>
