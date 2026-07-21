@@ -24,4 +24,6 @@
   <Profession id="3d59ad46-f8fe-40bf-b841-e03260c5ef5b" slug="housekeeper" value="Housekeeper" />
   <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" slug="doctor" value="Doctor" />
   <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" slug="biologist" value="Biologist" />
+  <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" slug="teacher" value="Teacher" />
+  <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" slug="linguist" value="Linguist" />
 </Professions>
