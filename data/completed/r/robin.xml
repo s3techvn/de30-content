@@ -1,0 +1,33 @@
+<Vocab id="67d6f0ab-6d80-4fc1-9137-cdbab2dea7f1" word="robin" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="26b29674-4a5d-42f8-9c0b-f82116c2cf89" value="Birdwatcher" />
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e9d863ab-7b17-4451-b701-24b41549d9e4" ipa="/ˈrɑː.bɪn/" vi_ipa="rờ-bín">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67e9872c-52bb-48eb-8a06-a592ccfc0842" type="Noun">
+          <Vi>chim chim sơn ca Mỹ (Turdus migratorius), loài chim phổ biến ở Bắc Mỹ, có ngực đỏ cam đặc trưng</Vi>
+          <En>a small, migratory songbird native to North America, known for its reddish-orange breast and cheerful song</En>
+          <Example>Every spring, the return of the robin signals the end of winter in many parts of the United States.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="89c2b48d-1f2e-4009-a909-e0f52fbe93de">
+              <Vi>Mô tả chim chim sơn ca Mỹ trong tự nhiên hoặc trong vườn nhà</Vi>
+              <En>Observing or describing the American robin in its natural habitat or garden setting</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
