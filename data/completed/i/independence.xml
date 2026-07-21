@@ -1,0 +1,40 @@
+<Vocab id="9790eeb6-93b5-4e15-9e69-8bdc2086be16" word="independence" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c2e52113-0417-4c4b-8fb3-e9611a8cbe05" ipa="/ˌɪn.dɪˈpen.dəns/" vi_ipa="in-đê-pen-dên-xơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fb8b5156-6bcd-4ca4-b954-b034fb2c03cb" type="Noun">
+          <Vi>Độc lập</Vi>
+          <En>The state of being independent, especially free from outside control or influence; self-governance.</En>
+          <Example>The declaration of independence marked the formal separation of the colonies from British rule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4c24569-e40f-475f-b5b4-6180bca0e649">
+              <Vi>Quốc gia tự quyết định chính sách nội ngoại mà không bị nước ngoài chi phối.</Vi>
+              <En>A nation making its own domestic and foreign policies without foreign interference.</En>
+            </Situation>
+            <Situation id="595c9d19-ae02-4f19-9194-c3840ed2d60d">
+              <Vi>Tâm lý hoặc khả năng tự lập, không phụ thuộc vào người khác.</Vi>
+              <En>Psychological or practical self-reliance; not depending on others for support or decision-making.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
