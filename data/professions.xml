@@ -133,4 +133,5 @@
   <Profession id="641fb810-6946-453d-bd23-e1a7bd607977" slug="courier" value="Courier" />
   <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" slug="construction-worker" value="Construction Worker" />
   <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" slug="healthcare-worker" value="Healthcare Worker" />
+  <Profession id="1434e391-54eb-4f44-b5c9-4986c1b6b0c9" slug="safety-officer" value="Safety Officer" />
 </Professions>

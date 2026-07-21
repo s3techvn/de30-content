@@ -1,0 +1,56 @@
+<Vocab id="fecc14fa-19df-41bd-830e-559ef5cc5faa" word="harm" type="short" status="done">
+  <Topics>
+    <Topic id="d378d72c-a798-4501-b0c2-b2db6bf64185" value="Health &amp; Safety" />
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="1434e391-54eb-4f44-b5c9-4986c1b6b0c9" value="Safety Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="54737864-a290-4745-aa46-30061263f649" ipa="/hɑːrm/" vi_ipa="ha-m">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0eba8db-4a6c-425a-a7ff-f3113aa41991" type="Verb">
+          <Vi>gây hại, làm tổn thương</Vi>
+          <En>to cause physical or emotional damage or suffering to someone or something</En>
+          <Example>Smoking can harm your lungs and heart.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3cdca76-cc70-4a7c-be18-b39759345fa7">
+              <Vi>Tình huống cảnh báo về tác động tiêu cực của thuốc lá.</Vi>
+              <En>A warning about the negative effects of smoking on health.</En>
+            </Situation>
+            <Situation id="95fca2ad-d64d-46a3-b0ff-80f013b8e213">
+              <Vi>Tình huống nói về hậu quả của hành vi bạo lực.</Vi>
+              <En>A discussion about the consequences of violent actions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e2ab4347-0d39-463b-82c6-342166525681" type="Noun">
+          <Vi>sự gây hại, tổn thương</Vi>
+          <En>physical or emotional damage or suffering</En>
+          <Example>He was released without causing any harm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de0e3623-8573-4c8e-bacf-627df3b5dce0">
+              <Vi>Tình huống báo cáo tai nạn không gây thương tích.</Vi>
+              <En>A report stating that an accident caused no injuries.</En>
+            </Situation>
+            <Situation id="e795b45d-6a28-4fc5-84df-1539b00fbb35">
+              <Vi>Tình huống đảm bảo an toàn trong môi trường làm việc.</Vi>
+              <En>A workplace safety briefing emphasizing prevention of harm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
