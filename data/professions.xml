@@ -69,4 +69,5 @@
   <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" slug="market-researcher" value="Market Researcher" />
   <Profession id="b60c5701-6ae0-4327-a366-dcf33c150b84" slug="social-scientist" value="Social Scientist" />
   <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" slug="urban-planner" value="Urban Planner" />
+  <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" slug="manager" value="Manager" />
 </Professions>
