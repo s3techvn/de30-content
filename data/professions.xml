@@ -77,4 +77,6 @@
   <Profession id="46bd54fe-39fb-4c81-ab49-ad9309fd8e18" slug="religious-scholar" value="Religious Scholar" />
   <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" slug="therapist" value="Therapist" />
   <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" slug="nurse" value="Nurse" />
+  <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" slug="chef" value="Chef" />
+  <Profession id="2cda5b8d-cf19-4c22-9593-aaac92a8c889" slug="petroleum-engineer" value="Petroleum Engineer" />
 </Professions>
