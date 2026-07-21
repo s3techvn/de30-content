@@ -1,0 +1,39 @@
+<Vocab id="33677411-87e9-4690-94b0-b95d034dce3a" word="eventually" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="2f98ccc0-1f7d-467d-ba79-58b4ab4362f1" value="Time &amp; Sequence" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fd5781f5-7b6e-45b2-8142-e8ec3225dfa6" ipa="/ɪˈven.tʃu.əl.i/" vi_ipa="i-vên-chu-ơ-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8d641032-10fb-4a4c-9c7b-019dcd3a9c5c" type="Adverb">
+          <Vi>cuối cùng, sau cùng, rốt cuộc</Vi>
+          <En>after a long time or after a series of events; finally</En>
+          <Example>We argued for hours, but eventually we agreed on a solution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4f24bac-988c-45b6-accb-97136abbc21b">
+              <Vi>Mô tả một kết quả xảy ra sau nhiều nỗ lực, thử thách, hoặc thời gian dài.</Vi>
+              <En>Describes an outcome that occurs after prolonged effort, delays, or a sequence of events.</En>
+            </Situation>
+            <Situation id="eb03086c-c1bd-447e-b521-6e91f1be5c15">
+              <Vi>Dùng khi dự đoán hoặc khẳng định điều gì đó chắc chắn sẽ xảy ra trong tương lai, dù không ngay lập tức.</Vi>
+              <En>Used when predicting or affirming that something will definitely happen in the future, even if not immediately.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
