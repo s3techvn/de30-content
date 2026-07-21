@@ -1,0 +1,37 @@
+<Vocab id="6ade8380-e4a7-4675-b6c7-b275ae3a3b3f" word="daisy" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d4a322a4-220b-4798-96d0-9f3f149b5255" ipa="/ˈdeɪ.zi/" vi_ipa="đê-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d165c2ce-a988-4196-bc75-7728b9dff250" type="Noun">
+          <Vi>Cây cúc đồng tiền; hoa cúc có cánh trắng và tâm vàng</Vi>
+          <En>A small white flower with a yellow center, commonly found in lawns and meadows.</En>
+          <Example>The garden was dotted with bright daisies after the spring rain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd006929-b39b-4300-a76b-c5fe6edf38f7">
+              <Vi>Mô tả một loài hoa dại phổ biến ở đồng cỏ, thường xuất hiện vào mùa xuân và hè.</Vi>
+              <En>Describing a common wildflower in meadows, typically appearing in spring and summer.</En>
+            </Situation>
+            <Situation id="5b202072-1f05-4809-8252-cb99a1704278">
+              <Vi>Trong văn học và thơ ca, hoa cúc đồng tiền thường tượng trưng cho sự ngây thơ và trong sáng.</Vi>
+              <En>In literature and poetry, the daisy often symbolizes innocence and purity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
