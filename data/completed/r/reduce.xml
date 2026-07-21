@@ -1,0 +1,50 @@
+<Vocab id="d076a1bc-6ef4-4e69-bc52-d457510aef89" word="reduce" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3df68bbc-54f8-47bd-88ae-7054fd85a648" ipa="/rɪˈdjuːs/" vi_ipa="rị-điu-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f9c0529-9034-4445-86e7-e5d0c9c8d23c" type="Verb">
+          <Vi>giảm, thu nhỏ, làm giảm bớt</Vi>
+          <En>to make something smaller in size, amount, or degree</En>
+          <Example>The company plans to reduce its carbon emissions by 30% by 2030.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="439784b1-8270-418d-b5de-4db6b81b539b">
+              <Vi>Giảm lượng thức ăn trong một công thức nấu ăn.</Vi>
+              <En>Decreasing the amount of ingredients in a recipe.</En>
+            </Situation>
+            <Situation id="539eb44b-951e-4f04-ac5f-58c67c60df58">
+              <Vi>Giảm chi phí hoặc thời gian thực hiện một dự án.</Vi>
+              <En>Lowering costs or shortening the time needed to complete a project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="acd9e1ca-2f73-4815-9ab6-aab4a6fd3fd4" type="Verb">
+          <Vi>đơn giản hóa, rút gọn (một biểu thức toán học hoặc phân số)</Vi>
+          <En>to simplify a mathematical expression or fraction</En>
+          <Example>Reduce the fraction 8/12 to its lowest terms: 2/3.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1537b2ec-8d5c-4897-9946-585231a5005b">
+              <Vi>Trong toán học, rút gọn phân số bằng cách chia cả tử và mẫu cho ước chung lớn nhất.</Vi>
+              <En>In mathematics, simplifying a fraction by dividing both numerator and denominator by their greatest common divisor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
