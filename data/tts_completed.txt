@@ -98,3 +98,4 @@ independence
 mature
 wealth
 caught
+emerald
