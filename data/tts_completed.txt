@@ -133,3 +133,4 @@ bias
 opportunity
 card
 translation
+collective
