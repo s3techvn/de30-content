@@ -1,0 +1,38 @@
+<Vocab id="601d8f37-d54c-4b8c-9b28-f75020149f3a" word="cisco" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="33c8c6eb-d672-461a-a30f-3e0e1246c47f" value="Network Engineer" />
+    <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" value="IT Administrator" />
+    <Profession id="ab57b45e-acd7-4aa8-8225-2106d029509f" value="Cybersecurity Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1748411d-f448-4d10-ba46-d530c8e4d7b9" ipa="/ˈsɪs.koʊ/" vi_ipa="xìt-scô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9b3b1880-285b-4ed6-9ecb-3130144e1798" type="Noun">
+          <Vi>Công ty Cisco Systems, một tập đoàn công nghệ đa quốc gia chuyên về mạng máy tính và truyền thông</Vi>
+          <En>A multinational technology corporation headquartered in San Jose, California, specializing in networking hardware, software, telecommunications equipment, and other high-technology services and products.</En>
+          <Example>Cisco routers are widely used in enterprise networks around the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b73bbec4-c684-49d3-a9c6-a1c1123f4cdd">
+              <Vi>Thảo luận về thiết bị mạng như switch, router, hoặc giải pháp bảo mật doanh nghiệp</Vi>
+              <En>Discussing enterprise networking equipment such as switches, routers, or security solutions</En>
+            </Situation>
+            <Situation id="6e87b7c6-5bd4-47dc-9292-4cc8c19dfdcd">
+              <Vi>Đề cập đến chứng chỉ chuyên môn như CCNA, CCNP trong lĩnh vực mạng</Vi>
+              <En>Referring to professional certifications such as CCNA or CCNP in networking</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

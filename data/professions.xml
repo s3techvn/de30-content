@@ -194,4 +194,7 @@
   <Profession id="60aefeb2-4d29-434b-8ef8-40d5a23306f6" slug="craftsperson" value="Craftsperson" />
   <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" slug="surgeon" value="Surgeon" />
   <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" slug="network-administrator" value="Network Administrator" />
+  <Profession id="33c8c6eb-d672-461a-a30f-3e0e1246c47f" slug="network-engineer" value="Network Engineer" />
+  <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" slug="it-administrator" value="IT Administrator" />
+  <Profession id="ab57b45e-acd7-4aa8-8225-2106d029509f" slug="cybersecurity-specialist" value="Cybersecurity Specialist" />
 </Professions>
