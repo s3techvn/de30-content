@@ -1,0 +1,52 @@
+<Vocab id="1a5175d7-8dd4-4a3c-8e86-5cf095cdc5b9" word="calling" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+    <Topic id="1b134c68-e9e9-4246-8c92-57695307130c" value="Religion &amp; Spirituality" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a4519a8b-9952-485e-aebe-3460829f8fd6" ipa="/ˈkɔːl.ɪŋ/" vi_ipa="cờ-linh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bb9736eb-d640-4978-96fc-afbaec742941" type="Noun">
+          <Vi>Nghề nghiệp; công việc mà một người cảm thấy được kêu gọi làm (đặc biệt do niềm tin tôn giáo hoặc đam mê sâu sắc)</Vi>
+          <En>A particular occupation, profession, or vocation to which a person feels specially drawn or called, especially by religious conviction or a strong personal sense of purpose.</En>
+          <Example>After years of doubt, she finally embraced her calling as a nurse.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="09b353f1-8830-4db4-902a-0df106b1cc03">
+              <Vi>Một người cảm thấy có sứ mệnh hoặc đam mê mãnh liệt với một nghề nghiệp, thường vượt lên trên lợi ích vật chất.</Vi>
+              <En>A person feels a deep inner conviction or passion toward a specific career, often prioritizing it over financial gain.</En>
+            </Situation>
+            <Situation id="7dd27d61-1742-43fc-bf93-a41c205dd796">
+              <Vi>Trong bối cảnh tôn giáo, tiếng gọi thiêng liêng để phục vụ Chúa hoặc cộng đồng.</Vi>
+              <En>In a religious context, a divine summons to serve God or the community, such as becoming a priest or missionary.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fdcd310f-1780-4ba3-a83b-4b848199d1b3" type="Noun">
+          <Vi>Cuộc gọi điện thoại</Vi>
+          <En>A telephone call, especially a short or informal one.</En>
+          <Example>She stepped away to take an urgent calling from her boss.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee927eb6-4aec-4eea-88c6-fa35a69da0a7">
+              <Vi>Tình huống nhận hoặc thực hiện một cuộc gọi điện thoại trong công việc hoặc đời sống hàng ngày.</Vi>
+              <En>A situation where someone receives or makes a phone call during work or daily communication.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
