@@ -1,0 +1,32 @@
+<Vocab id="bc85cd8c-c74c-4b0f-a188-9e9967e80e7c" word="watched" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="f7fbee4d-bb78-4bae-80ed-ad1f9c8acd24" value="Film Critic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e3a5a828-79b4-4e6b-8e66-ea99759e3f3e" ipa="/wɑːtʃt/" vi_ipa="uôt-ch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="933c75cf-1b84-4819-8683-a7aef716be5a" type="Verb">
+          <Vi>xem</Vi>
+          <En>to look at something, especially for a period of time</En>
+          <Example>I watched the movie last night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56c6644d-9567-4c9a-a1c4-29b426bd070c">
+              <Vi>Xem phim trên TV</Vi>
+              <En>Watching a movie on TV</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
