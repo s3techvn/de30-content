@@ -61,4 +61,6 @@
   <Profession id="52e96840-b40d-4899-acca-455cc3161b5e" slug="antique-dealer" value="Antique Dealer" />
   <Profession id="f7fbee4d-bb78-4bae-80ed-ad1f9c8acd24" slug="film-critic" value="Film Critic" />
   <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" slug="poet" value="Poet" />
+  <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" slug="electrician" value="Electrician" />
+  <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" slug="sports-coach" value="Sports Coach" />
 </Professions>
