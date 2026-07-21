@@ -40,4 +40,6 @@
   <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" slug="environmental-scientist" value="Environmental Scientist" />
   <Profession id="40c410a0-61db-4d20-87ec-be195d262433" slug="hiker" value="Hiker" />
   <Profession id="52153738-4ef9-4133-9983-373a829510d5" slug="baker" value="Baker" />
+  <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" slug="journalist" value="Journalist" />
+  <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" slug="political-scientist" value="Political Scientist" />
 </Professions>
