@@ -105,4 +105,6 @@
   <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" slug="event-planner" value="Event Planner" />
   <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" slug="customer-service-representative" value="Customer Service Representative" />
   <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" slug="sociologist" value="Sociologist" />
+  <Profession id="01ee4126-42a6-411f-b8f4-6b18d4011725" slug="computer-scientist" value="Computer Scientist" />
+  <Profession id="6301697c-ce7b-4366-9a6d-5c909a464390" slug="hardware-technician" value="Hardware Technician" />
 </Professions>
