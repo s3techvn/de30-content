@@ -27,4 +27,6 @@
   <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" slug="teacher" value="Teacher" />
   <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" slug="linguist" value="Linguist" />
   <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" slug="tour-guide" value="Tour Guide" />
+  <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" slug="military-officer" value="Military Officer" />
+  <Profession id="7e4de0dd-cfa0-42be-9bb2-750a0c9af464" slug="sailor" value="Sailor" />
 </Professions>
