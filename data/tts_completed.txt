@@ -132,3 +132,4 @@ kevin
 bias
 opportunity
 card
+translation
