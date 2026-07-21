@@ -101,4 +101,7 @@
   <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" slug="general" value="General" />
   <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" slug="public-health-official" value="Public Health Official" />
   <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" slug="diplomat" value="Diplomat" />
+  <Profession id="b214c948-1931-40f4-9cdb-8701d2eaec15" slug="hotel-staff" value="Hotel Staff" />
+  <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" slug="event-planner" value="Event Planner" />
+  <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" slug="customer-service-representative" value="Customer Service Representative" />
 </Professions>
