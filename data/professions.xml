@@ -111,4 +111,7 @@
   <Profession id="43fb34db-bdee-4ed3-b20d-4df067bfb70f" slug="data-protection-officer" value="Data Protection Officer" />
   <Profession id="391eda84-c02f-4e03-9a2e-c41c23e55236" slug="personal-trainer" value="Personal Trainer" />
   <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" slug="investor" value="Investor" />
+  <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" slug="judge" value="Judge" />
+  <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" slug="public-speaker" value="Public Speaker" />
+  <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" slug="translator" value="Translator" />
 </Professions>
