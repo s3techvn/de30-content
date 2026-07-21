@@ -1,0 +1,40 @@
+<Vocab id="3e81a847-23ec-4c9d-9b9f-bd1c3d1b1b69" word="proved" type="short" status="done">
+  <Topics>
+    <Topic id="0d1a8e53-0c55-4eb3-9c70-8ca4c6934c22" value="Science and Logic" />
+    <Topic id="6a9a32a9-ba75-4723-b53b-56b02edd3615" value="Law and Justice" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14fd25f4-aa18-4d91-a4c2-b46e7656f066" ipa="/pruːvd/" vi_ipa="pru-vợt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e1faa398-615c-45f6-8cda-3d909d65e60e" type="Adjective">
+          <Vi>đã được chứng minh; đã được xác minh là đúng</Vi>
+          <En>shown to be true or correct through evidence or reasoning</En>
+          <Example>The scientist presented data that proved the hypothesis correct.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b923ee8a-4dde-4c0a-a79f-8d98a3c01a6c">
+              <Vi>Trong một bài báo khoa học, tác giả trình bày bằng chứng đã chứng minh một giả thuyết.</Vi>
+              <En>In a scientific paper, the author presents evidence that has proven a hypothesis correct.</En>
+            </Situation>
+            <Situation id="0f79bbaf-9d3a-4b25-85cc-204006eb002e">
+              <Vi>Trong phiên tòa, bị cáo đã được chứng minh là vô tội nhờ bằng chứng ADN.</Vi>
+              <En>In court, the defendant was proven innocent thanks to DNA evidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
