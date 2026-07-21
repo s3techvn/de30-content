@@ -1,0 +1,57 @@
+<Vocab id="4cfda0c7-3715-47c1-b72e-0f6a6d51798c" word="specialist" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be5a24e1-2273-4cb5-b2f2-6e9fe6c68218" ipa="/ˈspeʃ.əl.ɪst/" vi_ipa="sờ-pi-át-sờ-tí-st">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="918d6d0f-dc4a-4931-8769-995944c42ab5" type="Noun">
+          <Vi>Bác sĩ chuyên khoa; chuyên gia</Vi>
+          <En>A person who has extensive knowledge or skill in a particular area, especially medicine.</En>
+          <Example>She consulted a specialist in pediatric cardiology.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7eed510-e243-459a-b6c8-a7dfc570b821">
+              <Vi>Bệnh nhân được giới thiệu đến bác sĩ chuyên khoa tim mạch cho trẻ em.</Vi>
+              <En>The patient was referred to a pediatric cardiology specialist.</En>
+            </Situation>
+            <Situation id="7092b10a-0249-4420-9595-f8935f0f97ba">
+              <Vi>Anh ấy là chuyên gia về trí tuệ nhân tạo tại một công ty công nghệ.</Vi>
+              <En>He is a specialist in artificial intelligence at a tech company.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7c4441b2-8e62-4944-a3b9-558c883b3012" type="Adjective">
+          <Vi>Chuyên khoa; chuyên sâu; đặc biệt</Vi>
+          <En>Relating to or denoting a specialized field of knowledge, activity, or profession.</En>
+          <Example>The hospital has a specialist unit for burn victims.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d01d8ce-d3bc-471d-af44-3e61398aeec9">
+              <Vi>Chương trình đào tạo chuyên sâu về an ninh mạng.</Vi>
+              <En>A specialist training program in cybersecurity.</En>
+            </Situation>
+            <Situation id="c0449d03-fc1a-4f3f-a357-cefa3da8aa1f">
+              <Vi>Cửa hàng bán đồ chuyên dụng cho thợ săn.</Vi>
+              <En>A store selling specialist gear for hunters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
