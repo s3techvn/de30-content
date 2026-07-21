@@ -1,2 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
-<Topics><Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" slug="business" value="Business" /><Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" slug="technology" value="Technology" /><Topic id="04d51715-6e34-40ad-837f-37305e4054d6" slug="daily-life" value="Daily Life" /><Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" slug="literature" value="Literature" /><Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" slug="religion" value="Religion" /></Topics>
+<Topics>
+  <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" slug="business" value="Business" />
+  <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" slug="technology" value="Technology" />
+  <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" slug="daily-life" value="Daily Life" />
+  <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" slug="literature" value="Literature" />
+  <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" slug="religion" value="Religion" />
+</Topics>
