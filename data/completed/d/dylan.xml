@@ -1,0 +1,38 @@
+<Vocab id="89fc04d2-01a2-4fa2-947f-8439cb9b1351" word="dylan" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="86beecb2-ec7a-4b3c-9834-bed2022ac6b0" value="Songwriter" />
+    <Profession id="40212f6a-73bb-43c9-a27c-ecd362b229b8" value="Nobel Laureate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3fd2edd7-b353-47b9-862b-f71dcaaad3a5" ipa="/ˈdɪl.ən/" vi_ipa="đi-lân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89aa0cfc-348a-44fc-9e09-3d955863380f" type="Proper Noun">
+          <Vi>Tên riêng, họ và tên của ca sĩ, nhạc sĩ, nhà thơ người Mỹ Bob Dylan (sinh năm 1941), người từng đoạt giải Nobel Văn học năm 2016.</Vi>
+          <En>A proper noun referring to Bob Dylan (born 1941), the American singer-songwriter, poet, and Nobel Prize winner in Literature (2016).</En>
+          <Example>Bob Dylan’s lyrics often reflect social and political themes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9ff2cf4-b60c-4e10-a16a-2a1548c8d625">
+              <Vi>Nghe bài hát của Bob Dylan trên radio hoặc trong phim tài liệu về nhạc dân gian Mỹ.</Vi>
+              <En>Listening to Bob Dylan’s songs on the radio or in a documentary about American folk music.</En>
+            </Situation>
+            <Situation id="b9b88766-04b4-4808-89b6-64ed00a98bd7">
+              <Vi>Đọc thơ hoặc bài luận của Bob Dylan trong lớp văn học hiện đại.</Vi>
+              <En>Reading Bob Dylan’s poetry or essays in a modern literature class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
