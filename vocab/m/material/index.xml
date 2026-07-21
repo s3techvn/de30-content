@@ -1,0 +1,83 @@
+<Vocab id="33468b52-6830-431f-ac89-59c6ef9e1a73" word="material" type="short" status="done">
+  <Topics>
+    <Topic id="f33fb4ac-e3a7-4ec1-89ab-a7aed895e5c4" value="Science &amp; Engineering" />
+    <Topic id="7a397ffc-631c-4c4b-8714-c1415d192a9e" value="Fashion &amp; Design" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9083fbb3-2e94-442e-b19c-a576392ebf6c" ipa="/məˈtɪə.ri.əl/" vi_ipa="mơ-ti-ơ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a39eb881-1c86-4503-81c3-f33677fdde70" type="Noun">
+          <Vi>vật liệu; chất liệu</Vi>
+          <En>Physical substance from which things can be made, especially when considered in terms of its properties or origin.</En>
+          <Example>The architect selected sustainable materials for the eco-friendly building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d14be0d-4e98-426c-80ed-d1b51fed6179">
+              <Vi>Ngành xây dựng sử dụng bê tông, thép, và gỗ làm vật liệu chính.</Vi>
+              <En>In construction, concrete, steel, and wood are used as primary materials.</En>
+            </Situation>
+            <Situation id="6e45d6d6-b9d5-49ce-a374-3b1905d2fad9">
+              <Vi>Các nhà thiết kế thời trang chọn chất liệu phù hợp cho từng mùa.</Vi>
+              <En>Fashion designers choose suitable fabrics for each season.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="54cc1bd3-125e-4492-bdf9-d4123d71349f" type="Adjective">
+          <Vi>vật chất; liên quan đến vật chất</Vi>
+          <En>Relating to physical matter, as opposed to the spiritual or intellectual; substantial or important.</En>
+          <Example>She prioritized material comfort over abstract ideals.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fe910368-9342-4a82-bd28-f0dfbe0e6762">
+              <Vi>Sự phân biệt giữa vật chất và tinh thần là chủ đề triết học cổ điển.</Vi>
+              <En>The distinction between material and spiritual is a classical philosophical topic.</En>
+            </Situation>
+            <Situation id="28b46e4c-3265-4470-a4f4-5727b4f18fe0">
+              <Vi>Anh ấy quá coi trọng vật chất mà bỏ qua giá trị tinh thần.</Vi>
+              <En>He values material things too much while neglecting spiritual values.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="7b8e6b69-ff9a-4eff-83b9-9f1eacc2891d" ipa="/ˈmeɪ.tə.ri.əl/" vi_ipa="mê-ti-ơ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ebb2fc65-a4e4-47ce-bbd7-a325a7012aeb" type="Noun">
+          <Vi>vật liệu; chất liệu (trong nghệ thuật, văn học)</Vi>
+          <En>The substance or medium used in a creative work, such as paint for a painting or words for a literary piece.</En>
+          <Example>The artist’s choice of material—recycled metal—gave the sculpture a unique texture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53edad6d-0b98-439a-902a-0e2b03df1b0e">
+              <Vi>Nhà văn sử dụng ngôn ngữ làm chất liệu chính để truyền tải ý tưởng.</Vi>
+              <En>The writer uses language as the primary material to convey ideas.</En>
+            </Situation>
+            <Situation id="f57979bf-47b5-45bf-b2f4-b2b59efb9417">
+              <Vi>Chất liệu trong điêu khắc có thể là đá, đồng, hoặc đất sét.</Vi>
+              <En>The material in sculpture can be stone, bronze, or clay.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
