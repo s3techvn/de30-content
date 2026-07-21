@@ -211,4 +211,5 @@
   <Profession id="b0581a69-f212-431d-bc24-7eabb4244f78" slug="journalist-(war-correspondent)" value="Journalist (War Correspondent)" />
   <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" slug="physicist" value="Physicist" />
   <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" slug="any" value="Any" />
+  <Profession id="f709fa4d-125b-445b-992e-0f910d565398" slug="actuary" value="Actuary" />
 </Professions>
