@@ -1,0 +1,38 @@
+<Vocab id="d0d98cfe-b1d7-4fe8-b335-831ff4e60d47" word="boots" type="short" status="done">
+  <Topics>
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="e1f6228c-e83f-406a-bd93-48e6421e375b" value="Outdoor Activities" />
+  </Topics>
+  <Professions>
+    <Profession id="40c410a0-61db-4d20-87ec-be195d262433" value="Hiker" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dceba369-f7ba-4ef8-aa10-61ab782ba067" ipa="/buːts/" vi_ipa="bút">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8b88a3ba-6142-461a-af42-b3baf57db1e8" type="Noun">
+          <Vi>giày bốt</Vi>
+          <En>footwear covering the foot and ankle, often extending partway up the leg</En>
+          <Example>She wore sturdy boots for hiking in the mountains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0db189cb-dd82-4198-aff1-5b6eb3136967">
+              <Vi>Đi bộ đường dài</Vi>
+              <En>Hiking</En>
+            </Situation>
+            <Situation id="4bb0ecd8-ed17-4101-bf80-ca6dcb610b7f">
+              <Vi>Thời tiết lạnh</Vi>
+              <En>Cold weather</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

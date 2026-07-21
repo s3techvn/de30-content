@@ -1,0 +1,46 @@
+<Vocab id="539f2b94-666d-4266-8025-14e6004e946e" word="relation" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0b8e36d8-b7ad-4dbb-a83a-38d3cacaf3e5" ipa="/rɪˈleɪ.ʃən/" vi_ipa="rì-lê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa05dd8a-8458-401e-8fb3-bbccc3793bd8" type="Noun">
+          <Vi>Quan hệ</Vi>
+          <En>A connection or association between people, groups, or things.</En>
+          <Example>She explored the relation between diet and heart disease.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f1b2cbe-0f88-4830-bc28-f74f7d244453">
+              <Vi>Mô tả mối liên kết giữa các cá nhân, tổ chức, hoặc khái niệm.</Vi>
+              <En>Describing how individuals, organizations, or concepts are connected.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dfc87938-dd6a-4379-9f2c-d8ede4cbccf5" type="Noun">
+          <Vi>Mối quan hệ tình cảm (thường dùng trong số ít)</Vi>
+          <En>A romantic or sexual relationship, especially one that is not publicly acknowledged.</En>
+          <Example>There were rumors of a relation between the two executives.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d828561a-a513-4edb-810b-680984a084be">
+              <Vi>Dùng để nói về mối quan hệ yêu đương, thường mang tính riêng tư hoặc bí mật.</Vi>
+              <En>Used to refer to a romantic or intimate relationship, often private or discreet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

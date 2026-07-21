@@ -1,0 +1,40 @@
+<Vocab id="5c5a2f88-ea72-479d-869a-f059637af03d" word="enable" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="e0e9ba2e-05bb-40b7-9129-7b17196ca3a7" value="Customer Support Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3fd4c223-601f-46ee-9170-e421448441a7" ipa="/ɪˈneɪ.bəl/" vi_ipa="i-nê-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35628f8f-1065-4f2f-9a94-b13f3bd659ab" type="Verb">
+          <Vi>cho phép, kích hoạt, làm cho có thể</Vi>
+          <En>to make something possible or available; to provide the means or opportunity for something</En>
+          <Example>Click the button to enable the new feature.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39afbce7-6126-468a-a40a-059eca5eed91">
+              <Vi>Trong phần mềm, kích hoạt một tính năng mới sau khi cài đặt.</Vi>
+              <En>In software, activating a new feature after installation.</En>
+            </Situation>
+            <Situation id="94dbd27e-09a6-4926-b0ce-49a70e644c8a">
+              <Vi>Chính phủ ban hành luật đểenable tiếp cận giáo dục cho trẻ em nghèo.</Vi>
+              <En>The government enacts laws to enable access to education for underprivileged children.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

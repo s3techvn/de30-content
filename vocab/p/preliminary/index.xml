@@ -1,0 +1,34 @@
+<Vocab id="718a5b6f-b91a-41d9-9415-06fa727a9aa9" word="preliminary" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6de1a76b-a9ad-4b27-80f0-752cd7746597" ipa="/prɪˈlɪm.ə.nɛr.i/" vi_ipa="prê-li-mi-nơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0a0e2bf2-fd45-42ea-a303-fead1c909c60" type="Adjective">
+          <Vi>ban đầu, sơ bộ</Vi>
+          <En>existing or happening before something else; preliminary</En>
+          <Example>The company conducted preliminary research to assess market demand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ff72c725-89eb-47ca-9d62-9f4bc232ed14">
+              <Vi>Thảo luận về một dự án mới</Vi>
+              <En>Discussing a new project</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

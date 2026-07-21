@@ -1,0 +1,38 @@
+<Vocab id="e3b835b0-4704-487a-a7d5-b330d2d6d918" word="pendant" type="short" status="done">
+  <Topics>
+    <Topic id="33dd8324-d1ab-4c5d-b271-8e1f4e4f363b" value="Fashion &amp; Accessories" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b9f77890-607a-47e9-8ebf-9bc79f6c562a" ipa="/ˈpæn.dənt/" vi_ipa="pan-dơnt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="500f0be4-c388-49a2-aa21-c2e9d2f67ff8" type="Noun">
+          <Vi>Mặt dây chuyền</Vi>
+          <En>A piece of jewelry that hangs from a necklace, often decorative or symbolic.</En>
+          <Example>She wore a gold pendant shaped like a heart.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a733efb7-3d44-4df1-805e-d88d51d19c27">
+              <Vi>Một người phụ nữ đeo mặt dây chuyền trên cổ.</Vi>
+              <En>A woman wearing a pendant on her necklace.</En>
+            </Situation>
+            <Situation id="7bd2f48a-b185-4f8d-ad62-6812d91d9b13">
+              <Vi>Mặt dây chuyền có thể được làm từ kim loại, đá quý, hoặc gốm sứ.</Vi>
+              <En>Pendants can be made of metal, gemstones, or ceramic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

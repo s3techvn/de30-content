@@ -1,0 +1,52 @@
+<Vocab id="9299a92b-2204-4762-9bfd-3fbe76d94145" word="dog" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+    <Profession id="6f3c9e4c-d565-473b-9c15-60a005e33fe7" value="Dog Trainer" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="91d40be4-8132-4831-95b3-c331f413324d" ipa="/dɔɡ/" vi_ipa="đốc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c7892ea4-54b6-4036-86e5-bf6fc4e62df3" type="Noun">
+          <Vi>con chó</Vi>
+          <En>A domesticated carnivorous mammal that typically barks and is kept as a pet or for work.</En>
+          <Example>My dog loves to chase squirrels in the park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db2e89f1-a08b-4489-9b19-429b6437b871">
+              <Vi>Người nuôi chó đi dạo cùng thú cưng mỗi sáng.</Vi>
+              <En>A person walks their pet dog every morning.</En>
+            </Situation>
+            <Situation id="831f997e-158e-4611-8c7f-e559bae30e1a">
+              <Vi>Một chú chó nghiệp vụ giúp cảnh sát tìm người mất tích.</Vi>
+              <En>A police dog helps officers locate missing persons.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e3ca32d8-f382-4f34-8be3-baf24d9061d5" type="Noun">
+          <Vi>người khinh thường, kẻ đáng ghét (từ lóng)</Vi>
+          <En>A contemptible or unpleasant person (slang, often used informally or pejoratively).</En>
+          <Example>He’s such a dog when he’s stressed—he snaps at everyone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ec0ea98-ffd6-49f3-8a33-3bf0fcb1b68d">
+              <Vi>Người bạn chê bai bạn mình vì hành vi thô lỗ.</Vi>
+              <En>A friend calls another friend a “dog” after they behave rudely.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

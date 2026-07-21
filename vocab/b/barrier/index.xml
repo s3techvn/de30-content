@@ -1,0 +1,56 @@
+<Vocab id="43b6158d-c1ed-44dd-8c28-45c69112460b" word="barrier" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="f0a90d1d-3def-4e17-8a51-ccd453c0de08" value="Traffic Controller" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f8487a3-6041-4b5a-9b19-65ec8e701b8d" ipa="/ˈbær.i.ɚ/" vi_ipa="bà-rơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d22ff32-610a-44d8-9d19-c14cc9f6019d" type="Noun">
+          <Vi>Vật cản; rào chắn; hàng rào</Vi>
+          <En>A physical obstacle that prevents or hinders movement or progress.</En>
+          <Example>The fallen tree created a barrier on the road, causing a major traffic jam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b3e76448-0100-400d-9eb0-17e104603e93">
+              <Vi>Hàng rào chắn đường hoặc vật cản trên đường gây tắc nghẽn.</Vi>
+              <En>A physical object blocking a road or path, obstructing passage.</En>
+            </Situation>
+            <Situation id="13fccd3f-1197-4e60-b851-9eaebbc7a1e4">
+              <Vi>Hàng rào an toàn trong bệnh viện ngăn người không được phép vào khu vực nguy hiểm.</Vi>
+              <En>A safety fence in a hospital prevents unauthorized access to hazardous areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="582a26b7-5e33-4d7a-9c1e-7f44a736b233" type="Noun">
+          <Vi>Rào cản (về mặt tâm lý, xã hội, ngôn ngữ); trở ngại</Vi>
+          <En>An abstract obstacle that prevents communication, understanding, or progress.</En>
+          <Example>Language is often a barrier to effective international collaboration.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="92b50d66-8962-4430-a062-b99befc347d6">
+              <Vi>Sự khác biệt về văn hóa tạo ra rào cản giao tiếp giữa hai quốc gia.</Vi>
+              <En>Cultural differences create a communication barrier between two countries.</En>
+            </Situation>
+            <Situation id="a01e7074-63e7-4397-b748-5fa45199c755">
+              <Vi>Nỗi sợ bị từ chối là một rào cản lớn trong việc xây dựng mối quan hệ mới.</Vi>
+              <En>Fear of rejection is a major barrier to forming new relationships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
