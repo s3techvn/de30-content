@@ -1,0 +1,44 @@
+<Vocab id="subscription" word="subscription" type="noun" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="17035196-c4c0-4b36-8986-2e198d6b3085" ipa="/səbˈskrɪp.ʃən/" vi_ipa="sấp-skờ-ríp-shừn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="03f8d87b-78e2-476d-83ce-e56e0594b3d1" type="Noun">
+          <Vi>Sự đăng ký mua/sử dụng định kỳ, thuê bao (dịch vụ, báo chí, phần mềm)</Vi>
+          <En>An agreement to pay a sum of money regularly (monthly or annually) to receive a product, service, or access to a platform.</En>
+          <Example>I decided to cancel my Netflix subscription because I don't have much time to watch TV anymore.</Example>
+        </Meaning>
+        <Meaning id="3fec68e1-5f96-4a8a-87c4-916fcadee6ac" type="Noun">
+          <Vi>Số tiền đóng góp, tiền hội phí (trả định kỳ cho một tổ chức, câu lạc bộ)</Vi>
+          <En>A sum of money paid regularly to be a member of an organization or to support a cause.</En>
+          <Example>The annual subscription for the golf club membership is due next week.</Example>
+        </Meaning>
+      </Meanings>
+      <Situations>
+        <Situation id="c496e17c-e6c0-4d9e-a5d3-4ef75d5ef20b">
+          <Vi>Đăng ký dịch vụ xem phim trực tuyến.</Vi>
+          <En>Subscribing to an online streaming service.</En>
+        </Situation>
+        <Situation id="89824844-5d1b-441e-8d09-1609fa22721b">
+          <Vi>Quản lý chi phí phần mềm doanh nghiệp theo mô hình SaaS.</Vi>
+          <En>Managing enterprise software costs under a SaaS subscription model.</En>
+        </Situation>
+      </Situations>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
