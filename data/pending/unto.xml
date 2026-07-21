@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Vocab id="unto" word="unto" type="preposition" status="done">
+<Vocab id="unto" word="unto" type="preposition" status="pending">
   <Topics>
     <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
     <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
@@ -30,7 +30,10 @@
         </Meaning>
       </Meanings>
       <Situations>
-        <Situation id="02237a4f-4e3a-4ffb-9c2b-790d7b0bd07e">Thường gặp trong các văn bản cổ, Kinh Thánh, tác phẩm văn học cổ điển hoặc thơ ca để tạo sắc thái trang trọng, cổ kính.</Situation>
+        <Situation id="02237a4f-4e3a-4ffb-9c2b-790d7b0bd07e">
+          <Vi>...</Vi>
+          <En>...</En>
+        </Situation>
       </Situations>
     </Pronunciation>
   </Pronunciations>

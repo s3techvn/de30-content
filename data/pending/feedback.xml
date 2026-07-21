@@ -21,7 +21,10 @@
         </Meaning>
       </Meanings>
       <Situations>
-        <Situation id="__UUID__">...</Situation>
+        <Situation id="__UUID__">
+          <Vi>...</Vi>
+          <En>...</En>
+        </Situation>
       </Situations>
     </Pronunciation>
   </Pronunciations>

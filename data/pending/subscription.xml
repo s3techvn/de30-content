@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<Vocab id="subscription" word="subscription" type="subscription" status="done">
+<Vocab id="subscription" word="subscription" type="subscription" status="pending">
   <Topics>
     <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
     <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
@@ -31,8 +31,14 @@
         </Meaning>
       </Meanings>
       <Situations>
-        <Situation id="ee6a5a2b-0330-4ea6-844c-6dfbad19d9c0">Dùng khi nói về việc đăng ký và trả phí định kỳ cho các dịch vụ giải trí, phần mềm công nghệ (SaaS), hoặc báo chí.</Situation>
-        <Situation id="c1dc9ffd-cd11-4b64-840b-40bcc0018efa">Dùng trong lĩnh vực tài chính hoặc quản lý câu lạc bộ khi đề cập đến phí thành viên đóng theo định kỳ.</Situation>
+        <Situation id="ee6a5a2b-0330-4ea6-844c-6dfbad19d9c0">
+          <Vi>...</Vi>
+          <En>...</En>
+        </Situation>
+        <Situation id="c1dc9ffd-cd11-4b64-840b-40bcc0018efa">
+          <Vi>...</Vi>
+          <En>...</En>
+        </Situation>
       </Situations>
     </Pronunciation>
   </Pronunciations>
