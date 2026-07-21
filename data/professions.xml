@@ -38,4 +38,5 @@
   <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" slug="lawyer" value="Lawyer" />
   <Profession id="93e71c64-22e2-45bf-bc79-4d0397a6b438" slug="toxicologist" value="Toxicologist" />
   <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" slug="environmental-scientist" value="Environmental Scientist" />
+  <Profession id="40c410a0-61db-4d20-87ec-be195d262433" slug="hiker" value="Hiker" />
 </Professions>
