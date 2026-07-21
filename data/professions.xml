@@ -10,4 +10,6 @@
   <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" slug="logistics-coordinator" value="Logistics Coordinator" />
   <Profession id="dab2219c-841e-435d-947c-bd8ffbb5526d" slug="supply-chain-manager" value="Supply Chain Manager" />
   <Profession id="18a69abd-6d6d-452d-a718-363136b8b071" slug="warehouse-worker" value="Warehouse Worker" />
+  <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" slug="real-estate-agent" value="Real Estate Agent" />
+  <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" slug="travel-agent" value="Travel Agent" />
 </Professions>
