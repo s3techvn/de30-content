@@ -209,4 +209,5 @@
   <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" slug="driver" value="Driver" />
   <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" slug="military-strategist" value="Military Strategist" />
   <Profession id="b0581a69-f212-431d-bc24-7eabb4244f78" slug="journalist-(war-correspondent)" value="Journalist (War Correspondent)" />
+  <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" slug="physicist" value="Physicist" />
 </Professions>

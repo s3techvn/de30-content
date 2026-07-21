@@ -1,0 +1,40 @@
+<Vocab id="37a81e50-b980-4e4d-bb83-bf08db8db777" word="infinite" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b222527-adb2-4fc5-95da-6c6a7656e571" ipa="/ˈɪn.fə.nət/" vi_ipa="in-fơ-nơt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1c03e061-72c3-49df-b6cc-166e1947ca63" type="Adjective">
+          <Vi>vô hạn; vô cùng; vô tận</Vi>
+          <En>without limit or boundary; immeasurably great or extensive</En>
+          <Example>The universe may be infinite in size, with no edge or boundary.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ae3158f-5f16-4905-98a8-c5562e0c3561">
+              <Vi>Mô tả điều gì đó không có giới hạn về không gian, thời gian, hoặc số lượng.</Vi>
+              <En>Describing something that has no limit in space, time, or quantity.</En>
+            </Situation>
+            <Situation id="3537223e-4b7b-4bdb-ae8c-36d5d6987df0">
+              <Vi>Sử dụng trong toán học để chỉ tập hợp có số phần tử không đếm được (như tập số thực).</Vi>
+              <En>Used in mathematics to describe a set with an uncountable number of elements (e.g., the set of real numbers).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
