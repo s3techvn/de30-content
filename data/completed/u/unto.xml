@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Vocab id="unto" word="unto" type="preposition" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a19cce5b-f37a-445c-b679-209780990899" ipa="/ˈʌn.tuː/" vi_ipa="ân-tu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fa7cc8ae-b5c6-438c-acd3-1e3bffa2d084" type="Preposition">
+          <Vi>tới, đến, cho (tương đương với "to" trong tiếng Anh hiện đại)</Vi>
+          <En>To (used in archaic, poetic, or religious contexts to express direction, recipient, or relation).</En>
+          <Example>Render unto Caesar the things which are Caesar's.</Example>
+        </Meaning>
+        <Meaning id="9cc105fe-664f-4882-a54f-43fb26711187" type="Preposition">
+          <Vi>cho đến, cho tới (tương đương với "until")</Vi>
+          <En>Until (up to a particular time or event).</En>
+          <Example>He remained faithful unto death.</Example>
+        </Meaning>
+      </Meanings>
+      <Situations>
+        <Situation id="02237a4f-4e3a-4ffb-9c2b-790d7b0bd07e">Thường gặp trong các văn bản cổ, Kinh Thánh, tác phẩm văn học cổ điển hoặc thơ ca để tạo sắc thái trang trọng, cổ kính.</Situation>
+      </Situations>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
