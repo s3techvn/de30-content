@@ -26,4 +26,7 @@
   <Topic id="0f6bec84-7965-4717-8b83-21192946653b" slug="science" value="Science" />
   <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" slug="art-&amp;-design" value="Art &amp; Design" />
   <Topic id="4c122ed5-401b-4af0-91ef-b1d199a02a8d" slug="home-improvement" value="Home Improvement" />
+  <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" slug="finance" value="Finance" />
+  <Topic id="d007bab6-2e85-4def-9492-4e2111bda03a" slug="insurance" value="Insurance" />
+  <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" slug="law" value="Law" />
 </Topics>

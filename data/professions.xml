@@ -33,4 +33,7 @@
   <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" slug="scientist" value="Scientist" />
   <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" slug="interior-designer" value="Interior Designer" />
   <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" slug="architect" value="Architect" />
+  <Profession id="23c8f626-3388-47aa-acba-aea5fe5f5a0d" slug="insurance-agent" value="Insurance Agent" />
+  <Profession id="e0cef8f2-0160-4d93-b05c-89e2d3c553cb" slug="financial-advisor" value="Financial Advisor" />
+  <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" slug="lawyer" value="Lawyer" />
 </Professions>
