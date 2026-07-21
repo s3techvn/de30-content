@@ -12,4 +12,6 @@
   <Profession id="18a69abd-6d6d-452d-a718-363136b8b071" slug="warehouse-worker" value="Warehouse Worker" />
   <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" slug="real-estate-agent" value="Real Estate Agent" />
   <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" slug="travel-agent" value="Travel Agent" />
+  <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" slug="mechanic" value="Mechanic" />
+  <Profession id="09206afa-1387-423a-9035-e995034c8a00" slug="engineer" value="Engineer" />
 </Professions>
