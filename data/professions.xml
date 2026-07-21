@@ -147,4 +147,6 @@
   <Profession id="c42c0ce3-8732-45fc-9e99-1f807838ed52" slug="mineralogist" value="Mineralogist" />
   <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" slug="meteorologist" value="Meteorologist" />
   <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" slug="economist" value="Economist" />
+  <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" slug="dancer" value="Dancer" />
+  <Profession id="623b8b9d-57b6-4b03-a84a-590c577eeb2f" slug="choreographer" value="Choreographer" />
 </Professions>

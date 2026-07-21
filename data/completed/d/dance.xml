@@ -1,0 +1,57 @@
+<Vocab id="47c92ec6-2e92-49ea-8536-bb14546113d8" word="dance" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="70e0c39b-5d53-489b-8eb4-71344671b917" value="Sports &amp; Recreation" />
+  </Topics>
+  <Professions>
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="623b8b9d-57b6-4b03-a84a-590c577eeb2f" value="Choreographer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="91f51ed2-fbac-4e21-bd0a-b9e14e559791" ipa="/dæns/" vi_ipa="đan-xơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="555810aa-27ef-4cf2-a2dd-37c45871c965" type="Verb">
+          <Vi>nhảy múa; khiêu vũ</Vi>
+          <En>to move rhythmically to music, typically following a set of steps or pattern</En>
+          <Example>They danced the salsa at the wedding reception.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1c9412b-86e8-4cdc-8feb-09490ec03097">
+              <Vi>Một cặp đôi nhảy theo nhạc samba tại buổi tiệc tối.</Vi>
+              <En>A couple dances the samba at a evening party.</En>
+            </Situation>
+            <Situation id="9d340078-e028-46e7-b3a1-571a94172970">
+              <Vi>Những đứa trẻ nhảy múa tự do trong phòng khi nhạc vang lên.</Vi>
+              <En>The children dance freely in the room when the music starts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ab3e692e-591b-4b20-8cdd-56695a444b99" type="Noun">
+          <Vi>điệu nhảy; buổi khiêu vũ</Vi>
+          <En>a social gathering at which people dance; a particular style or type of dance</En>
+          <Example>We went to a formal dance last Saturday night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="208c12d6-244a-410b-90b4-1de8ff0d54f6">
+              <Vi>Học sinh lớp 12 tổ chức một buổi khiêu vũ tốt nghiệp vào cuối năm.</Vi>
+              <En>Seniors organize a formal prom dance at the end of the school year.</En>
+            </Situation>
+            <Situation id="bed17901-7dd0-495d-84a6-6e056f523012">
+              <Vi>Bà tôi kể về những buổi khiêu vũ cổ điển ở Paris những năm 1950.</Vi>
+              <En>My grandmother tells stories about classic ballroom dances in Paris in the 1950s.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
