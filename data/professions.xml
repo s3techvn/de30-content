@@ -159,4 +159,6 @@
   <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" slug="carpenter" value="Carpenter" />
   <Profession id="deb32aa4-ed56-4f23-b063-073f8ce60cb9" slug="packaging-engineer" value="Packaging Engineer" />
   <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" slug="surveyor" value="Surveyor" />
+  <Profession id="47fac884-af28-475f-bcb8-f79de18b1998" slug="human-resources-specialist" value="Human Resources Specialist" />
+  <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" slug="recruiter" value="Recruiter" />
 </Professions>
