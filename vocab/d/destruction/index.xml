@@ -1,0 +1,38 @@
+<Vocab id="80e62ca9-14eb-4375-a052-a2bc0ca304f3" word="destruction" type="short" status="done">
+  <Topics>
+    <Topic id="b4787233-2bbf-45c2-a5b4-614dd8345d90" value="Disaster &amp; Conflict" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8dce17a8-1bc6-409b-a384-f32057899c75" ipa="/dɪˈstrʌk.ʃən/" vi_ipa="đê-rờ-kuốc-shơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2aa9c544-aefe-4e8a-8410-b4a6915016e9" type="Noun">
+          <Vi>Sự phá hủy; sự tiêu diệt</Vi>
+          <En>The act or process of destroying something; the state of being destroyed.</En>
+          <Example>The earthquake led to the complete destruction of the coastal town.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="127032a3-9c80-472f-af68-743d341aada7">
+              <Vi>Mô tả hậu quả của thiên tai, chiến tranh, hoặc tai nạn nghiêm trọng.</Vi>
+              <En>Describing the aftermath of natural disasters, wars, or serious accidents.</En>
+            </Situation>
+            <Situation id="dbf1257d-e499-4842-8a1f-e0e8fb92679f">
+              <Vi>Chỉ mức độ tổn thất lớn về tài sản, sinh mạng, hoặc môi trường.</Vi>
+              <En>Referring to massive losses of property, lives, or environmental damage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
