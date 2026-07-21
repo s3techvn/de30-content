@@ -145,4 +145,6 @@
   <Profession id="1069a03e-07f9-403c-bfcb-af44aa384aa3" slug="transport-worker" value="Transport Worker" />
   <Profession id="8fcd0053-32a8-47b2-b8e1-100ce9221e9b" slug="gemologist" value="Gemologist" />
   <Profession id="c42c0ce3-8732-45fc-9e99-1f807838ed52" slug="mineralogist" value="Mineralogist" />
+  <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" slug="meteorologist" value="Meteorologist" />
+  <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" slug="economist" value="Economist" />
 </Professions>
