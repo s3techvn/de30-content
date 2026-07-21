@@ -1,0 +1,44 @@
+<Vocab id="bfcc6ccf-dc56-4bde-aa40-1b14362dad79" word="defend" type="short" status="done">
+  <Topics>
+    <Topic id="6bce3aa2-cf99-4ced-bd3f-6d6428443456" value="Law &amp; Safety" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65415c19-cbf2-4e60-9424-b0f4983e368c" ipa="/dɪˈfend/" vi_ipa="đị-fên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db66f1a1-ced7-434a-bb84-3a183384b974" type="Verb">
+          <Vi>Bảo vệ, phòng thủ, biện hộ</Vi>
+          <En>To protect someone or something from attack, harm, or criticism; to argue in favor of a cause, belief, or person.</En>
+          <Example>The lawyer will defend her client in court.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8662b9b3-3db8-47ac-a394-df876232a102">
+              <Vi>Một luật sư bảo vệ thân chủ khỏi cáo buộc hình sự.</Vi>
+              <En>A lawyer protects a client from criminal charges.</En>
+            </Situation>
+            <Situation id="dc7036d7-656f-4e7c-a29c-58dd2e4c6c17">
+              <Vi>Cầu thủ đội nhà phòng thủ khung thành trước pha sút phạt của đối phương.</Vi>
+              <En>The home team’s players defend the goal against the opponent’s penalty kick.</En>
+            </Situation>
+            <Situation id="df6a3203-ec8d-4e85-bf61-87f289073654">
+              <Vi>Nhà chính trị biện hộ cho chính sách thuế mới trước công chúng.</Vi>
+              <En>The politician defends the new tax policy before the public.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
