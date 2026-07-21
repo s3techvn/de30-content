@@ -71,4 +71,6 @@
   <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" slug="urban-planner" value="Urban Planner" />
   <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" slug="manager" value="Manager" />
   <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" slug="ecologist" value="Ecologist" />
+  <Profession id="a77764df-b700-44d0-b1cf-a5f217fd316d" slug="facility-manager" value="Facility Manager" />
+  <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" slug="it-support-specialist" value="IT Support Specialist" />
 </Professions>
