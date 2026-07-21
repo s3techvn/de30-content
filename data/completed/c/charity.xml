@@ -1,0 +1,52 @@
+<Vocab id="b191745f-ce21-4991-aac0-bc5122cd996f" word="charity" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" value="Nonprofit Worker" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6d640a6c-1c3a-426d-8744-91673386efd8" ipa="/ˈtʃær.ə.ti/" vi_ipa="chờ-rờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d981145-d724-45c5-9762-46b5725bc825" type="Noun">
+          <Vi>Từ thiện; sự bố thí; tổ chức từ thiện</Vi>
+          <En>Voluntary giving of help, typically in the form of money, to those in need; also refers to an organization dedicated to this purpose.</En>
+          <Example>She donated a large sum to charity after hearing about the flood victims.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="72cef11b-7824-4f1a-b436-fa8545dff023">
+              <Vi>Một cá nhân hoặc tổ chức hỗ trợ người nghèo, người khuyết tật, hoặc nạn nhân thiên tai mà không đòi hỏi lợi ích đổi lại.</Vi>
+              <En>An individual or organization providing aid to the poor, disabled, or disaster victims without expecting anything in return.</En>
+            </Situation>
+            <Situation id="c79caadf-7eb8-4564-9b6d-8e182eb0f898">
+              <Vi>Hành động hoặc hệ thống phân phối quà, tiền, hoặc dịch vụ miễn phí cho người có hoàn cảnh khó khăn.</Vi>
+              <En>The act or system of distributing food, money, or services free of charge to people in hardship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eecfbecf-acf0-4a98-9905-98a4a03091a2" type="Noun">
+          <Vi>Tấm lòng nhân ái; đức ái (trong tôn giáo)</Vi>
+          <En>Christian love or benevolence, especially as one of the theological virtues.</En>
+          <Example>Her charity toward others was evident in her daily kindness and patience.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b210cd76-ea6f-4f74-8b37-0808dc52536c">
+              <Vi>Trong Kitô giáo, một trong ba đức tin, hy vọng, và đức ái — tình yêu vô điều kiện và vị tha.</Vi>
+              <En>In Christianity, one of the three theological virtues—faith, hope, and charity—representing unconditional, selfless love.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

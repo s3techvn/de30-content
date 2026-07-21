@@ -152,4 +152,6 @@
   <Profession id="91d56833-c21b-4b64-89d3-d1026b92f35f" slug="microbiologist" value="Microbiologist" />
   <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" slug="pharmacist" value="Pharmacist" />
   <Profession id="7b40e6e7-2977-43ad-b807-bdfe3d87aa45" slug="monarch" value="Monarch" />
+  <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" slug="nonprofit-worker" value="Nonprofit Worker" />
+  <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" slug="social-worker" value="Social Worker" />
 </Professions>
