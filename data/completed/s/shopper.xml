@@ -1,0 +1,38 @@
+<Vocab id="8518f7a0-8474-4e1d-bfe8-168e8490c458" word="shopper" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" value="Market Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c7bd356-1f60-4068-92fd-2866c83463e2" ipa="/ˈʃɑː.pɚ/" vi_ipa="số-pơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="51b7ec62-5e15-4c9a-9957-4a6c87e38a38" type="Noun">
+          <Vi>Người đi mua sắm; người mua hàng</Vi>
+          <En>A person who is shopping, especially as a hobby or for pleasure.</En>
+          <Example>She was a regular shopper at the farmers’ market every Saturday morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c059c8d1-199b-4803-80b7-e3ea148e371e">
+              <Vi>Mô tả một người thường xuyên đi cửa hàng hoặc trung tâm thương mại để mua đồ.</Vi>
+              <En>Describes someone who frequently visits stores or shopping malls to buy goods.</En>
+            </Situation>
+            <Situation id="6fff5346-3ae3-4249-b576-3f4c39452612">
+              <Vi>Người được trả tiền để mua hàng thay cho người khác (ví dụ: trong dịch vụ giao hàng).</Vi>
+              <En>A person hired to purchase goods on behalf of others (e.g., in delivery or personal shopping services).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
