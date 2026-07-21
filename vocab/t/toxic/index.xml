@@ -1,0 +1,36 @@
+<Vocab id="8b8048da-ea7c-496a-a5ab-75876a0184ec" word="toxic" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="93e71c64-22e2-45bf-bc79-4d0397a6b438" value="Toxicologist" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eef1d3c7-073f-4b27-ae81-192a4f5acbe3" ipa="/ˈtɒk.sɪk/" vi_ipa="tốc-sic">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd8e6575-4722-4231-9b5b-2137f6bae805" type="Adjective">
+          <Vi>độc hại</Vi>
+          <En>poisonous; harmful</En>
+          <Example>The factory released toxic chemicals into the river.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="76d52740-a6a2-4e60-a578-8d1a8af042e0">
+              <Vi>Nói về chất độc hại</Vi>
+              <En>Talking about poisonous substances</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
