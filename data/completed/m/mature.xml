@@ -1,0 +1,40 @@
+<Vocab id="6f7c0c19-363a-4423-8aea-f3a5f16e33d5" word="mature" type="short" status="done">
+  <Topics>
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48e5db22-0b4d-4323-b4e2-6edcd4244a1c" ipa="/məˈtʃʊr/" vi_ipa="mờ-tu-ờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a2445973-1ffe-4300-a22b-15bf42f23f3e" type="Adjective">
+          <Vi>trưởng thành; chín chắn; già dặn</Vi>
+          <En>Having reached full physical, mental, or emotional development; showing wisdom and responsibility.</En>
+          <Example>She showed a mature attitude toward the challenges of her new job.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14031e79-33fe-4be0-848f-08880358e324">
+              <Vi>Mô tả một người có suy nghĩ chín chắn, biết kiểm soát cảm xúc và đưa ra quyết định có trách nhiệm.</Vi>
+              <En>Describing a person who handles situations calmly and responsibly, often beyond their age.</En>
+            </Situation>
+            <Situation id="6ec71d70-6c66-4dd1-9771-dd3a9a3e931c">
+              <Vi>Mô tả sự phát triển đầy đủ về thể chất hoặc tâm lý (ví dụ: hoa quả chín, não bộ trưởng thành).</Vi>
+              <En>Referring to full biological or psychological development (e.g., a mature fruit, a mature brain).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
