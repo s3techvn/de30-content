@@ -1,0 +1,40 @@
+<Vocab id="980540b5-e702-4788-9045-cd1006d2dc65" word="maritime" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="8fb6a537-09b7-4b86-9913-fa21e54d02ef" value="Naval Officer" />
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="3e602b8e-9101-4ac7-992f-e896ae639352" value="Port Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3bbadb7a-546c-4259-bd9c-3f2e4219d686" ipa="/ˈmær.ɪ.taɪm/" vi_ipa="mê-rít-tây-m">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="54796d99-a141-4fc1-a390-9ba0dfeae027" type="Adjective">
+          <Vi>thuộc về biển, hàng hải</Vi>
+          <En>relating to the sea, especially in relation to shipping, navigation, or naval affairs</En>
+          <Example>The maritime museum showcases artifacts from ancient shipwrecks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="efeab97a-cd94-48f4-a06a-de560c57aa65">
+              <Vi>Mô tả các hoạt động, cơ sở hạ tầng, hoặc quy định liên quan đến hàng hải.</Vi>
+              <En>Describing activities, infrastructure, or regulations related to shipping and seafaring.</En>
+            </Situation>
+            <Situation id="e4565b65-d2ee-438e-9fa9-3596c1dc1179">
+              <Vi>Chỉ các khu vực gần bờ biển hoặc có liên quan đến biển.</Vi>
+              <En>Referring to areas near the coast or having a connection to the sea.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
