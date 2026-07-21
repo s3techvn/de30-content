@@ -83,4 +83,5 @@
   <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" slug="psychologist" value="Psychologist" />
   <Profession id="7393664c-9303-4e69-9508-750980bd0f22" slug="physician" value="Physician" />
   <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" slug="software-developer" value="Software Developer" />
+  <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" slug="n/a" value="N/A" />
 </Professions>
