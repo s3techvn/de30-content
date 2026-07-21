@@ -1,0 +1,67 @@
+<Vocab id="6041fa22-492c-4456-8a71-b8c276d0dbc5" word="bias" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="66dfafcb-95b5-45ac-a930-4e4e3cb7e1ff" ipa="/ˈbaɪ.əs/" vi_ipa="bài-ơ-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="71d0deb1-f20d-4b20-829b-ad827a187afc" type="Noun">
+          <Vi>thiên vị, định kiến, khuynh hướng thiên lệch</Vi>
+          <En>A tendency to support or oppose a person, group, or idea in an unfair or prejudiced way.</En>
+          <Example>The survey results were skewed due to sampling bias.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcebd9e4-d4f0-43de-9818-41f7b99dfcd1">
+              <Vi>Tình huống khi một nhà nghiên cứu chỉ chọn mẫu từ một nhóm nhất định, dẫn đến kết quả không đại diện.</Vi>
+              <En>A researcher selects participants only from one demographic, leading to unrepresentative findings.</En>
+            </Situation>
+            <Situation id="79112dea-bed3-40f3-a7b4-f08a32a851c6">
+              <Vi>Tình huống khi một phóng viên đưa tin theo một phía, không trình bày đầy đủ các quan điểm đối lập.</Vi>
+              <En>A journalist presents only one side of an issue without covering opposing viewpoints.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0388742b-a619-4137-bc90-77171dabbed0" ipa="/ˈbaɪ.əs/" vi_ipa="bài-ơ-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b924d556-efe4-4e28-8301-561a11b79a36" type="Verb">
+          <Vi>thiên vị, định hướng theo một phía, làm lệch</Vi>
+          <En>To influence (someone) unfairly in a particular direction; to give an unfair advantage to one side.</En>
+          <Example>The manager’s comments biased the jury’s perception of the defendant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06d9fdca-2996-42bc-b8c7-fbe0376c2850">
+              <Vi>Tình huống khi một người lãnh đạo đưa ra nhận xét có tính định hướng trước khi nhóm đưa ra quyết định.</Vi>
+              <En>A leader makes a comment that steers the group’s opinion before a final decision is made.</En>
+            </Situation>
+            <Situation id="22e05f46-781e-48ff-ab1f-255e32ca0822">
+              <Vi>Tình huống khi thuật toán AI được huấn luyện trên dữ liệu có định kiến, dẫn đến kết quả thiên lệch.</Vi>
+              <En>An AI algorithm trained on biased data produces unfair outcomes for certain groups.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
