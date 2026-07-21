@@ -16,4 +16,6 @@
   <Profession id="09206afa-1387-423a-9035-e995034c8a00" slug="engineer" value="Engineer" />
   <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" slug="geographer" value="Geographer" />
   <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" slug="marine-biologist" value="Marine Biologist" />
+  <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" slug="logistics-manager" value="Logistics Manager" />
+  <Profession id="8fb6a537-09b7-4b86-9913-fa21e54d02ef" slug="naval-officer" value="Naval Officer" />
 </Professions>
