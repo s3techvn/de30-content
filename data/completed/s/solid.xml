@@ -1,0 +1,68 @@
+<Vocab id="5c5d92ca-56dd-4933-abda-e9a5cd79765d" word="solid" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d2a7aa88-2fb8-4549-bb8d-d42689e4d037" ipa="/ˈsɑː.lɪd/" vi_ipa="xờ-lít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e49c791c-6e12-4ce0-a695-9c03476ebd76" type="Adjective">
+          <Vi>rắn, chắc, đặc (không phải lỏng hay khí)</Vi>
+          <En>having a firm shape and volume; not liquid or gas</En>
+          <Example>Ice is the solid form of water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2bc9b6d6-824c-4494-9fd2-80558903dbb1">
+              <Vi>Mô tả trạng thái vật chất trong hóa học hoặc vật lý.</Vi>
+              <En>Describing the state of matter in chemistry or physics.</En>
+            </Situation>
+            <Situation id="2aa5ea2c-02d3-43a5-8454-3d03528c1259">
+              <Vi>Dùng để chỉ một nền tảng vững chắc (ví dụ: nền tảng tài chính).</Vi>
+              <En>Used metaphorically to describe a strong foundation (e.g., financial stability).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef197a91-cb54-4c62-9699-23ebfa6b9c5a" type="Adjective">
+          <Vi>đáng tin cậy, vững chắc, bền bỉ</Vi>
+          <En>reliable, strong, and stable; not likely to change or fail</En>
+          <Example>She has a solid reputation in the industry.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55471fbd-97ec-4c59-9b9d-624cf7d57c9c">
+              <Vi>Mô tả một người hoặc tổ chức có uy tín và ổn định.</Vi>
+              <En>Describing a person or organization with credibility and stability.</En>
+            </Situation>
+            <Situation id="153eff67-4068-43b9-a5c4-bcb99b62aa00">
+              <Vi>Chỉ một kế hoạch hoặc hệ thống được tổ chức tốt.</Vi>
+              <En>Referring to a well-organized plan or system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e8ddbb74-2e5d-4600-8c02-29c56955445d" type="Adjective">
+          <Vi>đầy đủ, dồi dào (thường dùng trong ẩm thực)</Vi>
+          <En>abundant and satisfying, especially in food</En>
+          <Example>We had a solid meal of grilled meat and vegetables.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a5a6452-7364-4cb6-a4ad-82c0758b39e9">
+              <Vi>Mô tả một bữa ăn no và ngon miệng.</Vi>
+              <En>Describing a filling and satisfying meal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
