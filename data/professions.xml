@@ -107,4 +107,6 @@
   <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" slug="sociologist" value="Sociologist" />
   <Profession id="01ee4126-42a6-411f-b8f4-6b18d4011725" slug="computer-scientist" value="Computer Scientist" />
   <Profession id="6301697c-ce7b-4366-9a6d-5c909a464390" slug="hardware-technician" value="Hardware Technician" />
+  <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" slug="cybersecurity-analyst" value="Cybersecurity Analyst" />
+  <Profession id="43fb34db-bdee-4ed3-b20d-4df067bfb70f" slug="data-protection-officer" value="Data Protection Officer" />
 </Professions>

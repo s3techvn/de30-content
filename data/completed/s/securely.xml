@@ -1,0 +1,40 @@
+<Vocab id="cf8e52b0-c8ec-4a9e-b6a5-433e89269694" word="securely" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="43fb34db-bdee-4ed3-b20d-4df067bfb70f" value="Data Protection Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ebd37cd0-0741-446c-8e28-829c256b8538" ipa="/sɪˈkjʊr.əl.i/" vi_ipa="si-kiu-rơ-lơ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0751fd96-a081-4580-90b1-cd98b353465e" type="Adverb">
+          <Vi>một cách an toàn, bảo mật</Vi>
+          <En>In a manner that prevents unauthorized access, loss, or damage; with safety and confidentiality.</En>
+          <Example>The data was encrypted and stored securely.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db033cf0-67ce-4332-bd66-10f1692b9ee3">
+              <Vi>Trong bối cảnh bảo vệ thông tin cá nhân hoặc dữ liệu nhạy cảm khỏi bị rò rỉ.</Vi>
+              <En>When handling sensitive information to prevent data breaches or hacking.</En>
+            </Situation>
+            <Situation id="d9115217-0656-43a6-9fa1-c649f2187ab8">
+              <Vi>Khi truyền tải thông tin qua mạng mà đảm bảo không bị nghe lén hoặc can thiệp.</Vi>
+              <En>When transmitting messages over the internet using secure protocols like HTTPS.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
