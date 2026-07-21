@@ -1,0 +1,36 @@
+<Vocab id="cce62f2f-5e1f-4605-89f8-e75f1ad7fa18" word="russia" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71436a7e-bad1-4d48-be06-c72969367b69" ipa="/ˈrʌʃ.ə/" vi_ipa="rát-sơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d9766e18-2a6b-4430-8a44-94d8de6d906a" type="Noun">
+          <Vi>Nước Nga</Vi>
+          <En>A transcontinental country located in Eastern Europe and Northern Asia, the largest country in the world by land area.</En>
+          <Example>Russia shares borders with 14 countries and spans 11 time zones.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c26b98df-cd9a-4817-ab0e-86e684bdce1b">
+              <Vi>Trong bối cảnh địa lý, chính trị hoặc văn hóa liên quan đến Liên bang Nga.</Vi>
+              <En>In geographical, political, or cultural contexts involving the Russian Federation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
