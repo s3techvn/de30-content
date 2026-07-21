@@ -1,0 +1,51 @@
+<Vocab id="4b925aa4-77d7-44ea-8189-763dbb951b5c" word="silent" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e589b69c-3a54-4dcb-ad7f-a740c520ef87" ipa="/ˈsaɪ.lənt/" vi_ipa="sai-lơnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db6b547f-1940-4916-951e-ecb91aa3d256" type="Adjective">
+          <Vi>im lặng, thin lặng</Vi>
+          <En>Not making or allowing any sound; not speaking or saying anything.</En>
+          <Example>The library was silent during the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="356e8f34-d29b-4847-a338-f3a1265d7f4c">
+              <Vi>Một nơi không có tiếng động, ví dụ như thư viện hoặc phòng họp đang diễn ra.</Vi>
+              <En>A place with no sound, such as a library or a meeting room in progress.</En>
+            </Situation>
+            <Situation id="3aaf8081-2e10-4fe2-8693-2944cab3dc25">
+              <Vi>Một người không nói gì, thường do lịch sự hoặc do tình huống.</Vi>
+              <En>A person who does not speak, often due to politeness or the situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b3504be5-8e9e-404f-8c10-36e2a95e4c2f" type="Adjective">
+          <Vi>không được bật âm thanh (thiết bị)</Vi>
+          <En>(of a device) Not producing sound; muted.</En>
+          <Example>She put her phone on silent during the movie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b6bfcb1-d925-4699-95dd-562bfcd1b205">
+              <Vi>Khi muốn tắt tiếng điện thoại hoặc TV để không làm phiền người khác.</Vi>
+              <En>When turning off the sound of a phone or TV to avoid disturbing others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

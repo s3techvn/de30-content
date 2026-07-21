@@ -70,3 +70,4 @@ variance
 vaccine
 evanescence
 eventually
+enable
