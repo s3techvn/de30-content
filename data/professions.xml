@@ -53,4 +53,6 @@
   <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" slug="coach" value="Coach" />
   <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" slug="athlete" value="Athlete" />
   <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" slug="musician" value="Musician" />
+  <Profession id="449735fe-0faa-4027-b5e4-93420e96b844" slug="park-ranger" value="Park Ranger" />
+  <Profession id="51d37455-2bec-4e32-a2ff-cc9e61d11567" slug="recreation-therapist" value="Recreation Therapist" />
 </Professions>
