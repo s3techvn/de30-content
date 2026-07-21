@@ -204,4 +204,6 @@
   <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" slug="botanist" value="Botanist" />
   <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" slug="gardener" value="Gardener" />
   <Profession id="368ab5e1-9b9f-43f4-b1c6-4b9c9a28081a" slug="election-official" value="Election Official" />
+  <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" slug="nutritionist" value="Nutritionist" />
+  <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" slug="food-scientist" value="Food Scientist" />
 </Professions>
