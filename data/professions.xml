@@ -128,4 +128,5 @@
   <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" slug="police-officer" value="Police Officer" />
   <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" slug="fashion-designer" value="Fashion Designer" />
   <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" slug="philosopher" value="Philosopher" />
+  <Profession id="26b29674-4a5d-42f8-9c0b-f82116c2cf89" slug="birdwatcher" value="Birdwatcher" />
 </Professions>
