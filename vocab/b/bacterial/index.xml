@@ -1,0 +1,38 @@
+<Vocab id="1f3b4e95-5918-427c-b16a-55667a91098c" word="bacterial" type="short" status="done">
+  <Topics>
+    <Topic id="358b511b-088b-4876-8c67-93fcfac805a8" value="Science &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="91d56833-c21b-4b64-89d3-d1026b92f35f" value="Microbiologist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="22b15169-0a32-40c1-9312-3e19de822762" ipa="/bækˈtɪə.ri.əl/" vi_ipa="bác-ti-ơ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2112de0-438c-412c-9da3-1a0048abe0d3" type="Adjective">
+          <Vi>thuộc về vi khuẩn</Vi>
+          <En>relating to or caused by bacteria</En>
+          <Example>The infection was confirmed to be bacterial, not viral.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a9d6617-fad8-4253-a3a3-453face97163">
+              <Vi>Mô tả một bệnh hoặc quá trình liên quan đến vi khuẩn gây ra.</Vi>
+              <En>Describing a disease or process caused by bacteria.</En>
+            </Situation>
+            <Situation id="89a5d646-3520-498e-adfe-fac6a57257fa">
+              <Vi>Thuộc lĩnh vực vi sinh vật học hoặc y học liên quan đến vi khuẩn.</Vi>
+              <En>Relating to microbiology or medicine involving bacteria.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
