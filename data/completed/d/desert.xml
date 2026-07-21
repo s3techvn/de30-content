@@ -1,0 +1,70 @@
+<Vocab id="2bf38731-1708-49f8-96ff-c92eaa3dac8e" word="desert" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d132e7a9-8edb-4745-aa65-d7ed57da2644" ipa="/ˈdez.ət/" vi_ipa="đê-dớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="63c0e8c1-cff8-4b6c-b463-95822c8820aa" type="Noun">
+          <Vi>sa mạc</Vi>
+          <En>A large area of land that is very dry and has little vegetation, such as the Sahara or the Mojave.</En>
+          <Example>The camel can survive for weeks in the desert without water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7f3c581-ec8c-44fc-bfc9-f99de6a59d77">
+              <Vi>Mô tả môi trường khắc nghiệt, khô hạn, ít cây cối.</Vi>
+              <En>Describing a harsh, arid environment with minimal plant life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="bd401508-30ec-4dcb-b116-5c836b81f9c4" ipa="/dɪˈzɜːt/" vi_ipa="đi-zợt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="adff943f-cb77-4c03-b41b-c9a0989ac71f" type="Verb">
+          <Vi>bỏ rơi, bỏ chạy khỏi (đặc biệt là quân đội, nghĩa vụ)</Vi>
+          <En>To abandon a person, cause, or duty, especially a military post or responsibility.</En>
+          <Example>The soldier was court-martialed for deserting his unit during the battle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55ad7716-0e94-4ec4-a420-49c4ab3e3fbf">
+              <Vi>Nhân viên hoặc binh sĩ bỏ nhiệm vụ mà không xin phép.</Vi>
+              <En>A soldier or employee abandoning their post or duty without permission.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4bd001a1-29a3-4c48-8f2a-9d8d7fe5655a" type="Verb">
+          <Vi>bỏ mặc, bỏ lại (người thân, trách nhiệm…)</Vi>
+          <En>To leave someone or something behind, especially when they need support.</En>
+          <Example>He felt abandoned when his wife deserted him and their children.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="25d6ec30-49b5-4629-a810-175efd673cb9">
+              <Vi>Bỏ rơi người thân trong lúc khó khăn, thiếu trách nhiệm.</Vi>
+              <En>Leaving a loved one in a time of need, often with emotional or financial consequences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

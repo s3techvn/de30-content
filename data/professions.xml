@@ -70,4 +70,5 @@
   <Profession id="b60c5701-6ae0-4327-a366-dcf33c150b84" slug="social-scientist" value="Social Scientist" />
   <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" slug="urban-planner" value="Urban Planner" />
   <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" slug="manager" value="Manager" />
+  <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" slug="ecologist" value="Ecologist" />
 </Professions>
