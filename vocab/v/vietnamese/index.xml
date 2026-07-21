@@ -1,0 +1,46 @@
+<Vocab id="27641758-6d67-4f28-99b6-31508cd23af8" word="vietnamese" type="short" status="done">
+  <Topics>
+    <Topic id="d6a5ffd9-24d4-4650-b50c-67b8b59992d1" value="Languages and Cultures" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="feb07515-ba90-4576-8738-e84eab26ec6c" ipa="/ˌviːətˈnɑːm.iːz/" vi_ipa="vi-ét-nam-i-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b9330e19-07e5-40c0-9aa8-554f0b05ab18" type="Adjective">
+          <Vi>thuộc về Việt Nam, người Việt Nam, hoặc tiếng Việt</Vi>
+          <En>Relating to Vietnam, its people, or its language.</En>
+          <Example>She studies Vietnamese literature and history.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f752ec59-21ab-4aa8-9cc3-9069c022cf21">
+              <Vi>Mô tả đặc điểm, văn hóa, con người, hoặc ngôn ngữ của Việt Nam.</Vi>
+              <En>Used to describe characteristics, culture, people, or language of Vietnam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2a1c5e6e-929a-4b54-9db3-133fcb10a29d" type="Noun">
+          <Vi>người Việt Nam; tiếng Việt</Vi>
+          <En>A person from Vietnam; the Vietnamese language.</En>
+          <Example>He speaks Vietnamese fluently.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e31814f-8180-485c-ad23-7d2fa2a43fda">
+              <Vi>Dùng để chỉ một người Việt Nam hoặc ngôn ngữ tiếng Việt trong giao tiếp hàng ngày.</Vi>
+              <En>Used to refer to a Vietnamese person or the Vietnamese language in everyday contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
