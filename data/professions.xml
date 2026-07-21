@@ -109,4 +109,6 @@
   <Profession id="6301697c-ce7b-4366-9a6d-5c909a464390" slug="hardware-technician" value="Hardware Technician" />
   <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" slug="cybersecurity-analyst" value="Cybersecurity Analyst" />
   <Profession id="43fb34db-bdee-4ed3-b20d-4df067bfb70f" slug="data-protection-officer" value="Data Protection Officer" />
+  <Profession id="391eda84-c02f-4e03-9a2e-c41c23e55236" slug="personal-trainer" value="Personal Trainer" />
+  <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" slug="investor" value="Investor" />
 </Professions>
