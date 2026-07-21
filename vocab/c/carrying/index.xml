@@ -1,0 +1,39 @@
+<Vocab id="bfc77b81-f6c4-439d-84ee-a0bff3cb121c" word="carrying" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="641fb810-6946-453d-bd23-e1a7bd607977" value="Courier" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="039aa67b-f258-4de6-9cc1-d0d64cede614" ipa="/ˈkær.ɪŋ/" vi_ipa="cà-rí-ng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3b7c5ca4-d98c-49bc-9d37-5bb82809fda8" type="Verb">
+          <Vi>đang mang, đang khiêng, đang vận chuyển</Vi>
+          <En>the present participle of "carry"; holding or transporting something from one place to another, typically in one's hands or on one's body.</En>
+          <Example>She was carrying a heavy backpack while hiking up the trail.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4698ec6e-c2c0-417a-ac5a-c2fece0aaf03">
+              <Vi>Mô tả hành động đang thực hiện việc mang vác vật thể (ví dụ: túi xách, hành lý, trẻ em).</Vi>
+              <En>Describes the ongoing action of physically transporting an object (e.g., a bag, luggage, a child).</En>
+            </Situation>
+            <Situation id="c378f14e-a775-4994-afb8-686740c7f1e9">
+              <Vi>Trong bối cảnh thể thao, mô tả việc vận chuyển bóng (ví dụ: trong bóng đá).</Vi>
+              <En>In sports context, describes the act of moving the ball (e.g., dribbling or advancing it in soccer).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
