@@ -1,0 +1,44 @@
+<Vocab id="2b3456e4-f9c0-4555-8ab1-37b479312fab" word="min" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f5b2b94-a92a-47f3-8fd1-06873b72fc0e" ipa="/mɪn/" vi_ipa="min">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8adae64-a080-4624-8766-0cd01de2d942" type="Noun">
+          <Vi>phím tắt để chọn phần tử nhỏ nhất trong một tập hợp (trong lập trình)</Vi>
+          <En>the smallest element in a set or sequence, especially in programming contexts (e.g., `min()` function)</En>
+          <Example>The `min()` function returns the smallest value among the provided arguments.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1d37e6f-3c07-4e1f-a535-45ff18b9bca6">
+              <Vi>Trong lập trình, khi cần tìm giá trị nhỏ nhất trong danh sách số.</Vi>
+              <En>In programming, when needing to find the smallest value in a list of numbers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dfb58331-753d-4217-b34b-aaeeec20a81c" type="Noun">
+          <Vi>viết tắt của "minimum"</Vi>
+          <En>short for "minimum"</En>
+          <Example>The temperature dropped to min levels overnight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e9cff0bf-bd71-4880-932d-75b4181dcd0b">
+              <Vi>Trong báo cáo thời tiết hoặc thống kê, dùng để chỉ giá trị thấp nhất.</Vi>
+              <En>In weather reports or statistics, used to denote the lowest value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

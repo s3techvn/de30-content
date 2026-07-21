@@ -93,3 +93,4 @@ cuisine
 defend
 cumulative
 wrong
+min
