@@ -154,4 +154,8 @@
   <Profession id="7b40e6e7-2977-43ad-b807-bdfe3d87aa45" slug="monarch" value="Monarch" />
   <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" slug="nonprofit-worker" value="Nonprofit Worker" />
   <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" slug="social-worker" value="Social Worker" />
+  <Profession id="c210b2a0-40d8-419e-a9e9-984559c99091" slug="winemaker" value="Winemaker" />
+  <Profession id="a8501d09-b621-4105-bd05-86d70d11f99e" slug="brewer" value="Brewer" />
+  <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" slug="carpenter" value="Carpenter" />
+  <Profession id="deb32aa4-ed56-4f23-b063-073f8ce60cb9" slug="packaging-engineer" value="Packaging Engineer" />
 </Professions>
