@@ -126,4 +126,6 @@
   <Profession id="552f237b-f6bf-4508-a6b8-a5d9b51ef3a2" slug="wildlife-biologist" value="Wildlife Biologist" />
   <Profession id="6f3c9e4c-d565-473b-9c15-60a005e33fe7" slug="dog-trainer" value="Dog Trainer" />
   <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" slug="police-officer" value="Police Officer" />
+  <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" slug="fashion-designer" value="Fashion Designer" />
+  <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" slug="philosopher" value="Philosopher" />
 </Professions>
