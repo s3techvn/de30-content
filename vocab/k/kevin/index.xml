@@ -1,0 +1,32 @@
+<Vocab id="df8b06ac-a5de-4755-8e9f-e8c9bbe0ce23" word="kevin" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="39e7961b-490e-4b70-87e5-da9a9ec5a5f3" ipa="/ˈkiː.vɪn/" vi_ipa="ki-vin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="50dac1f1-9c73-49b9-b434-4c53c63fd45e" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng cho nam giới</Vi>
+          <En>A masculine given name, of Irish origin, meaning "handsome lover" or "lover of wisdom"</En>
+          <Example>Kevin is the project manager for the new software rollout.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a5cae93-7f59-4428-b69e-5a6d74a8b274">
+              <Vi>Dùng để gọi một người đàn ông có tên là Kevin trong giao tiếp hàng ngày hoặc văn viết.</Vi>
+              <En>Used to refer to a man named Kevin in everyday conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
