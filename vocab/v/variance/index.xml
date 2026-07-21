@@ -1,0 +1,48 @@
+<Vocab id="4a628644-220d-4e88-abbe-ddf86c9dc82f" word="variance" type="short" status="done">
+  <Topics>
+    <Topic id="34134c5e-ab79-4768-9e2b-fdb09b8d050e" value="Statistics" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="c09ef771-e05d-423a-aacc-1ba04f703054" value="Statistician" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cbbfb49b-2fba-468c-9280-03032a68fbe6" ipa="/ˈvær.i.əns/" vi_ipa="vờ-rây-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1067f14-7b02-45dc-bce0-1b23a9fbfd6b" type="Noun">
+          <Vi>Phương sai</Vi>
+          <En>A statistical measure of the dispersion of a set of data points around their mean value.</En>
+          <Example>The variance of the test scores was unusually high, indicating inconsistent performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9141df22-b11c-4e3e-9e04-8f32e7ce2297">
+              <Vi>Một chỉ tiêu thống kê dùng để đo lường mức độ phân tán của dữ liệu.</Vi>
+              <En>A key metric in statistical analysis to quantify variability in a dataset.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="514aebe2-cbcd-4636-aa46-1f171d9f521f" type="Noun">
+          <Vi>Sự khác biệt; sự thay đổi</Vi>
+          <En>A difference or deviation, especially one that is not in accordance with a rule, standard, or agreement.</En>
+          <Example>Any variance from the approved budget must be justified in writing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2614de6-e1f7-465a-a8c0-ac8f631a870e">
+              <Vi>Sự chênh lệch trong hợp đồng hoặc quy định.</Vi>
+              <En>A formal deviation from a previously agreed-upon plan or specification.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
