@@ -1,0 +1,66 @@
+<Vocab id="0ceae236-f634-41c8-98c1-845096ee9f86" word="wish" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14ac31be-7db1-41c7-b2c6-718a8397b548" ipa="/wɪʃ/" vi_ipa="uýt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3f4efb90-4263-4bf8-bbd8-961ae12012b7" type="Verb">
+          <Vi>ước, mong ước, ao ước</Vi>
+          <En>to desire or hope for something, especially something improbable or unattainable</En>
+          <Example>I wish I could travel more often.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f09f1715-64f9-4f6f-9af1-879474eb074f">
+              <Vi>Biểu đạt mong muốn điều gì đó không thể hoặc khó xảy ra trong thực tế.</Vi>
+              <En>Expressing a desire for something unlikely or impossible in reality.</En>
+            </Situation>
+            <Situation id="fda2b253-3cdc-49f8-9e9f-1e2b2522f4b0">
+              <Vi>Chúc điều gì đó tốt đẹp (thường dùng trong các dịp đặc biệt như Giáng sinh, năm mới).</Vi>
+              <En>To express a hope for someone’s good fortune, especially during holidays or special occasions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5323c321-0142-4d5d-808b-5c46b04c1de7" ipa="/wɪʃ/" vi_ipa="uýt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="53fc023a-188b-4565-b776-6cbc7dec2847" type="Noun">
+          <Vi>ước mong, điều ước</Vi>
+          <En>a desire or hope for something, especially something unlikely or unattainable</En>
+          <Example>She made a wish on her birthday candle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9bdf9f7f-826e-41d0-ba5d-cee641dbc2bf">
+              <Vi>Những điều người ta mong muốn trong các tình huống thần thoại, phong tục (ví dụ: thổi nến sinh nhật).</Vi>
+              <En>Things people hope for in mythical or customary contexts (e.g., blowing out birthday candles).</En>
+            </Situation>
+            <Situation id="e8701d7c-0da1-48df-8533-5627a2e8487f">
+              <Vi>Một mong muốn cá nhân mạnh mẽ, thường được giữ kín để tăng khả năng thành hiện thực.</Vi>
+              <En>A strong personal desire, often kept secret to increase the chance of coming true.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
