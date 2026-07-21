@@ -57,4 +57,6 @@
   <Profession id="51d37455-2bec-4e32-a2ff-cc9e61d11567" slug="recreation-therapist" value="Recreation Therapist" />
   <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" slug="chemist" value="Chemist" />
   <Profession id="16935b63-e22d-4c0e-8b99-49aa92c28e5b" slug="childcare-provider" value="Childcare Provider" />
+  <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" slug="retail-worker" value="Retail Worker" />
+  <Profession id="52e96840-b40d-4899-acca-455cc3161b5e" slug="antique-dealer" value="Antique Dealer" />
 </Professions>

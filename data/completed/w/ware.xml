@@ -1,0 +1,34 @@
+<Vocab id="0d0055b2-6ea0-495d-b58c-ee5f3018a9a9" word="ware" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="52e96840-b40d-4899-acca-455cc3161b5e" value="Antique Dealer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ea610347-f603-42b3-9193-3e3a31df5fd6" ipa="/wer/" vi_ipa="vê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="001b357a-d849-4c55-b10f-40cf4acf5496" type="Noun">
+          <Vi>đồ dùng, hàng hóa</Vi>
+          <En>manufactured goods; articles of commerce</En>
+          <Example>The shop sold a wide variety of kitchen ware.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d18bbe97-20ef-4131-906a-7dfa72ba3005">
+              <Vi>Mua sắm đồ gia dụng</Vi>
+              <En>Shopping for household items</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
