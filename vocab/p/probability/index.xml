@@ -1,0 +1,41 @@
+<Vocab id="021a1d45-69b6-476e-a31c-9c63136e0005" word="probability" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="34134c5e-ab79-4768-9e2b-fdb09b8d050e" value="Statistics" />
+  </Topics>
+  <Professions>
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="f709fa4d-125b-445b-992e-0f910d565398" value="Actuary" />
+    <Profession id="c09ef771-e05d-423a-aacc-1ba04f703054" value="Statistician" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a03e51f7-7063-4a79-98b1-e689b0a20108" ipa="/ˌprɒb.əˈbɪl.ə.ti/" vi_ipa="prô-bê-bi-lít-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0522aef-1185-4cc2-ab5e-65960dd4f46f" type="Noun">
+          <Vi>Xác suất</Vi>
+          <En>The extent to which something is likely to happen; a branch of mathematics dealing with the calculation of likelihoods.</En>
+          <Example>The probability of rolling a six on a fair die is one in six.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3804cf06-183f-4f85-b124-a92f2a9541a4">
+              <Vi>Mô tả khả năng xảy ra của một sự kiện trong thực tế hoặc trong mô hình toán học.</Vi>
+              <En>Describing the likelihood of an event occurring in real life or in a mathematical model.</En>
+            </Situation>
+            <Situation id="41e519ed-ed6c-43dc-b9af-3a7b6a1497b8">
+              <Vi>Dùng trong phân tích rủi ro, bảo hiểm, và dự báo.</Vi>
+              <En>Used in risk analysis, insurance, and forecasting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
