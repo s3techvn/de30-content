@@ -6,4 +6,5 @@
   <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" slug="historian" value="Historian" />
   <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" slug="clergy" value="Clergy" />
   <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" slug="publisher" value="Publisher" />
+  <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" slug="theologian" value="Theologian" />
 </Professions>
