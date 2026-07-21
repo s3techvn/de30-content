@@ -63,4 +63,5 @@
   <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" slug="poet" value="Poet" />
   <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" slug="electrician" value="Electrician" />
   <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" slug="sports-coach" value="Sports Coach" />
+  <Profession id="a0590394-8006-4aa0-aca2-e96a3b77578f" slug="rabbi" value="Rabbi" />
 </Professions>
