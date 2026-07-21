@@ -18,4 +18,7 @@
   <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" slug="marine-biologist" value="Marine Biologist" />
   <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" slug="logistics-manager" value="Logistics Manager" />
   <Profession id="8fb6a537-09b7-4b86-9913-fa21e54d02ef" slug="naval-officer" value="Naval Officer" />
+  <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" slug="soldier" value="Soldier" />
+  <Profession id="3b0940f0-0182-40de-80c9-700433b06708" slug="editor" value="Editor" />
+  <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" slug="office-worker" value="Office Worker" />
 </Professions>

@@ -1,0 +1,48 @@
+<Vocab id="3898eb55-d754-44b1-aab6-11bd9a06d8d6" word="bullet" type="short" status="done">
+  <Topics>
+    <Topic id="10ab67e4-c69d-4e61-b9f5-760451f73952" value="Weaponry" />
+    <Topic id="c868f58b-dafa-45c2-bb22-dbb51603072d" value="Typography" />
+    <Topic id="c9d1ac86-3786-4857-be95-9cbf5da4ecc7" value="Writing" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dc15cbe8-bf76-4fcc-980c-5d800fe7c864" ipa="/ˈbʊl.ɪt/" vi_ipa="bu-lịt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fa85e1ed-8bef-42cb-848a-99db47531f99" type="Noun">
+          <Vi>Viên đạn, đầu đạn</Vi>
+          <En>A small metal projectile for firing from a gun.</En>
+          <Example>The bullet missed his vital organs by millimeters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67b1c7b0-228a-4385-b0f8-bcd3403b4ef7">
+              <Vi>Trong bối cảnh quân sự, săn bắn hoặc điều tra tội phạm.</Vi>
+              <En>In a military, hunting, or criminal investigation context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2c4cf987-bd13-4add-a368-22cf381da9ec" type="Noun">
+          <Vi>Dấu đầu dòng</Vi>
+          <En>A small symbol, such as a solid circle, printed just before each item in a list.</En>
+          <Example>Use bullets to make your main points stand out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0220cd7-2c45-4e0e-a054-30913ea9701e">
+              <Vi>Khi soạn thảo văn bản, thiết kế slide thuyết trình hoặc ghi chú.</Vi>
+              <En>When formatting a document, designing presentation slides, or taking notes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
