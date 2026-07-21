@@ -1,0 +1,52 @@
+<Vocab id="79faadb8-5151-495a-b87c-e2438c2342c2" word="joke" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="9de92dbb-8661-45a0-b822-56d1d3b0bdbe" value="Comedian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8674de89-f2c0-4754-96eb-78f846f9db91" ipa="/dʒəʊk/" vi_ipa="giơ-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3d99bd4b-118d-4d9a-b068-34af1ca2d18e" type="Noun">
+          <Vi>Câu đùa; trò cười</Vi>
+          <En>A statement or action intended to provoke laughter or amusement, often through wit, irony, or absurdity.</En>
+          <Example>He told a funny joke that made everyone in the room laugh.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="23861119-fcd8-4ad1-8acd-5039a737a765">
+              <Vi>Nghe một câu đùa vui trong buổi tiệc.</Vi>
+              <En>Listening to a funny joke during a party.</En>
+            </Situation>
+            <Situation id="a82d0b9d-8d76-43a4-ac49-471140235d8b">
+              <Vi>Thường dùng để làm dịu không khí căng thẳng.</Vi>
+              <En>Often used to lighten a tense atmosphere.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="36ee7a57-35f4-449f-86b8-73ca59cf1e19" type="Verb">
+          <Vi>Đùa vui; đùa cợt</Vi>
+          <En>To say or do something humorous or playful, often to amuse others or express lightheartedness.</En>
+          <Example>I was only joking—I didn’t really mean to upset you.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb671823-f563-40c8-a8fa-5fbeb370d0be">
+              <Vi>Nói đùa với bạn bè mà không có ý định nghiêm túc.</Vi>
+              <En>Teasing a friend playfully without serious intent.</En>
+            </Situation>
+            <Situation id="3ffe6c80-e1ac-4610-9539-76ca95d23d21">
+              <Vi>Phản ứng khi ai đó không hiểu mình đang đùa.</Vi>
+              <En>Clarifying that you were joking when someone takes your comment literally.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
