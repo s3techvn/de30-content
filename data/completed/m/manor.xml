@@ -1,0 +1,40 @@
+<Vocab id="d4be7930-2dee-4d2c-819f-1dbd23d5cec0" word="manor" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="22d3a393-76c7-4220-95a4-2089105cf006" value="Rural Life" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="51a2fc4d-beb0-49ae-a499-5ec42f4f59c5" value="Estate Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="354d8311-d006-4bd7-b13d-63003ee9cde4" ipa="/ˈmæn.ər/" vi_ipa="mén-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9c2f8ea-656c-4f0c-b681-11bef8be3945" type="Noun">
+          <Vi>Đất đai lớn có lâu đài hoặc biệt thự cổ, thường là trung tâm của một khu vực nông thôn thời phong kiến Anh</Vi>
+          <En>A large estate, typically including a large house or mansion, historically the principal residence of a lord and center of a feudal manor</En>
+          <Example>The historic manor, surrounded by parkland and a moat, now serves as a museum.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7042fe81-279b-4bbf-ad3f-45725ef612a0">
+              <Vi>Mô tả một khu đất quý tộc cổ ở Anh với nhà chính và đất canh tác</Vi>
+              <En>Describing a historic noble estate in England with a main house and farmland</En>
+            </Situation>
+            <Situation id="ac851959-e6d8-4ae2-aced-74d3882cd88e">
+              <Vi>Trong bối cảnh lịch sử thời phong kiến hoặc trong tiểu thuyết cổ điển</Vi>
+              <En>In historical or literary contexts, especially medieval or Victorian-era fiction</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
