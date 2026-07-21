@@ -1,0 +1,40 @@
+<Vocab id="09cb1cce-6330-4617-9897-5d706eaaeae0" word="area" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6aa3d537-5644-48c4-a794-c2b17b23a16b" ipa="/ˈer.i.ə/" vi_ipa="e-ri-a">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="25c9ce7e-0042-4153-ba01-1b5f5b00f216" type="Noun">
+          <Vi>Diện tích; khu vực; vùng</Vi>
+          <En>The amount of space inside a boundary or surface; a particular region or place.</En>
+          <Example>The area of the rectangle is 24 square meters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fc35b50-32f0-4cb6-a2b5-cf1c392d38a1">
+              <Vi>Tính toán diện tích đất để xây nhà.</Vi>
+              <En>Calculating the land area for house construction.</En>
+            </Situation>
+            <Situation id="4f0f1ea6-8856-44d0-9e7d-345f4664f8f9">
+              <Vi>Chỉ định khu vực cấm vào.</Vi>
+              <En>Designating a restricted access zone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
