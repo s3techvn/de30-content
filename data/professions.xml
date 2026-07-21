@@ -42,4 +42,5 @@
   <Profession id="52153738-4ef9-4133-9983-373a829510d5" slug="baker" value="Baker" />
   <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" slug="journalist" value="Journalist" />
   <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" slug="political-scientist" value="Political Scientist" />
+  <Profession id="b80b1249-3ff7-4651-883d-44bb8f960d63" slug="everyone" value="Everyone" />
 </Professions>
