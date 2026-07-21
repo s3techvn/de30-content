@@ -85,4 +85,7 @@
   <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" slug="software-developer" value="Software Developer" />
   <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" slug="n/a" value="N/A" />
   <Profession id="51a2fc4d-beb0-49ae-a499-5ec42f4f59c5" slug="estate-manager" value="Estate Manager" />
+  <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" slug="civil-engineer" value="Civil Engineer" />
+  <Profession id="f0a90d1d-3def-4e17-8a51-ccd453c0de08" slug="traffic-controller" value="Traffic Controller" />
+  <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" slug="medical-professional" value="Medical Professional" />
 </Professions>
