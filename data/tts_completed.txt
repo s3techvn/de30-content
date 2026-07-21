@@ -27,3 +27,4 @@ syntax
 survey
 securely
 shall
+sponsor
