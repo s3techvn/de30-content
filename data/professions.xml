@@ -97,4 +97,5 @@
   <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" slug="graphic-designer" value="Graphic Designer" />
   <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" slug="painter" value="Painter" />
   <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" slug="interior-decorator" value="Interior Decorator" />
+  <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" slug="emergency-responder" value="Emergency Responder" />
 </Professions>
