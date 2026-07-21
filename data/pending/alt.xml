@@ -1,0 +1,28 @@
+<Vocab id="2143b5ed-03ca-495d-9c67-af2214dd9e55" word="alt" type="short" status="pending">
+  <Topics>
+    <Topic id="__UUID__" value="..." />
+  </Topics>
+  <Professions>
+    <Profession id="__UUID__" value="..." />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="__UUID__" ipa="..." vi_ipa="...">
+      <Audios>
+        <Audio type="male_normal" value="..." />
+        <Audio type="male_slow" value="..." />
+        <Audio type="female_normal" value="..." />
+        <Audio type="female_slow" value="..." />
+      </Audios>
+      <Meanings>
+        <Meaning id="__UUID__" type="...">
+          <Vi>...</Vi>
+          <En>...</En>
+          <Example>...</Example>
+        </Meaning>
+      </Meanings>
+      <Situations>
+        <Situation id="__UUID__">...</Situation>
+      </Situations>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
