@@ -1,0 +1,52 @@
+<Vocab id="29b20089-511e-46e4-8e55-c33759be8b0b" word="add" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="19291cf8-e8ee-4885-8719-0bd8fb014cda" ipa="/æd/" vi_ipa="át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c6356680-7b2a-4779-a24f-b77546d02c51" type="Verb">
+          <Vi>cộng, thêm vào</Vi>
+          <En>to put or join something with something else so as to increase the total amount, number, or degree</En>
+          <Example>Please add sugar to the coffee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="50dfa42a-4eca-4c7d-a219-eeacf1dfffa1">
+              <Vi>Tình huống: Thêm nguyên liệu vào món ăn theo công thức.</Vi>
+              <En>Scenario: Adding ingredients to a dish according to a recipe.</En>
+            </Situation>
+            <Situation id="b38af783-18eb-4b3b-891c-924095c8e142">
+              <Vi>Tình huống: Nhập dữ liệu mới vào bảng tính.</Vi>
+              <En>Scenario: Entering new data into a spreadsheet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b7744719-bdaf-4e46-80d9-28de710cfac7" type="Verb">
+          <Vi>đề cập thêm, nói thêm</Vi>
+          <En>to say something extra, especially in a conversation or speech</En>
+          <Example>She added that she would arrive late due to traffic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f827522-9784-435d-8992-92932339c977">
+              <Vi>Tình huống: Người nói đưa ra một thông tin bổ sung trong cuộc họp.</Vi>
+              <En>Scenario: A speaker provides an additional piece of information during a meeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

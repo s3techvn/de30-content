@@ -1,0 +1,51 @@
+<Vocab id="48cafdd9-aa67-42b3-9bd6-43252d808986" word="fleet" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="8fb6a537-09b7-4b86-9913-fa21e54d02ef" value="Naval Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4bbfb50d-960c-4488-8f56-2b45dd12cfe2" ipa="/fliːt/" vi_ipa="ph-lít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4f444410-baff-409c-bc10-1428588b18ce" type="Noun">
+          <Vi>Đội tàu, đội xe, đoàn xe (nhóm phương tiện giao thông hoạt động cùng nhau hoặc thuộc cùng một sở hữu)</Vi>
+          <En>A group of ships, boats, or vehicles working together or owned by the same company or organization</En>
+          <Example>The logistics company is planning to expand its fleet of electric delivery vans next year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6070862c-e44a-4569-906e-1357919111b5">
+              <Vi>Thảo luận về quản lý vận tải hoặc logistics trong doanh nghiệp</Vi>
+              <En>Discussing transportation management or logistics in a business context</En>
+            </Situation>
+            <Situation id="4c88ae66-e8ce-4f7a-9e6c-099379cdd631">
+              <Vi>Nói về lực lượng hải quân của một quốc gia</Vi>
+              <En>Referring to the naval forces of a country</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7a012601-814e-4a93-9321-bfc64a8b497d" type="Adjective">
+          <Vi>Nhanh nhẹn, mau lẹ, tốc độ</Vi>
+          <En>Fast and nimble in movement</En>
+          <Example>The fleet-footed runner easily overtook his competitors in the final stretch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ba060df-b3f5-46b4-8917-4b7537cf818d">
+              <Vi>Miêu tả khả năng di chuyển nhanh nhẹn của người hoặc động vật</Vi>
+              <En>Describing the swift movement of a person or animal</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

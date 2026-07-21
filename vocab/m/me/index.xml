@@ -1,0 +1,31 @@
+<Vocab id="189d6ef8-4d7e-4073-9aa4-2daff90487bf" word="me" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="60b16ac5-2948-4620-8a32-5b7cf94e17be" ipa="/miː/" vi_ipa="mi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5edac593-5ca9-4fa7-949e-cb89f6f4b90a" type="Pronoun">
+          <Vi>tôi</Vi>
+          <En>I (object)</En>
+          <Example>He gave the book to me.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d2638b5-fca6-4ae7-8296-ec2c7eb9192d">
+              <Vi>Khi ai đó tặng quà cho bạn</Vi>
+              <En>When someone gives you a gift</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

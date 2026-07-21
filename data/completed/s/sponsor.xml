@@ -1,0 +1,56 @@
+<Vocab id="e6d4ab1f-e9a6-4679-af95-2bd71aaef865" word="sponsor" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="2a0f8ef5-fae8-4b0b-b218-9966c324bd95" value="Marketing Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="496c7a9d-065c-4e5c-9dd1-c9383c2481fa" ipa="/ˈspɑːn.sɚ/" vi_ipa="xpon-sơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="51b46fae-a4e2-4866-9150-503c902ddc6e" type="Noun">
+          <Vi>nhà tài trợ</Vi>
+          <En>A person or organization that provides financial or other support for an event, activity, or person, typically in exchange for advertising or recognition.</En>
+          <Example>The tech company agreed to be the main sponsor of the annual innovation summit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bb45462-0039-407f-a41c-776b36d40c10">
+              <Vi>Công ty tài trợ tiền mặt hoặc hiện vật cho một sự kiện để đổi lấy quảng cáo.</Vi>
+              <En>A company provides money or goods to an event in exchange for promotional visibility.</En>
+            </Situation>
+            <Situation id="bc6ebc64-b64a-4862-82e4-1b5554ee2776">
+              <Vi>Một cá nhân hoặc tổ chức hỗ trợ một vận động viên hoặc nghệ sĩ.</Vi>
+              <En>An individual or organization supports an athlete or artist financially or logistically.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ae8bfe24-b85f-4638-9a59-19273c1eb1b7" type="Verb">
+          <Vi>tài trợ</Vi>
+          <En>To support an event, activity, or person by providing money or resources, especially in exchange for advertising.</En>
+          <Example>The local bank will sponsor the charity run next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6741f9c6-1421-4aaa-be13-32aa2b853f73">
+              <Vi>Công ty quyết định tài trợ cho một hội chợ nghệ thuật địa phương.</Vi>
+              <En>A company decides to fund a local arts fair.</En>
+            </Situation>
+            <Situation id="dbc34100-6f88-4204-bf4a-6c66d842d8dd">
+              <Vi>Chính phủ tài trợ cho một dự án nghiên cứu y tế.</Vi>
+              <En>The government funds a medical research project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

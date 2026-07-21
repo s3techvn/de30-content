@@ -117,4 +117,6 @@
   <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" slug="religious-leader" value="Religious Leader" />
   <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" slug="historical-figure" value="Historical Figure" />
   <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" slug="any-profession" value="Any Profession" />
+  <Profession id="2a0f8ef5-fae8-4b0b-b218-9966c324bd95" slug="marketing-manager" value="Marketing Manager" />
+  <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" slug="public-relations-specialist" value="Public Relations Specialist" />
 </Professions>
