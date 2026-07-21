@@ -1,0 +1,50 @@
+<Vocab id="22cdbcbc-623a-4fc2-81fc-d4faca715e67" word="expression" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b383cbcc-ed51-45e8-9dfa-6a79bcc3ec6d" ipa="/ɪkˈspreʃ.ən/" vi_ipa="ích-sprê-xơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fdedc16c-410f-4de6-ad65-9a51f4443787" type="Noun">
+          <Vi>Biểu hiện; biểu cảm; cách phát biểu</Vi>
+          <En>A fact, idea, or feeling shown through speech, writing, or behavior; a way of conveying thoughts or emotions.</En>
+          <Example>Her facial expression revealed how upset she was.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2cee7425-3fdc-46e8-bb69-26ce70dfa57f">
+              <Vi>Một người bạn nhìn bạn với vẻ mặt lo lắng khi bạn kể về khó khăn.</Vi>
+              <En>A friend looks at you with a worried look as you describe your difficulties.</En>
+            </Situation>
+            <Situation id="81161f1b-159c-45d0-bf1b-f980be52b6ed">
+              <Vi>Diễn viên thể hiện cảm xúc qua nét mặt và giọng nói.</Vi>
+              <En>The actor conveys emotion through facial expression and tone of voice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b755d3fb-bc6b-45d7-b5c5-02845ab0cc61" type="Noun">
+          <Vi>Biểu thức (toán học)</Vi>
+          <En>A mathematical symbol or combination of symbols representing a quantity or relation.</En>
+          <Example>Simplify the algebraic expression: 2x + 3x − 5.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9a99a45-7b7a-423d-93e8-18013859d628">
+              <Vi>Học sinh giải bài toán bằng cách rút gọn biểu thức đại số.</Vi>
+              <En>The student solves the problem by simplifying the algebraic expression.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
