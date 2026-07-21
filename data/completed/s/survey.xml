@@ -1,0 +1,64 @@
+<Vocab id="10a911e3-c953-4b69-892e-fdcfac69e423" word="survey" type="short" status="done">
+  <Topics>
+    <Topic id="8a728ff7-8087-4c6b-a75a-4cd64866dfe8" value="Research &amp; Data" />
+  </Topics>
+  <Professions>
+    <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" value="Market Researcher" />
+    <Profession id="b60c5701-6ae0-4327-a366-dcf33c150b84" value="Social Scientist" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d4d32b4-16bd-4473-b8a7-be5c5f1bc607" ipa="/ˈsɜːr.veɪ/" vi_ipa="xờ-rây-vây">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3fa3f451-12de-4e5d-a28f-ed1ed164b30e" type="Noun">
+          <Vi>Bản khảo sát; bản điều tra; cuộc khảo sát</Vi>
+          <En>A detailed description or map of an area, often created by measuring and recording features; or a method of collecting data from a sample population.</En>
+          <Example>The company conducted a survey of customer satisfaction before launching the new product.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b10e47c5-58e7-4785-b418-c767279f5fa6">
+              <Vi>Đo đạc và vẽ bản đồ khu vực đất đai</Vi>
+              <En>Measuring land or an area to create a map or plan.</En>
+            </Situation>
+            <Situation id="d137607c-5756-4b21-8f2d-8640ba42e76f">
+              <Vi>Thu thập ý kiến từ một nhóm người để hiểu rõ hơn về xu hướng</Vi>
+              <En>Collecting opinions or data from a sample group to understand trends or opinions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f5a2906c-769d-42aa-891c-2f6fcf20eb07" ipa="/sərˈveɪ/" vi_ipa="sờ-rây-vây">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="589acc6d-c25b-47a2-8356-73ea2c777c08" type="Verb">
+          <Vi>Khảo sát; điều tra; đo đạc</Vi>
+          <En>To examine, inspect, or study something thoroughly, especially a large area or a group of people.</En>
+          <Example>The team will survey the affected region to assess the damage after the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28cac1f3-6406-4cb5-a176-f9b9e56f5b44">
+              <Vi>Đi bộ hoặc bay qua khu vực để ghi nhận đặc điểm địa hình</Vi>
+              <En>Walking or flying over an area to record its features for mapping or planning.</En>
+            </Situation>
+            <Situation id="23653de3-e59a-41d9-9fbd-de98a281563b">
+              <Vi>Đặt câu hỏi để thu thập dữ liệu từ người tham gia</Vi>
+              <En>Asking a series of questions to gather information from respondents.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

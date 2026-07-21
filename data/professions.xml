@@ -66,4 +66,7 @@
   <Profession id="a0590394-8006-4aa0-aca2-e96a3b77578f" slug="rabbi" value="Rabbi" />
   <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" slug="geologist" value="Geologist" />
   <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" slug="archaeologist" value="Archaeologist" />
+  <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" slug="market-researcher" value="Market Researcher" />
+  <Profession id="b60c5701-6ae0-4327-a366-dcf33c150b84" slug="social-scientist" value="Social Scientist" />
+  <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" slug="urban-planner" value="Urban Planner" />
 </Professions>
