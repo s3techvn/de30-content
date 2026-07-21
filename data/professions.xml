@@ -99,4 +99,5 @@
   <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" slug="interior-decorator" value="Interior Decorator" />
   <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" slug="emergency-responder" value="Emergency Responder" />
   <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" slug="general" value="General" />
+  <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" slug="public-health-official" value="Public Health Official" />
 </Professions>
