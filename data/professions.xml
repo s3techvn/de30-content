@@ -29,4 +29,6 @@
   <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" slug="tour-guide" value="Tour Guide" />
   <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" slug="military-officer" value="Military Officer" />
   <Profession id="7e4de0dd-cfa0-42be-9bb2-750a0c9af464" slug="sailor" value="Sailor" />
+  <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" slug="mathematician" value="Mathematician" />
+  <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" slug="scientist" value="Scientist" />
 </Professions>
