@@ -1,0 +1,56 @@
+<Vocab id="95f71f7d-2d71-42d1-ba0d-1737c55a7a34" word="insert" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d465ee9f-950e-43c1-8dd7-03693f4ce0ad" ipa="/ɪnˈsɜːt/" vi_ipa="in-sờ-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="648700e5-3439-4bab-9d2a-55d6fcfb45b3" type="Verb">
+          <Vi>chen, chèn</Vi>
+          <En>To put or introduce something into something else, especially so that it becomes part of it.</En>
+          <Example>Please insert the USB drive into the port.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ef81d798-e994-47e4-8ada-fe453ececd82">
+              <Vi>Chèn một tệp hình ảnh vào bài thuyết trình.</Vi>
+              <En>Adding a picture file into a presentation slide.</En>
+            </Situation>
+            <Situation id="f895a742-6be8-4df2-ba8b-2b6a3d2d9253">
+              <Vi>Bác sĩ chèn ống thông vào tĩnh mạch để truyền dịch.</Vi>
+              <En>A doctor inserts a catheter into a vein to administer fluids.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6201dfc3-2f85-467c-ab53-3439165c3a64" type="Verb">
+          <Vi>đưa vào (văn bản, chương trình, v.v.), chèn (lời bình, trích dẫn)</Vi>
+          <En>To add words, text, or other content into a document, speech, or program, typically so as to modify or enhance it.</En>
+          <Example>The editor asked the author to insert a paragraph explaining the historical context.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bf551ae-0f2e-47aa-8309-262e6793aca3">
+              <Vi>Chèn một câu hỏi vào bài kiểm tra để làm rõ nội dung.</Vi>
+              <En>Adding a clarifying question into a test paper.</En>
+            </Situation>
+            <Situation id="ebcfd2ff-48b3-4762-9882-44677005a529">
+              <Vi>Chèn mã nguồn vào file HTML để tạo hiệu ứng.</Vi>
+              <En>Inserting source code into an HTML file to create an effect.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
