@@ -1,0 +1,40 @@
+<Vocab id="9df4aadc-e484-44a1-8ae3-9f348bac1936" word="jade" type="short" status="done">
+  <Topics>
+    <Topic id="0c858101-dd75-42ca-b708-c64e996cac8c" value="Geology" />
+    <Topic id="b61f6d38-18fe-4ef2-8513-c33ef760f070" value="Jewelry" />
+    <Topic id="7752e390-b98f-41cc-aa80-c4ebef519760" value="Culture &amp; Art" />
+  </Topics>
+  <Professions>
+    <Profession id="8fcd0053-32a8-47b2-b8e1-100ce9221e9b" value="Gemologist" />
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5cd0f222-165e-4883-b216-6bc247f558f9" ipa="/dʒeɪd/" vi_ipa="giây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cdfc90e8-2d35-477f-94f3-eca74dd8cb95" type="Noun">
+          <Vi>ngọc bích (loại đá quý màu xanh lục hoặc trắng, thường dùng để làm đồ trang sức và điêu khắc)</Vi>
+          <En>a hard, green or white mineral (nephrite or jadeite), highly valued for carving and jewelry, especially in East and Mesoamerican cultures.</En>
+          <Example>She wore a necklace made of fine jade, a symbol of purity and status in ancient China.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a74f8d4-1eb0-4284-b3bd-5b11332df886">
+              <Vi>Người Trung Quốc cổ đại tin rằng ngọc bích mang lại may mắn và bảo vệ chủ nhân.</Vi>
+              <En>In traditional Chinese culture, jade is believed to bring good fortune and protect the wearer from harm.</En>
+            </Situation>
+            <Situation id="806cd568-2b72-49ba-9c53-dcdc5458694f">
+              <Vi>Nhà điêu khắc đang làm việc với một khối ngọc bích thô để tạo ra một tác phẩm nghệ thuật.</Vi>
+              <En>The sculptor carefully carved the raw jade into a delicate dragon figurine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
