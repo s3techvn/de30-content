@@ -36,4 +36,6 @@
   <Profession id="23c8f626-3388-47aa-acba-aea5fe5f5a0d" slug="insurance-agent" value="Insurance Agent" />
   <Profession id="e0cef8f2-0160-4d93-b05c-89e2d3c553cb" slug="financial-advisor" value="Financial Advisor" />
   <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" slug="lawyer" value="Lawyer" />
+  <Profession id="93e71c64-22e2-45bf-bc79-4d0397a6b438" slug="toxicologist" value="Toxicologist" />
+  <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" slug="environmental-scientist" value="Environmental Scientist" />
 </Professions>
