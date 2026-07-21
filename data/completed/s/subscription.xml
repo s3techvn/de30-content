@@ -1,0 +1,49 @@
+<Vocab id="0b631447-d236-4489-ab09-c63e1c48a38c" word="subscription" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5270dd7-cede-4f18-ab9c-6103e52c7fcf" ipa="/səbˈskrɪp.ʃən/" vi_ipa="sắp-skờ-ríp-shần">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47049810-4187-47aa-b4d0-f3de6f91b212" type="Noun">
+          <Vi>Sự đăng ký mua định kỳ (báo, tạp chí), sự thuê bao (dịch vụ công nghệ, truyền hình, internet).</Vi>
+          <En>An agreement to pay an amount of money regularly (usually monthly or annually) to receive a product or service.</En>
+          <Example>I cancelled my Netflix subscription because I didn't have time to watch movies anymore.</Example>
+          <Situations>
+            <Situation id="f4d10f5d-5a37-45b5-8fc2-57c3c743bccc">
+              <Vi>Hủy hoặc gia hạn dịch vụ xem phim trực tuyến.</Vi>
+              <En>Canceling or renewing an online streaming service.</En>
+            </Situation>
+            <Situation id="4003dbe4-55df-4c10-b916-96b4e6399031">
+              <Vi>Đăng ký mua báo giấy hoặc tạp chí hàng tháng.</Vi>
+              <En>Subscribing to a monthly physical newspaper or magazine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="559aed50-77a2-4877-a8d5-dac41e308337" type="Noun">
+          <Vi>Số tiền đóng góp, hội phí (cho một tổ chức, câu lạc bộ hoặc quỹ từ thiện).</Vi>
+          <En>A sum of money given as a formal contribution or membership fee to an organization or charity.</En>
+          <Example>The club's annual subscription is $50 per member.</Example>
+          <Situations>
+            <Situation id="f35a82ef-0608-4e35-a55a-8b56f4b2433b">
+              <Vi>Đóng phí thành viên hàng năm cho câu lạc bộ thể thao.</Vi>
+              <En>Paying the annual membership fee for a sports club.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
