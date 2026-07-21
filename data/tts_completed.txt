@@ -67,3 +67,4 @@ dog
 volleyball
 veterinary
 variance
+vaccine
