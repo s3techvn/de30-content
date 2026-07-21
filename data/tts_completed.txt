@@ -112,3 +112,4 @@ happy
 bacterial
 king
 charity
+struggle
