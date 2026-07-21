@@ -1,0 +1,27 @@
+<Vocab id="c45ff2b7-5328-4955-9109-ed406b98f50c" word="nicholas" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="74b80404-63dd-4b6c-821b-65ae2b58ce8d" ipa="/ˈnɪk.ə.ləs/" vi_ipa="nic-ô-lát">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9d042810-83ad-4bd6-88ce-22a715ba8da2" type="Noun">
+          <Vi>Nicholas (tên)</Vi>
+          <En>A male given name.</En>
+          <Example>Nicholas is a popular name in many countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
