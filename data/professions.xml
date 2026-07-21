@@ -55,4 +55,5 @@
   <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" slug="musician" value="Musician" />
   <Profession id="449735fe-0faa-4027-b5e4-93420e96b844" slug="park-ranger" value="Park Ranger" />
   <Profession id="51d37455-2bec-4e32-a2ff-cc9e61d11567" slug="recreation-therapist" value="Recreation Therapist" />
+  <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" slug="chemist" value="Chemist" />
 </Professions>
