@@ -10,10 +10,10 @@
   <Pronunciations>
     <Pronunciation id="b7a7b249-3370-4e9f-aa17-c08cd6c28e06" ipa="/ˈkɑː.lər/" vi_ipa="cól-a">
       <Audios>
-        <Audio type="male_normal" value="" />
-        <Audio type="male_slow" value="" />
-        <Audio type="female_normal" value="" />
-        <Audio type="female_slow" value="" />
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
       </Audios>
       <Meanings>
         <Meaning id="c4133adf-a93e-4093-b078-36db7ef97321" type="Noun">
@@ -32,10 +32,10 @@
     </Pronunciation>
     <Pronunciation id="841a4a53-0c00-4de4-bbc7-eff9b9085919" ipa="/ˈkɑː.lər/" vi_ipa="cól-a">
       <Audios>
-        <Audio type="male_normal" value="" />
-        <Audio type="male_slow" value="" />
-        <Audio type="female_normal" value="" />
-        <Audio type="female_slow" value="" />
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
       </Audios>
       <Meanings>
         <Meaning id="ca2a34ac-a309-4225-8c2b-3dc7712e0ac1" type="Noun">

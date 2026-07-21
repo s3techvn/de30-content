@@ -1,0 +1,46 @@
+<Vocab id="426a5d6c-79f5-4286-8aa2-8a968ee105e6" word="latitude" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="4154ee4b-9ca7-434e-a440-7533ae53c2ed" value="Marine Navigator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c0f5730e-d624-4461-9bf9-a44fe0fdf8c7" ipa="/ˈlæt.ɪ.tjuːd/" vi_ipa="lết-tít-yút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ea36c3c6-d499-4b99-a814-5f3e06dbf0f3" type="Noun">
+          <Vi>Vĩ độ</Vi>
+          <En>The angular distance of a place north or south of the Earth’s equator, measured in degrees.</En>
+          <Example>Hanoi is located at approximately 21 degrees north latitude.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7e150db-448a-423d-b7cc-cd9f0df7c43e">
+              <Vi>Vị trí địa lý tính từ xích đạo về phía bắc hoặc nam.</Vi>
+              <En>Position on Earth measured as degrees north or south of the equator.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="120ebe96-1bd1-45a4-a1d1-b2e3bd952965" type="Noun">
+          <Vi>Sự tự do hành động; mức độ linh hoạt</Vi>
+          <En>The degree of freedom or scope for action or thought; flexibility or leeway.</En>
+          <Example>The manager gave the team some latitude in how they structured their project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="470b0a92-83ae-4532-9449-b687659eaa9b">
+              <Vi>Cho phép người khác tự do quyết định trong một phạm vi nhất định.</Vi>
+              <En>Allowing someone freedom to make decisions within a certain range.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

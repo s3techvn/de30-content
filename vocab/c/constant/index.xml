@@ -12,10 +12,10 @@
   <Pronunciations>
     <Pronunciation id="95905e9b-023a-4caf-8beb-bc7f69d5cd89" ipa="/ˈkɑːn.stənt/" vi_ipa="con-stần-t">
       <Audios>
-        <Audio type="male_normal" value="" />
-        <Audio type="male_slow" value="" />
-        <Audio type="female_normal" value="" />
-        <Audio type="female_slow" value="" />
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
       </Audios>
       <Meanings>
         <Meaning id="ca4c79e1-1551-472a-8e51-9f6125243ee4" type="Adjective">

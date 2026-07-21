@@ -119,4 +119,7 @@
   <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" slug="any-profession" value="Any Profession" />
   <Profession id="2a0f8ef5-fae8-4b0b-b218-9966c324bd95" slug="marketing-manager" value="Marketing Manager" />
   <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" slug="public-relations-specialist" value="Public Relations Specialist" />
+  <Profession id="97af847a-74ef-4667-8577-89f34613b517" slug="cartographer" value="Cartographer" />
+  <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" slug="pilot" value="Pilot" />
+  <Profession id="4154ee4b-9ca7-434e-a440-7533ae53c2ed" slug="marine-navigator" value="Marine Navigator" />
 </Professions>
