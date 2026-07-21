@@ -1,0 +1,31 @@
+<Vocab id="087356b7-0ab1-4622-b4a8-53d263451b7e" word="unto" type="short" status="pending">
+  <Topics>
+    <Topic id="2d260da7-062a-4341-add0-b2d797e0614a" value="..." />
+  </Topics>
+  <Professions>
+    <Profession id="b8fd67ca-e3b1-4ff1-bd03-fc063afeb9ef" value="..." />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="37ac6482-5165-44d9-8d4d-020b143a1a1d" ipa="..." vi_ipa="...">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="545f9ed0-c59c-425d-8fdb-ce6afc6a2885" type="...">
+          <Vi>...</Vi>
+          <En>...</En>
+          <Example>...</Example>
+          <Situations>
+            <Situation id="8224a23a-86ce-4de8-b324-9e228f24d0f3">
+              <Vi>...</Vi>
+              <En>...</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
