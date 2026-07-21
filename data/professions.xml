@@ -75,4 +75,6 @@
   <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" slug="it-support-specialist" value="IT Support Specialist" />
   <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" slug="artist" value="Artist" />
   <Profession id="46bd54fe-39fb-4c81-ab49-ad9309fd8e18" slug="religious-scholar" value="Religious Scholar" />
+  <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" slug="therapist" value="Therapist" />
+  <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" slug="nurse" value="Nurse" />
 </Professions>

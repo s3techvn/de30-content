@@ -1,0 +1,38 @@
+<Vocab id="cd4e1805-b18a-4970-b850-4155afa5e4b2" word="treating" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2e9e1640-3be2-4948-9961-1fe11b5ccd55" ipa="/ˈtriː.tɪŋ/" vi_ipa="tơ-rít-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2dbea308-100b-47a6-ad7f-0b682c992934" type="Verb">
+          <Vi>điều trị, chăm sóc (bệnh nhân), đối xử với ai cách nào đó</Vi>
+          <En>to attempt to cure or improve a medical condition; to behave toward someone in a specified way</En>
+          <Example>She is treating her migraines with natural remedies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2cb98f51-e077-4dac-949f-890a3e38ef9d">
+              <Vi>Bác sĩ đang điều trị bệnh viêm phổi cho bệnh nhân.</Vi>
+              <En>The doctor is treating the patient for pneumonia.</En>
+            </Situation>
+            <Situation id="35f70d32-477d-4a02-b41b-fac5209dc859">
+              <Vi>Anh ấy đối xử với mọi người một cách tử tế.</Vi>
+              <En>He treats everyone with kindness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
