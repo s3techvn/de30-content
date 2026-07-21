@@ -178,4 +178,5 @@
   <Profession id="e4bbe244-a9c5-4003-912f-39de15581e2d" slug="real-estate" value="Real Estate" />
   <Profession id="3142cc1e-5c04-4c32-969f-026ef3b851be" slug="environmental-science" value="Environmental Science" />
   <Profession id="52797e29-0e1d-4be1-a402-e32ad0213494" slug="search-&amp;-rescue-officer" value="Search &amp; Rescue Officer" />
+  <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" slug="student" value="Student" />
 </Professions>
