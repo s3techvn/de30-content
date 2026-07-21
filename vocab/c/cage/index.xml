@@ -1,0 +1,56 @@
+<Vocab id="f83aa051-efd1-4930-b0ea-38328a72c841" word="cage" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="61a4cd91-8d29-4afc-b9df-7c3c99ab9ca1" value="Prisons" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="cea379da-2024-4a17-9541-a765f4a56db3" value="Animal Trainer" />
+    <Profession id="7b21b88a-d5ff-415b-a3a5-7be484e303a1" value="Prison Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9beb276a-e344-4029-a253-870c8985a424" ipa="/keɪdʒ/" vi_ipa="kê-djơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1cd5032c-4ebe-4a55-a33f-55d2a78e04bf" type="Noun">
+          <Vi>Cái lồng (dùng để nhốt động vật hoặc người)</Vi>
+          <En>A structure, typically made of metal bars, in which birds, animals, or prisoners are confined.</En>
+          <Example>The lion paced back and forth inside its cage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0b4028a-f51d-4bd6-bab8-b7d199901f21">
+              <Vi>Bác sĩ thú y kiểm tra con khỉ đang bị nhốt trong lồng.</Vi>
+              <En>The veterinarian examines the monkey confined in its cage.</En>
+            </Situation>
+            <Situation id="16f7b5a9-915d-4223-b64a-9ecb54afe6c3">
+              <Vi>Nhà tù được xây với các lồng sắt kiên cố.</Vi>
+              <En>The prison was built with sturdy iron cages.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b5e0ab04-bb14-479d-9736-8799787e40f5" type="Verb">
+          <Vi>Nhốt vào lồng; giữ chặt, giam giữ (ai đó)</Vi>
+          <En>To put (an animal or person) in a cage; to confine or restrict someone or something.</En>
+          <Example>The zookeepers cage the birds at night for their safety.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3644a74d-13dc-4be2-9149-733956460d67">
+              <Vi>Nhân viên sở thú đã cage con chim bị thương để điều trị.</Vi>
+              <En>The zookeeper caged the injured bird for treatment.</En>
+            </Situation>
+            <Situation id="197471a0-07e6-4a9c-9d2e-0e16644f84cc">
+              <Vi>Cô ấy cảm thấy như bị cage trong công việc nhàm chán.</Vi>
+              <En>She felt as if she were caged in a boring job.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
