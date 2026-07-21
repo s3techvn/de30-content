@@ -21,4 +21,5 @@
   <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" slug="soldier" value="Soldier" />
   <Profession id="3b0940f0-0182-40de-80c9-700433b06708" slug="editor" value="Editor" />
   <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" slug="office-worker" value="Office Worker" />
+  <Profession id="3d59ad46-f8fe-40bf-b841-e03260c5ef5b" slug="housekeeper" value="Housekeeper" />
 </Professions>
