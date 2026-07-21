@@ -94,4 +94,7 @@
   <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" slug="banker" value="Banker" />
   <Profession id="e0e9ba2e-05bb-40b7-9129-7b17196ca3a7" slug="customer-support-specialist" value="Customer Support Specialist" />
   <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" slug="web-developer" value="Web Developer" />
+  <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" slug="graphic-designer" value="Graphic Designer" />
+  <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" slug="painter" value="Painter" />
+  <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" slug="interior-decorator" value="Interior Decorator" />
 </Professions>
