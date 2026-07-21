@@ -1,0 +1,36 @@
+<Vocab id="6f9d540a-6b6f-405c-b96d-c00e7498e555" word="predict" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d88612c-78c8-4340-8478-0c473540b29d" ipa="/prɪˈdɪkt/" vi_ipa="pờ-rị-đích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b3589943-b5da-424d-b6a0-e77038784c45" type="Verb">
+          <Vi>đưa ra dự đoán; tiên tri; dự báo</Vi>
+          <En>to say that something will happen in the future, especially based on knowledge or experience</En>
+          <Example>The weather service predicted heavy rain for tomorrow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e28c574e-f81e-413e-8f65-036def2e99d0">
+              <Vi>Dự báo thời tiết, xu hướng thị trường, hoặc kết quả sự kiện dựa trên dữ liệu.</Vi>
+              <En>Forecasting weather, market trends, or event outcomes using available data or expertise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
