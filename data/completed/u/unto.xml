@@ -1,0 +1,48 @@
+<Vocab id="087356b7-0ab1-4622-b4a8-53d263451b7e" word="unto" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d4e1e1e0-d66d-45ce-8c72-fac9e761244d" ipa="/ˈʌn.tuː/" vi_ipa="ân-tu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c1482ea2-3144-4114-9f00-d9d31e37663a" type="Preposition">
+          <Vi>tới, đến, cho, với (từ cổ, dùng trong văn thơ hoặc Kinh Thánh)</Vi>
+          <En>To (used chiefly in formal, literary, or biblical contexts).</En>
+          <Example>Do unto others as you would have them do unto you.</Example>
+          <Situations>
+            <Situation id="5bf45c5b-1f9f-4e24-aed0-b9cb42987731">
+              <Vi>Đọc hoặc trích dẫn các văn bản tôn giáo cổ như Kinh Thánh.</Vi>
+              <En>Reading or quoting ancient religious texts like the Bible.</En>
+            </Situation>
+            <Situation id="0f2e6af2-94f6-4a1f-8a97-f014ffd1f7c8">
+              <Vi>Sử dụng trong thơ ca hoặc văn học cổ điển để tạo sắc thái trang trọng, cổ kính.</Vi>
+              <En>Using in poetry or classical literature to create a formal, archaic tone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="355cb2c5-6651-4e6f-b9ea-6e366cc4392f" type="Preposition">
+          <Vi>cho đến khi (nghĩa cổ, chỉ thời gian)</Vi>
+          <En>Until (archaic usage referring to time).</En>
+          <Example>They fought bravely unto the end.</Example>
+          <Situations>
+            <Situation id="99602921-0218-4a2d-b728-8848e50b720c">
+              <Vi>Mô tả các sự kiện lịch sử hoặc kể chuyện theo phong cách sử thi.</Vi>
+              <En>Describing historical events or storytelling in an epic style.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
