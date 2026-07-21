@@ -1,0 +1,56 @@
+<Vocab id="53be022a-3994-4432-a2b6-de73ade6dc41" word="king" type="short" status="done">
+  <Topics>
+    <Topic id="eb27f67e-3a83-4af6-9fa9-70d21f42c8b8" value="Monarchy &amp; Royalty" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="4d315299-7940-49e1-8216-77ae513db957" value="Leadership" />
+  </Topics>
+  <Professions>
+    <Profession id="7b40e6e7-2977-43ad-b807-bdfe3d87aa45" value="Monarch" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55950f22-caca-4777-972d-a3b8149d8d67" ipa="/kɪŋ/" vi_ipa="kinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ab34ad2f-ab77-467e-af43-61fdfbb1f0df" type="Noun">
+          <Vi>Vua</Vi>
+          <En>The male ruler of an independent state, especially one who inherits the position by right of birth.</En>
+          <Example>The king signed the treaty to end the war.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f11dd0f4-b8ff-44dc-a286-ca473c95be4f">
+              <Vi>Trong một quốc gia quân chủ, vua là người đứng đầu nhà nước.</Vi>
+              <En>In a monarchy, the king is the head of state.</En>
+            </Situation>
+            <Situation id="8f4b09e9-4ef0-4547-80ff-52677059acb3">
+              <Vi>Trong ván cờ vua, vua là quân quan trọng nhất; mất vua là thua cuộc.</Vi>
+              <En>In chess, the king is the most important piece; losing it means losing the game.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6b1a261e-1b60-474d-912b-f464bd7a5dcb" type="Noun">
+          <Vi>Người được coi là xuất sắc nhất trong một lĩnh vực nào đó</Vi>
+          <En>A person who is considered the best or most important in a particular field or group.</En>
+          <Example>He’s the king of comedy—everyone laughs at his jokes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9b965a7-05fc-4168-9333-90e2c6f1f936">
+              <Vi>Trong giới âm nhạc, ông ấy được gọi là "vua nhạc pop".</Vi>
+              <En>In the music world, he’s called the "king of pop".</En>
+            </Situation>
+            <Situation id="44ad7ba0-5de8-4553-8c85-2f496b653c46">
+              <Vi>Cô ấy được gọi là "nữ hoàng bánh ngọt", còn chồng cô là "vua bánh ngọt".</Vi>
+              <En>She’s called the "queen of pastries", while her husband is the "king of pastries".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
