@@ -114,4 +114,6 @@
   <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" slug="judge" value="Judge" />
   <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" slug="public-speaker" value="Public Speaker" />
   <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" slug="translator" value="Translator" />
+  <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" slug="religious-leader" value="Religious Leader" />
+  <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" slug="historical-figure" value="Historical Figure" />
 </Professions>

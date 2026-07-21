@@ -1,0 +1,38 @@
+<Vocab id="f8d73c5a-92dc-4c83-bc7a-4401b6312cdf" word="david" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" value="Historical Figure" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d619a78d-d7f5-4229-81ab-76640453d0fe" ipa="/ˈdeɪ.vɪd/" vi_ipa="đê-vít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d91dac0-ff01-4ee7-a3f9-c4d8eb4352b5" type="Proper Noun">
+          <Vi>Tên riêng: David</Vi>
+          <En>A male given name of Hebrew origin, meaning "beloved". In the Bible, King David was a central figure in the Old Testament, known for his wisdom, psalms, and unifying Israel.</En>
+          <Example>David wrote many of the Psalms in the Bible.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f69166a-40d9-4d79-aa1e-3b98385e4e16">
+              <Vi>Người tên David trong Kinh Thánh, vua của Israel, người soạn nhiều Thánh Vịnh.</Vi>
+              <En>The biblical King David, a shepherd who became king of Israel and author of many Psalms.</En>
+            </Situation>
+            <Situation id="d517319e-6f48-406a-b769-286c727747d1">
+              <Vi>Tên gọi phổ biến cho nam giới trong nhiều nền văn hóa phương Tây.</Vi>
+              <En>A common masculine given name in English-, Spanish-, and French-speaking cultures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
