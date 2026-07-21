@@ -1,0 +1,38 @@
+<Vocab id="bb40d15c-5fb8-4ec9-aee8-3dead612c8db" word="wooden" type="short" status="done">
+  <Topics>
+    <Topic id="5aea908f-80f3-46ed-af95-605eae587eec" value="Materials and Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="a86fcb76-f813-45be-8ef9-469d98fd2201" value="Furniture Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dbfbefc0-c310-4534-8c60-66861c934d32" ipa="/ˈwʊd.ən/" vi_ipa="xừ-đờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c596ff6d-44ba-493d-8aab-4bb199e6c5e4" type="Adjective">
+          <Vi>làm bằng gỗ; giống như gỗ; cứng nhắc, thiếu tự nhiên (như người hay diễn xuất)</Vi>
+          <En>made of wood; having the qualities of wood; stiff, unnatural, or lacking spontaneity (especially of speech or movement)</En>
+          <Example>The carpenter built a sturdy wooden table for the dining room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88b49955-04bd-419c-ba78-e893f5a26ded">
+              <Vi>Mô tả đồ vật, cấu trúc hoặc vật liệu được làm từ gỗ tự nhiên.</Vi>
+              <En>Describing objects, structures, or materials made from natural wood.</En>
+            </Situation>
+            <Situation id="75b30286-7bf4-4319-8abb-4f4ae0b4e1e1">
+              <Vi>Mô tả cách nói chuyện hoặc hành động thiếu tự nhiên, gượng ép (thường mang tính chê bai).</Vi>
+              <En>Describing speech or movement that is stiff, unnatural, or overly rehearsed (often critical).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
