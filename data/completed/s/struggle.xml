@@ -1,0 +1,56 @@
+<Vocab id="d18c15b0-918c-4bcf-98e6-7bcd955d09ce" word="struggle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="352f8364-79f9-4db4-8ed0-1a4f6b3892dd" ipa="/ˈstrʌɡ.əl/" vi_ipa="sờ-trờ-gờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d724fae-78ff-400c-bd8e-50890e48ad36" type="Verb">
+          <Vi>đấu tranh, vật lộn (với khó khăn, đối thủ, hoặc chính mình)</Vi>
+          <En>To fight or try hard to achieve something, especially when facing difficulties or opposition.</En>
+          <Example>She struggled to keep her business afloat during the pandemic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c903600f-9860-4d0b-b271-15c63b04d7e3">
+              <Vi>Mô tả việc cố gắng vượt qua thử thách vật lý hoặc tinh thần.</Vi>
+              <En>Describes trying hard to overcome physical or emotional challenges.</En>
+            </Situation>
+            <Situation id="d13839f0-62ee-475a-b67d-ba283e509365">
+              <Vi>Cạnh tranh quyết liệt trong thể thao hoặc kinh doanh.</Vi>
+              <En>Fierce competition in sports or business.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2b3c7228-2249-4ece-8642-c426c4e728c1" type="Noun">
+          <Vi>sự đấu tranh, sự vật lộn (đặc biệt là khó khăn hoặc xung đột)</Vi>
+          <En>A serious effort to achieve something difficult; a conflict or contest.</En>
+          <Example>The struggle for equality continues in many parts of the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1416574-1763-4bc9-92e8-2e76d159d4fd">
+              <Vi>Tình trạng khó khăn tài chính hoặc sức khỏe kéo dài.</Vi>
+              <En>A prolonged period of financial or health-related hardship.</En>
+            </Situation>
+            <Situation id="7ba05788-824c-49e2-9591-b27a149ed73a">
+              <Vi>Xung đột chính trị hoặc xã hội giữa các phe phái.</Vi>
+              <En>Prolonged political or social conflict between opposing groups.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
