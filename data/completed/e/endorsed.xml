@@ -1,0 +1,40 @@
+<Vocab id="3c3d298f-1ae4-4c46-a906-50576f1f8ac7" word="endorsed" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="10a59ac9-acb3-4466-8535-4dc3a64e2bc6" ipa="/ɪnˈdɔːrst/" vi_ipa="in-đao-đớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="815ac0b7-5efd-481e-99d6-c0f59ab9d825" type="Adjective">
+          <Vi>được hậu thuẫn; được phê chuẩn; được ký hậu</Vi>
+          <En>approved, supported, or authorized, especially by a signature or formal endorsement</En>
+          <Example>The check was endorsed by the payee before deposit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="887142df-968e-4601-8aff-d13abbefcf5f">
+              <Vi>Người nhận ký vào mặt sau của séc để xác nhận nhận tiền.</Vi>
+              <En>The recipient signs the back of a check to confirm receipt of funds.</En>
+            </Situation>
+            <Situation id="f685b53d-464e-4c20-9efc-c3e0cd736a23">
+              <Vi>Chính phủ đã phê chuẩn hiệp định thương mại mới.</Vi>
+              <En>The government has approved the new trade agreement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
