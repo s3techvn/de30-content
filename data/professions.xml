@@ -193,4 +193,5 @@
   <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" slug="zoologist" value="Zoologist" />
   <Profession id="60aefeb2-4d29-434b-8ef8-40d5a23306f6" slug="craftsperson" value="Craftsperson" />
   <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" slug="surgeon" value="Surgeon" />
+  <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" slug="network-administrator" value="Network Administrator" />
 </Professions>
