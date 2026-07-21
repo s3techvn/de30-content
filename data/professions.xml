@@ -170,4 +170,5 @@
   <Profession id="610c64b6-83a1-47b6-b8ba-b46dbd0e43da" slug="airline-staff" value="Airline Staff" />
   <Profession id="63341b8b-df91-40d6-a331-21478d52102f" slug="retail-associate" value="Retail Associate" />
   <Profession id="67369275-c0c2-4c6a-9fa4-e6671d7bade0" slug="career-counselor" value="Career Counselor" />
+  <Profession id="a37afd03-4d03-4a3b-b835-9729c309b956" slug="interpreter" value="Interpreter" />
 </Professions>
