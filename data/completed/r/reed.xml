@@ -1,0 +1,32 @@
+<Vocab id="fdd9dea6-89fd-4fce-b82b-03da94ae6b7a" word="reed" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1b6381c-a8be-4f38-92e7-44ce3ed6d4e1" ipa="/riːd/" vi_ipa="rí-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3f313cd1-bf85-43a8-b204-f53bc1840a04" type="Noun">
+          <Vi>sậy</Vi>
+          <En>a tall, slender-leaved plant that grows in wet places.</En>
+          <Example>The musician used a reed to play the clarinet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dbbae037-0ff3-449d-8d00-012392eca4ef">
+              <Vi>Cảnh quan đầm lầy</Vi>
+              <En>Wetland scenery</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
