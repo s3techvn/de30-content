@@ -1,0 +1,38 @@
+<Vocab id="a02bb9dd-c1fb-46b2-91ff-674dabf54d70" word="cuisine" type="short" status="done">
+  <Topics>
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="856adf36-7dd9-486f-a88b-b4e8654bf94a" value="Food Critic" />
+    <Profession id="a5bbdccc-a983-4ce7-affe-1787dfe4c6d5" value="Culinary Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5d969029-23b3-4b02-9d50-e1c0925f5bd5" ipa="/kwəˈziːn/" vi_ipa="cui-din">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="082337a5-8b78-451d-8466-167104b210f6" type="Noun">
+          <Vi>nghệ thuật ẩm thực; phong cách nấu ăn đặc trưng của một vùng hoặc quốc gia</Vi>
+          <En>a style or method of cooking, especially one associated with a particular country, region, or institution</En>
+          <Example>French cuisine is renowned for its sophisticated techniques and rich flavors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ef9034c9-cf43-44e0-aa8c-414936f04a4b">
+              <Vi>Mô tả đặc điểm ẩm thực của một quốc gia hoặc khu vực.</Vi>
+              <En>Describing the characteristic cooking style of a country or region.</En>
+            </Situation>
+            <Situation id="f4b471c1-3325-4d15-b1fa-d5a45da15544">
+              <Vi>Thảo luận về các món ăn cao cấp trong nhà hàng sang trọng.</Vi>
+              <En>Discussing high-end dishes served in fine-dining restaurants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -137,4 +137,6 @@
   <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" slug="jeweler" value="Jeweler" />
   <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" slug="retail-sales-associate" value="Retail Sales Associate" />
   <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" slug="actor" value="Actor" />
+  <Profession id="856adf36-7dd9-486f-a88b-b4e8654bf94a" slug="food-critic" value="Food Critic" />
+  <Profession id="a5bbdccc-a983-4ce7-affe-1787dfe4c6d5" slug="culinary-instructor" value="Culinary Instructor" />
 </Professions>
