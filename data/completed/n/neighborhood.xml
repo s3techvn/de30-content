@@ -1,0 +1,40 @@
+<Vocab id="c1bc25b4-a534-483a-a45d-3c167a405b41" word="neighborhood" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08b74ef8-4e4b-4abb-b236-0a8a9739070f" ipa="/ˈneɪ.bɚ.hʊd/" vi_ipa="nê-i-bờ-hút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07908c39-42b2-46ea-b23f-90f2fc0bc40a" type="Noun">
+          <Vi>Khu vực, khu dân cư, hàng xóm</Vi>
+          <En>The area surrounding a particular place or where a particular group of people live; the people living near one another.</En>
+          <Example>She loves her neighborhood because everyone is friendly and helps each other.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c122165d-d146-474a-b2c4-8d71370ca01d">
+              <Vi>Mô tả nơi bạn sống, bao gồm các nhà dân, công viên, cửa hàng gần đó.</Vi>
+              <En>Describing the local area where you live, including houses, parks, and nearby shops.</En>
+            </Situation>
+            <Situation id="e4267f14-3b95-4e99-a35a-e9bc11779de4">
+              <Vi>Nhắc đến cộng đồng người sống gần nhau, đặc biệt trong bối cảnh tương hỗ, thân thiện.</Vi>
+              <En>Referring to the community of people living close to each other, especially in a friendly, supportive context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
