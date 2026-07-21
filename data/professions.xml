@@ -104,4 +104,5 @@
   <Profession id="b214c948-1931-40f4-9cdb-8701d2eaec15" slug="hotel-staff" value="Hotel Staff" />
   <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" slug="event-planner" value="Event Planner" />
   <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" slug="customer-service-representative" value="Customer Service Representative" />
+  <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" slug="sociologist" value="Sociologist" />
 </Professions>
