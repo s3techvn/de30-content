@@ -1,0 +1,40 @@
+<Vocab id="70a6f4aa-ebd7-4d3f-a67e-598733fbd42b" word="quest" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="9637e361-1510-45c9-9401-1612a015c195" value="Gaming" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" value="Game Designer" />
+    <Profession id="3b061ab0-3aad-46d4-89e6-97266cef637f" value="Fantasy Writer" />
+    <Profession id="bc1e22c6-2d1b-4477-baf4-248ff3c9441c" value="Career Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb7cb36c-b0b6-46b7-bfa4-dd2d00cd338a" ipa="/kwest/" vi_ipa="cư-ét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="97e98293-52f7-4db9-a1da-452574ef0451" type="Noun">
+          <Vi>Nhiệm vụ hoặc hành trình tìm kiếm điều gì đó quan trọng, thường đầy thử thách và ý nghĩa biểu tượng.</Vi>
+          <En>A long or difficult search for something, especially one that is challenging, meaningful, or symbolic.</En>
+          <Example>The knight embarked on a quest to find the Holy Grail.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="440e192e-fcab-4138-9750-cb53bce40e84">
+              <Vi>Một nhân vật trong truyện cổ tích hoặc game nhập vai nhận nhiệm vụ giải cứu công chúa.</Vi>
+              <En>A character in a fairy tale or RPG game receives a mission to rescue a princess.</En>
+            </Situation>
+            <Situation id="5e955ff2-1e3f-4acc-bfee-c773476ca814">
+              <Vi>Một người đi tìm ý nghĩa cuộc sống hoặc mục tiêu cá nhân sâu sắc.</Vi>
+              <En>A person embarks on a personal journey to discover deeper meaning or life purpose.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

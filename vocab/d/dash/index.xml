@@ -1,0 +1,56 @@
+<Vocab id="9da21095-f420-4e81-a2d3-8c09830f1c84" word="dash" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c9d1ac86-3786-4857-be95-9cbf5da4ecc7" value="Writing" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3d812be0-9ec5-41c1-a739-bd5aed98563c" value="Programmer" />
+    <Profession id="88ac3095-3a84-4e9e-ac91-2b24e71e88cd" value="Courier/Delivery Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6957e24f-6c26-4392-82ce-331bfa38ff7a" ipa="/dæʃ/" vi_ipa="đăm">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="972829c1-89db-4b4b-a7be-78a6926eefc1" type="Noun">
+          <Vi>Dấu gạch ngang (trong văn bản); sự lao nhanh, sự phi nước rút</Vi>
+          <En>A short, horizontal line used in writing or printing; a quick, fast movement or run</En>
+          <Example>Use two dashes to set off an explanatory phrase in a sentence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07ad75d8-4ac4-44f5-bbee-910359a2496d">
+              <Vi>Trong soạn thảo văn bản, dấu gạch ngang được dùng để chèn vào giữa các từ hoặc cụm từ.</Vi>
+              <En>In text editing, a dash is inserted between words or phrases to indicate a pause or addition.</En>
+            </Situation>
+            <Situation id="b9b8a36f-549f-4cd3-992e-10a3e27b4559">
+              <Vi>Anh ấy lao vọt ra khỏi phòng sau khi nghe tin dữ.</Vi>
+              <En>He dashed out of the room after hearing the bad news.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1d88456a-9aab-4de8-9b95-c85f1621960b" type="Verb">
+          <Vi>Chạy nhanh, lao vọt; đánh dấu bằng dấu gạch ngang</Vi>
+          <En>To move or run quickly and suddenly; to mark with dashes</En>
+          <Example>She dashed across the street before the light turned red.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="adca0417-f6f8-4730-8567-28b02327ac29">
+              <Vi>Người đưa thư lao vọt tới cửa để giao bưu kiện.</Vi>
+              <En>The mail carrier dashed to the door to deliver the package.</En>
+            </Situation>
+            <Situation id="fecb134e-d77c-4116-996b-d4975bde9ebb">
+              <Vi>Tác giả dùng dấu gạch ngang để chèn lời bình luận vào đoạn văn.</Vi>
+              <En>The author dashed a comment into the paragraph using em dashes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

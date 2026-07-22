@@ -1,0 +1,38 @@
+<Vocab id="9bd392f5-ccab-4441-bd53-012d22b313f6" word="vaccine" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cd2bb245-d40c-4c70-814d-46e38c729a2d" ipa="/ˈvæk.sɪn/" vi_ipa="vắc-xin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d56c07ec-1877-426d-8703-31e57e0776e6" type="Noun">
+          <Vi>Thuốc phòng bệnh được tiêm vào cơ thể để tạo miễn dịch</Vi>
+          <En>A biological preparation that provides immunity to a particular infectious disease, typically administered via injection</En>
+          <Example>The government launched a nationwide vaccination campaign to combat the outbreak.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="872c24af-b7c7-4e1f-8fb7-5b8e63b4ecff">
+              <Vi>Bệnh viện tiêm vaccine phòng cúm cho học sinh</Vi>
+              <En>A hospital administers flu vaccines to schoolchildren</En>
+            </Situation>
+            <Situation id="7770888e-e706-4b75-9440-362162cbc67c">
+              <Vi>Nhà khoa học nghiên cứu vaccine cho virus mới</Vi>
+              <En>A scientist develops a vaccine for a new virus</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

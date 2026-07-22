@@ -1,0 +1,33 @@
+<Vocab id="fe7342b4-6489-45f1-8078-b0ef77c552fd" word="veterinary" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e5855490-7d23-4169-b845-d9e46812b76c" ipa="/ˌvɛtəˈrɪnəri/" vi_ipa="vê-tơ-ri-nê-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0c03d186-9aa2-4983-9148-05f656068703" type="Adjective">
+          <Vi>thuộc về thú y</Vi>
+          <En>relating to the medical care of animals</En>
+          <Example>She's studying veterinary medicine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8aae75a8-5a30-4e9a-a7ec-6530a28ff2dc">
+              <Vi>Bác sĩ đang khám bệnh cho con chó.</Vi>
+              <En>The veterinarian is examining the dog.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
