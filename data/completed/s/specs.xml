@@ -1,0 +1,39 @@
+<Vocab id="11b55ab4-0e13-4dbe-9c61-5ae0e22e0637" word="specs" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+    <Profession id="6301697c-ce7b-4366-9a6d-5c909a464390" value="Hardware Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9724bbea-91e6-415f-b45f-8c10bbdc62ac" ipa="/spɛks/" vi_ipa="xpec-x">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9277c3f8-acd5-4fe3-80a0-7c0b7ff5847f" type="Noun">
+          <Vi>thông số kỹ thuật; đặc điểm kỹ thuật</Vi>
+          <En>Short for specifications; detailed descriptions of features, dimensions, performance criteria, or requirements of a product, system, or component.</En>
+          <Example>The laptop’s specs include a 2.5 GHz processor, 16 GB RAM, and a 512 GB SSD.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="48b8025e-93e0-4acb-8ece-7033409df4b5">
+              <Vi>Mua sắm thiết bị điện tử, so sánh khả năng hoạt động giữa các mẫu.</Vi>
+              <En>Comparing technical capabilities of electronic devices before purchase.</En>
+            </Situation>
+            <Situation id="d839e20d-19f8-4ef4-ae90-3e3399a68632">
+              <Vi>Đọc tài liệu kỹ thuật hoặc yêu cầu dự án.</Vi>
+              <En>Reviewing technical documentation or project requirements.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
