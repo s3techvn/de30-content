@@ -1,0 +1,37 @@
+<Vocab id="6f2cec5f-18b6-4dd2-bf95-7bfae7d3abd7" word="pillow" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3d59ad46-f8fe-40bf-b841-e03260c5ef5b" value="Housekeeper" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="92432606-0123-42ea-96a6-a0edba66dfb0" ipa="/ˈpɪl.ər/" vi_ipa="pí-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8ac816cd-c094-49b4-b12a-afa57c739ded" type="Noun">
+          <Vi>Cái gối</Vi>
+          <En>A cushion used to support the head, especially while sleeping or resting.</En>
+          <Example>She fluffed the pillow before lying down.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68bb2bde-55c7-48b5-950a-a0ce70d883c7">
+              <Vi>Đặt đầu lên gối khi ngủ.</Vi>
+              <En>Placing one’s head on a pillow while sleeping.</En>
+            </Situation>
+            <Situation id="c3837583-f8b1-48dc-bb72-e2cc2e60ccd6">
+              <Vi>Mua gối mới để thay thế gối cũ.</Vi>
+              <En>Buying a new pillow to replace an old one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

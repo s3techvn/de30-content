@@ -1,0 +1,56 @@
+<Vocab id="27c26f50-09ac-4945-ab57-ba54333e0bf4" word="saw" type="short" status="done">
+  <Topics>
+    <Topic id="087f5542-c534-4718-aecc-4e45ae347922" value="Tools" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="47b6e1cf-93e4-4cda-abb1-4aa13c18f637" value="Woodworker" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2360a95a-1084-40d4-aa07-770b6fbc6eeb" ipa="/sɔː/" vi_ipa="xao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="70321389-1624-49d0-8dae-b3608223bb43" type="Noun">
+          <Vi>Cái cưa</Vi>
+          <En>A tool with a toothed edge, used for cutting materials such as wood or metal.</En>
+          <Example>He sharpened the saw before starting the woodworking project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a022819a-1f5d-4984-b37c-8b5c6fc18355">
+              <Vi>Sử dụng trong xây dựng hoặc làm đồ gỗ để cắt gỗ.</Vi>
+              <En>Used in construction or woodworking to cut wood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f066485e-5a48-4cb5-970e-f5dbcbe983d0" ipa="/sɔː/" vi_ipa="xao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d8940d22-e15a-4870-8b3e-fb40354b5c2d" type="Verb">
+          <Vi>Cưa (vật gì đó)</Vi>
+          <En>To cut (something, typically wood or metal) with a saw.</En>
+          <Example>They sawed the plank into three equal pieces.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8bdbbe7-c9ae-4a71-9a01-8299f6c1c80e">
+              <Vi>Hành động dùng cưa để cắt vật liệu.</Vi>
+              <En>The action of using a saw to cut a material.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
