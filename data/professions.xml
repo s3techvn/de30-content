@@ -316,4 +316,5 @@
   <Profession id="1c9f93ca-e771-45bc-bd12-118505fa7395" slug="business-owner" value="Business Owner" />
   <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" slug="construction-manager" value="Construction Manager" />
   <Profession id="4efedf75-5888-453e-93b1-588758b65917" slug="environmental-engineer" value="Environmental Engineer" />
+  <Profession id="756cd5a7-9893-47d6-877f-5c8b02252221" slug="religious-figure" value="Religious Figure" />
 </Professions>
