@@ -1,0 +1,38 @@
+<Vocab id="55319c5e-112f-43fa-b8e9-c4c84a91436c" word="stupid" type="short" status="done">
+  <Topics>
+    <Topic id="2e809121-46a8-43c4-a499-a1333620207e" value="Personality &amp; Behavior" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cf536740-d2f2-4187-920a-2357da537ae6" ipa="/ˈstuː.pɪd/" vi_ipa="x-túp-pít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="55eb573c-09fd-48b0-9727-7cda0ca9fa7c" type="Adjective">
+          <Vi>ngu ngốc, ngốc nghếch, thiếu trí tuệ</Vi>
+          <En>showing a lack of intelligence or common sense; foolish</En>
+          <Example>He made a stupid mistake by ignoring the safety instructions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01381326-d6f7-4416-8440-2f96f0ec9e66">
+              <Vi>Mô tả hành vi hoặc quyết định thiếu suy nghĩ, dẫn đến hậu quả tiêu cực.</Vi>
+              <En>Describing behavior or a decision that shows poor judgment or lack of thought.</En>
+            </Situation>
+            <Situation id="b7df5631-abb0-4b1b-b47e-47c83a299c56">
+              <Vi>Dùng để chỉ một người thường xuyên hành động thiếu lý trí.</Vi>
+              <En>Used to describe someone who frequently acts without rational thinking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

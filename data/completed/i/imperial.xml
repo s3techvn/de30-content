@@ -1,0 +1,52 @@
+<Vocab id="2fdea3d9-fb26-40d4-be82-9a0d355c1113" word="imperial" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b879c202-ef9d-41a1-88d0-25bf9bf25433" ipa="/ɪmˈpɪə.ri.əl/" vi_ipa="im-pi-ơ-ri-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="90f021ac-39d9-44e9-a97d-24ad5a7e66e7" type="Adjective">
+          <Vi>thuộc về đế quốc; hoàng gia; tối cao, tuyệt đối</Vi>
+          <En>relating to an empire or emperor; royal; supreme or absolute in power or authority</En>
+          <Example>The imperial palace was built during the height of the dynasty’s power.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a655e36-c655-414f-84b4-ed9328ea1987">
+              <Vi>Mô tả các thể chế, biểu tượng, hoặc quyền lực liên quan đến đế chế (như Trung Hoa, Nhật Bản, Ottoman).</Vi>
+              <En>Used when describing institutions, symbols, or authority tied to an empire (e.g., Chinese, Japanese, Ottoman).</En>
+            </Situation>
+            <Situation id="9597c67a-50a8-4ad7-9041-5ead00a0aa9e">
+              <Vi>Chỉ sự tối thượng, không thể tranh cãi (nghĩa bóng).</Vi>
+              <En>Used metaphorically to denote unquestionable authority or dominance (e.g., “imperial control”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="59f326b6-9ecb-4016-9b28-1547d74ce62f" type="Adjective">
+          <Vi>thuộc hệ thống đo lường Anh (như inch, pound, gallon)</Vi>
+          <En>relating to the system of units traditionally used in the United Kingdom (e.g., inch, pound, gallon), especially as distinct from the metric system</En>
+          <Example>The recipe uses imperial measurements: 1 pint of milk and 2 pounds of flour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1561da6-bfd8-4a4e-b6c4-9fa3398f0be9">
+              <Vi>Trong bối cảnh đo lường, đặc biệt ở Anh và một số nước Commonwealth.</Vi>
+              <En>In contexts involving measurement, especially in the UK and some Commonwealth countries where imperial units are still in use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
