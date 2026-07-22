@@ -1,0 +1,66 @@
+<Vocab id="2abc6fa4-6794-4380-92a1-6aad47ed686c" word="lobby" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="7358b72e-0703-41a5-a4de-85e658dfc356" value="Lobbyist" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89cc2009-97ee-4c3f-a7d7-d3e72f27571d" ipa="/ˈlɑː.bi.əʊ/" vi_ipa="lốp-bi-ô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="63290eec-0ba6-4ac7-9472-c4e6d59e5255" type="Noun">
+          <Vi>Sảnh lớn (trong khách sạn, tòa nhà, hoặc quốc hội); hoạt động vận động hành lang</Vi>
+          <En>A large entrance hall in a building, especially a hotel or public building; or the activity of trying to influence politicians or public officials to pass or block legislation.</En>
+          <Example>The delegation waited in the lobby of the Capitol building before the hearing began.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d462718e-b892-48bd-89aa-ce76d5630f37">
+              <Vi>Mô tả không gian tiếp đón trong khách sạn hoặc tòa nhà công cộng.</Vi>
+              <En>Describing the main entrance area of a hotel or government building.</En>
+            </Situation>
+            <Situation id="0647a5a3-68b1-4adf-b112-6bf969975327">
+              <Vi>Mô tả hoạt động vận động hành lang nhằm ảnh hưởng đến quyết định chính trị.</Vi>
+              <En>Describing efforts by individuals or groups to influence lawmakers’ decisions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="173fbce8-5bd0-4f84-af5a-5b462f230602" ipa="/ˈlɑː.bi.əʊ/" vi_ipa="lốp-bi-ô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1ecac0b4-49aa-4256-9728-8503040ed7e6" type="Verb">
+          <Vi>Vận động hành lang; đưa vào sảnh (để chờ)</Vi>
+          <En>To attempt to influence politicians or public officials to support or oppose particular legislation; or to lead someone into a lobby (especially to wait).</En>
+          <Example>Corporate lawyers often lobby Congress to shape environmental regulations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="11e70ac1-3086-4d5d-9b57-367934a3bf1b">
+              <Vi>Mô tả hành vi vận động chính trị nhằm thay đổi luật pháp.</Vi>
+              <En>Describing efforts by interest groups to sway legislative outcomes.</En>
+            </Situation>
+            <Situation id="0abbb6a7-e8d9-4bc7-bdc6-bedbb558f095">
+              <Vi>Mô tả việc dẫn ai đó vào sảnh chờ trong tòa nhà.</Vi>
+              <En>Describing the act of escorting someone into a waiting area in a building.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

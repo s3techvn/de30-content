@@ -1,0 +1,56 @@
+<Vocab id="a90e28b6-8792-4c8a-b496-3c0fc7f13805" word="suspect" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="73557f49-4f53-49de-861d-46d819311cd4" value="Detective" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf06223d-3de4-4df6-9ef8-5f9a3f21b0e7" ipa="/səˈspɛkt/" vi_ipa="xơ-xpết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a3a7b142-8c94-4c7f-8622-4231636e0956" type="Verb">
+          <Vi>ngờ, nghi ngờ</Vi>
+          <En>to have an idea or suspicion that something is the case, especially something bad or wrong</En>
+          <Example>I suspect he’s lying about where he was last night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="439044a2-e420-4509-80da-bb13d291a231">
+              <Vi>Thể hiện sự hoài nghi về một điều gì đó, thường là hành vi hoặc lời nói không đáng tin cậy.</Vi>
+              <En>Expressing doubt or mistrust about someone’s actions or statements.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c8e5016a-d7c6-4c78-b27f-8d46315b40ef" ipa="/ˈsʌspɛkt/" vi_ipa="xờ-xpết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d169bd68-79a1-443a-a50e-a5da6a998dc8" type="Noun">
+          <Vi>người bị nghi, nghi phạm</Vi>
+          <En>a person who is suspected of committing a crime or doing something wrong</En>
+          <Example>The police are still searching for the main suspect in the robbery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb85eccd-63b0-48f6-aef8-28423b442289">
+              <Vi>Sử dụng trong điều tra hình sự để chỉ người có dấu hiệu phạm tội.</Vi>
+              <En>Used in criminal investigations to refer to someone believed to be involved in a crime.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
