@@ -1,0 +1,40 @@
+<Vocab id="d0e63228-3ba3-4905-84af-c9e478bf9c49" word="oasis" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0087e2cc-8c10-4dd1-9509-50f9adcd3403" ipa="/ˈoʊ.ə.sɪs/" vi_ipa="ô-ê-xi-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3decffa7-0a62-44c7-a743-34936f696ba0" type="Noun">
+          <Vi>ốc đảo; ốc đảo xanh tốt giữa sa mạc</Vi>
+          <En>a fertile area in a desert where water is found, typically supporting vegetation and human settlement</En>
+          <Example>The travelers were relieved to spot an oasis after days of crossing the scorching desert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e72c64e3-f980-4244-b597-5d9f674549f4">
+              <Vi>Mô tả một vùng đất xanh tốt giữa sa mạc, nơi du khách có thể tìm nước và nghỉ ngơi.</Vi>
+              <En>A lush patch of land in the middle of a desert where travelers can find water, shade, and rest.</En>
+            </Situation>
+            <Situation id="21e43ee9-32ac-4b38-a099-20159cfe2912">
+              <Vi>Ngụ ý ẩn dụ về một nơi yên bình, an toàn giữa bối cảnh căng thẳng hoặc hỗn loạn.</Vi>
+              <En>A metaphorical place of peace and relief amid a stressful or chaotic situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

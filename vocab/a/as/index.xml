@@ -1,0 +1,56 @@
+<Vocab id="7245ed8f-fea9-4576-a234-0eb4d15afbd8" word="as" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="783cc744-9725-40e8-a38b-2d8150b99eb9" ipa="/əz/" vi_ipa="ơ-zờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f9f5b442-5fe3-49cc-bc25-7ccc28b763eb" type="Preposition">
+          <Vi>như, như là</Vi>
+          <En>used to indicate that something has the same identity, quality, or function as something else.</En>
+          <Example>She works as a teacher.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79699065-1bd3-49c9-a072-325f5354e2a5">
+              <Vi>Mô tả vai trò, chức năng, hoặc bản chất tương đương.</Vi>
+              <En>Used to describe role, function, or equivalent nature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4f307399-c792-44ac-b0b9-3afcdf85cfeb" type="Conjunction">
+          <Vi>khi, trong khi, vì, như là</Vi>
+          <En>used to introduce a clause indicating time, cause, or comparison.</En>
+          <Example>As I was walking, it started to rain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="501018fd-0797-4630-aa23-fb8df9b93c51">
+              <Vi>Chỉ thời gian đồng thời hoặc nguyên nhân.</Vi>
+              <En>Indicates simultaneous time or cause.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="90c207fd-c70d-4875-afa4-a0d965f5dd11" type="Adverb">
+          <Vi>đến mức, như vậy</Vi>
+          <En>used to introduce a comparison or degree.</En>
+          <Example>He is not as tall as his brother.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e99b9f49-5071-41fb-b148-934a956c9066">
+              <Vi>Dùng trong cấu trúc so sánh ngang bằng.</Vi>
+              <En>Used in equative comparison structures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
