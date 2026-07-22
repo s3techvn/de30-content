@@ -443,4 +443,6 @@
   <Profession id="1f25b3ce-9179-43d0-bc3a-22cc33452d32" slug="classicist" value="Classicist" />
   <Profession id="26a1340c-732e-47f5-bd83-0bbec963d268" slug="3d-artist" value="3D Artist" />
   <Profession id="c32e9183-4034-4161-a5b5-03540b542203" slug="product-designer" value="Product Designer" />
+  <Profession id="2f4f9ade-392a-4131-b575-39ebe1638521" slug="cryptographer" value="Cryptographer" />
+  <Profession id="b012a32f-5e17-4ba5-87fc-59166c3d0c61" slug="military-intelligence-officer" value="Military Intelligence Officer" />
 </Professions>
