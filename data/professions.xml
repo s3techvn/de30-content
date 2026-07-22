@@ -323,4 +323,5 @@
   <Profession id="6a68b33d-3199-49e9-b113-f067085f36ea" slug="e_commerce-specialist" value="E-commerce Specialist" />
   <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" slug="agricultural-engineer" value="Agricultural Engineer" />
   <Profession id="f362ad08-79b7-4d86-abf3-41b28e54a155" slug="agronomist" value="Agronomist" />
+  <Profession id="624d96df-72db-4157-8ab3-829f154a8481" slug="urban-planning" value="Urban Planning" />
 </Professions>
