@@ -1,0 +1,40 @@
+<Vocab id="8c30518f-75cd-40f8-8690-ab222516d065" word="immediately" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="14180251-57bc-478b-8b8c-e907239ceedf" value="Emergency" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b7b692f3-1337-435d-a03f-8719e8777159" ipa="/ɪˈmiː.di.ət.li/" vi_ipa="i-mi-đi-át-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9778e5c0-a607-4553-8568-a6e7859c91a4" type="Adverb">
+          <Vi>ngay lập tức, ngay tức khắc, ngayay</Vi>
+          <En>without delay; at once</En>
+          <Example>Please submit the report immediately after the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b3e4dbb-5a89-4744-af94-bd7e545afa4a">
+              <Vi>Tình huống khẩn cấp yêu cầu hành động ngay lập tức.</Vi>
+              <En>An emergency situation requiring immediate action.</En>
+            </Situation>
+            <Situation id="dfa74203-d558-4bce-9b03-7ad8b03b088e">
+              <Vi>Lệnh từ cấp trên được thực hiện ngay lập tức.</Vi>
+              <En>A directive from management is carried out immediately.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
