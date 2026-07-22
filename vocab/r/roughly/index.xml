@@ -1,0 +1,38 @@
+<Vocab id="0bf0d569-da00-458d-8560-c2b48c15480a" word="roughly" type="short" status="done">
+  <Topics>
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eea6a587-6c99-44e7-b8ea-6ac3b1da2ebb" ipa="/ˈrʌf.li/" vi_ipa="rà-fli">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="26d6fc02-a8b2-44e8-a393-7c90527ff0f5" type="Adverb">
+          <Vi>gần như, khoảng, đại khái</Vi>
+          <En>approximately; about; not exactly, but close enough for practical purposes</En>
+          <Example>We roughly estimated the cost at $500.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f98e000c-0f35-466e-94c3-e551befa0a97">
+              <Vi>Sử dụng khi đưa ra một con số hoặc đánh giá ước lượng không chính xác nhưng đủ gần để dùng trong thực tế.</Vi>
+              <En>Used when giving an approximate number or estimate that is not exact but sufficient for practical use.</En>
+            </Situation>
+            <Situation id="2e2817ee-a16e-45e2-a4bc-18e4c49322d0">
+              <Vi>Trong hội thoại, để làm nhẹ tính chính xác của một phát biểu.</Vi>
+              <En>In conversation, to soften the precision of a statement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
