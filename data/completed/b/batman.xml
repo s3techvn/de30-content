@@ -1,0 +1,32 @@
+<Vocab id="8c4196ac-d2fd-40f3-ada4-08c442804e0a" word="batman" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="d8dc7f4e-838d-48d8-8d56-bd067de91cb9" value="Comic Book Character" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21ffa08d-9326-41d3-a7e3-784dad2c2684" ipa="/ˈbæt.mæn/" vi_ipa="bết-mên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd9e131d-f2d7-4a97-ba61-7b2352b9aac7" type="Noun">
+          <Vi>Người dơi (tên nhân vật siêu anh hùng trong truyện tranh DC Comics)</Vi>
+          <En>A fictional superhero appearing in American comic books published by DC Comics, who fights crime in Gotham City using his wealth, intelligence, and martial arts skills.</En>
+          <Example>Batman has no superpowers but relies on his detective skills and advanced technology.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="585bb9e0-9a07-4a7d-9acf-d6b3a822bfe7">
+              <Vi>Trong phim hoạt hình hoặc truyện tranh, Batman thường xuất hiện với bộ giáp hình dơi và chống lại các tên tội phạm như Joker.</Vi>
+              <En>In movies, animated series, or comics, Batman appears in a bat-themed suit and fights villains like the Joker.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

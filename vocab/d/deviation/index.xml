@@ -1,0 +1,44 @@
+<Vocab id="a3fb6afd-50fc-41f5-a2c6-9926b1c65c1b" word="deviation" type="short" status="done">
+  <Topics>
+    <Topic id="34134c5e-ab79-4768-9e2b-fdb09b8d050e" value="Statistics" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="c7e99f84-5e72-4f0d-a6c2-e87afe0f28e0" value="Behavior" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="71d75f44-3b80-4788-97e7-ae07a1351240" value="Quality Control Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f756567d-282b-4a42-bfa6-bb12fe6b2cb2" ipa="/ˌdiː.viˈeɪ.ʃən/" vi_ipa="đi-vi-ê-i-ên">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1690b634-34e9-4050-8bc9-79119daad1bd" type="Noun">
+          <Vi>Sự lệch chuẩn; sự sai lệch</Vi>
+          <En>The amount by which something differs from a standard, expected, or desired value or condition.</En>
+          <Example>The actual output was 12% above target, a significant deviation from the plan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c3f7106-3ff1-4e00-b73f-9c3a02cd6156">
+              <Vi>Trong thống kê, độ lệch chuẩn đo lường mức độ phân tán của dữ liệu so với giá trị trung bình.</Vi>
+              <En>In statistics, standard deviation measures how spread out data points are from the mean.</En>
+            </Situation>
+            <Situation id="fd7da3e9-04cb-49de-b39b-149e69892de1">
+              <Vi>Trong sản xuất, sai số vượt quá ngưỡng cho phép được gọi là sai lệch chất lượng.</Vi>
+              <En>In manufacturing, a deviation beyond the allowed tolerance is called a quality deviation.</En>
+            </Situation>
+            <Situation id="102b6a8c-14e3-40f1-9c49-2db962c4033d">
+              <Vi>Trong tâm lý học, hành vi lệch chuẩn có thể là dấu hiệu của rối loạn.</Vi>
+              <En>In psychology, deviant behavior may indicate a psychological disorder.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

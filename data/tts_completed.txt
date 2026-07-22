@@ -291,3 +291,4 @@ crack
 bow
 check
 physical
+deviation
