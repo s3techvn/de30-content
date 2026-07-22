@@ -1,0 +1,54 @@
+<Vocab id="090ac8cb-e659-4885-a4c2-6e36fe19d50d" word="preview" type="short" status="done">
+  <Topics>
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a8cf82c-d0dc-408a-bbed-d51f6c1094a8" ipa="/ˈpriː.vjuː/" vi_ipa="p-ri-viu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="14cf1970-b2b8-4716-b5c0-db2e39884fe1" type="Verb">
+          <Vi>Xem trước, xem thử</Vi>
+          <En>To examine or study something before its official release or publication.</En>
+          <Example>The director watched a preview of the film to check for editing errors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8cc016b0-600f-421b-ac8e-db0a45e24ce6">
+              <Vi>Đạo diễn xem bản xem trước của phim trước khi phát hành.</Vi>
+              <En>A director reviews a film’s preview before its official release.</En>
+            </Situation>
+            <Situation id="a803029e-2e5a-4129-95ea-4050d1e01a7e">
+              <Vi>Nhà xuất bản gửi bản xem trước sách cho các nhà phê bình.</Vi>
+              <En>The publisher sends advance copies (previews) of the book to reviewers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f1e05ac-03a1-4591-addc-5121cdb5fb06" type="Noun">
+          <Vi>Bản xem trước, bản giới thiệu</Vi>
+          <En>A preliminary version of a film, book, or other media shown before its official release.</En>
+          <Example>The studio released a teaser preview online two weeks before the premiere.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8bf6d85-ee73-4aaa-b928-35ac12ee4577">
+              <Vi>Xem bản xem trước phim tại rạp trước khi phim ra mắt.</Vi>
+              <En>Viewing a movie preview at the cinema before the main feature.</En>
+            </Situation>
+            <Situation id="230a462b-8be6-4b50-a294-1a428841bfd9">
+              <Vi>Báo chí đăng bài giới thiệu bản xem trước sản phẩm mới.</Vi>
+              <En>The press published an article featuring a preview of the new product.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,45 @@
+<Vocab id="a8edd78b-6ef3-40f8-903f-490b27d88d42" word="subtle" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="69c5182c-0f79-413f-8848-cbdd6f800d95" value="Art &amp; Aesthetics" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="b9881a80-f502-49ad-aa0c-0c3e6b949835" value="Negotiator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="74279fd4-0e51-4400-bd7a-c13df52ae678" ipa="/ˈsʌt.l̬/" vi_ipa="xát-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d94729f-c0f9-4272-ae9a-96fe091d6a78" type="Adjective">
+          <Vi>Tinh tế; tế nhị; khó nhận ra; tinh xảo</Vi>
+          <En>Delicate or subtle in appearance, manner, or effect; not obvious or direct; requiring careful observation to understand.</En>
+          <Example>The artist used subtle shades of blue to convey a sense of calm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="16670607-8b13-4d2b-8856-625f39aa8c0b">
+              <Vi>Mô tả một phong cách viết hoặc nói khéo léo, không trực tiếp nhưng vẫn truyền tải được thông điệp.</Vi>
+              <En>Describing a writing or speaking style that is skillful and indirect but still effectively conveys the message.</En>
+            </Situation>
+            <Situation id="da195206-0e00-48c9-8689-29f1eb09f211">
+              <Vi>Một sự thay đổi nhỏ nhưng có ý nghĩa trong thiết kế hoặc màu sắc.</Vi>
+              <En>A small but meaningful change in design or color.</En>
+            </Situation>
+            <Situation id="24ea3008-c157-4ebb-8c11-be57aa2f19da">
+              <Vi>Một cảm xúc hoặc ám chỉ được thể hiện gián tiếp, không rõ ràng.</Vi>
+              <En>An emotion or implication expressed indirectly, not explicitly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
