@@ -1,0 +1,54 @@
+<Vocab id="4ea1df26-cbf9-42f6-9129-9fa2cccf17e2" word="verbal" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ab74cf0-6f58-46c1-98e4-3e947f14dd15" ipa="/ˈvɜːr.bəl/" vi_ipa="vơ-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0136b8fb-67e9-491b-a128-a01a56e5673b" type="Adjective">
+          <Vi>thuộc về lời nói; bằng lời nói</Vi>
+          <En>relating to or consisting of words, especially spoken words rather than written ones.</En>
+          <Example>She gave a verbal warning before issuing a formal written notice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5f72c83-ed2a-46b7-a0f5-e50fca4c54bc">
+              <Vi>Trong pháp lý, cảnh báo bằng lời thay vì văn bản chính thức.</Vi>
+              <En>In legal contexts, a warning given orally instead of in writing.</En>
+            </Situation>
+            <Situation id="067d76e3-66cc-427d-a710-5e37ec2743ea">
+              <Vi>Mô tả một hợp đồng không được ghi thành văn.</Vi>
+              <En>Describing a contract that is not put in writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9b691237-5214-4492-8bf9-5976244a6e9b" type="Adjective">
+          <Vi>liên quan đến từ ngữ; dùng từ</Vi>
+          <En>relating to words or language, especially in contrast to nonverbal communication.</En>
+          <Example>His verbal skills are excellent, but he struggles with written expression.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2a63261-4c03-454c-ae8a-0a2eb1de4a9f">
+              <Vi>Khi đánh giá năng lực ngôn ngữ của học sinh.</Vi>
+              <En>When assessing a student’s language abilities.</En>
+            </Situation>
+            <Situation id="e48226cb-d3cd-4ef6-be48-9f1ceeddab76">
+              <Vi>Phân biệt giữa giao tiếp bằng lời và bằng hành động.</Vi>
+              <En>Distinguishing between verbal and nonverbal communication.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
