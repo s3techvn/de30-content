@@ -1,0 +1,62 @@
+<Vocab id="576a6979-c1f0-42ec-839c-1eb2ac9b53ca" word="mouth" type="short" status="done">
+  <Topics>
+    <Topic id="a76be03c-4dd3-4398-8f30-e57fac421dcb" value="Body &amp; Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+    <Profession id="e5eea47f-9706-4773-9915-55b81225db2e" value="Speech Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="74d9cfc1-8996-4d67-a993-fde5fa684790" ipa="/maʊθ/" vi_ipa="ma-út">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ce600ff-e9fb-4912-b920-b6fc8a2d2ea9" type="Noun">
+          <Vi>Bộ phận cơ thể dùng để ăn, nói và thở; miệng</Vi>
+          <En>The opening in the face through which food is taken in and words are spoken; the oral cavity</En>
+          <Example>She pressed her lips tightly together, refusing to open her mouth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="27b4a67e-3c0c-42a6-a97a-13f795758b30">
+              <Vi>Mô tả vị trí hoặc chức năng của miệng trong cơ thể người.</Vi>
+              <En>Describing the location or function of the mouth in the human body.</En>
+            </Situation>
+            <Situation id="b97dbff0-fb80-419a-8d39-13df3ba7e698">
+              <Vi>Dùng trong các tình huống nói về ăn uống, nói chuyện, hoặc biểu cảm khuôn mặt.</Vi>
+              <En>Used in contexts involving eating, speaking, or facial expressions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="514bf3a2-0f13-4e29-bd74-ca316e0aed2b" type="Noun">
+          <Vi>Cửa vào, lỗ hổng (dùng ẩn dụ như “mouth of a river”)</Vi>
+          <En>The opening or entrance to something, especially a river flowing into the sea</En>
+          <Example>The village lies near the mouth of the Amazon River.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e153a322-bfc0-49c8-a263-13452932d00a">
+              <Vi>Mô tả địa lý, đặc biệt khi nói về cửa sông, hang động, hoặc lỗ hổng.</Vi>
+              <En>Used in geographical descriptions, especially for river mouths, caves, or openings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="87109f47-3fa7-44a3-a8ec-286a5bb8495a" type="Verb">
+          <Vi>Mở to miệng (như cá), há mồm</Vi>
+          <En>To open the mouth wide, especially like a fish gasping for air</En>
+          <Example>The goldfish sat at the surface, mouth gaping.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4077eb23-d5fd-450e-8514-a5096f067d49">
+              <Vi>Mô tả hành động há mồm vì kinh ngạc, thèm muốn, hoặc khó thở.</Vi>
+              <En>Describing someone opening their mouth wide in surprise, hunger, or gasping for air.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

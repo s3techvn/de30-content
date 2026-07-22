@@ -1,0 +1,55 @@
+<Vocab id="0cd5f624-b872-4c15-a2cc-e41839c207ea" word="fog" type="short" status="done">
+  <Topics>
+    <Topic id="e76bc258-c6bd-45e8-bf27-97fd95e37b96" value="Weather" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7c61ff98-a5a8-4981-8a1f-14e1a2c74ad5" ipa="/fɒɡ/" vi_ipa="phốc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="84ff3cc5-aa90-474a-a6fe-1c3abe5ba593" type="Noun">
+          <Vi>Sương mù</Vi>
+          <En>A thick cloud of tiny water droplets suspended in the atmosphere near the ground, reducing visibility.</En>
+          <Example>The plane was delayed due to heavy fog at the airport.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8590d5e-94f3-4de9-8c89-d735da9eed88">
+              <Vi>Mưa nhỏ, không khí ẩm ướt, tầm nhìn bị hạn chế nghiêm trọng vào buổi sáng.</Vi>
+              <En>Low-lying moisture condenses near the ground on cool mornings, creating hazardous driving conditions.</En>
+            </Situation>
+            <Situation id="f53914e4-57e1-4f11-8a84-2aaad358e96f">
+              <Vi>Cảnh báo sương mù được phát khi tầm nhìn xuống dưới 200 mét.</Vi>
+              <En>Transportation authorities issue fog warnings when visibility drops below 200 meters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="779aa22d-2c13-4c74-aec4-a99ada825261" type="Verb">
+          <Vi>Làm mờ, che mờ (như sương mù)</Vi>
+          <En>To become covered or obscured by fog; to make something unclear or indistinct.</En>
+          <Example>The windows fogged up as the warm air met the cold glass.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a62ceb2d-3fae-49e7-a8a8-3405d94edc60">
+              <Vi>Mặt kính cửa sổ bị mờ đi do hơi nước ngưng tụ.</Vi>
+              <En>The bathroom mirror fogs after a hot shower.</En>
+            </Situation>
+            <Situation id="dc846b18-0693-4d9a-ba86-51d99a45db6d">
+              <Vi>Ký ức bị mờ dần theo thời gian.</Vi>
+              <En>Memories of childhood can fog over with time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
