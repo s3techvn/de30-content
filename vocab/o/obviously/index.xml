@@ -1,0 +1,39 @@
+<Vocab id="f093c125-6df7-466d-a55a-323c39b519d5" word="obviously" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c60ee95-514c-4e71-a429-c9f77be60718" ipa="/ˈɑːb.vi.əs.li/" vi_ipa="áp-vi-ơ-xờ-lì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d9e86bf4-ef87-44ce-ac03-689395a3f311" type="Adverb">
+          <Vi>Rõ ràng, rõ ràng là, hiển nhiên</Vi>
+          <En>In a way that is clearly true or easy to see; without doubt.</En>
+          <Example>It was obviously a mistake—no one could have missed it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56bb17d4-edb9-44d9-a5ce-82c3bdcc55d7">
+              <Vi>Người nói muốn nhấn mạnh rằng điều gì đó quá rõ ràng đến mức không thể phủ nhận.</Vi>
+              <En>The speaker emphasizes that something is so clear it cannot be reasonably disputed.</En>
+            </Situation>
+            <Situation id="555be537-713d-4d34-952d-47d636db6f39">
+              <Vi>Trong tranh luận hoặc giải thích, dùng để chỉ một điểm tự nhiên, dễ hiểu.</Vi>
+              <En>Used in an argument or explanation to highlight an obvious, self-evident point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
