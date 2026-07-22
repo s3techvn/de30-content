@@ -226,4 +226,5 @@
   <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" slug="physical-therapist" value="Physical Therapist" />
   <Profession id="8e7e5425-8f52-4973-bedc-4abe34dd3a55" slug="weightlifter" value="Weightlifter" />
   <Profession id="452a63f0-5d0a-4ecf-bc54-51dcf224ac01" slug="automotive-engineer" value="Automotive Engineer" />
+  <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" slug="salesperson" value="Salesperson" />
 </Professions>
