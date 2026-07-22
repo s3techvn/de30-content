@@ -1,0 +1,53 @@
+<Vocab id="2b8fb86a-463e-47f5-b5f2-9ccc6d9ac316" word="heritage" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="4efc63d0-90e4-4341-bed5-e92958869ccd" value="Family" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" value="Museum Curator" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="143a2aeb-6ade-4971-a47a-d2f8e940b793" ipa="/ˈher.ɪ.tɪdʒ/" vi_ipa="hờ-rít-tích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3fd78720-9193-4c44-a443-a8f3b2a6275e" type="Noun">
+          <Vi>Di sản; Di sản văn hóa; Di sản tinh thần</Vi>
+          <En>Valuable traditions, customs, artifacts, or cultural practices inherited from the past, especially from previous generations or a nation’s history.</En>
+          <Example>UNESCO works to protect the world’s cultural and natural heritage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58a64de3-c219-4b8b-a52f-41e176cafba8">
+              <Vi>Việc bảo tồn các lễ hội, kiến trúc cổ, và nghề thủ công truyền thống của dân tộc.</Vi>
+              <En>The preservation of traditional festivals, ancient architecture, and local crafts.</En>
+            </Situation>
+            <Situation id="dab1b938-d2f9-418a-a71b-e1bec33b4ec6">
+              <Vi>Di sản mà một gia đình để lại cho thế hệ sau, như tài sản, giá trị, hoặc câu chuyện.</Vi>
+              <En>What a family passes down to future generations—property, values, or stories.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e974a720-f9d7-4a2b-b397-baf72f9055b9" type="Noun">
+          <Vi>Tài sản thừa kế; Di sản (về mặt pháp lý)</Vi>
+          <En>Property, money, or other assets received from a deceased person, typically through legal inheritance.</En>
+          <Example>After her grandfather’s death, she inherited a small heritage: a house and some land.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c75650e7-dc34-49bd-a8a8-79d6393c48dc">
+              <Vi>Việc phân chia tài sản thừa kế trong gia đình theo di chúc.</Vi>
+              <En>The distribution of inherited assets among family members according to a will.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

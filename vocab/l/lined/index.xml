@@ -1,0 +1,51 @@
+<Vocab id="c3f01527-98e5-4b41-bc94-cc6ffc1e600a" word="lined" type="short" status="done">
+  <Topics>
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+    <Topic id="7fa79180-3f34-46a1-8610-d5c91d7207d3" value="Materials &amp; Textiles" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="7864b3c6-3c49-44e0-8c57-0953a3c1ad16" value="Costume Maker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d6fdb6d5-e07d-4a8c-b86b-8b65445747a0" ipa="/laɪnd/" vi_ipa="lây-nđ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef9fbc58-f2a7-4f94-8a87-2f044c161834" type="Adjective">
+          <Vi>được may thêm lớp lót (vải, vải lót) bên trong)</Vi>
+          <En>having a layer of fabric or material sewn inside, especially for warmth, structure, or lining the inside of a garment or container.</En>
+          <Example>The winter coat was well-lined with soft fleece.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="754722fb-bb58-4567-b1bb-bbbc3112900c">
+              <Vi>Mô tả trang phục hoặc vật dụng có lớp lót bên trong.</Vi>
+              <En>Describing clothing or items (e.g., coats, hats, bags) that have an inner fabric layer.</En>
+            </Situation>
+            <Situation id="00cdfe8f-5db3-4e42-adfc-a46d61a06ebb">
+              <Vi>Chỉ định chất liệu của lớp lót (ví dụ: lụa, vải nỉ).</Vi>
+              <En>Specifying the lining material (e.g., silk, flannel).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="538d3a91-9d53-4505-86f6-993a60243a42" type="Adjective">
+          <Vi>được kẻ đường kẻ (đường thẳng, vạch chỉ dẫn)</Vi>
+          <En>marked with lines, especially straight or parallel lines; often used to describe surfaces, paper, or diagrams.</En>
+          <Example>The notebook page was lined with faint blue guide lines.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="430e7087-aa4c-4e07-9280-03917f7fcb5e">
+              <Vi>Mô tả giấy kẻ ngang, kẻ ô, hoặc bề mặt có đường kẻ.</Vi>
+              <En>Describing ruled or grid paper, or any surface with drawn lines (e.g., for writing, drawing, or measurement).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
