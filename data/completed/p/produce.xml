@@ -1,0 +1,58 @@
+<Vocab id="85b68cff-dafc-477c-8b96-0d2827359d03" word="produce" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="c9843bf2-7bed-48cf-b05f-f4ccf897cd51" value="Grocer" />
+    <Profession id="dab2219c-841e-435d-947c-bd8ffbb5526d" value="Supply Chain Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3cf7f1d4-cbb2-46c9-ac5f-fd17094c8c5b" ipa="/prəˈduːs/" vi_ipa="pờ-rơ-điu-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4bdd1e7e-7762-4519-a4cc-89b3ad6cfa5f" type="Verb">
+          <Vi>sản xuất, tạo ra</Vi>
+          <En>to make or grow something, especially on a large scale</En>
+          <Example>The factory produces over 10,000 units per day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52cae531-1802-456b-92fa-d6253a2af436">
+              <Vi>Quy trình tạo ra hàng hóa hoặc nông sản trong ngành công nghiệp hoặc nông nghiệp.</Vi>
+              <En>The process of manufacturing goods or cultivating crops in industry or agriculture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="99fa87e7-adc6-47b7-824e-415208b4f977" ipa="/ˈprɑː.duːs/" vi_ipa="pờ-rây-điu-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="579087b8-0cd7-4d49-81a7-5086e1e5eb9e" type="Noun">
+          <Vi>nông sản, hoa quả tươi</Vi>
+          <En>fruits, vegetables, and other farm-grown products, especially when sold at a market</En>
+          <Example>The farmer’s market features fresh local produce.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="870318d7-2c19-45bf-953d-f2814141b9d7">
+              <Vi>Cảnh mua bán rau củ, trái cây tươi tại chợ hoặc siêu thị.</Vi>
+              <En>The scene of buying and selling fresh fruits and vegetables at a market or supermarket.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
