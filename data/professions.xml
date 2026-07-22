@@ -297,4 +297,5 @@
   <Profession id="100444fe-cb02-4260-9787-723ce5eb3cc1" slug="fencer" value="Fencer" />
   <Profession id="0bd086ae-9b7b-4d77-8e6f-ba1f80c576fe" slug="manufacturing-engineer" value="Manufacturing Engineer" />
   <Profession id="9f330493-06d4-402b-beae-af44b5ac6827" slug="demolition-engineer" value="Demolition Engineer" />
+  <Profession id="a6bf2044-045d-45a1-9051-1f65af1b819b" slug="fireworks-technician" value="Fireworks Technician" />
 </Professions>
