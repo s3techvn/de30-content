@@ -1,0 +1,40 @@
+<Vocab id="faa46238-6433-4f5d-a41f-03c8090fb68f" word="cubic" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="f33fb4ac-e3a7-4ec1-89ab-a7aed895e5c4" value="Science &amp; Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4385feb6-c48b-4210-8677-fc7d9a26714b" ipa="/ˈkjuː.bɪk/" vi_ipa="khi-úp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="50987baf-598b-4e08-a2f6-c05dd9ae0e2c" type="Adjective">
+          <Vi>hình lập phương; dạng khối vuông</Vi>
+          <En>having the shape of a cube; relating to a cube or to the third power of a quantity</En>
+          <Example>The volume of a cubic container with side length 5 cm is 125 cm³.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9414c01f-8ed5-4fde-b60e-28920b306453">
+              <Vi>Mô tả hình dạng hoặc kích thước của vật có dạng khối vuông hoàn chỉnh.</Vi>
+              <En>Used to describe objects or spaces that have equal sides and right angles, like a dice or a sugar cube.</En>
+            </Situation>
+            <Situation id="eb14ee07-b5c7-4f2c-a040-e96342e36713">
+              <Vi>Trong toán học, liên quan đến lũy thừa bậc ba của một số.</Vi>
+              <En>In mathematics, used to denote the third power (e.g., cubic equation, cubic meter).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
