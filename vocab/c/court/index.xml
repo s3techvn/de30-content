@@ -1,0 +1,62 @@
+<Vocab id="c22842a7-cb65-4f2e-9bd9-ec0455b9821f" word="court" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d1475ce8-9a8a-4423-8eb9-80ef4c695f49" ipa="/kɔːrt/" vi_ipa="cọt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06278be8-a248-4115-9368-723151e9d146" type="Noun">
+          <Vi>toà án; sân (bóng rổ, tennis...); sân chơi (cho việc gì)</Vi>
+          <En>A building or room where legal proceedings are held; a flat surface marked for playing games like tennis or basketball; a place or situation where someone seeks approval or support.</En>
+          <Example>The judge entered the courtroom and the trial began.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dfa74ef3-e75d-49bc-9358-0cd97a23c9a1">
+              <Vi>Người dân đến toà án để kiện tụng hoặc giải quyết tranh chấp.</Vi>
+              <En>People go to court to file lawsuits or resolve disputes.</En>
+            </Situation>
+            <Situation id="ec271324-59d6-401b-b163-05552591f5a8">
+              <Vi>Cầu thủ bóng rổ chạy dọc sân để ném bóng vào rổ.</Vi>
+              <En>The basketball player ran down the court to shoot the ball into the hoop.</En>
+            </Situation>
+            <Situation id="e44650df-2de6-4e9d-a616-bba392241b7a">
+              <Vi>Cô ấy đang tìm kiếm sự chấp thuận của sếp để thực hiện dự án mới.</Vi>
+              <En>She is trying to win the boss’s court before launching the new project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="20055338-cdb9-4315-af19-25921965fd79" type="Verb">
+          <Vi>thu hút sự chú ý; tìm cách chinh phục (ai); làm việc với toà án</Vi>
+          <En>To seek the favor, approval, or support of someone; to bring a legal action against someone in court.</En>
+          <Example>The company is courting new investors by offering attractive terms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5cc2a3f1-22ac-4330-8c36-b94ceae7f891">
+              <Vi>Anh ấy thường xuyên gửi quà và tin nhắn để quyến rũ cô ấy.</Vi>
+              <En>He often sends gifts and messages to court her.</En>
+            </Situation>
+            <Situation id="6c48bd78-44e5-4816-967f-94a9e3054679">
+              <Vi>Công ty đang kiện đối thủ vì vi phạm bản quyền.</Vi>
+              <En>The company is courting the court by filing a lawsuit for copyright infringement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
