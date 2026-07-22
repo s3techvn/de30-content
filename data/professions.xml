@@ -353,4 +353,7 @@
   <Profession id="fb4c6b29-7f93-426d-9cba-5c2cdac93dbf" slug="legal-counsel" value="Legal Counsel" />
   <Profession id="bb9daf26-d41c-485a-a1d6-7acd75eebe45" slug="healthcare-administrator" value="Healthcare Administrator" />
   <Profession id="1aac9405-f457-4df3-ac0e-eb10b9f6403f" slug="paralegal" value="Paralegal" />
+  <Profession id="49d3530f-39b1-438f-b0b2-0746769f95c5" slug="theatre-performer" value="Theatre Performer" />
+  <Profession id="4f3af2c1-b847-49ed-bce5-cb8c675e94f6" slug="theatre-director" value="Theatre Director" />
+  <Profession id="a9eefd83-d744-44b5-bc27-f57d50f4bfba" slug="stage-designer" value="Stage Designer" />
 </Professions>

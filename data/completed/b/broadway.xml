@@ -1,0 +1,38 @@
+<Vocab id="950bfd18-facc-41fc-b0b6-7fec33119471" word="broadway" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="49d3530f-39b1-438f-b0b2-0746769f95c5" value="Theatre Performer" />
+    <Profession id="4f3af2c1-b847-49ed-bce5-cb8c675e94f6" value="Theatre Director" />
+    <Profession id="a9eefd83-d744-44b5-bc27-f57d50f4bfba" value="Stage Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="aa17f455-855b-4be7-b36f-a5955c20b7e0" ipa="/ˈbrɔːd.weɪ/" vi_ipa="brô-uy">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7dabd403-f8aa-407b-aa0e-aa1ce854b63a" type="Noun">
+          <Vi>Sân khấu Broadway; khu vực sân khấu lớn ở thành phố New York, nổi tiếng với các vở kịch và nhạc kịch thương mại hàng đầu</Vi>
+          <En>A district in Manhattan, New York City, famous for its concentration of commercial theatrical venues, especially for musical theatre and plays</En>
+          <Example>She dreams of starring in a musical on Broadway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42d9ea66-5c7d-46aa-938d-b861012c2c2f">
+              <Vi>Ngành giải trí thương mại quy mô lớn tại Mỹ, đặc biệt là ở New York</Vi>
+              <En>The major commercial theatre and entertainment hub in the United States, centered in New York City</En>
+            </Situation>
+            <Situation id="3a98c99d-040e-45f3-8200-41b4ed0b836c">
+              <Vi>Tên gọi chỉ các vở nhạc kịch hoặc kịch nghệ được công diễn tại các rạp hát lớn ở khu Broadway</Vi>
+              <En>A term used to refer collectively to large-scale commercial theatre productions staged in New York City</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
