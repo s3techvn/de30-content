@@ -1,0 +1,40 @@
+<Vocab id="6757a229-9643-4b67-ac62-9ffd14a62a72" word="subcommittee" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="8bddaac3-70cd-427f-95db-d62040e7a310" value="Legislator" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="94871f7e-9365-4ce4-b282-371e425b7d52" ipa="/ˈsʌb.kəˌtiː.tee/" vi_ipa="xàp-kơ-ti-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="66930c91-b81a-46c5-8c31-5e62d03927d4" type="Noun">
+          <Vi>Ủy ban con</Vi>
+          <En>A committee formed by a larger committee to handle specific tasks or investigations.</En>
+          <Example>The Senate established a subcommittee to review the new cybersecurity bill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1490e273-0c32-45da-9554-56fb65fd9a97">
+              <Vi>Trong một phiên họp quốc hội, một nhóm nhỏ các nghị sĩ được chọn để xem xét một vấn đề cụ thể.</Vi>
+              <En>In a legislative session, a small group of members is assigned to examine a specific issue.</En>
+            </Situation>
+            <Situation id="f11fbaaf-8688-48e3-81d4-6038b15a7d21">
+              <Vi>Một công ty thành lập một ủy ban con để điều tra sự cố an toàn.</Vi>
+              <En>A company forms a subcommittee to investigate a safety incident.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

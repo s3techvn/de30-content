@@ -1,0 +1,38 @@
+<Vocab id="ad0d3049-fd6c-4551-9322-290487046554" word="resolved" type="short" status="done">
+  <Topics>
+    <Topic id="82dd38e3-64c9-4471-ab63-6507eadcdde9" value="Problem Solving" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="60d360bf-e619-43a3-9cb5-87267ffe35d6" ipa="/rɪˈzɒlvd/" vi_ipa="rị-zợp-vẹt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7d168839-1109-4e1e-ad6f-0f5fae5c4327" type="Adjective">
+          <Vi>đã được giải quyết; đã được quyết định rõ ràng; kiên quyết</Vi>
+          <En>firmly determined; having been settled or concluded</En>
+          <Example>The team reached a resolved agreement after hours of negotiation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="047e4f42-4bcf-4455-804e-9e49d2a372a3">
+              <Vi>Mô tả một người hoặc nhóm đã đưa ra quyết định dứt khoát và không thay đổi.</Vi>
+              <En>Describing a person or group that has made a firm, unchanging decision.</En>
+            </Situation>
+            <Situation id="b66d7d76-4a97-4956-b810-e13675ad6144">
+              <Vi>Mô tả một vấn đề đã được giải quyết dứt điểm.</Vi>
+              <En>Describing an issue that has been definitively settled.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
