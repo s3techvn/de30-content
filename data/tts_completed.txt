@@ -314,3 +314,4 @@ pillow
 saw
 wireless
 dam
+telephony

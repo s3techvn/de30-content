@@ -303,4 +303,5 @@
   <Profession id="af22be43-b537-4e72-84ec-3d8613c011f7" slug="telecommunications-technician" value="Telecommunications Technician" />
   <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" slug="hydrologist" value="Hydrologist" />
   <Profession id="f138862a-dfb8-4ace-b22c-d2acc68cee16" slug="software-developer-(voip)" value="Software Developer (VoIP)" />
+  <Profession id="21067ef1-89f5-4f1f-ab61-47dbc3bf0dc5" slug="business-strategist" value="Business Strategist" />
 </Professions>
