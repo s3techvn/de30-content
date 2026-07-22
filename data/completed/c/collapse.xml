@@ -1,0 +1,58 @@
+<Vocab id="f4634c6f-12e7-4caa-b876-ed79cb98f6c6" word="collapse" type="short" status="done">
+  <Topics>
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0456e0fb-d0f6-41ea-9fa5-89c6e1de96fc" ipa="/kəˈlæps/" vi_ipa="cơ-lép-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="61575c44-17f7-43d8-9cd5-9d972c509e11" type="Verb">
+          <Vi>Sụp đổ, sập, tan rã (do áp lực, mất sức, hoặc hỏng hóc)</Vi>
+          <En>To fall down or give way suddenly under pressure or due to weakness or failure</En>
+          <Example>The old bridge collapsed during the heavy storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2f2d2be-c964-4f28-a5ed-84adcef1d538">
+              <Vi>Một tòa nhà cũ sụp đổ sau khi chịu động đất.</Vi>
+              <En>An old building collapses after an earthquake.</En>
+            </Situation>
+            <Situation id="7543050d-0a91-4c9f-bd2e-52a2c8dd3356">
+              <Vi>Một người ngất xỉu và sụp xuống vì kiệt sức.</Vi>
+              <En>A person collapses from exhaustion and falls to the ground.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5ac04d2e-a72c-43e9-ad72-5a2cbd41e525" type="Noun">
+          <Vi>Sự sụp đổ, sự tan rã</Vi>
+          <En>The sudden failure or breakdown of a system, structure, or organization</En>
+          <Example>The collapse of the company led to thousands of job losses.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90fdd7b3-abd9-4cc9-976a-5297888d3031">
+              <Vi>Sự sụp đổ của thị trường chứng khoán gây hoang mang.</Vi>
+              <En>The stock market collapse caused widespread panic.</En>
+            </Situation>
+            <Situation id="6bd84326-c182-4fce-b149-34ec6b59028f">
+              <Vi>Sự sụp đổ của cầu khiến giao thông bị gián đoạn.</Vi>
+              <En>The bridge collapse disrupted traffic for weeks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

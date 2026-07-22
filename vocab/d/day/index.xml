@@ -1,0 +1,60 @@
+<Vocab id="47c135cf-15b0-44e7-a357-8ec414e5ba41" word="day" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="79025ee0-5560-44dd-8618-c0942cfbcfa6" ipa="/deɪ/" vi_ipa="đê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4debd039-3fbd-4c1c-8110-ddb93fce9829" type="Noun">
+          <Vi>Một ngày (24 giờ); ngày trong tuần; ngày làm việc; ngày ánh sáng (từ bình minh đến hoàng hôn)</Vi>
+          <En>The period of time between one midnight and the next, or the period of time during which the sun is above the horizon (approximately 24 hours); a day of the week; a working day; daylight hours.</En>
+          <Example>She works five days a week and rests on weekends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a8c5dfa-0904-47b7-b55d-65a82b7d7647">
+              <Vi>Mô tả thời gian trong lịch trình hàng ngày hoặc tuần.</Vi>
+              <En>Used when describing daily or weekly schedules and routines.</En>
+            </Situation>
+            <Situation id="a36ec48c-1bc2-480c-98cc-514f5d986b69">
+              <Vi>Chỉ khoảng thời gian từ sáng đến tối (ánh sáng ban ngày).</Vi>
+              <En>Refers to the daylight hours, especially in contrast to night.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6892e770-2d71-42fc-a673-9f246f435f64" type="Noun">
+          <Vi>Thời đại, kỷ nguyên (trong các cụm từ như "the day of the dinosaurs")</Vi>
+          <En>A particular period in history or a former time, often used in expressions like "the day of..." to refer to a past era.</En>
+          <Example>The age of steam engines is long gone; we live in the day of electric vehicles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa43654a-76e8-4ad0-bee7-65e8a764ccbb">
+              <Vi>Dùng trong so sánh giữa quá khứ và hiện tại.</Vi>
+              <En>Used in historical or nostalgic comparisons between past and present.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="046001fa-36a6-4384-8db0-34835099c193" type="Noun">
+          <Vi>Ngày (dùng trong các cụm từ chỉ ngày cụ thể: ngày sinh, ngày lễ, ngày mai...)</Vi>
+          <En>A specific point or date in time, often used in phrases like "birthday", "holiday", "tomorrow", etc.</En>
+          <Example>Her birthday is on the 15th of March.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="181ce304-e897-4568-b557-ed5ee878a5f3">
+              <Vi>Dùng khi nhắc đến một ngày cụ thể trong năm hoặc sự kiện gắn với ngày.</Vi>
+              <En>Used when referring to a specific calendar date or event date.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
