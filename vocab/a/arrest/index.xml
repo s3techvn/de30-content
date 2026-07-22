@@ -1,0 +1,68 @@
+<Vocab id="30c2d2a7-a63a-46a4-b01d-52a3ce2d2e56" word="arrest" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="3e961e05-d56d-42d2-9f4c-a5a43c9b9f50" value="Criminal Investigator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0e874921-93fa-4e44-bbe8-a3c9f2cbce3e" ipa="/əˈrest/" vi_ipa="ơ-rét-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dfe60c1a-e405-41fa-b9c5-f11149308678" type="Verb">
+          <Vi>bắt giữ, bắt giữ vì nghi ngờ phạm tội</Vi>
+          <En>to take someone into custody by legal authority, typically because they are suspected of committing a crime</En>
+          <Example>The police arrested the suspect after reviewing the surveillance footage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd6f2250-4bf1-487a-9ac5-ae9865e36fd8">
+              <Vi>Cảnh sát đưa một người vào trại giam sau khi nghi ngờ người đó gây án.</Vi>
+              <En>Police take a person into custody after suspecting them of committing a crime.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="22ea10cf-ed4e-460f-a2e7-46c2a7628009" ipa="/ˈær.ɪst/" vi_ipa="ác-rét-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e1d20a8f-7570-4b9f-96b6-d8b012ef243c" type="Noun">
+          <Vi>sự bắt giữ, sự tống giam</Vi>
+          <En>the action of taking someone into custody by legal authority; the state of being taken into custody</En>
+          <Example>He was released after 24 hours without formal arrest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="369cfc49-ce6e-427e-bff7-eabc99e830c5">
+              <Vi>Sau khi bị bắt giữ, bị cáo được quyền im lặng và có luật sư.</Vi>
+              <En>After arrest, the suspect has the right to remain silent and to have a lawyer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0a732a9d-7146-42b5-b134-776a33dea90b" type="Noun">
+          <Vi>sự ngăn cản, sự làm ngừng lại (không chính thức)</Vi>
+          <En>a stop or slowdown in the progress or development of something</En>
+          <Example>The project faced an arrest in funding due to budget cuts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42ee985a-a5c6-4731-a58e-7ef131cec6a8">
+              <Vi>Dự án bị tạm ngưng do thiếu vốn.</Vi>
+              <En>The project was temporarily halted due to lack of funding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
