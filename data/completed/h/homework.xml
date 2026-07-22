@@ -1,0 +1,37 @@
+<Vocab id="ea4e52a4-9456-4b57-b7e0-7e5f57bb7ebf" word="homework" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="121437a0-ce58-4404-9f4a-c272566327c7" ipa="/ˈhoʊm.wɜːrk/" vi_ipa="hôm-woóc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a615bf6f-4f6a-4edf-9106-0b7dbc83642a" type="Noun">
+          <Vi>Bài tập về nhà</Vi>
+          <En>Tasks or assignments given to students to be completed outside of class.</En>
+          <Example>She spent two hours finishing her homework last night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28e70d87-0363-4465-a952-8cd5d60ce3f7">
+              <Vi>Học sinh làm bài tập được giao sau giờ học trên lớp.</Vi>
+              <En>Students complete assignments assigned by teachers after class hours.</En>
+            </Situation>
+            <Situation id="e066f986-4234-44d0-bbd4-67f2557ad448">
+              <Vi>Phụ huynh kiểm tra bài tập về nhà của con mỗi tối.</Vi>
+              <En>Parents check their child's homework every evening.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

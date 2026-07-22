@@ -1,0 +1,52 @@
+<Vocab id="25950bce-593a-4748-a634-ee731c3a62d2" word="machine" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="9e9b8b08-b33d-4fc9-9af3-459a0f0d90c5" value="Factory Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6a143ba8-f4a9-4c85-8701-edc395615cd5" ipa="/məˈʃiːn/" vi_ipa="mơ-si-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="62547b0c-40e6-4700-a6d0-f32fda2afe95" type="Noun">
+          <Vi>Máy móc; thiết bị cơ khí</Vi>
+          <En>A device, typically with moving parts, that performs a specific function, especially one that converts energy into mechanical work.</En>
+          <Example>The washing machine finished its cycle and beeped to signal completion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b0aa371-d6e2-4f3f-8cd7-9fa365cb7aaa">
+              <Vi>Mô tả một thiết bị cơ khí tự động thực hiện công việc lặp lại.</Vi>
+              <En>Describing an automated device performing repetitive tasks, such as in manufacturing.</En>
+            </Situation>
+            <Situation id="c3be5313-3ea5-48d7-947f-a6289347d2e3">
+              <Vi>Người dùng vận hành máy móc trong nhà máy.</Vi>
+              <En>A worker operating industrial machinery on a factory floor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="07220dd2-6de9-4847-bd17-f27871e3db37" type="Noun">
+          <Vi>Hệ thống phức tạp (ẩn dụ)</Vi>
+          <En>A complex or intricate system, often used metaphorically to describe an organization or process.</En>
+          <Example>The government bureaucracy felt like an impersonal machine grinding down efficiency.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7cb312aa-216d-4fd2-b88f-1d6fe463d4d1">
+              <Vi>So sánh một tổ chức lớn với một cỗ máy vận hành theo quy trình.</Vi>
+              <En>Describing a large organization as a rigid, efficient, but impersonal system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
