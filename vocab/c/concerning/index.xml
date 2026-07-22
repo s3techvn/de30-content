@@ -1,0 +1,39 @@
+<Vocab id="2a90ba7f-3cd4-4a64-941c-32265c4ea467" word="concerning" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1b3962e1-1ce0-4e21-b627-e3d68f34cf2d" ipa="/kənˈsɜːr.nɪŋ/" vi_ipa="cơn-xợ-nhíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa702835-216b-4f0b-9e60-f404fa1446ca" type="Adjective">
+          <Vi>gây lo lắng; đáng lo ngại; liên quan đến (một vấn đề cụ thể)</Vi>
+          <En>causing worry or concern; relating to a particular subject or matter</En>
+          <Example>There are concerning reports about the project's progress.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d795093-7bc5-44ad-bb87-30b8716e30c1">
+              <Vi>Mô tả một tình huống có yếu tố đáng lo ngại, ví dụ như kết quả kiểm tra y tế bất thường.</Vi>
+              <En>Describing a situation with worrying elements, e.g., abnormal medical test results.</En>
+            </Situation>
+            <Situation id="2c57c638-27f3-4e87-a3d6-12db7e8eb923">
+              <Vi>Dùng trong văn viết hoặc báo chí để giới thiệu một chủ đề cần lưu ý.</Vi>
+              <En>Used in writing or journalism to introduce a topic requiring attention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

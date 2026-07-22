@@ -1,0 +1,52 @@
+<Vocab id="2c39441f-94dd-4804-b305-db75c3b57809" word="alignment" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ce712709-c92b-48ba-a4d0-7a1cfe5b4d21" ipa="/əˈlaɪn.mənt/" vi_ipa="ơ-lai-nmơnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06dc775f-bfaa-4188-9b73-da3de19d35ea" type="Noun">
+          <Vi>Sự căn chỉnh; sự sắp xếp thẳng hàng; sự đồng thuận</Vi>
+          <En>The action of aligning or state of being aligned, especially into a straight line or with common purpose.</En>
+          <Example>The software update improved the alignment of text and images on the screen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59738b86-daa7-49c8-af2f-af718c447fbb">
+              <Vi>Căn chỉnh các cột trong một bảng tính để các số nằm thẳng hàng.</Vi>
+              <En>Adjusting columns in a spreadsheet so numbers line up vertically.</En>
+            </Situation>
+            <Situation id="c1547408-4755-4d07-81b9-2da0ec2ecd7b">
+              <Vi>Các đảng chính trị đạt được sự căn chỉnh về chính sách đối ngoại.</Vi>
+              <En>Political parties reaching alignment on foreign policy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2fc0220d-67a6-48f1-88f7-a357fb414cf9" type="Noun">
+          <Vi>Sự đồng thuận về quan điểm, giá trị</Vi>
+          <En>A position of agreement or support, especially political or ideological.</En>
+          <Example>Her views show a clear alignment with environmentalist principles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="446d7e1a-ca57-41c7-a006-0b4369bb3870">
+              <Vi>Sự căn chỉnh về tư tưởng giữa hai đồng nghiệp.</Vi>
+              <En>Mutual ideological alignment between two colleagues.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
