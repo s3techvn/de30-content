@@ -391,4 +391,5 @@
   <Profession id="a7a13009-fae2-4ba3-bab1-986cb68d9e41" slug="demolition-expert" value="Demolition Expert" />
   <Profession id="a20cec2e-0225-48e3-898f-67b26cf629b2" slug="medical-technician" value="Medical Technician" />
   <Profession id="c71ab53c-048a-4cf2-acfb-73be094c1feb" slug="software-engineer-(in-debugging-context)" value="Software Engineer (in debugging context)" />
+  <Profession id="9e9b8b08-b33d-4fc9-9af3-459a0f0d90c5" slug="factory-worker" value="Factory Worker" />
 </Professions>
