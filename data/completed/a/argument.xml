@@ -1,0 +1,58 @@
+<Vocab id="2030d220-fdc6-4ccc-951a-3a39c0cb4bcb" word="argument" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b5038c5d-1486-4939-a05f-bf70e9e7f506" ipa="/ˈɑːr.ɡ.juː.mənt/" vi_ipa="ác-giu-mơ-nt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="49d57edf-fd2e-4bdc-b191-53e1a10bcb17" type="Noun">
+          <Vi>Cuộc tranh cãi, cãi vã</Vi>
+          <En>A heated or angry discussion, often involving disagreement or conflict.</En>
+          <Example>They had a loud argument about politics at dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1f0fec9-45fa-49a0-907c-d47d1cd76a6e">
+              <Vi>Hai người tranh cãi gay gắt về quan điểm cá nhân.</Vi>
+              <En>Two people shouting and disagreeing strongly about personal opinions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5d34e385-807e-4e16-90f9-034aee0db42c" type="Noun">
+          <Vi>Lập luận, lý lẽ</Vi>
+          <En>A reason or fact used to support a claim or conclusion in reasoning or debate.</En>
+          <Example>The lawyer presented a strong argument to the jury.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c38b44e4-3f58-4ea6-978a-d9be5622632d">
+              <Vi>Trong một bài luận, tác giả đưa ra lập luận thuyết phục.</Vi>
+              <En>In an essay, the writer presents a persuasive line of reasoning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="43ee5cb5-1845-4467-9a86-40743fe68f05" type="Noun">
+          <Vi>Đối số (trong toán học, lập trình)</Vi>
+          <En>A value passed to a function or procedure in programming or mathematics.</En>
+          <Example>The function takes three arguments: x, y, and z.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df2c1137-45db-4aa3-aee8-763c647fd819">
+              <Vi>Lập trình viên truyền đối số vào hàm để tính toán.</Vi>
+              <En>A programmer passes input values (arguments) into a function to compute a result.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
