@@ -1,0 +1,38 @@
+<Vocab id="96f51ebd-38d2-4e17-b07e-13615fffebe8" word="iceland" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="12813bb3-0807-4dd1-bc7c-6dd4e432946e" ipa="/ˈaɪs.lənd/" vi_ipa="ai-xơ-lând">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0dafe32-b0db-4c0e-bfcd-c450a65c936e" type="Noun">
+          <Vi>Ice land – một quốc gia ở Bắc Cực, nằm ở phía tây nam Greenland, có địa hình chủ yếu là núi lửa và sông băng.</Vi>
+          <En>A Nordic island country in the North Atlantic Ocean, located southwest of Greenland, characterized by volcanic landscapes, glaciers, and geothermal activity.</En>
+          <Example>Many tourists visit Iceland to see the Northern Lights and the Blue Lagoon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="10e4afd2-f5a3-4e0b-80cb-645176fe84cb">
+              <Vi>Thảo luận về du lịch, khí hậu, hoặc địa lý của một quốc gia Bắc Cực.</Vi>
+              <En>Discussing travel, climate, or geography of a Nordic Arctic nation.</En>
+            </Situation>
+            <Situation id="86e1a841-ff68-40a8-816b-533171f26179">
+              <Vi>Đề cập đến các hiện tượng địa chất như núi lửa, sông băng, suối nước nóng.</Vi>
+              <En>Referring to geological phenomena such as volcanoes, glaciers, and hot springs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

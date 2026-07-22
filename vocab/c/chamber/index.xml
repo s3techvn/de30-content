@@ -1,0 +1,64 @@
+<Vocab id="84528873-ff04-477d-8049-118edf9f2fdd" word="chamber" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4cd99ef1-f3d0-4537-bba2-fb35cc93623c" ipa="/ˈtʃeɪm.bər/" vi_ipa="chê-mbơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f8f6107c-b8ce-4d03-a044-c7adf7fa86bf" type="Noun">
+          <Vi>phòng kín, buồng, buồng chứa</Vi>
+          <En>a room or enclosed space, especially one used for a specific purpose</En>
+          <Example>The defendant entered the courtroom and took his seat in the defendant’s chamber.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e73ab91d-0536-4639-a163-da47b7eae00c">
+              <Vi>Phòng riêng của thẩm phán trong tòa án</Vi>
+              <En>The private office or room of a judge in a courthouse</En>
+            </Situation>
+            <Situation id="bb8bdc51-270a-4337-9a82-66c721648a32">
+              <Vi>Buồng chứa phôi trong phòng thí nghiệm sinh học</Vi>
+              <En>A sealed compartment in a laboratory device used to hold biological samples</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f92e8f98-830a-4095-8ba8-abc503e15362" type="Noun">
+          <Vi>buồng tim (trong giải phẫu)</Vi>
+          <En>one of the two lower chambers of the heart that pump blood out to the body or lungs</En>
+          <Example>The left ventricle is the largest and strongest chamber of the heart.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="784c18d2-ea8d-4ccb-87f7-b7977efded83">
+              <Vi>Bác sĩ siêu âm tim đánh giá chức năng của các buồng tim</Vi>
+              <En>The cardiologist uses echocardiography to assess the function of the heart chambers</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6890da2f-e7de-47f1-b12f-6c19b9380943" type="Noun">
+          <Vi>buồng (trong súng, pháo, máy nén)</Vi>
+          <En>a sealed compartment in a gun, cannon, or engine where combustion or compression occurs</En>
+          <Example>The explosion in the combustion chamber drives the piston downward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6a1a73f-a3ae-4454-bdc2-f83468a318f6">
+              <Vi>Kỹ sư động cơ kiểm tra độ kín của buồng đốt</Vi>
+              <En>The engine engineer checks the integrity of the combustion chamber before startup</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

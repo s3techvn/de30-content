@@ -1,0 +1,32 @@
+<Vocab id="1c47766a-59dc-4240-ad0a-1bfcfd2f8aa1" word="coming" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be7d899d-e7fc-48ec-896d-cfcf3ca3606a" ipa="/ˈkʌm.ɪŋ/" vi_ipa="cà-ming">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c9393e61-13d5-4a2a-92dd-c1e71b9d1e2b" type="Adjective">
+          <Vi>đang đến; sắp xảy ra; sắp tới</Vi>
+          <En>Approaching in time or space; about to happen or arrive.</En>
+          <Example>The coming week will be very busy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78a141e0-7e17-43fe-82f2-1dac8a9a791d">
+              <Vi>Mô tả sự kiện, thời điểm, hoặc người sẽ xảy ra hoặc xuất hiện trong tương lai gần.</Vi>
+              <En>Used to describe an event, time, or person that will occur or appear in the near future.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

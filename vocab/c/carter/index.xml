@@ -1,0 +1,45 @@
+<Vocab id="2bdea251-64ca-4332-b7ac-bb5e2ac41ad9" word="carter" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="a061fe1e-2ea1-4215-84e6-bda2fede0b74" value="Logistics Worker" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="74b40e7a-a384-4889-90eb-2f9007f50ab2" ipa="/ˈkɑːr.tər/" vi_ipa="cà-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07f3954a-6e5d-4102-98f6-b1a4300bfc35" type="Noun">
+          <Vi>người chở hàng bằng xe ngựa hoặc xe kéo; người lái xe tải (cũ)</Vi>
+          <En>a person who transports goods, especially by horse-drawn cart or truck, especially in historical contexts</En>
+          <Example>The village carter delivered milk and bread to local households every morning.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="88b0c725-9d16-451c-8a97-201eefc6ccc6">
+              <Vi>Mô tả một người chuyên chở hàng hóa bằng xe ngựa trong thế kỷ 19.</Vi>
+              <En>Describes a person who transported goods using horse-drawn carts in the 19th century.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="233bd898-0e11-4100-b8ff-2d6af4dbfd3e" type="Noun">
+          <Vi>người điều khiển xe tải hiện đại (thường dùng trong ngành vận tải)</Vi>
+          <En>a driver of a large truck or delivery vehicle, especially in modern logistics</En>
+          <Example>The carter arrived early to load the packages for same-day delivery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a207d4b-d895-484e-8e22-b6ac38d6262f">
+              <Vi>Mô tả tài xế xe tải trong chuỗi cung ứng hiện đại.</Vi>
+              <En>Describes a truck driver in a modern supply chain operation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
