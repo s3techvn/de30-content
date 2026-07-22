@@ -309,4 +309,5 @@
   <Profession id="78cf232d-23ec-447a-bc52-69ad7e43630c" slug="school-administrator" value="School Administrator" />
   <Profession id="dd1386b8-d52a-47d8-b292-f9a099f96402" slug="production-manager" value="Production Manager" />
   <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" slug="industrial-designer" value="Industrial Designer" />
+  <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" slug="team-leader" value="Team Leader" />
 </Professions>
