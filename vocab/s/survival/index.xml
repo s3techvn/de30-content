@@ -1,0 +1,40 @@
+<Vocab id="7ce68b2d-b6e3-4411-90d3-bf7a557bd31c" word="survival" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="552f237b-f6bf-4508-a6b8-a5d9b51ef3a2" value="Wildlife Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1cf4441c-faae-4831-a455-e03029d058cd" ipa="/sərˈvaɪ.vəl/" vi_ipa="xờ-rây-vây-vờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1dd5f5f-12d9-435f-870d-13a7bd054dcb" type="Noun">
+          <Vi>Sự sống sót; sự tồn tại</Vi>
+          <En>The state or fact of continuing to live or exist, especially in spite of danger or difficulty</En>
+          <Example>After the earthquake, the survival of the trapped miners gave hope to their families.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1ab37a9-2079-4f51-804a-29c0ca47afd5">
+              <Vi>Tình huống một người hoặc một loài vượt qua được nguy hiểm, bệnh tật, hoặc thảm họa để tiếp tục sống.</Vi>
+              <En>A situation where a person or species overcomes danger, illness, or disaster to continue living.</En>
+            </Situation>
+            <Situation id="ee69169f-dceb-4ec0-96c6-59e7c622804f">
+              <Vi>Trong y học: thời gian sống thêm sau khi chẩn đoán bệnh nghiêm trọng.</Vi>
+              <En>In medicine: the length of time a patient lives after being diagnosed with a serious illness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

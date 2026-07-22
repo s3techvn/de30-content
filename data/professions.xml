@@ -352,4 +352,5 @@
   <Profession id="ec07a7d1-768d-425f-b10e-b9f86222f57c" slug="compliance-officer" value="Compliance Officer" />
   <Profession id="fb4c6b29-7f93-426d-9cba-5c2cdac93dbf" slug="legal-counsel" value="Legal Counsel" />
   <Profession id="bb9daf26-d41c-485a-a1d6-7acd75eebe45" slug="healthcare-administrator" value="Healthcare Administrator" />
+  <Profession id="1aac9405-f457-4df3-ac0e-eb10b9f6403f" slug="paralegal" value="Paralegal" />
 </Professions>
