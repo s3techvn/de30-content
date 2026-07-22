@@ -1,0 +1,38 @@
+<Vocab id="20a140ba-5fab-4f3b-be6c-c3a6aa295252" word="massachusetts" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="65149e82-0093-4536-bc06-6208733876b8" value="Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="408580b3-4dd4-495e-97ca-ab019db8f690" ipa="/ˌmæs.əˈtʃuː.sɪts/" vi_ipa="mèt-sơ-mít-chiu-sít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="166bbb2d-c0ee-4bea-aa8f-6c9d294c1576" type="Proper Noun">
+          <Vi>Massachusetts</Vi>
+          <En>A state in the New England region of the northeastern United States, known for its historical significance, prestigious universities, and coastal cities.</En>
+          <Example>The Boston Tea Party, a key event in American history, took place in Boston, Massachusetts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8df55ff7-df93-422f-825e-fe159fd2c6b5">
+              <Vi>Nghe nói về một bang nổi tiếng với trường đại học Harvard và Boston Red Sox.</Vi>
+              <En>Referring to a state famous for Harvard University and the Boston Red Sox baseball team.</En>
+            </Situation>
+            <Situation id="e2733978-43f5-4696-824d-d4d7308d1de5">
+              <Vi>Một du khách đang lên kế hoạch tham quan các di tích lịch sử ở Boston.</Vi>
+              <En>A tourist planning to visit historical landmarks in Boston.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
