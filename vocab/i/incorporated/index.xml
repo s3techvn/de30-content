@@ -1,0 +1,55 @@
+<Vocab id="9212f4fd-ba4c-4742-929d-080a6dbbaf94" word="incorporated" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" value="Business Manager" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ddda6449-f465-48ff-b6eb-acb9406c9ace" ipa="/ɪnˈkɔː.pər.eɪ.tɪd/" vi_ipa="in-kô-pờ-rê-tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08ce838e-bb91-46ad-999b-013b630ee7ce" type="Adjective">
+          <Vi>đã hợp nhất; đã sáp nhập; đã tổ chức thành một pháp nhân</Vi>
+          <En>formed into a legal corporation; having the rights and responsibilities of a legal person</En>
+          <Example>The startup was incorporated in Delaware to benefit from favorable tax laws.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90036290-b252-4404-97f9-4ee717bb6fb6">
+              <Vi>Một công ty được thành lập theo luật pháp để trở thành một thực thể pháp lý độc lập.</Vi>
+              <En>A company is legally established as a separate legal entity.</En>
+            </Situation>
+            <Situation id="fe30f7aa-3d60-47da-81e7-106a8bd6f14c">
+              <Vi>Một tổ chức phi lợi nhuận đã được hợp nhất để nhận tài trợ và sở hữu tài sản.</Vi>
+              <En>A nonprofit organization has been legally incorporated to hold assets and receive grants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e171cb24-e384-4bc7-b375-7f98104ae3d3" type="Adjective">
+          <Vi>được kết hợp vào; bao gồm; tích hợp</Vi>
+          <En>combined or integrated as part of a whole; included as a component</En>
+          <Example>The price includes shipping and is fully incorporated into the final quote.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97bfe1ca-b6fc-4ba9-827a-4f5be77ac99d">
+              <Vi>Chi phí vận chuyển đã được tính sẵn trong báo giá cuối cùng.</Vi>
+              <En>Shipping costs have been included in the final quoted price.</En>
+            </Situation>
+            <Situation id="4d32ff4a-5062-4a29-9a7c-77cbda79735a">
+              <Vi>Ý kiến của nhân viên được tích hợp vào quy trình ra quyết định.</Vi>
+              <En>Employee feedback has been incorporated into the decision-making process.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
