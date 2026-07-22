@@ -1,0 +1,52 @@
+<Vocab id="078e0b6f-4dd5-414b-a5dd-0d0385fd6079" word="testing" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="cb6bd05f-0bd3-4b59-9ced-30763497e232" value="Quality Assurance Specialist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="05875148-51c8-4537-b798-e1aa5c06528a" ipa="/ˈtest.ɪŋ/" vi_ipa="tét-tinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="395071b2-2c93-4abd-8373-0675b664429b" type="Noun">
+          <Vi>Quá trình kiểm tra, thử nghiệm</Vi>
+          <En>The process of examining or evaluating something to verify its functionality, performance, or reliability.</En>
+          <Example>The software development team conducted thorough testing before the product launch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df9f9b32-beeb-4351-b677-d5f6d6d2af18">
+              <Vi>Trong phát triển phần mềm, kiểm tra mã để phát hiện lỗi trước khi phát hành.</Vi>
+              <En>In software development, checking code for bugs before release.</En>
+            </Situation>
+            <Situation id="ce3d5fe6-703b-42e4-9705-1db68e59a58a">
+              <Vi>Thí nghiệm trong phòng thí nghiệm để xác minh giả thuyết khoa học.</Vi>
+              <En>Running experiments in a lab to verify a scientific hypothesis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="794b9307-90cf-47a6-b89c-4487ee1779cc" type="Noun">
+          <Vi>Bài kiểm tra, đề thi</Vi>
+          <En>An examination or assessment, especially in an educational context.</En>
+          <Example>She spent the whole weekend preparing for the final testing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34e80cc4-6cdd-4a70-9e8f-1da12734bed5">
+              <Vi>Học sinh làm bài kiểm tra giữa kỳ tại lớp.</Vi>
+              <En>Students taking a mid-term exam in class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
