@@ -1,0 +1,45 @@
+<Vocab id="5def172c-2156-4cd3-b4d9-38ddb16f62d6" word="redeem" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ddfb98be-481f-4423-944b-44bd32d6f7a7" ipa="/rɪˈdiːm/" vi_ipa="rị-đi-m">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="02c9b6a1-b2e2-40b6-8042-1c056eb80bd8" type="Verb">
+          <Vi>Đổi lấy; chuộc lại; bù đắp; cứu chuộc</Vi>
+          <En>To exchange (something, such as a coupon or voucher) for money or goods; to make up for a fault or shortcoming; in Christian theology, to save from sin and its consequences.</En>
+          <Example>She redeemed her gift card for a free coffee at the café.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eeee931f-9b04-4651-8de3-c9083b971871">
+              <Vi>Người dùng đổi phiếu mua hàng hoặc mã khuyến mãi để nhận sản phẩm/dịch vụ.</Vi>
+              <En>A customer exchanges a coupon or promotional code for a product or service.</En>
+            </Situation>
+            <Situation id="fee938f0-22ba-4b05-8c50-555b48920db3">
+              <Vi>Cố gắng bù đắp cho một sai lầm hoặc hành động xấu trong quá khứ.</Vi>
+              <En>Attempting to make amends for a past mistake or wrongdoing.</En>
+            </Situation>
+            <Situation id="05d7378f-ebf2-4ba8-bd2b-f09f47c0fb61">
+              <Vi>Trong tôn giáo, Chúa Giêsu được xem là Đấng cứu chuộc nhân loại.</Vi>
+              <En>In Christianity, Jesus Christ is seen as the savior who redeems humanity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
