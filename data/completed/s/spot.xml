@@ -1,0 +1,56 @@
+<Vocab id="19a701bd-242a-41d0-baf8-cd146817f12c" word="spot" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="310e105a-a469-4c42-8927-15e54d9ce2f4" ipa="/spɑːt/" vi_ipa="s-pốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="21608720-819c-4ee8-bf94-8972be1cb27f" type="Noun">
+          <Vi>chấm, vết, điểm, địa điểm</Vi>
+          <En>a small area or point, often visibly different from its surroundings</En>
+          <Example>There was a spot of ink on his shirt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="29bf74e4-2b12-4b6d-a730-6a3324f5636f">
+              <Vi>Mô tả vết bẩn nhỏ hoặc điểm nổi bật trên bề mặt.</Vi>
+              <En>Describing a small stain or distinctive point on a surface.</En>
+            </Situation>
+            <Situation id="d82e73b7-00c5-453a-b6f2-0479824aaa5b">
+              <Vi>Chỉ một địa điểm cụ thể, đặc biệt hoặc khó tìm.</Vi>
+              <En>Referring to a specific, notable, or hard-to-find location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a171b459-9f89-479c-8b10-276d0458ba08" type="Verb">
+          <Vi>nhận ra, phát hiện, nhìn thấy</Vi>
+          <En>to see or notice someone or something, especially when difficult to detect</En>
+          <Example>I spotted a rare bird while hiking in the forest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bcb6e05e-83b0-4e96-8b9e-464bc70a0c2f">
+              <Vi>Quan sát và nhận ra điều gì đó tinh tế hoặc nhanh chóng.</Vi>
+              <En>Observing and recognizing something subtle or fleeting.</En>
+            </Situation>
+            <Situation id="459f5aab-12eb-4cb4-8832-59535b521010">
+              <Vi>Trong giám sát hoặc an ninh: phát hiện người hoặc hành vi đáng ngờ.</Vi>
+              <En>In surveillance or security: detecting a person or suspicious behavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
