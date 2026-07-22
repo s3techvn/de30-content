@@ -1,0 +1,33 @@
+<Vocab id="83ff7911-3489-4a1e-91e0-f46680fb712b" word="dod" type="short" status="done">
+  <Topics>
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="daa3c660-091c-4c71-94a4-cb3c69f7cc1f" value="Military Logistics Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a06ccf7e-a238-409a-8bfc-a1bf6760fde1" ipa="/ˈdɒd/" vi_ipa="đốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fa68be46-2630-4af0-8c26-fd914e33de82" type="Noun">
+          <Vi>đạn (dùng trong quân sự, đặc biệt là đạn cỡ lớn hoặc đạn pháo)</Vi>
+          <En>a unit of ammunition, especially artillery shell or large-caliber round (military context)</En>
+          <Example>The soldiers loaded the dod into the mortar before firing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79de24a2-9316-48c7-a0e8-788d3d647de4">
+              <Vi>Tình huống khi quân nhân chuẩn bị hoặc sử dụng đạn pháo hoặc đạn cỡ lớn.</Vi>
+              <En>Scenario where soldiers prepare or use artillery shells or large-caliber rounds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

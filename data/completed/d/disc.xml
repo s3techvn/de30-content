@@ -1,0 +1,64 @@
+<Vocab id="9f6e0ce3-01ab-4c98-902a-50e49a3b1a0e" word="disc" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="e1a7fc5e-b725-4d97-bbfd-80655491acb5" value="Music Producer" />
+    <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" value="Automotive Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="044ca1a7-f7bf-4207-af95-2f9e40d3af5f" ipa="/dɪsk/" vi_ipa="đít-xờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9439498-a702-4dc0-a956-3eddbd726fa2" type="Noun">
+          <Vi>Đĩa (phẳng, tròn, thường dùng để lưu trữ dữ liệu hoặc phát nhạc)</Vi>
+          <En>A flat, circular object, typically used for storing digital data (e.g., CD, DVD) or playing recorded music (e.g., vinyl record).</En>
+          <Example>She inserted the CD into the drive to copy the music files.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2020de1-6064-4881-802b-6154058e3e12">
+              <Vi>Người dùng chèn đĩa CD vào máy tính để sao chép nhạc.</Vi>
+              <En>A user inserts a CD into a computer to copy music files.</En>
+            </Situation>
+            <Situation id="c85c6b69-16e5-4aac-9202-33a7cb48228b">
+              <Vi>Thợ kỹ thuật kiểm tra đĩa cứng bị lỗi trong máy chủ.</Vi>
+              <En>A technician inspects a faulty hard disc in a server.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9b0e6038-1545-4f5f-9cff-d38a05d3d101" type="Noun">
+          <Vi>Đĩa phanh (bộ phận trong hệ thống phanh xe)</Vi>
+          <En>A flat, circular metal plate in a vehicle’s braking system that the brake pads clamp onto to stop the car.</En>
+          <Example>The mechanic replaced the warped brake disc after the car began vibrating during braking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fb80931-f7a7-46bf-b9dd-e4496fb0ca88">
+              <Vi>Thợ sửa xe thay đĩa phanh bị mòn sau 80.000 km chạy.</Vi>
+              <En>A mechanic replaces worn brake discs after 80,000 km of driving.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8f14f395-6531-40e9-8d7c-5988ced9a9b2" type="Noun">
+          <Vi>Đĩa (trong thể thao: môn ném đĩa)</Vi>
+          <En>A flat, round object used in the sport of disc throwing, such as in disc golf or ultimate frisbee.</En>
+          <Example>He lined up for his throw, gripping the disc firmly with his fingers under the rim.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e8d846a-c66e-4494-84d8-7f15a7f60260">
+              <Vi>Các vận động viên ném đĩa trong giải thi đấu thể thao đại học.</Vi>
+              <En>Athletes throw discs in a university-level disc-throwing competition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
