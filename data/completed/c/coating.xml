@@ -1,0 +1,52 @@
+<Vocab id="6a3104bd-44e6-49ff-b277-786d6da2dd28" word="coating" type="short" status="done">
+  <Topics>
+    <Topic id="cf1dd170-f56b-416e-a812-b70d073a9e77" value="Materials &amp; Manufacturing" />
+    <Topic id="37902ff5-42c1-420f-91b2-3c4163566fdc" value="Cooking &amp; Food" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+    <Profession id="c8fee61b-8ea3-4d92-ae2d-90a734757b90" value="Paint Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="57ff60ad-21b2-4f5d-a08e-e541c3b0a17c" ipa="/ˈkoʊ.ɪŋ/" vi_ipa="cô-ting">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6a9b9b7a-3046-484a-b203-5fa7e6557cf9" type="Noun">
+          <Vi>Lớp phủ</Vi>
+          <En>A thin layer of material applied to a surface for protection, decoration, or functionality.</En>
+          <Example>The car was given a new coating of paint to prevent rust.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="92d191f0-32f9-4d9d-ab46-d9fb954cf63f">
+              <Vi>Lớp sơn hoặc vật liệu được phun lên bề mặt xe hơi để bảo vệ và làm đẹp.</Vi>
+              <En>A layer of paint or material applied to a car surface for protection and aesthetics.</En>
+            </Situation>
+            <Situation id="70f7c90e-3cde-44ac-af42-72c425fb2a80">
+              <Vi>Lớp phủ chống thấm trên điện thoại di động.</Vi>
+              <En>A water-repellent coating applied to a smartphone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c6cb188b-2311-427f-aaca-8ce06b29edd9" type="Noun">
+          <Vi>Vỏ bọc (thực phẩm)</Vi>
+          <En>A layer of batter, breadcrumbs, or other ingredients applied to food before cooking.</En>
+          <Example>She dusted the fish with flour before adding a light coating of breadcrumbs.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3c871809-c5fa-45b4-a53d-78856c47e3cf">
+              <Vi>Lớp bột chiên giòn phủ ngoài miếng cá trước khi chiên.</Vi>
+              <En>The crispy breadcrumb layer on fish before frying.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
