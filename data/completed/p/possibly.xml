@@ -1,0 +1,38 @@
+<Vocab id="b379e6b9-8271-4aa4-88a2-be04442822cc" word="possibly" type="short" status="done">
+  <Topics>
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6171cc0-e0b1-47c6-8566-70d3f661fcb5" ipa="/ˈpɑː.sə.bəl.i/" vi_ipa="pờ-rờ-sờ-bờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2afa8e4-146d-4206-8990-ebc67c41eaab" type="Adverb">
+          <Vi>Có thể, có lẽ, có khả năng</Vi>
+          <En>Used to indicate that something is possible or might be the case, but not certain.</En>
+          <Example>We might go to the park later—possibly if the weather improves.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57f7f635-c6b1-4467-963f-827b10c3a8fa">
+              <Vi>Thể hiện sự không chắc chắn khi đưa ra dự đoán hoặc khả năng xảy ra.</Vi>
+              <En>Used when expressing uncertainty about a future event or possibility.</En>
+            </Situation>
+            <Situation id="73501d91-dbd4-4364-b63f-110ae2f0cf78">
+              <Vi>Được dùng trong văn nói và văn viết để làm mềm phát biểu, tránh khẳng định tuyệt đối.</Vi>
+              <En>Used in speech and writing to soften a statement and avoid absolute certainty.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
