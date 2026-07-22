@@ -1,0 +1,40 @@
+<Vocab id="d2640a5f-c942-42e5-bb34-a4b44a09ca29" word="helen" type="short" status="done">
+  <Topics>
+    <Topic id="c2960f31-37a5-4aa4-978f-dca6c92f814e" value="Mythology" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="1f25b3ce-9179-43d0-bc3a-22cc33452d32" value="Classicist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f449853-9dd0-440e-8ccc-9e4380c0ab25" ipa="/ˈhiː.lən/" vi_ipa="hi-lên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf6fabdd-f615-4248-a47f-eb95425fc149" type="Proper Noun">
+          <Vi>Helene (tên người), thường chỉ nhân vật trong thần thoại Hy Lạp – vợ của Menelaus, người bị Paris cướp đi, dẫn đến Chiến tranh Troy</Vi>
+          <En>Helen, a figure in Greek mythology: wife of Menelaus, queen of Sparta, whose abduction by Paris of Troy triggered the Trojan War</En>
+          <Example>According to Homer’s *Iliad*, Helen’s beauty was said to have launched a thousand ships.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a56e5c49-49a8-417a-ad0b-079051599d93">
+              <Vi>Trong văn học cổ điển và thần thoại Hy Lạp, khi nhắc đến "Helen" mà không có tên họ, thường ngầm hiểu là Helen của Troy.</Vi>
+              <En>In classical literature and Greek mythology, the name "Helen" alone usually refers to Helen of Troy.</En>
+            </Situation>
+            <Situation id="7e9d8c0f-d46e-4a32-887e-e3974d956d60">
+              <Vi>Dùng để chỉ người phụ nữ có nhan sắc tuyệt trần, theo cụm "face that launched a thousand ships".</Vi>
+              <En>Used metaphorically to describe a woman of extraordinary beauty, especially in the phrase "the face that launched a thousand ships".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

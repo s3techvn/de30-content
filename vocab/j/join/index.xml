@@ -1,0 +1,40 @@
+<Vocab id="507fba87-8b5b-434a-92be-f2dd90de85b2" word="join" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a10d1bac-7b24-43b0-ab08-c32f56663ada" ipa="/dʒɔɪn/" vi_ipa="gi-oin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f6890c2-205c-4ed5-a8ce-6fcee39c2be7" type="Verb">
+          <Vi>tham gia, nối, kết hợp</Vi>
+          <En>to become a member or participant in (a group, activity, or organization); to connect or unite physically or logically</En>
+          <Example>She decided to join the university’s debate team.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a815a45-26de-46cf-bf90-6730e01db9f2">
+              <Vi>Tham gia một tổ chức, câu lạc bộ, hoặc hoạt động tập thể</Vi>
+              <En>Participating in a club, organization, or group activity</En>
+            </Situation>
+            <Situation id="2ae85e33-7a87-481b-b152-73e9895cbff5">
+              <Vi>Nối hai vật lại với nhau (ví dụ: dây cáp, bảng biểu)</Vi>
+              <En>Connecting two objects, such as cables or data tables</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

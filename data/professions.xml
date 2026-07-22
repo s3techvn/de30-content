@@ -440,4 +440,5 @@
   <Profession id="2ee20587-fc87-40e4-8c98-9a1d256c381b" slug="choral-conductor" value="Choral Conductor" />
   <Profession id="23ea97bc-0ad9-4992-9b4a-91eba915388e" slug="music-educator" value="Music Educator" />
   <Profession id="50c74cde-4c61-41ff-813e-779d588c9ebc" slug="teacher-(english)" value="Teacher (English)" />
+  <Profession id="1f25b3ce-9179-43d0-bc3a-22cc33452d32" slug="classicist" value="Classicist" />
 </Professions>
