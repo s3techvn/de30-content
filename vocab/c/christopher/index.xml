@@ -1,0 +1,32 @@
+<Vocab id="ba673015-68b4-4199-9966-6d641c3602f4" word="christopher" type="short" status="done">
+  <Topics>
+    <Topic id="9d39b121-95ae-4a22-ac75-6d3ff197f336" value="Names and Personal Identity" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d4164b9a-9202-4efd-853d-91eff8d25d59" ipa="/ˈkrɪs.tə.fər/" vi_ipa="crít-tờ-phờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35a864f6-dae6-4de5-aeb2-b4e4ef9686f4" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng cho nam giới, bắt nguồn từ tiếng Hy Lạp, nghĩa là “người mang Chúa Kitô”</Vi>
+          <En>A masculine given name of Greek origin, meaning “bearer of Christ”</En>
+          <Example>Christopher Columbus was a famous explorer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c100ea46-b4f7-468d-ba9e-a867570c7a6a">
+              <Vi>Dùng khi giới thiệu hoặc nhắc đến một người tên Christopher trong văn nói hoặc văn viết.</Vi>
+              <En>Used when introducing or referring to a person named Christopher in speech or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

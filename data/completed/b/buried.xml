@@ -1,0 +1,40 @@
+<Vocab id="a4254d26-53db-4052-a9ed-6f86e92a9412" word="buried" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a227ea02-8161-4d13-b3be-faf17bfbb2d0" ipa="/ˈbɛr.i.d/" vi_ipa="bơ-rít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="84067633-d746-4495-a098-2af53ed77cf9" type="Adjective">
+          <Vi>chôn, mai một, bị chôn vùi</Vi>
+          <En>Put (something or someone) in the ground and cover with soil, especially as part of a funeral rite; also used metaphorically to mean hidden, suppressed, or forgotten.</En>
+          <Example>The ancient city was buried under volcanic ash for over a thousand years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c02b7d40-be1d-498d-ae62-0fc1ef3d090f">
+              <Vi>Mô tả việc chôn cất thi thể hoặc vật thể dưới đất.</Vi>
+              <En>Describes the act of placing a corpse or object underground and covering it with soil.</En>
+            </Situation>
+            <Situation id="b5db27fa-4cb4-4ce0-a8d9-5bca46bd9fc5">
+              <Vi>Mô tả cảm xúc, ký ức bị chôn sâu trong tâm trí.</Vi>
+              <En>Describes emotions or memories that are deeply suppressed or hidden within the mind.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
