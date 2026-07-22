@@ -1,0 +1,66 @@
+<Vocab id="bcc73321-124a-4614-a639-2578320fca76" word="admission" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+  </Topics>
+  <Professions>
+    <Profession id="b716cd5e-4063-40cd-b07b-eda5366a6500" value="University Admissions Officer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a979e783-d22b-4f20-9384-26b12499ab8c" ipa="/ədˈmɪʃ.ən/" vi_ipa="ác-mít-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1f8acd60-5757-4c65-a694-6976965ed86c" type="Noun">
+          <Vi>Sự công nhận, sự cho phép tham gia</Vi>
+          <En>The act of allowing someone to enter a group, institution, or event, or the right to do so.</En>
+          <Example>She received an acceptance letter after the admission process was completed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c15ef123-94ec-4e21-a0d0-18e6299bbac3">
+              <Vi>Sinh viên nộp hồ sơ và phỏng vấn để được vào đại học.</Vi>
+              <En>A student submits documents and attends an interview to gain entry to a university.</En>
+            </Situation>
+            <Situation id="d7f79c2e-bc9d-4909-86d7-2698ff62efb8">
+              <Vi>Bệnh nhân được vào khoa cấp cứu sau khi được kiểm tra sơ bộ.</Vi>
+              <En>The patient was admitted to the emergency department after initial screening.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bca5bf15-3b6f-46d4-95f1-1633a61a458f" type="Noun">
+          <Vi>Sự thú nhận (trong pháp lý)</Vi>
+          <En>A formal statement acknowledging the truth of a fact or a confession, especially in a legal context.</En>
+          <Example>His lawyer advised him not to make any admission before consulting with counsel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37684d37-2a0c-40e9-8589-979a10b1b57e">
+              <Vi>Bị cáo đưa ra lời thú nhận trước tòa để giảm nhẹ hình phạt.</Vi>
+              <En>The defendant made an admission in court to seek a reduced sentence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4b4ccc38-95a1-49b4-a859-c6c817838d85" type="Noun">
+          <Vi>Phí vào cửa, phí tham dự</Vi>
+          <En>The fee charged for entry to a place or event.</En>
+          <Example>The admission to the museum is free for children under 12.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ec3fd5de-7fc9-45ad-8821-5d363ab55f7a">
+              <Vi>Khách phải mua vé để vào buổi hòa nhạc.</Vi>
+              <En>Attendees must purchase admission tickets to enter the concert.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

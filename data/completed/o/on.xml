@@ -1,0 +1,84 @@
+<Vocab id="135374cc-3053-48eb-85c8-fc4ff36dc684" word="on" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8d6e079c-e28a-4c78-a272-931badc9556a" ipa="/ɑːn/" vi_ipa="ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="27146398-5c70-41f3-804b-ed8439043410" type="Preposition">
+          <Vi>trên</Vi>
+          <En>at or to a higher position than; above</En>
+          <Example>Put the book on the table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5616e6a3-4ca2-4f64-b562-d13249406e8f">
+              <Vi>Mô tả vị trí vật đặt trên bề mặt ngang như bàn, kệ, bàn làm việc.</Vi>
+              <En>Describes an object placed on a horizontal surface such as a table, shelf, or desk.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ff9661f-1853-435d-9af7-e41d0d8da5a7" type="Preposition">
+          <Vi>về</Vi>
+          <En>about a particular subject or topic</En>
+          <Example>We had a long discussion on climate change.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c8e2dd9-b892-4dae-a500-5545bd031d13">
+              <Vi>Dùng trong văn cảnh nói hoặc viết về chủ đề cụ thể.</Vi>
+              <En>Used when speaking or writing about a specific subject.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="17e339b8-033b-4732-afdc-8161dd4a11e5" type="Adverb">
+          <Vi>đang hoạt động; đang được bật</Vi>
+          <En>in an active, operating, or functional state</En>
+          <Example>The lights are on.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3719e52-543e-4910-9b9b-9a1967f74121">
+              <Vi>Mô tả thiết bị điện đang bật, máy đang chạy, hoặc hệ thống đang hoạt động.</Vi>
+              <En>Describes an electrical device switched on, a machine running, or a system operational.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2078e704-7bee-4600-a557-1a6741ba1ab3" type="Adverb">
+          <Vi>tiếp tục; không ngừng</Vi>
+          <En>continuing in time or space; without interruption</En>
+          <Example>The rain went on all night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2841b32-9884-47d4-b6c9-21f6888b3adc">
+              <Vi>Dùng để diễn tả hành động, sự kiện kéo dài không gián đoạn.</Vi>
+              <En>Used to describe an action or event continuing without interruption.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="63da45d6-31f7-416e-b0cb-d4aee8020d61" type="Adverb">
+          <Vi>ở trạng thái sẵn sàng; đang ở gần</Vi>
+          <En>in a state of readiness or nearby availability</En>
+          <Example>She keeps her phone on at all times.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb485a5e-7294-473c-a9f3-eb3986d9f904">
+              <Vi>Mô tả việc giữ thiết bị ở chế độ chờ hoặc sẵn sàng sử dụng.</Vi>
+              <En>Describes keeping a device in standby or ready-to-use mode.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
