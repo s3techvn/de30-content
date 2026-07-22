@@ -1,0 +1,39 @@
+<Vocab id="5e6a4160-dc96-4c47-a8db-273618acc352" word="beverage" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="d03ff994-25eb-482b-9abc-7058d05dc0c2" value="Barista" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="0f266fc1-aba8-4156-bef2-deb452cfee0b" value="Hospitality Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08454715-3d05-4eee-bce3-ecd889e8ac24" ipa="/ˈbev.ər.ɪdʒ/" vi_ipa="bê-vơ-rích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fabdce88-c773-4cf7-a24b-621abe019311" type="Noun">
+          <Vi>đồ uống</Vi>
+          <En>A drink, especially one other than water.</En>
+          <Example>The menu offers a wide variety of hot and cold beverages.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="81908d91-81cd-4286-878a-1691beeb58e5">
+              <Vi>Một người gọi đồ uống tại quán cà phê.</Vi>
+              <En>A person orders a drink at a café.</En>
+            </Situation>
+            <Situation id="1e5e006a-466f-4545-aeb0-39684f150f71">
+              <Vi>Nhà hàng phục vụ nhiều loại đồ uống có cồn và không cồn.</Vi>
+              <En>The restaurant serves a range of alcoholic and non-alcoholic beverages.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

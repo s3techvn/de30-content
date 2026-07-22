@@ -450,4 +450,6 @@
   <Profession id="ec1b2d05-a5de-4117-bc7d-5989f5ca58a1" slug="database-administrator" value="Database Administrator" />
   <Profession id="4d7d7ee8-3402-494e-a0f1-024ce814def3" slug="inspector" value="Inspector" />
   <Profession id="e5b9782f-50ec-4e55-a0f4-1f0c4f34b9ad" slug="healthcare-provider" value="Healthcare Provider" />
+  <Profession id="d03ff994-25eb-482b-9abc-7058d05dc0c2" slug="barista" value="Barista" />
+  <Profession id="0f266fc1-aba8-4156-bef2-deb452cfee0b" slug="hospitality-manager" value="Hospitality Manager" />
 </Professions>
