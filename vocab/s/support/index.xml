@@ -1,0 +1,78 @@
+<Vocab id="a3351fdf-f851-4faa-b8f1-f1c299b37945" word="support" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f2679415-85a8-4861-ad30-b5684ffebb8b" ipa="/səˈpɔːrt/" vi_ipa="xơ-póp-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a4f7e744-81e8-4fbc-9756-545da1c9f680" type="Verb">
+          <Vi>hỗ trợ, giúp đỡ</Vi>
+          <En>To provide aid, assistance, or encouragement to someone or something.</En>
+          <Example>She supported her friend during the difficult time by listening and offering advice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7f05b0d-3a4d-462a-93e6-16cc4be4c658">
+              <Vi>Tình huống một người giúp đỡ người khác về mặt tinh thần hoặc vật chất.</Vi>
+              <En>A situation where someone provides emotional or physical help to another person.</En>
+            </Situation>
+            <Situation id="c370053e-cc36-46fa-a143-05688a530058">
+              <Vi>Tình huống một công ty cung cấp phần mềm hỗ trợ kỹ thuật cho khách hàng.</Vi>
+              <En>A situation where a company provides technical software support to customers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0b86a05a-cc61-45d9-984a-6e2e81d2b2c4" type="Noun">
+          <Vi>sự hỗ trợ, sự giúp đỡ</Vi>
+          <En>The action of providing aid or assistance; also, the resources or backing provided.</En>
+          <Example>The charity provides financial support to families in need.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4275a6c4-e74c-4cd5-ace6-d36b567d4625">
+              <Vi>Tình huống một nhóm người tổ chức quyên góp để hỗ trợ nạn nhân thiên tai.</Vi>
+              <En>A situation where a group organizes a fundraiser to support disaster victims.</En>
+            </Situation>
+            <Situation id="c76f41bd-34a9-400e-b573-91080151a465">
+              <Vi>Tình huống một nhân viên IT cung cấp hỗ trợ kỹ thuật qua điện thoại.</Vi>
+              <En>A situation where an IT staff member provides technical support over the phone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9cd00390-17eb-4078-a060-a49d1db3ab50" ipa="/səˈpɔːt/" vi_ipa="xơ-póp-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9a0c152-90f0-42b2-8ed8-8476637a1769" type="Noun">
+          <Vi>giá đỡ, giá tựa</Vi>
+          <En>A physical structure or device that holds or bears the weight of something.</En>
+          <Example>The painting needed a new support to hang it securely on the wall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="45a1ab69-cf3d-40e7-8849-206db87c47d1">
+              <Vi>Tình huống một nghệ sĩ sử dụng khung gỗ làm giá đỡ cho bức tranh.</Vi>
+              <En>A situation where an artist uses a wooden frame as a support for a painting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

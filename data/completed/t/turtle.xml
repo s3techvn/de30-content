@@ -1,0 +1,38 @@
+<Vocab id="2f92d33d-490d-4a86-a029-b68f640121e6" word="turtle" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76288443-c5ff-494d-a9d3-1d67ce16d1a9" ipa="/ˈtɜːr.təl/" vi_ipa="tơ-tờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="528a49bb-a018-489a-ba1a-869159838edb" type="Noun">
+          <Vi>con rùa</Vi>
+          <En>A reptile with a hard shell that protects its body, typically moving slowly on land or in water.</En>
+          <Example>The turtle slowly crossed the road to reach the pond on the other side.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5cbef147-ddac-4263-90ec-3d18e1901a00">
+              <Vi>Mô tả một con rùa đang bò trên cát hoặc bơi trong nước.</Vi>
+              <En>Describing a turtle moving on sand or swimming in water.</En>
+            </Situation>
+            <Situation id="331c14e8-3269-4d07-aabc-2662e8089903">
+              <Vi>Trong ngữ cảnh bảo tồn, nói về loài rùa biển đang bị đe dọa tuyệt chủng.</Vi>
+              <En>In conservation contexts, referring to endangered sea turtle species.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
