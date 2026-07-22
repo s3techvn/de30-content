@@ -1,0 +1,57 @@
+<Vocab id="9db86655-3419-49c7-9c13-8ce80a72e327" word="rendering" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+    <Topic id="1c0ecef3-34ce-4cc6-9ce1-29830c922e74" value="Film &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="26a1340c-732e-47f5-bd83-0bbec963d268" value="3D Artist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="56bbab05-56c4-40a7-9626-0bf7d90d2b63" ipa="/ˈren.dər.ɪŋ/" vi_ipa="ren-đơ-rin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="25205473-6e04-45ab-9b4c-8b02554059f8" type="Noun">
+          <Vi>Quá trình tạo ra hình ảnh kỹ thuật số từ mô hình 3D hoặc dữ liệu đồ họa</Vi>
+          <En>The process of generating a final image or video from a 2D or 3D digital model, often using software to simulate lighting, texture, and perspective.</En>
+          <Example>The rendering of the architectural visualization took over two hours on the high-end workstation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d60bdde2-d6d6-43d1-bb7c-3b7a370f1013">
+              <Vi>Trong thiết kế kiến trúc, sau khi hoàn tất mô hình 3D, bước tiếp theo là render để tạo hình ảnh chân thực.</Vi>
+              <En>In architectural visualization, after completing the 3D model, the next step is rendering to produce a realistic image.</En>
+            </Situation>
+            <Situation id="24ece219-3760-4774-a418-8395677c7200">
+              <Vi>Trong làm phim hoạt hình, rendering là giai đoạn cuối cùng trước khi xuất phim.</Vi>
+              <En>In animation production, rendering is the final stage before exporting the finished film.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="95d0e0ba-6469-4dc3-9e0c-e083036fd798" type="Noun">
+          <Vi>Bản dịch (văn bản), bản diễn đạt (âm nhạc), hoặc cách thể hiện (tác phẩm nghệ thuật)</Vi>
+          <En>A translation of a text, an interpretation or performance of a musical piece, or a particular way of expressing or presenting something.</En>
+          <Example>The singer gave a beautiful rendering of the classic ballad at the concert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43b21289-2217-4f8c-8f5f-369aa7a658c0">
+              <Vi>Nhà phê bình văn học đánh giá cao bản dịch tiếng Anh của tác phẩm như một bản dịch trung thực và giàu cảm xúc.</Vi>
+              <En>The literary critic praised the English translation of the novel as a faithful and emotionally rich rendering.</En>
+            </Situation>
+            <Situation id="fee70ba3-9ca9-4eb4-9ce3-7dd23b1f113b">
+              <Vi>Bản diễn tấu của nghệ sĩ piano được ca ngợi là một bản rendering đầy sáng tạo và cá tính.</Vi>
+              <En>The pianist’s performance was praised as a highly creative and distinctive rendering of the sonata.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
