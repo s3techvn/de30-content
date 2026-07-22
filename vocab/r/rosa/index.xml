@@ -1,0 +1,40 @@
+<Vocab id="c3ac2c77-3781-4a79-b891-67e446f1327c" word="rosa" type="short" status="done">
+  <Topics>
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="99cd600f-b579-461e-83c0-8af5430e2967" value="Flowers" />
+  </Topics>
+  <Professions>
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="81d3444c-64b3-4cdd-9d1f-f07dce053ff1" value="Florist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86a8ac56-e022-4128-8a8f-b8667d368a56" ipa="/ˈroʊ.zə/" vi_ipa="rô-zơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="73658739-2d9c-41bb-9c22-bd0a1ab9a4d8" type="Noun">
+          <Vi>Cây hoa hồng (thực vật có hoa thuộc chi Rosa, thường có gai và hoa thơm)</Vi>
+          <En>A genus of flowering shrubs in the rose family, known for their fragrant, often thorny flowers; commonly cultivated for ornamental and commercial purposes.</En>
+          <Example>The garden was filled with the sweet scent of rosa as the morning dew glistened on the petals.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f69b688b-f1f3-4c20-8c13-3b2038678719">
+              <Vi>Mô tả một khu vườn trồng hoa hồng đang nở rộ.</Vi>
+              <En>Describing a garden where roses are in full bloom.</En>
+            </Situation>
+            <Situation id="eb4e0e0e-a3aa-4bc0-a65a-91345de87b2d">
+              <Vi>Ngành công nghiệp hương nước hoa sử dụng tinh dầu từ hoa rosa.</Vi>
+              <En>The perfume industry extracts essential oil from rosa flowers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
