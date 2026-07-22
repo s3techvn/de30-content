@@ -1,0 +1,71 @@
+<Vocab id="33bb5d2e-c08f-4192-8891-b083b9d0ab86" word="virgin" type="short" status="done">
+  <Topics>
+    <Topic id="0a7c3adf-0442-42ea-9e7b-6141b9b9aa36" value="Social &amp; Culture" />
+    <Topic id="8f979896-732d-4435-b3da-db7986d50e03" value="Biology &amp; Health" />
+  </Topics>
+  <Professions>
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="77541495-19ba-4e1e-9b09-110c419d7e8c" ipa="/ˈvɜː.dʒɪn/" vi_ipa="vơ-rơ-gin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f51b7306-21ae-45fe-a121-3e16b829f255" type="Adjective">
+          <Vi>trinh nữ; chưa từng quan hệ tình dục</Vi>
+          <En>not having had sexual intercourse; specifically used to describe someone who has never engaged in sexual activity.</En>
+          <Example>She identified as a virgin before her first relationship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c17ef56-7c73-4286-aeb2-12b63fe4be41">
+              <Vi>Mô tả trạng thái tình dục của một người trước khi có kinh nghiệm tình dục.</Vi>
+              <En>Used in personal, medical, or cultural contexts to describe sexual experience status.</En>
+            </Situation>
+            <Situation id="430dde33-f370-4847-9f2e-4f9bb9b89ad9">
+              <Vi>Trong y học, chỉ cơ quan chưa bị xâm phạm (ví dụ: màng trinh).</Vi>
+              <En>In medical contexts, refers to an anatomical structure (e.g., hymen) that has not been ruptured or altered.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f1151a99-b293-4690-848c-a44f4733db55" type="Adjective">
+          <Vi>nguyên bản, chưa qua sử dụng; chưa bị làm hỏng</Vi>
+          <En>in its original, unaltered, or unused state; untouched or unspoiled.</En>
+          <Example>The bottle of wine was still virgin olive oil, straight from the press.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea0e18fd-a6e5-4f7a-933e-846f33462490">
+              <Vi>Mô tả chất lỏng hoặc sản phẩm chưa pha chế, nguyên chất.</Vi>
+              <En>Commonly used in food and beverage contexts (e.g., virgin olive oil, virgin coconut oil).</En>
+            </Situation>
+            <Situation id="94d04e21-5f90-4a7e-b963-dc198349961b">
+              <Vi>Mô tả tài nguyên thiên nhiên chưa khai thác.</Vi>
+              <En>Used metaphorically for natural resources (e.g., virgin forest, virgin land).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8a0ae5e7-fdee-4b41-80c0-b1fca7a28084" type="Noun">
+          <Vi>người trinh nữ</Vi>
+          <En>a person who has never had sexual intercourse.</En>
+          <Example>The story features a brave virgin who saves the kingdom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e29e307-4aa2-4ec5-914c-475aa7b6e1da">
+              <Vi>Trong văn học, thần thoại, hoặc tôn giáo, chỉ nhân vật chưa từng quan hệ tình dục.</Vi>
+              <En>Frequently appears in mythology, religion, and literature (e.g., Virgin Mary, virgin saints).</En>
+            </Situation>
+            <Situation id="294e2ef8-9e0c-46d7-990d-f2b49ba5f551">
+              <Vi>Trong ngữ cảnh hiện đại, có thể mang sắc thái mỉa mai hoặc tự sự.</Vi>
+              <En>In modern usage, sometimes used ironically or self-deprecatingly (e.g., “I’m a virgin at cooking”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
