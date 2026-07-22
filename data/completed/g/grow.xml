@@ -1,0 +1,64 @@
+<Vocab id="ba66966a-2e30-4ab1-b4a1-46ac4a9eed25" word="grow" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1c9f93ca-e771-45bc-bd12-118505fa7395" value="Business Owner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a0a0ed39-4c42-4c89-9fb5-06644536d7f9" ipa="/ɡroʊ/" vi_ipa="gờ-rô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6ac8a9cc-c6be-4d6a-908a-d040ef84ebf0" type="Verb">
+          <Vi>trồng, phát triển, lớn lên</Vi>
+          <En>to increase in size, number, or amount; to develop or progress gradually</En>
+          <Example>Plants grow quickly in warm, sunny weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4e6347fa-3b28-4cdb-b072-3bb2ea12b91e">
+              <Vi>Cây cối phát triển trong điều kiện thời tiết thuận lợi.</Vi>
+              <En>Plants developing under favorable weather conditions.</En>
+            </Situation>
+            <Situation id="d5d1ca2a-455b-4127-ac5f-50050231a537">
+              <Vi>Doanh nghiệp mở rộng quy mô và nhân sự.</Vi>
+              <En>A business expanding its scale and workforce.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03a78813-5aef-495a-8889-0ffc70dcdd3a" type="Verb">
+          <Vi>trở nên, dần dần đạt được (trạng thái, cảm xúc, tính chất)</Vi>
+          <En>to become increasingly something (e.g., tired, angry, excited)</En>
+          <Example>She began to grow impatient as the meeting dragged on.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8b27128-6c2f-40d6-b2f2-48e0a1b88a7d">
+              <Vi>Cảm xúc tiêu cực hoặc tích cực tăng dần theo thời gian.</Vi>
+              <En>Gradual intensification of emotions over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4b4715fc-ea86-40aa-ace9-5b01c6895c3d" type="Verb">
+          <Vi>mọc ra (tóc, râu, lông, v.v.)</Vi>
+          <En>to develop or appear naturally on the body (e.g., hair, beard)</En>
+          <Example>He started to grow a beard during the camping trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="798594f8-5c6f-4a17-a846-97b0b5a95532">
+              <Vi>Tóc hoặc râu mọc dài ra tự nhiên.</Vi>
+              <En>Natural hair or beard growth over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
