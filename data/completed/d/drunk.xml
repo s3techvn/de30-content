@@ -1,0 +1,51 @@
+<Vocab id="1621ce37-0e66-4864-9ad0-cf1f17cd27cd" word="drunk" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="1cc51c4e-3dc2-4acc-ba64-431ea7b1adac" value="Law Enforcement Officer" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2ffdcf6-c3a3-4fbc-945e-03a5373537cd" ipa="/drʌŋk/" vi_ipa="đờ-răng-k">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6f7d51b-06a9-4016-be88-579eb7ce35c6" type="Adjective">
+          <Vi>say rượu, say xỉn</Vi>
+          <En>Having consumed too much alcohol; intoxicated.</En>
+          <Example>He was drunk and stumbled home at 2 a.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb8034f2-4889-4c01-a4ba-c42495bc2df2">
+              <Vi>Mô tả trạng thái người vừa uống nhiều rượu bia, mất kiểm soát hành vi.</Vi>
+              <En>Describes someone who has consumed excessive alcohol and shows impaired coordination or judgment.</En>
+            </Situation>
+            <Situation id="6be52050-2c56-46eb-8707-c81a3092a80e">
+              <Vi>Tình huống cảnh sát giao thông phát hiện tài xế đang say xỉn.</Vi>
+              <En>A traffic police officer stops a driver suspected of being under the influence of alcohol.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="452d934f-0112-4877-bbde-251f89586eb8" type="Adjective">
+          <Vi>say mê, say đắm (nghĩa bóng)</Vi>
+          <En>Extremely enthusiastic or captivated by something; overwhelmed with emotion.</En>
+          <Example>She was drunk on the success of her first album.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="029eff91-ab40-4146-b259-242c4a6d294c">
+              <Vi>Mô tả cảm giác hân hoan, phấn khích tột độ sau thành công.</Vi>
+              <En>Describes an intense feeling of euphoria and excitement following a major achievement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
