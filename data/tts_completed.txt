@@ -232,3 +232,4 @@ amendment
 comfort
 chamber
 china
+appliance
