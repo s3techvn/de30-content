@@ -1,0 +1,38 @@
+<Vocab id="e761c263-4cc4-48e3-be5f-c99147b5f59b" word="paragraph" type="short" status="done">
+  <Topics>
+    <Topic id="40b1a52d-f251-4c43-bf27-f7156e47be39" value="Writing &amp; Education" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4b00ed09-88e9-454b-b9a4-c0be9710803c" ipa="/ˈpær.ə.ɡrɑːf/" vi_ipa="pác-rơ-grác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="acf2098d-62d4-483e-945e-4d79a7857fbf" type="Noun">
+          <Vi>Đoạn văn</Vi>
+          <En>A distinct section of a piece of writing, usually dealing with a single theme or idea and beginning on a new line.</En>
+          <Example>Each paragraph in the essay should clearly support the thesis statement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a571a0e-80c8-4cf2-b3de-2b2e31de7eb5">
+              <Vi>Viết một đoạn văn giới thiệu bản thân trong bài luận xin học bổng.</Vi>
+              <En>Writing a paragraph introducing oneself in a scholarship application essay.</En>
+            </Situation>
+            <Situation id="424cbc2c-4bb9-4377-8e56-e9f34b255945">
+              <Vi>Chia bài viết thành các đoạn văn ngắn giúp người đọc dễ theo dõi.</Vi>
+              <En>Breaking a long text into short paragraphs improves readability.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

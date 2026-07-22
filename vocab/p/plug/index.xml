@@ -1,0 +1,82 @@
+<Vocab id="d1cf7ed8-810a-40d1-8132-a52f8bdb2323" word="plug" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" value="Plumber" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="88c52c62-ea10-4050-908d-5c37f122e26e" ipa="/plʌɡ/" vi_ipa="plăg">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a5700985-9f87-4c34-a588-82d566b00e07" type="Noun">
+          <Vi>Cái phích cắm; cái nút; cái bịt; cái bịt kín</Vi>
+          <En>A short, solid or hollow cylinder, typically made of rubber, plastic, or metal, used to block a hole or fit into a socket to complete an electrical circuit.</En>
+          <Example>He inserted the plug into the wall socket to charge his phone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="205c90e3-a37e-40cd-887a-e7a8ced64c8e">
+              <Vi>Mô tả hành động cắm thiết bị điện vào ổ cắm.</Vi>
+              <En>Describes the action of connecting an electrical device to a wall outlet.</En>
+            </Situation>
+            <Situation id="6171a692-443d-4bbd-8c93-0dcbae342758">
+              <Vi>Mô tả việc bịt kín một lỗ rò rỉ bằng nút.</Vi>
+              <En>Describes sealing a leak or hole using a physical plug.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="273a11db-6972-40ee-afbb-5acd0625f138" type="Verb">
+          <Vi>Cắm (điện); bịt kín; nhét đầy</Vi>
+          <En>To insert a plug into a socket; to block or fill a hole completely; to fill or crowd something densely.</En>
+          <Example>She plugged the drain before filling the bathtub.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c208980e-494c-4063-82d7-b36074bfd64a">
+              <Vi>Mô tả hành động cắm phích vào ổ điện.</Vi>
+              <En>Describes inserting an electrical plug into a socket.</En>
+            </Situation>
+            <Situation id="cc9a767e-cba3-4c39-b8ee-5b5b139999b5">
+              <Vi>Mô tả việc bịt kín một lỗ bằng vật liệu phù hợp.</Vi>
+              <En>Describes sealing a hole (e.g., in a pipe or container) with a plug.</En>
+            </Situation>
+            <Situation id="554c29b3-5f37-405e-a90e-9ec02469d517">
+              <Vi>Mô tả việc lấp đầy không gian chật chội.</Vi>
+              <En>Describes filling a space so densely that little room remains (e.g., a crowded room).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="3de65153-58e2-4c15-aaad-be37c74c96e0" ipa="/plʌɡ/" vi_ipa="plăg">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="10f997f3-ba3f-4b55-b995-dff5b20f8928" type="Verb">
+          <Vi>Đẩy mạnh; ném mạnh; nhét vội</Vi>
+          <En>To push or thrust something forcefully into a space or position.</En>
+          <Example>He plugged his hands into his pockets and walked away quickly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db186ed2-c09b-4c99-bbc9-97052b8aa1f7">
+              <Vi>Mô tả hành động nhét vội tay vào túi.</Vi>
+              <En>Describes shoving one’s hands quickly into pockets, often for warmth or concealment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
