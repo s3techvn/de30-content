@@ -1,0 +1,40 @@
+<Vocab id="e7c8cc5a-5286-4bfc-afb7-0374cc04a751" word="whale" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="3f0235b9-1028-4b5b-9e7c-95d2c5c01055" value="Marine Life" />
+    <Topic id="32a534f0-910e-4bf3-84cc-5f574f3dcc23" value="Conservation" />
+  </Topics>
+  <Professions>
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="aeaedc5c-09dc-45f7-a3bc-b053e80c0ba1" value="Wildlife Photographer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86eef549-d4ad-464b-a607-7b8905487314" ipa="/weɪl/" vi_ipa="vê-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12a105d9-f092-4562-bd3e-832984356b67" type="Noun">
+          <Vi>Cá voi</Vi>
+          <En>A large marine mammal of the order Cetacea, typically characterized by a streamlined body, blowhole, and baleen or teeth.</En>
+          <Example>Blue whales are the largest animals known to have ever lived.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ccdcbac0-d78d-4f16-a421-021a881a549f">
+              <Vi>Mô tả loài động vật biển khổng lồ, thường được nhìn thấy khi đi du lịch ngắm cá voi.</Vi>
+              <En>A massive ocean-dwelling mammal often observed during whale-watching tours.</En>
+            </Situation>
+            <Situation id="d7c7cb23-8272-4627-a851-172b2f371d23">
+              <Vi>Đề cập đến nỗ lực bảo tồn các loài cá voi đang bị đe dọa tuyệt chủng.</Vi>
+              <En>Refers to conservation efforts aimed at protecting endangered whale species.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
