@@ -1,0 +1,36 @@
+<Vocab id="e97cfaf7-d0f1-4246-bd00-650fafb9ebfd" word="frequent" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="affd5550-9298-42a9-b6fe-07433c386b5c" ipa="/ˈfriː.kwənt/" vi_ipa="phrít-kwen">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a44e0846-cfab-465e-986a-0b0fabb5adda" type="Adjective">
+          <Vi>thường xuyên; thường xảy ra</Vi>
+          <En>occurring or happening often or repeatedly.</En>
+          <Example>She is a frequent visitor to the library.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e78ab00-6fb0-426f-ba8f-57866e8eebef">
+              <Vi>Mô tả một sự việc xảy ra nhiều lần trong một khoảng thời gian ngắn.</Vi>
+              <En>Describes an event that happens many times in a short period.</En>
+            </Situation>
+            <Situation id="49b805aa-cf99-4246-84b5-4ed3269665ee">
+              <Vi>Dùng để nói về thói quen hoặc hành vi lặp lại.</Vi>
+              <En>Used to describe a habit or repeated behavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
