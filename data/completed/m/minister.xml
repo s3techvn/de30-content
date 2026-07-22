@@ -1,0 +1,67 @@
+<Vocab id="ea6e5e17-87c9-4e05-ab2e-701460096cd7" word="minister" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="269feea0-1def-4d52-ae52-2c3a2f103383" ipa="/ˈmɪn.ɪ.stər/" vi_ipa="mí-nít-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c5d72438-3298-4a05-ac4a-54eb7f9beb09" type="Noun">
+          <Vi>Bộ trưởng</Vi>
+          <En>A senior government official in charge of a specific department or area of public administration.</En>
+          <Example>The minister announced new policies to improve healthcare access.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eaff5c6a-451f-4c28-a9b0-fd67a8125a5e">
+              <Vi>Cảnh sát giao thông đưa bộ trưởng đến trụ sở chính phủ để tham dự hội nghị.</Vi>
+              <En>The prime minister meets with the minister of education to discuss school reforms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="941356c4-ec8a-4ac2-a10a-a19b4c9d16ef" type="Noun">
+          <Vi>Mục sư (trong đạo Tin Lành)</Vi>
+          <En>A Protestant clergy member who leads a congregation and performs religious duties.</En>
+          <Example>The minister delivered a powerful sermon on compassion and forgiveness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79f8b5c4-d573-4802-bb9b-6f5c2318ae0c">
+              <Vi>Người dân trong làng thường đến nhà thờ nghe mục sư giảng đạo vào Chủ nhật.</Vi>
+              <En>The minister officiated the wedding ceremony in a small乡村 church.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="625f4aad-da4b-4317-bc92-76301367f8a6" ipa="/ˈmɪn.ɪ.stər/" vi_ipa="mí-nít-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bc266bda-71fe-48d6-90bf-037027eb4706" type="Verb">
+          <Vi>Phục vụ (với tư cách mục sư)</Vi>
+          <En>To serve as a minister, especially in a religious capacity.</En>
+          <Example>He has been ministering to the community for over twenty years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="679f6601-8272-4d8a-b6ef-4d393559d3d1">
+              <Vi>Cô ấy đã dành cả đời để phục vụ cộng đồng với vai trò mục sư.</Vi>
+              <En>The priest and the minister worked together to organize the charity event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
