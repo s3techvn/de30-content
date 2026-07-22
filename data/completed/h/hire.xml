@@ -1,0 +1,39 @@
+<Vocab id="77aa8549-59b8-4a50-a96e-c1583fe089fb" word="hire" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dbb84a59-64c7-4678-876a-211c55257902" ipa="/ˈhaɪər/" vi_ipa="hai-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47656db2-5401-4272-9d6f-582ff9a8edb5" type="Verb">
+          <Vi>thuê, tuyển dụng</Vi>
+          <En>to engage the services of (someone) by paying them wages or salary; to rent or lease (something).</En>
+          <Example>They decided to hire a new marketing manager next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c16b936-6fb9-4e7c-b3af-3affa905d111">
+              <Vi>Công ty đang tuyển người cho vị trí lập trình viên.</Vi>
+              <En>The company is hiring someone for a software developer position.</En>
+            </Situation>
+            <Situation id="d5990c5d-d178-44d6-819b-642b35274266">
+              <Vi>Chúng tôi thuê một chiếc xe hơi cho kỳ nghỉ.</Vi>
+              <En>We hired a car for our vacation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
