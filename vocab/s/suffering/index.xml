@@ -1,0 +1,38 @@
+<Vocab id="c105ef3a-76bf-4232-9c2e-e6478b79eebc" word="suffering" type="short" status="done">
+  <Topics>
+    <Topic id="1b6ba439-efa2-44c8-8f7e-0f47521a57cb" value="Emotions &amp; Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="51f8266e-d662-474f-baf1-f059f1f8e0af" ipa="/ˈsʌf.ər.ɪŋ/" vi_ipa="sà-phờ-rinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1b368b87-3017-48ee-8c04-578efaaecf1b" type="Noun">
+          <Vi>Nỗi đau khổ, sự chịu đựng đau đớn (về thể xác hoặc tinh thần)</Vi>
+          <En>The state or condition of experiencing physical or mental pain, distress, or hardship</En>
+          <Example>She tried to alleviate the suffering of patients in the hospice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df31cbaf-b217-49d5-8924-02c357119a43">
+              <Vi>Mô tả tình trạng người bệnh hoặc người bị tai nạn đang chịu đau đớn thể chất kéo dài.</Vi>
+              <En>Describing a person experiencing prolonged physical pain, such as during serious illness or injury.</En>
+            </Situation>
+            <Situation id="94941459-5a52-432d-a1f4-269afad0527f">
+              <Vi>Tình huống nói về nỗi buồn, mất mát, hoặc áp lực tâm lý gây ra cảm giác đau khổ tinh thần.</Vi>
+              <En>A situation involving emotional pain due to grief, loss, or psychological stress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
