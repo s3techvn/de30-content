@@ -1,0 +1,40 @@
+<Vocab id="d12e1789-9627-47f9-93d3-75bea8b59f29" word="simultaneously" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8e89cbd4-a145-44ed-a2fb-0722fdb0181e" ipa="/ˌsɪm.əlˈteɪ.ni.əs.li/" vi_ipa="xì-mu-lờ-tê-ni-ơ-xì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b85adca8-d2eb-4445-8be9-14924cdb25cb" type="Adverb">
+          <Vi>đồng thời, cùng lúc</Vi>
+          <En>at the same time; in parallel; without delay between events</En>
+          <Example>She typed the report and checked the emails simultaneously.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e81bb9f-e255-4bdc-8e16-444e622d337a">
+              <Vi>Mô tả hai hoặc nhiều hành động xảy ra ngay lập tức và song song với nhau.</Vi>
+              <En>Describes two or more actions occurring immediately and in parallel.</En>
+            </Situation>
+            <Situation id="ac99ccd2-2a0a-458f-9988-1d0974cbdaac">
+              <Vi>Thường dùng trong ngữ cảnh công nghệ, khoa học, hoặc quản lý dự án để chỉ các tiến trình chạy song song.</Vi>
+              <En>Commonly used in technology, science, or project management contexts to describe parallel processes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
