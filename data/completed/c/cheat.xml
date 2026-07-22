@@ -1,0 +1,56 @@
+<Vocab id="f007aa94-b816-41bc-a1c6-28d04e861917" word="cheat" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0a588d0d-6e65-41a9-83fe-b5113cb2fef3" value="Ethics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="15ade7f6-f928-4f49-a978-349462009b82" ipa="/tʃiːt/" vi_ipa="chít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="59d05b7e-de70-4587-878e-7939e041f7c0" type="Verb">
+          <Vi>gian lận, lừa dối, làm gian</Vi>
+          <En>To act dishonestly or deceitfully, especially to gain an unfair advantage.</En>
+          <Example>He cheated on the exam by copying from his classmate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e8b7c73-df25-4f1c-ad0d-268b2e43b05d">
+              <Vi>Thí sinh sử dụng tài liệu cấm hoặc sao chép bài trong kỳ thi.</Vi>
+              <En>A student uses prohibited materials or copies answers during an exam.</En>
+            </Situation>
+            <Situation id="c674a78d-452b-4e22-b156-a7d99cc6b2b3">
+              <Vi>Nhà cung cấp gian lận trong hợp đồng bằng cách báo giá thấp hơn chi phí thực.</Vi>
+              <En>A supplier deceives in a contract by quoting a lower price than the actual cost.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="78865d37-22fd-412c-bef9-d899da35560a" type="Noun">
+          <Vi>sự gian lận, hành vi gian lận</Vi>
+          <En>An act of cheating; a person who cheats.</En>
+          <Example>Her cheating cost her the scholarship opportunity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d738dc8e-b04a-4b32-bdd6-8426b2f4b7ae">
+              <Vi>Sự gian lận trong thi cử bị nhà trường xử lý nghiêm khắc.</Vi>
+              <En>Cheating in exams is dealt with strictly by the school.</En>
+            </Situation>
+            <Situation id="0ee8ebb7-4590-452a-af5f-fa729ee13620">
+              <Vi>Anh ấy bị phát hiện là một kẻ gian lận sau khi kiểm tra kỹ lưỡng.</Vi>
+              <En>He was discovered to be a cheat after a thorough investigation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
