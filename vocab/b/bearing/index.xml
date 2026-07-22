@@ -1,0 +1,73 @@
+<Vocab id="83364d6f-ad1c-4815-bc53-f87fe1efa99d" word="bearing" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="a0af87ab-6cf7-4d27-930d-3df280156942" value="Navigation" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="4154ee4b-9ca7-434e-a440-7533ae53c2ed" value="Marine Navigator" />
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49bc9feb-e741-4de1-aa6b-ac4321194faf" ipa="/ˈber.ɪŋ/" vi_ipa="bê-ri-ng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7bf66747-90ee-4159-b2f4-3ded279de522" type="Noun">
+          <Vi>Ổ trục, vòng bi (bộ phận cơ khí cho phép quay trơn tru)</Vi>
+          <En>A mechanical device that reduces friction between moving parts, especially allowing a shaft or wheel to rotate freely.</En>
+          <Example>The worn-out bearing caused the wheel to wobble and make a grinding noise.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73569b12-3891-4c1e-81cd-b99d750f30f6">
+              <Vi>Máy móc hoạt động bị kẹt do vòng bi hỏng.</Vi>
+              <En>Machinery malfunctions due to a failed bearing.</En>
+            </Situation>
+            <Situation id="6fd370dd-7575-4cc8-8302-523e114ec26b">
+              <Vi>Kỹ sư thay thế vòng bi trong động cơ xe hơi.</Vi>
+              <En>The mechanic replaced the bearing in the car engine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4dda6444-f06f-482f-9485-adaab73e067f" type="Noun">
+          <Vi>Phương hướng, góc định hướng (trong hàng hải, hàng không, địa lý)</Vi>
+          <En>The direction or angle measured clockwise from a reference direction (usually north) to a point or object.</En>
+          <Example>The pilot adjusted the aircraft’s bearing to head toward the destination airport.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6445571a-b6c0-4ce0-ace4-10cde863fda1">
+              <Vi>Thuyền trưởng xác định phương hướng bằng la bàn.</Vi>
+              <En>The ship’s captain determined the bearing using a compass.</En>
+            </Situation>
+            <Situation id="7a35a752-7063-49f5-adf4-5d18c1186860">
+              <Vi>Đo đạc địa chính xác yêu cầu tính toán góc phương vị.</Vi>
+              <En>Accurate land surveying requires precise bearing calculations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6b74b1d5-75b0-42d2-bada-9948af65cbb9" type="Noun">
+          <Vi>Tầm ảnh hưởng, sức nặng (trong nghĩa bóng)</Vi>
+          <En>Influence or weight that something carries in a particular context, especially in decision-making or importance.</En>
+          <Example>The new policy has significant bearing on how the company operates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55d0ea6a-0c79-4db6-806b-8e2f6c3b8573">
+              <Vi>Bằng cấp có ảnh hưởng lớn đến cơ hội nghề nghiệp.</Vi>
+              <En>Academic qualifications have a direct bearing on career opportunities.</En>
+            </Situation>
+            <Situation id="00b10c2f-86a2-4d19-8630-49cc86c59f2a">
+              <Vi>Lời khai của nhân chứng có ảnh hưởng quyết định đến phán quyết.</Vi>
+              <En>The witness’s testimony had a decisive bearing on the verdict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
