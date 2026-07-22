@@ -1,0 +1,64 @@
+<Vocab id="caf1da03-acfe-4c01-bac2-bffa994bd52a" word="wrong" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3ca77958-e5d9-4e7d-9829-125070d5792b" ipa="/rɔːŋ/" vi_ipa="rông">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e27e493c-b1df-46bd-b2a2-eb44323b190d" type="Adjective">
+          <Vi>sai, không đúng</Vi>
+          <En>not correct or true; incorrect.</En>
+          <Example>That answer is wrong — the capital of France is Paris.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a84575e-23fc-4a75-a223-6ceccc1cbcd8">
+              <Vi>Chỉ một phát biểu, hành động, hoặc thông tin không đúng sự thật.</Vi>
+              <En>Refers to a statement, action, or piece of information that is not factually correct.</En>
+            </Situation>
+            <Situation id="1d311421-b797-4262-8a8c-5f6e4f2ec9b7">
+              <Vi>Mô tả điều gì đó đi ngược lại chuẩn mực đạo đức hoặc công bằng.</Vi>
+              <En>Describes something that violates moral or ethical standards (e.g., "It's wrong to lie").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8841e288-7fe4-4000-9d2f-fc4ee7d8eeb3" type="Adjective">
+          <Vi>không phù hợp, không đúng cách</Vi>
+          <En>not suitable or appropriate for a particular purpose or occasion.</En>
+          <Example>She wore the wrong shoes for hiking in the mountains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="607cfca3-2e14-4cb0-9342-2e836d99cf22">
+              <Vi>Dùng khi chọn lựa không phù hợp với hoàn cảnh hoặc mục đích cụ thể.</Vi>
+              <En>Used when a choice (e.g., clothing, tool, method) is inappropriate for the context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1b755085-2c05-4c30-8bfc-e43859e07b3d" type="Adjective">
+          <Vi>(nghĩa bóng) không may mắn, không thuận lợi</Vi>
+          <En>(figurative) not going well; unfortunate or unfavorable.</En>
+          <Example>Everything seemed to go wrong during their vacation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="739058af-697b-4bd5-a81f-50d1bbd2b6e5">
+              <Vi>Mô tả tình huống có nhiều trục trặc hoặc bất lợi xảy ra liên tiếp.</Vi>
+              <En>Describes a situation where multiple problems or misfortunes occur in succession.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

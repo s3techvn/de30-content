@@ -1,0 +1,99 @@
+<Vocab id="c3bc2fb6-596a-436c-af28-f8ea1ed8d685" word="watch" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e33841d1-e472-4103-b5aa-a0347c556752" value="Timekeeping" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="21961fca-acb8-4bdd-82c6-b83cc1c18a6e" value="Diver" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6ac4a2e7-440c-4e68-b7cc-48466d18fbad" ipa="/wɑːtʃ/" vi_ipa="át-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f5a86828-c332-4fb4-a4fb-d39a944f1cf3" type="Verb">
+          <Vi>quan sát, nhìn chằm chằm, theo dõi</Vi>
+          <En>to look at or monitor carefully, especially to observe for a specific purpose or over time</En>
+          <Example>She watched the bird build its nest over several days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5bd6f0fd-1f09-47d7-a015-9dd6b623002c">
+              <Vi>Quan sát một người hoặc sự vật để phát hiện hành vi bất thường hoặc để học hỏi.</Vi>
+              <En>Observing someone or something closely to detect unusual behavior or to learn.</En>
+            </Situation>
+            <Situation id="75ae4fd0-518c-46a7-9bf0-43f6524c9d6d">
+              <Vi>Xem một chương trình truyền hình hoặc phim mà không bỏ sót chi tiết nào.</Vi>
+              <En>Viewing a TV show or movie attentively without missing any details.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="30d09f9c-4e5f-4b33-ab05-12bdbdd90dc3" type="Noun">
+          <Vi>đồng hồ đeo tay</Vi>
+          <En>a small timepiece worn on the wrist or carried in the pocket</En>
+          <Example>He checked his watch and realized he was late for the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9763c30c-1fbe-4b26-8ff4-f83ead477b63">
+              <Vi>Đeo đồng hồ để biết giờ trong các hoạt động thường ngày hoặc sự kiện trang trọng.</Vi>
+              <En>Wearing a timepiece to know the time during daily activities or formal events.</En>
+            </Situation>
+            <Situation id="236b8c48-ff16-4882-99d7-b9c6c38d28d8">
+              <Vi>Đồng hồ đeo tay thường được dùng làm phụ kiện thời trang hoặc công cụ chuyên nghiệp (ví dụ: đồng hồ lặn).</Vi>
+              <En>Wristwatches are often used as fashion accessories or professional tools (e.g., dive watches).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="32b4740c-410e-46b9-819d-99dde35e0267" ipa="/wɑːtʃ/" vi_ipa="át-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="588b1245-b77f-4657-880d-79b00ec52554" type="Verb">
+          <Vi>canh gác, trực, canh giữ</Vi>
+          <En>to stay alert and attentive in order to guard, protect, or be ready for something</En>
+          <Example>The sentry was ordered to watch for enemy movement throughout the night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01acd264-ed8b-440b-b76a-510a9aef47ea">
+              <Vi>Canh gác tại hiện trường trong thời gian dài để đảm bảo an toàn.</Vi>
+              <En>Standing guard at a location for an extended period to ensure safety.</En>
+            </Situation>
+            <Situation id="74edc637-d887-43ce-b387-8f3107563baa">
+              <Vi>Canh chừng trẻ nhỏ khi chúng chơi bên ngoài để tránh nguy hiểm.</Vi>
+              <En>Keeping an eye on young children while they play outside to prevent accidents.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="999465df-f8bb-4aad-b9ea-8c491d3f9dab" type="Noun">
+          <Vi>sự canh gác, ca trực</Vi>
+          <En>a period during which someone is assigned to guard or monitor a place or activity</En>
+          <Example>He completed his night watch at 6 a.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="beba0fab-45ce-4214-a82e-aa4d45d18e83">
+              <Vi>Công an hoặc lính gác thực hiện ca trực ban đêm tại trạm kiểm soát.</Vi>
+              <En>Policemen or guards carry out a night watch at a checkpoint.</En>
+            </Situation>
+            <Situation id="2cda4ae3-c3fa-4121-b927-6b35efff2a42">
+              <Vi>Trong quân đội, binh sĩ được phân ca canh gác luân phiên.</Vi>
+              <En>In the military, soldiers are assigned rotating watch shifts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
