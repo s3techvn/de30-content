@@ -1,0 +1,36 @@
+<Vocab id="7c99d753-ea91-4824-adb8-c8221503aa4a" word="truly" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="88acdd52-a45c-4e90-96b1-efc8b75e4a92" ipa="/ˈtruː.li/" vi_ipa="tru-lì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="236ebb3a-ebcc-4171-be5d-a3201c1a9020" type="Adverb">
+          <Vi>thực sự, đúng như vậy, một cách chân thành</Vi>
+          <En>in a true or genuine manner; actually; sincerely</En>
+          <Example>She truly believed every word he said.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a497a2ea-3eee-4150-9445-8fa0fbebb3c3">
+              <Vi>Dùng để nhấn mạnh tính chân thực hoặc xác nhận điều gì đó là đúng.</Vi>
+              <En>Used to emphasize truthfulness or confirm that something is genuine.</En>
+            </Situation>
+            <Situation id="b24fb457-1779-49dd-a229-d3563b2062cc">
+              <Vi>Dùng trong lời cảm ơn hoặc lời xin lỗi để thể hiện sự chân thành.</Vi>
+              <En>Used in thanks or apologies to express sincerity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

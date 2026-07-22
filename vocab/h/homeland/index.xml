@@ -1,0 +1,40 @@
+<Vocab id="ccfb37b4-9f42-455f-88b6-47d1b36dfbdf" word="homeland" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="86ab8921-a7ea-4cdf-b85a-85105bcd98d9" value="Identity" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7c22cf2-b403-436d-b9f5-cc7f6e04d847" ipa="/ˈhoʊm.lænd/" vi_ipa="hòm-lénd">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74b568d7-d501-46c7-b660-6a0efcc5773b" type="Noun">
+          <Vi>quê hương, đất nước, tổ quốc</Vi>
+          <En>The country or region in which a person was born or has a cultural or ancestral connection.</En>
+          <Example>After years abroad, she longed to return to her homeland.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15fdebd5-bc43-46d1-ab95-44f97acfcb33">
+              <Vi>Tình cảm gắn bó sâu sắc với nơi sinh ra hoặc nơi có nguồn gốc văn hóa.</Vi>
+              <En>A deep emotional connection to one’s birthplace or ancestral cultural origin.</En>
+            </Situation>
+            <Situation id="f31145d7-2e97-4004-9d87-778d4b635553">
+              <Vi>Ngôn ngữ thường dùng trong văn học, thơ ca, hoặc bài phát biểu về di dân và bản sắc dân tộc.</Vi>
+              <En>Commonly used in literature, poetry, or speeches about immigration and national identity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
