@@ -1,0 +1,95 @@
+<Vocab id="63f64058-d776-443d-9b3f-85527999e69d" word="class" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c404c908-1e22-44fb-b1e4-fcfc648060c6" ipa="/klæs/" vi_ipa="c-lờ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aaa3fba3-6f87-4564-a2cc-ada9ceaca4e9" type="Noun">
+          <Vi>Lớp học; lớp học sinh; lớp sinh viên</Vi>
+          <En>A group of students who are taught together, typically in a school or university.</En>
+          <Example>The teacher entered the classroom as the students were discussing the new topic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="601410a6-4e7a-4230-abcd-6120d0169009">
+              <Vi>Học sinh đang ngồi trong lớp học, chờ giáo viên bắt đầu tiết dạy.</Vi>
+              <En>Students are seated in a classroom, waiting for the teacher to begin the lesson.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9471cdb-9f30-4fe7-9060-91dedc54d2ca" type="Noun">
+          <Vi>Hạng, đẳng cấp (xã hội)</Vi>
+          <En>A broad social or economic group, especially one defined by shared interests, status, or occupation.</En>
+          <Example>She comes from a working-class background but now works in a high-paying corporate job.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac442186-3de8-4630-b08d-da14c64cc71a">
+              <Vi>Bài luận phân tích sự phân tầng xã hội và vai trò của giai cấp trong lịch sử.</Vi>
+              <En>The essay analyzes social stratification and the role of class in history.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef4b2cd5-a20c-4d2c-9502-93c50eec9662" type="Noun">
+          <Vi>Lớp (vật lý), phân loại (trong khoa học)</Vi>
+          <En>A category or division in a classification system, especially in biology or chemistry.</En>
+          <Example>In biology, mammals are a class within the phylum Chordata.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d84b3045-b193-4d64-b5a1-8bc3f1abcae8">
+              <Vi>Sinh viên đang học cách phân loại động vật theo lớp (class), bộ (order), chi (genus) và loài (species).</Vi>
+              <En>Students are learning how to classify animals by class, order, genus, and species.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="343c80a1-f7fd-4582-8c22-814325d6d737" ipa="/klæs/" vi_ipa="c-lờ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="17c848c7-41dc-46d3-87bd-adb9e1039d16" type="Verb">
+          <Vi>Phân loại, xếp vào lớp</Vi>
+          <En>To assign or arrange into a class or category.</En>
+          <Example>The software automatically classes incoming emails as spam or not spam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="039b52b1-ec50-4ea5-99ba-8ba9a3fbc767">
+              <Vi>Hệ thống AI được lập trình để phân loại hình ảnh theo loại đối tượng.</Vi>
+              <En>The AI system is programmed to classify images by object type.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0194379a-197c-4e07-9de7-9316fe4131da" type="Verb">
+          <Vi>Tạo lớp học, tổ chức lớp học</Vi>
+          <En>To organize or conduct a class, especially as a teacher.</En>
+          <Example>She classes three sections of introductory psychology each semester.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ccfe7fae-37c4-4f25-b2af-81f83d377b1a">
+              <Vi>Giáo sư đang chuẩn bị bài giảng để class cho sinh viên năm hai.</Vi>
+              <En>The professor is preparing lecture materials to class for second-year students.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
