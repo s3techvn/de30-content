@@ -1,0 +1,38 @@
+<Vocab id="00d8b43b-dd93-4ccd-aeac-d5d2554d908c" word="harvard" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e7e733e0-c198-4940-a4eb-de1278885f84" ipa="/ˈhɑːr.vəd/" vi_ipa="ha-vơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="27854897-afa1-41c9-89ae-d5a12df9dd95" type="Proper Noun">
+          <Vi>Đại học Harvard</Vi>
+          <En>A private Ivy League research university in Cambridge, Massachusetts, USA, founded in 1636.</En>
+          <Example>She was accepted into Harvard Law School after completing her undergraduate degree.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1541cae-0fbb-40ee-95d1-7549520f8ff7">
+              <Vi>Tham khảo hoặc nói về một trong những trường đại học danh tiếng và lâu đời nhất nước Mỹ.</Vi>
+              <En>Referring to or discussing one of the most prestigious and oldest universities in the United States.</En>
+            </Situation>
+            <Situation id="6d732a57-ead0-4bf9-abd4-5f41b5722d95">
+              <Vi>Mô tả thành viên hoặc cựu sinh viên của trường.</Vi>
+              <En>Describing a current student, faculty member, or alumnus of the university.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
