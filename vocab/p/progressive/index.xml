@@ -1,0 +1,52 @@
+<Vocab id="42b3508d-920f-408c-adf9-cf32b9001ae4" word="progressive" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2139397b-97ec-4c6d-a49f-da1c93263d68" ipa="/prəˈɡres.ɪv/" vi_ipa="pờ-rơ-grét-síp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e60983fc-276f-4371-8f34-3faa1b554ac3" type="Adjective">
+          <Vi>tiến bộ, cấp tiến</Vi>
+          <En>favoring or promoting gradual improvement, reform, or change, especially in politics or society; moving forward toward a more advanced or developed state.</En>
+          <Example>She supports progressive policies on healthcare and education.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ae6c33a9-9328-4530-b941-024e5d1d636e">
+              <Vi>Mô tả các chính sách hoặc tư tưởng hướng tới cải cách xã hội dần dần và bền vững.</Vi>
+              <En>Describes policies or ideas that advocate for gradual but meaningful social reform.</En>
+            </Situation>
+            <Situation id="e74a4397-cea9-4bb0-9b07-c1b566177516">
+              <Vi>Dùng để chỉ người hoặc tổ chức ủng hộ quyền lợi của các nhóm thiểu số và bình đẳng xã hội.</Vi>
+              <En>Used to describe individuals or groups advocating for the rights of marginalized communities and social equality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="21d4539f-4a32-486b-adfb-72ab0e38ffaf" type="Adjective">
+          <Vi>tiến triển dần, từng bước một</Vi>
+          <En>occurring or acting in a series of stages, each building on the previous one; incremental and cumulative.</En>
+          <Example>The training program follows a progressive approach, starting with basics and gradually increasing difficulty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d3c3045-b4c8-46bd-8a27-6623acf083d6">
+              <Vi>Mô tả phương pháp học tập hoặc huấn luyện theo trình tự từ dễ đến khó.</Vi>
+              <En>Describes a learning or training method that increases in difficulty step by step.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
