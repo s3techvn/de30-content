@@ -1,0 +1,40 @@
+<Vocab id="29ff3a8e-5308-473e-9f3b-4dbfcd1e1fd7" word="encryption" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="ec505b76-7484-470a-b330-7219b961d53c" value="Cybersecurity" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" value="IT Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af6aa041-cebb-4815-9a76-37569b218237" ipa="/ɪnˈkrɪp.ʃən/" vi_ipa="in-krip-sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1aa51820-9015-40b2-97d1-92bf19bebf5f" type="Noun">
+          <Vi>Mã hóa</Vi>
+          <En>The process of converting information or data into a code, especially to prevent unauthorized access.</En>
+          <Example>Modern communication systems rely heavily on encryption to protect user privacy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1896b9e4-542e-4f5a-809b-18efa2cc6693">
+              <Vi>Quá trình chuyển đổi dữ liệu thành dạng không thể đọc được mà chỉ người có khóa giải mã mới hiểu được.</Vi>
+              <En>The process of transforming readable data into an unreadable format for security purposes.</En>
+            </Situation>
+            <Situation id="fa779452-7e58-4987-9904-1863ef1680a6">
+              <Vi>Ứng dụng trong bảo mật email, giao dịch trực tuyến, và lưu trữ dữ liệu nhạy cảm.</Vi>
+              <En>Used in securing emails, online transactions, and sensitive data storage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="db921ea4-168e-4d57-af9d-a9bba401c5aa" word="railway" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="e0cc6c42-fcf3-420e-be41-bd9c5ff0761a" value="Transportation Planner" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7597a7e1-def8-4e54-bdb0-57a814ec9494" ipa="/ˈreɪl.weɪ/" vi_ipa="rây-vây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="17bee205-4d9b-4f0b-b9e9-7c075a881681" type="Noun">
+          <Vi>đường sắt</Vi>
+          <En>A system of tracks (rails) on which trains run, typically including infrastructure such as stations, signals, and rolling stock.</En>
+          <Example>The new high-speed railway connects the capital city to the coastal resort in under two hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="507e7835-c8dc-4abd-9bc8-b2be91044856">
+              <Vi>Hệ thống đường ray dùng để vận chuyển hành khách và hàng hóa bằng tàu hỏa.</Vi>
+              <En>A network of rails used for transporting passengers and freight by train.</En>
+            </Situation>
+            <Situation id="f82febf6-a46c-4a01-82cc-9bc4ace212ec">
+              <Vi>Cơ sở hạ tầng và dịch vụ liên quan đến vận tải đường sắt.</Vi>
+              <En>The infrastructure and services related to rail transport, including tracks, stations, and train operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
