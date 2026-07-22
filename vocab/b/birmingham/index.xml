@@ -1,0 +1,38 @@
+<Vocab id="ae7f2fbc-dd39-4be1-9d4d-84fdb9d29dea" word="birmingham" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="588944d6-71ee-47f9-b126-aa730b8d835c" ipa="/ˈbɜːrmɪŋəm/" vi_ipa="bơ-ming-ham">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="265452cd-1fb2-4955-b054-c9ebbb75ad89" type="Proper Noun">
+          <Vi>Birmingham</Vi>
+          <En>A major city in the West Midlands region of England, known for its industrial heritage and diverse culture.</En>
+          <Example>Many international students choose to study in Birmingham due to its vibrant student life and affordable cost of living.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71ae422f-0dd0-4e59-9f78-f905ca7f8bf1">
+              <Vi>Thành phố công nghiệp lớn của Anh, từng là trung tâm sản xuất kim loại và chế tạo máy.</Vi>
+              <En>A major English industrial city, historically central to metalworking and engineering.</En>
+            </Situation>
+            <Situation id="a9820ceb-c172-45df-8647-c10c01f94705">
+              <Vi>Được biết đến với nền văn hóa đa dạng và cộng đồng sinh viên lớn.</Vi>
+              <En>Famous for its multicultural population and one of the largest student populations in the UK.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

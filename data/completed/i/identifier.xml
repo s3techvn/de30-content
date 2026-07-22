@@ -1,0 +1,38 @@
+<Vocab id="92b8c492-095d-4918-996a-98bc0a1832a3" word="identifier" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="ec1b2d05-a5de-4117-bc7d-5989f5ca58a1" value="Database Administrator" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71936b47-c8c5-49cc-8a87-b9ccd7227470" ipa="/aɪˈdentɪfaɪər/" vi_ipa="ai-den-ti-fai-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="793441cd-a17b-4c73-a531-578c0567f6ae" type="Noun">
+          <Vi>Định danh; mã nhận dạng; bộ nhận dạng</Vi>
+          <En>A name or symbol used to identify something uniquely within a given context, especially in computing and databases.</En>
+          <Example>The username and password serve as the user’s identifier for logging into the system.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5e15076c-5dbe-45ea-8c95-f9a93cd49bc1">
+              <Vi>Một chuỗi ký tự duy nhất được gán cho người dùng hoặc đối tượng để phân biệt với các đối tượng khác trong hệ thống.</Vi>
+              <En>A unique string assigned to a user or object to distinguish it from others in a system.</En>
+            </Situation>
+            <Situation id="5ef47d6a-41db-4ae2-aa2c-7588cdd18982">
+              <Vi>Trong cơ sở dữ liệu, một trường khóa chính thường được dùng làm định danh cho bản ghi.</Vi>
+              <En>In a database, a primary key field is often used as the identifier for a record.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
