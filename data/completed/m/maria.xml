@@ -1,0 +1,36 @@
+<Vocab id="8cad0b21-c931-4526-9feb-5939fe128440" word="maria" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="756cd5a7-9893-47d6-877f-5c8b02252221" value="Religious Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7d87bee-390b-4057-9a93-2de939e40646" ipa="/məˈriː.ə/" vi_ipa="mơ-ri-ia">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0acc6cea-2c31-4db5-bce6-17452d1e551f" type="Noun">
+          <Vi>Maria; Đức Mẹ Maria (tên riêng, thường dùng trong Kitô giáo)</Vi>
+          <En>a female given name, especially used in Christian contexts to refer to the Virgin Mary</En>
+          <Example>Our Lady of Lourdes is a title given to the Virgin Maria.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7aff12c8-f588-4a09-9e63-a0a79d23f5ff">
+              <Vi>Dùng để chỉ Đức Mẹ trong các kinh nguyện và lễ nghi Công giáo.</Vi>
+              <En>Used in Catholic prayers and liturgies to refer to the Virgin Mary.</En>
+            </Situation>
+            <Situation id="a46048f4-64a5-4096-9abb-254b78a49ef4">
+              <Vi>Tên đặt cho trẻ em gái, phổ biến ở các nước nói tiếng Tây Ban Nha, Bồ Đào Nha, và Slav.</Vi>
+              <En>A given name for girls, common in Spanish-, Portuguese-, and Slavic-speaking countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

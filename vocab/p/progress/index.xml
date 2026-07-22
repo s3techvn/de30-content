@@ -1,0 +1,58 @@
+<Vocab id="c2dfb9ce-6a74-4eb2-bb31-5cf3935bb748" word="progress" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="1f8fea3f-a32d-4ef3-944d-34540d599f2b" value="Work" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae2189a0-6a00-4722-9693-8e5d664ea262" ipa="/ˈprɑː.ɡres/" vi_ipa="pờ-rô-grét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b764345-ef97-4ec4-9b49-b7f75a5d3b17" type="Noun">
+          <Vi>tiến bộ, sự phát triển</Vi>
+          <En>Forward movement towards a goal or a more developed state</En>
+          <Example>She tracks her learning progress using a digital journal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b235ab3-48be-4e0b-aa8b-27decff6e19c">
+              <Vi>Mô tả mức độ phát triển hoặc cải thiện trong học tập, công việc, hoặc cuộc sống cá nhân</Vi>
+              <En>Describing the degree of improvement or advancement in learning, work, or personal life</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="b3421c06-94a9-47c2-b6de-2868943e9456" ipa="/prəˈɡres/" vi_ipa="pờ-rô-grét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a3b4baf-3973-4c31-bdab-5ff4083fc38c" type="Verb">
+          <Vi>tiến bộ, phát triển, tiến lên</Vi>
+          <En>To move forward towards a goal or destination; to make forward movement</En>
+          <Example>The team is progressing well on the project timeline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="980c23ab-fa8a-44b6-9d4d-18f6b6b2681f">
+              <Vi>Dùng khi nói về việc một kế hoạch, dự án, hoặc cá nhân đang diễn ra tốt đẹp và đạt được kết quả</Vi>
+              <En>Used when describing that a plan, project, or individual is moving forward successfully and achieving results</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
