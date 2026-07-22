@@ -724,3 +724,4 @@ quit
 fuzzy
 hotel
 neutral
+caution
