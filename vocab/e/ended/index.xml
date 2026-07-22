@@ -1,0 +1,32 @@
+<Vocab id="6c9449a7-6c61-4708-b8b1-3f58881841f3" word="ended" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cd32cdfe-1556-4f42-adaa-cfc804eff5e0" ipa="/ˈɛn.dɪd/" vi_ipa="en-đít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="69512bb3-c68b-4da7-a0d5-4b6ab01292a1" type="Adjective">
+          <Vi>đã kết thúc; chấm dứt</Vi>
+          <En>having come to an end; no longer continuing</En>
+          <Example>The meeting has ended, and everyone has gone home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c868508-f374-47f7-94ae-9fa64c4aba81">
+              <Vi>Mô tả một sự kiện, hoạt động, hoặc thời gian đã kết thúc.</Vi>
+              <En>Used to describe an event, activity, or period that has concluded.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

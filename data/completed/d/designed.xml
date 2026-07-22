@@ -1,0 +1,38 @@
+<Vocab id="7f26ff82-b2c2-464c-a0a9-8e6144c83380" word="designed" type="short" status="done">
+  <Topics>
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c8b3bcf-80fc-4ec4-a33f-c050eceaed7d" ipa="/dɪˈzaɪnd/" vi_ipa="đi-zây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a36a32d-6752-4466-ba26-a95aad8c7c12" type="Adjective">
+          <Vi>được thiết kế; có mục đích; có chủ đích</Vi>
+          <En>intentionally created or planned for a specific purpose or function</En>
+          <Example>The chair is ergonomically designed for comfort during long hours of work.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2665a85f-5e57-4e82-a5a2-ea64aedd23b3">
+              <Vi>Mô tả một sản phẩm, hệ thống hoặc yếu tố được tạo ra một cách có chủ đích để phục vụ một chức năng cụ thể.</Vi>
+              <En>Describing a product, system, or element intentionally created to serve a specific function.</En>
+            </Situation>
+            <Situation id="b9972b40-ea95-4e1b-96d0-7812785acd52">
+              <Vi>Chỉ rõ rằng điều gì đó không phải là ngẫu nhiên mà là kết quả của quá trình thiết kế cẩn thận.</Vi>
+              <En>Indicating that something is not accidental but the result of careful planning and design.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
