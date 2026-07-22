@@ -1,0 +1,56 @@
+<Vocab id="27e437d9-5d5d-4980-9f78-a19ea61af4b0" word="land" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4cccebf7-4380-4149-bf9c-1f832e7cc9a1" ipa="/lænd/" vi_ipa="lân-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="09d11061-9cc5-45ff-aefb-11b711cacb77" type="Noun">
+          <Vi>Đất, mặt đất, vùng đất</Vi>
+          <En>The solid surface of the earth; ground, especially when considered in terms of its ownership, use, or topography.</En>
+          <Example>We bought some land to build a house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="433b5c51-7dd5-4fd0-9e97-9d3909cc5788">
+              <Vi>Mua bán hoặc sở hữu một khu đất trống.</Vi>
+              <En>Buying or owning a plot of vacant land.</En>
+            </Situation>
+            <Situation id="c895d6f7-c038-4304-99bc-50d1ff1ab973">
+              <Vi>Nói về địa hình hoặc vị trí địa lý (ví dụ: đất ven biển, đất nông nghiệp).</Vi>
+              <En>Talking about geography or location (e.g., coastal land, agricultural land).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c1889575-c4ae-4efc-95ff-8001ff087d8f" type="Verb">
+          <Vi>Hạ cánh (máy bay), đưa lên đất, đặt xuống đất</Vi>
+          <En>To bring an aircraft down to the ground; to arrive on land after a journey by sea or air.</En>
+          <Example>The plane landed safely at JFK Airport.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="29afc9a2-422b-43e2-9d7e-741a4ffcf856">
+              <Vi>Mô tả hành động máy bay tiếp đất sau chuyến bay.</Vi>
+              <En>Describing an aircraft touching down after flight.</En>
+            </Situation>
+            <Situation id="9ad4a0d1-5c92-49d0-b56f-eb73213850bb">
+              <Vi>Đưa người hoặc hàng hóa từ tàu biển lên bờ.</Vi>
+              <En>Bringing people or cargo ashore from a ship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
