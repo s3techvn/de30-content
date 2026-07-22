@@ -1,0 +1,40 @@
+<Vocab id="34ebe1f5-b4c8-4377-8a21-b2680af0367d" word="infant" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="5a3c5868-21ad-49f0-9262-4b1178a8ef15" value="Pediatrician" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="30c413e4-1035-4086-92a4-e31472d5b4c6" value="Childcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="840e0e16-1d13-4e8c-a6cf-0431bd194026" ipa="/ˈɪn.fənt/" vi_ipa="in-phơ-nớt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f6b5c19-32fb-483e-8380-10b932fdaf10" type="Noun">
+          <Vi>em bé, trẻ sơ sinh (dưới 1 tuổi)</Vi>
+          <En>a very young child, typically one who is under one year old</En>
+          <Example>The hospital has a special unit for premature infants.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3dfa8118-7244-4208-81fd-e700a4c285d4">
+              <Vi>Chăm sóc trẻ sơ sinh trong bệnh viện.</Vi>
+              <En>Caring for newborns in a hospital neonatal intensive care unit.</En>
+            </Situation>
+            <Situation id="bb7f4785-71a0-44f6-a9c4-218b4ac5d59d">
+              <Vi>So sánh cân nặng và sự phát triển của trẻ sơ sinh.</Vi>
+              <En>Tracking growth milestones and weight gain in infants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
