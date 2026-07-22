@@ -1,0 +1,60 @@
+<Vocab id="fea446ba-7701-4497-8465-a37b73c700ea" word="hash" type="short" status="done">
+  <Topics>
+    <Topic id="b45407fd-b327-4192-a42b-68b5409333bc" value="Computer Science" />
+    <Topic id="f863e982-f119-4e49-93b2-460aaf79d394" value="Culinary" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="78ea3851-2455-43ff-8444-48d5e52717af" ipa="/hæʃ/" vi_ipa="hết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddf66c81-c2ce-48c8-a930-758831e87c7d" type="Noun">
+          <Vi>hỗn hợp băm nhỏ; hàm (trong toán học); băm (trong máy tính)</Vi>
+          <En>A mixture of chopped food; a mathematical function that maps data of arbitrary size to fixed-size values; or the result of such a function.</En>
+          <Example>The chef added salt and pepper to the hash.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="288f5775-567b-41e7-b8ec-74d6d8b5c526">
+              <Vi>Trong nhà bếp, món hash thường là thịt và rau băm nhỏ xào chín.</Vi>
+              <En>In the kitchen, hash typically refers to diced meat and vegetables stir-fried together.</En>
+            </Situation>
+            <Situation id="d947a508-98d3-4a37-9b5b-c9fb3bff3d23">
+              <Vi>Trong lập trình, hash được dùng để tạo mã định danh duy nhất cho dữ liệu.</Vi>
+              <En>In programming, a hash is used to generate a unique identifier for data, such as in hash tables or cryptographic applications.</En>
+            </Situation>
+            <Situation id="71c90723-c39d-4f2e-ac30-2cd43b1ca31c">
+              <Vi>Trong toán học, hàm hash giúp ánh xạ một tập hợp đầu vào lớn về một tập hợp đầu ra có kích thước cố định.</Vi>
+              <En>In mathematics and computer science, a hash function maps inputs of variable length to fixed-length outputs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a5333c82-1101-4b90-ac88-8de20fadaba0" type="Verb">
+          <Vi>băm nhỏ; làm nát; làm rối tung</Vi>
+          <En>To chop food into small pieces; to destroy or damage something thoroughly; or to process data using a hash function.</En>
+          <Example>She hashed the garlic and ginger together for the sauce.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="806ccf76-b843-49c1-a65a-03bfaeddf551">
+              <Vi>Bếp trưởng băm nhỏ hành, tỏi và ớt để làm gia vị.</Vi>
+              <En>The chef hashed the onions, garlic, and chilies to make the seasoning base.</En>
+            </Situation>
+            <Situation id="5fa99dbf-6642-4ab7-93c0-515e829494c8">
+              <Vi>Chương trình băm dữ liệu đầu vào để kiểm tra tính toàn vẹn.</Vi>
+              <En>The program hashes the input data to verify its integrity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

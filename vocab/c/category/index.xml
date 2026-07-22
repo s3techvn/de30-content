@@ -1,0 +1,40 @@
+<Vocab id="b41403c9-23f9-4699-bc10-71fe43832a6a" word="category" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="d1c3371a-7b7a-4c1b-9ade-fedff055a455" value="Data Science" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" value="Market Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c636c6a7-e812-4d05-85c7-fb181a0543fd" ipa="/ˈkæt.ə.ɡɔːr.i/" vi_ipa="cát-tê-gô-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d431f45-f508-495c-b90f-59b644031cd5" type="Noun">
+          <Vi>Danh mục; loại; nhóm</Vi>
+          <En>A group or class of people or things that share common characteristics and are classified together.</En>
+          <Example>The library organizes books by category, such as fiction, non-fiction, and reference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1989e49d-fcb3-441c-becf-aefd23e279a6">
+              <Vi>Sắp xếp sản phẩm trong siêu thị theo từng danh mục như đồ tươi, đồ đóng hộp, đồ khô.</Vi>
+              <En>Organizing supermarket products into categories such as fresh produce, canned goods, and dry staples.</En>
+            </Situation>
+            <Situation id="c4055913-4b96-4a98-90e3-5d3890364057">
+              <Vi>Phân loại dữ liệu trong cơ sở dữ liệu theo các danh mục như người dùng, đơn hàng, sản phẩm.</Vi>
+              <En>Classifying data in a database into categories such as users, orders, and products.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
