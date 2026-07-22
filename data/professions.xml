@@ -372,4 +372,6 @@
   <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" slug="plumber" value="Plumber" />
   <Profession id="78beb87d-7f60-4d45-ae52-00939a7cf72e" slug="philosophy" value="Philosophy" />
   <Profession id="7e4b7b12-9f65-4080-bc2c-6e37b4405d7b" slug="real-estate-appraiser" value="Real Estate Appraiser" />
+  <Profession id="9d5ccbec-274a-4c14-a0a4-8722f30fd634" slug="psychiatrist" value="Psychiatrist" />
+  <Profession id="52d815e3-5c00-4177-ad7a-eb907b4523c6" slug="emergency-medical-technician" value="Emergency Medical Technician" />
 </Professions>

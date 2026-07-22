@@ -1,0 +1,41 @@
+<Vocab id="d3e582c8-e4c1-4333-9a3e-4d35f2690e27" word="valuation" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7e4b7b12-9f65-4080-bc2c-6e37b4405d7b" value="Real Estate Appraiser" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8806930d-c256-4ee6-b317-6d055f899f4a" ipa="/ˌvæl.juˈeɪ.ʃən/" vi_ipa="vờ-lờ-vi-ê-u-ê-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7f2445d0-0e73-4b65-b7bf-a1d354bffc42" type="Noun">
+          <Vi>Định giá; sự định giá; giá trị ước lượng</Vi>
+          <En>The process of determining the worth or value of something, especially property, assets, or a business</En>
+          <Example>The company hired an independent appraiser to conduct the valuation of its intellectual property.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d8d03f4-13b7-4052-bca2-d82b7a311e0a">
+              <Vi>Trong giao dịch mua bán doanh nghiệp, định giá là bước quan trọng để xác định mức giá hợp lý.</Vi>
+              <En>In a business acquisition, valuation is a crucial step to determine a fair price.</En>
+            </Situation>
+            <Situation id="e3f5d103-a49a-4cd8-8a0f-eb80ab6b82e1">
+              <Vi>Ngân hàng yêu cầu định giá tài sản bảo đảm trước khi cấp khoản vay.</Vi>
+              <En>The bank requires a property valuation before approving a loan.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
