@@ -725,3 +725,4 @@ fuzzy
 hotel
 neutral
 caution
+variable

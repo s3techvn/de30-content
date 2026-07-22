@@ -1,0 +1,66 @@
+<Vocab id="5c3fd498-97c6-4cc0-8035-632d71d34959" word="variable" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="27b6e5ae-b72a-43ae-847d-a0a5f0e2be2e" value="Programming" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="87afa2d1-0d0f-4eab-a144-c1d5709abcd5" ipa="/ˈver.i.ə.bəl/" vi_ipa="vờ-ri-ê-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5258f041-40b0-44b8-a9fc-2db91f1c4c81" type="Adjective">
+          <Vi>thay đổi được; không cố định</Vi>
+          <En>able to vary; not fixed or constant</En>
+          <Example>The weather in spring is often variable, with sunny spells and sudden showers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc9b4bf8-6620-4422-b2e3-f7c5e0c6d86c">
+              <Vi>Mô tả điều kiện thời tiết thay đổi thất thường.</Vi>
+              <En>Describing weather that changes frequently and unpredictably.</En>
+            </Situation>
+            <Situation id="efa90a2b-de3c-4bc0-b3d4-2b6533f2e9da">
+              <Vi>Chỉ một đại lượng trong toán học hoặc lập trình có thể nhận nhiều giá trị khác nhau.</Vi>
+              <En>Refers to a quantity in mathematics or programming that can take on different values.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="823324ed-3550-4d4e-b17a-a56a2f9ebe1d" ipa="/ˈver.ə.bəl/" vi_ipa="vờ-ê-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="912825d9-c675-4b9f-883e-d5efcc164284" type="Noun">
+          <Vi>biến số</Vi>
+          <En>a symbol (e.g., x or y) representing an unknown or changeable quantity in mathematics or logic</En>
+          <Example>In the equation y = 2x + 3, x and y are variables.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d59b2dd3-6780-4ece-8a9a-0bbce9fb0fb7">
+              <Vi>Sử dụng trong biểu thức toán học để biểu diễn đại lượng chưa biết.</Vi>
+              <En>Used in mathematical expressions to represent unknown quantities.</En>
+            </Situation>
+            <Situation id="3445893d-c74c-48f6-8103-b0d89c0a40f6">
+              <Vi>Trong lập trình, một biến lưu trữ dữ liệu có thể thay đổi trong quá trình chạy chương trình.</Vi>
+              <En>In programming, a variable stores data that may change during program execution.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
