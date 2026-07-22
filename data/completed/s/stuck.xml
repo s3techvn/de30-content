@@ -1,0 +1,68 @@
+<Vocab id="6eb6e4e6-f9ee-46af-badb-695ee13d2490" word="stuck" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9bdd43c2-6a78-46bb-ba4c-90d1bf8f8f12" ipa="/stʌk/" vi_ipa="s-tác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddefefe2-6459-43f6-8bc9-b36179136753" type="Adjective">
+          <Vi>Bị kẹt; bị mắc kẹo; không thể di chuyển hoặc thay đổi vị trí</Vi>
+          <En>Unable to move or be moved; immobilized.</En>
+          <Example>The car got stuck in the mud and couldn’t move forward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="baed8a23-0125-401b-a168-a860dbd0efd6">
+              <Vi>Mô tả phương tiện giao thông bị mắc kẹt do thời tiết, tai nạn, hoặc vật cản.</Vi>
+              <En>Describes a vehicle immobilized due to weather, accidents, or obstacles.</En>
+            </Situation>
+            <Situation id="c0734a44-798e-4824-853a-31f954940c88">
+              <Vi>Mô tả cảm giác bế tắc trong một tình huống khó giải quyết.</Vi>
+              <En>Describes a feeling of being trapped or unable to resolve a difficult situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b3d0dc56-18e5-4cce-bbb3-d7b3781af015" type="Adjective">
+          <Vi>Bị dính; không thể tách rời (vật lý hoặc ẩn dụ)</Vi>
+          <En>Physically or metaphorically fixed in place or unable to change position or state.</En>
+          <Example>The sticky note was stuck to the wall and wouldn’t come off.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea13a688-df04-4ea2-a5d2-955dd7460e18">
+              <Vi>Mô tả vật bị dính chặt vào bề mặt.</Vi>
+              <En>Describes an object firmly adhered to a surface.</En>
+            </Situation>
+            <Situation id="c2d0436b-e125-4bd8-a4d5-00ceaa996c75">
+              <Vi>Mô tả một người không thể rời bỏ một vị trí hoặc cam kết.</Vi>
+              <En>Describes a person unable to leave a position or commitment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fa2a7a23-f838-4b6d-a7ec-895b71a0223c" type="Adjective">
+          <Vi>(miễn dịch học) Đã bị nhiễm virus HIV nhưng chưa phát bệnh (dùng trong cụm “stuck with HIV”)</Vi>
+          <En>(colloquial, often stigmatizing) Infected with HIV but not yet showing symptoms; used in phrases like “stuck with HIV” (note: this usage is outdated and potentially offensive).</En>
+          <Example>He felt stuck with HIV after the exposure, though modern treatments can manage it effectively.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08a4833c-3777-44c4-a90b-05092609435f">
+              <Vi>Mô tả cảm giác bất lực khi biết mình đã tiếp xúc với HIV, trước khi có điều trị.</Vi>
+              <En>Describes a feeling of helplessness upon learning of possible HIV exposure before treatment options were accessible.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
