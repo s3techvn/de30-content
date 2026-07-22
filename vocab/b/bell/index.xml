@@ -1,0 +1,64 @@
+<Vocab id="5d48983b-b989-4278-b9dd-c6555a0e393e" word="bell" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="79234b50-3ce7-4464-9fc3-fca53132cde6" value="Bell Ringer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2cf79d38-3241-4d9c-a8c2-bb6b9c00aa05" ipa="/bɛl/" vi_ipa="bét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5e92793a-07e7-4659-b4c2-2383a47fadd3" type="Noun">
+          <Vi>Cái chuông</Vi>
+          <En>A hollow metal device that makes a ringing sound when struck, typically used to signal time, call to worship, or alert people.</En>
+          <Example>The church bell rang at noon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e463102a-3bfe-46b0-8115-c5fa23cec05e">
+              <Vi>Chuông nhà thờ reo vào buổi sáng hoặc buổi chiều để gọi tín đồ đi lễ.</Vi>
+              <En>The church bell rings in the morning or afternoon to call worshippers to service.</En>
+            </Situation>
+            <Situation id="f227b389-1af0-4821-bee0-93eca923f453">
+              <Vi>Chuông báo thức reo vào buổi sáng để đánh thức người dùng.</Vi>
+              <En>The alarm bell rings in the morning to wake the user.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5d356290-81f9-490c-be32-709f60e48a09" type="Noun">
+          <Vi>Phần trên cùng của một cái cây (từ lóng)</Vi>
+          <En>The topmost part of a tree trunk, especially the crown or foliage area (slang).</En>
+          <Example>The wind shook the bell of the oak tree.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eff42786-789e-4be0-9432-a564e5bccd8f">
+              <Vi>Những người làm vườn hay dùng "bell" để chỉ tán cây khi cắt tỉa.</Vi>
+              <En>Gardeners sometimes use "bell" to refer to the tree's canopy when pruning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="52adddaa-9b7a-4756-8580-f4bc3eb1a8d6" type="Noun">
+          <Vi>Phần loa lớn ở đầu vòi cứu hỏa (loa chuông)</Vi>
+          <En>The flared, bell-shaped end of a fire hose nozzle.</En>
+          <Example>The firefighter adjusted the bell to control the water flow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f3f3f28-f11d-4476-9c65-49f2af4deafc">
+              <Vi>Chuông loa cứu hỏa giúp điều chỉnh hướng và lực phun nước.</Vi>
+              <En>The fire hose bell helps adjust the direction and force of the water stream.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
