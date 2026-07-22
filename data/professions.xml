@@ -307,4 +307,6 @@
   <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" slug="fisherman" value="Fisherman" />
   <Profession id="2bc61616-fa9d-4521-9995-6b174195cce5" slug="boat-captain" value="Boat Captain" />
   <Profession id="78cf232d-23ec-447a-bc52-69ad7e43630c" slug="school-administrator" value="School Administrator" />
+  <Profession id="dd1386b8-d52a-47d8-b292-f9a099f96402" slug="production-manager" value="Production Manager" />
+  <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" slug="industrial-designer" value="Industrial Designer" />
 </Professions>

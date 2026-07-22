@@ -1,0 +1,38 @@
+<Vocab id="1c7cd5f3-70d3-4b7f-9e57-88fce48f71f5" word="factory" type="short" status="done">
+  <Topics>
+    <Topic id="d312e292-41a1-41bb-9c79-4a4d73ad9999" value="Industry" />
+  </Topics>
+  <Professions>
+    <Profession id="0bd086ae-9b7b-4d77-8e6f-ba1f80c576fe" value="Manufacturing Engineer" />
+    <Profession id="dd1386b8-d52a-47d8-b292-f9a099f96402" value="Production Manager" />
+    <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" value="Industrial Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7f632f88-3309-4789-9916-46f1ee2a7da7" ipa="/ˈfæk.tə.ri/" vi_ipa="phác-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9c1b1430-1b2f-4d06-bb5b-90cf86d2d702" type="Noun">
+          <Vi>Xí nghiệp; nhà máy</Vi>
+          <En>A building or group of buildings where goods are manufactured or assembled, typically using machinery and workers.</En>
+          <Example>The factory produces over 10,000 smartphones per day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d50f7540-839e-4bff-a757-093f302390ab">
+              <Vi>Một cơ sở sản xuất công nghiệp với dây chuyền máy móc và công nhân.</Vi>
+              <En>An industrial facility equipped with machines and workers for mass production.</En>
+            </Situation>
+            <Situation id="4151ed69-b15e-40db-a9a8-b7138566b5e1">
+              <Vi>Tên gọi chung cho các cơ sở chế biến, lắp ráp hàng hóa quy mô lớn.</Vi>
+              <En>A general term for large-scale facilities involved in processing or assembling goods.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
