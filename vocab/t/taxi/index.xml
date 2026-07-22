@@ -1,0 +1,45 @@
+<Vocab id="c30bca50-7029-45bd-9f4d-372547536b80" word="taxi" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f2f9c56-e40c-4496-87a2-2b935f8471c7" ipa="/ˈtæk.si/" vi_ipa="tắc-xi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6e64af28-3351-4bad-8eb4-3d831be2b90f" type="Noun">
+          <Vi>xe taxi; xe ôm (trong một số ngữ cảnh)</Vi>
+          <En>A vehicle with a driver, used for hiring, typically with a meter to calculate the fare.</En>
+          <Example>She hailed a taxi to get to the airport on time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e3e174e0-deaf-49b1-89dd-665171d7b240">
+              <Vi>Hành khách gọi xe trên đường hoặc qua ứng dụng để di chuyển.</Vi>
+              <En>A passenger calls or hails a ride-hailing vehicle for transportation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="64aa0e6e-e5f1-4786-9f70-a3fe1335479f" type="Verb">
+          <Vi>đi bằng taxi; chở bằng taxi</Vi>
+          <En>To travel in or transport (someone or something) by taxi.</En>
+          <Example>We taxi-ed from the train station to our hotel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f1f9555-ab22-4533-8a74-236474237902">
+              <Vi>Sử dụng taxi làm phương tiện di chuyển chính trong một chặng đường.</Vi>
+              <En>Using a taxi as the primary mode of transport for a particular leg of a journey.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

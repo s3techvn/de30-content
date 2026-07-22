@@ -1,0 +1,40 @@
+<Vocab id="6f3e08c6-8c4f-4920-b4d9-831ef1dd6b46" word="jeep" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="54fcf3fb-2906-4282-9c73-bf9d4d833873" value="Off-Road Enthusiast" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b4fac28-6e81-479a-b276-eadca72aa15a" ipa="/dʒiːp/" vi_ipa="giíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fbca5a73-90a1-4776-b813-7c0bff443ff6" type="Noun">
+          <Vi>Xe Jeep (xe địa hình nhỏ, thường dùng trong quân sự hoặc giải trí)</Vi>
+          <En>A small, sturdy, four-wheel-drive vehicle, originally developed for military use, now also used recreationally and commercially.</En>
+          <Example>They drove the rugged Jeep through the rocky mountain trail.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e435e1b-a475-45fc-aed7-3fe9173e42f9">
+              <Vi>Mô tả một chiếc xe địa hình nhỏ, linh hoạt, thường có khung gầm cao và dẫn động bốn bánh.</Vi>
+              <En>Describing a compact, agile off-road vehicle with high ground clearance and four-wheel drive.</En>
+            </Situation>
+            <Situation id="e1a863bc-bcde-4dee-afb2-ffe89f2719bb">
+              <Vi>Sử dụng trong quân đội Mỹ trong Thế chiến II và các cuộc xung đột sau này.</Vi>
+              <En>Used by the U.S. military during World War II and subsequent conflicts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
