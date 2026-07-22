@@ -1,0 +1,32 @@
+<Vocab id="47eae80e-4208-4c54-81da-9dca99176fd1" word="tim" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b11c5cfb-67e6-4990-817e-723b31c92292" ipa="/tɪm/" vi_ipa="tím">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f450864d-4215-413f-ac39-688aa5e20c68" type="Noun">
+          <Vi>tim (cơ quan bơm máu)</Vi>
+          <En>The muscular organ that pumps blood through the circulatory system.</En>
+          <Example>She felt a sharp pain in her chest and worried it might be her heart.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="214b6a0b-4949-4141-ad9b-335c4a0fae7a">
+              <Vi>Mô tả tình trạng sức khỏe liên quan đến cơ quan tim.</Vi>
+              <En>Describing health conditions related to the heart organ.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

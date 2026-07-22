@@ -1,0 +1,67 @@
+<Vocab id="adfe76b9-7fb8-407f-b765-149b75c0f4aa" word="record" type="short" status="done">
+  <Topics>
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="722d6870-1e2d-4719-a68d-438975331f72" value="Data &amp; Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c899f35-f3a9-4d52-8697-61804656ba48" ipa="/ˈrɛk.ɚd/" vi_ipa="réc-cợt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="602274d3-6691-4046-9533-571382cf8ff8" type="Noun">
+          <Vi>Bản ghi âm; kỷ lục; hồ sơ</Vi>
+          <En>A physical or digital medium containing recorded sound, video, or data; or the best performance ever achieved in a sport or activity.</En>
+          <Example>She released her debut record last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1623f998-d246-4ac7-9db9-a5f652828031">
+              <Vi>Nghe một bản thu âm nhạc cổ điển trên đĩa vinyl.</Vi>
+              <En>Listening to a classical music recording on a vinyl record.</En>
+            </Situation>
+            <Situation id="02a01640-6dec-4b1b-8d0b-5a30f3caffb4">
+              <Vi>Công bố kỷ lục thế giới mới trong môn bơi lội.</Vi>
+              <En>Announcing a new world record in swimming.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="295a680c-4d17-4336-8d5d-107bf1c4f431" ipa="/rɪˈkɔːrd/" vi_ipa="ri-cợt-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fc2c6e03-7f8e-40e2-b74a-33c40c88cb83" type="Verb">
+          <Vi>Ghi âm; ghi lại; lập hồ sơ</Vi>
+          <En>To capture sound, video, or data on a medium for later playback or reference.</En>
+          <Example>The journalist recorded the interview for her podcast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4c9b7117-e3f6-4647-96a1-54e693b74c40">
+              <Vi>Thu âm giọng hát của ca sĩ trong phòng thu.</Vi>
+              <En>Recording the singer’s voice in the studio.</En>
+            </Situation>
+            <Situation id="3f25d5d6-ac40-44bf-8b3d-54bb732250a4">
+              <Vi>Chính quyền lập hồ sơ vi phạm giao thông.</Vi>
+              <En>The authorities recorded the traffic violation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
