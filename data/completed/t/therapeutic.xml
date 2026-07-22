@@ -1,0 +1,38 @@
+<Vocab id="55162905-1357-456e-bb06-0e4f40ea2c56" word="therapeutic" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2cd64c97-21b9-4adb-88d6-4bcac0ec0783" ipa="/ˌθer.əˈpeʊ.tɪk/" vi_ipa="thê-rơ-pê-utíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="30a9c085-7893-412f-8be0-1da6682c7ad0" type="Adjective">
+          <Vi>liên quan đến việc chữa bệnh; có tác dụng chữa bệnh, giúp phục hồi sức khỏe</Vi>
+          <En>relating to the treatment of disease or disorder; having the effect of healing or restoring health</En>
+          <Example>The therapeutic benefits of yoga include reduced stress and improved flexibility.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a155a7a-17e1-4020-b561-bf5387d7985e">
+              <Vi>Mô tả các liệu pháp hoặc sản phẩm hỗ trợ điều trị bệnh lý.</Vi>
+              <En>Describing treatments, substances, or activities that aid in medical recovery or symptom relief.</En>
+            </Situation>
+            <Situation id="c308c749-ad5a-4d7d-8100-be94b007b34b">
+              <Vi>Dùng để chỉ hiệu ứng tâm lý tích cực từ một hoạt động hoặc môi trường.</Vi>
+              <En>Referring to the positive psychological impact of an activity or environment, such as nature or music.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
