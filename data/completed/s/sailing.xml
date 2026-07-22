@@ -1,0 +1,51 @@
+<Vocab id="7109eb79-82b6-4403-b73d-a610715d968e" word="sailing" type="short" status="done">
+  <Topics>
+    <Topic id="70e0c39b-5d53-489b-8eb4-71344671b917" value="Sports &amp; Recreation" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="7e4de0dd-cfa0-42be-9bb2-750a0c9af464" value="Sailor" />
+    <Profession id="466c1312-89a0-4dee-9d66-74cc16a14d7c" value="Yacht Captain" />
+    <Profession id="1a69f65e-6797-4de5-8051-ed2744ae4176" value="Marine Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="020dfa9f-b864-4267-994a-ab65a6f06a47" ipa="/ˈseɪ.lɪŋ/" vi_ipa="sê-linh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5227ccf5-19bb-4dad-a989-0ffab8304723" type="Noun">
+          <Vi>Sự lái buồm; hoạt động đi lại bằng thuyền buồm</Vi>
+          <En>The sport, activity, or practice of traveling on water in a boat or ship powered by wind captured in sails</En>
+          <Example>She took up sailing as a hobby after retiring.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78e06c48-a73f-412e-97e7-ffe67105088b">
+              <Vi>Một người mới học cách điều khiển thuyền buồm trên hồ vào buổi sáng.</Vi>
+              <En>A beginner learning to steer a sailboat on a lake in the morning.</En>
+            </Situation>
+            <Situation id="314487c1-7ffa-438a-b499-0e115782b89a">
+              <Vi>Cuộc thi đua thuyền buồm quốc tế giữa các đội chuyên nghiệp.</Vi>
+              <En>An international sailing race among professional teams.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="299bde19-5b22-44e2-8eb8-4a273cd7adb8" type="Verb (present participle/gerund)">
+          <Vi>Đang lái buồm; (dùng như danh từ) việc đi lại bằng thuyền buồm</Vi>
+          <En>Moving across water in a sailboat, using wind to power the vessel</En>
+          <Example>They spent the afternoon sailing along the coast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1603a9be-1264-4a25-bdc6-4ee5a8e47543">
+              <Vi>Hai người bạn đang tận hưởng một buổi chiều thư giãn trên thuyền buồm.</Vi>
+              <En>Two friends enjoying a relaxing afternoon aboard a sailboat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

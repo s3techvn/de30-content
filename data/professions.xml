@@ -386,4 +386,6 @@
   <Profession id="98d0bc6a-92d5-4b1c-92b4-d3d81f271a2a" slug="cleaning-service-technician" value="Cleaning Service Technician" />
   <Profession id="daa3c660-091c-4c71-94a4-cb3c69f7cc1f" slug="military-logistics-specialist" value="Military Logistics Specialist" />
   <Profession id="e1a7fc5e-b725-4d97-bbfd-80655491acb5" slug="music-producer" value="Music Producer" />
+  <Profession id="466c1312-89a0-4dee-9d66-74cc16a14d7c" slug="yacht-captain" value="Yacht Captain" />
+  <Profession id="1a69f65e-6797-4de5-8051-ed2744ae4176" slug="marine-instructor" value="Marine Instructor" />
 </Professions>
