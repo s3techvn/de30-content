@@ -1,0 +1,60 @@
+<Vocab id="fee75e6d-66b2-412b-a0ef-f04ca04f77cc" word="application" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48944f28-5890-4beb-8eab-dbedcbf060ed" ipa="/ˌæp.lɪˈkeɪ.ʃən/" vi_ipa="áp-lít-kê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1fb9bf7f-4fdc-45dd-99f7-112f0d2388bb" type="Noun">
+          <Vi>Ứng dụng (phần mềm)</Vi>
+          <En>A software program designed to perform a specific function directly for the user or, indirectly, for another application.</En>
+          <Example>She installed a new application on her phone to track her daily steps.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5ed2c61-0368-447d-ae6e-589d520de08d">
+              <Vi>Mô tả phần mềm chạy trên điện thoại hoặc máy tính.</Vi>
+              <En>Referring to a software program on a smartphone or computer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="491b1104-0e0a-4a69-a457-21eba88b624e" type="Noun">
+          <Vi>Đơn xin (việc, học bổng, v.v.)</Vi>
+          <En>A formal written request, typically submitted to an organization, for something such as a job, admission, or funding.</En>
+          <Example>He submitted his job application before the deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a7b2754-c2bc-4e5c-b568-93427f394322">
+              <Vi>Hoàn thành và gửi đơn xin việc qua email hoặc hệ thống tuyển dụng.</Vi>
+              <En>Completing and submitting a job application form online or via email.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="026704ae-be54-4c55-a29c-59be820a2227" type="Noun">
+          <Vi>Sự áp dụng, việc áp dụng</Vi>
+          <En>The action of putting something into effect or using it in a particular context.</En>
+          <Example>The application of new technology has improved efficiency significantly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8505bb59-c2be-4492-a6b2-cdb999e6280e">
+              <Vi>Thảo luận về cách áp dụng lý thuyết vào thực tế.</Vi>
+              <En>Discussing how theoretical knowledge is applied in real-world situations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
