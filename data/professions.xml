@@ -445,4 +445,5 @@
   <Profession id="c32e9183-4034-4161-a5b5-03540b542203" slug="product-designer" value="Product Designer" />
   <Profession id="2f4f9ade-392a-4131-b575-39ebe1638521" slug="cryptographer" value="Cryptographer" />
   <Profession id="b012a32f-5e17-4ba5-87fc-59166c3d0c61" slug="military-intelligence-officer" value="Military Intelligence Officer" />
+  <Profession id="e018c441-ab3a-4731-89b8-aa343d99992b" slug="pastry-chef" value="Pastry Chef" />
 </Professions>

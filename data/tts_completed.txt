@@ -590,3 +590,4 @@ code
 practice
 integer
 plant
+exempt

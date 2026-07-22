@@ -1,0 +1,49 @@
+<Vocab id="0538a385-c6db-4c87-b446-5dd769a49147" word="cake" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="e018c441-ab3a-4731-89b8-aa343d99992b" value="Pastry Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d82ad19-f4c7-4c72-827d-f3408821cc25" ipa="/keɪk/" vi_ipa="kê-ck">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b0a8aa4-d957-47cc-81f6-91b1f01cc45a" type="Noun">
+          <Vi>Bánh ngọt (thường làm từ bột, trứng, đường, bơ, nướng lên)</Vi>
+          <En>A sweet baked food made from flour, sugar, eggs, and butter, typically baked and often decorated.</En>
+          <Example>She baked a chocolate cake for her birthday party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eab5c495-0e95-4845-b5e8-fd2fccce03fe">
+              <Vi>Trong nhà bếp, người làm bánh đang trang trí một chiếc bánh sinh nhật.</Vi>
+              <En>At a bakery, the baker is decorating a birthday cake with frosting and sprinkles.</En>
+            </Situation>
+            <Situation id="15458ef9-77cc-4001-9873-606c244ede6a">
+              <Vi>Một chiếc bánh kem nhiều tầng được cắt trong tiệc cưới.</Vi>
+              <En>A multi-tier wedding cake is being cut at the reception.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ce584df7-ed62-4180-bd48-0a9f79c7ab1d" type="Noun">
+          <Vi>Tảng (đá) lớn, phiến (đá) phẳng</Vi>
+          <En>A thick, flat piece of a substance, especially rock or soap.</En>
+          <Example>The glacier calved off a large cake of ice into the sea.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c45161ff-d943-4cd0-9913-f111b1057664">
+              <Vi>Nhà thạch học đang nghiên cứu một tảng đá hình khối được gọi là "cake" trong mẫu địa chất.</Vi>
+              <En>The geologist examined a rectangular rock sample referred to as a "cake" in the core drill.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
