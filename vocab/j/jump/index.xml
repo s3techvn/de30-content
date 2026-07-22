@@ -1,0 +1,53 @@
+<Vocab id="1528f13c-16b1-4874-a4e8-38f4a12e00cd" word="jump" type="short" status="done">
+  <Topics>
+    <Topic id="2675f6c0-0274-4059-8896-d856b368fa0f" value="Sports &amp; Physical Activity" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="879db552-f0e3-4825-a044-f5abbf363cd3" ipa="/dʒʌmp/" vi_ipa="giămp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c19f5c01-ed60-44bd-b156-61cdb1f99518" type="Verb">
+          <Vi>nhảy (lên, xa, cao)</Vi>
+          <En>to push oneself off a surface and into the air by using the legs and feet</En>
+          <Example>She jumped over the low fence without hesitation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d23aa9f4-6beb-4cb3-9bae-32f755a40d10">
+              <Vi>Mô tả hành động vận động viên nhảy cao trong giải điền kinh.</Vi>
+              <En>Describing an athlete performing a high jump in a track-and-field competition.</En>
+            </Situation>
+            <Situation id="91941eaa-cc21-41a0-9109-27ee5d7280d8">
+              <Vi>Mô tả việc nhảy khỏi ghế để tránh một vật rơi.</Vi>
+              <En>Describing leaping off a chair to avoid a falling object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="02a6e66e-e764-4288-bce3-8d8a0f61fc49" type="Noun">
+          <Vi>sự nhảy</Vi>
+          <En>a movement in which one propels oneself into the air, typically using both feet</En>
+          <Example>The child made a joyful jump into the pool.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68492184-f6de-45e2-afbb-69848f0b585a">
+              <Vi>Mô tả một cú nhảy xa trong môn điền kinh.</Vi>
+              <En>Describing a long jump in track and field.</En>
+            </Situation>
+            <Situation id="0272b053-4458-42a8-a5a7-3949883f1721">
+              <Vi>Mô tả sự thay đổi đột ngột (nghĩa bóng): "a jump in prices".</Vi>
+              <En>Describing a sudden increase (figurative): "a jump in prices".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
