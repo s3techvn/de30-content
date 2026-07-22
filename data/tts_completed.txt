@@ -483,3 +483,4 @@ clinic
 diabetes
 load
 observation
+minister
