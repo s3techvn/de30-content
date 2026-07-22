@@ -1,0 +1,52 @@
+<Vocab id="ffce87d1-ca0f-4f71-821b-f86e74990407" word="fallen" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="762c280f-d97e-46c7-900b-78ada48a6e60" ipa="/ˈfɔː.lən/" vi_ipa="phờ-lơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3d57751-94bc-41c5-bdf9-31e6629ae144" type="Adjective">
+          <Vi>ngã, rơi, gãy (nói về cây, lá, chim, người… đã rơi xuống từ trên cao)</Vi>
+          <En>dropped or dropped down from a higher position; no longer standing or upright.</En>
+          <Example>The fallen leaves covered the ground in a thick, rust-colored blanket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6cfb2fce-d171-45c4-943a-76409a96de0c">
+              <Vi>Mô tả lá cây, cành cây đã rụng từ trên cây xuống đất.</Vi>
+              <En>Describing leaves or branches that have dropped from trees onto the ground.</En>
+            </Situation>
+            <Situation id="5d6fb570-0132-43e1-b627-0687010e9346">
+              <Vi>Mô tả người ngã hoặc bị đánh ngã (thường trong văn chương hoặc báo chí).</Vi>
+              <En>Describing a person who has collapsed or been knocked down, often used in literary or journalistic contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="de92a1f3-2e7e-4a00-b7cc-38ae87f20ee0" type="Adjective">
+          <Vi>đã sa ngã, đã sa sút về đạo đức, tinh thần (thường dùng trong ngữ cảnh tôn giáo hoặc đạo đức)</Vi>
+          <En>morally or spiritually degraded; having abandoned principles or virtue.</En>
+          <Example>He was described as a fallen angel who had lost his way.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a8cc8c2-013a-4575-996a-df00af254307">
+              <Vi>Mô tả một người từng có phẩm chất tốt nhưng đã sa vào lối sống sai trái.</Vi>
+              <En>Describing someone who once had good character but has turned to unethical or immoral behavior.</En>
+            </Situation>
+            <Situation id="9c82f81b-6e84-4a26-8048-42ee1037655c">
+              <Vi>Trong ngữ cảnh tôn giáo: mô tả thiên thần hoặc linh hồn đã rời bỏ Thiên Chúa.</Vi>
+              <En>In religious contexts: describing an angel or soul that has turned away from God.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
