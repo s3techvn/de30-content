@@ -1,0 +1,36 @@
+<Vocab id="b6623b3b-4c96-4013-a345-f6ce90b9f2ae" word="lover" type="short" status="done">
+  <Topics>
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="c356bbed-2969-42ef-b4fb-f372feb1fdbd" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="daa5045e-fb84-4ba7-b353-3793f1f9c2f5" ipa="/ˈlʌv.ər/" vi_ipa="láp-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c23e66be-99c9-4132-8ddd-86d9a76cc278" type="Noun">
+          <Vi>người yêu; người yêu đương; (cũ) người yêu (thường nói về người yêu trai hoặc người yêu ngoài luồng)</Vi>
+          <En>a person whom one loves, especially in a romantic or sexual relationship; historically, often refers to a mistress or paramour</En>
+          <Example>She has been in a committed relationship with her lover for five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f64b8434-bd34-4773-ae92-fdf470bf3755">
+              <Vi>Mô tả mối quan hệ tình cảm giữa hai người trưởng thành, thường không chính thức hoặc ngoài hôn nhân.</Vi>
+              <En>Describes a romantic or sexual relationship between two adults, often informal or outside of marriage.</En>
+            </Situation>
+            <Situation id="f2aa3987-3053-46bb-bba1-ae7d4dc8e0d6">
+              <Vi>Người yêu hiện tại của một người (trong ngữ cảnh hiện đại, thường là người yêu trai).</Vi>
+              <En>The current romantic partner (typically male) of a person, in modern usage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

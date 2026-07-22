@@ -1,0 +1,32 @@
+<Vocab id="6722f699-3878-4169-98b3-b93ca6b59711" word="lloyd" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0df33b4d-13b5-49db-84b2-dc48ad42bae4" ipa="/lɔɪd/" vi_ipa="lôi-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="98ca3a13-1d03-4d2e-a2b8-1ca31af2502d" type="Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường xuất phát từ tiếng Anh cổ, nghĩa là "đồng bằng xanh" hoặc "ruộng cỏ xanh".</Vi>
+          <En>A surname or given name of English origin, historically meaning "green meadow" or "pasture" (from Old English *hlāw* "hill" + *dūn* "down/hill", though often interpreted as "green hill" or "green meadow").</En>
+          <Example>Warren Buffett’s business partner was Charlie Munger, but the name Lloyd appears in the famous law firm name *Lloyd’s of London*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54cbebdf-2a69-49f3-b6e3-04df2acda642">
+              <Vi>Dùng làm họ, tên đệm, hoặc tên riêng trong các nước phương Tây, đặc biệt phổ biến ở Anh.</Vi>
+              <En>Used as a surname, middle name, or occasionally first name in English-speaking countries, especially in the UK.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

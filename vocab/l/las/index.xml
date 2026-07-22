@@ -1,0 +1,33 @@
+<Vocab id="07ab3ee9-6e9d-4be7-a590-b3e7f1c0d0e8" word="las" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38bbcb65-8788-4f93-b5d4-7ef3910a1aa9" ipa="/læz/" vi_ipa="laz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b96a6578-db05-45de-bfba-ba8b46d5985c" type="Noun">
+          <Vi>quần sooc ngắn (thường dùng cho nam)</Vi>
+          <En>shorts, especially men’s shorts that reach just above the knee</En>
+          <Example>He wore white las and a polo shirt to the casual picnic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d4dcb04-a055-40b4-b94a-afe660dcd84a">
+              <Vi>Mô tả trang phục thể thao hoặc dạo phố vào mùa hè.</Vi>
+              <En>Describing sporty or casual summer attire.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
