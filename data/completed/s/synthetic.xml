@@ -1,0 +1,40 @@
+<Vocab id="07c0c73c-9ea5-431f-8064-abeb6c318418" word="synthetic" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="f9566039-69b4-4733-9c61-cbd2a6232d77" value="Fashion &amp; Textiles" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="b8d12e1c-af0e-4726-b04b-789491176dec" value="Textile Engineer" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb15b554-ead8-4a56-b4fc-de69b27bfcd5" ipa="/sɪnˈθɛtɪk/" vi_ipa="xìn-thét-tíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e1a6e636-95bb-4256-a535-aff3240c0af0" type="Adjective">
+          <Vi>thuộc về chất tổng hợp; nhân tạo, được tạo ra bằng tổng hợp hóa học thay vì chiết xuất từ thiên nhiên</Vi>
+          <En>made by combining chemical elements or compounds, typically to imitate a natural product; not naturally occurring</En>
+          <Example>The fabric is made from synthetic fibers, which are more durable than cotton.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7154191-aa57-439d-a5fd-f3020e0c006c">
+              <Vi>Mô tả vật liệu không có sẵn trong tự nhiên mà được sản xuất trong phòng thí nghiệm hoặc nhà máy hóa chất.</Vi>
+              <En>Describing materials not found in nature but produced in laboratories or chemical plants.</En>
+            </Situation>
+            <Situation id="f5d5ec46-2164-41b1-964a-53e8e707aa08">
+              <Vi>Dùng để chỉ loại vải như polyester, nylon – trái ngược với vải tự nhiên như cotton hay lụa.</Vi>
+              <En>Referring to fabrics like polyester or nylon, as opposed to natural fabrics like cotton or silk.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
