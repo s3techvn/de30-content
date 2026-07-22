@@ -1,0 +1,38 @@
+<Vocab id="f4fb5de6-e27d-4663-a7ac-e3f7818ac9b8" word="region" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5a2ff136-95b1-434f-8c53-dc5e8679e9a3" ipa="/ˈriː.ɡən/" vi_ipa="ri-gơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5e6607f0-eb1b-4b71-8e41-829dbf0eeb58" type="Noun">
+          <Vi>Vùng, khu vực</Vi>
+          <En>A particular area or part of the world, country, or landscape.</En>
+          <Example>The mountain region is known for its breathtaking views and hiking trails.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7e71bb3d-e475-4419-a2ef-9c3ba6f833db">
+              <Vi>Mô tả một khu vực địa lý cụ thể, thường có đặc điểm tự nhiên hoặc hành chính riêng.</Vi>
+              <En>Describing a specific geographical area, often with distinct natural or administrative features.</En>
+            </Situation>
+            <Situation id="9e7ba959-c898-4525-9519-4c0aa98e4f0f">
+              <Vi>Sử dụng trong ngữ cảnh phân chia lãnh thổ, ví dụ như vùng miền, vùng khí hậu.</Vi>
+              <En>Used when dividing territory, e.g., by region, climate zone, or administrative boundary.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
