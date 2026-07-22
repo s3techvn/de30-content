@@ -1,0 +1,38 @@
+<Vocab id="6a0ad133-aab3-4b58-9a8e-f62fb8143fed" word="liberia" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="519b8cb4-bb06-4109-bd0f-811b6abfef1d" ipa="/lɪˈbɪər.i.ə/" vi_ipa="lị-bi-ơ-rì-a">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0864b5bc-08ad-4b48-a415-f76a74b1d349" type="Noun">
+          <Vi>Li-bê-ri-a (một quốc gia ở Tây Phi)</Vi>
+          <En>The Republic of Liberia, a country in West Africa, founded in 1847 by freed African-American slaves.</En>
+          <Example>Liberia was the first African republic to adopt a written constitution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="178a5fe3-6ef1-4fc0-970a-8740e6b5fac3">
+              <Vi>Trong bối cảnh lịch sử và địa lý thế giới, đặc biệt khi nói về các quốc gia được thành lập bởi cựu nô lệ.</Vi>
+              <En>In historical and geographical contexts, especially when discussing nations founded by formerly enslaved people.</En>
+            </Situation>
+            <Situation id="7974ef16-fac5-40f9-9273-faf82f531c07">
+              <Vi>Khi đề cập đến các sự kiện thể thao quốc tế như Olympic, nơi đội tuyển Liberia tham gia.</Vi>
+              <En>When referring to international sporting events such as the Olympics, where the Liberian national team competes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
