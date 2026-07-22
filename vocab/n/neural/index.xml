@@ -1,0 +1,40 @@
+<Vocab id="bae96f66-5bc7-4593-b4a5-bc5d3e6e8a0d" word="neural" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="ba3ae16d-5822-45c9-b795-22d059b32f28" value="Neurologist" />
+    <Profession id="aec31f5f-64af-43bf-93a7-be9241770f66" value="Neuroscientist" />
+    <Profession id="970389cd-6b91-4620-8b9c-5d2909324e75" value="AI Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="05061212-c093-4531-8b87-78e1b919bc95" ipa="/ˈnʊr.əl/" vi_ipa="nơ-rờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af87188e-a1f2-4c2c-a344-6279637aef2e" type="Adjective">
+          <Vi>thuộc thần kinh</Vi>
+          <En>relating to the nerves or nervous system</En>
+          <Example>The patient was diagnosed with a neural disorder affecting motor control.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54f2e3df-b35f-4b6d-9484-90c42cbdeab0">
+              <Vi>Mô tả các bệnh lý liên quan đến hệ thần kinh trung ương hoặc ngoại biên.</Vi>
+              <En>Used when describing medical conditions involving the brain, spinal cord, or peripheral nerves.</En>
+            </Situation>
+            <Situation id="5f96034a-82a5-4f7d-9ded-6ac84dcdde2a">
+              <Vi>Thường gặp trong lĩnh vực trí tuệ nhân tạo mô phỏng hoạt động của não bộ.</Vi>
+              <En>Commonly used in artificial intelligence to describe systems inspired by biological neural networks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
