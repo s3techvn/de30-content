@@ -1,0 +1,90 @@
+<Vocab id="1b64aa1f-1d7a-4bd5-a9c2-2577f86a7b64" word="load" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="13429d22-ee85-4e8e-ad1a-818aec310274" value="Truck Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3355cccd-c070-48df-8a81-d98c25046e93" ipa="/loʊd/" vi_ipa="lô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="99114bb3-2e6c-4812-b96b-1c0c41d5a750" type="Verb">
+          <Vi>cho, chất, tải (hàng hóa, thiết bị, v.v.) lên phương tiện hoặc hệ thống</Vi>
+          <En>to put or carry something onto a vehicle, machine, or system, especially in large quantity</En>
+          <Example>We need to load the truck with supplies before sunrise.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b12067c8-e555-4535-8d98-0557b80c1c5f">
+              <Vi>Chất hàng hóa vào xe tải hoặc container để vận chuyển.</Vi>
+              <En>Placing goods into a truck or container for transportation.</En>
+            </Situation>
+            <Situation id="3a3a38de-e215-4fc1-a0f4-63236071a748">
+              <Vi>Tải phần mềm hoặc dữ liệu vào máy tính.</Vi>
+              <En>Loading software or data into a computer system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2096c356-2837-4f0c-a981-e5ab4524ba44" type="Noun">
+          <Vi>sự chất tải, khối lượng, gánh nặng (vật lý hoặc trách nhiệm)</Vi>
+          <En>an amount of something that is carried or supported; a burden or responsibility</En>
+          <Example>The weight of the load made the shelf sag.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b7018801-6a44-40f1-a55f-fef2da76d360">
+              <Vi>Trọng lượng hàng hóa trên xe tải.</Vi>
+              <En>The weight of cargo carried by a truck.</En>
+            </Situation>
+            <Situation id="9fbbdfc3-353e-4f03-bb2f-365c3e6a6b1f">
+              <Vi>Gánh nặng công việc hoặc trách nhiệm.</Vi>
+              <En>A mental or emotional burden, such as heavy work responsibilities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="783e1268-1777-4ede-bb91-51ab021d3dc7" type="Verb">
+          <Vi>đặt gánh nặng, ném vào (ai đó), gây áp lực</Vi>
+          <En>to burden or overwhelm someone with tasks, responsibilities, or problems</En>
+          <Example>She was loaded with homework after missing two weeks of class.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e568c833-117b-4af9-bbce-9ddc18a1f2e8">
+              <Vi>Giao quá nhiều công việc cho nhân viên trong thời gian ngắn.</Vi>
+              <En>Assigning excessive tasks to an employee in a short period.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="25458fe3-a5cc-4590-9e4a-196f6bccbb0f" ipa="/loʊd/" vi_ipa="lô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3de731ae-a890-4bdd-86a9-30903de6c15d" type="Noun">
+          <Vi>lượng điện tiêu thụ tại một thời điểm (trong kỹ thuật điện)</Vi>
+          <En>the amount of electrical power being drawn from a source at a given time</En>
+          <Example>The power grid struggled to meet the peak load during the heatwave.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b47e43e-c3bb-4f3b-b38c-aa082596932f">
+              <Vi>Đo lường nhu cầu điện trong giờ cao điểm.</Vi>
+              <En>Measuring electricity demand during peak usage hours.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

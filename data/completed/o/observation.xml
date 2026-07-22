@@ -1,0 +1,56 @@
+<Vocab id="dc4f26b0-80bc-4840-9dbb-bc20bbe62276" word="observation" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ad4be69-4a53-4126-b57c-3e2eb73da644" ipa="/ˌɒb.zəˈveɪ.ʃən/" vi_ipa="ốp-dờ-vê-i-ô-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a53f4e4-f1bb-43e5-b430-fcca282681cc" type="Noun">
+          <Vi>Quan sát; điều tra quan sát; điều tra thực địa</Vi>
+          <En>The act of noticing or perceiving something, especially as part of a scientific or systematic process.</En>
+          <Example>The astronomer made careful observations of the planet’s movement over several nights.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1a258ed-aa47-4919-8fe3-d92d2a041b95">
+              <Vi>Quan sát hành vi của trẻ em trong lớp học để đánh giá kỹ năng xã hội.</Vi>
+              <En>Watching children’s behavior in class to assess social skills.</En>
+            </Situation>
+            <Situation id="6df94235-1f06-490a-970b-58531693390a">
+              <Vi>Ghi chép các hiện tượng tự nhiên trong nghiên cứu địa chất.</Vi>
+              <En>Recording natural phenomena during a geology field study.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="61ad0f83-844c-4ad7-9a11-38f2fc70b399" type="Noun">
+          <Vi>Câu nhận xét; nhận xét; ý kiến quan sát được</Vi>
+          <En>A remark or comment based on what one has observed.</En>
+          <Example>Her observation about the weather turned out to be surprisingly accurate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71de205d-b95c-4bcd-979d-3b59336a24a4">
+              <Vi>Một nhà khoa học đưa ra quan sát rằng nhiệt độ trung bình đang tăng lên mỗi thập kỷ.</Vi>
+              <En>A scientist made the observation that average temperatures are rising each decade.</En>
+            </Situation>
+            <Situation id="1379fbb2-6788-47e6-95ff-3c4d5e0a6c76">
+              <Vi>Trong cuộc họp, anh ấy đưa ra một quan sát thú vị về xu hướng tiêu dùng.</Vi>
+              <En>During the meeting, he made an interesting observation about consumer trends.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
