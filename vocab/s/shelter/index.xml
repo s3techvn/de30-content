@@ -1,0 +1,56 @@
+<Vocab id="bd77c661-1d0b-4ca0-9809-0da04170e3f7" word="shelter" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9c635aaa-3d85-47bd-96b5-045868ac1b36" value="Emergency &amp; Safety" />
+    <Topic id="beef31e0-da45-4641-92cc-bfc9daa55601" value="Architecture &amp; Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae2706bb-4e0b-4fce-aa12-a558f7446740" ipa="/ˈʃel.t̬ɚ/" vi_ipa="sờ-lợ-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e05f3619-e766-4f19-9f42-024b58c1cc62" type="Noun">
+          <Vi>nơi trú ẩn, nơi che chở</Vi>
+          <En>A structure or place that provides protection from weather, danger, or attack.</En>
+          <Example>The hikers found shelter in a cave during the sudden thunderstorm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cfcd82b8-55cf-4eb7-acad-abc2b62421be">
+              <Vi>Tìm nơi tránh mưa, gió, hoặc thiên tai.</Vi>
+              <En>Seeking protection from severe weather or natural disasters.</En>
+            </Situation>
+            <Situation id="c64ec856-6029-4487-ab53-ffe2e6de3f3a">
+              <Vi>Nơi ở tạm thời cho người vô gia cư hoặc nạn nhân bạo lực gia đình.</Vi>
+              <En>A temporary residence for homeless individuals or victims of domestic violence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="93b63b24-e468-41c8-bfcb-108eeff96fe7" type="Verb">
+          <Vi>che chở, bảo vệ, cho ở trú ẩn</Vi>
+          <En>To provide protection or shelter for someone or something from danger, weather, or harm.</En>
+          <Example>The large oak tree sheltered us from the hot afternoon sun.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a48d32d-b34e-49c3-a652-3f6e293e5e94">
+              <Vi>Cung cấp nơi ở an toàn cho người tị nạn.</Vi>
+              <En>To provide safe housing for refugees fleeing conflict.</En>
+            </Situation>
+            <Situation id="860ef2ab-4099-413b-8ced-0d684df61b3d">
+              <Vi>Cây cối hoặc công trình che chắn con người khỏi gió mưa.</Vi>
+              <En>Natural or built features shielding people from harsh environmental conditions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
