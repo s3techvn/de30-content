@@ -1,0 +1,38 @@
+<Vocab id="8c96d0d5-95f8-47f2-ba18-f9ca273e3b2a" word="difference" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b4045d2-da81-44ee-a1e0-dd10751c9ab6" ipa="/ˈdɪf.ər.əns/" vi_ipa="đị-phờ-rờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d63ee04f-c09e-4226-9f3d-ee368c987fdf" type="Noun">
+          <Vi>sự khác biệt</Vi>
+          <En>the state or fact of being different, especially when contrasted with something else</En>
+          <Example>There is a significant difference in the test scores between the two classes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60b9a501-869a-48e9-ad6e-752a721a0a60">
+              <Vi>Mô tả sự khác nhau giữa hai đối tượng, hiện tượng hoặc khái niệm.</Vi>
+              <En>Describing how two objects, phenomena, or concepts differ from each other.</En>
+            </Situation>
+            <Situation id="de0b84a9-f661-4734-b168-f4ad4917ebda">
+              <Vi>Đánh giá mức độ khác nhau trong kết quả, ý kiến, hoặc đặc điểm.</Vi>
+              <En>Evaluating the degree of variation in results, opinions, or characteristics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
