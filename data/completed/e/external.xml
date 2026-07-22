@@ -1,0 +1,40 @@
+<Vocab id="032e736e-8c5c-4606-a4b4-1940604be5d7" word="external" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1b44fd1d-17c3-4ca2-9dc3-7d17fc44a907" ipa="/ɪkˈstɜːr.nəl/" vi_ipa="ích-teo-nơ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4193630d-1faf-4f97-8106-271239d70a69" type="Adjective">
+          <Vi>thuộc về phần bên ngoài; từ bên ngoài</Vi>
+          <En>relating to, coming from, or affecting the outside or outer part; not internal</En>
+          <Example>The patient was given an external ointment for the rash.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2291c527-f5bf-4726-9e47-e49fae177f0b">
+              <Vi>Mô tả thứ gì đó nằm hoặc đến từ bên ngoài cơ thể, vật thể, hoặc hệ thống.</Vi>
+              <En>Describing something located or originating from outside the body, object, or system.</En>
+            </Situation>
+            <Situation id="4984eaa8-b5b8-485f-90da-ccba55ba33a8">
+              <Vi>Trong lập trình, chỉ các thành phần hoặc thư viện không thuộc mã nguồn chính.</Vi>
+              <En>In programming, referring to components or libraries not part of the main source code.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
