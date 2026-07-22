@@ -327,4 +327,5 @@
   <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" slug="academic-advisor" value="Academic Advisor" />
   <Profession id="7358b72e-0703-41a5-a4de-85e658dfc356" slug="lobbyist" value="Lobbyist" />
   <Profession id="73557f49-4f53-49de-861d-46d819311cd4" slug="detective" value="Detective" />
+  <Profession id="dc4a2e22-693e-413d-8da2-9134cc853da5" slug="procurement-manager" value="Procurement Manager" />
 </Professions>

@@ -1,0 +1,39 @@
+<Vocab id="5e9881a5-832b-4b65-add9-9ee9ea51026b" word="buyer" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="dc4a2e22-693e-413d-8da2-9134cc853da5" value="Procurement Manager" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cbcff877-3314-4a6a-8012-8e9702a5d2c3" ipa="/ˈbaɪ.ər/" vi_ipa="bây-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a7a4bd7a-360f-4209-9e90-81d975b88add" type="Noun">
+          <Vi>người mua</Vi>
+          <En>A person who purchases goods or services.</En>
+          <Example>The buyer negotiated a lower price for the car.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3479f1a7-c1e9-4eca-8561-2cc7107c0888">
+              <Vi>Người ra quyết định mua hàng trong một giao dịch thương mại.</Vi>
+              <En>The person who makes the final decision to purchase in a commercial transaction.</En>
+            </Situation>
+            <Situation id="d5b77503-22e7-4095-9904-97ecebdd9e2a">
+              <Vi>Người tiêu dùng đang chọn mua sản phẩm tại cửa hàng.</Vi>
+              <En>A consumer selecting and purchasing a product in a store.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
