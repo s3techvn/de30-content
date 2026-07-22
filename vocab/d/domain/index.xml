@@ -1,0 +1,60 @@
+<Vocab id="8772c7ad-fa70-4905-8b06-26ee4116bf61" word="domain" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89f40ff7-68e8-431e-9a22-3237aeddb0a3" ipa="/dəˈmeɪn/" vi_ipa="đờ-mê-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f29752ac-2220-41ec-b3e4-3f010e1c57af" type="Noun">
+          <Vi>miền, lĩnh vực, phạm vi</Vi>
+          <En>a particular field or area of activity, interest, or expertise</En>
+          <Example>She has extensive knowledge in the domain of artificial intelligence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a48301c0-c5f9-4dd1-919b-5c7bb13743f1">
+              <Vi>Mô tả một lĩnh vực chuyên môn hoặc sở trường cụ thể.</Vi>
+              <En>Describing a specific area of expertise or specialization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5ae802e2-a67f-4d70-b365-d03c29a7aa2f" type="Noun">
+          <Vi>miền (trong toán học), tập xác định</Vi>
+          <En>the set of values of an independent variable in a function</En>
+          <Example>The domain of the function f(x) = √x is all non-negative real numbers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0e78702-554f-4b47-9ae1-f74d125cf4b1">
+              <Vi>Trong toán học, chỉ tập hợp các giá trị đầu vào hợp lệ của một hàm số.</Vi>
+              <En>In mathematics, referring to the set of valid input values for a function.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0f513658-d516-4067-9fbe-2718324beea4" type="Noun">
+          <Vi>miền (trong mạng máy tính), tên miền</Vi>
+          <En>a group of computer systems or networks on the Internet that share a common domain name and are administered by a single organization or authority</En>
+          <Example>Our company’s website is hosted under the domain “example.com”.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c01cb67-64c3-424c-a544-ff7ccf36a2c3">
+              <Vi>Trong công nghệ thông tin, chỉ tên miền dùng để định vị trang web hoặc hệ thống mạng.</Vi>
+              <En>In computing, referring to a domain name used to identify a website or network system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
