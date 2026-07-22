@@ -319,4 +319,6 @@
   <Profession id="756cd5a7-9893-47d6-877f-5c8b02252221" slug="religious-figure" value="Religious Figure" />
   <Profession id="b41d762b-a0c9-470e-81b0-a72753cb523f" slug="manufacturing-specialist" value="Manufacturing Specialist" />
   <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" slug="product-manager" value="Product Manager" />
+  <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" slug="retail-manager" value="Retail Manager" />
+  <Profession id="6a68b33d-3199-49e9-b113-f067085f36ea" slug="e_commerce-specialist" value="E-commerce Specialist" />
 </Professions>

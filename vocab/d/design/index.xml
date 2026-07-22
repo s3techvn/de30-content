@@ -1,0 +1,57 @@
+<Vocab id="65444a23-1dfd-4770-9957-c31049f6e1b1" word="design" type="short" status="done">
+  <Topics>
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" value="Industrial Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d3a813b3-c830-4ae9-80e7-76f46382b2ec" ipa="/dɪˈzaɪn/" vi_ipa="đi-zây-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f37b1e1f-cda6-4167-ba81-7e081fb9b2df" type="Noun">
+          <Vi>Bản thiết kế; sự thiết kế; mẫu thiết kế</Vi>
+          <En>A plan or drawing produced to show the look and function or workings of something, often before it is built or made.</En>
+          <Example>The architect presented the design for the new office building to the client.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b3860cab-00ba-47b9-95a2-bb8158d7eb0a">
+              <Vi>Trong quá trình phát triển sản phẩm, nhóm thiết kế đưa ra nhiều bản thiết kế ban đầu để lựa chọn.</Vi>
+              <En>In product development, the design team presents several initial designs for selection.</En>
+            </Situation>
+            <Situation id="daeb1af1-0aa8-463b-8eb1-a791863fef0f">
+              <Vi>Bản thiết kế thời trang thể hiện ý tưởng sáng tạo của nhà thiết kế.</Vi>
+              <En>A fashion design expresses the creative vision of the designer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eacc5908-a850-4f8f-bab4-508743ff78c2" type="Verb">
+          <Vi>Thiết kế; vẽ bản vẽ; lên ý tưởng</Vi>
+          <En>To plan and make something with a specific purpose or function in mind, especially by creating a detailed drawing or model.</En>
+          <Example>She designed the website to be intuitive and user-friendly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4bae35e5-ad68-426d-9f4d-f0f385ed5abf">
+              <Vi>Kỹ sư thiết kế hệ thống điện cho tòa nhà cao tầng.</Vi>
+              <En>The engineer designed the electrical system for the high-rise building.</En>
+            </Situation>
+            <Situation id="fbfcbaeb-1b7c-45bb-9c86-7d43c222bde7">
+              <Vi>Chúng tôi cần thiết kế một chiến dịch quảng cáo hấp dẫn.</Vi>
+              <En>We need to design an engaging advertising campaign.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
