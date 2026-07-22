@@ -1,0 +1,56 @@
+<Vocab id="cc6057f7-f4e5-4dad-9e38-06da82b6bf93" word="fence" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="100444fe-cb02-4260-9787-723ce5eb3cc1" value="Fencer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="798c6c10-a4f0-49bd-9fd2-f593268c9bf5" ipa="/fens/" vi_ipa="phên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1786b3a2-1bcb-40c8-9c6f-2b8db54cb059" type="Noun">
+          <Vi>Cây rào; hàng rào</Vi>
+          <En>A barrier, typically made of wood, metal, or wire, enclosing an area to prevent escape or intrusion.</En>
+          <Example>We installed a wooden fence around the garden to keep the rabbits out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9cecb78b-dd97-40f2-b2b8-446ac3fe3009">
+              <Vi>Tình huống xây dựng hàng rào quanh khu đất hoặc vườn.</Vi>
+              <En>Scenario involving building or repairing a fence around a property or garden.</En>
+            </Situation>
+            <Situation id="879547b9-8a41-4c9c-95b9-50c9bd519d3b">
+              <Vi>Tình huống trong thể thao (môn đấu kiếm).</Vi>
+              <En>Scenario in fencing sport, where "fence" can refer to the match itself (e.g., "They fenced for 15 minutes").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f44c342-6e01-4226-819e-932f34c953a8" type="Verb">
+          <Vi>Rào lại; xây hàng rào; ngăn cách</Vi>
+          <En>To surround or enclose (an area) with a fence; also, to engage in the sport of fencing.</En>
+          <Example>The farmer fenced in his pasture to protect the livestock.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8a5c990a-9f0a-4c7d-9bb4-077a4e0517d2">
+              <Vi>Tình huống xây dựng hoặc lắp đặt hàng rào.</Vi>
+              <En>Scenario involving the act of putting up a fence around a property.</En>
+            </Situation>
+            <Situation id="2b1568b4-0ac5-4b6f-ab04-023ce9e04f0c">
+              <Vi>Tình huống thi đấu đấu kiếm.</Vi>
+              <En>Scenario where two people compete in a fencing match.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

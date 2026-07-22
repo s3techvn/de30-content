@@ -1,0 +1,63 @@
+<Vocab id="c14f2b2c-bbbb-476b-a253-625b78d82f9c" word="worship" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e99e4a69-5994-4afa-839e-50bcfdcaffec" ipa="/ˈwɜːr.ʃɪp/" vi_ipa="woóp-schíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1fa75697-3b23-4938-9a37-fab5673fad99" type="Verb">
+          <Vi>thờ phụng, tôn sùng</Vi>
+          <En>To show deep respect, reverence, or adoration, especially toward a deity; to regard with great admiration or love.</En>
+          <Example>They gather every Sunday to worship God in the old stone church.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="63ea870e-596a-44db-b04e-2ea617c8a9d6">
+              <Vi>Hành động tôn kính, cầu nguyện, dâng lễ cho một vị thần trong nghi thức tôn giáo.</Vi>
+              <En>Participating in a religious ceremony involving prayer, hymns, and offerings to a deity.</En>
+            </Situation>
+            <Situation id="a685a7ea-1f5d-42ca-9f56-7a739961f3af">
+              <Vi>Cảm giác ngưỡng mộ mãnh liệt và tôn sùng một người hoặc điều gì đó (thường mang tính ẩn dụ).</Vi>
+              <En>Feeling intense admiration or devotion toward a person, celebrity, or ideal (often figurative).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c2c70888-4aec-47ab-8fe0-c84b6d726467" ipa="/ˈwɜːr.ʃɪp/" vi_ipa="woóp-schíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b5787e26-a14d-4715-93bb-2f3eb5abb600" type="Noun">
+          <Vi>sự thờ phụng, sự tôn sùng</Vi>
+          <En>The act or practice of showing reverence and adoration to a deity; a religious service or ceremony.</En>
+          <Example>The congregation sang hymns during the morning worship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8806f01-1797-4afa-ba71-e57d5a2a82f7">
+              <Vi>Một buổi lễ tôn giáo chính thức với cầu nguyện, hát thánh ca, và giảng đạo.</Vi>
+              <En>A formal religious service involving prayer, hymns, and a sermon.</En>
+            </Situation>
+            <Situation id="760a75d9-a27e-4180-961c-ec423ff971b6">
+              <Vi>Một hệ thống hoặc phong trào tôn sùng một cá nhân hoặc lý tưởng (thường mang tính châm biếm).</Vi>
+              <En>A system or movement of intense admiration or devotion toward a person or ideal (often ironic or hyperbolic).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
