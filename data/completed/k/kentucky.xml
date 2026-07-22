@@ -1,0 +1,38 @@
+<Vocab id="4dda1552-6c74-457f-bc98-2c1804226b3c" word="kentucky" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="f41871cc-4f11-4a5c-b6cd-bb41a48352db" value="Tourism" />
+    <Profession id="21910a38-ef18-4b27-b3fe-fe1337ee8466" value="Agriculture" />
+    <Profession id="86fb7fe5-ab67-4ac3-8e81-88ee51c93ef6" value="Distilling" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff24744f-7792-4adb-abc4-b7d9dbff4af9" ipa="/ˈkɛn.tə.ki/" vi_ipa="ken-tơ-ki">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6ae36cfb-c56f-4010-bc56-208e24bf8c60" type="Proper Noun">
+          <Vi>Kentucky – một bang ở miền Nam Hoa Kỳ, nổi tiếng với ngựa đua, rượu bourbon và cảnh quan đồi núi.</Vi>
+          <En>Kentucky – a state in the southern United States, famous for horse racing, bourbon whiskey, and rolling hills.</En>
+          <Example>Many tourists visit Kentucky to tour the bourbon distilleries in Louisville.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ac31f0f-834d-4a8a-bbec-c143bf69af43">
+              <Vi>Trong ngữ cảnh địa lý hoặc du lịch, đề cập đến bang Kentucky của Mỹ.</Vi>
+              <En>In geographical or travel contexts, referring to the U.S. state of Kentucky.</En>
+            </Situation>
+            <Situation id="fed0c8c9-a19d-4506-9f89-3059b7dbbe49">
+              <Vi>Khi nói về văn hóa, ẩm thực (đặc biệt là bourbon) hoặc thể thao (đua ngựa Kentucky Derby).</Vi>
+              <En>When discussing culture, cuisine (especially bourbon), or sports (e.g., the Kentucky Derby).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

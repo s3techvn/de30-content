@@ -1,0 +1,40 @@
+<Vocab id="dcb27bfe-5e3f-4b46-845b-2829bebae333" word="prototype" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="9dfd5c84-3c10-4de0-b2ef-17a82eb28241" value="Product Development" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" value="Industrial Designer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f799022-3386-4c33-87a2-aa9ac5c6c095" ipa="/ˈproʊ.tə.taɪp/" vi_ipa="prô-tô-tây-p">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="052134e2-3e96-46bf-84a7-3eab4a708aba" type="Noun">
+          <Vi>Mẫu nguyên mẫu; bản mẫu</Vi>
+          <En>A preliminary model or release of a product built to test a concept or process.</En>
+          <Example>The engineering team unveiled the prototype at the tech expo last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="195b7697-0e3e-4c19-8f6b-95e4a140436f">
+              <Vi>Trong phát triển phần mềm, nhóm kỹ sư trình làng bản mẫu giao diện người dùng để nhận phản hồi sớm.</Vi>
+              <En>In software development, the engineering team presents a UI prototype to gather early user feedback.</En>
+            </Situation>
+            <Situation id="c35f0eb4-ccf9-4262-be11-2b05e880d50a">
+              <Vi>Người thiết kế sản phẩm điều chỉnh bản mẫu cơ khí dựa trên kết quả kiểm tra độ bền.</Vi>
+              <En>The product designer refined the mechanical prototype based on stress-test results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
