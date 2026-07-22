@@ -1,0 +1,40 @@
+<Vocab id="12be59bd-fc81-4806-8cb0-08f6908a0f67" word="interior" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="b66f4445-0ae3-4812-a4e2-ca6f5cb33209" value="Home Stager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="66f9b414-754b-4369-8c9c-616ef992d3e7" ipa="/ɪnˈtɪr.i.ər/" vi_ipa="in-tờ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5689e7e5-ad2f-4f44-99a8-68b63388d269" type="Adjective">
+          <Vi>thuộc về bên trong; nội thất</Vi>
+          <En>being or occurring inside something, especially a building or room; relating to the inside or internal parts.</En>
+          <Example>The interior of the cathedral is beautifully decorated with stained-glass windows.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2b375b5-d2fc-41c7-bc8b-ee072936372f">
+              <Vi>Mô tả không gian bên trong một công trình kiến trúc.</Vi>
+              <En>Describing the space inside a building or structure.</En>
+            </Situation>
+            <Situation id="7f47f50e-61a7-4c0d-8183-5f841928a7da">
+              <Vi>Nhắc đến đồ đạc và trang trí bên trong nhà cửa.</Vi>
+              <En>Referring to furniture, decor, and design inside homes or rooms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
