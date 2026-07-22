@@ -1,0 +1,37 @@
+<Vocab id="efd0cae9-b2a0-4401-93d6-575c23e50fc4" word="nearest" type="short" status="done">
+  <Topics>
+    <Topic id="0719ba40-75b7-4919-90a3-4b207d5485ff" value="Location &amp; Directions" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="98b020fa-8472-483f-8625-bb061c8ccf93" ipa="/ˈnɪr.ɪst/" vi_ipa="nờ-rít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9aef3d51-9ae3-4f9d-af67-5f260f5701ae" type="Adjective">
+          <Vi>gần nhất</Vi>
+          <En>closest in distance or time; most nearby.</En>
+          <Example>Can you tell me the nearest subway station?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a4c8640-e5b9-430a-a955-e2505f1956c7">
+              <Vi>Tìm địa điểm hoặc người ở khoảng cách ngắn nhất so với vị trí hiện tại.</Vi>
+              <En>Locating the closest location or person relative to one’s current position.</En>
+            </Situation>
+            <Situation id="055d9c23-334f-48d2-b538-9977c65b2a1f">
+              <Vi>So sánh thời gian hoặc khoảng cách để xác định đối tượng gần nhất trong một tập hợp.</Vi>
+              <En>Comparing time or distance to identify the closest item in a set.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
