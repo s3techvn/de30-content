@@ -538,3 +538,4 @@ cast
 costume
 teacher
 spider
+pickup
