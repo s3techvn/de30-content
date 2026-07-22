@@ -1,0 +1,32 @@
+<Vocab id="a7af832b-6a47-4727-ae4a-c353b37e61a1" word="alice" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="67978e6f-f265-4562-9425-d05bf418f4f0" ipa="/ˈæl.ɪs/" vi_ipa="en-lít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c5904b80-4af2-4a32-9b4e-6cc1597f46cd" type="Noun">
+          <Vi>Tên riêng: Alice (tên người, thường là nữ)</Vi>
+          <En>A proper noun, typically a female given name.</En>
+          <Example>She read *Alice’s Adventures in Wonderland* to her children.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb22cebb-8f9c-4180-aaaf-08dbf689d088">
+              <Vi>Dùng để chỉ nhân vật trong truyện cổ tích hoặc tên người thật.</Vi>
+              <En>Used to refer to a character in literature or a real person’s name.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
