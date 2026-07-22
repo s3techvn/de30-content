@@ -1,0 +1,50 @@
+<Vocab id="9e898f3b-46d3-4926-bebd-82680f5938e0" word="gale" type="short" status="done">
+  <Topics>
+    <Topic id="e76bc258-c6bd-45e8-bf27-97fd95e37b96" value="Weather" />
+  </Topics>
+  <Professions>
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="833316da-0478-42a6-b51a-fb21c178004c" value="Aviator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="268a55d5-502e-4d74-90a3-12e1eb59fcea" ipa="/ɡeɪl/" vi_ipa="gê-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8436aaa9-6d53-472a-acd6-c65e1b86130c" type="Noun">
+          <Vi>Cơn gió mạnh, cuồng phong (gấp 2–3 lần gió mạnh)</Vi>
+          <En>A very strong wind, especially one with speeds of 34–47 knots (63–87 km/h), often associated with storms or severe weather systems</En>
+          <Example>The fishing boat was tossed about by the gale off the coast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8af519d7-4501-4ca9-bdbf-2d1e23255ddb">
+              <Vi>Mô tả tình huống gió mạnh gây nguy hiểm cho tàu thuyền hoặc hoạt động ngoài trời.</Vi>
+              <En>A situation where extremely strong winds pose danger to maritime or outdoor activities.</En>
+            </Situation>
+            <Situation id="a11e88b6-c7c5-431f-9de7-b39d163606bf">
+              <Vi>Tình huống dự báo thời tiết cảnh báo gale warning.</Vi>
+              <En>A weather forecast issuing a gale warning for coastal or open waters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cdf10670-02e6-4a1b-81c6-d2e589d53341" type="Noun">
+          <Vi>Tuổi già (nghĩa bóng, thường dùng trong văn chương)</Vi>
+          <En>An archaic or poetic term for old age, often implying frailty or decline</En>
+          <Example>He spoke of the gale of his years, not with sorrow, but with quiet acceptance.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="65f21b9b-cab0-40f6-8518-b09e56256013">
+              <Vi>Tình huống sử dụng "gale" trong thơ ca hoặc văn học cổ điển để chỉ tuổi già.</Vi>
+              <En>A literary or poetic context where "gale" metaphorically refers to old age or decline.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
