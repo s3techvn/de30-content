@@ -36,3 +36,4 @@ namely
 neither
 neighbor
 newly
+gear
