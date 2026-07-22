@@ -284,4 +284,6 @@
   <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" slug="healthcare-professional" value="Healthcare Professional" />
   <Profession id="7692404a-1906-4d6d-b967-94490ea1fc3d" slug="office-assistant" value="Office Assistant" />
   <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" slug="law-enforcement" value="Law Enforcement" />
+  <Profession id="da367c8f-a53c-40a6-9383-e566e4b08174" slug="martial-artist" value="Martial Artist" />
+  <Profession id="c3d723e0-cd26-4b94-ba4f-f6d09be3bf1b" slug="performer" value="Performer" />
 </Professions>

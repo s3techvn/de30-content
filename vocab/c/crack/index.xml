@@ -1,0 +1,106 @@
+<Vocab id="a8cfdf69-b124-4bd1-aabd-b72709a265bf" word="crack" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="614d4796-4f41-401e-a824-a37fdf13de90" value="Crime" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" value="Law Enforcement" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ce5fa508-402b-4e8d-9dcc-0421d2e17b67" ipa="/kræk/" vi_ipa="crắc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2aaaec93-d596-4955-b729-50ec8b5f3e88" type="Noun">
+          <Vi>vết nứt; khe hở; sự phá vỡ</Vi>
+          <En>A narrow opening or fissure in a hard surface; a break or failure in a system or structure.</En>
+          <Example>The earthquake caused a crack in the foundation of the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d0e377f-fc76-45bd-b595-06db6b1b671d">
+              <Vi>Mô tả vết nứt trên tường, kính, hoặc mặt đất.</Vi>
+              <En>Describing a fissure in walls, glass, or the ground.</En>
+            </Situation>
+            <Situation id="c690eab2-e36d-4d23-8141-57f5db46aa0c">
+              <Vi>Sự thất bại hoặc điểm yếu trong một kế hoạch hoặc hệ thống.</Vi>
+              <En>A failure or weakness in a plan or system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0d516a77-fbb4-44f5-8c87-ca50a0631324" type="Verb">
+          <Vi>làm nứt; phá vỡ; bẻ gãy</Vi>
+          <En>To break or cause to break with a sharp sound, often without complete separation; to overcome a security system or encryption.</En>
+          <Example>She cracked the walnut between her fingers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f51aad3-00de-4acb-8593-f2af4bd3ea4b">
+              <Vi>Hành động làm vỡ vật rắn như vỏ hạt, đá, hoặc kính.</Vi>
+              <En>Breaking a hard object like a walnut shell, rock, or glass.</En>
+            </Situation>
+            <Situation id="1bc7159d-7299-44ba-a47e-af7daa3e19f3">
+              <Vi>Giải mã mật khẩu hoặc hệ thống bảo mật (thường trong bối cảnh tin học).</Vi>
+              <En>Decoding a password or security system (commonly in computing contexts).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1fc7ca64-efb8-401e-943e-1cc89ce6c6af" type="Noun">
+          <Vi>phim hoạt hình ngắn (trong phim hoạt hình truyền thống); trò đùa</Vi>
+          <En>A short animated film (especially in early animation); a joke or witty remark.</En>
+          <Example>The cartoon featured a classic cartoon crack with exaggerated sound effects.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="b7f9fc73-a776-4d48-8144-de7275f99a0e">
+              <Vi>Thuật ngữ cũ trong ngành hoạt hình để chỉ cảnh hoạt họa hài hước ngắn.</Vi>
+              <En>An old term in animation for a short humorous cartoon gag.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0a764f15-5bf0-439f-99a1-23c26f0f4fac" ipa="/kræk/" vi_ipa="créc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="908cf87c-2765-45c0-8b0b-ad231c684bb4" type="Verb">
+          <Vi>đánh vỡ (trứng); mở rộng (cửa); tăng tốc đột ngột (xe)</Vi>
+          <En>To break (an egg) sharply; to open (a door) suddenly; to accelerate suddenly (of a vehicle).</En>
+          <Example>He cracked the egg on the edge of the bowl and poured it into the pan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b446bbc8-0779-461e-950d-5c5b3e03f18f">
+              <Vi>Hành động đập vỡ trứng khi nấu ăn.</Vi>
+              <En>Breaking an eggshell while cooking.</En>
+            </Situation>
+            <Situation id="6f45687a-6c7d-4278-99aa-0f1792e151cc">
+              <Vi>Mở cửa đột ngột hoặc mạnh mẽ.</Vi>
+              <En>Opening a door suddenly or forcefully.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="df0f73da-d0c8-45a8-b5ea-5e7c3c047b50" type="Verb">
+          <Vi>giải mã (mật mã); vượt qua (rào cản)</Vi>
+          <En>To solve or bypass a complex problem, especially a cryptographic challenge.</En>
+          <Example>The team cracked the code in less than 24 hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ddc130e-d9e0-4e32-9ad7-bb000c6ae1bc">
+              <Vi>Giải mã tin nhắn hoặc dữ liệu bị mã hóa trong an ninh mạng.</Vi>
+              <En>Decoding encrypted messages or data in cybersecurity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
