@@ -1,0 +1,38 @@
+<Vocab id="535a29c3-6110-4200-a3b5-5931b4641a93" word="powerful" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="7d3b2690-b1bc-4a07-9a4c-ae5afd9949a7" value="Business Executive" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e654df8a-45f9-4cec-ba4f-3ba528d8667e" ipa="/ˈpaʊ.ər.fəl/" vi_ipa="pà-ua-ơ-fờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7ccbe7cb-6b2d-47d6-bcf9-0204082ff26e" type="Adjective">
+          <Vi>mạnh mẽ, quyền lực, uy lực</Vi>
+          <En>having great power, influence, or effect</En>
+          <Example>She gave a powerful speech that moved the entire audience to tears.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="815d8587-24fc-487a-8881-84adaafa1f13">
+              <Vi>Mô tả một người hoặc điều có sức ảnh hưởng hoặc sức mạnh vượt trội.</Vi>
+              <En>Describing a person or thing with exceptional strength, influence, or impact.</En>
+            </Situation>
+            <Situation id="04e09002-cc1e-4704-8a73-4e70cafdd014">
+              <Vi>Dùng để nhấn mạnh hiệu quả mạnh mẽ của một chất, thuốc, hoặc tác động.</Vi>
+              <En>Used to emphasize the strong effect of a substance, drug, or influence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
