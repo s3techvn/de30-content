@@ -1,0 +1,110 @@
+<Vocab id="95efb425-0067-47d3-a076-de725901b6e8" word="cast" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="064f63ed-7d75-40d6-b9b5-5e579e1aba67" value="Fishing" />
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1fb67c3-4770-434e-9950-4e99a8aefc26" ipa="/kæst/" vi_ipa="cát">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3fc17f28-ee12-47d1-acb7-98391b8a81b1" type="Verb">
+          <Vi>đổ, rót (kim loại lỏng) vào khuôn</Vi>
+          <En>to pour molten metal or other material into a mold to form a shape</En>
+          <Example>The foundry workers cast the iron parts overnight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73de5863-d4f5-45e1-81e9-53ea74790353">
+              <Vi>Quy trình đúc kim loại trong ngành cơ khí.</Vi>
+              <En>The metal casting process in manufacturing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f97d7a86-facc-494d-bed1-373ad8ee6c13" type="Verb">
+          <Vi>đánh lưới, ném (mồi) xuống nước khi câu cá</Vi>
+          <En>to throw or fling something, especially in fishing or sports</En>
+          <Example>He cast the line far into the lake and waited.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b97e716-ca06-4eda-9e24-2f01dcf45b18">
+              <Vi>Hành động ném dây câu xuống nước.</Vi>
+              <En>The action of throwing a fishing line into water.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1c27ed63-caa7-4c64-bf4f-a0c2c11425fd" type="Verb">
+          <Vi>đóng vai (trong phim, kịch)</Vi>
+          <En>to assign a role to an actor in a film, play, or production</En>
+          <Example>The director cast her as the lead in the new indie film.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9e4744d-c9a4-47ae-9639-324c2c5092b8">
+              <Vi>Việc chọn diễn viên cho vai diễn cụ thể.</Vi>
+              <En>The process of selecting actors for specific roles in a production.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9c85eb8-3bee-4e72-a7b3-53333afd9e17" type="Noun">
+          <Vi>vai diễn (đóng bởi một diễn viên cụ thể)</Vi>
+          <En>a role played by a particular actor in a film or play</En>
+          <Example>He landed the lead cast in the Broadway musical.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6337e3f-ee63-4d6c-b75a-5fe768540785">
+              <Vi>Người được chọn để đóng một vai trong vở kịch.</Vi>
+              <En>The actor selected to perform a specific role in a theatrical production.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aff9c7b4-cb6b-4cee-b03d-8cff65f92868" type="Noun">
+          <Vi>bộ phim, vở kịch (theo nghĩa tập thể)</Vi>
+          <En>the group of actors who perform in a film, play, or production</En>
+          <Example>The cast of the show received a standing ovation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="109b6cd2-91ed-4221-9aab-65796bff09b4">
+              <Vi>Cả nhóm diễn viên cùng biểu diễn một vở kịch.</Vi>
+              <En>All the actors performing together in a theatrical or film production.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6bbe3675-bcc9-40fd-b1f9-adff85d497ad" type="Verb">
+          <Vi>loại bỏ, vứt bỏ (như cảm xúc, thói quen xấu)</Vi>
+          <En>to get rid of something unwanted, especially a habit or feeling</En>
+          <Example>She tried to cast off her fear of public speaking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4526fdfc-5644-4204-8ae2-1fa5e108f413">
+              <Vi>Cố gắng gác bỏ nỗi sợ hãi hoặc thói quen tiêu cực.</Vi>
+              <En>Attempting to overcome or eliminate a negative emotion or habit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7e858cd0-8309-4287-a41c-3f5ae089b74d" type="Noun">
+          <Vi>băng gips, bó bột (trong y tế)</Vi>
+          <En>a hard bandage used to immobilize a broken bone while it heals</En>
+          <Example>The doctor put a cast on his arm after the fracture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="791ed599-fcd0-462e-8af5-be2cc0b0c1f7">
+              <Vi>Bác sĩ bó bột cho bệnh nhân sau gãy xương.</Vi>
+              <En>A medical professional applying a plaster or fiberglass cast to stabilize a broken bone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
