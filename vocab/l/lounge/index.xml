@@ -1,0 +1,55 @@
+<Vocab id="ae314c0e-9281-45f1-80df-27ab063d80e5" word="lounge" type="short" status="done">
+  <Topics>
+    <Topic id="340a6325-d166-4fad-ae5c-f11b9c34dd64" value="Travel and Hospitality" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b214c948-1931-40f4-9cdb-8701d2eaec15" value="Hotel Staff" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="722a3c0e-5483-43dc-887c-9bf6bf3254c7" ipa="/laʊndʒ/" vi_ipa="la-un-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b0f57a8b-4268-4518-af69-5ebd1e789fa1" type="Noun">
+          <Vi>phòng chờ; phòng tiếp khách; phòng nghỉ (ở sân bay, nhà ga, khách sạn)</Vi>
+          <En>A comfortable room or area in a hotel, airport, or other public building where people can sit and relax.</En>
+          <Example>The airline offers lounge access to business-class passengers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56d35d28-5f8b-47b9-8b50-295ef10b7cb6">
+              <Vi>Người đi máy bay nghỉ ngơi trước khi lên tàu bay.</Vi>
+              <En>A traveler relaxes in an airport lounge before boarding their flight.</En>
+            </Situation>
+            <Situation id="30caa298-a790-44e1-81e0-4fda96313f0c">
+              <Vi>Khách sạn có phòng chờ sang trọng cho khách hàng cao cấp.</Vi>
+              <En>The hotel features a luxury lounge for its premium guests.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6a92e75e-b539-4817-8fba-97f85509b766" type="Verb">
+          <Vi>nghỉ ngơi; nằm dài; thư giãn (thường ở nơi thoải mái)</Vi>
+          <En>To relax or recline in a comfortable and idle way, often in a lounge or similar setting.</En>
+          <Example>After work, he likes to lounge on the sofa and watch TV.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0a8653a-7199-4b7b-beac-3d6a00857b14">
+              <Vi>Sau bữa ăn trưa, cô ấy nằm dài trên ghế sofa.</Vi>
+              <En>After lunch, she lounged on the sofa reading a magazine.</En>
+            </Situation>
+            <Situation id="0f560385-49ce-40d3-852a-3e2eea7f171b">
+              <Vi>Họ lounge bên bể bơi trong kỳ nghỉ dưỡng.</Vi>
+              <En>They lounged by the pool during their vacation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

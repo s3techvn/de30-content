@@ -1,0 +1,52 @@
+<Vocab id="a30aef58-5b8c-4608-aa6d-a21936ae2164" word="reef" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="3f0235b9-1028-4b5b-9e7c-95d2c5c01055" value="Marine Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="21961fca-acb8-4bdd-82c6-b83cc1c18a6e" value="Diver" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="524e947a-c9b0-4741-9e7f-519d7ada3f3c" ipa="/riːf/" vi_ipa="ri:ph">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41d7deef-4282-4d8e-8c11-79e5b55548b5" type="Noun">
+          <Vi>San hô (hệ sinh thái đá ngầm hoặc rạn san hô)</Vi>
+          <En>A ridge of rocks, coral, or sand at or near the surface of the sea, often forming a barrier or habitat for marine life.</En>
+          <Example>The colorful reef teems with fish, sea turtles, and vibrant coral species.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="551b6d39-f356-4210-9252-87a9581cbb15">
+              <Vi>Mô tả địa hình dưới nước do san hô tạo thành, thường được nhìn thấy khi lặn biển.</Vi>
+              <En>A underwater ridge formed by coral, commonly observed during scuba diving.</En>
+            </Situation>
+            <Situation id="1f3c74cb-f6e5-4541-abcb-1efd4e414352">
+              <Vi>Rạn san hô là nơi cư trú của nhiều loài sinh vật biển và có vai trò bảo vệ bờ biển.</Vi>
+              <En>Coral reefs serve as habitats for marine species and help protect shorelines from erosion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="71df2f1c-2686-405b-ad49-e84136b3052d" type="Noun">
+          <Vi>Đá ngầm nguy hiểm (dưới mặt nước), có thể gây hỏng tàu thuyền</Vi>
+          <En>A hidden or partially submerged rock or coral formation that poses a hazard to navigation.</En>
+          <Example>The ship narrowly avoided running aground on the reef during the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0f701be2-c940-44ff-aa86-d70f0c79e6f6">
+              <Vi>Tình huống tàu bị đắm do va vào đá ngầm dưới biển.</Vi>
+              <En>A situation where a vessel runs aground or is damaged after hitting a submerged reef.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
