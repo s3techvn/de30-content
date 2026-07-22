@@ -1,0 +1,36 @@
+<Vocab id="181fc87e-8454-4b96-9032-3d98a58fb236" word="featured" type="short" status="done">
+  <Topics>
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1b195b86-ad0b-4366-a595-08de5ab0666b" ipa="/ˈfiː.tʃərd/" vi_ipa="phi-đờ-chia">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd1f80e8-5ffe-47b8-9d41-1e2042707bb3" type="Adjective">
+          <Vi>được giới thiệu nổi bật; được chọn làm điểm nhấn</Vi>
+          <En>prominently displayed or highlighted, especially in a publication, website, or event.</En>
+          <Example>The restaurant was featured in the magazine’s “Top 10 Dining Spots” list.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="63f548ac-eec4-4bb5-8cbb-46035eb72343">
+              <Vi>Một bài viết hoặc sản phẩm được chọn để đặt ở vị trí nổi bật trên trang chủ hoặc trong một ấn phẩm.</Vi>
+              <En>A product, article, or person is given special visibility or emphasis in media or on a platform.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
