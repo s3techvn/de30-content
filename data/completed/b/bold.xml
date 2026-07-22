@@ -1,0 +1,55 @@
+<Vocab id="ebe5fd6e-3e00-495e-a244-760826065391" word="bold" type="short" status="done">
+  <Topics>
+    <Topic id="2e809121-46a8-43c4-a499-a1333620207e" value="Personality &amp; Behavior" />
+    <Topic id="952d788e-3612-4f63-91cb-cf08c82fd8ef" value="Design &amp; Typography" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="90f1e60a-cc98-4de2-a378-893d984d4357" ipa="/boʊld/" vi_ipa="bôn-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c9a7e9b-e7b6-4a62-a622-67bd6b94e93d" type="Adjective">
+          <Vi>can đảm, dũng cảm, táo bạo</Vi>
+          <En>showing a willingness to take risks or to be different; courageous and confident.</En>
+          <Example>She made a bold decision to quit her job and start her own business.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8bbbc389-67ee-4e71-9416-4916d22d0f41">
+              <Vi>Mô tả người dám đối mặt với nguy hiểm hoặc phản đối dư luận.</Vi>
+              <En>Describes someone who dares to face danger or challenge public opinion.</En>
+            </Situation>
+            <Situation id="bfba6ba9-d28f-4b61-a461-fb61739fcd74">
+              <Vi>Mô tả hành động hoặc phong cách thể hiện sự tự tin mạnh mẽ.</Vi>
+              <En>Describes an action or style that shows strong self-confidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1c444374-7d17-44d7-b68b-28ad0f152266" type="Adjective">
+          <Vi>đậm, đậm nét (thường nói về chữ in hoặc màu sắc)</Vi>
+          <En>(of text or design) strongly marked, printed, or colored; strikingly vivid or intense.</En>
+          <Example>The report used bold headings and bright colors to highlight key points.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ffcfdfce-dbf9-4054-b50c-4b26989a9932">
+              <Vi>Mô tả phông chữ in đậm trong thiết kế văn bản.</Vi>
+              <En>Describes a font style that is heavily weighted or thickened in printed text.</En>
+            </Situation>
+            <Situation id="52bec1d2-f06a-43ac-b2ab-673cff0f1341">
+              <Vi>Mô tả màu sắc nổi bật, mạnh mẽ trong trang phục hoặc nghệ thuật.</Vi>
+              <En>Describes vivid, intense colors in fashion or art that stand out prominently.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
