@@ -1,0 +1,50 @@
+<Vocab id="5e80749f-a32c-49cb-a501-31114c603dc9" word="translation" type="short" status="done">
+  <Topics>
+    <Topic id="6172afb0-8c07-4423-87c2-ab82308db2d0" value="Language &amp; Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="a37afd03-4d03-4a3b-b835-9729c309b956" value="Interpreter" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="78752584-e3f8-4b4a-bb67-709badd930c3" ipa="/ˌtræn.zlˈeɪ.ʃən/" vi_ipa="trờn-dz-lê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6c998a95-6f57-4b41-9b7b-6fd038a84e1f" type="Noun">
+          <Vi>Bản dịch; sự dịch thuật</Vi>
+          <En>The process of converting text from one language to another, or the resulting text.</En>
+          <Example>The translation of the novel into Vietnamese was completed last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="99ca0f9f-77e0-4ae7-ba6d-36723713085b">
+              <Vi>Người dịch làm việc với bản gốc để tạo ra bản dịch chính xác.</Vi>
+              <En>A translator works with the original text to produce an accurate version in another language.</En>
+            </Situation>
+            <Situation id="c4300956-8519-4415-8457-52497eb339e2">
+              <Vi>Bản dịch sách thường được kiểm tra kỹ lưỡng để đảm bảo độ trung thực.</Vi>
+              <En>Book translations are often carefully reviewed to ensure fidelity to the original.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8742170c-f041-4c7f-b980-e6e34a5d9456" type="Noun">
+          <Vi>Sự chuyển đổi, chuyển hóa (trong ngữ cảnh rộng hơn)</Vi>
+          <En>A change in form, nature, or function; a metaphorical conversion.</En>
+          <Example>The translation of raw data into actionable insights is crucial for decision-making.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54c84505-edc5-436a-a6be-8eefcf584911">
+              <Vi>Chuyển đổi dữ liệu thô thành thông tin hữu ích trong phân tích kinh doanh.</Vi>
+              <En>Converting raw data into useful information in business analytics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
