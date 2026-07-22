@@ -1,0 +1,49 @@
+<Vocab id="4cd1da45-edc4-459f-bdf8-6f7540af715d" word="wearing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e269d06-c9fc-43ce-9125-462c27991f4e" ipa="/ˈwer.ɪŋ/" vi_ipa="o-ua-rin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f01f2c2b-1b28-4426-8fc0-86c93c023ccf" type="Verb">
+          <Vi>đang mặc, đang đội, đang đeo (hình ảnh, trang sức, v.v.)</Vi>
+          <En>having something on one’s body, especially clothing, accessories, or makeup.</En>
+          <Example>She’s wearing a blue dress and gold earrings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bbb63279-7d78-4310-8f1b-2e12697983e5">
+              <Vi>Mô tả người đang mặc đồ hoặc đeo vật trang trí.</Vi>
+              <En>Describing someone currently dressed in or adorned with particular items.</En>
+            </Situation>
+            <Situation id="0251d256-eb6e-4be0-963e-7c1748c2d580">
+              <Vi>Dùng trong ngữ cảnh so sánh trang phục hoặc phong cách.</Vi>
+              <En>Used when comparing outfits or personal styles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ea9b57d4-1fdc-4842-b300-71140c74fea6" type="Adjective">
+          <Vi>mòn, rách, cũ do sử dụng lâu</Vi>
+          <En>damaged or deteriorated from long use; frayed, faded, or threadbare.</En>
+          <Example>The old sofa was wearing and needed reupholstering.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="406137f8-a2b2-47ff-9d81-91027ff4daaa">
+              <Vi>Mô tả quần áo, giày, hoặc đồ dùng bị cũ do dùng lâu.</Vi>
+              <En>Describing clothing, shoes, or items worn down by regular use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
