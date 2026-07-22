@@ -1,0 +1,38 @@
+<Vocab id="a79078b7-b522-4608-bf7d-3e794beed8d9" word="prefix" type="short" status="done">
+  <Topics>
+    <Topic id="d55b8deb-3820-44b9-9910-05c552d3588c" value="Linguistics" />
+  </Topics>
+  <Professions>
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7bb4a4b5-9b8b-4f8e-b3d6-2a197072979a" ipa="/ˈpriː.fɪks/" vi_ipa="p-ri-fooc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c4871e7-4cd8-41c5-acce-02df896eb516" type="Noun">
+          <Vi>tiền tố</Vi>
+          <En>A letter or group of letters added to the beginning of a word to modify its meaning, such as “un-” in “unhappy” or “pre-” in “preview”.</En>
+          <Example>Adding the prefix “re-” to “write” creates the word “rewrite”.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f064753-3d3f-4156-bdef-5e6f40d73129">
+              <Vi>Trong ngữ pháp tiếng Anh, khi giải thích cách tạo từ bằng cách thêm phần đầu.</Vi>
+              <En>In English grammar, when explaining word formation by adding a beginning segment.</En>
+            </Situation>
+            <Situation id="f55c6bcb-78af-4d0e-be00-f3938cf7f595">
+              <Vi>Trong lập trình, tên biến có thể bắt đầu bằng tiền tố mô tả kiểu dữ liệu (ví dụ: strName, intCount).</Vi>
+              <En>In programming, variable names may begin with a prefix indicating data type (e.g., strName, intCount).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
