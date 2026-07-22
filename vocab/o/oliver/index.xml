@@ -1,0 +1,35 @@
+<Vocab id="35d63cad-fde6-4014-9a49-90397a99e3a3" word="oliver" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9dbc33a7-fd5c-4dbd-afd8-08d358685597" ipa="/ˈɒl.ɪ.vər/" vi_ipa="ố-lí-vơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="37eb9d72-bb6e-4e53-b128-17710e6b81ad" type="Noun">
+          <Vi>Cây ô liu; quả ô liu</Vi>
+          <En>A small evergreen tree (Olea europaea) native to the Mediterranean region, or its edible fruit, typically used in cooking and as a source of olive oil.</En>
+          <Example>The garden features a mature olive tree that produces fruit every autumn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db054749-a677-4308-bb17-972d9332ca6d">
+              <Vi>Mô tả cây hoặc quả ô liu trong ẩm thực hoặc nông nghiệp.</Vi>
+              <En>Referring to the olive tree or its fruit in culinary, agricultural, or botanical contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

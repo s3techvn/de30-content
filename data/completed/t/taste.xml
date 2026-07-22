@@ -1,0 +1,71 @@
+<Vocab id="fd3c48e0-3438-4d59-bad5-d682df2bfbb7" word="taste" type="short" status="done">
+  <Topics>
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+    <Topic id="84ed5549-bef7-4f59-a56f-420ee3ac2040" value="Sensory Perception" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+    <Profession id="2e879591-897b-4581-afd7-816c3860171f" value="Wine Sommelier" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="95edf8a0-07fe-45b3-9386-5aa56d92d202" ipa="/teɪst/" vi_ipa="tết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="26ae9b50-f796-4f6e-b129-cea0b0257fe7" type="Noun">
+          <Vi>vị (được cảm nhận bằng miệng)</Vi>
+          <En>The sense of flavor perceived in the mouth when food or drink is held there; a specific flavor or mixture of flavors.</En>
+          <Example>I can't eat this soup—it has no taste.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="89d19289-456e-4910-8dad-29a9a42b1183">
+              <Vi>Mô tả cảm giác vị chua, ngọt, mặn, đắng, umami trong món ăn.</Vi>
+              <En>Describing sweet, sour, salty, bitter, or umami sensations in food.</En>
+            </Situation>
+            <Situation id="13f90d6f-0cff-482e-8e90-72d551ba58c6">
+              <Vi>Thử một ít món ăn để đánh giá hương vị.</Vi>
+              <En>Tasting a small amount of food to evaluate its flavor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8a98b08e-dcb5-45ae-abe6-3d5469f23f0c" type="Verb">
+          <Vi>nếm, thử vị</Vi>
+          <En>To perceive the flavor of something by putting it in one's mouth and swallowing or holding it there briefly.</En>
+          <Example>She tasted the sauce to see if it needed more salt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6dc7fcf-ea70-4b23-aca2-c53db7584374">
+              <Vi>Nếm thử món ăn đang nấu để điều chỉnh gia vị.</Vi>
+              <En>Tasting a dish being cooked to adjust seasoning.</En>
+            </Situation>
+            <Situation id="1159fc9b-9fc2-4954-b45f-9bafe85c376c">
+              <Vi>Thử một món mới lần đầu tiên.</Vi>
+              <En>Trying a new dish for the first time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="82d2ed9e-2f95-4b64-9552-74aa7797b95c" type="Noun">
+          <Vi>sở thích, gu (về nghệ thuật, thời trang, v.v.)</Vi>
+          <En>A person's preferences or aesthetic judgment, especially in matters of art, fashion, or culture.</En>
+          <Example>Her taste in music is very eclectic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85d0955c-17e0-4179-840e-6538226a0f56">
+              <Vi>Đánh giá gu thẩm mỹ của một người qua cách ăn mặc.</Vi>
+              <En>Evaluating someone's aesthetic preferences through their clothing choices.</En>
+            </Situation>
+            <Situation id="a70fe0f3-2819-48b3-a516-5b3c601dc1a5">
+              <Vi>Tranh luận về gu âm nhạc của nhau.</Vi>
+              <En>Discussing or debating each other's musical preferences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
