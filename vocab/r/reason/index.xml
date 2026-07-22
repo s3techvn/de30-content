@@ -1,0 +1,70 @@
+<Vocab id="86e9aafa-7c61-451e-aa7b-6b311b003290" word="reason" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b325425-4a7c-45cb-8572-481809244617" ipa="/ˈriː.zən/" vi_ipa="ri-dơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fe3ab0b3-4e4f-4cc2-b974-64fbbd54a472" type="Noun">
+          <Vi>Lý do</Vi>
+          <En>A cause, explanation, or justification for an action or event.</En>
+          <Example>She gave a valid reason for being late.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d64b8ae-736b-4cab-aefc-1890b1937a96">
+              <Vi>Một người giải thích tại sao họ làm điều gì đó.</Vi>
+              <En>A person explains why they did something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a0b72eda-a768-45bf-87a7-59cc918e7815" type="Verb">
+          <Vi>Suy luận, lập luận</Vi>
+          <En>To think, understand, and form judgments in a logical way.</En>
+          <Example>He reasoned that if he left now, he would arrive on time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51d6abc9-781a-4008-8fab-35bc972e4034">
+              <Vi>Sử dụng logic để đưa ra kết luận.</Vi>
+              <En>Using logic to reach a conclusion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="87aa35c4-53de-49eb-8ce9-ac8c907155dc" ipa="/ˈriː.zən/" vi_ipa="ri-dơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40bd43a9-7805-4536-b582-1afdf19f9bf5" type="Noun">
+          <Vi>Sức lý luận, năng lực suy nghĩ hợp lý</Vi>
+          <En>The capacity for logical, rational thought.</En>
+          <Example>Even in chaos, she tried to act with reason.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42de9708-ae97-4aa3-9370-b337072b41d5">
+              <Vi>Trái ngược với cảm xúc; hành động dựa trên suy nghĩ thay vì cảm xúc.</Vi>
+              <En>Contrasted with emotion; acting based on thought rather than feeling.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
