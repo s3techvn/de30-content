@@ -1,0 +1,40 @@
+<Vocab id="bf44815c-8315-4110-b0e4-bab1650976da" word="neutral" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf695b56-3005-48ca-9250-3a4cf1e6d21c" ipa="/ˈnuː.trəl/" vi_ipa="nít-trờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35aca16a-f18b-4742-af7d-22032ae4ef47" type="Adjective">
+          <Vi>trung lập; không thiên vị; không màu sắc</Vi>
+          <En>not supporting or favoring any side in a conflict, argument, or political struggle; impartial; also, having no strong color, flavor, or distinctive characteristics.</En>
+          <Example>The diplomat maintained a neutral stance during the negotiations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84746448-4cbf-40ec-afe2-69b39f17a279">
+              <Vi>Tình huống một quốc gia không tham gia vào chiến tranh giữa các nước khác.</Vi>
+              <En>A country refusing to take sides in a war between other nations.</En>
+            </Situation>
+            <Situation id="f9d6c25d-ce5c-43cd-a6c2-1fcf4b9c9334">
+              <Vi>Tình huống một chất hóa học không làm đổi màu giấy quỳ.</Vi>
+              <En>A chemical substance that does not change the color of litmus paper.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

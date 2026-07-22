@@ -722,3 +722,4 @@ effort
 tried
 quit
 fuzzy
+hotel
