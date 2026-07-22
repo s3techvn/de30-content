@@ -1,0 +1,38 @@
+<Vocab id="3c61c420-7557-4e0d-b276-76ebb717b86a" word="varied" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86fc2413-1a8e-44cc-9ea5-4822527b6987" ipa="/ˈveə.ri.eɪd/" vi_ipa="vây-ê-ri-ét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35d01c35-fe0d-41ad-b05c-b60289e01151" type="Adjective">
+          <Vi>đa dạng, phong phú, nhiều loại khác nhau</Vi>
+          <En>consisting of many different types or elements; diverse.</En>
+          <Example>The restaurant offers a varied menu to suit all tastes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ffa4e72-1758-4d14-a80c-8e4d944140d0">
+              <Vi>Mô tả một tập hợp có nhiều yếu tố, chủng loại, hoặc loại hình khác nhau.</Vi>
+              <En>Describing a collection that includes many different kinds of things.</En>
+            </Situation>
+            <Situation id="ad3e1304-0fd2-4919-bb01-bf136efc8515">
+              <Vi>Dùng để khen ngợi sự phong phú trong nội dung, thiết kế, hoặc trải nghiệm.</Vi>
+              <En>Used to praise richness or diversity in content, design, or experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
