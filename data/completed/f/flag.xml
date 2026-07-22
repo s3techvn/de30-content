@@ -1,0 +1,58 @@
+<Vocab id="41ebb2e1-6a77-4b6f-bfec-6e940f085507" word="flag" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c3784e7-6ecb-45dd-a403-8d926ecd47fd" ipa="/flæɡ/" vi_ipa="phlê-gờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c43efe5c-de2b-4eb8-8f50-454331757776" type="Noun">
+          <Vi>Cờ (vật liệu vải có hoa văn, biểu tượng, dùng để đại diện cho quốc gia, tổ chức, sự kiện...)</Vi>
+          <En>A piece of fabric, often rectangular, with a distinctive design, used as a symbol, especially of a nation or organization.</En>
+          <Example>The national flag was raised at sunrise during the ceremony.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f2ca4b4-d9bc-4cfa-abdf-792b33d43b27">
+              <Vi>Quân đội treo cờ hiệu để xác định đơn vị hoặc quốc tịch.</Vi>
+              <En>Military units display flags to identify their nationality or affiliation.</En>
+            </Situation>
+            <Situation id="4c6032b7-fb06-4a08-9420-22da803df8a6">
+              <Vi>Cờ được treo trong các sự kiện thể thao quốc tế để đại diện cho các quốc gia.</Vi>
+              <En>Flags are displayed at international sporting events to represent participating countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="528adecb-b304-49fd-beed-50fa1e792ee4" type="Verb">
+          <Vi>Cắm cờ; đánh dấu bằng cờ; đánh dấu (để nhận biết); (tin học) đánh dấu (một mục trong danh sách, email, v.v.) để xử lý sau</Vi>
+          <En>To mark something with a flag, especially to draw attention to it or to mark it for follow-up action.</En>
+          <Example>Please flag this email so you can review it later.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a33b0438-d1d2-48f5-a49c-76d546ba0e3b">
+              <Vi>Người quản lý dự án yêu cầu nhân viên đánh dấu các nhiệm vụ khẩn cấp trong hệ thống.</Vi>
+              <En>The project manager asked staff to flag urgent tasks in the system.</En>
+            </Situation>
+            <Situation id="7c566be7-f74a-4eaf-88b5-f777df3a173f">
+              <Vi>Trong thể thao, trọng tài tung cờ để báo hiệu vi phạm.</Vi>
+              <En>In sports, the referee waves a flag to signal a foul or violation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
