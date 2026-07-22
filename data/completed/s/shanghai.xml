@@ -1,0 +1,47 @@
+<Vocab id="cc9ac0e5-8133-48a0-8eb1-32e498a3bdc8" word="shanghai" type="short" status="done">
+  <Topics>
+    <Topic id="deb0a971-38e2-4a90-b452-a6762f504d68" value="Travel &amp; Transport" />
+    <Topic id="bd1c564c-2189-4634-bbef-8af8eb5343e6" value="Crime &amp; Legal" />
+  </Topics>
+  <Professions>
+    <Profession id="ec5ee986-ced5-4c0d-9c84-5ceb9f091a57" value="Seafarer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" value="Law Enforcement" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd70dfaf-35f1-4113-aba5-7613cdb720ea" ipa="/ˌʃæŋˈhaɪ.ɡəʊ/" vi_ipa="săng-hai-gơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ce4afaa8-529d-4f62-869c-e463870774de" type="Verb">
+          <Vi>buộc hoặc lừa ai đó lên tàu biển để làm thủy thủ, thường là bằng cách giam cầm hoặc đánh đập</Vi>
+          <En>to kidnap or deceive someone into serving as a sailor on a ship, often by force or deception</En>
+          <Example>Historical accounts say unscrupulous captains would often shanghai sailors in port cities.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="c36758eb-fae6-4071-ab8b-ad8b2db5cb83">
+              <Vi>Tình huống trong thế kỷ 19 khi thủy thủ tàu biển bị cưỡng bức lên tàu mà không có sự đồng ý.</Vi>
+              <En>A 19th-century maritime practice where sailors were forcibly taken aboard ships without consent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cf212ebd-92df-4d47-bcbd-2fc825902347" type="Verb">
+          <Vi>lừa gạt hoặc ép buộc ai đó làm điều gì đó (thường là điều không mong muốn)</Vi>
+          <En>to coerce or trick someone into doing something, especially something undesirable</En>
+          <Example>He felt he was shanghaied into attending the meeting he had no interest in.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="398029aa-f3fa-41f1-8cf3-bc411f29528d">
+              <Vi>Tình huống khi ai đó bị ép tham gia hoạt động mà họ không muốn, ví dụ như họp hành, tiệc tùng.</Vi>
+              <En>A situation where someone is pressured or tricked into participating in an unwanted activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
