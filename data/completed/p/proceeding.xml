@@ -1,0 +1,52 @@
+<Vocab id="10004b49-4efd-4a94-8263-905bb1570c47" word="proceeding" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" value="Business Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="013e3a66-6fb5-4a0a-a756-8c6cec2845f1" ipa="/prəˈsiː.dɪŋ/" vi_ipa="pruh-see-ding">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ea8d0426-ed99-4740-b08d-31093f163f1a" type="Noun">
+          <Vi>Hành vi, tiến trình, thủ tục</Vi>
+          <En>An action or process of doing something, especially a formal or legal process</En>
+          <Example>The company is reviewing the proceeding of the merger to ensure compliance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0746596c-494c-45d1-864a-c3dcf21be38d">
+              <Vi>Mô tả một chuỗi hành động hoặc bước trong một thủ tục pháp lý hoặc kinh doanh.</Vi>
+              <En>Describes a sequence of actions or steps in a legal or business procedure.</En>
+            </Situation>
+            <Situation id="583bbf0f-4e96-4fcc-abef-d242fdc7ab05">
+              <Vi>Dùng trong báo cáo hoặc tài liệu chính thức để chỉ các bước đang diễn ra.</Vi>
+              <En>Used in formal reports or documents to refer to ongoing steps or actions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="74b5a91c-a484-4295-a2ec-3766f1cb961e" type="Noun">
+          <Vi>Các vụ kiện, các thủ tục tố tụng (số nhiều)</Vi>
+          <En>Legal actions or court processes (used in plural form)</En>
+          <Example>The court is currently handling several civil proceedings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c809a31-a8b8-4d16-981f-7d8f762f9ce8">
+              <Vi>Mô tả các vụ kiện hoặc thủ tục pháp lý đang được xử lý.</Vi>
+              <En>Describes lawsuits or legal processes currently being handled by a court.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

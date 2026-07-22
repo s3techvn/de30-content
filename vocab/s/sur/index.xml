@@ -1,0 +1,32 @@
+<Vocab id="9058dc22-26c7-4474-b9ea-5484b8d17021" word="sur" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d403bde-4940-4f3b-8ecd-8c333121739e" ipa="/sɜːr/" vi_ipa="xờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="43927cf6-f2b0-4d52-8bfe-c6c0bf92d1ca" type="Adjective">
+          <Vi>đã chín tới mức quá chín, nát nhừ (thường nói về thực phẩm)</Vi>
+          <En>overly ripe or cooked to the point of being mushy or overdone (used especially of food)</En>
+          <Example>The bananas were sur and unpalatable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20949947-86c2-45ef-a586-a1d9f4dd259e">
+              <Vi>Mô tả trái cây hoặc món ăn bị nấu hoặc chín tự nhiên quá mức, mất độ giòn và hương vị.</Vi>
+              <En>Describing fruit or a dish that has been overripe or overcooked, losing its texture and flavor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
