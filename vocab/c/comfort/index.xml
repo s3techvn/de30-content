@@ -1,0 +1,57 @@
+<Vocab id="0b50699d-5864-4987-a0e5-ab755b40ef12" word="comfort" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fc04e3bf-e163-4462-a124-b6c812941a84" value="Health &amp; Well-being" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f70fae4-3398-4cc7-b540-9afcc44b1853" ipa="/ˈkʌm.fət/" vi_ipa="càm-fờ-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45800c01-c79e-424b-90c8-6270e2793681" type="Noun">
+          <Vi>Sự an ủi; sự dễ chịu; điều làm dịu nỗi buồn</Vi>
+          <En>The state of physical ease and freedom from pain or distress; also, emotional consolation or reassurance</En>
+          <Example>She found comfort in her friend’s kind words after the loss.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ff28bb3-583f-4d0d-aa17-161454489207">
+              <Vi>Tình huống khi một người đang buồn hoặc đau khổ và được lời nói, hành động, hay môi trường làm dịu đi.</Vi>
+              <En>A situation where someone is distressed and receives emotional or physical relief.</En>
+            </Situation>
+            <Situation id="43c28c02-eac8-492d-9930-90a90bebcb95">
+              <Vi>Tình huống sử dụng vật dụng như chăn ấm, gối êm để tạo cảm giác dễ chịu.</Vi>
+              <En>A situation involving physical items (e.g., soft blankets, comfortable chairs) used to enhance physical ease.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e34b88d9-1a4c-4db2-af79-a71b2d5b1316" type="Verb">
+          <Vi>Đ安慰; làm dịu nỗi buồn; làm bớt đau đớn</Vi>
+          <En>To reduce grief, anxiety, or physical pain; to console or reassure someone</En>
+          <Example>He tried to comfort his crying child by holding him close.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94654c4e-f168-49e0-9eec-6396bf524b59">
+              <Vi>Tình huống khi bạn dùng lời nói hoặc hành động để giúp người khác cảm thấy bớt buồn hoặc lo âu.</Vi>
+              <En>A situation where you offer emotional support to someone who is sad or anxious.</En>
+            </Situation>
+            <Situation id="c3fc4fea-3134-460b-ae0b-8a0d6cc6ef71">
+              <Vi>Tình huống khi bạn làm giảm cơn đau thể chất bằng cách xoa bóp, chườn ấm, v.v.</Vi>
+              <En>A situation where physical measures are used to alleviate bodily discomfort or pain.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
