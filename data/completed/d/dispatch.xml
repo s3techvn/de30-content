@@ -1,0 +1,56 @@
+<Vocab id="79b1219c-d132-4f78-95d3-92ca44742eb9" word="dispatch" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e80a6888-f532-4e71-8dbe-d79a0f87a1fd" ipa="/dɪˈspætʃ/" vi_ipa="địp-sết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="90d75cda-2f02-443f-9c48-64fb344de910" type="Verb">
+          <Vi>phái đi, gửi đi (đặc biệt là người hoặc hàng hóa một cách khẩn trương)</Vi>
+          <En>to send someone or something somewhere, especially urgently or for a specific purpose</En>
+          <Example>The company dispatched a team to assess the damage after the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="daccc562-61d0-46e9-b630-b557b7892621">
+              <Vi>Tình huống trong đó một nhóm nhân viên được gửi đến hiện trường khẩn cấp.</Vi>
+              <En>A scenario where a team is sent to an emergency site to respond quickly.</En>
+            </Situation>
+            <Situation id="f2a610c0-e638-4174-8e57-4e5b47cbbf63">
+              <Vi>Việc gửi hàng hóa từ kho đến khách hàng sau khi đơn hàng được xác nhận.</Vi>
+              <En>The act of sending goods from a warehouse to a customer after order confirmation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cc5f609a-3733-4975-952b-b532776deb13" type="Noun">
+          <Vi>sự phái đi, sự gửi đi; (quân sự) người được phái đi; (thư tín) tin nhắn khẩn</Vi>
+          <En>the act of sending someone or something, especially urgently; in military contexts, a person or message sent on a mission</En>
+          <Example>The dispatch of the relief supplies was delayed due to bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54651702-6aca-4f7b-a134-80340df2f5c8">
+              <Vi>Tình huống báo cáo khẩn từ chiến trường được gọi là "dispatch".</Vi>
+              <En>A military report sent urgently from the battlefield is called a dispatch.</En>
+            </Situation>
+            <Situation id="1158c005-4f76-4f2a-bd50-0d631c23e279">
+              <Vi>Công việc tại trung tâm điều phối: xử lý và ghi nhận các lệnh dispatch xe cứu thương.</Vi>
+              <En>Work at a dispatch center: processing and logging dispatch orders for ambulances.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

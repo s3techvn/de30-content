@@ -1,0 +1,37 @@
+<Vocab id="4657f063-613d-40c7-b62f-25b8123c8f3b" word="bowling" type="short" status="done">
+  <Topics>
+    <Topic id="70e0c39b-5d53-489b-8eb4-71344671b917" value="Sports &amp; Recreation" />
+  </Topics>
+  <Professions>
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f19de466-c5c8-457d-a298-7eb35941fc1c" ipa="/ˈboʊ.lɪŋ/" vi_ipa="bơ-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="24662478-f719-41d6-b7d6-0e32c0c44d35" type="Noun">
+          <Vi>trò ném bóng (trong bowling)</Vi>
+          <En>A sport or game in which players roll a heavy ball down a lane to knock down ten pins arranged in a triangle.</En>
+          <Example>She practices bowling every Saturday evening at the local alley.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="266ff9d3-19dd-4440-b092-e17bde0b4453">
+              <Vi>Hoạt động giải trí phổ biến ở Mỹ, thường chơi trong trung tâm bowling với bạn bè hoặc gia đình.</Vi>
+              <En>A popular recreational activity in the U.S., typically played at a bowling alley with friends or family.</En>
+            </Situation>
+            <Situation id="dbc73228-f17e-4a71-a8e3-a26c0c556c5b">
+              <Vi>Cuộc thi ném bóng chuyên nghiệp với điểm số được tính tự động.</Vi>
+              <En>A professional bowling competition with scores automatically tallied by the system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
