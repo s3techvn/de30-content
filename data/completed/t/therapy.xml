@@ -1,0 +1,38 @@
+<Vocab id="55ea7e38-f145-46f5-a5b4-a3e44561d010" word="therapy" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="c42c8b2c-3db3-40e2-b706-3c384c224a88" value="Occupational Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a9eb583-7496-415d-8aeb-6314173e1386" ipa="/ˈθer.ə.pi/" vi_ipa="thê-rơ-pi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0717d2e-4b0b-4118-b301-9798f150a2d2" type="Noun">
+          <Vi>liệu pháp; trị liệu</Vi>
+          <En>A treatment intended to relieve or heal a disorder or illness, especially psychological or physical.</En>
+          <Example>She began cognitive behavioral therapy to manage her anxiety.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a589192e-e879-4207-a50a-e1cc6bb5d62a">
+              <Vi>Bệnh nhân bắt đầu liệu pháp tâm lý sau khi chấn thương tinh thần.</Vi>
+              <En>The patient started psychological therapy after a mental trauma.</En>
+            </Situation>
+            <Situation id="281ecbbd-402e-4c71-a79e-874242b41d01">
+              <Vi>Vật lý trị liệu giúp phục hồi vận động sau tai biến.</Vi>
+              <En>Physical therapy helps restore mobility after a stroke.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
