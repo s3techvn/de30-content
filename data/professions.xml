@@ -403,4 +403,5 @@
   <Profession id="0aa381a1-0fa1-4bcc-823b-b40031ccb362" slug="forester" value="Forester" />
   <Profession id="faec5a9d-78dd-45fc-892e-3529ec6c935c" slug="trapper" value="Trapper" />
   <Profession id="1a3b0d85-4843-4fd5-9864-5f1a6ac0cfb1" slug="commercial-fisherman" value="Commercial Fisherman" />
+  <Profession id="ce767566-c0ce-4156-ae82-3e48dab78633" slug="conductor" value="Conductor" />
 </Professions>
