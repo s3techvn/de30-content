@@ -1,0 +1,38 @@
+<Vocab id="ef0923ab-f0ef-451f-bcdb-a8dfdb0bdf89" word="jamaica" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+    <Profession id="ff57e504-2f1e-4656-8583-de39343f2f6b" value="Coffee Importer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1f0614dd-f6b1-4a9e-8c38-0da903914885" ipa="/dʒəˈmeɪ.kə/" vi_ipa="giơ-mây-ca">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3d4960c3-9057-4d7c-983d-ff71ab6454b7" type="Noun">
+          <Vi>Quần đảo và quốc gia ở Caribe, nằm về phía nam của Cuba.</Vi>
+          <En>A country in the Caribbean Sea, located south of Cuba.</En>
+          <Example>Jamaica is famous for its reggae music, blue mountain coffee, and beautiful beaches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3ca66b8-adb3-4916-b00e-62084cae9e35">
+              <Vi>Người Việt đang lên kế hoạch du lịch đến một quốc gia Caribe.</Vi>
+              <En>A Vietnamese person planning a vacation to a Caribbean destination.</En>
+            </Situation>
+            <Situation id="5fd7a8f8-44c9-4074-9388-c6cb4a3284a5">
+              <Vi>Nhà xuất khẩu cà phê thảo luận về nguồn gốc cà phê Blue Mountain.</Vi>
+              <En>A coffee exporter discussing the origin of Blue Mountain coffee.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

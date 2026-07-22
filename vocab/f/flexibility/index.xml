@@ -1,0 +1,40 @@
+<Vocab id="bf8e0c58-d649-4db6-ab93-e4a1eb1d477c" word="flexibility" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5afd93f6-82d7-4cd2-92d6-ea8f0aab011f" ipa="/ˌfleksəˈbɪləti/" vi_ipa="phờ-léc-xi-bi-lờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="95a29ab8-784b-4751-8c83-f18340f26344" type="Noun">
+          <Vi>Khả năng linh hoạt; sự dẻo dai; sự linh động</Vi>
+          <En>The ability to change or adapt easily to suit different conditions or purposes.</En>
+          <Example>Her flexibility in adjusting the schedule made the team project run smoothly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87c308cd-c319-47db-aa4a-44d703095ff3">
+              <Vi>Tình huống một người có thể thay đổi kế hoạch hoặc phương pháp khi gặp tình huống bất ngờ.</Vi>
+              <En>A situation where someone modifies their plans or methods in response to unexpected changes.</En>
+            </Situation>
+            <Situation id="995ccdab-4628-4ef2-b455-a05f6c59dce8">
+              <Vi>Tính chất vật lý của một vật có thể uốn cong hoặc co giãn mà không bị gãy.</Vi>
+              <En>The physical property of a material that allows it to bend or stretch without breaking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
