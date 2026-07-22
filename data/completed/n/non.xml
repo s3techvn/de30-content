@@ -1,0 +1,44 @@
+<Vocab id="5cfe578c-2ca7-4f01-9407-23e094984624" word="non" type="short" status="done">
+  <Topics>
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49f4acdf-6ed7-44cd-a751-3fa510292d47" ipa="/nɒn/" vi_ipa="nôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ac9496ca-5724-4632-9cb6-f3c8a2e785b0" type="Noun">
+          <Vi>người không (dùng trong các cụm như non-smoker, non-drinker)</Vi>
+          <En>A person who does not engage in a specified activity, especially one involving a habit or lifestyle choice (e.g., smoking, drinking alcohol).</En>
+          <Example>She is a non-smoker and prefers to sit in the non-smoking section.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb4b9dd3-bd9d-4342-8a9f-9496f576a985">
+              <Vi>Mô tả người không làm một hành vi cụ thể, thường liên quan đến thói quen như hút thuốc hoặc uống rượu.</Vi>
+              <En>Used to describe a person who refrains from a particular activity, especially smoking or drinking alcohol.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="98f52983-c99b-4ef5-b065-f23c1c5c4fa5" type="Noun">
+          <Vi>chữ "non" (dùng trong từ ghép để chỉ sự vắng mặt hoặc thiếu vắng)</Vi>
+          <En>A prefix or component used in compound words to indicate absence or lack (e.g., non-stop, non-profit).</En>
+          <Example>The flight was non-stop, lasting over 12 hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de62d060-16a3-431a-a779-71347e557d9d">
+              <Vi>Dùng trong các từ ghép để nhấn mạnh việc thiếu vắng hoặc không có điều kiện nào đó.</Vi>
+              <En>Used in compound words to indicate the absence or negation of a quality or condition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
