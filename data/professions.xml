@@ -470,4 +470,5 @@
   <Profession id="af062394-937e-4fff-a434-341e5c32c035" slug="gambler" value="Gambler" />
   <Profession id="6a37f007-98e7-4a9c-be03-22709a409353" slug="fitness-trainer" value="Fitness Trainer" />
   <Profession id="15b15afc-84f3-4cc8-868e-8af56762aada" slug="spiritual-teacher" value="Spiritual Teacher" />
+  <Profession id="fc9f28e0-4dcf-4dee-88ec-ea2c3a4cbcc1" slug="producer" value="Producer" />
 </Professions>
