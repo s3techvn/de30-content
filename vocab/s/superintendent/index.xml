@@ -1,0 +1,48 @@
+<Vocab id="2c15ecc3-e0fe-4d07-bac3-b18899f35064" word="superintendent" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b4d5cffd-dc24-4cff-9f31-0fbdcb2f1af9" value="Management" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="78cf232d-23ec-447a-bc52-69ad7e43630c" value="School Administrator" />
+    <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" value="Construction Manager" />
+    <Profession id="a77764df-b700-44d0-b1cf-a5f217fd316d" value="Facility Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1ec57a97-6623-44f7-ae34-ca9e4de4d6cf" ipa="/ˌsuː.pərˈɪn.tən.dənt/" vi_ipa="xừ-pờ-rin-tờ-nợn-tờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="934f8015-118c-4f42-81b2-1b31ffcf6046" type="Noun">
+          <Vi>Hiệu trưởng (trưởng một sở, khu vực giáo dục)</Vi>
+          <En>The chief administrator of a school district or large school system, especially in the United States.</En>
+          <Example>The superintendent announced new curriculum changes at the district meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46bd7e30-3d25-44b3-8f62-bf513fc85444">
+              <Vi>Trong bối cảnh quản lý giáo dục cấp khu vực hoặc bang.</Vi>
+              <En>In the context of managing a school district or state-level education system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="364a2858-e0e7-4632-b6e9-99f9502b32b5" type="Noun">
+          <Vi>Người giám sát công trình (trưởng công trường lớn)</Vi>
+          <En>A person in charge of construction work at a site, especially the person responsible for day-to-day operations on a large project.</En>
+          <Example>The superintendent inspected safety protocols before work resumed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a23b67b1-3955-4cac-a3cf-4cee560090b0">
+              <Vi>Trong ngành xây dựng, người trực tiếp điều hành và giám sát thi công.</Vi>
+              <En>In construction, the person directly overseeing and supervising on-site operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
