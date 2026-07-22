@@ -1,0 +1,82 @@
+<Vocab id="5e7aa82d-d8ca-4a16-aec8-73c74b7e5162" word="pickup" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="bf33168c-263f-48ff-af08-43014534bb6f" value="Delivery Driver" />
+    <Profession id="619882c9-d6fb-4358-a9ec-3ab05e202630" value="Ride-hailing Driver" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e37b4cfa-5f9c-4f87-a8d4-69b5a31dea3b" ipa="/ˈpɪk.ʌp/" vi_ipa="pích-áp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="770655a4-6578-4983-8a7d-e0ca9adc47f8" type="Noun">
+          <Vi>Chuyến đón, điểm đón, hoặc phương tiện dùng để đón người/hàng hóa</Vi>
+          <En>A vehicle or place used to collect people or goods; a short trip to collect someone or something</En>
+          <Example>Can you give me a pickup from the train station?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6273f10-dacf-4ad1-91fc-c2287a3eac70">
+              <Vi>Đón khách bằng xe riêng từ sân bay hoặc ga tàu</Vi>
+              <En>Collecting someone from the airport or train station using a private vehicle</En>
+            </Situation>
+            <Situation id="af4d065d-2bc0-464e-a7b3-d3ff11acfbb7">
+              <Vi>Điểm đón hàng hóa tại kho hoặc nhà cung cấp</Vi>
+              <En>A designated location where goods are collected from a warehouse or supplier</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b692142b-709d-417b-9ce2-c9402bcb0d48" type="Verb">
+          <Vi>Đón (người), lấy (hàng), thu gom</Vi>
+          <En>To collect someone or something, especially by going to their location in a vehicle</En>
+          <Example>The taxi will pick you up at 7 p.m. sharp.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="48d308bb-5e73-43c1-98ca-58d964cf69e7">
+              <Vi>Đón bạn bè tại nhà trước khi đi xem phim</Vi>
+              <En>Collecting friends at their homes before going to the cinema</En>
+            </Situation>
+            <Situation id="cc83263a-23bb-40d9-aa7c-9160146b861e">
+              <Vi>Thu gom hàng hóa từ các điểm bán lẻ để vận chuyển về trung tâm phân phối</Vi>
+              <En>Collecting goods from retail outlets to transport to a distribution center</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="99515316-9af9-4fa5-908a-4796237cd8cc" ipa="/ˈpɪk.ʌp/" vi_ipa="pích-áp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ebe42298-7f2a-4a54-8d1b-169a36fb2ff2" type="Noun">
+          <Vi>Sự cải thiện đột ngột (về kinh tế, doanh số, tinh thần...)</Vi>
+          <En>A sudden increase or improvement, especially in business, sales, or morale</En>
+          <Example>The marketing campaign gave our sales a real pickup.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ef1b448-0dfc-432c-ad7f-4ee2ddcff5f6">
+              <Vi>Doanh số tăng mạnh sau khi ra mắt sản phẩm mới</Vi>
+              <En>A sharp rise in sales following the launch of a new product</En>
+            </Situation>
+            <Situation id="562040de-9df3-4efc-a588-0fa339daec0f">
+              <Vi>Tinh thần nhóm được nâng cao sau chiến thắng quan trọng</Vi>
+              <En>A boost in team morale after a major victory</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
