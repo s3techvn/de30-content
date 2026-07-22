@@ -1,0 +1,38 @@
+<Vocab id="793a7144-8d87-48dd-a4a9-4246f8c716f6" word="basement" type="short" status="done">
+  <Topics>
+    <Topic id="73762f0c-f7eb-42c1-af45-bfa33a7dbded" value="Building &amp; Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="16c53e48-f4b9-4616-a1d6-879bc6b6c868" value="Contractor" />
+    <Profession id="b6dfa8b9-2392-41b6-8fad-49d38dbeb3c3" value="Homeowner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e459b91c-cf2d-4277-a098-c94400e17d4a" ipa="/ˈbeɪs.mənt/" vi_ipa="bê-sờ-mên-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e16746cd-ac61-49aa-aec5-38c6d7ffdb12" type="Noun">
+          <Vi>Phòng hầm, tầng hầm</Vi>
+          <En>The part of a building that is entirely or partly below ground level, often used for storage, utilities, or living space.</En>
+          <Example>The furnace and water heater are installed in the basement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07f34d15-a34c-4582-9250-c5a2829be415">
+              <Vi>Một không gian nằm dưới mặt đất trong nhà, thường dùng để đặt máy móc hoặc làm phòng sinh hoạt.</Vi>
+              <En>A room or space located below ground level in a building, commonly used for mechanical equipment or additional living area.</En>
+            </Situation>
+            <Situation id="26b05055-d27a-4197-ac59-5e553bd38e4f">
+              <Vi>Ngôi nhà có tầng hầm được lát sàn và trang bị đèn chiếu sáng.</Vi>
+              <En>The house features a finished basement with lighting and flooring.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

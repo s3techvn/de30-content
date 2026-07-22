@@ -337,4 +337,6 @@
   <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" slug="literary-critic" value="Literary Critic" />
   <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" slug="civil-servant" value="Civil Servant" />
   <Profession id="41d88a36-fb1f-4fc7-bae4-415c5386f945" slug="history" value="History" />
+  <Profession id="16c53e48-f4b9-4616-a1d6-879bc6b6c868" slug="contractor" value="Contractor" />
+  <Profession id="b6dfa8b9-2392-41b6-8fad-49d38dbeb3c3" slug="homeowner" value="Homeowner" />
 </Professions>
