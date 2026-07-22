@@ -1,0 +1,40 @@
+<Vocab id="80eb7c49-2f92-4c65-a927-a8f68db7975e" word="renewable" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="9d9cd7b2-c2e2-4518-a7b0-a17b2f424951" value="Energy" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="1c5fcc9c-b7d9-44b0-89be-930216345dc8" value="Energy Engineer" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4113c944-7e1c-4568-b060-bdb51d51eec0" ipa="/rɪˈnuː.ə.bəl/" vi_ipa="rị-niu-bờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="49331471-f0f3-4cc5-8d92-449ea41e4fa7" type="Adjective">
+          <Vi>Có thể tái tạo; có thể làm mới</Vi>
+          <En>Capable of being replenished naturally over time, especially used to describe energy sources that are not depleted when used.</En>
+          <Example>Wind and solar power are renewable energy sources.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1b7a1fc-4c9e-4dc6-8fb9-cbefc73ea40c">
+              <Vi>Mô tả nguồn năng lượng không cạn kiệt như gió, mặt trời, hoặc sinh khối.</Vi>
+              <En>Describing energy sources that naturally replenish, such as wind, sunlight, or biomass.</En>
+            </Situation>
+            <Situation id="03191817-cb2e-4d95-8823-01e9b8ba29b7">
+              <Vi>Chính sách hoặc dự án đầu tư vào năng lượng sạch và bền vững.</Vi>
+              <En>Policies or investment projects focused on clean and sustainable energy solutions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

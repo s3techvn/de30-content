@@ -466,4 +466,5 @@
   <Profession id="e0cc6c42-fcf3-420e-be41-bd9c5ff0761a" slug="transportation-planner" value="Transportation Planner" />
   <Profession id="21910a38-ef18-4b27-b3fe-fe1337ee8466" slug="agriculture" value="Agriculture" />
   <Profession id="86fb7fe5-ab67-4ac3-8e81-88ee51c93ef6" slug="distilling" value="Distilling" />
+  <Profession id="1c5fcc9c-b7d9-44b0-89be-930216345dc8" slug="energy-engineer" value="Energy Engineer" />
 </Professions>
