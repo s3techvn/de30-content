@@ -1,0 +1,38 @@
+<Vocab id="7afdf293-718c-4e7e-aebf-c29d80aa111f" word="footage" type="short" status="done">
+  <Topics>
+    <Topic id="9ec3ebf1-fb06-4591-9f31-673f665db2af" value="Media &amp; Journalism" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="82b1eb78-1bd9-4033-a34a-11ea1f3df32c" value="Video Editor" />
+    <Profession id="c2f67148-d5aa-489b-9e45-6c8852a297d0" value="Documentary Filmmaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="474373a6-b208-4472-b687-02e5989f6f21" ipa="/ˈfuː.tɪdʒ/" vi_ipa="phút-tích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0781f98d-3546-4105-928f-2134776ccb57" type="Noun">
+          <Vi>đoạn phim, cảnh quay, tư liệu hình ảnh</Vi>
+          <En>unedited film or video recordings, especially those used for news or documentary purposes</En>
+          <Example>The news channel released raw footage of the protest to the public.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8edccf1e-1f73-4713-8d5d-eb86ef262422">
+              <Vi>Người làm tin tức sử dụng footage để minh họa cho bản tin.</Vi>
+              <En>Journalists use footage to illustrate their news reports.</En>
+            </Situation>
+            <Situation id="ee3df061-7140-428b-aa70-fbb2f99504cf">
+              <Vi>Đoạn footage ghi lại toàn bộ sự kiện từ nhiều góc quay khác nhau.</Vi>
+              <En>The footage captured the entire event from multiple camera angles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
