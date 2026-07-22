@@ -283,4 +283,5 @@
   <Profession id="812aa29c-85fb-4675-be93-76477fe20619" slug="office-manager" value="Office Manager" />
   <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" slug="healthcare-professional" value="Healthcare Professional" />
   <Profession id="7692404a-1906-4d6d-b967-94490ea1fc3d" slug="office-assistant" value="Office Assistant" />
+  <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" slug="law-enforcement" value="Law Enforcement" />
 </Professions>
