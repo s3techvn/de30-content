@@ -285,3 +285,4 @@ document
 receive
 virgin
 slip
+static

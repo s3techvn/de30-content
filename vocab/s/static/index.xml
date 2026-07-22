@@ -1,0 +1,52 @@
+<Vocab id="480ef075-b547-4d7f-a4ea-65db451c8592" word="static" type="short" status="done">
+  <Topics>
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="859a0007-8cd2-47eb-87ae-c3efcea3e1b0" ipa="/ˈstæt.ɪk/" vi_ipa="s-tát-tíc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="757afdf2-45d4-432b-9e79-0c25211fb84f" type="Adjective">
+          <Vi>đứng yên, không thay đổi; tĩnh</Vi>
+          <En>not moving or changing; fixed or stationary.</En>
+          <Example>The car came to a static stop at the intersection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3cee05b8-0bf2-458a-8a2a-cd9e30582753">
+              <Vi>Mô tả một vật không di chuyển, ví dụ như xe đậu yên tại chỗ.</Vi>
+              <En>Describing an object that is not moving, e.g., a car parked and unmoving.</En>
+            </Situation>
+            <Situation id="447a3665-ac1d-4f93-a551-77bf68afdf1c">
+              <Vi>Mô tả dữ liệu không thay đổi trong lập trình (static variable).</Vi>
+              <En>Referring to unchanging data in programming (e.g., a static variable).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="142474fc-92f8-403e-9b42-de753d125307" type="Adjective">
+          <Vi>do điện tích tĩnh gây ra; tĩnh điện</Vi>
+          <En>relating to or caused by static electricity.</En>
+          <Example>She felt a static shock when she touched the metal door handle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e6da877-180c-4be2-9d39-58a56f9797c4">
+              <Vi>Mô tả hiện tượng giật điện do ma sát (ví dụ khi cởi áo len).</Vi>
+              <En>Describing an electric shock caused by friction, e.g., when removing a wool sweater.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
