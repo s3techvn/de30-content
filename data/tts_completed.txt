@@ -559,3 +559,4 @@ offensive
 evolution
 floppy
 influence
+degree

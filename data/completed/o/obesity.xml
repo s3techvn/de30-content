@@ -1,0 +1,38 @@
+<Vocab id="c474dac8-5b80-4883-8961-0e10a239860d" word="obesity" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="534972cf-86a2-4d05-b29d-4bdf93aec8f1" ipa="/əˈbiː.sə.ti/" vi_ipa="ơ-bì-sờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ccdbe7ea-932e-47a2-9891-aa8d1dd163e6" type="Noun">
+          <Vi>Béo phì</Vi>
+          <En>A medical condition characterized by excessive body fat accumulation that presents a risk to health.</En>
+          <Example>Obesity increases the risk of type 2 diabetes, heart disease, and certain cancers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18fa8f7d-ae46-4f89-bbb8-00baa10190d9">
+              <Vi>Chỉ số BMI trên 30 được dùng để chẩn đoán béo phì.</Vi>
+              <En>A BMI over 30 is used to diagnose obesity.</En>
+            </Situation>
+            <Situation id="cf867e38-5107-4415-8fa7-55b0ab06057b">
+              <Vi>Béo phì là một vấn đề sức khỏe cộng đồng ngày càng nghiêm trọng ở nhiều quốc gia.</Vi>
+              <En>Obesity is an increasingly serious public health issue in many countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
