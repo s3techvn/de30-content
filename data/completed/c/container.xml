@@ -1,0 +1,40 @@
+<Vocab id="0436e0c5-336a-44fc-87c6-6dbf79406bf8" word="container" type="short" status="done">
+  <Topics>
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+    <Topic id="995d937d-9f01-446e-9f20-2f3fd7036242" value="Shipping" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="e411117b-0985-4764-852d-4efc6da017d8" value="Freight Forwarder" />
+    <Profession id="dab2219c-841e-435d-947c-bd8ffbb5526d" value="Supply Chain Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8f9cf45-0d46-4276-a846-6c6dcb250969" ipa="/ˈkɒn.tə.nər/" vi_ipa="côn-tơ-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="76f2de10-b1ff-4d4c-8936-d3a25915c48f" type="Noun">
+          <Vi>thùng chứa; container (hàng hóa vận chuyển bằng tàu, xe)</Vi>
+          <En>A large, standardized metal box used for transporting goods by ship, train, or truck.</En>
+          <Example>The shipping company loaded 50 containers onto the cargo vessel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="537ec0a2-eb6f-4b40-b646-573422a39f2c">
+              <Vi>Trong bối cảnh vận tải quốc tế, container được dùng để đóng gói và vận chuyển hàng hóa quy chuẩn.</Vi>
+              <En>In international shipping, containers are used to standardize cargo packaging and transport.</En>
+            </Situation>
+            <Situation id="0228e5cd-08f6-4eff-99f3-b72a5ad54603">
+              <Vi>Trong lập trình, container có thể chỉ đối tượng chứa dữ liệu hoặc dịch vụ ảo hóa (như Docker container).</Vi>
+              <En>In computing, a container may refer to a lightweight, standalone package that includes code and its dependencies (e.g., a Docker container).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

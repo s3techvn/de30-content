@@ -360,4 +360,5 @@
   <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" slug="materials-engineer" value="Materials Engineer" />
   <Profession id="c8fee61b-8ea3-4d92-ae2d-90a734757b90" slug="paint-technician" value="Paint Technician" />
   <Profession id="011e02e1-d229-45b2-bc6e-2894536a4b39" slug="agricultural-worker" value="Agricultural Worker" />
+  <Profession id="e411117b-0985-4764-852d-4efc6da017d8" slug="freight-forwarder" value="Freight Forwarder" />
 </Professions>

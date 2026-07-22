@@ -1,0 +1,38 @@
+<Vocab id="1b005163-8c90-43f2-a86a-7864984cec36" word="iran" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="9c9cbc39-65fd-4a1d-90e9-3899f17d1bef" value="International Relations Specialist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ad3f3bd5-6600-465f-998f-f08dc36a30d0" ipa="/ɪˈrɑːn/" vi_ipa="i-rân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="20a853bd-4f99-4147-8b9f-6729607440a3" type="Noun">
+          <Vi>Cộng hòa Hồi giáo Iran, một quốc gia ở Tây Á</Vi>
+          <En>The Islamic Republic of Iran, a country in Western Asia</En>
+          <Example>Iran has a rich history dating back to ancient Persia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94805788-d34f-4d6a-8c9d-0212168ed909">
+              <Vi>Trong bối cảnh tin tức quốc tế về căng thẳng hạt nhân và quan hệ với phương Tây.</Vi>
+              <En>In international news coverage about nuclear tensions and relations with the West.</En>
+            </Situation>
+            <Situation id="4aff2fc9-e05c-4a7f-a6b7-0363ae41ed48">
+              <Vi>Khi thảo luận về văn hóa, ẩm thực, hoặc lịch sử của đất nước này.</Vi>
+              <En>When discussing the culture, cuisine, or history of this country.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
