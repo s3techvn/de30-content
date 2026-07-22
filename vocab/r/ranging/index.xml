@@ -1,0 +1,40 @@
+<Vocab id="7f7a1ab5-ccd7-42b5-8081-83cd40fb0dfc" word="ranging" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d2127509-5e3d-44b4-af0b-985c5b90a425" ipa="/ˈreɪ.dʒɪŋ/" vi_ipa="rây-djình">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2ed8e30d-3b8e-4723-89e4-b38ae03ddb35" type="Verb">
+          <Vi>thay đổi trong một khoảng; nằm trong một phạm vi; dao động</Vi>
+          <En>to vary or extend over a particular range or scope</En>
+          <Example>The temperature is ranging from 15°C to 25°C this week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a3b3117-9b79-4cdf-96e9-d0822deddf33">
+              <Vi>Mô tả sự thay đổi liên tục trong một khoảng giá trị cụ thể.</Vi>
+              <En>Describing continuous variation within a specific numerical or conceptual range.</En>
+            </Situation>
+            <Situation id="e88937f0-ca61-440a-ad1c-9461edf6ee0d">
+              <Vi>Dùng khi liệt kê các giá trị hoặc khả năng nằm trong một dải rộng.</Vi>
+              <En>Used when listing values or possibilities that fall within a broad spectrum.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
