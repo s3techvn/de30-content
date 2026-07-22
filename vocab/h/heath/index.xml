@@ -1,0 +1,38 @@
+<Vocab id="0f5ae1d9-0dc9-4c2f-bea2-b8e5c3685a2a" word="heath" type="short" status="done">
+  <Topics>
+    <Topic id="4001f4fe-67e6-433c-a6c9-02d225e2eae4" value="Nature &amp; Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="1e0e1bba-bf96-42de-8d4e-f584db92a79d" value="Land Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8ad1d527-ec8d-4df5-8f71-a953864a118e" ipa="/hiːθ/" vi_ipa="hi:th">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d928a4f6-4b4f-4dc1-97f9-1284b9357b36" type="Noun">
+          <Vi>Đồng cỏ heath (đất hoang cỏ dại, thường có cây bụi thấp và đất chua)</Vi>
+          <En>A tract of open, uncultivated land covered with low shrubs, especially heather, typically on acidic, sandy soil.</En>
+          <Example>The moorland was covered in purple heather, a characteristic feature of the heath ecosystem.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d437b3e7-c80f-4885-9dc8-6d245776e866">
+              <Vi>Mô tả cảnh quan tự nhiên ở vùng nông thôn Anh, nơi cây bụi heather mọc thành từng mảng rộng.</Vi>
+              <En>Describing a natural landscape in rural England where heather grows in extensive patches.</En>
+            </Situation>
+            <Situation id="696057ad-eeb9-4968-ad55-e42a87d39f36">
+              <Vi>Loại đất không thích hợp cho nông nghiệp nhưng phù hợp với các loài thực vật ưa chua.</Vi>
+              <En>A type of land unsuitable for agriculture but suitable for acid-loving plants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
