@@ -405,4 +405,5 @@
   <Profession id="1a3b0d85-4843-4fd5-9864-5f1a6ac0cfb1" slug="commercial-fisherman" value="Commercial Fisherman" />
   <Profession id="ce767566-c0ce-4156-ae82-3e48dab78633" slug="conductor" value="Conductor" />
   <Profession id="ac82ebcc-c5d5-45e4-a004-b8e3653b9a2b" slug="auditor" value="Auditor" />
+  <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" slug="film-director" value="Film Director" />
 </Professions>
