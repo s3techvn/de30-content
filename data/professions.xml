@@ -384,4 +384,5 @@
   <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" slug="firefighter" value="Firefighter" />
   <Profession id="1598af48-571c-4c2b-a635-41fc94d99e1b" slug="carpet-installer" value="Carpet Installer" />
   <Profession id="98d0bc6a-92d5-4b1c-92b4-d3d81f271a2a" slug="cleaning-service-technician" value="Cleaning Service Technician" />
+  <Profession id="daa3c660-091c-4c71-94a4-cb3c69f7cc1f" slug="military-logistics-specialist" value="Military Logistics Specialist" />
 </Professions>
