@@ -1,0 +1,46 @@
+<Vocab id="9daf388b-4bcf-4c62-96e2-7cbe6c2ecf80" word="dos" type="short" status="done">
+  <Topics>
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30de6b3b-59a0-4573-9e0a-715e83ce138e" ipa="/dɒs/" vi_ipa="đốt-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8dedc053-cf75-450e-bd28-2609a2a8a013" type="Noun">
+          <Vi>Hệ điều hành DOS (Disk Operating System)</Vi>
+          <En>A family of disk-based operating systems for IBM PC compatible computers, primarily used in the 1980s and early 1990s.</En>
+          <Example>Many legacy business applications still run on DOS emulators today.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="1d96de2b-c76f-4c99-b30d-d87778fe347a">
+              <Vi>Môi trường dòng lệnh đơn giản, không có giao diện đồ họa, được dùng trên máy tính IBM PC đầu tiên.</Vi>
+              <En>A command-line-only environment without a graphical interface, used on early IBM PC computers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="48858151-747b-48aa-8af0-8afe03408788" type="Noun">
+          <Vi>Số lượng (viết tắt của *dos*, từ tiếng Pháp *douze* = twelve, trong ngữ cảnh *dos à dos* = back-to-back)</Vi>
+          <En>A quantity of twelve (used in printing and publishing, especially in the phrase *dos à dos*, meaning “back-to-back” or “facing pages”).</En>
+          <Example>The publisher printed the book in dos à dos format for easier binding.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="bed399c7-b250-480a-88bf-4b675f4a9e73">
+              <Vi>Thuật ngữ chuyên ngành xuất bản, chỉ hai trang in đối diện nhau trên cùng một tờ giấy.</Vi>
+              <En>A publishing term for two facing pages printed on opposite sides of the same sheet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

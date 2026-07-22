@@ -1,0 +1,38 @@
+<Vocab id="ca54fe00-ce4b-4e2d-8dde-c0dc5b1c17ee" word="biggest" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="398dde12-27d2-47b0-85b7-9ff066e9aeac" value="Sales &amp; Marketing" />
+    <Profession id="3bfaa3a4-f064-4cd2-ab3d-2c139ff0dcc7" value="Education" />
+    <Profession id="ed2204c3-10d4-44d9-a930-224cf8e2e3b2" value="Engineering" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="40fa28a3-3a37-4055-b71b-c0cbf39cd307" ipa="/ˈbɪɡ.ɪst/" vi_ipa="bích-gít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="59ac6cd0-2145-4bd4-a78a-fec9809357e8" type="Adjective">
+          <Vi>lớn nhất</Vi>
+          <En>of the greatest size, extent, or intensity; superlative form of big</En>
+          <Example>Mount Everest is the biggest mountain in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="702ee5c8-2b1a-4c40-b9a4-4a67838305d4">
+              <Vi>Mô tả vật thể, con người, hoặc khái niệm vượt trội về quy mô hoặc mức độ.</Vi>
+              <En>Used to describe the largest or most intense item in a group or context.</En>
+            </Situation>
+            <Situation id="c24331de-8a8a-4540-a2e3-8c1a6a1b17b5">
+              <Vi>So sánh tuyệt đối giữa ba hoặc nhiều đối tượng.</Vi>
+              <En>Used in superlative comparisons among three or more items.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
