@@ -1,0 +1,40 @@
+<Vocab id="d547459c-257a-4980-a302-8af02e650d3f" word="contents" type="short" status="done">
+  <Topics>
+    <Topic id="5cfaad63-2c21-4540-ba22-178d9a2b8dcf" value="Media &amp; Communication" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f416a512-3a3a-4cdf-ab1a-f9fcdbb9c566" ipa="/ˈkɑːn.tɛnts/" vi_ipa="cơn-ténts">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41022113-6f2c-425c-b2e0-b7da621947f5" type="Noun">
+          <Vi>Nội dung; mục lục</Vi>
+          <En>The material or information contained within something, especially a book, document, or digital file; also refers to the list of chapters or sections in a publication.</En>
+          <Example>The book’s contents include chapters on climate change, renewable energy, and policy solutions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53d03eea-a0d7-4c2b-8acf-5f6cc530135a">
+              <Vi>Người đọc tra cứu mục lục để xem các chương trong sách.</Vi>
+              <En>A reader checks the table of contents to see the structure of the book.</En>
+            </Situation>
+            <Situation id="e37b0dbb-35a8-43fc-a249-fd6f93ba29d3">
+              <Vi>Người dùng xem nội dung email trước khi mở tệp đính kèm.</Vi>
+              <En>The user previews the email contents before opening the attachment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
