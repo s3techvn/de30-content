@@ -1,0 +1,54 @@
+<Vocab id="4e4bf8d7-bb6c-4c77-b28a-d03df4de3d69" word="lesbian" type="short" status="done">
+  <Topics>
+    <Topic id="1cda1243-aafb-45ca-8b30-6350f6de4a0a" value="Identity &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7583edd5-fb88-4e40-ae63-1917498bbfdd" ipa="/lɛˈzbiən/" vi_ipa="lết-bi-ân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7fad2455-56a8-4761-a528-b3ea174f0cae" type="Adjective">
+          <Vi>đồng tính nữ</Vi>
+          <En>Relating to or characteristic of a woman who is romantically or sexually attracted to other women.</En>
+          <Example>She identifies as a lesbian and is married to her partner of ten years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c48a8c0-3a9e-47b3-ac4e-4be8debd269a">
+              <Vi>Mô tả một người phụ nữ có xu hướng tình dục hướng về giới tính cùng giới.</Vi>
+              <En>Describing a woman whose romantic or sexual orientation is toward other women.</En>
+            </Situation>
+            <Situation id="2178e100-85e0-4fd4-b244-90de20782a7d">
+              <Vi>Dùng trong ngữ cảnh xác định danh tính giới tính và xu hướng tính dục.</Vi>
+              <En>Used in contexts discussing gender identity and sexual orientation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="610b13d4-3aeb-4e8a-af76-b5dbfbc9f36e" type="Noun">
+          <Vi>người đồng tính nữ</Vi>
+          <En>A woman who is romantically or sexually attracted to other women.</En>
+          <Example>They met at a community event for LGBTQ+ individuals, including several lesbians from the area.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="598b139a-05c0-416a-be02-b844eaecfc25">
+              <Vi>Dùng để chỉ một cá nhân trong cộng đồng LGBTQ+.</Vi>
+              <En>Used to refer to an individual within the LGBTQ+ community who is a woman attracted to women.</En>
+            </Situation>
+            <Situation id="178cfed9-7b71-4aa4-a197-6f632d00610a">
+              <Vi>Xảy ra trong các cuộc thảo luận về quyền và đời sống của người đồng tính.</Vi>
+              <En>Used in discussions about LGBTQ+ rights and lived experiences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
