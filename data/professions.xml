@@ -448,4 +448,5 @@
   <Profession id="e018c441-ab3a-4731-89b8-aa343d99992b" slug="pastry-chef" value="Pastry Chef" />
   <Profession id="1e312274-1b03-4b8f-b7f8-0fc6adc4191d" slug="all-professions" value="All Professions" />
   <Profession id="ec1b2d05-a5de-4117-bc7d-5989f5ca58a1" slug="database-administrator" value="Database Administrator" />
+  <Profession id="4d7d7ee8-3402-494e-a0f1-024ce814def3" slug="inspector" value="Inspector" />
 </Professions>
