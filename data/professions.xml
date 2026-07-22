@@ -268,4 +268,5 @@
   <Profession id="7865af47-fdae-4060-8f87-5dc93f1e84bc" slug="catholic-priest" value="Catholic Priest" />
   <Profession id="fa3f3ac0-190e-4ce3-944f-6f9a417015a2" slug="food-service-worker" value="Food Service Worker" />
   <Profession id="1cc51c4e-3dc2-4acc-ba64-431ea7b1adac" slug="law-enforcement-officer" value="Law Enforcement Officer" />
+  <Profession id="aaa0deed-0b19-4268-ab81-3bd8b8fb8010" slug="consultant" value="Consultant" />
 </Professions>

@@ -1,0 +1,40 @@
+<Vocab id="cc8c37aa-34a6-4615-87e2-7f65904e95a2" word="reliance" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="aaa0deed-0b19-4268-ab81-3bd8b8fb8010" value="Consultant" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6f05467-9c4c-45d0-8fe7-1b7513c07ea9" ipa="/rɪˈlaɪ.əns/" vi_ipa="ri-lái-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45a06766-3d70-41e1-8d8f-e8c612b81dcf" type="Noun">
+          <Vi>Sự tin cậy; sự phụ thuộc</Vi>
+          <En>The state of depending on someone or something, especially as a source of support or assurance.</En>
+          <Example>Our company's success depends heavily on reliance between team members.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf71eed8-1d35-4d08-bc9b-85a984827e93">
+              <Vi>Sự tin tưởng vào khả năng hoặc tính đáng tin cậy của một người hoặc tổ chức.</Vi>
+              <En>Trust placed in a person or organization’s reliability or integrity.</En>
+            </Situation>
+            <Situation id="c312258b-4aae-4579-8be1-23ac50739d7f">
+              <Vi>Sự phụ thuộc vào một nguồn lực, hệ thống, hoặc người khác để hoạt động hiệu quả.</Vi>
+              <En>Dependence on a resource, system, or person for effective functioning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
