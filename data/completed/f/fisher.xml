@@ -1,0 +1,34 @@
+<Vocab id="01f406fb-6842-441a-9ff8-35e54e476e82" word="fisher" type="short" status="done">
+  <Topics>
+    <Topic id="3c144f24-a729-4fa2-9707-7193f9b6fb00" value="Occupations" />
+    <Topic id="44582b08-8a75-42e0-885c-81a02105c1ea" value="Nature &amp; Wildlife" />
+  </Topics>
+  <Professions>
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="1a3b0d85-4843-4fd5-9864-5f1a6ac0cfb1" value="Commercial Fisherman" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="530eba04-a909-4a5f-9bca-d2791093ce7c" ipa="/ˈfɪʃ.ɚ/" vi_ipa="phít-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cbd15cd8-4e98-4d16-99bb-be880582efb3" type="Noun">
+          <Vi>người đánh cá; ngư dân</Vi>
+          <En>a person who fishes for a living or as a hobby</En>
+          <Example>He has been a fisher on the Gulf Coast for over twenty years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3455362c-8f9b-4cd0-ba65-c7e877bdc7fd">
+              <Vi>Mô tả một người làm nghề đánh cá thường xuyên, có thể trên biển hoặc sông hồ.</Vi>
+              <En>Describes someone who regularly catches fish, typically as their occupation or primary activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
