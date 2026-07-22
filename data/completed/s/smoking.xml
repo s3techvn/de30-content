@@ -1,0 +1,56 @@
+<Vocab id="185ef6bf-f31c-4c56-ab43-ae8e38ab77a2" word="smoking" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+    <Profession id="4d22a88f-607c-4b91-9880-123338f340e6" value="Smoker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b9d43aa9-6c67-467a-97c0-a0675a97d725" ipa="/ˈsmoʊ.kɪŋ/" vi_ipa="x-mô-kinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ffb2b967-45be-4110-a287-de79ea2262e0" type="Noun">
+          <Vi>hút thuốc; khói thuốc; việc hút thuốc</Vi>
+          <En>The act of inhaling and exhaling smoke from tobacco or other substances, typically through a cigarette, cigar, or pipe.</En>
+          <Example>Smoking is prohibited in this building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9b10497-f5c9-4aa8-af44-613be8a79021">
+              <Vi>Một người đang hút thuốc lá trong khu vực được chỉ định.</Vi>
+              <En>A person smoking a cigarette in a designated area.</En>
+            </Situation>
+            <Situation id="1c669d7b-2d74-4bd4-b705-bfa55b658cce">
+              <Vi>Các tác động sức khỏe của việc hút thuốc.</Vi>
+              <En>The health effects associated with smoking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="98501371-16b1-4b58-b781-8cc19306b542" type="Noun">
+          <Vi>thịt hoặc cá được hun khói (để bảo quản và tạo hương vị)</Vi>
+          <En>Food, especially meat or fish, preserved and flavored by exposure to smoke from burning wood.</En>
+          <Example>We ordered smoked salmon for appetizer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cca4ffa4-e1a7-465c-a610-069ad92ead69">
+              <Vi>Nhà hàng phục vụ món cá hun khói truyền thống.</Vi>
+              <En>The restaurant serves traditional smoked fish.</En>
+            </Situation>
+            <Situation id="16d49cce-67cc-472a-a6e2-0adbfbe57822">
+              <Vi>Hun khói là phương pháp bảo quản thực phẩm cổ xưa.</Vi>
+              <En>Smoking is an ancient method of food preservation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
