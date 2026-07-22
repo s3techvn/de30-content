@@ -1,0 +1,48 @@
+<Vocab id="959f8c4b-0926-424f-ae84-cd2f2d89fe4a" word="summer" type="short" status="done">
+  <Topics>
+    <Topic id="059b2ddc-35cb-4dab-8b50-ba0eeaad49b8" value="Seasons" />
+    <Topic id="e76bc258-c6bd-45e8-bf27-97fd95e37b96" value="Weather" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="011e02e1-d229-45b2-bc6e-2894536a4b39" value="Agricultural Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="244fc7d2-d718-4c13-a373-6c71dd800157" ipa="/ˈsʌm.ɚ/" vi_ipa="xà-mơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd1e4b86-2943-4374-a39a-e561d277dace" type="Noun">
+          <Vi>Mùa hè</Vi>
+          <En>The season between spring and autumn, typically the warmest time of the year.</En>
+          <Example>Many people go to the beach during the summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9881511-c4e0-494b-bb68-7edf48d704a2">
+              <Vi>Thời tiết nắng nóng, học sinh nghỉ hè, cây cối xanh tốt.</Vi>
+              <En>Hot weather, school holidays, lush green vegetation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="852d6e2b-982f-4dfd-a32b-4deae7f66429" type="Verb">
+          <Vi>Nghỉ hè; tăng trưởng mạnh vào mùa hè (đối với một số loài sinh vật)</Vi>
+          <En>To spend the summer; to grow or increase rapidly during the summer months.</En>
+          <Example>The tomato plants summer quickly in the warm sun.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37b1fd13-5357-4fd1-b87d-14429e5acc48">
+              <Vi>Nhân viên nghỉ phép dài ngày trong tháng 6–8.</Vi>
+              <En>Employees take extended leave from June to August.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
