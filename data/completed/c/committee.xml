@@ -1,0 +1,36 @@
+<Vocab id="abcc81b4-dc5a-40a5-a6d6-255d2de24b93" word="committee" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="da0224b8-6683-4df9-9600-69ba40f2e9c7" ipa="/kəˈmɪt.i/" vi_ipa="cơ-mít-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cc556a9d-7d84-425e-9fc8-05b94e32486c" type="Noun">
+          <Vi>Ủy ban</Vi>
+          <En>A group of people appointed for a specific function, typically one involved in decision-making or oversight.</En>
+          <Example>The committee met to discuss the new school policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="31697424-bd40-48f0-bcad-2d75ba01d0fe">
+              <Vi>Một nhóm người được bầu hoặc bổ nhiệm để thực hiện nhiệm vụ cụ thể trong tổ chức.</Vi>
+              <En>A group of individuals selected to carry out a specific task or make decisions in an organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
