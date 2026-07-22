@@ -1,0 +1,52 @@
+<Vocab id="5130e12e-21d5-4ea8-b596-339c7295f199" word="responsible" type="short" status="done">
+  <Topics>
+    <Topic id="909fd87a-8895-46aa-ae5d-9620cdd21a6e" value="Personal Qualities" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5310cbfe-9b68-4d85-bb7c-e9528e62aa41" ipa="/rɪˈspɒn.sə.bəl/" vi_ipa="rít-xpôn-xờ-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f59c268b-d32d-484f-8fda-a2a7bc65423c" type="Adjective">
+          <Vi>trách nhiệm; có trách nhiệm; đáng tin cậy</Vi>
+          <En>having an obligation to do something; accountable for one’s actions and decisions</En>
+          <Example>She is a responsible employee who always meets her deadlines.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2725d79c-6575-425b-8de8-62f50876be80">
+              <Vi>Mô tả người biết tự giác làm tròn nghĩa vụ, không đổ lỗi cho người khác.</Vi>
+              <En>Describing someone who willingly fulfills duties and does not shift blame to others.</En>
+            </Situation>
+            <Situation id="fa8a16f9-63a7-4222-8618-0d64884e7841">
+              <Vi>Dùng để khen ngợi một người đáng tin cậy trong công việc hoặc đời sống.</Vi>
+              <En>Used to praise someone reliable in work or daily life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fa70dbb9-e252-441c-bbc4-97110bad4071" type="Adjective">
+          <Vi>làm nên hậu quả; có liên quan (đến một sự kiện, hành vi…)</Vi>
+          <En>causing or contributing to a particular outcome, especially a negative one</En>
+          <Example>The driver was held responsible for the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="abd39ff4-422b-4ae7-b89c-c73239dcff02">
+              <Vi>Sử dụng khi xác định người phải chịu hậu quả hoặc trách nhiệm pháp lý.</Vi>
+              <En>Used when identifying who must bear legal or practical consequences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
