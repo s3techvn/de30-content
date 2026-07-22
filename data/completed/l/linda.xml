@@ -1,0 +1,32 @@
+<Vocab id="f1a5a207-6e63-4fcd-b738-26d5247ced32" word="linda" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="c7b11448-d252-423c-af61-3dd61c1360f4" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="279d18f0-8ba1-4fb6-aacf-23fcc9e8240c" ipa="/ˈlɪn.də/" vi_ipa="lìn-đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bba43831-820b-47a8-b8a2-25a1645169a6" type="Proper Noun">
+          <Vi>Tên riêng (thường dùng cho nữ)</Vi>
+          <En>A female given name, of Spanish and Portuguese origin, meaning "beautiful" or "lovely".</En>
+          <Example>She introduced herself as Linda, smiling warmly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a977a6f-777d-4bee-9230-21743dc1c77c">
+              <Vi>Người nói giới thiệu hoặc nhắc đến một người tên Linda trong giao tiếp hàng ngày.</Vi>
+              <En>Someone introduces or refers to a person named Linda in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
