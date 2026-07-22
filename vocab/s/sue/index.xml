@@ -1,0 +1,45 @@
+<Vocab id="9ad4794d-e405-420b-87ba-1b751d514b4b" word="sue" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b3abdbd1-a670-4bf7-88c8-706df4520917" value="Plaintiff" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="20322d66-e0e6-4e09-ac66-cdf5689302a7" ipa="/suː/" vi_ipa="xui">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="114cc26f-78ed-4167-8920-560f0d65cfbc" type="Verb">
+          <Vi>khởi kiện, kiện ra tòa</Vi>
+          <En>To take legal action against someone in a court of law, typically to claim compensation for damage or loss.</En>
+          <Example>The company decided to sue the manufacturer after the product caused serious injuries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e23e56b9-13e1-4b53-a716-3e6d46429dad">
+              <Vi>Một người hoặc tổ chức đưa vụ việc ra tòa để đòi bồi thường hoặc thực thi quyền lợi.</Vi>
+              <En>A person or organization brings a case to court to seek compensation or enforce their rights.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f7ae7d09-2d85-49bc-a6e8-d4546c6fd6c5" type="Verb">
+          <Vi>đi cầu hôn (cũ)</Vi>
+          <En>To formally ask for someone’s hand in marriage, especially in a traditional or formal context (archaic).</En>
+          <Example>He sued for the hand of the merchant’s daughter in marriage.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="170420e8-4e1d-4d65-9650-b8ee1671368b">
+              <Vi>Người đàn ông chính thức xin phép cha mẹ cô gái để được kết hôn (ngày xưa).</Vi>
+              <En>A man formally requests the bride’s parents’ permission to marry their daughter (in former times).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
