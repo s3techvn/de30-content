@@ -1,0 +1,36 @@
+<Vocab id="36ba4797-0dbc-4d3f-a880-e5e93777ca5a" word="collected" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cc147db5-6341-49a9-ac2b-ae2a36592b41" ipa="/kəˈlektɪd/" vi_ipa="cơ-lec-tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f47015cf-38ef-4cd3-a956-b280c30cfd9d" type="Adjective">
+          <Vi>thư thái, điềm tĩnh, bình tĩnh</Vi>
+          <En>calm and composed, especially in a difficult situation</En>
+          <Example>She remained collected during the emergency evacuation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18be943e-64ec-4d11-9c4e-ddcdfefe4a2c">
+              <Vi>Mô tả một người không hoảng loạn, giữ được sự điềm tĩnh khi đối mặt với áp lực.</Vi>
+              <En>Describes someone who stays calm and composed under pressure or stress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
