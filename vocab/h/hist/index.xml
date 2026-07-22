@@ -1,0 +1,32 @@
+<Vocab id="0015b136-5e67-413a-a56c-f2200dd37325" word="hist" type="short" status="done">
+  <Topics>
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ba6c9e7-2d47-49a2-a8ad-71c467e2be46" ipa="/hɪst/" vi_ipa="hít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3652c8c0-a147-40d4-b3e5-7a33835e62e8" type="Interjection">
+          <Vi>Im lặng! (dùng để yêu cầu người khác im lặng, thường khi đang nghe hoặc muốn tập trung nghe một âm thanh)</Vi>
+          <En>Used to tell someone to be quiet, especially while listening to something.</En>
+          <Example>“Hist!” he whispered, holding a finger to his lips as the cat crept toward the bird.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3abddb7e-eed8-410c-adc4-619c1635f9cd">
+              <Vi>Người nói đang cố nghe một âm thanh nhỏ hoặc muốn ngăn người khác nói to trong tình huống cần yên tĩnh.</Vi>
+              <En>The speaker is trying to listen to a faint sound or wants to prevent others from speaking loudly in a quiet situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
