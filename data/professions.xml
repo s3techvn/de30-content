@@ -382,4 +382,6 @@
   <Profession id="ed2204c3-10d4-44d9-a930-224cf8e2e3b2" slug="engineering" value="Engineering" />
   <Profession id="d2301ef1-c595-4e8e-8627-3ef7ca397674" slug="swimwear-model" value="Swimwear Model" />
   <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" slug="firefighter" value="Firefighter" />
+  <Profession id="1598af48-571c-4c2b-a635-41fc94d99e1b" slug="carpet-installer" value="Carpet Installer" />
+  <Profession id="98d0bc6a-92d5-4b1c-92b4-d3d81f271a2a" slug="cleaning-service-technician" value="Cleaning Service Technician" />
 </Professions>

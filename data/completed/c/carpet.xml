@@ -1,0 +1,50 @@
+<Vocab id="b6a2689d-782c-4231-b5c4-d73fcdbebca8" word="carpet" type="short" status="done">
+  <Topics>
+    <Topic id="28da25b7-43e9-4771-8209-1ead6db88b6d" value="Home &amp; Interior" />
+  </Topics>
+  <Professions>
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="1598af48-571c-4c2b-a635-41fc94d99e1b" value="Carpet Installer" />
+    <Profession id="98d0bc6a-92d5-4b1c-92b4-d3d81f271a2a" value="Cleaning Service Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2558e8a5-ce9e-4126-b99d-2f4b7b0ec646" ipa="/ˈkɑːr.pɪt/" vi_ipa="cáp-pít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="21a56a65-c4ea-495a-a2bd-9804a191e890" type="Noun">
+          <Vi>Sàn trải bằng vải, len, sợi tổng hợp, thường dùng để lót sàn nhà</Vi>
+          <En>A thick fabric covering for a floor, typically made of wool, nylon, or other fibers, used for warmth, comfort, or decoration.</En>
+          <Example>The living room has a soft red carpet that absorbs sound well.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ade30b99-70e8-4fad-8836-cf1ad04bab53">
+              <Vi>Mua và lắp đặt thảm cho phòng khách</Vi>
+              <En>Buying and installing carpet in a living room</En>
+            </Situation>
+            <Situation id="ca7a55b3-fbc2-4383-bf75-629abb04209f">
+              <Vi>Vệ sinh thảm định kỳ bằng máy hút bụi hoặc dịch vụ chuyên nghiệp</Vi>
+              <En>Cleaning carpet regularly with a vacuum or professional service</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="843475e3-e4ac-4729-8382-70a05e173d58" type="Verb">
+          <Vi>Trải thảm lên sàn</Vi>
+          <En>To cover a floor with carpet.</En>
+          <Example>They decided to carpet the entire upstairs hallway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6dc132e7-096e-406b-bc5c-561c6fa92a0b">
+              <Vi>Thợ lát thảm đang trải thảm mới cho căn hộ chung cư</Vi>
+              <En>A carpet installer is laying new carpet in a condominium unit</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
