@@ -1,0 +1,64 @@
+<Vocab id="647e19ce-808b-4a5c-9c7f-cf25b1f788c5" word="away" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b9013171-e65e-4a65-a4a4-687faea72f9f" value="Movement &amp; Direction" />
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="50c74cde-4c61-41ff-813e-779d588c9ebc" value="Teacher (English)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8f42010d-fd97-411c-90c9-2ee2173b688e" ipa="/əˈweɪ/" vi_ipa="ơ-way">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a5321329-e9b7-4e2e-8b43-3cce407d416d" type="Adverb">
+          <Vi>xa, đi xa, rời khỏi</Vi>
+          <En>At a distance in space or time; no longer here or now.</En>
+          <Example>She drove away into the sunset.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1b2e3e51-d937-485b-9113-2c5b6ace2194">
+              <Vi>Mô tả việc người hoặc vật di chuyển ra khỏi vị trí hiện tại.</Vi>
+              <En>Describing movement from the current location to a different place.</En>
+            </Situation>
+            <Situation id="4e9b0c1c-b106-48d3-b3ab-28a9ac76223d">
+              <Vi>Mô tả thời gian đã trôi qua hoặc sắp trôi qua.</Vi>
+              <En>Describing time that has passed or is in the future.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bb0d14db-9236-413d-9eb7-647b41031c70" type="Adverb">
+          <Vi>xa nhau, không còn ở gần</Vi>
+          <En>Not in the same place or position; separated in space.</En>
+          <Example>The two cities are 500 miles away from each other.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="492e16a4-7c29-43a0-8d0a-7bf3b12e9cf8">
+              <Vi>Mô tả khoảng cách giữa hai địa điểm.</Vi>
+              <En>Describing the spatial separation between two locations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="26057bf0-0f00-481f-896a-ef08d8373172" type="Adverb">
+          <Vi>không còn nữa, đã qua</Vi>
+          <En>No longer existing, available, or present; no longer here.</En>
+          <Example>The bad weather is finally away.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ea5c460-a590-43cd-87f5-54f673d7c8da">
+              <Vi>Mô tả sự biến mất của một hiện tượng hoặc tình huống.</Vi>
+              <En>Describing the disappearance of a phenomenon or situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
