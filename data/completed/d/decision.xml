@@ -1,0 +1,40 @@
+<Vocab id="1de217a4-fb87-4de6-b5ed-2a08bb89603c" word="decision" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" value="Executive" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2ecd129c-4187-49a6-93a5-c89c64a86111" ipa="/dɪˈkɪʒ.ən/" vi_ipa="đi-khi-dơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="75d44c29-158a-4c59-94cc-d05eedea969b" type="Noun">
+          <Vi>quyết định</Vi>
+          <En>A choice or conclusion made after consideration of alternatives or evidence.</En>
+          <Example>She made a quick decision to accept the job offer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="be399cfc-52b9-42a1-aba0-7cee761c1418">
+              <Vi>Tình huống đưa ra lựa chọn giữa các phương án.</Vi>
+              <En>A situation where a person must choose between multiple options.</En>
+            </Situation>
+            <Situation id="ec23c3f2-a547-4b0f-b93b-1a3cedd3d5e1">
+              <Vi>Tình huống một thẩm phán đưa ra phán quyết cuối cùng.</Vi>
+              <En>A situation where a judge issues a final ruling.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
