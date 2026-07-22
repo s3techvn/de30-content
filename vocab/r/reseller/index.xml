@@ -1,0 +1,37 @@
+<Vocab id="4ccff784-7ccf-4576-83ab-9c4aceb18f66" word="reseller" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+    <Profession id="6a68b33d-3199-49e9-b113-f067085f36ea" value="E-commerce Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="70797482-5b6d-4853-8462-8a868aeffbec" ipa="/ˌriːˈsel.ər/" vi_ipa="ri-sờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f83fceaa-8c51-4323-8aaf-a8dbed8bae54" type="Noun">
+          <Vi>đại lý bán lại; nhà phân phối</Vi>
+          <En>a company or individual that buys goods from a manufacturer or wholesaler and sells them to retailers or end customers</En>
+          <Example>The software company partners with resellers to expand its market reach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8751a6f2-f371-466a-bf17-e03e9f61d8de">
+              <Vi>Công ty phần mềm cung cấp sản phẩm cho các đại lý bán lại để tiếp cận khách hàng cuối.</Vi>
+              <En>A software company supplies products to resellers to reach end customers.</En>
+            </Situation>
+            <Situation id="6e95d7ae-12ad-42f4-86aa-4c74db7401be">
+              <Vi>Nhà bán lẻ thường mua hàng với số lượng lớn từ nhà phân phối (reseller) để bán lại cho người tiêu dùng.</Vi>
+              <En>Retailers often buy bulk goods from a reseller to sell to consumers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

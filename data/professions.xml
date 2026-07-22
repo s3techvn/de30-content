@@ -321,4 +321,6 @@
   <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" slug="product-manager" value="Product Manager" />
   <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" slug="retail-manager" value="Retail Manager" />
   <Profession id="6a68b33d-3199-49e9-b113-f067085f36ea" slug="e_commerce-specialist" value="E-commerce Specialist" />
+  <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" slug="agricultural-engineer" value="Agricultural Engineer" />
+  <Profession id="f362ad08-79b7-4d86-abf3-41b28e54a155" slug="agronomist" value="Agronomist" />
 </Professions>
