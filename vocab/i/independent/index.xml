@@ -1,0 +1,40 @@
+<Vocab id="fdaaa237-2f87-4b6c-9b70-eded982287e2" word="independent" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="29d1e0d7-6d8b-4643-9364-155aa312f705" ipa="/ˌɪn.dɪˈpen.dənt/" vi_ipa="in-đi-pen-dơt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b4c249eb-dcef-458e-b647-74a75a525996" type="Adjective">
+          <Vi>độc lập, tự chủ</Vi>
+          <En>Not dependent on or influenced by others; free from outside control.</En>
+          <Example>She values her independent thinking and often challenges conventional wisdom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="125ec5df-419f-4b74-a193-93ed5a85bade">
+              <Vi>Một quốc gia không bị kiểm soát bởi nước ngoài.</Vi>
+              <En>A country that governs itself without foreign interference.</En>
+            </Situation>
+            <Situation id="2edbef4d-19b9-4858-a589-b93a075020b8">
+              <Vi>Một người có khả năng ra quyết định mà không cần sự hỗ trợ tài chính hay tinh thần từ người khác.</Vi>
+              <En>A person who can make decisions without relying on others for financial or emotional support.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
