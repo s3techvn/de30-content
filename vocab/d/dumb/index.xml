@@ -1,0 +1,61 @@
+<Vocab id="0af1cb29-9214-429c-8822-bd37aa8c137c" word="dumb" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="aa1ad14a-f0ff-4e77-8db3-658983884f1e" ipa="/dʌm/" vi_ipa="đăm">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31421dbc-a116-4201-ba6d-d9ed34251a5a" type="Adjective">
+          <Vi>ngu ngốc; câm (không nói được)</Vi>
+          <En>lacking intelligence; unable to speak</En>
+          <Example>He gave a dumb answer to a simple question.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1d9d80e-e250-4109-be8d-3203fb5bc426">
+              <Vi>Mô tả một người hành xử thiếu suy nghĩ hoặc không hiểu biết rõ vấn đề.</Vi>
+              <En>Describing someone who acts without thinking or lacks understanding of an issue.</En>
+            </Situation>
+            <Situation id="2d8292c5-48de-45d1-bd39-c1320d56d1d3">
+              <Vi>Chỉ người bị mất khả năng nói do tổn thương thần kinh hoặc bẩm sinh.</Vi>
+              <En>Referring to a person who is unable to speak due to neurological damage or congenital condition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1e6177ec-e794-4833-8013-2db8ebfdccf9" type="Adjective">
+          <Vi>không có khả năng phản ứng hoặc hoạt động (như máy móc)</Vi>
+          <En>not functioning or responsive, especially due to malfunction or lack of programming</En>
+          <Example>The remote control is dumb—it doesn’t work after I changed the batteries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2362d546-07bb-4db3-b870-7d368549c65d">
+              <Vi>Dùng khi thiết bị điện tử không hoạt động như mong đợi.</Vi>
+              <En>Used when an electronic device fails to operate as expected.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6f965d0a-66d2-4912-ac9e-586d3015275d" type="Adjective">
+          <Vi>(từ lóng) nhàm chán, tẻ nhạt</Vi>
+          <En>(slang) boring, uninteresting</En>
+          <Example>The party was pretty dumb—no music, no drinks, just awkward silence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08837aca-0247-4762-b3a1-2e89178ad685">
+              <Vi>Dùng để phàn nàn về một sự kiện hoặc hoạt động thiếu thú vị.</Vi>
+              <En>Used to complain about an event or activity that lacks excitement or fun.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
