@@ -1,0 +1,34 @@
+<Vocab id="521a765a-c7d7-4ba2-bd5e-fa4403dcaff0" word="similar" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="58f4fe49-0a6e-40bd-ac6a-3696f8e1aff6" ipa="/ˈsɪm.əl.ɚ/" vi_ipa="xì-mi-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cd6868eb-6d5e-4915-bf6b-b17c82dfb0cf" type="Adjective">
+          <Vi>giống, tương tự</Vi>
+          <En>Having the same or nearly the same characteristics, appearance, or qualities.</En>
+          <Example>These two smartphones have similar designs but different features.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="95c579cf-b529-4dcf-b58e-42498d7bcdb3">
+              <Vi>Mô tả hai hoặc nhiều vật có đặc điểm, hình dáng, hoặc tính năng gần giống nhau.</Vi>
+              <En>Describing two or more things that share nearly identical features, appearance, or qualities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

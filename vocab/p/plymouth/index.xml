@@ -1,0 +1,37 @@
+<Vocab id="7a0ea85d-6536-4d65-9bdd-f6a9cf8f756f" word="plymouth" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f02af70f-018c-4218-919d-cab373ed0f9c" ipa="/ˈplɪm.θ/" vi_ipa="p-li-mốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="23d2450a-f563-440b-920a-c62b45e0547c" type="Noun">
+          <Vi>Thành phố Plymouth, một cảng biển nổi tiếng ở Devon, Anh, nơi tàu Mayflower khởi hành năm 1620 để đến Tân Thế Giới</Vi>
+          <En>A port city in Devon, southwest England, famous as the departure point of the Mayflower in 1620, carrying the Pilgrims to North America</En>
+          <Example>The Pilgrims sailed from Plymouth to establish the Plymouth Colony in present-day Massachusetts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a36f433d-346d-40f1-b433-69eac18876de">
+              <Vi>Nghe về lịch sử nước Anh và hành trình của người Pilgrims</Vi>
+              <En>Discussing British history or the early colonization of North America</En>
+            </Situation>
+            <Situation id="2c318098-13c7-4c9a-bf3c-379e7c463311">
+              <Vi>Tham quan di tích lịch sử hoặc bảo tàng về tàu Mayflower</Vi>
+              <En>Visiting historical sites or museums related to the Mayflower voyage</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
