@@ -1,0 +1,38 @@
+<Vocab id="a534b680-8403-44ef-b623-a158e597a1f0" word="shaped" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f7ef670-dde7-44f7-a554-e5043ab43641" ipa="/ʃeɪpt/" vi_ipa="sây-pht">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1e8fbf89-23fd-44bc-bc33-8d95b41f9f7c" type="Adjective">
+          <Vi>được tạo hình; có hình dạng (như mong muốn hoặc đặc trưng)</Vi>
+          <En>having a particular shape, especially one that is well-defined or intended</En>
+          <Example>The clay was shaped into a smooth, rounded bowl.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="682e6e2f-630f-432b-bf22-6a07a7ea3391">
+              <Vi>Mô tả vật thể đã được tạo hình rõ ràng, thường bởi con người.</Vi>
+              <En>Describing an object that has been deliberately formed or molded into a specific form.</En>
+            </Situation>
+            <Situation id="9b324ca4-15b2-46d8-b075-1c4479285325">
+              <Vi>Dùng trong ngữ cảnh nghệ thuật, thiết kế, hoặc sản xuất.</Vi>
+              <En>Used in contexts involving art, design, or manufacturing where form is intentional.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
