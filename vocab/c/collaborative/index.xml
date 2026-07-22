@@ -1,0 +1,41 @@
+<Vocab id="1aa08b2a-bae7-4e14-8953-939bd0c50faa" word="collaborative" type="short" status="done">
+  <Topics>
+    <Topic id="1cb652e3-02f1-4ed5-b7f9-2517db44f313" value="Work &amp; Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c2f2eb15-6325-4f22-847f-9afaa5411720" value="Teamwork" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21c88852-fdc1-471c-862b-4edab000f9a7" ipa="/kəˈlæb.ər.ə.tɪv/" vi_ipa="kơ-láb-uh-rát-íp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6f9ade18-897f-4247-b110-3286d34b2c64" type="Adjective">
+          <Vi>hợp tác; cộng tác; làm việc cùng nhau</Vi>
+          <En>Working jointly with others, especially in a shared intellectual or creative effort.</En>
+          <Example>The team adopted a collaborative approach to solve the complex problem.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f47de209-417e-4a0b-8816-8f88e137f52d">
+              <Vi>Mô tả môi trường làm việc nhóm tích cực, nơi mọi người chia sẻ ý tưởng và trách nhiệm.</Vi>
+              <En>Describes a work environment where team members actively share ideas and responsibilities.</En>
+            </Situation>
+            <Situation id="b7dcd7a1-1d66-4dd3-945f-8b6fbb177031">
+              <Vi>Chương trình học yêu cầu sinh viên làm việc nhóm trên dự án nghiên cứu.</Vi>
+              <En>A course requiring students to collaborate on a research project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

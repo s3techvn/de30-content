@@ -1,0 +1,46 @@
+<Vocab id="4ceb159b-c401-4911-a78d-914292d9fe5e" word="vanilla" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="04d24a8f-e349-4d55-b645-b4bd3d323c40" ipa="/vəˈnɪl.ə/" vi_ipa="vơ-ni-la">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a175e7d7-e962-48dd-a449-d9bdc39a06a2" type="Noun">
+          <Vi>vani (hương liệu từ quả phong lan, dùng trong nấu ăn và làm bánh)</Vi>
+          <En>A fragrant, aromatic substance obtained from the seed pods of orchids of the genus Vanilla, used as a flavoring in food and beverages.</En>
+          <Example>She added a teaspoon of vanilla extract to the cake batter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6308b03-339a-4dde-ab6b-fbd5c9e14da6">
+              <Vi>Thêm vào bánh, kem, hoặc đồ uống để tăng hương vị.</Vi>
+              <En>Added to cakes, ice cream, or drinks to enhance flavor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0a432fee-84e5-4434-9092-ae275e20dcc4" type="Adjective">
+          <Vi>thông thường, đơn giản, không có gì đặc biệt (thường mang sắc thái tiêu cực)</Vi>
+          <En>Conventional, ordinary, or unremarkable; often used to imply lack of originality or excitement.</En>
+          <Example>The car was a plain vanilla sedan with no extra features.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d35e0832-d604-4fc7-aa17-e8a5205ddf6f">
+              <Vi>Mô tả một thứ gì đó rất cơ bản, không có tùy chọn nâng cao.</Vi>
+              <En>Describes something basic or standard, with no special features or modifications.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
