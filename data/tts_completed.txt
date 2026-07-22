@@ -619,3 +619,4 @@ bell
 pressure
 bearing
 failing
+struck
