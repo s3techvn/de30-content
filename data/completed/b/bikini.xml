@@ -1,0 +1,40 @@
+<Vocab id="a2a8f00d-44b6-4c28-80eb-c6201d86927a" word="bikini" type="short" status="done">
+  <Topics>
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="00f113b8-1700-4b3a-bbf4-b2b97815a22c" value="Leisure" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="d2301ef1-c595-4e8e-8627-3ef7ca397674" value="Swimwear Model" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="16fbe6a6-069a-4ee0-a2fd-e6638d10923d" ipa="/bɪˈkiː.ni/" vi_ipa="bi-ki-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df6720b4-9047-472b-b4f2-623eb503be13" type="Noun">
+          <Vi>Quần áo bơi hai mảnh (gồm áo chẽn và quần ngắn)</Vi>
+          <En>A two-piece swimsuit consisting of a bra-like top and briefs.</En>
+          <Example>She wore a vibrant red bikini while sunbathing on the beach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ffc6442-d991-497c-93c8-e6114f2578a2">
+              <Vi>Mô tả trang phục bơi phổ biến ở bãi biển hoặc hồ bơi.</Vi>
+              <En>Describing swimwear commonly worn at beaches or swimming pools.</En>
+            </Situation>
+            <Situation id="7c931f01-4bf4-48b7-91bc-004195f799ea">
+              <Vi>Trong bối cảnh thời trang mùa hè hoặc quảng cáo sản phẩm.</Vi>
+              <En>In the context of summer fashion or product advertising.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
