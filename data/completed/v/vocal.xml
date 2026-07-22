@@ -1,0 +1,38 @@
+<Vocab id="ca379184-4c7a-40a6-8fef-3bcdb4529ce4" word="vocal" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="853cb624-c597-48f5-a0f7-efb7a39116b0" ipa="/ˈvoʊ.kəl/" vi_ipa="vô-kờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="42dd7201-729b-4444-a36c-b2d91da31dbe" type="Adjective">
+          <Vi>thanh âm, bằng lời nói; phát ra từ giọng nói; liên quan đến giọng nói</Vi>
+          <En>relating to the voice or speech; expressed in words rather than music or other symbols</En>
+          <Example>She gave a vocal performance that moved the audience to tears.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1598db0-4ffd-4913-95ff-3231bc5089a5">
+              <Vi>Mô tả giọng nói rõ ràng, mạnh mẽ hoặc biểu cảm trong biểu diễn nghệ thuật.</Vi>
+              <En>Describing clear, strong, or expressive voice in artistic performance.</En>
+            </Situation>
+            <Situation id="dc48ca5c-40bc-4081-99f6-faa693862f9d">
+              <Vi>Chỉ sự thể hiện quan điểm hoặc cảm xúc một cách công khai và dứt khoát.</Vi>
+              <En>Indicating the public and forceful expression of an opinion or emotion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
