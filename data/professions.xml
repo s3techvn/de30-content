@@ -512,4 +512,5 @@
   <Profession id="76e3e1f7-1388-45f9-b2a2-ceb7029fe9b5" slug="hvac-technician" value="HVAC Technician" />
   <Profession id="3df43b50-7495-46fc-b637-47766faeda97" slug="home-builder" value="Home Builder" />
   <Profession id="bd92b89a-e608-4533-8857-95a6b5eced0c" slug="safety-inspector" value="Safety Inspector" />
+  <Profession id="19d945ec-15ac-40ad-a32d-3055be1d47e8" slug="public-official" value="Public Official" />
 </Professions>

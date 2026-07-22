@@ -1,0 +1,40 @@
+<Vocab id="a25ca1f2-15f3-4336-83bf-388b613bef78" word="administration" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" value="Administrator" />
+    <Profession id="19d945ec-15ac-40ad-a32d-3055be1d47e8" value="Public Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b42d98b7-fc40-41f6-ba47-c757a59caf40" ipa="/ədˈmɪn.ɪs.trə.t̬ən/" vi_ipa="ơ-đờ-mi-nít-trờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a8aac74-0824-4477-9ff3-e1ba41200fbd" type="Noun">
+          <Vi>Quản trị; sự điều hành; cơ quan quản lý</Vi>
+          <En>The act or process of managing or controlling something, especially a business or organization; also refers to the people or body responsible for this.</En>
+          <Example>The administration of the company announced new policies to improve employee satisfaction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f67f71ba-cf2c-4412-9a3e-14154c8a3c6f">
+              <Vi>Thảo luận về cách một tổ chức được điều hành và quản lý.</Vi>
+              <En>Discussing how an organization is managed and operated.</En>
+            </Situation>
+            <Situation id="eff6d9b8-0ff9-4549-8e7d-c69d7697cc2e">
+              <Vi>Chỉ cơ quan chính phủ hoặc ban lãnh đạo hiện tại (đặc biệt trong ngữ cảnh chính trị).</Vi>
+              <En>Refers to the current government or governing body, especially in political contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
