@@ -1,0 +1,48 @@
+<Vocab id="5a8aa2bc-c5b6-486b-af78-ce87f41aa140" word="terrible" type="short" status="done">
+  <Topics>
+    <Topic id="534ecd25-6f52-4c50-a3ff-2b8e3f76255f" value="Emotions and Descriptions" />
+  </Topics>
+  <Professions>
+    <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" value="General Public" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8a92c5e1-b123-4e1c-b409-a9028e8d71d3" ipa="/ˈtɛr.ə.bəl/" vi_ipa="tẹc-rơ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2d48941-3c15-4b75-8ef7-4a4f8354b852" type="Adjective">
+          <Vi>kinh khủng, khủng khiếp, rất xấu</Vi>
+          <En>extremely bad or unpleasant; causing fear or distress</En>
+          <Example>The weather was terrible, with heavy rain and strong winds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68be1162-d1f0-4dab-8ffb-91038dadf3a0">
+              <Vi>Mô tả tình huống khó chịu, nguy hiểm hoặc không dễ chịu về mặt thể chất/tinh thần.</Vi>
+              <En>Describing a situation that is very unpleasant, dangerous, or distressing.</En>
+            </Situation>
+            <Situation id="68916781-596a-4c65-86cf-e8bacd634a0b">
+              <Vi>Dùng để nhấn mạnh mức độ tiêu cực (ví dụ: terrible headache).</Vi>
+              <En>Used to emphasize a high degree of negativity (e.g., a terrible headache).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="22430d97-aec2-4b79-bd7f-29e8f405640c" type="Adjective">
+          <Vi>không thể chịu nổi, quá mức (dùng trong văn nói)</Vi>
+          <En>unbearable; too much to endure (used informally for emphasis)</En>
+          <Example>The traffic was terrible this morning—I was over an hour late.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34cd22df-1540-49d0-b940-62c4166dbf8d">
+              <Vi>Phản ứng cảm xúc khi gặp điều gì quá mức (ví dụ: quá đông, quá ồn).</Vi>
+              <En>Expressing exasperation or frustration at something overwhelming (e.g., too crowded, too noisy).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

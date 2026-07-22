@@ -1,0 +1,56 @@
+<Vocab id="fdeeb6a2-4a57-42b8-a172-d4073fadb5a4" word="segment" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="6239694f-3ead-45fb-9268-428540105c76" value="Data Visualization" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="190b4d45-5247-4c68-a27c-3292d1a4a0d9" ipa="/ˈseɡ.mənt/" vi_ipa="xì-ghém">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="83e1039c-4435-4df6-aa97-17396c0fa035" type="Noun">
+          <Vi>Đoạn thẳng; phân đoạn; phần được chia ra</Vi>
+          <En>A part of a line, curve, or figure bounded by two points or endpoints; a distinct part or division of something.</En>
+          <Example>The line segment AB connects points A and B.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="abe5b06d-4c7f-4350-933e-f29c81bf6a5b">
+              <Vi>Hình học: Đoạn thẳng nối hai điểm trên một đường thẳng.</Vi>
+              <En>In geometry: A straight portion of a line bounded by two endpoints.</En>
+            </Situation>
+            <Situation id="879620ca-e549-4a07-9cda-0ad29a680691">
+              <Vi>Phân tích dữ liệu: Một nhóm đối tượng được chia dựa trên đặc điểm chung.</Vi>
+              <En>In data analysis: A subset of a population grouped by shared characteristics (e.g., market segmentation).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="89ce41fc-bb0e-4732-b468-dd5541db938a" type="Verb">
+          <Vi>Chia thành các phần; phân đoạn</Vi>
+          <En>To divide something into distinct parts or sections.</En>
+          <Example>The report segments the data by age, gender, and region.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e3027ec-a160-43e0-bcaf-b6341c66903e">
+              <Vi>Chia một tập dữ liệu lớn thành các nhóm nhỏ hơn để phân tích.</Vi>
+              <En>To divide a large dataset into smaller, manageable groups for analysis.</En>
+            </Situation>
+            <Situation id="2e561451-9743-4d48-93e2-830007c7948a">
+              <Vi>Chia một chương trình phát sóng thành các phân đoạn quảng cáo.</Vi>
+              <En>To divide a broadcast program into commercial segments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
