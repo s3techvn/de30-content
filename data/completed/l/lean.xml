@@ -1,0 +1,65 @@
+<Vocab id="9b4dba32-8a2d-412a-badb-5baa436514a8" word="lean" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="6a37f007-98e7-4a9c-be03-22709a409353" value="Fitness Trainer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="99fddc99-91e9-4aa7-893e-936334f257db" ipa="/liːn/" vi_ipa="li-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="43184276-c55a-4cde-b0da-81017ae47b1d" type="Verb">
+          <Vi>ngả, dựa, nghiêng</Vi>
+          <En>to incline or bend from a vertical position; to rest against something for support</En>
+          <Example>He leaned his bike against the wall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a31a91aa-f8f1-4869-88d8-2654bbb4a1bf">
+              <Vi>Nghiêng người hoặc vật để dựa vào bề mặt đứng.</Vi>
+              <En>Inclining one’s body or an object against a vertical surface for support.</En>
+            </Situation>
+            <Situation id="f6622365-dda3-4b7a-ad5b-a47c70bec0ce">
+              <Vi>Ngả người ra sau khi mệt hoặc thư giãn.</Vi>
+              <En>Reclining or tilting backward when tired or relaxed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1f31c1cf-7c89-4a13-a37d-2d152a631bf4" type="Verb">
+          <Vi>phụ thuộc, dựa vào</Vi>
+          <En>to depend on someone or something for support, help, or truth</En>
+          <Example>We can’t lean entirely on technology to solve all our problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b47471e-3b28-413a-b308-3e436f70220c">
+              <Vi>Phụ thuộc vào một người hoặc tổ chức trong việc ra quyết định.</Vi>
+              <En>Relying on a person or organization when making decisions.</En>
+            </Situation>
+            <Situation id="9515b525-a07d-4d03-9165-0eeb576d33a3">
+              <Vi>Đặt niềm tin vào một nguồn thông tin hoặc lời khuyên.</Vi>
+              <En>Trusting a particular source of information or advice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c46b3e6d-f68b-462b-8f16-4c54ac92b0bc" type="Verb">
+          <Vi>thiên về, nghiêng về (ý kiến, xu hướng)</Vi>
+          <En>to have a preference or tendency toward a particular opinion, direction, or outcome</En>
+          <Example>The committee leaned toward supporting the new policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b18aa0d-5cdc-4072-a119-8a85f965cefb">
+              <Vi>Thể hiện sự ủng hộ ngầm hoặc thiên hướng trong tranh luận.</Vi>
+              <En>Expressing implicit support or倾向 in a discussion or debate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

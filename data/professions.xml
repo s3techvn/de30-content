@@ -468,4 +468,5 @@
   <Profession id="86fb7fe5-ab67-4ac3-8e81-88ee51c93ef6" slug="distilling" value="Distilling" />
   <Profession id="1c5fcc9c-b7d9-44b0-89be-930216345dc8" slug="energy-engineer" value="Energy Engineer" />
   <Profession id="af062394-937e-4fff-a434-341e5c32c035" slug="gambler" value="Gambler" />
+  <Profession id="6a37f007-98e7-4a9c-be03-22709a409353" slug="fitness-trainer" value="Fitness Trainer" />
 </Professions>
