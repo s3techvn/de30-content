@@ -1,0 +1,80 @@
+<Vocab id="8c8d6e29-7906-492d-979a-8e93a89f479a" word="protocol" type="short" status="done">
+  <Topics>
+    <Topic id="845058ea-b08e-4ff3-a525-f1443f822d2a" value="Diplomacy" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a0e12b8d-4c55-45a0-a3c2-d8a3d2191c5b" ipa="/ˈproʊ.tə.kæl/" vi_ipa="prô-tô-khắc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fdeec230-0cf2-4f73-b3b1-19f2ea21a8f7" type="Noun">
+          <Vi>ghi chú về nghi thức; quy định về nghi lễ</Vi>
+          <En>A system of rules or procedures governing diplomatic or official occasions, especially regarding order of precedence and formal conduct.</En>
+          <Example>The ambassador strictly adhered to diplomatic protocol during the state visit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1cbb64c7-86ac-402a-921c-e5691730f7d5">
+              <Vi>Trong các buổi tiếp kiến hoàng gia hoặc hội nghị quốc tế.</Vi>
+              <En>During royal audiences or international conferences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="acf4efe1-a768-42bc-aff9-e342d75faf62" ipa="/ˈproʊ.tə.kæl/" vi_ipa="prô-tô-khắc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0cc93d87-5ec8-47dc-ab46-ed1b1fbf9a52" type="Noun">
+          <Vi>giao thức (trong mạng máy tính)</Vi>
+          <En>A set of rules and procedures that govern how data is transmitted and received over a network.</En>
+          <Example>TCP/IP is the fundamental protocol of the Internet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="167afae8-0aaa-466e-a5a0-4e2277b8b2c0">
+              <Vi>Khi lập trình mạng hoặc cấu hình router, firewall.</Vi>
+              <En>When programming networks or configuring routers and firewalls.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="873cba5b-cede-431e-89db-a44aab55a2de" ipa="/ˈproʊ.tə.kæl/" vi_ipa="prô-tô-khắc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9a63c9af-440b-4a8f-9256-d96d88e200f0" type="Verb">
+          <Vi>ghi chép theo đúng nghi thức; thực hiện theo đúng quy trình</Vi>
+          <En>To record or carry out (an event or procedure) in accordance with established rules or procedures.</En>
+          <Example>The meeting was protocolled by a trained secretary.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36a4572d-0a2e-43d4-b1fc-b38824072e47">
+              <Vi>Khi một thư ký ghi biên bản họp theo đúng quy chuẩn.</Vi>
+              <En>When a secretary documents a meeting following formal standards.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
