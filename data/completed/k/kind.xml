@@ -1,0 +1,55 @@
+<Vocab id="68914427-83f4-4933-a165-6f811357f00f" word="kind" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="11f529d1-12ad-4631-9aa6-436593973126" ipa="/kaɪnd/" vi_ipa="kây-nđ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="936c5945-3a19-4c8d-beee-b15b0db464ff" type="Adjective">
+          <Vi>thân thiện; tốt bụng; dễ thương</Vi>
+          <En>having or showing a gentle and considerate nature; pleasant and generous in behavior.</En>
+          <Example>She was very kind to the new student, helping them settle in.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d6f8415-fe57-4f85-b6f0-807179929d86">
+              <Vi>Mô tả một người hành xử tử tế, quan tâm đến cảm xúc và nhu cầu của người khác.</Vi>
+              <En>Describes someone who acts with warmth, empathy, and generosity toward others.</En>
+            </Situation>
+            <Situation id="1f27cf8f-a811-45a9-be6b-4d190e040553">
+              <Vi>Phản ứng khi ai đó làm điều tốt mà không mong nhận lại.</Vi>
+              <En>A reaction to someone performing a helpful or thoughtful act without expecting anything in return.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="41d1a79e-ce4c-4df3-8f20-5416bed59a98" type="Adjective">
+          <Vi>loại; thuộc về một nhóm có đặc điểm chung</Vi>
+          <En>of a particular category or type; belonging to a group with shared characteristics.</En>
+          <Example>What kind of music do you like?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6593ed9d-0198-4b25-833f-4fed0e5c5376">
+              <Vi>Dùng để hỏi hoặc mô tả đặc điểm phân loại của một vật, hiện tượng.</Vi>
+              <En>Used when asking about or describing the category or nature of something.</En>
+            </Situation>
+            <Situation id="291eda63-a35b-4e41-9edd-c7cc20333553">
+              <Vi>Trong ngữ cảnh so sánh sự khác biệt giữa các nhóm (ví dụ: loại trái cây, loại xe).</Vi>
+              <En>In contexts comparing differences between categories (e.g., types of fruit, vehicles).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
