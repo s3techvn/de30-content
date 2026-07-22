@@ -398,4 +398,5 @@
   <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" slug="aerospace-engineer" value="Aerospace Engineer" />
   <Profession id="b0a39df3-4126-4690-9d3a-a48acab563d6" slug="medical-implant-specialist" value="Medical Implant Specialist" />
   <Profession id="ec5ee986-ced5-4c0d-9c84-5ceb9f091a57" slug="seafarer" value="Seafarer" />
+  <Profession id="90facd59-f44c-408f-b97c-4baf423b9198" slug="hunter" value="Hunter" />
 </Professions>
