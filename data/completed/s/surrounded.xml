@@ -1,0 +1,40 @@
+<Vocab id="506acdb8-1133-45e3-991d-d63b4a707f8d" word="surrounded" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="b3491586-1807-48b6-83f1-4046913e4b0f" value="Tourism Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6fe6caad-e6b1-42f6-9483-8fde7510e7d3" ipa="/səˈraʊn.dɪd/" vi_ipa="xơ-ra-un-dít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08a67c34-8a97-4920-8965-705253a2ed13" type="Adjective">
+          <Vi>bị bao quanh; được bao phủ bởi</Vi>
+          <En>Encircled or enclosed completely by something, typically people, objects, or terrain.</En>
+          <Example>The castle was surrounded by a wide moat and high stone walls.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55debb34-c97c-443f-97a4-217af6d5f2fd">
+              <Vi>Mô tả một địa điểm hoặc đối tượng bị che kín từ mọi phía bởi các yếu tố xung quanh.</Vi>
+              <En>Describes a location or object completely enclosed or hidden from view by surrounding elements.</En>
+            </Situation>
+            <Situation id="a0f6e727-c0b1-4b52-96de-030d909902b3">
+              <Vi>Sử dụng trong bối cảnh quân sự khi một đơn vị bị bao vây bởi lực lượng đối phương.</Vi>
+              <En>Used in military contexts when a unit is encircled and isolated by enemy forces.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
