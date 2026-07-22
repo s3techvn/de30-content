@@ -1,0 +1,39 @@
+<Vocab id="a6d471af-fd5e-43ca-bc0d-6e826b6fc76b" word="quiet" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" value="Sound Engineer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38db34be-1ad3-4934-8e17-538b213dfe7f" ipa="/ˈkwaɪ.ət/" vi_ipa="quai-ét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="153df499-51cc-4e26-a846-fbdd6b7e90eb" type="Adjective">
+          <Vi>im lặng, yên tĩnh, không ồn ào</Vi>
+          <En>making little or no noise; silent or calm.</En>
+          <Example>The library was quiet during the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9cd27000-1d35-4741-ae9f-95b5b39b41af">
+              <Vi>Mô tả một không gian không có tiếng ồn, phù hợp để học tập hoặc thư giãn.</Vi>
+              <En>Describing a space free from noise, suitable for studying or relaxation.</En>
+            </Situation>
+            <Situation id="a05fb491-4a66-450d-b458-391a0c81f725">
+              <Vi>Mô tả một người ít nói hoặc không thích ồn ào.</Vi>
+              <En>Describing a person who speaks little or prefers calm environments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
