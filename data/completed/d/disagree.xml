@@ -1,0 +1,38 @@
+<Vocab id="2c404154-dae6-488a-8925-a41bf60207f7" word="disagree" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="91a74f5f-ee57-4e59-9b72-9d665c39797f" ipa="/ˌdɪs.əˈɡriː/" vi_ipa="đít-sờ-grì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bff8ba5e-defe-4f41-a854-798068c6c798" type="Verb">
+          <Vi>tranh luận, không đồng ý, bất đồng</Vi>
+          <En>to have or express a different opinion from someone else; to be incompatible or inconsistent with something</En>
+          <Example>We disagree about the best way to solve this problem.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40c88a1d-d83a-44e2-8b9e-5997927e509d">
+              <Vi>Hai người có quan điểm trái ngược nhau trong một cuộc thảo luận.</Vi>
+              <En>Two people hold opposing views during a discussion.</En>
+            </Situation>
+            <Situation id="25166569-1ee2-4a57-9d3b-541647918092">
+              <Vi>Một báo cáo đưa ra dữ liệu mâu thuẫn với kết luận đã đưa ra.</Vi>
+              <En>A report presents data that is inconsistent with its stated conclusions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
