@@ -1,0 +1,33 @@
+<Vocab id="7ac65e53-1f3a-4739-904c-af824eee85f5" word="marc" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+    <Profession id="c210b2a0-40d8-419e-a9e9-984559c99091" value="Winemaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86cb625f-f21e-45e2-9d04-9420aeb23b2c" ipa="/mɑːrk/" vi_ipa="mác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a2ceb3e1-7269-4c6f-98b0-98a40fcff568" type="Noun">
+          <Vi>Đây là phần cặn (bã) còn lại sau khi ép trái cây, đặc biệt là nho, để làm rượu; còn gọi là bã rượu, cặn rượu.</Vi>
+          <En>The solid residue, especially grape skins, seeds, and stems, left after pressing fruit (especially grapes) for wine.</En>
+          <Example>The winery sells marc to distillers for use in producing brandy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a6439c23-8b9f-4618-a9f3-722caa72709b">
+              <Vi>Trong quy trình sản xuất rượu vang, marc được thu thập và chưng cất để tạo ra rượu mạnh.</Vi>
+              <En>In wine production, marc is collected and distilled to make strong spirits like marc brandy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
