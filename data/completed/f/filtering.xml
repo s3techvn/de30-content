@@ -1,0 +1,40 @@
+<Vocab id="4815ab0d-8f61-4161-8789-0fd9bd86517d" word="filtering" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="4efedf75-5888-453e-93b1-588758b65917" value="Environmental Engineer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1aae994d-8c5e-41c0-ad6f-f71c1b6372ad" ipa="/ˈfɪl.tər.ɪŋ/" vi_ipa="phít-tơ-rin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8faeac6-1a8b-4d88-b009-887c923b9b85" type="Noun">
+          <Vi>Quá trình lọc; sự lọc</Vi>
+          <En>The process or action of removing unwanted elements from a substance or data set.</En>
+          <Example>Water filtering is essential for providing safe drinking water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8243549f-eee8-42b3-bd83-1aaa43a6eba0">
+              <Vi>Quy trình loại bỏ cặn bẩn, vi khuẩn khỏi nước bằng màng lọc.</Vi>
+              <En>The process of removing impurities and bacteria from water using a filter.</En>
+            </Situation>
+            <Situation id="0ed2cbab-922f-4e34-b88e-0bf3b862c5e5">
+              <Vi>Hệ thống phần mềm loại bỏ nội dung không phù hợp khỏi luồng dữ liệu.</Vi>
+              <En>A software system that removes inappropriate content from a data stream.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

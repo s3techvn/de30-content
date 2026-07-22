@@ -341,3 +341,4 @@ wage
 stay
 funded
 applied
+drunk
