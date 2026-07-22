@@ -1,0 +1,39 @@
+<Vocab id="4e736230-8cea-470c-a659-c43e71e9f757" word="timothy" type="short" status="done">
+  <Topics>
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="d98a9f68-af6b-4d21-b9e0-c82deb86b5b9" value="Grassland Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4d9fbd25-8074-49c1-b22b-9b86d8868872" ipa="/ˈtɪm.ə.θi/" vi_ipa="tím-thơ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="37721a0e-5e98-49a6-9f8e-fe196e8b7572" type="Noun">
+          <Vi>Cây cỏ timothy, một loài cỏ lâu năm, có giá trị làm thức ăn cho gia súc.</Vi>
+          <En>A perennial grass (Phleum pratense) widely grown for hay and pasture, especially in cool temperate regions.</En>
+          <Example>Timothy hay is a common feed for horses due to its high fiber and low protein content.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="316ad44b-e727-4f61-851a-42aceecacc57">
+              <Vi>Nông dân thu hoạch timothy để làm cỏ khô cho bò sữa.</Vi>
+              <En>Farmers harvest timothy grass to make hay for dairy cattle.</En>
+            </Situation>
+            <Situation id="5ca471fe-b78c-40d1-ad9f-d071380c64fe">
+              <Vi>Bác sĩ thú y khuyên dùng cỏ timothy cho ngựa bị dị ứng phấn hoa.</Vi>
+              <En>A veterinarian recommends timothy hay for horses with pollen allergies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
