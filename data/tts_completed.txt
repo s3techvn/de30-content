@@ -19,3 +19,4 @@ unemployment
 understand
 upper
 insured
+israeli
