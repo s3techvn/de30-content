@@ -1,0 +1,55 @@
+<Vocab id="86d50dfe-449c-45c3-9b59-8d24500e6c02" word="tile" type="short" status="done">
+  <Topics>
+    <Topic id="f7acd5cd-fb22-41b5-8ded-f2ca3417ac07" value="Construction &amp; Home" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="02d35a75-6d11-4820-ac9d-ac34f514825d" ipa="/taɪl/" vi_ipa="tài-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="be68a76e-45bb-4ce9-84be-0ac4c22430ce" type="Noun">
+          <Vi>Vật lát nền hoặc ốp tường, thường làm bằng gốm, sứ hoặc đá</Vi>
+          <En>A flat, thin, usually rectangular piece of material (such as ceramic, stone, or glass) used to cover surfaces like floors, walls, or countertops.</En>
+          <Example>The bathroom was renovated with white ceramic tiles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d7377d7-88c7-4229-8cbb-3936582f1885">
+              <Vi>Khi nói về vật liệu xây dựng hoặc trang trí nội thất</Vi>
+              <En>When discussing building materials or interior decoration</En>
+            </Situation>
+            <Situation id="68a8e504-cd9c-4a09-b88e-a3b1a6973423">
+              <Vi>Khi mô tả việc lát sàn hoặc ốp tường</Vi>
+              <En>When describing floor or wall tiling work</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5def8da7-e9d3-4c94-89eb-7dac1b38856e" type="Verb">
+          <Vi>Lát hoặc ốp bằng gạch</Vi>
+          <En>To cover a surface (such as a floor or wall) with tiles.</En>
+          <Example>They decided to tile the kitchen backsplash with mosaic glass tiles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f0c5967f-346c-4d6d-9927-32e27cb9fa1f">
+              <Vi>Khi nói về công việc xây dựng hoặc cải tạo nhà</Vi>
+              <En>When talking about construction or home renovation work</En>
+            </Situation>
+            <Situation id="97a60492-8393-455b-a0f3-d12bebee03af">
+              <Vi>Khi mô tả quá trình hoàn thiện bề mặt</Vi>
+              <En>When describing the process of finishing a surface</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
