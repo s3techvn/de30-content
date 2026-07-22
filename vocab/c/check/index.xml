@@ -1,0 +1,90 @@
+<Vocab id="638eba0c-a5aa-4b2e-ba94-983ba6112760" word="check" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4ef6822c-a86a-48a7-9003-a052b9fd20ce" ipa="/tʃɛk/" vi_ipa="chéc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="32814feb-4b1f-4c37-80f0-a2d5a4353c22" type="Verb">
+          <Vi>Kiểm tra, xác minh</Vi>
+          <En>To examine or verify something to ensure it is correct, safe, or acceptable.</En>
+          <Example>Please check your email before sending the report.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5191bd6e-3b8c-4a6c-bc14-e3f4532e2a4c">
+              <Vi>Người dùng xác minh thông tin trên trang web trước khi đăng ký.</Vi>
+              <En>A user verifies information on a website before signing up.</En>
+            </Situation>
+            <Situation id="42a1aaa5-fe84-4258-9189-f0c085c72130">
+              <Vi>Nhân viên an ninh kiểm tra danh tính tại cổng.</Vi>
+              <En>Safety staff checks identification at the gate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c5ca90ba-1f88-4139-a05b-76a65e39ff7f" type="Noun">
+          <Vi>Sự kiểm tra; lệnh chi (trong ngân hàng)</Vi>
+          <En>A written order to a bank to pay a specified amount of money to someone; or an act of examining something.</En>
+          <Example>She wrote a check for $500 to pay the rent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c3c3b76-6c96-4424-8eb4-e6a9d2b39014">
+              <Vi>Người lao động nhận tiền lương qua lệnh chi.</Vi>
+              <En>The worker receives salary via a check.</En>
+            </Situation>
+            <Situation id="404a7f59-c585-4f4c-9f97-22428dcdadb9">
+              <Vi>Trong nhà hàng, khách yêu cầu hóa đơn và kiểm tra món ăn.</Vi>
+              <En>In a restaurant, the customer requests the bill and checks the dishes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2a2fa32b-3cd3-494e-a3c4-68d3d9eb872e" type="Verb">
+          <Vi>Ngăn cản, làm chậm lại</Vi>
+          <En>To stop or hinder the progress or movement of someone or something.</En>
+          <Example>The heavy rain checked the progress of the construction project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2b466da-042e-4c10-8838-e39757fc57ec">
+              <Vi>Chính sách mới đã làm chậm lại sự phát triển của công ty.</Vi>
+              <En>The new policy checked the company’s growth.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="384a0f93-6fa6-4428-889b-67796d27965b" ipa="/tʃɛk/" vi_ipa="chéc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="23117ab4-1ae2-4d86-983b-26e017f45a0f" type="Noun">
+          <Vi>Quân cờ (nước đi bắt quân đối phương)</Vi>
+          <En>A move in chess in which the king is under direct attack and must be protected.</En>
+          <Example>The player put the opponent’s king in check with a knight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc5bc0aa-0cce-4bdc-af06-c17f7ae9f2d8">
+              <Vi>Trong ván cờ vua, người chơi đưa vua đối phương vào thế chiếu.</Vi>
+              <En>In chess, the player puts the opponent’s king in check.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
