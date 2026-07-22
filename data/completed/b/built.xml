@@ -1,0 +1,56 @@
+<Vocab id="a121d6e2-7f0e-49b5-b5ef-eab9feb8d583" word="built" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="85bdb7e0-be96-42a6-aac0-12d48d85d45e" ipa="/bɪlt/" vi_ipa="bít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="01c8fa8b-5904-4160-b3c6-e33cd9f47e4b" type="Adjective">
+          <Vi>đã được xây dựng; đã được tạo dựng</Vi>
+          <En>Constructed or formed; having been put together or established.</En>
+          <Example>The old house was built of brick and wood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d91d1f6-2eb6-40f6-9c05-0a04a9e744f1">
+              <Vi>Mô tả một công trình đã được hoàn thành xây dựng.</Vi>
+              <En>Describing a structure that has been completed and assembled.</En>
+            </Situation>
+            <Situation id="a25d9d42-4362-4c73-bb9e-89b28e83a6cd">
+              <Vi>Dùng trong ngữ cảnh phần mềm để chỉ hệ thống đã được triển khai.</Vi>
+              <En>Used in software contexts to describe a system that has been deployed or implemented.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="73d69bd8-ce5a-458e-916c-1a47429630ac" type="Verb (past participle of build)">
+          <Vi>được xây dựng (hành động đã xảy ra trong quá khứ)</Vi>
+          <En>The past participle of 'build', used in passive voice and perfect tenses to indicate construction or creation.</En>
+          <Example>The bridge was built in 1995 and still stands today.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14dbcba6-ea86-4f8d-9669-ac7f88197cad">
+              <Vi>Mô tả hành động xây dựng đã hoàn tất trong quá khứ.</Vi>
+              <En>Describing a completed construction action in the past.</En>
+            </Situation>
+            <Situation id="030800e6-7ce8-48b7-89ba-e32468f8f570">
+              <Vi>Dùng trong cụm từ như 'built-in feature' (tính năng được tích hợp sẵn).</Vi>
+              <En>Used in phrases like 'built-in feature' (a feature that is inherently part of a system).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

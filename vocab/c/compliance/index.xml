@@ -1,0 +1,40 @@
+<Vocab id="1288a3f6-2761-4c0a-9a09-855f01248bb3" word="compliance" type="short" status="done">
+  <Topics>
+    <Topic id="f92731dc-64e3-4d59-bd42-2c59818c456e" value="Law &amp; Regulation" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="ec07a7d1-768d-425f-b10e-b9f86222f57c" value="Compliance Officer" />
+    <Profession id="fb4c6b29-7f93-426d-9cba-5c2cdac93dbf" value="Legal Counsel" />
+    <Profession id="bb9daf26-d41c-485a-a1d6-7acd75eebe45" value="Healthcare Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21fbb13e-8fc4-4ad0-82d3-711090875124" ipa="/kəmˈplaɪ.əns/" vi_ipa="cờm-plây-ơt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="81904b8c-12ac-41e6-ad1f-803a4d563638" type="Noun">
+          <Vi>việc tuân thủ; sự tuân theo</Vi>
+          <En>The act of complying with rules, laws, or requests; adherence to requirements or standards.</En>
+          <Example>The company faced penalties for lack of compliance with environmental regulations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7d100a9-bcf1-457c-8260-dc55262247e2">
+              <Vi>Doanh nghiệp thực hiện các biện pháp để đảm bảo tuân thủ luật lao động.</Vi>
+              <En>A company implements measures to ensure adherence to labor laws.</En>
+            </Situation>
+            <Situation id="ce55c5b8-ce60-4719-82dc-538b5c16b668">
+              <Vi>Báo cáo kiểm toán đánh giá mức độ tuân thủ của tổ chức.</Vi>
+              <En>The audit report assesses the organization’s level of compliance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
