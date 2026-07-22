@@ -1,0 +1,80 @@
+<Vocab id="7570dd30-1493-4534-b883-7628a751c5a6" word="flash" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="ca1f6bfe-bf7b-4c30-957e-88c4a4eaf11f" value="Light &amp; Vision" />
+    <Topic id="9c635aaa-3d85-47bd-96b5-045868ac1b36" value="Emergency &amp; Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f936667f-432f-4876-b769-367a82b309b6" ipa="/flæʃ/" vi_ipa="ph-lờ-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="403d716b-0e2f-429b-91f1-bb36dc9a8725" type="Noun">
+          <Vi>Chớp sáng; tia chớp; ánh sáng chói lóe lên</Vi>
+          <En>A brief, intense burst of light, especially from lightning or a camera</En>
+          <Example>The camera emitted a loud *flash* as the photo was taken.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab67a7a1-edf9-487d-980f-37d7524d3dba">
+              <Vi>Mô tả ánh sáng chói lóe lên trong bóng tối, ví dụ như từ đèn strobe hoặc tia chớp.</Vi>
+              <En>Describes a sudden, bright burst of light in darkness, e.g., from a strobe light or lightning.</En>
+            </Situation>
+            <Situation id="8129163f-ed2b-49fb-994a-a24330aae652">
+              <Vi>Sử dụng trong nhiếp ảnh để bổ sung ánh sáng chớp khi chụp ảnh.</Vi>
+              <En>Used in photography to provide a brief burst of light when taking a photo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="32d04c28-c7d3-4e5e-b75d-295e4918a387" type="Verb">
+          <Vi>Chớp sáng; lóe lên; làm chớp sáng</Vi>
+          <En>To emit or reflect a brief, intense burst of light</En>
+          <Example>The lightning *flashed* across the sky, illuminating everything for a split second.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a60a2a7b-b96f-4296-b2ea-416fe8d2bf18">
+              <Vi>Mô tả tia chớp xuất hiện trên bầu trời trong cơn giông.</Vi>
+              <En>Describes lightning appearing in the sky during a thunderstorm.</En>
+            </Situation>
+            <Situation id="d7a9cb53-926b-435c-93df-4b55f6f30398">
+              <Vi>Mô tả ánh sáng phản xạ chói lóe lên từ bề mặt kim loại hoặc kính.</Vi>
+              <En>Describes a bright, reflective burst of light bouncing off a metallic or glass surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f72b4fae-206a-4220-9a05-9ccbb98f2e24" type="Noun">
+          <Vi>Hiệu ứng chớp (trong điện tử/viễn thông)</Vi>
+          <En>A sudden, short-lived surge of electrical current or signal</En>
+          <Example>The camera’s *flash* memory stores data using electrical charges.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bed0f2a-e1f2-4eb0-9d1c-b154c4ff3e22">
+              <Vi>Mô tả dữ liệu được lưu trữ trong bộ nhớ flash (USB, SSD).</Vi>
+              <En>Describes data stored in flash memory devices like USB drives or SSDs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="06f296ad-df5b-4179-9088-e5bf73266698" type="Verb">
+          <Vi>Hiện lên nhanh chóng (ý nghĩ, hình ảnh, cảm xúc)</Vi>
+          <En>To appear suddenly and briefly in the mind or on a screen</En>
+          <Example>A memory *flashed* through her mind as she heard the old song.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="35c20dc7-bf65-4614-99de-3bbe0fe95a54">
+              <Vi>Mô tả một hình ảnh hoặc cảm xúc xuất hiện chớp nhoáng trong đầu.</Vi>
+              <En>Describes a sudden, fleeting image or emotion that crosses one’s mind.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
