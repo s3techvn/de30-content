@@ -1,0 +1,38 @@
+<Vocab id="97772991-d95b-4223-83b8-fe87944be4ca" word="argentina" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a8443f74-c010-461d-94a4-f3144cd984d1" value="International Trade Specialist" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fbe4dc4d-867f-4f1f-b621-a588a807ffeb" ipa="/ɑːrˈɡɛntɪnə/" vi_ipa="ác-gin-ta-na">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b1b4bbc5-732f-4372-8189-54579790170d" type="Noun">
+          <Vi>Argentina (quốc gia ở Nam Mỹ)</Vi>
+          <En>The Republic of Argentina, a country in southern South America, known for tango, beef, and the Andes mountains.</En>
+          <Example>Many tourists visit Buenos Aires, the capital of Argentina, to experience its vibrant culture and architecture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b271956a-2782-4460-a82d-e0f376feb171">
+              <Vi>Thảo luận về du lịch, ẩm thực, hoặc thể thao (như bóng đá) liên quan đến quốc gia này.</Vi>
+              <En>Discussing travel, cuisine (e.g., asado), or sports (especially football) related to this South American nation.</En>
+            </Situation>
+            <Situation id="093f9d69-24e6-44b5-b27f-4c2c34b89de3">
+              <Vi>Trong ngữ cảnh kinh tế hoặc thương mại quốc tế, đề cập đến nền kinh tế và xuất khẩu của Argentina.</Vi>
+              <En>In economic or international trade contexts, referring to Argentina’s economy and exports (e.g., soybeans, beef).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
