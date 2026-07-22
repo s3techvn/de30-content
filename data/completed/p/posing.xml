@@ -1,0 +1,41 @@
+<Vocab id="5f413ea2-75de-4133-861b-44a0bb0879ea" word="posing" type="short" status="done">
+  <Topics>
+    <Topic id="1916a8fe-248e-4d17-9cce-fa66c2202e37" value="Art &amp; Performance" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fed7502e-cdf4-4af0-b95b-c78871216530" ipa="/ˈpoʊ.zɪŋ/" vi_ipa="pô-dzinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9a79ca61-cd4c-4d23-a3df-ee6c1ad5121d" type="Verb">
+          <Vi>giả tạo, tạo dáng, làm dáng</Vi>
+          <En>to assume a particular posture, especially for artistic or photographic purposes, or to behave in a way that is insincere or intended to impress others</En>
+          <Example>She spent ten minutes posing for the portrait before the artist was satisfied.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9c0fcb1-8849-4077-96ef-eabf36dc5e48">
+              <Vi>Người mẫu tạo dáng cho nhiếp ảnh gia trong buổi chụp ảnh.</Vi>
+              <En>A model assumes a specific posture for a photographer during a photo shoot.</En>
+            </Situation>
+            <Situation id="dbe7e0df-fadf-49e6-9343-a480ac2b106c">
+              <Vi>Người khác giả vờ quan tâm để gây ấn tượng với người khác.</Vi>
+              <En>Someone pretends to be interested or concerned to impress others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
