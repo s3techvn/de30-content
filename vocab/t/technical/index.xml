@@ -1,0 +1,52 @@
+<Vocab id="3d62bc8b-9190-4fdc-8506-2ac9f9fd79ed" word="technical" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b0774cb-0257-4328-b474-beebc51c5d92" ipa="/ˈtek.nɪ.kəl/" vi_ipa="téc-ních-kờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6db2e31a-4bdf-4eaf-8847-906ff393bcd9" type="Adjective">
+          <Vi>thuộc về kỹ thuật; chuyên môn</Vi>
+          <En>relating to the practical application of science, especially engineering or computing</En>
+          <Example>The software has many technical features that appeal to advanced users.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ed42abf-9bd6-4058-873f-9c8c21c6a5b8">
+              <Vi>Mô tả các khía cạnh cụ thể của công nghệ, hệ thống, hoặc quy trình kỹ thuật.</Vi>
+              <En>Used when describing specific aspects of technology, systems, or technical processes.</En>
+            </Situation>
+            <Situation id="20439c64-78c4-4941-85b9-8b8aeea0a893">
+              <Vi>Phản ánh sự phức tạp hoặc yêu cầu chuyên môn trong một lĩnh vực.</Vi>
+              <En>Used to indicate complexity or specialized knowledge required in a field.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5ef56b6b-7f4e-49c0-bd9f-294ac58296f8" type="Adjective">
+          <Vi>chính xác, đúng theo kỹ thuật (thường dùng trong "technical correctness")</Vi>
+          <En>correct according to the rules or standards, even if not practical or user-friendly</En>
+          <Example>The document is technically correct, but it's hard to understand for non-experts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6b81d42-c598-404f-8c23-f77d3c6d2ab2">
+              <Vi>Khi một chi tiết hoặc thông tin đúng về mặt quy định nhưng không thực tế.</Vi>
+              <En>When a detail or piece of information is correct per rules but not practical in real use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
