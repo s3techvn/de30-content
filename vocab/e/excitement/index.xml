@@ -1,0 +1,38 @@
+<Vocab id="fc025302-2d77-4ac5-a7f7-62e9246d082b" word="excitement" type="short" status="done">
+  <Topics>
+    <Topic id="68319244-13aa-4e8c-9877-c347b6864187" value="Emotions &amp; Feelings" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0a4cb9f1-0f08-4737-a1fd-a10c973fd635" ipa="/ɪkˈsaɪt.ment/" vi_ipa="ích-sai-tợm-nt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2af84b8-d5f9-49f9-bf0d-e4f40ae6c6b6" type="Noun">
+          <Vi>Sự hào hứng, sự phấn khích</Vi>
+          <En>A feeling of enthusiasm and eagerness, often accompanied by physiological arousal such as increased heart rate.</En>
+          <Example>She felt a surge of excitement when she opened the acceptance letter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4854dd8-71ec-4cc6-a838-f71bba5d4604">
+              <Vi>Tình huống khi một người cảm thấy phấn khích trước một sự kiện sắp xảy ra, như ngày đầu đi làm hoặc nhận được tin vui.</Vi>
+              <En>A situation where someone feels enthusiastic and eager, such as before a job start date or receiving good news.</En>
+            </Situation>
+            <Situation id="9e5b2800-f793-4b0c-8dc8-6d4b97131e80">
+              <Vi>Tình huống trong thể thao hoặc giải trí khi khán giả reo hò, cổ vũ cuồng nhiệt.</Vi>
+              <En>A situation in sports or entertainment where the audience cheers and shows intense enthusiasm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

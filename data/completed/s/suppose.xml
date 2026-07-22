@@ -1,0 +1,56 @@
+<Vocab id="091129d0-7f28-48a5-9c52-ea7681cbfa3d" word="suppose" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0f6d98c2-0d41-4411-9f4b-a9db65fd93e0" ipa="/səˈpoʊz/" vi_ipa="xơ-po-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8d90792-702f-4363-abb2-2fa04acc761c" type="Verb">
+          <Vi>giả định, cho rằng</Vi>
+          <En>to assume or consider something to be true, often without proof</En>
+          <Example>Suppose it rains tomorrow—will the picnic still happen?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a0d0c4d-ac8e-495f-9170-482eb1302554">
+              <Vi>Trong một cuộc tranh luận hoặc thảo luận, người nói đưa ra một giả định để kiểm tra lập luận.</Vi>
+              <En>In a discussion or debate, the speaker introduces a hypothetical assumption to test reasoning.</En>
+            </Situation>
+            <Situation id="9ef565f4-e7eb-4657-8cc5-166096fbef24">
+              <Vi>Trong toán học hoặc logic, dùng để thiết lập một điều kiện giả định.</Vi>
+              <En>In mathematics or logic, used to set up a hypothetical condition for deduction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2889a6f6-bc2f-4056-afdb-5c48cd4ecb0f" type="Verb">
+          <Vi>được cho là, được cho rằng (dùng trong câu hỏi hoặc câu trần thuật để thể hiện sự không chắc chắn hoặc khiêm tốn)</Vi>
+          <En>used to express a tentative opinion or suggestion, often in questions or polite statements</En>
+          <Example>I suppose we could meet at 3 p.m., if that works for you.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73bd2482-ed5a-4ac6-a1e5-519792eb5c42">
+              <Vi>Người nói bày tỏ ý kiến một cách khiêm tốn hoặc không chắc chắn.</Vi>
+              <En>The speaker expresses an opinion tentatively or with uncertainty.</En>
+            </Situation>
+            <Situation id="60fee16f-a144-4980-ba16-cc9b4eeebb9e">
+              <Vi>Trong giao tiếp hàng ngày, dùng để đồng ý một cách miễn cưỡng hoặc có điều kiện.</Vi>
+              <En>In everyday conversation, used to reluctantly or conditionally agree.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
