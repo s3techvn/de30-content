@@ -1,0 +1,56 @@
+<Vocab id="df8ed274-7bdf-4fb4-8e55-0932d5d8d168" word="civilian" type="short" status="done">
+  <Topics>
+    <Topic id="6bce3aa2-cf99-4ced-bd3f-6d6428443456" value="Law &amp; Safety" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="f59c859c-a3ba-45ce-872b-3741d9eab3bf" value="Society" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c95e1fe4-5fe4-40f5-9f1f-2d718c8bd2c4" ipa="/ˈsɪv.ɪ.ljən/" vi_ipa="xí-vi-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f4b5610-b4b1-4847-bd46-85b48e5bf88f" type="Adjective">
+          <Vi>thường dân; dân sự</Vi>
+          <En>Not a member of the military, police, or other uniformed service; belonging to the ordinary people of a country.</En>
+          <Example>The protest was peaceful, with only civilians present.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6dae8fa3-b36f-4a93-9560-caf1d87702aa">
+              <Vi>Mô tả người không thuộc lực lượng vũ trang hoặc an ninh.</Vi>
+              <En>Describing someone who is not part of the armed forces, police, or other official security services.</En>
+            </Situation>
+            <Situation id="e5b1b8e0-aa71-4bf0-8d7e-db26fcb13960">
+              <Vi>Phân biệt giữa quân nhân và người dân bình thường trong xung đột hoặc thảm họa.</Vi>
+              <En>Distinguishing between military personnel and ordinary people during conflict or disaster.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3d51c76b-9dd3-4bf3-9a42-567306a1b384" type="Noun">
+          <Vi>thường dân; người dân thường</Vi>
+          <En>A person who is not a member of the military, police, or fire service.</En>
+          <Example>Civilians were evacuated from the zone following the explosion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58aa7b1e-13e9-4f76-9425-729060636e55">
+              <Vi>Liên quan đến quyền và an toàn của người dân trong chiến tranh hoặc khủng hoảng.</Vi>
+              <En>Referring to the rights and safety of non-combatants during war or crisis.</En>
+            </Situation>
+            <Situation id="b02e43bc-860c-4e65-a70b-4c265417a21b">
+              <Vi>Trong báo cáo tai nạn hoặc sự cố, chỉ người không phải nhân viên cứu hộ hay lực lượng chức năng.</Vi>
+              <En>In accident or incident reports, referring to individuals who are not first responders or official personnel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
