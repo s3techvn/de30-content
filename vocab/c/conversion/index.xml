@@ -1,0 +1,52 @@
+<Vocab id="93e0d67a-a4a5-438d-ba54-0cd247063de5" word="conversion" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2f76166e-17d6-44d3-a53f-7ce97d42f99f" ipa="/kənˈvɜː.ʃən/" vi_ipa="cơn-vơ-chờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="10202d94-6023-4fda-b152-9cad1b048d73" type="Noun">
+          <Vi>Sự chuyển đổi, chuyển hóa</Vi>
+          <En>The act of changing something from one form, state, or purpose to another.</En>
+          <Example>The company announced a major conversion of its legacy systems to cloud-based infrastructure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="788350e1-6097-4145-a87e-a6868afcda27">
+              <Vi>Chuyển đổi hệ thống phần mềm cũ sang công nghệ mới</Vi>
+              <En>Replacing outdated software with modern, cloud-based platforms</En>
+            </Situation>
+            <Situation id="6a3c7a10-c7d5-452c-ab1c-63ad39a202ec">
+              <Vi>Chuyển đổi tôn giáo</Vi>
+              <En>Adopting a new religion after leaving one's previous faith</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ab0d66ae-dc45-4241-a12a-7255a085ff83" type="Noun">
+          <Vi>Sự quy đổi (đơn vị, tiền tệ, v.v.)</Vi>
+          <En>The process of changing a quantity from one unit or currency to another using a conversion factor.</En>
+          <Example>She needed to calculate the conversion of dollars to euros at the current exchange rate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed077684-ccfb-48dc-8de3-a408f4b22954">
+              <Vi>Quy đổi tiền tệ khi du lịch nước ngoài</Vi>
+              <En>Exchanging US dollars for Japanese yen at a bank or airport kiosk</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
