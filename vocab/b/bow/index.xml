@@ -1,0 +1,118 @@
+<Vocab id="cde84551-7cc5-4d11-a1a5-e4736d3f80c0" word="bow" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="d0bdb9fe-784a-4ccd-8f1c-1f647f3436e3" value="Martial Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="da367c8f-a53c-40a6-9383-e566e4b08174" value="Martial Artist" />
+    <Profession id="c3d723e0-cd26-4b94-ba4f-f6d09be3bf1b" value="Performer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="05713c8e-fcea-4e63-9d71-ea9a5c9018ab" ipa="/baʊ/" vi_ipa="bao">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9b416890-1e0d-4901-a417-007070897c2a" type="Noun">
+          <Vi>Cây cung (dùng để bắn tên)</Vi>
+          <En>A curved piece of wood or other material used with a string to shoot arrows.</En>
+          <Example>He practiced archery with a traditional longbow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c535d6d5-c5e4-45f9-bb8a-250f9e0328db">
+              <Vi>Trong môn bắn cung, người chơi cầm cung bằng tay trái và kéo dây bằng tay phải.</Vi>
+              <En>In archery, the archer holds the bow with the left hand and draws the string with the right.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fb15515b-5236-480a-b5ff-377f16a4c86b" type="Noun">
+          <Vi>Nút thắt (trên dây đàn violin, guitar, v.v.)</Vi>
+          <En>A knot or loop in a string of a musical instrument, especially a violin, used to secure the string to the peg or tailpiece.</En>
+          <Example>The violinist adjusted the bow on the tailpiece before tuning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0146bed1-ae92-4c31-b995-0544ae61db62">
+              <Vi>Khi thay dây đàn, nghệ sĩ cần buộc lại nút thắt ở cuối dây đàn.</Vi>
+              <En>When changing strings, the musician needs to reattach the bow knot at the end of the string.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dc2db7c3-fdb8-4c2f-9eb3-887bdbd54c50" type="Noun">
+          <Vi>Đoạn cong (trên thân đàn violin, dùng để kéo dây)</Vi>
+          <En>The curved stick with horsehair stretched between its ends, used to play string instruments like the violin.</En>
+          <Example>She rosined the bow before playing the concerto.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d30170be-54dc-4647-a9df-46e02831bc27">
+              <Vi>Nghệ sĩ vỗ nhẹ vào rosin trước khi kéo đàn bằng cần kéo.</Vi>
+              <En>The musician taps rosin onto the bow before playing the concerto with it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d12e8caf-c329-4e81-a24c-4610465de8f3" type="Noun">
+          <Vi>Sự cúi người, sự chào (để thể hiện kính trọng)</Vi>
+          <En>A movement in which the head or upper body is bent forward, especially as a sign of respect or greeting.</En>
+          <Example>The audience rose and bowed to the conductor after the performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5a79ffc-fe3b-4c64-be9c-7b1d8f1b2d26">
+              <Vi>Sau buổi biểu diễn, các nghệ sĩ cúi chào khán giả để cảm ơn.</Vi>
+              <En>After the performance, the performers bowed to the audience to express gratitude.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fe2d3e8d-be48-4a04-9bab-6fdfcb9945e1" ipa="/boʊ/" vi_ipa="bơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e29684a5-0017-4a9b-b847-fe927d390d51" type="Verb">
+          <Vi>Cúi người, chào (để thể hiện kính trọng)</Vi>
+          <En>To bend the head or body forward, especially as a sign of respect, submission, or greeting.</En>
+          <Example>She bowed deeply to the audience before beginning her speech.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a3d21704-3af1-4f36-8747-d8dc1ec84d32">
+              <Vi>Trong nghi lễ truyền thống, các học trò phải cúi chào thầy giáo trước khi vào lớp.</Vi>
+              <En>In traditional ceremonies, students must bow to their teacher before entering the classroom.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="41560674-3bb5-482a-8320-e194fc756cff" type="Verb">
+          <Vi>Tuân theo, phục tùng (một cách khiêm tốn)</Vi>
+          <En>To submit oneself humbly to someone else’s authority or wishes.</En>
+          <Example>He bowed to the pressure and resigned from his position.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28a0f2a2-9380-409b-ad8b-0f2fd42cb0da">
+              <Vi>Sau nhiều lần phản đối, ông ấy cuối cùng cũng chấp nhận quy định mới.</Vi>
+              <En>After repeated objections, he finally bowed to the new regulation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7e25ea2b-7c20-4fb7-b623-ef8405eb3885" type="Verb">
+          <Vi>Kéo đàn (bằng cần kéo)</Vi>
+          <En>To play a stringed instrument using a bow.</En>
+          <Example>The violinist bowed the strings gently to produce a soft melody.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="32e754db-b989-49b1-b5f3-cbd893a537cb">
+              <Vi>Nghệ sĩ bắt đầu bằng cách kéo nhẹ cần kéo trên dây đàn.</Vi>
+              <En>The musician began by gently bowing the strings to warm up.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
