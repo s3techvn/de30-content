@@ -254,4 +254,5 @@
   <Profession id="85ccac38-91de-4ce4-a1d7-e2cbd7a795e7" slug="audio-engineer" value="Audio Engineer" />
   <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" slug="electrical-engineer" value="Electrical Engineer" />
   <Profession id="67904fc7-7357-4c88-9065-b4a6716b394f" slug="mail-carrier" value="Mail Carrier" />
+  <Profession id="cfef3497-1f4d-489c-b96a-5a9681c849fb" slug="union-leader" value="Union Leader" />
 </Professions>
