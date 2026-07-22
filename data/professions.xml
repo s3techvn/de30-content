@@ -229,4 +229,5 @@
   <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" slug="salesperson" value="Salesperson" />
   <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" slug="singer" value="Singer" />
   <Profession id="00d0e38b-b4bc-4056-a5c5-e45f78cc7f94" slug="medicine" value="Medicine" />
+  <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" slug="consumer" value="Consumer" />
 </Professions>
