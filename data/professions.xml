@@ -257,4 +257,5 @@
   <Profession id="cfef3497-1f4d-489c-b96a-5a9681c849fb" slug="union-leader" value="Union Leader" />
   <Profession id="7d3b2690-b1bc-4a07-9a4c-ae5afd9949a7" slug="business-executive" value="Business Executive" />
   <Profession id="4b41bf05-1111-4e2e-bf40-5da6e1fb22be" slug="sustainability-consultant" value="Sustainability Consultant" />
+  <Profession id="4327c24a-e459-48f9-96a4-4a22669a5d56" slug="pet-store-clerk" value="Pet Store Clerk" />
 </Professions>

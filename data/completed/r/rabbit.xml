@@ -1,0 +1,38 @@
+<Vocab id="83d7fbde-dc79-4448-8c92-9c514f4ddc73" word="rabbit" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="4327c24a-e459-48f9-96a4-4a22669a5d56" value="Pet Store Clerk" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2054e96-ed0d-411a-a22e-ee1b36cb9664" ipa="/ˈræb.ɪt/" vi_ipa="rẹp-bít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06be27a1-be32-4946-a404-17e4a9b0a5e1" type="Noun">
+          <Vi>con thỏ</Vi>
+          <En>A small, furry mammal with long ears, a short tail, and strong hind legs, known for its rapid reproduction.</En>
+          <Example>The rabbit hopped across the garden and disappeared into the bushes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28b5f37b-e821-440e-a5a9-a74e124e23a7">
+              <Vi>Mô tả động vật gặm nhấm có tai dài, đuôi ngắn, thường được nuôi làm thú cưng hoặc lấy thịt.</Vi>
+              <En>A small mammal often kept as a pet or raised for meat, known for its long ears and powerful hind legs.</En>
+            </Situation>
+            <Situation id="7d9e7692-2a5f-40af-a107-64d3ba4baa74">
+              <Vi>Trong văn hóa phương Tây, hình ảnh thỏ thường gắn với mùa Phục Sinh và trứng sơn.</Vi>
+              <En>In Western culture, the rabbit is associated with Easter and Easter eggs, often depicted as the Easter Bunny.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
