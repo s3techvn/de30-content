@@ -276,4 +276,5 @@
   <Profession id="bc1e22c6-2d1b-4477-baf4-248ff3c9441c" slug="career-coach" value="Career Coach" />
   <Profession id="dc95aafb-9718-431d-aad8-70d4dfa3a9d8" slug="textile-designer" value="Textile Designer" />
   <Profession id="e823449c-1d45-43b4-b266-c49316963ff3" slug="analyst" value="Analyst" />
+  <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" slug="event-organizer" value="Event Organizer" />
 </Professions>

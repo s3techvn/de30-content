@@ -1,0 +1,64 @@
+<Vocab id="1576b891-ba09-459e-85ad-267031ddfbbc" word="good" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="01a81ca0-f4cf-4188-a200-9da0412d3ae2" value="Evaluation" />
+    <Topic id="40b4a6ed-5b4b-484a-962e-c6150a8cc535" value="Morality" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b2a5120-70dc-4093-9154-d6c8efd81bba" ipa="/ɡʊd/" vi_ipa="gút">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d8b74fb0-3006-4d66-9408-c1706c8874a9" type="Adjective">
+          <Vi>tốt</Vi>
+          <En>having the desired or approved qualities; having a positive moral or ethical character; of high quality or standard.</En>
+          <Example>She is a good student who always completes her assignments on time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b99f53e9-9000-4d88-b94f-940bc26f291b">
+              <Vi>Mô tả người, vật hoặc hành động có phẩm chất vượt trội hoặc được đánh giá cao.</Vi>
+              <En>Describing a person, object, or action with excellent or commendable qualities.</En>
+            </Situation>
+            <Situation id="597886f6-f72f-4c81-b134-86ea594fdb04">
+              <Vi>Chỉ tính cách đạo đức tốt, lương thiện.</Vi>
+              <En>Referring to morally upright or virtuous character.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="946fdde1-7502-4731-9243-f3afe3d7ebcf" type="Noun">
+          <Vi>điều tốt; điều hay; lợi ích</Vi>
+          <En>something that is morally right or beneficial; a benefit or advantage.</En>
+          <Example>He always tries to do good and help others in need.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7db14ed7-f52f-4501-826b-32e9587c6857">
+              <Vi>Chỉ hành động hoặc việc làm mang lại lợi ích cho người khác.</Vi>
+              <En>Referring to actions or deeds intended to benefit others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3306752e-67ec-451a-a208-cccb8b265fcc" type="Adverb">
+          <Vi>khéo léo; hiệu quả; tốt</Vi>
+          <En>in a favorable or successful manner; well.</En>
+          <Example>She sings good for someone who’s never had formal training.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96f0c204-c82b-4bbb-9717-f467fbfa362b">
+              <Vi>Mô tả cách thức thực hiện một hành động một cách hiệu quả hoặc xuất sắc.</Vi>
+              <En>Describing how an action is performed successfully or skillfully.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
