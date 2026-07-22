@@ -1,0 +1,60 @@
+<Vocab id="2fb0f76a-2d82-43b0-9163-6b6e163651d8" word="yorkshire" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="295a3ec5-db10-4f9d-b614-35b6b8d68cd9" value="Tourism Professional" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ebee3983-2358-406c-b130-75bfd8e73dd8" ipa="/ˈjɔː.kʃər/" vi_ipa="yóc-sờ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="46990f5d-d9b4-4090-9995-ae3d47a38b8f" type="Noun">
+          <Vi>Yorkshire – một county lịch sử và hành chính ở miền Bắc nước Anh</Vi>
+          <En>Yorkshire – a historic and administrative county in northern England</En>
+          <Example>She grew up in the Yorkshire Dales, surrounded by rolling hills and sheep farms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9095e39-d970-4f19-92d3-b1c892ec645c">
+              <Vi>Tham quan các làng quê, công viên quốc gia, hoặc thưởng thức món bánh Yorkshire pudding truyền thống.</Vi>
+              <En>Visiting rural villages, national parks, or tasting traditional dishes like Yorkshire pudding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7a91a7e6-bfa3-405e-8c7b-c6afe6f42654" type="Noun">
+          <Vi>Yorkshire – chỉ người dân bản địa hoặc văn hóa đặc trưng của vùng này</Vi>
+          <En>Yorkshire – referring to a native of Yorkshire or the local culture and dialect</En>
+          <Example>His Yorkshire accent made the local news segment instantly recognizable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="22fd8547-7c87-4fe4-91f2-f49d0cbd80da">
+              <Vi>Mô tả giọng nói, tính cách, hoặc phong cách sống đặc trưng của người miền Bắc Anh.</Vi>
+              <En>Describing the distinctive accent, down-to-earth personality, or lifestyle associated with people from Yorkshire.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9e0695f3-ed82-4a9b-9eb8-2985a22c176f" type="Noun">
+          <Vi>Yorkshire – tên gọi trong các cụm từ chỉ sản phẩm đặc trưng vùng (ví dụ: Yorkshire pudding)</Vi>
+          <En>Yorkshire – used in compound names for regional specialties (e.g., Yorkshire pudding)</En>
+          <Example>For Sunday roast, we always serve Yorkshire pudding with gravy and vegetables.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="994195ea-5838-4ba8-a552-13218e60af21">
+              <Vi>Khi nói về ẩm thực Anh, đặc biệt là món pudding nổi tiếng được làm từ bột, trứng và sữa, nướng phồng lên.</Vi>
+              <En>When referring to English cuisine, especially the iconic baked batter dish served with roast meat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
