@@ -1,0 +1,72 @@
+<Vocab id="164489fc-dbc2-4856-8750-01693ac1c672" word="icon" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="46bd54fe-39fb-4c81-ab49-ad9309fd8e18" value="Religious Scholar" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ea076bad-67c3-4cae-9c0e-4b252ffe33a5" ipa="/ˈaɪ.kɒn/" vi_ipa="ai-kon">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bbbeaf63-527a-447d-8df0-8bbb1ad04788" type="Noun">
+          <Vi>Biểu tượng; hình ảnh đại diện</Vi>
+          <En>A picture or other image that represents a program, file, function, or concept, especially one on a computer or smartphone interface.</En>
+          <Example>Click the icon to open the application.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2feacb72-3f47-4bf2-b2df-d95d9c5d32ca">
+              <Vi>Người dùng nhấn vào biểu tượng trên màn hình để thực hiện thao tác.</Vi>
+              <En>A user taps or clicks an icon on a digital interface to perform an action.</En>
+            </Situation>
+            <Situation id="4d0820e9-9742-475f-90de-09116f78cee3">
+              <Vi>Thiết kế giao diện người dùng (UI) cần cân nhắc tính trực quan của các biểu tượng.</Vi>
+              <En>User interface (UI) design must consider the intuitiveness of icons.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="569f8b22-ea2a-45dc-9bd9-7468ce62e2bd" type="Noun">
+          <Vi>Biểu tượng tôn giáo (đặc biệt là hình Chúa Kitô hoặc Đức Mẹ trong Kitô giáo)</Vi>
+          <En>A religious image, especially one depicting Christ, the Virgin Mary, or a saint, typically used in Eastern Orthodox or Catholic devotion.</En>
+          <Example>The church walls were adorned with ancient icons.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fbc3ea4-9dbd-43a9-8e26-9bdc1c97fd8d">
+              <Vi>Các tín đồ Kitô giáo kính lễ các biểu tượng tôn giáo trong phụng vụ.</Vi>
+              <En>Christians venerate religious icons during liturgical services.</En>
+            </Situation>
+            <Situation id="04c7fd5b-adf0-4798-b36f-1a6d0166b8a6">
+              <Vi>Một bức tượng hoặc tranh vẽ mang tính biểu tượng cao trong nghệ thuật Byzantine.</Vi>
+              <En>A highly stylized painting or sculpture in the Byzantine artistic tradition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="62ce618c-43f9-4fd3-bca5-17cec96ad328" type="Noun">
+          <Vi>Nhân vật tiêu biểu; biểu tượng của một giá trị, phong trào hoặc thế hệ</Vi>
+          <En>A person or thing that is a representative symbol of a particular quality, movement, or era.</En>
+          <Example>She became an icon of the feminist movement in the 1970s.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3fef8a4-e2ed-42ed-b9c0-877ae015f77d">
+              <Vi>Những người ngưỡng mộ xem cô ấy là biểu tượng của sự mạnh mẽ và độc lập.</Vi>
+              <En>Fans view her as an icon of strength and independence.</En>
+            </Situation>
+            <Situation id="09a060d0-c097-4ae2-80be-fbcf79315d2c">
+              <Vi>Ngôi sao điện ảnh được coi là biểu tượng của thời đại vàng Hollywood.</Vi>
+              <En>The movie star is considered an icon of Hollywood’s golden age.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
