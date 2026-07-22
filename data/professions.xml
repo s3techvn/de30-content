@@ -508,4 +508,5 @@
   <Profession id="c107c5ed-a284-406d-8632-b5ebbfd7374a" slug="cosmetologist" value="Cosmetologist" />
   <Profession id="c7424671-91c1-443a-a80b-f3093d809f10" slug="dermatologist" value="Dermatologist" />
   <Profession id="2e879591-897b-4581-afd7-816c3860171f" slug="wine-sommelier" value="Wine Sommelier" />
+  <Profession id="132ba25d-2423-4112-b124-9bde14129ba7" slug="employee" value="Employee" />
 </Professions>
