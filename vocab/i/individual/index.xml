@@ -1,0 +1,38 @@
+<Vocab id="8ce869bd-a2e8-453f-a039-e1ef2346c98a" word="individual" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+    <Profession id="47fac884-af28-475f-bcb8-f79de18b1998" value="Human Resources Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a96f038e-2e58-466c-9088-7d6561d8c3d1" ipa="/ˌɪn.dɪˈvɪdʒ.u.əl/" vi_ipa="in-đi-vít-chừ-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9eab66c0-3696-41fa-8750-76dea6636b98" type="Adjective">
+          <Vi>riêng lẻ, độc lập, cá nhân</Vi>
+          <En>existing or done as a single person or thing, not part of a group</En>
+          <Example>She prefers to work on individual projects rather than in teams.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="533091ba-855e-47f0-b183-6f3d58719c15">
+              <Vi>Mô tả một người hoặc vật được xem xét riêng biệt, không phụ thuộc vào tập thể.</Vi>
+              <En>Describing a person or object considered separately from a group or collective.</En>
+            </Situation>
+            <Situation id="309fb2d9-b808-4a0a-9766-cca2b8f54c0d">
+              <Vi>Chỉ đặc điểm hoặc hành vi đặc trưng của một cá nhân cụ thể.</Vi>
+              <En>Referring to traits or behaviors characteristic of a specific person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

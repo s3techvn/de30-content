@@ -627,3 +627,4 @@ massachusetts
 controller
 unlimited
 protocol
+individual
