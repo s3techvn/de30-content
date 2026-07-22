@@ -1,0 +1,40 @@
+<Vocab id="be171a10-3072-46a2-8c0c-e7c7950eb827" word="sustainable" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="4b41bf05-1111-4e2e-bf40-5da6e1fb22be" value="Sustainability Consultant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b2d238fe-a909-488c-b805-e1d0c9784f18" ipa="/səˈsteɪ.nə.bəl/" vi_ipa="sờ-stê-i-nơ-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f3e0e5f-28f8-4721-aeca-7811282215eb" type="Adjective">
+          <Vi>Bền vững</Vi>
+          <En>Capable of being maintained or continued at a certain rate or level without depleting resources or causing severe long-term environmental damage.</En>
+          <Example>Renewable energy sources like solar and wind are considered sustainable alternatives to fossil fuels.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dccfdb9c-704e-4359-bb07-e7d69588681b">
+              <Vi>Mô tả một hệ thống hoặc phương pháp có thể duy trì lâu dài mà không làm cạn kiệt tài nguyên thiên nhiên.</Vi>
+              <En>Describing a system or method that can be maintained long-term without exhausting natural resources.</En>
+            </Situation>
+            <Situation id="5e531d46-7242-42f3-be1c-4d5703f589b2">
+              <Vi>Liên quan đến phát triển đáp ứng nhu cầu hiện tại mà không làm tổn hại đến khả năng đáp ứng nhu cầu của các thế hệ tương lai.</Vi>
+              <En>Relating to development that meets present needs without compromising the ability of future generations to meet theirs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
