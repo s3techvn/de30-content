@@ -1,0 +1,40 @@
+<Vocab id="8ecba7a9-06cc-4a72-a7d2-4ce9ec149008" word="expenditure" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd31a4a6-9cd8-4326-af25-cb2e5cefd547" ipa="/ɪkˈspen.dɪ.tʃər/" vi_ipa="ích-spen-đi-chơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="58e8a903-d806-4b91-87d1-741765f74cfa" type="Noun">
+          <Vi>Chi phí; Khoản chi tiêu</Vi>
+          <En>The amount of money spent on a particular thing or activity; an outlay of funds.</En>
+          <Example>The company reported a significant increase in marketing expenditure this quarter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6aa3a7b2-73ee-4e75-8c81-3a9aa2198c33">
+              <Vi>Trong báo cáo tài chính, đề cập đến tổng số tiền đã chi cho một mục cụ thể.</Vi>
+              <En>In financial reporting, referring to the total amount of money spent on a specific category.</En>
+            </Situation>
+            <Situation id="e13869e9-b39b-41bf-8c0d-86fd8ae669a5">
+              <Vi>Khi lập ngân sách cá nhân, cần cân nhắc các khoản chi tiêu hàng tháng.</Vi>
+              <En>When creating a personal budget, one must consider monthly expenditure categories.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
