@@ -1,0 +1,39 @@
+<Vocab id="9da0334e-755a-4f20-9770-76fc57e9bd64" word="terrain" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" value="Military Strategist" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="551f33d9-22a7-40c3-9f85-e4d3d102926c" value="Hiker / Outdoor Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f4cfe3c2-3589-4b4e-836d-7e6d200726c5" ipa="/təˈreɪn/" vi_ipa="tơ-rây-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2012174b-e9f3-40c8-a973-b1593acc5ae5" type="Noun">
+          <Vi>địa hình; mặt đất, bề mặt địa lý</Vi>
+          <En>The natural features of a stretch of land, especially in relation to its shape, slope, and surface characteristics.</En>
+          <Example>The steep terrain made the hike extremely challenging.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="577d08db-c2f2-4aa9-92e1-9adcfd383347">
+              <Vi>Mô tả đặc điểm địa lý của khu vực, như đồi, núi, đồng bằng.</Vi>
+              <En>Describing the physical features of a landscape, such as hills, mountains, or plains.</En>
+            </Situation>
+            <Situation id="1cb613c1-0de4-4196-8215-7e66283f3216">
+              <Vi>Đánh giá độ khó của hành trình dựa trên địa hình.</Vi>
+              <En>Assessing the difficulty of a route based on the land’s physical features.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

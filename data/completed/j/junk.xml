@@ -1,0 +1,56 @@
+<Vocab id="1d9bce5c-eba1-4308-a2b1-fdc91e3262c7" word="junk" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="1d225520-ad01-48e6-99e2-4d6e7dcd94ea" value="Recycling Worker" />
+    <Profession id="b7406776-c470-42e0-95b5-7647c2ceb73b" value="Waste Management Specialist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b01c7cfe-c91f-4393-a396-3ad38bf0d2a5" ipa="/dʒʌŋk/" vi_ipa="giăng-k">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af01545e-d13b-43b7-a9b5-cbbc29302cde" type="Noun">
+          <Vi>phế liệu; đồ vụn vặt; đồ bỏ đi</Vi>
+          <En>discarded or worthless material; trash or rubbish, especially of low quality or useless items</En>
+          <Example>The city organized a junk collection day to clear out old furniture and broken appliances.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0eb1054-e973-4592-940d-38b1d8a8570b">
+              <Vi>Tình huống khi người dân dọn dẹp nhà cửa và mang ra ngoài đường những đồ cũ, hỏng, không còn dùng được.</Vi>
+              <En>A scenario where residents gather and dispose of old, broken, or unused household items.</En>
+            </Situation>
+            <Situation id="23f457d2-9190-4962-b6a6-bf177ba354a5">
+              <Vi>Người ta nói về "junk food" để chỉ đồ ăn nhanh, ít dinh dưỡng.</Vi>
+              <En>Used in phrases like "junk food" to refer to unhealthy, low-nutrition snacks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ce16b855-9755-4caf-951d-c0d507f7bcbf" type="Verb">
+          <Vi>đồ bỏ đi; vứt bỏ; loại bỏ</Vi>
+          <En>to discard or get rid of something considered useless or outdated</En>
+          <Example>He decided to junk his old laptop and upgrade to a newer model.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ee779b4-4f55-498c-ae86-d4be568b8856">
+              <Vi>Khi một người quyết định không giữ nữa một vật cũ kỹ, không còn dùng đến và vứt bỏ nó.</Vi>
+              <En>When someone decides not to keep an outdated or obsolete item and discards it.</En>
+            </Situation>
+            <Situation id="245d78d6-0532-452c-9d4f-8cb10bfd6351">
+              <Vi>Trong lập trình, "junk data" có thể được loại bỏ khỏi cơ sở dữ liệu.</Vi>
+              <En>In programming, "junk data" may be removed from a database to improve efficiency.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
