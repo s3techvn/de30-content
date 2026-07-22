@@ -460,4 +460,6 @@
   <Profession id="32d15519-c9ed-4485-88fe-bd2625b7afce" slug="automation-technician" value="Automation Technician" />
   <Profession id="928c0afd-593f-4208-a708-0bb4da13af5c" slug="golfer" value="Golfer" />
   <Profession id="b90ace89-b507-47cd-b7f4-8321226b8307" slug="baseball-player" value="Baseball Player" />
+  <Profession id="4e78535e-37cc-4fe0-a55d-a9aed42b5b48" slug="curator" value="Curator" />
+  <Profession id="de040b9c-9afd-4c57-b9b6-2a0f7654df67" slug="museum-guide" value="Museum Guide" />
 </Professions>

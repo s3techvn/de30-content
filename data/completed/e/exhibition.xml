@@ -1,0 +1,40 @@
+<Vocab id="b019cab7-2dca-432f-af16-24a7ad76bf3e" word="exhibition" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="4e78535e-37cc-4fe0-a55d-a9aed42b5b48" value="Curator" />
+    <Profession id="de040b9c-9afd-4c57-b9b6-2a0f7654df67" value="Museum Guide" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="78c40935-252d-482a-aede-ff501af437b0" ipa="/ˌek.sɪˈbɪʃ.ən/" vi_ipa="éc-si-bít-chơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3cbe3748-b680-4ea0-ac1c-0d69472b6ab6" type="Noun">
+          <Vi>Triển lãm</Vi>
+          <En>A public display of art, artifacts, or products, typically in a museum, gallery, or convention center.</En>
+          <Example>The museum hosted an exhibition of contemporary Vietnamese paintings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2fbb80d-7562-41a5-9502-e678024d8dd2">
+              <Vi>Người dân đến xem tranh và hiện vật được trưng bày trong một không gian tổ chức chuyên biệt.</Vi>
+              <En>Visitors attend a curated display of artworks or historical objects in a dedicated venue.</En>
+            </Situation>
+            <Situation id="ead58d8e-bbe4-4af7-a003-99c8321b2ce1">
+              <Vi>Các công ty giới thiệu sản phẩm mới tại hội chợ thương mại.</Vi>
+              <En>Companies showcase new products to potential clients at trade fairs or expos.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
