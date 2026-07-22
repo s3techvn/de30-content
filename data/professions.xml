@@ -503,4 +503,5 @@
   <Profession id="158045bf-6125-4e90-8c1b-e7405d0cd97f" slug="mountain-guide" value="Mountain Guide" />
   <Profession id="86dcf3df-ef0b-4328-8550-53ab76ed3525" slug="rock-climbing-instructor" value="Rock Climbing Instructor" />
   <Profession id="80c5dbdf-8d37-496d-8e53-ef71a403fc35" slug="rescue-worker" value="Rescue Worker" />
+  <Profession id="e43f8c05-88e0-4385-8bac-619a0a5fde56" slug="factory-manager" value="Factory Manager" />
 </Professions>

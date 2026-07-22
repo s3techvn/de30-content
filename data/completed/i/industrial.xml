@@ -1,0 +1,40 @@
+<Vocab id="0124f53d-7bd1-462f-92ca-491f21ed44dd" word="industrial" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="e43f8c05-88e0-4385-8bac-619a0a5fde56" value="Factory Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1ef97c07-5324-4d1c-8413-7aefc45dd10e" ipa="/ɪnˈdʌs.tri.əl/" vi_ipa="in-dác-tơ-rơ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5da075c1-3f4b-4837-8b8b-5620a0f34188" type="Adjective">
+          <Vi>thuộc về công nghiệp; công nghiệp</Vi>
+          <En>relating to industry, especially as a branch of the economy involving large-scale manufacturing</En>
+          <Example>The government invested heavily in industrial infrastructure to boost economic growth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b154db8d-b9d7-4422-a823-cfed7f10ccb7">
+              <Vi>Mô tả các hoạt động, cơ sở hạ tầng, hoặc công nghệ liên quan đến sản xuất hàng hóa quy mô lớn.</Vi>
+              <En>Describes activities, infrastructure, or technologies related to large-scale goods production.</En>
+            </Situation>
+            <Situation id="1013cf23-1ed9-4657-bc90-2386071d94b8">
+              <Vi>Chỉ khu vực hoặc khu công nghiệp (ví dụ: "industrial zone").</Vi>
+              <En>Refers to an industrial area or zone (e.g., "industrial zone").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

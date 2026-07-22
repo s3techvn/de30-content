@@ -1,0 +1,54 @@
+<Vocab id="1d5bc4eb-4149-400a-b504-b8cf6e7d113f" word="tall" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="41eca172-9089-4149-9fe0-e663b310a693" ipa="/tɔːl/" vi_ipa="tốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb477d2c-243f-4f3d-97fb-5602a0bc9c45" type="Adjective">
+          <Vi>Cao (so với chiều cao trung bình)</Vi>
+          <En>Having a great height; taller than average or usual.</En>
+          <Example>She is tall for her age.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="86310c00-c6ed-4ea6-a83d-5d33344f9d62">
+              <Vi>Mô tả người hoặc vật có chiều cao nổi bật.</Vi>
+              <En>Describing a person or object that stands out in height.</En>
+            </Situation>
+            <Situation id="f956e45f-e103-407b-a76b-b75edb107230">
+              <Vi>So sánh chiều cao trong thể thao hoặc thời trang.</Vi>
+              <En>Comparing height in sports or fashion contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9c9f5669-e8e7-49f8-89b6-172374cc5870" type="Adjective">
+          <Vi>Cao (về mức độ, cường độ, mức độ phát triển)</Vi>
+          <En>Rather high in degree, intensity, or amount (often used in phrases like "tall order" or "tall story").</En>
+          <Example>That’s a tall order—I doubt we can finish it by tomorrow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3fb85132-8b22-4f21-ab5b-48651745ecac">
+              <Vi>Mô tả điều gì đó khó thực hiện hoặc không thực tế.</Vi>
+              <En>Describing something difficult or unlikely to happen.</En>
+            </Situation>
+            <Situation id="9a8ed363-a995-430f-a207-d2afb0f58731">
+              <Vi>Chỉ một câu chuyện hoặc lời nói khoác lác.</Vi>
+              <En>Referring to an exaggerated or implausible story.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
