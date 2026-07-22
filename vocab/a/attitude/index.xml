@@ -1,0 +1,52 @@
+<Vocab id="8e694f7f-b7b6-4313-9277-346940d9d038" word="attitude" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f94cf749-efe6-48c9-aaac-6e884a67e957" ipa="/ˈæt.ɪ.tjuːd/" vi_ipa="át-tít-chiu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a42bc183-6f04-4871-8c6f-e7c96b34d05f" type="Noun">
+          <Vi>thái độ</Vi>
+          <En>A feeling, opinion, or position that one holds toward a person, thing, or situation, often reflected in behavior.</En>
+          <Example>She maintained a positive attitude despite the challenges.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b1f357b-5bb5-4d57-a1c3-0dcbba2b43da">
+              <Vi>Mô tả cách một người suy nghĩ hoặc cảm nhận về điều gì đó, thường thể hiện qua hành vi.</Vi>
+              <En>Describes how a person thinks or feels about something, often shown through behavior.</En>
+            </Situation>
+            <Situation id="e9741f0a-8250-4356-8646-f80af33b8476">
+              <Vi>Thái độ tích cực/tiêu cực trong giao tiếp hoặc làm việc.</Vi>
+              <En>Positive or negative attitude in communication or work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8abf77a7-0260-4664-bf51-608e00fb93f8" type="Noun">
+          <Vi>thái độ (trong vũ đạo, biểu diễn)</Vi>
+          <En>A particular posture or position of the body, especially in dance or performance.</En>
+          <Example>The dancer held a graceful attitude before beginning her routine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0956fe9d-7acc-43b2-a3ce-7132adfdce3a">
+              <Vi>Vị trí cơ thể được giữ trong múa ballet hoặc biểu diễn nghệ thuật.</Vi>
+              <En>Body position held in ballet or artistic performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
