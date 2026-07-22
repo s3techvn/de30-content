@@ -515,4 +515,5 @@
   <Profession id="19d945ec-15ac-40ad-a32d-3055be1d47e8" slug="public-official" value="Public Official" />
   <Profession id="6b6f40e0-6844-4973-a324-198a6c889166" slug="craftsman" value="Craftsman" />
   <Profession id="df6c3054-4616-4090-b5de-876f526ba4dc" slug="manufacturer" value="Manufacturer" />
+  <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" slug="dentist" value="Dentist" />
 </Professions>
