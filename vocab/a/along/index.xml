@@ -1,0 +1,60 @@
+<Vocab id="4e68676a-0511-4ecb-a371-fdb551064fc6" word="along" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="3d431bcc-da6a-47bb-967c-88afdab9a226" value="Direction &amp; Position" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5eab9d76-5741-4471-bf93-4b0a147e5faa" ipa="/əˈlɔːŋ/" vi_ipa="ơ-lông">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a1361a4-7b97-4614-81fb-baf41f1af2e4" type="Preposition">
+          <Vi>dọc theo; theo chiều dài của</Vi>
+          <En>From one end to the other of something; next to and moving in the same direction as.</En>
+          <Example>We walked along the beach, enjoying the sunset.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e553fdc2-8c86-440c-92c9-2530882bf4e9">
+              <Vi>Mô tả di chuyển hoặc vị trí song song với một đường hoặc bề mặt kéo dài.</Vi>
+              <En>Describes movement or position parallel to a long surface or route.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="67b1076e-2e68-4bf7-9142-2bf94469ca30" type="Adverb">
+          <Vi>cùng đi; đi theo</Vi>
+          <En>Going in the same direction as someone or something else; accompanying.</En>
+          <Example>She came along with us to the museum.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5928efbb-0388-4b4b-b639-4d4d4bb1a885">
+              <Vi>Dùng khi nói về việc ai đó đi theo hoặc tham gia cùng người khác.</Vi>
+              <En>Used when someone accompanies or joins others on a trip or activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5fecaaeb-39dd-4692-a03a-0436c7b8da6d" type="Adverb">
+          <Vi>tiến triển; dần dần</Vi>
+          <En>As time passes or as a process continues.</En>
+          <Example>Things got better along the way.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b56e181-f30f-4e88-95f4-993da35d1cf3">
+              <Vi>Dùng để diễn tả sự thay đổi hoặc phát triển trong quá trình diễn ra.</Vi>
+              <En>Used to describe change or development occurring during a process or period.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,32 @@
+<Vocab id="6a74c59e-949a-4cf1-aa7a-d97ff581cbb4" word="anna" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="81602341-6a88-4de3-a5ac-dc8b771e84e4" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="43258aa6-76ec-4eb3-bea7-2816c236b722" ipa="/ˈæn.ə/" vi_ipa="an-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf082bd9-ed71-4923-af22-ba5a051dd7ac" type="Noun">
+          <Vi>Tên riêng (thường là tên nữ), phiên bản tiếng Anh của Anna</Vi>
+          <En>A female given name, the English form of Anna.</En>
+          <Example>Anna arrived early for the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="226bcb2e-04e7-4bd4-840f-66e0a82b3c14">
+              <Vi>Dùng khi đề cập đến một người phụ nữ có tên Anna trong giao tiếp hàng ngày hoặc văn viết.</Vi>
+              <En>Used when referring to a woman named Anna in everyday conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

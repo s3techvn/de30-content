@@ -1,0 +1,68 @@
+<Vocab id="9680d6b2-92db-43f3-bfa7-cdafb3e51550" word="against" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="99971b77-daf2-49e5-a7e1-0126d7b938cd" value="Referee" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e0323517-db50-49ac-8ceb-1bb81a76f68b" ipa="/əˈɡenst/" vi_ipa="ơ-gên-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0742de7b-d06a-4eaf-99e0-7dbf253dc95f" type="Preposition">
+          <Vi>phản đối; chống lại; ngược lại với</Vi>
+          <En>in opposition to; in contrast to; facing or directed toward (especially in conflict or competition)</En>
+          <Example>The committee voted against the new policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc3657cb-d649-447a-9a91-9a06fc22af6a">
+              <Vi>Thể hiện sự phản đối hoặc bất đồng với một quyết định, ý kiến, hoặc hành động.</Vi>
+              <En>Expressing disagreement or opposition to a decision, opinion, or action.</En>
+            </Situation>
+            <Situation id="0538e449-970b-4c39-aef6-873d0af0dd78">
+              <Vi>Chỉ đối thủ trong một trận đấu hoặc tranh cãi.</Vi>
+              <En>Indicating the opponent in a match or dispute.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="36fba1ab-936a-4e46-85f8-849c27c13583" type="Preposition">
+          <Vi>chống lại (bệnh tật, khó khăn...); dựa vào; nhờ vào</Vi>
+          <En>in defense or protection against (a threat, danger, or adverse condition); in preparation for; relying on</En>
+          <Example>They vaccinated the children against measles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bfd6b701-6ecb-4fb8-806c-41202c14cb17">
+              <Vi>Được bảo vệ hoặc phòng ngừa trước một nguy cơ cụ thể.</Vi>
+              <En>Being protected or prevented from a specific risk or harm.</En>
+            </Situation>
+            <Situation id="d734ae76-b28f-4b65-a35d-65b534bd97de">
+              <Vi>Dự phòng hoặc chuẩn bị cho một tình huống tiêu cực có thể xảy ra.</Vi>
+              <En>Preparing or taking measures in anticipation of a possible negative event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ba4d63ca-b214-4462-a509-bd97c85c405f" type="Preposition">
+          <Vi>trái với; không phù hợp với</Vi>
+          <En>not in accordance with; contrary to</En>
+          <Example>His actions were against company policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d09c55d5-8868-4bea-ae11-45e9f3518248">
+              <Vi>Vi phạm hoặc không tuân theo một quy định, luật lệ, hoặc chuẩn mực.</Vi>
+              <En>Violating or failing to comply with a rule, regulation, or standard.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
