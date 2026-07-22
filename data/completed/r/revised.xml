@@ -1,0 +1,36 @@
+<Vocab id="8a075e81-467d-41d4-9498-c5a9e00b3d52" word="revised" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c9d1ac86-3786-4857-be95-9cbf5da4ecc7" value="Writing" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6377f32e-351f-415a-9557-f507fb5aa9e4" ipa="/rɪˈvaɪzd/" vi_ipa="ri-vái-dớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1ba465b5-fb5b-41a0-86d7-94b26c2affed" type="Adjective">
+          <Vi>đã được sửa chữa, đã được hiệu đính</Vi>
+          <En>changed or corrected after being reviewed or examined</En>
+          <Example>The revised edition of the textbook includes updated statistics and new case studies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6c431f6-6176-48e2-b74e-4de665021ae0">
+              <Vi>Sử dụng khi nói về một tài liệu, bản thảo, hoặc ấn bản đã được chỉnh sửa sau khi xem xét lại.</Vi>
+              <En>Used when referring to a document, manuscript, or edition that has been corrected or updated after review.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
