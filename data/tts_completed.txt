@@ -727,3 +727,4 @@ neutral
 caution
 variable
 expect
+alive

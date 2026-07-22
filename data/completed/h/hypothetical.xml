@@ -1,0 +1,40 @@
+<Vocab id="d6a3aa8b-4755-48a5-a9e6-d7ffc3ccd548" word="hypothetical" type="short" status="done">
+  <Topics>
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d421c0b1-c986-48c0-904e-eceb58ea4374" ipa="/ˌhaɪpəˈθɛtɪkəl/" vi_ipa="hai-pơ-hét-tích-cờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="115acb7e-8d09-4b7e-be59-663b2b1fe11c" type="Adjective">
+          <Vi>giả định; mang tính giả định</Vi>
+          <En>Based on a hypothesis; supposed or assumed for the sake of argument or investigation.</En>
+          <Example>Let’s consider a hypothetical scenario where all traffic lights are replaced by roundabouts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="698a2061-0948-48c4-8db7-79b113760c62">
+              <Vi>Trong học thuật, khi đưa ra một giả thuyết chưa được kiểm chứng để phân tích.</Vi>
+              <En>In academic or analytical contexts, when proposing an untested assumption to explore consequences.</En>
+            </Situation>
+            <Situation id="6554f70e-3ff1-422f-9aa1-dd3f60daf503">
+              <Vi>Trong tranh luận, khi đưa ra một tình huống không thực tế nhưng hữu ích để minh họa lập luận.</Vi>
+              <En>In debate or reasoning, when presenting an unrealistic but illustrative scenario to clarify an argument.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
