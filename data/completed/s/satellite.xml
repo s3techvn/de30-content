@@ -1,0 +1,52 @@
+<Vocab id="bc9c5c36-3e46-4293-8db8-8e3535fa57df" word="satellite" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b19a8b4a-bd13-41bb-9900-178345b973ac" value="Space" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="57e54a16-5364-4eae-b964-f2379412d4c4" value="Telecommunications Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df6da204-988c-4d8c-9e26-cdcc11b6f99e" ipa="/ˈsæt.ə.laɪt/" vi_ipa="sết-tơ-lây-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a04c88c2-e176-4fb4-bc3c-0ef55ee27535" type="Noun">
+          <Vi>Vệ tinh</Vi>
+          <En>An artificial object placed in orbit around a planet or moon to collect data or for communication.</En>
+          <Example>The satellite transmits television signals to homes across the continent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="726a3bc2-e805-4dd0-81d0-672447496515">
+              <Vi>Người dùng sử dụng đầu thu TV để nhận tín hiệu từ vệ tinh truyền hình.</Vi>
+              <En>A homeowner points a satellite dish to receive broadcast signals from a communications satellite.</En>
+            </Situation>
+            <Situation id="2164d97c-b085-4d36-8ef6-17102f44b99c">
+              <Vi>Các nhà khoa học phân tích hình ảnh từ vệ tinh theo dõi thời tiết.</Vi>
+              <En>Meteorologists analyze weather imagery captured by orbiting weather satellites.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="595cd4b2-08c8-4c0f-bd68-1c1ab3bc2fad" type="Noun">
+          <Vi>Vật thể tự nhiên quay quanh hành tinh (như Mặt Trăng)</Vi>
+          <En>A natural object that orbits a planet (e.g., Earth’s Moon).</En>
+          <Example>The Moon is Earth’s only natural satellite.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06a30637-4220-47b4-acc1-e5a39b2ac59e">
+              <Vi>Giáo viên giải thích vai trò của Mặt Trăng như vệ tinh tự nhiên của Trái Đất.</Vi>
+              <En>The teacher explains how the Moon functions as Earth’s natural satellite, influencing tides.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

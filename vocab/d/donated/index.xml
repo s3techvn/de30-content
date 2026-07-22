@@ -1,0 +1,33 @@
+<Vocab id="8d622efe-9346-4ec3-a2ae-720069aba88a" word="donated" type="short" status="done">
+  <Topics>
+    <Topic id="3306c692-3b6d-49a2-b4cc-410ea41529c7" value="Philanthropy" />
+  </Topics>
+  <Professions>
+    <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" value="Nonprofit Worker" />
+    <Profession id="bb9daf26-d41c-485a-a1d6-7acd75eebe45" value="Healthcare Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ddc1b481-965f-4ef9-9990-b148ecbe4dfc" ipa="/ˈdoʊ.neɪ.tɪd/" vi_ipa="đô-nê-i-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9278dffa-1a32-4c3c-9f6e-b4b3e59a4eb2" type="Verb">
+          <Vi>đã hiến tặng, đã quyên góp</Vi>
+          <En>gave (something, typically money) to a charity or cause voluntarily and without payment</En>
+          <Example>She donated her time and skills to the local food bank.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78fae394-5e5b-4450-a92c-fd3c094a5c9f">
+              <Vi>Tình huống một cá nhân hoặc tổ chức trao tặng tài sản, tiền bạc, hoặc thời gian cho tổ chức từ thiện hoặc cộng đồng.</Vi>
+              <En>A situation where an individual or organization gives property, money, or time to a charitable or community cause.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
