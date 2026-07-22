@@ -1,0 +1,39 @@
+<Vocab id="96289343-d61f-4031-bd2a-1c34ac5d1a7d" word="acknowledged" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f994b73-4d3c-49d0-851c-b7104554ee37" ipa="/ˈæk.nəʊ.lɪdʒ.d/" vi_ipa="ác-nô-lít-chét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9022b0c7-1833-4d2f-bc00-be5a3b2f869f" type="Adjective">
+          <Vi>được công nhận, được thừa nhận</Vi>
+          <En>Recognized or accepted as valid, true, or correct by consensus or authority.</En>
+          <Example>The acknowledged expert in the field gave a keynote speech.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61dea360-75af-42da-8d10-e435fd3b220d">
+              <Vi>Người hoặc điều gì được cộng đồng hoặc chuyên gia đồng thuận công nhận là đúng hoặc có uy tín.</Vi>
+              <En>A person or thing that is widely accepted by experts or the public as valid, authoritative, or correct.</En>
+            </Situation>
+            <Situation id="e2999006-7ac5-46b1-82e7-baf11ea72825">
+              <Vi>Trong văn bản học thuật, đề cập đến một lý thuyết hoặc nguồn được giới học giả công nhận.</Vi>
+              <En>In academic writing, referring to a theory or source that is widely accepted by scholars.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
