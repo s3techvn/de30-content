@@ -1,0 +1,36 @@
+<Vocab id="a5446bae-d923-4a56-ba87-0de55bd08198" word="journalist" type="short" status="done">
+  <Topics>
+    <Topic id="5cfaad63-2c21-4540-ba22-178d9a2b8dcf" value="Media &amp; Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="34514739-eef5-4a53-8421-1c81c509b194" ipa="/ˈdʒɜːr.nə.lɪst/" vi_ipa="giơ-nơ-lí-st">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="53066a21-5980-4e68-b8d4-f778519ff1f6" type="Noun">
+          <Vi>nhà báo</Vi>
+          <En>A person who writes news reports for newspapers, magazines, or news websites, or who reports news on radio or television.</En>
+          <Example>The journalist interviewed the mayor about the new city plan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d6d3608-95ad-4936-b218-4d11ce5e45fd">
+              <Vi>Người làm công việc thu thập, kiểm tra và phổ biến thông tin thời sự đến công chúng qua các phương tiện truyền thông.</Vi>
+              <En>A person who gathers, verifies, and reports news to the public through media channels.</En>
+            </Situation>
+            <Situation id="c9a0a4b0-93f2-4e6a-a22c-95cb0ffaa933">
+              <Vi>Các nhà báo thường làm việc dưới áp lực thời gian và phải đảm bảo tính chính xác, khách quan.</Vi>
+              <En>Journalists often work under tight deadlines and must ensure accuracy and objectivity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
