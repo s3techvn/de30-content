@@ -1,0 +1,56 @@
+<Vocab id="b04fcddb-a787-4bee-81e0-1e60dc31da63" word="basin" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="d44e688a-6bf3-402c-b249-f0ef8f767a0a" value="Home &amp; Garden" />
+  </Topics>
+  <Professions>
+    <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" value="Plumber" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8272eac5-514e-4ef3-b3c5-521260d801e9" ipa="/ˈbeɪ.sən/" vi_ipa="bê-xơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e32dab3-b696-4aa6-b62b-cca0737d1fea" type="Noun">
+          <Vi>Cái chậu, bồn, bể (dùng để chứa nước hoặc các vật khác)</Vi>
+          <En>A shallow container, typically round and wide, used for holding water or other liquids, especially for washing.</En>
+          <Example>She filled the basin with warm water to wash her face.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a146cc74-9039-40e6-b03c-130b8afff90f">
+              <Vi>Tình huống sử dụng chậu rửa mặt trong nhà vệ sinh.</Vi>
+              <En>Using a bathroom sink basin to wash one’s face.</En>
+            </Situation>
+            <Situation id="b4134746-de3c-4328-b8da-554f2455a1a7">
+              <Vi>Tình huống đặt chậu lớn dưới vòi để rửa xe hoặc làm sạch đồ.</Vi>
+              <En>Placing a large basin under a tap to wash a car or clean tools.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6561574f-bc5f-433c-a6ad-184b2cdd0260" type="Noun">
+          <Vi>Vùng đất thu nước (bồn địa, lưu vực)</Vi>
+          <En>A natural or artificial depression or area where water collects, such as a river basin or drainage basin.</En>
+          <Example>The Amazon River basin is home to the world’s largest tropical rainforest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4927fb6-d234-4365-9e7d-45af40aef4be">
+              <Vi>Tình huống nghiên cứu địa chất về lưu vực sông Mê Kông.</Vi>
+              <En>Studying the Mekong River basin for geological and hydrological analysis.</En>
+            </Situation>
+            <Situation id="71f538c9-e5a4-4de4-91b7-e3fef6ff64ec">
+              <Vi>Tình huống quy hoạch đô thị dựa trên ranh giới lưu vực sông.</Vi>
+              <En>Urban planning based on the boundaries of a river basin to manage flood risk.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
