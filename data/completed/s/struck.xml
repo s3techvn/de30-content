@@ -1,0 +1,72 @@
+<Vocab id="b45cabef-913e-465a-8684-3a6f64e7ca70" word="struck" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a594e50c-96e1-4d12-84e8-eafc2c34d311" value="Accidents &amp; Emergencies" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c71f9ed-b89f-448a-9087-21afc248ffe5" ipa="/strʌk/" vi_ipa="s-trắc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="da50f3af-341d-40a1-8200-aa471631d4f9" type="Verb">
+          <Vi>đánh, đập mạnh; va chạm mạnh</Vi>
+          <En>to hit something or someone forcefully, especially with a sudden impact</En>
+          <Example>The car struck a tree at high speed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8681a7c6-1cc2-489a-a01c-088fccea9c3f">
+              <Vi>Một chiếc xe hơi đâm vào cột điện trong cơn bão.</Vi>
+              <En>A car hit a utility pole during the storm.</En>
+            </Situation>
+            <Situation id="25943d24-be5f-4565-a9cd-d50c455299fd">
+              <Vi>Cây cối bị gió đánh mạnh trong bão.</Vi>
+              <En>Trees were struck by strong winds in the storm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8879c6f3-fdaa-48bd-8a2b-76d7e8c44983" type="Verb">
+          <Vi>gây ấn tượng mạnh; làm xúc động sâu sắc</Vi>
+          <En>to affect someone emotionally or mentally in a powerful way, often unexpectedly</En>
+          <Example>The beauty of the landscape struck me deeply.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1dc8f662-9841-4015-806e-39b30fba53be">
+              <Vi>Nghệ sĩ bị cảm hứng đột ngột khi nghe một bản nhạc.</Vi>
+              <En>The artist was struck by inspiration upon hearing the music.</En>
+            </Situation>
+            <Situation id="6c9dc4e8-b452-4f81-88c1-d8dad5eeb339">
+              <Vi>Cảnh tượng tai nạn khiến mọi người lặng người vì kinh hoàng.</Vi>
+              <En>The accident scene struck everyone with horror.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4bd3d184-9663-4cf9-b97b-83d0dad07b7b" type="Verb">
+          <Vi>gây ra (hậu quả, thiệt hại); làm (mất, hỏng, v.v.)</Vi>
+          <En>to cause something negative to happen suddenly or unexpectedly, such as damage, loss, or misfortune</En>
+          <Example>A sudden illness struck the entire family.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e2d7bd1-f585-4b07-990e-62ea2b76aba3">
+              <Vi>Bão lũ đã gây thiệt hại nặng nề cho vùng nông thôn.</Vi>
+              <En>The flood struck the rural area with severe damage.</En>
+            </Situation>
+            <Situation id="8eb6d54e-b31a-461d-86fb-fa9a6b1c7bb7">
+              <Vi>Dịch bệnh bùng phát và khiến hàng ngàn người mất việc.</Vi>
+              <En>The pandemic struck and left thousands unemployed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

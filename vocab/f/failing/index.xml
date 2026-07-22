@@ -1,0 +1,56 @@
+<Vocab id="b31be0da-3b88-4689-a420-a7a74e706150" word="failing" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eef5429a-cb3f-40fc-860a-7e047f569411" ipa="/ˈfeɪl.ɪŋ/" vi_ipa="phê-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bb6f0899-14c0-42af-a3d5-9fc8ffddd4dd" type="Noun">
+          <Vi>Sự thất bại; điểm số không đạt yêu cầu</Vi>
+          <En>A lack of success or achievement; especially a grade below the passing mark in academic work.</En>
+          <Example>She received a failing grade in calculus after missing too many classes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4ecca28-fdd9-4791-9991-04e23a8819ad">
+              <Vi>Học sinh bị điểm dưới trượt môn thi cuối kỳ.</Vi>
+              <En>A student receives a grade below the minimum required to pass a final exam.</En>
+            </Situation>
+            <Situation id="b0ea3808-1b6f-4e01-a32f-e648c17f2b3e">
+              <Vi>Người lao động bị đánh giá là không đạt yêu cầu công việc.</Vi>
+              <En>An employee is rated as not meeting job performance standards.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="003d0e87-5bf0-4872-af87-5ae25a5aa3f8" type="Adjective">
+          <Vi>không đạt yêu cầu; không thành công</Vi>
+          <En>Not meeting required standards or expectations; unsuccessful.</En>
+          <Example>The team’s failing efforts led to the project’s cancellation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e15aa6e-2eff-43b6-a4c6-fcf1dbeca754">
+              <Vi>Một hệ thống hoạt động không đúng như mong đợi.</Vi>
+              <En>A system that does not operate as intended or expected.</En>
+            </Situation>
+            <Situation id="2c60cede-e764-4f2d-bc3d-f99ac8d8c597">
+              <Vi>Một nỗ lực không đạt được mục tiêu đề ra.</Vi>
+              <En>An attempt that does not achieve its intended goal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
