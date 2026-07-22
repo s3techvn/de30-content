@@ -1,0 +1,40 @@
+<Vocab id="d98d558d-e904-4289-b7f7-67d9fb2dc48d" word="lottery" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="461a76e7-be22-4ed9-bf06-5c3f2066ceb5" value="Insurance Underwriter" />
+    <Profession id="c09ef771-e05d-423a-aacc-1ba04f703054" value="Statistician" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ada2dff3-01ed-4003-9881-e8bdf91593e0" ipa="/ˈlɑː.tər.i/" vi_ipa="lố-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7569102c-1610-402e-be41-a994c1a6aa6d" type="Noun">
+          <Vi>Trò xổ số; sự may rủi (trong việc chọn ngẫu nhiên)</Vi>
+          <En>A system of distributing prizes by lot or chance, especially one organized to raise money for a cause.</En>
+          <Example>She won $1 million in the state lottery last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4c0dc2bc-331a-4c50-a853-ea7441cdabe6">
+              <Vi>Mua vé xổ số để thử vận may, thường do chính phủ hoặc tổ chức từ thiện tổ chức.</Vi>
+              <En>Buying a ticket for a government- or charity-run draw where participants hope to win cash or prizes.</En>
+            </Situation>
+            <Situation id="ada35528-c3ee-437b-8de9-c914059c40b5">
+              <Vi>Sự may rủi bất ngờ trong đời sống, thường mang tính tiêu cực (nghĩa bóng).</Vi>
+              <En>A situation involving chance or unpredictability, often used metaphorically (e.g., “the lottery of life”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

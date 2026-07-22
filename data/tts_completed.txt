@@ -309,3 +309,4 @@ fantasy
 quickly
 destroy
 blast
+lottery
