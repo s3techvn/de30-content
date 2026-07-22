@@ -1,0 +1,38 @@
+<Vocab id="d8360511-8e27-486c-802e-0b05b8845635" word="perfectly" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a061cc38-a0b6-4612-a25d-e71cc0672bfb" ipa="/ˈpɜːr.fɪk.tli/" vi_ipa="pơ-ri-fết-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de19da0b-6ae5-478c-b24b-c18fccc16b9e" type="Adverb">
+          <Vi>hoàn hảo, hoàn toàn, một cách hoàn hảo</Vi>
+          <En>in a perfect manner; completely and without any flaw or imperfection</En>
+          <Example>The cake was baked perfectly—golden brown and moist inside.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06e65f21-8cd5-40d0-bcca-fb3dfba4eb99">
+              <Vi>Mô tả một kết quả đạt mức cao nhất về chất lượng hoặc độ chính xác.</Vi>
+              <En>Describing a result that meets the highest standard of quality or accuracy.</En>
+            </Situation>
+            <Situation id="57dee4fe-2511-4a54-bfcd-a34169efd1ef">
+              <Vi>Dùng để nhấn mạnh sự hoàn toàn trong một trạng thái hoặc hành động.</Vi>
+              <En>Used to emphasize the complete nature of a state or action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
