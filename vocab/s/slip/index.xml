@@ -1,0 +1,94 @@
+<Vocab id="6841b876-a542-4f18-a638-c196f80a31ab" word="slip" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="67668a79-8a07-44d3-874f-f8d3871ac3cc" value="Clothing &amp; Accessories" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="7692404a-1906-4d6d-b967-94490ea1fc3d" value="Office Assistant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cc2c331d-d309-47ca-861d-6c26bf75ce69" ipa="/slɪp/" vi_ipa="x-líp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3d64e0fe-63a3-462a-ae0e-757ddcdc5be3" type="Verb">
+          <Vi>trượt, trượt chân</Vi>
+          <En>to move or cause to move unintentionally and suddenly along a surface, typically losing one’s balance</En>
+          <Example>She slipped on the icy pavement and fell.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18bfd295-402e-4854-b51c-2f8f12705a01">
+              <Vi>Một người đi bộ bất ngờ mất thăng bằng trên mặt đường trơn trượt.</Vi>
+              <En>A pedestrian unexpectedly loses balance on a slippery road surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a73e9b3c-ae93-4935-a264-1c84767a31a2" type="Noun">
+          <Vi>sự trượt, tấm bìa nhỏ (giấy tờ), áo lót (trong bộ đồ)</Vi>
+          <En>a thin piece of paper or card, typically used for a specific purpose such as recording information or holding items together</En>
+          <Example>The waiter placed the bill on a small slip of paper.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84ba4bd8-2a87-4793-9f41-73088a6409db">
+              <Vi>Nhân viên thu ngân đưa hóa đơn trên một mảnh giấy nhỏ.</Vi>
+              <En>The cashier hands over the receipt on a small slip of paper.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d23c6e75-9bdd-42a7-b380-a457ca877aad" type="Noun">
+          <Vi>quần lót (nữ), áo lót (nam)</Vi>
+          <En>a woman’s undergarment worn under a dress or skirt, or a man’s lightweight undershirt</En>
+          <Example>She wore a silk slip under her wedding dress.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4dd31bb7-f914-4905-bf6e-401cf7caed36">
+              <Vi>Cô ấy mặc một chiếc áo lót lụa bên trong váy cưới.</Vi>
+              <En>She wore a silk slip underneath her wedding dress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="cf0a80ff-e5ba-420f-8721-354822dc214b" ipa="/slɪp/" vi_ipa="x-líp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8b065c71-2003-4a11-91c7-331533f86e59" type="Verb">
+          <Vi>lỡ nói, vô tình tiết lộ</Vi>
+          <En>to accidentally reveal a secret or confidential information</En>
+          <Example>He slipped and told her about the surprise party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b9a7073-86da-4438-a5ab-c9dd36d557e2">
+              <Vi>Anh ấy vô tình tiết lộ kế hoạch tiệc bất ngờ trước thời điểm.</Vi>
+              <En>He accidentally revealed the surprise party plans before the scheduled time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a1af338b-797a-458a-981e-e2b86c3a4883" type="Noun">
+          <Vi>lỗi nhỏ, sai sót (trong lời nói hay hành động)</Vi>
+          <En>a minor mistake or oversight, especially in speech or writing</En>
+          <Example>There was a small slip in the report’s date.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0f4fa9d6-6033-407c-9e03-6e9da9ea9958">
+              <Vi>Người viết báo cáo vô tình ghi nhầm năm thành 2020 thay vì 2024.</Vi>
+              <En>The report writer accidentally wrote 2020 instead of 2024.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
