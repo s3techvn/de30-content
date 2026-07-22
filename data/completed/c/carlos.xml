@@ -1,0 +1,32 @@
+<Vocab id="cdb22554-c974-4c1d-9660-2032bc48ed22" word="carlos" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="01a6520e-f18f-4205-ae13-4d92905e9b31" ipa="/ˈkær.ləs/" vi_ipa="cà-rờ-lớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0102d01e-7687-4525-a545-4f39f30b6b6a" type="Proper Noun">
+          <Vi>Tên riêng nam giới, phổ biến trong các nước nói tiếng Tây Ban Nha và Bồ Đào Nha</Vi>
+          <En>A masculine given name, common in Spanish- and Portuguese-speaking countries</En>
+          <Example>Carlos is a talented chef who runs a popular restaurant in Madrid.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="983ada49-6852-41ef-9bac-90790b1807e7">
+              <Vi>Dùng để gọi một người đàn ông có tên Carlos trong giao tiếp hàng ngày hoặc giới thiệu.</Vi>
+              <En>Used when addressing or introducing a man named Carlos in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
