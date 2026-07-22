@@ -526,3 +526,4 @@ kind
 bob
 interior
 learning
+battery

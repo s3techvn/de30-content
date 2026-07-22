@@ -1,0 +1,56 @@
+<Vocab id="5f1a0313-0200-4fc6-8276-1dae595744ec" word="switching" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="f1c5c10b-6c62-4d44-a720-ded3e2133040" value="Electrical Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="04cfc4ef-ae57-4755-af12-0353f06e77f2" ipa="/ˈswɪt.ʃɪŋ/" vi_ipa="xuit-shin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2f0dc5c7-df10-461f-b8b7-2273ee00bb4b" type="Noun">
+          <Vi>Việc chuyển đổi; sự chuyển mạch</Vi>
+          <En>The act of changing from one thing to another; the operation of changing the position of a switch or the route of data in a network</En>
+          <Example>Switching from gas-powered to electric vehicles reduces carbon emissions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9da403da-ff48-45b0-a940-21b290899207">
+              <Vi>Chuyển từ thiết bị này sang thiết bị khác trong công việc hàng ngày.</Vi>
+              <En>Changing from one device to another in daily work.</En>
+            </Situation>
+            <Situation id="ea71e179-5d43-4c05-8979-dcee8b8b51b1">
+              <Vi>Chuyển mạch trong mạng máy tính để định tuyến dữ liệu.</Vi>
+              <En>Switching in computer networks to route data packets.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="20a436b3-b49c-4c3c-b3b2-1992ccf1a6c6" type="Verb (present participle/gerund)">
+          <Vi>Đang chuyển đổi; đang chuyển mạch</Vi>
+          <En>Changing from one thing to another; operating a switch to change a circuit’s state</En>
+          <Example>He is switching the lights on and off to test the wiring.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1282463-88d2-4427-9d41-36fc5e8464de">
+              <Vi>Hành động thao tác công tắc để bật/tắt thiết bị điện.</Vi>
+              <En>Operating a switch to turn electrical devices on or off.</En>
+            </Situation>
+            <Situation id="41cd4bc9-caca-4276-a6a7-ce86faa8361c">
+              <Vi>Chuyển đổi giữa các chế độ làm việc hoặc ứng dụng trên máy tính.</Vi>
+              <En>Switching between work modes or applications on a computer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
