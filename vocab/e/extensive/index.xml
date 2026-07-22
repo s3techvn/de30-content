@@ -1,0 +1,38 @@
+<Vocab id="5c2337a6-829c-427c-89fe-4074a9a0fc7e" word="extensive" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f101333e-a8a2-4ac7-b4d3-ee29a1741e3c" ipa="/ɪkˈstens.ɪv/" vi_ipa="ích-teh-nxíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="37155a70-7fbc-4017-a286-80e019d5980c" type="Adjective">
+          <Vi>rộng lớn, rộng khắp, bao quát</Vi>
+          <En>covering a large area or scope; comprehensive in extent or range</En>
+          <Example>The project requires extensive research before implementation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="105ea381-bfc2-4ca1-a0a5-725bc9c5c244">
+              <Vi>Mô tả một khu vực, phạm vi, hoặc quy mô rất lớn.</Vi>
+              <En>Used to describe a large physical area, scope, or scale.</En>
+            </Situation>
+            <Situation id="4b74a2b1-ca38-4942-8f08-b7055249e7c2">
+              <Vi>Dùng để nhấn mạnh mức độ sâu rộng của một hoạt động hoặc kiến thức.</Vi>
+              <En>Used to emphasize the depth or breadth of an activity or knowledge.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
