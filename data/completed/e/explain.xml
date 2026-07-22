@@ -1,0 +1,39 @@
+<Vocab id="60ba99d5-45f9-4b76-a50a-f253259f9c38" word="explain" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="e0e9ba2e-05bb-40b7-9129-7b17196ca3a7" value="Customer Support Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a25c90f-ffa1-487a-b416-fe90843496ab" ipa="/ɪkˈspleɪn/" vi_ipa="ích-xplen">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b2b3846-5b02-49fa-811c-ba85c1a3adbe" type="Verb">
+          <Vi>giải thích</Vi>
+          <En>To make something clear or easy to understand by giving reasons or details.</En>
+          <Example>Can you explain why the sky is blue?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a0f6ec97-05b0-4bf8-9cc6-5bad602141b7">
+              <Vi>Giáo viên giải thích một khái niệm khó cho học sinh.</Vi>
+              <En>A teacher clarifies a difficult concept for students.</En>
+            </Situation>
+            <Situation id="ee7d4b84-8bd4-4220-8add-21d89475c186">
+              <Vi>Người dùng gọi tổng đài để được nhân viên giải thích về hóa đơn.</Vi>
+              <En>A customer calls the support line to have an invoice explained by an agent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
