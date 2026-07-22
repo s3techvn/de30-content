@@ -1,0 +1,48 @@
+<Vocab id="de47c7fb-00f9-4317-9005-b7f62758974f" word="engine" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" value="Automotive Technician" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="98c4b893-a791-464c-9136-33439d43c548" ipa="/ˈɛn.dʒɪn/" vi_ipa="en-djin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6670f774-760f-4bcb-93ec-1880f1f6ff91" type="Noun">
+          <Vi>động cơ</Vi>
+          <En>A machine with moving parts that converts power into motion or mechanical force, typically used to drive vehicles or machinery.</En>
+          <Example>The car’s engine stalled on the highway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0c72dab-9b8f-47a4-9e27-61254a4b41a7">
+              <Vi>Mô tả bộ phận chính trong xe hơi, tàu thủy hoặc máy bay tạo ra lực kéo hoặc chuyển động.</Vi>
+              <En>The core component in vehicles, ships, or aircraft that generates motion through combustion or other energy conversion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1b3ab515-1fb4-43aa-875d-e6a5a427d38b" type="Noun">
+          <Vi>nguồn lực, động lực (ẩn dụ)</Vi>
+          <En>A person or thing that provides the driving force or energy behind a process or event.</En>
+          <Example>She is the engine of the company’s innovation team.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e208f60b-a941-4691-81f5-0a0de9d72ad7">
+              <Vi>Dùng ẩn dụ để chỉ người hoặc vật thúc đẩy mạnh mẽ một hoạt động hoặc dự án.</Vi>
+              <En>Used metaphorically to describe the primary driving force behind a project, movement, or organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

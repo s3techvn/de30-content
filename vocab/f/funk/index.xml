@@ -1,0 +1,51 @@
+<Vocab id="8551855e-83a2-44cc-a4b7-d7204de75018" word="funk" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="fc9f28e0-4dcf-4dee-88ec-ea2c3a4cbcc1" value="Producer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="99332908-b1b1-4e53-8d41-ec52d6dfb000" ipa="/fʌŋk/" vi_ipa="fan-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3bc51f2e-0879-421f-84ed-aff20ad4f0f1" type="Noun">
+          <Vi>nhịp funk; phong cách âm nhạc funk; mùi hôi (trong âm nhạc: cảm giác sâu sắc, mạnh mẽ, giàu nhịp điệu)</Vi>
+          <En>a strong, rhythmic groove in music; a genre of music characterized by a prominent bass line and syncopated beats; (slang) a strong, unpleasant smell</En>
+          <Example>They danced to the infectious funk beat all night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1cef10f-18d4-48ea-ab39-459ae4976cbd">
+              <Vi>Mô tả một bản nhạc có nhịp mạnh, dễ gây nghiện, thường dùng trong khi nhảy.</Vi>
+              <En>Describing a highly rhythmic, danceable musical style originating from African American communities in the 1960s.</En>
+            </Situation>
+            <Situation id="04bb6baf-16be-4d98-996c-1e9b847e6ccb">
+              <Vi>Dùng để chỉ mùi cơ thể hoặc mùi khó chịu trong ngữ cảnh đời sống.</Vi>
+              <En>Used informally to refer to a strong, unpleasant body odor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5c003fd5-cf6b-41fd-b1b0-e11cbeaec98f" type="Verb">
+          <Vi>làm hỏng (một kế hoạch, sự kiện...); làm mất hứng thú; làm mất tinh thần</Vi>
+          <En>to ruin or spoil something, especially a plan or event; to dampen enthusiasm or morale</En>
+          <Example>The sudden rain really funked up our picnic plans.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4768b13-19d8-4d9c-a24e-1acadf3c6116">
+              <Vi>Khi một yếu tố bất ngờ làm gián đoạn hoặc phá hỏng kế hoạch.</Vi>
+              <En>When an unexpected event disrupts or ruins a planned activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
