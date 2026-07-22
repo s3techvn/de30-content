@@ -1,0 +1,46 @@
+<Vocab id="57ae3c75-25df-40b9-b9fe-f30404656f39" word="surface" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23ff9fd3-b950-4cd8-b2fc-67faf1d4d9c5" ipa="/ˈsɜːr.fɪs/" vi_ipa="xờ-rờ-fết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1b985a6-c7d4-4f5c-9525-22df775d4c0d" type="Noun">
+          <Vi>Bề mặt</Vi>
+          <En>The top or outer layer of something, especially when considered as a physical or visible boundary.</En>
+          <Example>The surface of the lake was calm and mirror-like.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8bebfe72-2ad6-4c46-99c4-85b245d6744a">
+              <Vi>Mô tả mặt ngoài của vật thể, thường dùng khi nói về hình dạng, chất liệu, hoặc trạng thái tiếp xúc.</Vi>
+              <En>Describing the outermost layer of an object, especially when discussing its texture, appearance, or contact with other objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="98980800-6c5f-40e4-9ce9-1470d1c1173a" type="Verb">
+          <Vi>Đưa ra, công khai, xuất hiện</Vi>
+          <En>To come out into view or become known; to appear or emerge.</En>
+          <Example>Secrets tend to surface during investigations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d339126c-ea60-42b0-ad9b-ed6fc240e226">
+              <Vi>Dùng khi thông tin, cảm xúc, hoặc vấn đề ẩn giấu bắt đầu được tiết lộ hoặc xuất hiện rõ ràng.</Vi>
+              <En>Used when hidden information, emotions, or issues begin to be revealed or become apparent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

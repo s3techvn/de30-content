@@ -1,0 +1,40 @@
+<Vocab id="f43ee3f0-086c-4d99-8c0d-bfc487565f35" word="stationery" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b53ecd91-0815-4565-b650-8c187f81f1b9" value="Office" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d783608-a4ab-4478-84d7-5fec1dde445a" ipa="/ˈsteɪ.ʃən.ər.i/" vi_ipa="sờ-tê-i-nơ-rì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b8059f0e-10ff-4677-8297-43f2f3d69724" type="Noun">
+          <Vi>Văn phòng phẩm</Vi>
+          <En>Materials used for writing and office work, such as paper, pens, pencils, envelopes, and notebooks.</En>
+          <Example>She bought a new set of stationery for her university classes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37ae69fd-685d-441a-840c-febbf25e9cd8">
+              <Vi>Mua bút, giấy, sổ tay tại cửa hàng văn phòng phẩm.</Vi>
+              <En>Shopping for pens, paper, and notebooks at a stationery store.</En>
+            </Situation>
+            <Situation id="288ab932-a0ce-4831-b47f-f054709df78e">
+              <Vi>Gửi thư tay và bưu thiếp trong dịp Tết.</Vi>
+              <En>Sending handwritten letters and greeting cards during Tet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
