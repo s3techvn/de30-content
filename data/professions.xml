@@ -324,4 +324,5 @@
   <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" slug="agricultural-engineer" value="Agricultural Engineer" />
   <Profession id="f362ad08-79b7-4d86-abf3-41b28e54a155" slug="agronomist" value="Agronomist" />
   <Profession id="624d96df-72db-4157-8ab3-829f154a8481" slug="urban-planning" value="Urban Planning" />
+  <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" slug="academic-advisor" value="Academic Advisor" />
 </Professions>
