@@ -1,0 +1,52 @@
+<Vocab id="8e04cee7-c7c4-4fe1-be99-f8176795a7a5" word="instruction" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48ce866d-883d-48bc-b115-0f3038594fe2" ipa="/ɪnˈstrʌk.ʃən/" vi_ipa="in-strắc-shơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7f99788a-6ece-498b-8acc-e765cafa305e" type="Noun">
+          <Vi>Chỉ dẫn, hướng dẫn</Vi>
+          <En>A statement or order telling someone what to do, especially in a formal or official context.</En>
+          <Example>The teacher gave clear instructions for the science experiment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59cdbd97-8aad-4d1e-9ffc-1dec26bb7f95">
+              <Vi>Giáo viên giải thích cách làm bài thí nghiệm cho học sinh.</Vi>
+              <En>A teacher explains how to conduct a science experiment to students.</En>
+            </Situation>
+            <Situation id="cac3559b-6e78-4743-95d2-a6d1fbc72563">
+              <Vi>Người dùng đọc hướng dẫn cài đặt phần mềm.</Vi>
+              <En>A user reads software installation instructions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0da540df-fd48-4168-82e8-ff7cc31f2c9d" type="Noun">
+          <Vi>Lệnh, mệnh lệnh (trong quân sự hoặc thể thao)</Vi>
+          <En>A formal command given, especially in military or sports contexts.</En>
+          <Example>The drill sergeant shouted an instruction to the recruits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73e951ad-4d41-4c1d-868b-7631bbb7dbab">
+              <Vi>Lính mới được huấn luyện theo từng lệnh chỉ huy.</Vi>
+              <En>New recruits train by following each command from the instructor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
