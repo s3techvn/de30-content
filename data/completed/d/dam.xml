@@ -1,0 +1,52 @@
+<Vocab id="27edae45-58e9-4228-9b19-e11b795a78e9" word="dam" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="4ee9e90e-7a49-43f6-8007-6e9fd553b9c8" value="Water Management" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" value="Hydrologist" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="62dd8722-e53e-4cbd-b1c8-2071e77e8535" ipa="/dæm/" vi_ipa="đăm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91069473-5851-42f4-950c-f2d7becdfc3a" type="Noun">
+          <Vi>Hồ chứa; đập nước</Vi>
+          <En>A barrier constructed across a river or stream to stop or control the flow of water, typically creating a reservoir.</En>
+          <Example>The government built a large dam to prevent flooding during the rainy season.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0d2b1405-a74d-483f-b642-4ec01b6b1900">
+              <Vi>Xây dựng đập để điều tiết nước và phát điện.</Vi>
+              <En>Constructing a dam to regulate water supply and generate hydroelectric power.</En>
+            </Situation>
+            <Situation id="3e7c8306-eb00-4237-86b8-2763c40683a5">
+              <Vi>Hạn hán làm mực nước trong hồ đập giảm mạnh.</Vi>
+              <En>Drought caused the water level in the reservoir to drop significantly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f064badb-ccd1-4bf9-a045-cd2bbce0ce8e" type="Verb">
+          <Vi>Đắp đập; ngăn nước bằng đập</Vi>
+          <En>To construct a dam across (a river or stream); to block or restrict the flow of water with a dam.</En>
+          <Example>The engineers dammed the river to create a artificial lake for irrigation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f520d9e-8b05-422d-b1b6-4ff89633dff9">
+              <Vi>Người ta đã đắp đập tạm thời để sửa chữa cống xả.</Vi>
+              <En>They dammed the river temporarily to repair the outlet pipe.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
