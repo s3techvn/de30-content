@@ -1,0 +1,36 @@
+<Vocab id="b0c4ada6-7e8c-4505-ae79-540ce24b71ca" word="riverside" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="b3491586-1807-48b6-83f1-4046913e4b0f" value="Tourism Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="79329cf5-6231-4b00-b920-55073fc048d1" ipa="/ˈrɪv.ər.saɪd/" vi_ipa="rích-vờ-sai-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="312b4d20-9727-4f41-a15f-4dfd5aacf64c" type="Noun">
+          <Vi>Bờ sông</Vi>
+          <En>The land next to a river, especially when considered as a place for recreation or development.</En>
+          <Example>We walked along the riverside, enjoying the gentle breeze and the view of the water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf480af4-8795-47f6-97fd-851e1e17b022">
+              <Vi>Mô tả khu vực ven sông thường được dùng để đi dạo, thư giãn hoặc xây dựng công trình.</Vi>
+              <En>Describes an area beside a river commonly used for walking, relaxation, or construction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
