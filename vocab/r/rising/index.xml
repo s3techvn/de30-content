@@ -1,0 +1,40 @@
+<Vocab id="84e9f7d3-7c20-44ea-af38-38ff55b7f019" word="rising" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0020764d-94e5-43da-a39c-0289e2af9ef4" value="Economics" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="24d6d8cb-5ac9-425e-9c63-906003e66fa8" ipa="/ˈraɪ.zɪŋ/" vi_ipa="рай-zing">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d82cdad3-39af-4b4a-8077-b7708dcd4e24" type="Adjective">
+          <Vi>đang tăng, đang dâng lên</Vi>
+          <En>Increasing or moving upward, especially in value, level, or amount.</En>
+          <Example>The rising sun painted the sky in hues of orange and pink.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a71257ea-4be4-4ffb-b10b-9696504289b6">
+              <Vi>Mô tả mặt trời mọc hoặc giá cả, số lượng tăng dần.</Vi>
+              <En>Describing the sun rising or prices, numbers, or levels increasing gradually.</En>
+            </Situation>
+            <Situation id="74277b4d-dae1-42f9-a57f-a64fed2570d5">
+              <Vi>Dùng trong bối cảnh kinh tế để nói về xu hướng tăng trưởng.</Vi>
+              <En>Used in economic contexts to describe a growing trend, such as rising inflation or rising demand.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,61 @@
+<Vocab id="56ee378a-f727-4e70-84da-b7fd45318baf" word="direction" type="short" status="done">
+  <Topics>
+    <Topic id="a3b36211-4f84-46ae-9fcf-d3cfa1f99207" value="Navigation &amp; Travel" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="36d2f24b-efa2-4c49-a6b1-84960297a6d3" value="Workplace &amp; Business" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="19cd7bf5-4d19-4f24-800f-78b55c29ee96" ipa="/dəˈrek.ʃən/" vi_ipa="đờ-rê-cờ-nhon">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2c17437-ce98-4aae-8a27-32d39745bb51" type="Noun">
+          <Vi>hướng, chỉ dẫn</Vi>
+          <En>The course or path along which someone or something moves or is aimed.</En>
+          <Example>She followed the direction of the arrow to find the exit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cb99e523-7876-4a99-817f-4c44f33e222e">
+              <Vi>Chỉ đường khi đi bộ hoặc lái xe.</Vi>
+              <En>Giving instructions on how to reach a location while walking or driving.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7b3d9433-9fd7-4bbb-b5d1-61bfbfb52c11" type="Noun">
+          <Vi>sự chỉ đạo, chỉ thị</Vi>
+          <En>Instructions or orders given by a leader or authority figure.</En>
+          <Example>He acted without direction from his manager and made a mistake.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8c1697b-5a20-41dc-a9dc-d7f7e55896e5">
+              <Vi>Trong môi trường làm việc, nhân viên cần nhận được chỉ đạo rõ ràng.</Vi>
+              <En>In the workplace, employees need clear instructions from their supervisor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="558eb2a2-58ad-4061-9a9b-f2c830c24aca" type="Noun">
+          <Vi>phương hướng, xu thế</Vi>
+          <En>A tendency or trend in behavior, thought, or development.</En>
+          <Example>The company is moving in a new direction after the merger.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58f61975-db9c-4394-b704-ef1cd61f4d83">
+              <Vi>Phân tích xu hướng chính trị hoặc văn hóa.</Vi>
+              <En>Analyzing political or cultural trends and shifts in public opinion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
