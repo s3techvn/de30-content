@@ -1,0 +1,40 @@
+<Vocab id="b0386fdc-6c8f-446c-94ed-b6b47f192061" word="undertake" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="09fae14d-2f98-4df4-ab90-7302e2aa54c0" ipa="/ˌʌn.dərˈteɪk/" vi_ipa="ân-đờ-rê-tê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1fc6c913-b224-4789-8180-a1b77609e821" type="Verb">
+          <Vi>đảm nhận, tiến hành, cam kết thực hiện</Vi>
+          <En>to accept or commit to doing something, especially a task, project, or responsibility</En>
+          <Example>She agreed to undertake the research project despite the tight deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9c25078-abe9-446a-9430-45d56b5d9d28">
+              <Vi>Người nào đó đồng ý nhận một công việc khó hoặc trách nhiệm lớn.</Vi>
+              <En>Someone agrees to take on a challenging task or major responsibility.</En>
+            </Situation>
+            <Situation id="6c745a15-204f-49c3-93c0-70313e765867">
+              <Vi>Một công ty cam kết thực hiện một dự án xây dựng mới.</Vi>
+              <En>A company commits to carrying out a new construction project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
