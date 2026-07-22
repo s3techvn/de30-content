@@ -1,0 +1,56 @@
+<Vocab id="5dfa293d-e1e8-4d74-b3ab-fac9133795df" word="radio" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b207dcdf-bafe-48ed-97f1-6c2619f2102f" value="Broadcast Engineer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="fbdab216-65c8-4703-b2d8-1ffa834d78ef" value="Aviation Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="930a25e9-df94-45ac-bd76-14ae7b45efdb" ipa="/ˈreɪ.di.oʊ/" vi_ipa="rây-đi-ô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d3f648b3-a53d-454d-9f32-0090d73e4aac" type="Noun">
+          <Vi>đài phát thanh; máy thu thanh</Vi>
+          <En>A device for receiving audio broadcasts transmitted by radio waves, or the system of broadcasting and receiving such signals.</En>
+          <Example>She listens to the radio every morning while making coffee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="feddbedd-baa1-4b06-8b06-bcad8544070b">
+              <Vi>Một người nghe đài phát thanh trong xe ô tô.</Vi>
+              <En>A person listening to the radio in a car.</En>
+            </Situation>
+            <Situation id="1a637221-df86-4bb7-8c19-a2bbc14d0b99">
+              <Vi>Người ta dùng radio để cập nhật tin tức và nghe nhạc.</Vi>
+              <En>People use radio to get news updates and listen to music.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4cd46558-03bb-4e16-990a-783e6fa86707" type="Verb">
+          <Vi>phát sóng bằng radio; liên lạc bằng radio</Vi>
+          <En>To transmit information or sound via radio waves; to communicate using a radio.</En>
+          <Example>The pilot radioed for help when the engine failed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="365d4f6d-10fe-44f9-8d88-f3882b744f07">
+              <Vi>Điều phối viên giao thông hàng không radio để hướng dẫn máy bay hạ cánh.</Vi>
+              <En>The air traffic controller radios to guide the plane for landing.</En>
+            </Situation>
+            <Situation id="18a2edd1-7ff3-4f55-bc2c-9901fee8235f">
+              <Vi>Các đội cứu hộ radio để báo cáo tình hình hiện trường.</Vi>
+              <En>The rescue teams radioed to report the situation at the scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

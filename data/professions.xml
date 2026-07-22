@@ -489,4 +489,6 @@
   <Profession id="1d225520-ad01-48e6-99e2-4d6e7dcd94ea" slug="recycling-worker" value="Recycling Worker" />
   <Profession id="b7406776-c470-42e0-95b5-7647c2ceb73b" slug="waste-management-specialist" value="Waste Management Specialist" />
   <Profession id="019344c7-ee84-4e83-b29d-4a7f2a2dbac5" slug="hunting-guide" value="Hunting Guide" />
+  <Profession id="b207dcdf-bafe-48ed-97f1-6c2619f2102f" slug="broadcast-engineer" value="Broadcast Engineer" />
+  <Profession id="fbdab216-65c8-4703-b2d8-1ffa834d78ef" slug="aviation-professional" value="Aviation Professional" />
 </Professions>
