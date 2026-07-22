@@ -1,0 +1,53 @@
+<Vocab id="e6ea76b1-ab17-4536-ae75-8f4d6e211545" word="beaver" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="f4f35fa0-b79c-47d4-867c-7f5024dd011f" value="Work Ethic" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="0aa381a1-0fa1-4bcc-823b-b40031ccb362" value="Forester" />
+    <Profession id="faec5a9d-78dd-45fc-892e-3529ec6c935c" value="Trapper" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be713f88-bad5-4b3d-bd2f-02f1adcad9c3" ipa="/ˈbiː.vər/" vi_ipa="bi-vơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a537f50c-3e08-401c-b2d9-050a739f8701" type="Noun">
+          <Vi>Con hải ly</Vi>
+          <En>A large, semiaquatic rodent native to North America and Europe, known for building dams and lodges from wood and mud.</En>
+          <Example>The beaver felled several trees to reinforce its dam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ebcd8aaf-ce0c-492b-a5db-29f5ae403070">
+              <Vi>Mô tả loài động vật có vú sống ở sông hồ, xây đập và tổ từ gỗ và bùn.</Vi>
+              <En>Describing a semiaquatic mammal that constructs dams and lodges from wood and mud in rivers and lakes.</En>
+            </Situation>
+            <Situation id="1abc28f6-9907-4e4f-803c-fd2e5c12425f">
+              <Vi>Trong ngữ cảnh lịch sử, hải ly từng bị săn lấy lông và thịt.</Vi>
+              <En>In historical contexts, beavers were hunted extensively for their fur and meat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5bc03515-9021-4bcf-9f51-c3d27b8ca83e" type="Verb">
+          <Vi>Làm việc chăm chỉ, cật lực làm việc (như hải ly xây đập)</Vi>
+          <En>To work diligently and persistently; to labor hard.</En>
+          <Example>She beavered away at her thesis for months without taking a break.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85ffe35c-8789-4387-9469-c8cc4b793f0c">
+              <Vi>Dùng để khen ngợi ai đó làm việc rất chăm chỉ, không mệt mỏi.</Vi>
+              <En>Used to praise someone who works very hard and persistently, like a beaver building its dam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

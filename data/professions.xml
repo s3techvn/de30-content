@@ -400,4 +400,6 @@
   <Profession id="ec5ee986-ced5-4c0d-9c84-5ceb9f091a57" slug="seafarer" value="Seafarer" />
   <Profession id="90facd59-f44c-408f-b97c-4baf423b9198" slug="hunter" value="Hunter" />
   <Profession id="6b269086-076a-4ff2-9347-9f3236eab2bc" slug="sales-professional" value="Sales Professional" />
+  <Profession id="0aa381a1-0fa1-4bcc-823b-b40031ccb362" slug="forester" value="Forester" />
+  <Profession id="faec5a9d-78dd-45fc-892e-3529ec6c935c" slug="trapper" value="Trapper" />
 </Professions>
