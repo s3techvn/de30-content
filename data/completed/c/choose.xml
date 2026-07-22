@@ -1,0 +1,37 @@
+<Vocab id="110945fe-8ced-4e54-a384-dd0b390d15a0" word="choose" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b7b8b101-0e4f-4e71-9732-f6606129d300" ipa="/tʃuːz/" vi_ipa="chiu-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07c3964b-4933-4cf1-aa9f-d91bc2525be8" type="Verb">
+          <Vi>chọn, lựa chọn</Vi>
+          <En>to select or make a decision about something from a number of options</En>
+          <Example>She chose the red dress over the blue one.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a483cdbd-44ce-43c4-bc99-0b3d78045419">
+              <Vi>Một người đang xem nhiều món đồ và quyết định mua món mình ưng nhất.</Vi>
+              <En>A person is examining several items and decides which one to buy.</En>
+            </Situation>
+            <Situation id="9ab9c120-8895-4be6-9a97-8fe80d42f0c8">
+              <Vi>Người tuyển dụng đang xem xét hồ sơ ứng viên và chọn người phù hợp nhất.</Vi>
+              <En>A recruiter reviews candidate applications and selects the most suitable one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

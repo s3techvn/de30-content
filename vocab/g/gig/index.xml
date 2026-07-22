@@ -1,0 +1,46 @@
+<Vocab id="fc4ba393-9808-4fb3-87db-8795c210480e" word="gig" type="short" status="done">
+  <Topics>
+    <Topic id="10b12beb-620e-4071-86af-b26344a7fb48" value="Music &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" value="Freelancer" />
+    <Profession id="619882c9-d6fb-4358-a9ec-3ab05e202630" value="Ride-hailing Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e4eeff52-d13a-4d59-a8f9-a5b5176c4fab" ipa="/ɡɪɡ/" vi_ipa="gíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1c60293-068b-4d1b-960c-20e610515e0a" type="Noun">
+          <Vi>buổi biểu diễn ngắn (đặc biệt cho nghệ sĩ tự do)</Vi>
+          <En>a short performance by a musician, especially one who is not well known or is just starting out</En>
+          <Example>The local jazz band got a gig playing at the café on Friday nights.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c2cc37a-e19f-46c8-8d2a-b11a055ec6be">
+              <Vi>Nghệ sĩ nhận lời biểu diễn tại một địa điểm nhỏ hoặc sự kiện ngắn hạn.</Vi>
+              <En>A musician accepts a short-term performance engagement at a small venue or event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b4e1d2cb-051a-4ead-ac70-023e54ad59a0" type="Noun">
+          <Vi>công việc ngắn hạn, hợp đồng ngắn (đặc biệt trong nền kinh tế chia sẻ)</Vi>
+          <En>a short-term or temporary job, especially in the gig economy</En>
+          <Example>She works multiple gigs: tutoring, dog walking, and freelance graphic design.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1a41e93-8e82-4367-ac7d-5d96fefa40e6">
+              <Vi>Công việc được nhận theo hợp đồng ngắn hạn qua ứng dụng (ví dụ: lái xe chia sẻ, giao hàng).</Vi>
+              <En>A short-term job arranged via a digital platform, such as ride-hailing or food delivery apps.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
