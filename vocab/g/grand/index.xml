@@ -1,0 +1,50 @@
+<Vocab id="cbedebff-24a6-44fa-b4c7-65b9369d2f5d" word="grand" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="34b93e47-0b6e-4c35-b51c-eb7a49a3fd60" ipa="/ɡrænd/" vi_ipa="grân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4429a572-3c1a-440d-8c8e-45d34b396ed7" type="Adjective">
+          <Vi>to lớn, vĩ đại, hoành tráng</Vi>
+          <En>very large in size, extent, or degree; impressive or magnificent.</En>
+          <Example>The hotel has a grand ballroom that can hold over 500 guests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b20b864-0938-4a86-8ea4-9775a8d8f9d7">
+              <Vi>Mô tả một không gian, sự kiện hoặc vật thể có quy mô lớn và ấn tượng.</Vi>
+              <En>Used to describe a space, event, or object that is large-scale and impressive.</En>
+            </Situation>
+            <Situation id="60ca83c9-f552-4f87-89bb-8d187037065b">
+              <Vi>Thường xuất hiện trong tên gọi hoặc tính từ mang tính trang trọng (ví dụ: Grand Canyon, Grand Hotel).</Vi>
+              <En>Often appears in formal or ceremonial names (e.g., Grand Canyon, Grand Hotel).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="af018ccc-70d9-4ba8-a730-8b9d58c8c3e3" type="Adjective">
+          <Vi>to, ông/bà (dùng trong quan hệ họ hàng)</Vi>
+          <En>used before a family relationship term to indicate one generation further removed (e.g., grandfather, grandmother).</En>
+          <Example>My grandmother’s recipe book has been in the family for over a century.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b98359c4-9d5b-4000-a236-92ac1d9ec65b">
+              <Vi>Dùng khi nói về tổ tiên hai đời trước (ông/bà nội/ngoại).</Vi>
+              <En>Used when referring to grandparents or other relatives two generations back.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
