@@ -1,0 +1,40 @@
+<Vocab id="266283cb-c89d-4da2-8efb-ebbb285cd7db" word="intention" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba9e77c5-b19c-4e73-bc9c-be396badc87b" ipa="/ɪnˈten.ʃən/" vi_ipa="in-ten-xi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="916d0d30-e60c-4a0c-9c45-e16bb4555283" type="Noun">
+          <Vi>Mục đích; ý định; ý đồ</Vi>
+          <En>A plan or aim that someone has for what they are going to do; a purpose or goal.</En>
+          <Example>She made no mention of her intention to resign.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e31317ba-e8c2-4d88-a76d-c6722adc3bf3">
+              <Vi>Người nói muốn chia sẻ kế hoạch hoặc mục tiêu sắp tới của mình.</Vi>
+              <En>The speaker wants to share their upcoming plan or goal.</En>
+            </Situation>
+            <Situation id="dbbec928-9172-499e-8230-78801c2dfa62">
+              <Vi>Trong pháp lý, xác định ý định của bị cáo trong một hành vi phạm tội.</Vi>
+              <En>In legal contexts, determining the defendant’s intent in committing an offense.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
