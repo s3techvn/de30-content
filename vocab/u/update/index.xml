@@ -1,0 +1,56 @@
+<Vocab id="04e236bd-d510-4f19-a39d-bbb46ffe1ae7" word="update" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="822a89dd-79bf-42fb-b91d-548e08352969" ipa="/ˈʌp.deɪt/" vi_ipa="áp-đê-i-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ffa12b9e-7f78-49ea-8d96-6deff6aaa20a" type="Verb">
+          <Vi>Cập nhật</Vi>
+          <En>To replace something with a newer version or to bring something up to date.</En>
+          <Example>The software will automatically update itself overnight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf8230ba-a4cd-4098-a333-f5b1fbb2385e">
+              <Vi>Người dùng cài đặt bản cập nhật phần mềm mới nhất để sửa lỗi và cải thiện hiệu suất.</Vi>
+              <En>The user installs the latest software update to fix bugs and improve performance.</En>
+            </Situation>
+            <Situation id="31966b64-38ca-484b-a06b-77894cd523fd">
+              <Vi>Cập nhật hồ sơ cá nhân trên mạng xã hội với thông tin mới nhất.</Vi>
+              <En>Updating one’s personal profile on social media with the latest information.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cf85f119-57c3-4f5f-ac4b-a65879b10990" type="Noun">
+          <Vi>Bản cập nhật</Vi>
+          <En>A new version of a product, especially software, that includes improvements or fixes.</En>
+          <Example>Apple released a major iOS update last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38ac379e-b50f-4753-9571-bc988d67a62d">
+              <Vi>Tải về và cài đặt bản cập nhật bảo mật để ngăn chặn lỗ hổng.</Vi>
+              <En>Download and install the security update to patch the vulnerability.</En>
+            </Situation>
+            <Situation id="4aa1096a-93ce-4220-b1aa-9b44faf58a4b">
+              <Vi>Người dùng được thông báo có bản cập nhật mới cho ứng dụng ngân hàng.</Vi>
+              <En>The user is notified of a new update for the banking app.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
