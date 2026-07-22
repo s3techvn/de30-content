@@ -1,0 +1,56 @@
+<Vocab id="797a3e80-77ac-4cd8-af6c-924510512306" word="blast" type="short" status="done">
+  <Topics>
+    <Topic id="826f3b8c-9436-4b42-98e9-21f4e564a53f" value="Explosions &amp; Events" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+  </Topics>
+  <Professions>
+    <Profession id="9f330493-06d4-402b-beae-af44b5ac6827" value="Demolition Engineer" />
+    <Profession id="a6bf2044-045d-45a1-9051-1f65af1b819b" value="Fireworks Technician" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="513a2477-0edd-4972-8046-b015bdac5a80" ipa="/blæst/" vi_ipa="b-l-á-s-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="68f00804-9088-4f31-963b-ddef1a5b9287" type="Noun">
+          <Vi>Phát nổ; cơn bùng nổ; tiếng nổ lớn; cuộc vui náo nhiệt</Vi>
+          <En>A sudden, violent explosion; a loud noise caused by such an explosion; a fun or exciting event or experience</En>
+          <Example>The fireworks blast lit up the night sky.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="474523a6-a8f2-43ea-89ac-b168718de33a">
+              <Vi>Mô tả một vụ nổ mạnh trong phim hành động hoặc thực tế.</Vi>
+              <En>Describing a powerful explosion in an action movie or real life.</En>
+            </Situation>
+            <Situation id="830f0d60-9121-40e6-8d7c-ec0baf3d5c5e">
+              <Vi>Chỉ một buổi tiệc hoặc hoạt động vui vẻ, sôi động.</Vi>
+              <En>Referring to a lively, enjoyable party or activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7c0131b6-fb79-4486-a308-2de6b9d5b475" type="Verb">
+          <Vi>Nổ tung; thổi bay; đánh mạnh; chê bai dữ dội</Vi>
+          <En>To explode or cause to explode; to remove or destroy something with an explosion; to criticize someone or something harshly</En>
+          <Example>The wind blast knocked over the old fence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2bd9893-426e-4e63-8029-873ab6319675">
+              <Vi>Mô tả gió mạnh thổi mạnh (như trong bão hoặc quạt công nghiệp).</Vi>
+              <En>Describing strong wind blowing forcefully (e.g., in a storm or from industrial fans).</En>
+            </Situation>
+            <Situation id="d48c1710-b91c-45cd-9c19-95b76f407c5b">
+              <Vi>Chỉ việc chỉ trích gay gắt trên mạng xã hội hoặc báo chí.</Vi>
+              <En>Referring to harsh criticism, especially online or in the media.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

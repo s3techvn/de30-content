@@ -308,3 +308,4 @@ ranging
 fantasy
 quickly
 destroy
+blast
