@@ -1,0 +1,32 @@
+<Vocab id="d54dece2-7921-49be-8ed5-9c2ebc82ab69" word="attorney" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="531f0bc1-3e06-40e4-9280-7e9eb82f154a" ipa="/əˈtɜːr.ni/" vi_ipa="ơ-tờ-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0055b930-1dca-4789-8684-9c39a8373062" type="Noun">
+          <Vi>luật sư</Vi>
+          <En>A professional qualified to represent clients in legal matters, especially to act on their behalf in court.</En>
+          <Example>The defendant hired a highly experienced attorney to defend him in the fraud case.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="91a0a17b-76e2-4cc9-9ab2-d91a279b21dd">
+              <Vi>Người khách hàng tìm luật sư để tư vấn và đại diện trong vụ kiện.</Vi>
+              <En>A client consults an attorney for legal advice and representation in court proceedings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
