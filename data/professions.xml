@@ -290,4 +290,6 @@
   <Profession id="d8dc7f4e-838d-48d8-8d56-bd067de91cb9" slug="comic-book-character" value="Comic Book Character" />
   <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" slug="mechanical-engineer" value="Mechanical Engineer" />
   <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" slug="technical-writer" value="Technical Writer" />
+  <Profession id="a96b92ff-f962-44f8-96ea-d42af68fe92a" slug="wedding-coordinator" value="Wedding Coordinator" />
+  <Profession id="80b5da50-6b3f-4992-9713-90fd61f68b76" slug="venue-manager" value="Venue Manager" />
 </Professions>

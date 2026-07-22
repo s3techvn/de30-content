@@ -1,0 +1,38 @@
+<Vocab id="69de3a9c-9eb7-49c1-b984-6ed7cd542df3" word="venue" type="short" status="done">
+  <Topics>
+    <Topic id="ec4d7080-1af4-4976-aaa0-77fbab0d2f10" value="Events and Venues" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="a96b92ff-f962-44f8-96ea-d42af68fe92a" value="Wedding Coordinator" />
+    <Profession id="80b5da50-6b3f-4992-9713-90fd61f68b76" value="Venue Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d1eebdb7-3b0a-4b6f-a15d-2d491cc02928" ipa="/ˈven.juː/" vi_ipa="ven-giu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="083dca99-134e-47a8-9717-a92ec8410a6a" type="Noun">
+          <Vi>Địa điểm tổ chức sự kiện, nơi diễn ra hoạt động (đặc biệt là sự kiện lớn như hội nghị, lễ cưới, buổi hòa nhạc)</Vi>
+          <En>A place where a public or official event, such as a meeting, concert, or trial, is held.</En>
+          <Example>The wedding venue was a historic mansion overlooking the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c83e97a0-f5e1-4217-b102-b187e451d5ff">
+              <Vi>Đang xem xét các địa điểm tổ chức tiệc cưới cho tháng tới</Vi>
+              <En>Viewing potential locations for a wedding reception next month</En>
+            </Situation>
+            <Situation id="d5808de0-7c42-4cfd-9cf5-a4f6b0691621">
+              <Vi>Pháp luật xác định địa điểm xét xử (tòa án có thẩm quyền)</Vi>
+              <En>Law: The location where a legal trial is held (the court with jurisdiction)</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
