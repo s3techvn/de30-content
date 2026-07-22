@@ -1,0 +1,46 @@
+<Vocab id="f28b26a0-4eb6-4ab3-9604-7c14c65b5efa" word="coffee" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="d03ff994-25eb-482b-9abc-7058d05dc0c2" value="Barista" />
+    <Profession id="d5a09ef3-ee47-48da-bfdf-e5228957768c" value="Café Owner" />
+    <Profession id="ade3f022-0d58-47d7-b068-22093d81115f" value="Hospitality Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="73c7d6e8-2e7c-4312-9694-47bb34e17e66" ipa="/ˈkɔː.fi/" vi_ipa="cà-phê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="54c46715-68ab-436d-aa13-7a206a8651f7" type="Noun">
+          <Vi>cafe (đồ uống từ hạt cà phê, thường được pha nóng)</Vi>
+          <En>a hot drink made from roasted and ground coffee beans</En>
+          <Example>She drinks a cup of black coffee every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af416964-584c-43e8-9fc0-079f7fde5c2d">
+              <Vi>Mô tả việc pha, mua, hoặc uống cà phê trong đời sống hàng ngày.</Vi>
+              <En>Describing the preparation, purchase, or consumption of coffee in daily life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="91774071-ff42-4ad5-9f56-ad7e1fe3168c" type="Noun">
+          <Vi>hạt cà phê (dùng để pha đồ uống)</Vi>
+          <En>the seeds of the coffee plant, used to make coffee</En>
+          <Example>They source their coffee beans directly from farms in Colombia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4b5421b-7e5b-4e07-a71f-994a92354565">
+              <Vi>Ngành nông nghiệp, chế biến, hoặc buôn bán hạt cà phê thô.</Vi>
+              <En>Agriculture, processing, or trading of raw coffee beans.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

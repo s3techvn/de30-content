@@ -621,3 +621,4 @@ bearing
 failing
 struck
 bend
+bless

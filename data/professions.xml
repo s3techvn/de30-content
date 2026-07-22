@@ -454,4 +454,6 @@
   <Profession id="0f266fc1-aba8-4156-bef2-deb452cfee0b" slug="hospitality-manager" value="Hospitality Manager" />
   <Profession id="79234b50-3ce7-4464-9fc3-fca53132cde6" slug="bell-ringer" value="Bell Ringer" />
   <Profession id="8426b177-e9ff-4cdc-86ef-a2ebde8e75f2" slug="wedding-planner" value="Wedding Planner" />
+  <Profession id="d5a09ef3-ee47-48da-bfdf-e5228957768c" slug="café-owner" value="Café Owner" />
+  <Profession id="ade3f022-0d58-47d7-b068-22093d81115f" slug="hospitality-worker" value="Hospitality Worker" />
 </Professions>
