@@ -1,0 +1,77 @@
+<Vocab id="a1bc79fa-d3ba-42b8-b74b-8e918d742b9d" word="ward" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a0d9a30-a32a-4e98-897b-ddc23032fb3e" ipa="/wɔːrd/" vi_ipa="woó-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1fe2fc3-bf7d-427f-8fb6-609488d63726" type="Noun">
+          <Vi>Khu vực điều trị trong bệnh viện (thường dành cho một nhóm bệnh nhân cụ thể)</Vi>
+          <En>A division or unit in a hospital where patients receive care, typically grouped by specialty or condition.</En>
+          <Example>The patient was moved to the intensive care ward after surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="48b984bd-d502-475b-9579-0cbfb3801837">
+              <Vi>Bệnh nhân được chuyển vào khoa cấp cứu.</Vi>
+              <En>The patient was admitted to the emergency ward.</En>
+            </Situation>
+            <Situation id="409f4d94-72cb-40b1-abab-0ab5305651a4">
+              <Vi>Nurse làm việc tại ward nhi khoa.</Vi>
+              <En>The nurse works in the pediatric ward.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="14b199e2-1d7a-4323-9e80-a3ef3053eaed" type="Noun">
+          <Vi>Khu vực hành chính trong thành phố (thường dùng ở Anh và một số nước Commonwealth)</Vi>
+          <En>A division of a city or town for administrative or electoral purposes, especially in the UK.</En>
+          <Example>She was elected as a councilor for the East Ward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e86156a9-3664-448e-ad96-1d6f9b8e2381">
+              <Vi>Bản đồ hành chính chia thành 12 ward.</Vi>
+              <En>The city map is divided into 12 wards.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="27f2c448-bf9e-4142-806e-33b02e3ccefd" type="Noun">
+          <Vi>Người được bảo vệ hoặc chăm sóc (đặc biệt là trẻ em hoặc người không có khả năng tự bảo vệ)</Vi>
+          <En>A person, especially a child, who is under the legal protection or guardianship of another person or institution.</En>
+          <Example>The orphan was made a ward of the court until a suitable foster family was found.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04d228f3-ad05-4ccf-89cf-dd7f59ea97a4">
+              <Vi>Tòa án phán quyết em bé trở thành ward của nhà nước.</Vi>
+              <En>The court declared the child a ward of the state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="032f532a-fe7e-4763-8811-12dd0fdfb5d2" type="Noun">
+          <Vi>Khu vực được bảo vệ hoặc phòng thủ (trong quân sự hoặc thể thao)</Vi>
+          <En>A sector or area assigned for defense or protection, especially in military or sports contexts.</En>
+          <Example>The team strengthened the left ward to prevent the opponent’s attack.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b43e3708-68ca-40b3-a856-f07f466ac999">
+              <Vi>Trong bóng đá, hậu vệ trái đảm nhiệm ward bên trái.</Vi>
+              <En>In football, the left-back is responsible for the left ward.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

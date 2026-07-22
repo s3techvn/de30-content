@@ -1,0 +1,40 @@
+<Vocab id="c3624c4f-42ca-422b-a2b6-488ca2b63278" word="chinese" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5fdf9dd0-2e62-4528-b27d-e4f30c9836e7" ipa="/ˈtʃaɪ.niːz/" vi_ipa="chây-nhz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4318af46-32a9-42c6-b321-72d543d83857" type="Adjective">
+          <Vi>Thuộc Trung Quốc, người Trung Quốc, hoặc tiếng Trung</Vi>
+          <En>Relating to China, its people, or its language</En>
+          <Example>She enjoys eating Chinese food and practicing Chinese calligraphy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ee7b223-8caa-4e68-8102-4ecf82970d14">
+              <Vi>Mô tả đặc điểm văn hóa, ẩm thực, hoặc ngôn ngữ của Trung Quốc</Vi>
+              <En>Used to describe cultural, culinary, or linguistic aspects of China</En>
+            </Situation>
+            <Situation id="6c6098a6-97a8-4a54-b7eb-02f7564b1010">
+              <Vi>Chỉ người có nguồn gốc hoặc quốc tịch Trung Quốc</Vi>
+              <En>Refers to a person of Chinese origin or nationality</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

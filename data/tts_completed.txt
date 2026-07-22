@@ -374,3 +374,4 @@ homeland
 truly
 revision
 eternal
+chinese
