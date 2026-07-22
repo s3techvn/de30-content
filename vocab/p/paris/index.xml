@@ -1,0 +1,33 @@
+<Vocab id="2a70c1be-3f34-46da-aa4b-c070b24c554e" word="paris" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="f41871cc-4f11-4a5c-b6cd-bb41a48352db" value="Tourism" />
+    <Profession id="624d96df-72db-4157-8ab3-829f154a8481" value="Urban Planning" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e432678b-cc9a-4130-b1a1-18b119259577" ipa="/ˈpær.ɪs/" vi_ipa="pá-rít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c1a92500-ce2b-48c1-aad0-33ba0bf8cf6e" type="Noun">
+          <Vi>Paris</Vi>
+          <En>The capital and most populous city of France, known for landmarks such as the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.</En>
+          <Example>Paris is famous for its art, fashion, and cuisine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf7fe09d-beb2-473d-99c8-39866331456e">
+              <Vi>Thành phố du lịch nổi tiếng của Pháp.</Vi>
+              <En>A major European tourist destination and cultural hub.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
