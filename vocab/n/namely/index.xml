@@ -1,0 +1,35 @@
+<Vocab id="4bc97227-ddbb-46e2-b8d5-8407b1ae7b6c" word="namely" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="67a04c9e-5613-4643-aaba-1f1626908fbf" value="Formal Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8c6cfa5d-80e0-47cd-943a-fdec92103c21" ipa="/ˈneɪm.li/" vi_ipa="nê-mli">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b0bf7a63-3bb8-4397-a69c-c9f6210cac24" type="Adverb">
+          <Vi>tức là, cụ thể là, nghĩa là</Vi>
+          <En>used to introduce a precise explanation or definition of something just mentioned</En>
+          <Example>The conference will be held in three cities, namely New York, London, and Tokyo.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f357f51-732c-43ad-a04c-c7db25d5f743">
+              <Vi>Giải thích rõ ràng hơn một danh sách hoặc khái niệm vừa được nêu.</Vi>
+              <En>Used to clarify or specify items or details previously mentioned in a list or statement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
