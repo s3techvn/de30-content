@@ -1,0 +1,46 @@
+<Vocab id="add967fb-d9c5-4432-8e39-6e155742dfab" word="relate" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d288e96-7123-4808-ac14-4597fae145b0" ipa="/rɪˈleɪt/" vi_ipa="rì-lét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f069907-4485-4bba-ba09-c196a33a75b5" type="Verb">
+          <Vi>liên hệ, liên quan</Vi>
+          <En>to have a connection or association with something or someone</En>
+          <Example>Her research relates to climate change and public health.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4adeb34e-384a-4f62-9bb9-decea8a89b44">
+              <Vi>Mô tả mối quan hệ giữa hai hiện tượng hoặc khái niệm.</Vi>
+              <En>Describing how two phenomena or concepts are connected.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="123bec46-c049-4259-8eee-52d70b0a359f" type="Verb">
+          <Vi>kể, thuật lại (một câu chuyện)</Vi>
+          <En>to tell or describe something, especially a story or event</En>
+          <Example>He related his adventures in the Amazon rainforest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0970f93a-2d2f-4e6c-ae3c-a53c0f294d31">
+              <Vi>Kể lại một trải nghiệm cá nhân cho người khác nghe.</Vi>
+              <En>Telling a personal experience to others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
