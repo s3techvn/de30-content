@@ -1,0 +1,62 @@
+<Vocab id="3d90ef75-6fdd-4be1-bc65-08ab9096c32b" word="before" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a8640feb-b010-42fa-a1e6-e327bda6cc63" ipa="/bɪˈfɔːr/" vi_ipa="bi-pho-fo">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="baecd717-e96a-4cb8-9c03-981deca4622f" type="Preposition">
+          <Vi>trước, trước khi</Vi>
+          <En>at or to an earlier time than; earlier than (a particular event or time)</En>
+          <Example>She arrived before the meeting started.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da2edcac-2c4e-4e6e-a3a1-a67019b90ed9">
+              <Vi>Mô tả thời điểm xảy ra trước một sự kiện cụ thể.</Vi>
+              <En>Used to indicate that one event happens earlier than another.</En>
+            </Situation>
+            <Situation id="bf514005-34b4-4b1a-80b3-4b8416ea9d73">
+              <Vi>Trong lịch trình hoặc trình tự công việc.</Vi>
+              <En>Used in scheduling or procedural sequences (e.g., “Review the draft before submitting it.”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6c56bc59-1690-4832-8a55-b1c8e9fbabdc" type="Adverb">
+          <Vi>trước đây, trước đó</Vi>
+          <En>in earlier times; previously</En>
+          <Example>I had seen him before, but I couldn’t recall his name.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51acbc8b-1f0a-4102-8529-f552df966a89">
+              <Vi>Khi nhắc lại kinh nghiệm hoặc sự kiện trong quá khứ.</Vi>
+              <En>Used to refer to something that happened in the past, especially in contrast to the present.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0ee1e25b-97f3-4968-ab8d-77341caf3742" type="Conjunction">
+          <Vi>trước khi, trước khi mà</Vi>
+          <En>earlier than the time at which; prior to the occurrence of</En>
+          <Example>Make sure to save your work before the computer shuts down.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6174c7c7-af9d-4404-bc3c-a7df8dd8f39e">
+              <Vi>Điều kiện cần xảy ra trước một hành động chính.</Vi>
+              <En>Used to express a necessary prior action or condition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
