@@ -1,0 +1,40 @@
+<Vocab id="cd45816b-597a-43a4-b0bc-1ab8b220705e" word="eternal" type="short" status="done">
+  <Topics>
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8ef3fe28-b18b-414f-84a8-1863319b1f20" ipa="/ɪˈtɜː.nəl/" vi_ipa="i-tơ-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b83c1d7d-8369-46ba-a805-c951f9f09817" type="Adjective">
+          <Vi>vĩnh hằng; bất diệt</Vi>
+          <En>lasting forever; forever and ever; without end</En>
+          <Example>They pledged their love in an eternal bond.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5ca17d3-546c-43a1-8bf8-d9cf28d2a685">
+              <Vi>Mô tả điều tồn tại mãi mãi, không bao giờ kết thúc, thường dùng trong văn chương, tôn giáo, hoặc triết học.</Vi>
+              <En>Used to describe something that exists forever, with no beginning or end—common in religious, philosophical, or poetic contexts.</En>
+            </Situation>
+            <Situation id="20586fd8-e1f3-4b5d-9327-e54e524210aa">
+              <Vi>Mô tả cảm xúc hoặc cam kết kéo dài mãi mãi, như tình yêu hay lời thề.</Vi>
+              <En>Used for enduring feelings or commitments, such as eternal love or eternal vows.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
