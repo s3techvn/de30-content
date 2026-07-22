@@ -1,0 +1,34 @@
+<Vocab id="383ac1e7-c309-4b7a-8894-d2891742abec" word="governing" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b8167fbb-5fd0-4e73-915b-1bb19f33e73b" ipa="/ˈɡʌv.ə.rɪŋ/" vi_ipa="gơ-vờ-rin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8369cfb8-3b23-4755-abd3-4a655b0f8dcb" type="Adjective">
+          <Vi>quản trị</Vi>
+          <En>relating to or having the power to govern</En>
+          <Example>The governing body made a decision about the new budget.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="498c45b6-3d8c-46c1-a1fb-64b2a35e7edb">
+              <Vi>Hội đồng quản trị đang thảo luận về ngân sách mới.</Vi>
+              <En>The governing body is discussing the new budget.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="968aaf6e-8b12-420a-a62b-2917572c00c6" word="neither" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c31d5b30-b108-4b67-a4b8-1098102dee1c" ipa="/ˈniːðər/" vi_ipa="ni-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fe9203a6-cefc-479e-81ce-9b294d234dc6" type="Adverb">
+          <Vi>không... mà cũng không...; chẳng... cũng chẳng...</Vi>
+          <En>used to say that two things are not true or that neither of two options is acceptable</En>
+          <Example>Neither John nor Mary could attend the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0da7aed5-818a-4e9a-99a4-70cbb5bec16b">
+              <Vi>Trong câu phủ định song song để loại trừ cả hai lựa chọn hoặc khả năng.</Vi>
+              <En>Used in a correlative construction (neither... nor...) to negate both options.</En>
+            </Situation>
+            <Situation id="490c5e36-9757-4169-81a2-078bcd2ace28">
+              <Vi>Khi trả lời câu hỏi có/không và muốn nói rằng cả hai phương án đều không đúng.</Vi>
+              <En>Used to reject both alternatives in a yes/no question (e.g., “Do you want tea or coffee?” — “Neither.”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

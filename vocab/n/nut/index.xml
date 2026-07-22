@@ -1,0 +1,64 @@
+<Vocab id="361a50f3-2d92-4ce1-86c5-6bcbf54771e1" word="nut" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="acf85b01-ff71-49bb-89cb-772e645b788b" value="Everyday Objects" />
+    <Topic id="ea1b6e4a-5e95-4276-83b3-522358b79e08" value="Mechanics" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b769b274-598c-4eef-9706-24d950e769e4" ipa="/nʌt/" vi_ipa="nát">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f52b768d-815a-4ff1-b9dd-ea0f745f0261" type="Noun">
+          <Vi>Hạt (ăn được), đặc biệt là hạt có vỏ cứng như hạnh nhân, óc chó, lạc</Vi>
+          <En>A hard-shelled fruit or seed, typically one with an edible kernel, such as a walnut, almond, or peanut.</En>
+          <Example>She opened the bag of mixed nuts and poured some into her cereal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c097df5-facf-4927-b504-d40f77cf3558">
+              <Vi>Trong nấu ăn hoặc làm bánh, dùng để chỉ các loại hạt khô ăn được.</Vi>
+              <En>Used in cooking or baking to refer to edible dried seeds with hard shells.</En>
+            </Situation>
+            <Situation id="fcca0d83-67b7-4eb9-ab3d-9493fe8ebe25">
+              <Vi>Trong ẩm thực chay, thường dùng làm nguyên liệu bổ sung protein.</Vi>
+              <En>In vegetarian cooking, often used as a protein-rich ingredient.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="046748ba-f3c7-4b8a-8dc4-9e02f121685c" type="Noun">
+          <Vi>Đai ốc (phụ kiện kim loại có ren, dùng để siết chặt bu-lông)</Vi>
+          <En>A metal fastener with a threaded hole, used to hold bolts or screws in place.</En>
+          <Example>He tightened the nut on the wheel with a wrench.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c406419-af7e-4f3e-afa3-09d343d977d6">
+              <Vi>Trong sửa chữa xe hơi hoặc lắp ráp đồ gỗ, thường gặp khi tháo/lắp các bộ phận.</Vi>
+              <En>Commonly encountered when disassembling or assembling car parts or furniture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="00081f2d-0360-4e40-bd07-56c56243ea49" type="Noun">
+          <Vi>Não (ngôn ngữ tục tĩu, thường dùng để chỉ người ngốc nghếch)</Vi>
+          <En>Slang for the brain, especially in phrases like “use your nut” meaning “think”.</En>
+          <Example>Use your nut—don’t just jump into it without planning!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="642a1925-d8d0-4efd-9902-e5452ec65423">
+              <Vi>Trong giao tiếp thân mật, dùng để nhắc ai đó phải suy nghĩ kỹ trước khi hành động.</Vi>
+              <En>In informal speech, used to remind someone to think carefully before acting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
