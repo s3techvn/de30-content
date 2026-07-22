@@ -346,4 +346,6 @@
   <Profession id="1e0e1bba-bf96-42de-8d4e-f584db92a79d" slug="land-manager" value="Land Manager" />
   <Profession id="0bdc3958-9145-4cac-8c62-8108c5e90992" slug="cultural-historian" value="Cultural Historian" />
   <Profession id="96b0f135-7f8e-4dc5-87db-cac9ea40551c" slug="beer-sommelier" value="Beer Sommelier" />
+  <Profession id="ee6c3918-377d-4f12-b8cd-982e3a605e2b" slug="waiter/waitress" value="Waiter/Waitress" />
+  <Profession id="bbba1071-c04b-477a-ab8b-5e306a042793" slug="bowling-coach" value="Bowling Coach" />
 </Professions>

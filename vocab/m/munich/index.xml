@@ -1,0 +1,34 @@
+<Vocab id="d11af3cb-77c2-483d-a86c-fff5f42278f7" word="munich" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="0bdc3958-9145-4cac-8c62-8108c5e90992" value="Cultural Historian" />
+    <Profession id="96b0f135-7f8e-4dc5-87db-cac9ea40551c" value="Beer Sommelier" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ac74f37-2c12-4c0b-880e-80734bc84085" ipa="/ˈmuː.nɪk/" vi_ipa="mư-ních">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dacd33df-a130-412d-a502-d66b2c375fbf" type="Proper Noun">
+          <Vi>München, thành phố thủ phủ của bang Bayern, Đức</Vi>
+          <En>Munich, the capital city of the Free State of Bavaria in southern Germany</En>
+          <Example>Many tourists visit Munich to see the Marienplatz and attend Oktoberfest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc986a4c-dcc5-4d2c-8c36-6a0d8571a748">
+              <Vi>Thành phố nổi tiếng với lễ hội bia Oktoberfest, kiến trúc cổ và nền văn hóa Bavaria đặc sắc.</Vi>
+              <En>A major European city known for its annual Oktoberfest celebration, historic architecture, and strong Bavarian cultural identity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
