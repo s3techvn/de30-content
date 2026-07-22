@@ -1,0 +1,40 @@
+<Vocab id="901f8340-c50f-4238-ae68-132a33745a36" word="transaction" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd0e6897-a4f3-4816-b3c7-b542bf925822" ipa="/trænˈzæk.ʃən/" vi_ipa="trờ-nắc-xác-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="60083b7c-9304-4823-a084-6c14fdca5b00" type="Noun">
+          <Vi>Giao dịch</Vi>
+          <En>An exchange or communication between two or more parties, especially involving the transfer of money, goods, or services.</En>
+          <Example>The bank processed over 500 transactions during the morning rush.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="45d4a227-653d-47f7-ae76-a908dbd4c9a2">
+              <Vi>Giao dịch mua bán hàng hóa qua ngân hàng hoặc nền tảng trực tuyến.</Vi>
+              <En>A purchase or sale conducted through a financial institution or online platform.</En>
+            </Situation>
+            <Situation id="ce7561a6-2d01-4e30-ab27-e71ee82082e1">
+              <Vi>Giao dịch chứng khoán trên sàn giao dịch.</Vi>
+              <En>A stock trade executed on a securities exchange.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

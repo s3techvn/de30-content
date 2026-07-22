@@ -1,0 +1,40 @@
+<Vocab id="7aad3dee-219c-40e3-9ade-582229460c89" word="occur" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+    <Topic id="270ac2b5-15a7-48a7-99ee-bd666185c81a" value="News &amp; Events" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ad72c9ab-f170-4edb-853b-f591e05f2252" ipa="/əˈkɜːr/" vi_ipa="ơ-ka-ờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f7ec9f7-d986-4627-956f-4f6ce6a0a713" type="Verb">
+          <Vi>xảy ra, đến, xuất hiện</Vi>
+          <En>to happen or take place, especially without being planned</En>
+          <Example>The meeting occurred unexpectedly during the lunch break.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a30b14bf-4212-4639-a255-b0c74801785d">
+              <Vi>Mô tả một sự kiện bất ngờ xảy ra trong đời sống hàng ngày.</Vi>
+              <En>Describing an unexpected event in daily life.</En>
+            </Situation>
+            <Situation id="cb4fca97-33f0-4c4d-8a88-84a6f49dba8c">
+              <Vi>Dùng trong báo cáo khoa học để nêu một hiện tượng quan sát được.</Vi>
+              <En>Used in scientific reports to describe an observed phenomenon.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
