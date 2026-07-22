@@ -1,0 +1,32 @@
+<Vocab id="1ca7315e-4472-40d3-b5fd-eccb76ed0e5f" word="nathan" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="756cd5a7-9893-47d6-877f-5c8b02252221" value="Religious Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23c47fbc-feee-4873-b6d4-3b718a0cf064" ipa="/ˈneɪ.θən/" vi_ipa="nê-i-than">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="62a03a2b-a247-412d-b49d-ea39973d9aa4" type="Proper Noun">
+          <Vi>Tên riêng, một tên phổ biến trong tiếng Hebrew, có nghĩa là “Đức Chúa Trời ban cho”.</Vi>
+          <En>A masculine given name of Hebrew origin, meaning “God has given”.</En>
+          <Example>Nathan is a character in the Bible who prophesied during King David’s reign.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a371db99-0db2-4616-81e5-51928c82cab0">
+              <Vi>Thường dùng làm tên người trong các cộng đồng Kitô giáo và Do Thái.</Vi>
+              <En>Commonly used as a personal name in Christian and Jewish communities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

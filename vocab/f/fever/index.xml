@@ -1,0 +1,54 @@
+<Vocab id="0d40f2c1-7432-469c-beaa-51ca86c1757c" word="fever" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3dfe6bd2-e20f-4e62-a644-8981a8fbe9d5" ipa="/ˈfiː.vər/" vi_ipa="phi-vơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ba43f4b0-6c38-4172-a98e-d839c9e8fced" type="Noun">
+          <Vi>Sốt (hơi cao hơn bình thường do bệnh)</Vi>
+          <En>A temporary increase in body temperature, often due to infection or illness.</En>
+          <Example>She had a high fever and needed to take antipyretic medication.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b545e308-de82-47d9-9af5-f26036c548c0">
+              <Vi>Người bệnh cảm thấy lạnh, run rẩy, sau đó sốt cao và đau đầu.</Vi>
+              <En>The patient feels cold, shivers, then develops a high fever and headache.</En>
+            </Situation>
+            <Situation id="d3da6b95-831c-4fa7-8793-a150d053f06a">
+              <Vi>Bác sĩ đo nhiệt độ cơ thể để xác định mức độ sốt.</Vi>
+              <En>The doctor measures body temperature to assess the severity of the fever.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="08ee98f4-df61-494e-aff5-a2fedfe89556" type="Noun">
+          <Vi>Sự cuồng nhiệt, sự say mê mãnh liệt</Vi>
+          <En>A state of intense enthusiasm, excitement, or obsession.</En>
+          <Example>The release of the new smartphone sparked a buying fever among consumers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="10ee7617-a173-4fdb-88ce-5cd7d5d63869">
+              <Vi>Cuộc thi đấu gây ra cơn sốt cổ vũ từ người hâm mộ.</Vi>
+              <En>The match ignited a wave of fan enthusiasm and excitement.</En>
+            </Situation>
+            <Situation id="97c5da7e-b3ce-4970-b0ed-eafa8ebc9cea">
+              <Vi>Cơn sốt mua sắm trước Giáng Sinh khiến các trung tâm thương mại đông nghịt.</Vi>
+              <En>The Christmas shopping frenzy filled shopping malls with crowds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
