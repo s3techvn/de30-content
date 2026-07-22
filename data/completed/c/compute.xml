@@ -1,0 +1,38 @@
+<Vocab id="16b7b861-4895-4067-9ad2-a2a59bc08bf9" word="compute" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb60a93e-08c7-4792-8ed5-21d6aadfeea3" ipa="/kəmˈpjuːt/" vi_ipa="cờ-m-piu-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a16ed30f-44aa-4e09-9a46-cac9f85a0957" type="Verb">
+          <Vi>Tính toán, xử lý dữ liệu bằng máy tính</Vi>
+          <En>To calculate or process information, especially using a computer.</En>
+          <Example>The program computes the total cost after applying discounts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43e0b96e-e570-4a23-9839-74c3f418fd28">
+              <Vi>Máy tính thực hiện phép tính số học hoặc xử lý dữ liệu theo lệnh lập trình.</Vi>
+              <En>A computer performs arithmetic or data-processing operations according to programmed instructions.</En>
+            </Situation>
+            <Situation id="94cea146-b309-4570-ac4f-8e3975019a86">
+              <Vi>Người dùng yêu cầu phần mềm tính toán kết quả từ dữ liệu đầu vào.</Vi>
+              <En>The user asks the software to compute the result from the input data.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
