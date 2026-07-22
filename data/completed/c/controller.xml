@@ -1,0 +1,57 @@
+<Vocab id="14001b2b-84f7-433d-812e-67e166b8afa2" word="controller" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="9637e361-1510-45c9-9401-1612a015c195" value="Gaming" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" value="Game Developer" />
+    <Profession id="32d15519-c9ed-4485-88fe-bd2625b7afce" value="Automation Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71420c72-0c7b-49f3-89d0-b4c9cf18714f" ipa="/kənˈtroʊ.lər/" vi_ipa="cơn-trô-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad961c68-ee4e-4f97-a613-cabdb5fdd72c" type="Noun">
+          <Vi>bộ điều khiển</Vi>
+          <En>A device or system that manages, commands, or regulates the behavior of other devices or systems.</En>
+          <Example>The remote controller lets you change channels and adjust the volume on your TV.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fe90ffae-e789-4825-adaf-6d44162c02b4">
+              <Vi>Người dùng sử dụng thiết bị cầm tay để điều khiển TV, máy lạnh, hoặc robot.</Vi>
+              <En>A user operates a handheld device to control a TV, air conditioner, or robot.</En>
+            </Situation>
+            <Situation id="d5e9f620-84bf-4d5c-b5a9-bf2b4d57960d">
+              <Vi>Kỹ sư lập trình phần mềm điều khiển cho hệ thống tự động hóa nhà máy.</Vi>
+              <En>An engineer programs the software controller for a factory automation system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ebf61218-bf6b-4652-9265-7802ed4ba453" type="Noun">
+          <Vi>người điều hành, người kiểm soát</Vi>
+          <En>A person who manages or oversees an activity, process, or group.</En>
+          <Example>The flight controller coordinated the mission from NASA’s command center.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60188543-84e9-4ae2-ab6a-ea4a09c9fb43">
+              <Vi>Người điều phối trong trung tâm kiểm soát không lưu theo dõi các chuyến bay.</Vi>
+              <En>The air traffic controller monitors and directs aircraft movements.</En>
+            </Situation>
+            <Situation id="89990519-7c47-4909-84b3-eeac9cd55907">
+              <Vi>Giám sát viên trong phòng điều hành nhà máy đảm bảo quy trình vận hành an toàn.</Vi>
+              <En>The plant controller ensures safe and efficient operation of manufacturing processes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

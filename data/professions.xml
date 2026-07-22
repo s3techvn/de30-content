@@ -456,4 +456,6 @@
   <Profession id="8426b177-e9ff-4cdc-86ef-a2ebde8e75f2" slug="wedding-planner" value="Wedding Planner" />
   <Profession id="d5a09ef3-ee47-48da-bfdf-e5228957768c" slug="café-owner" value="Café Owner" />
   <Profession id="ade3f022-0d58-47d7-b068-22093d81115f" slug="hospitality-worker" value="Hospitality Worker" />
+  <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" slug="game-developer" value="Game Developer" />
+  <Profession id="32d15519-c9ed-4485-88fe-bd2625b7afce" slug="automation-technician" value="Automation Technician" />
 </Professions>
