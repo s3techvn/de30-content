@@ -1,0 +1,52 @@
+<Vocab id="f92583ed-2473-4135-8735-b45a526429b9" word="reaction" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1bbf6a81-e591-42b2-8d88-62203e25c199" ipa="/rɪˈæk.ʃən/" vi_ipa="ri-ác-shờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="787cc4e5-8884-4b49-ab62-eaf548515b81" type="Noun">
+          <Vi>Phản ứng</Vi>
+          <En>A response or reaction to a stimulus, event, or situation.</En>
+          <Example>She had a violent reaction to the medication.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26b7d878-7ca2-44c1-98a7-8a9a94219364">
+              <Vi>Một phản ứng mạnh về mặt cảm xúc hoặc thể chất trước một kích thích.</Vi>
+              <En>A strong emotional or physical response to a stimulus.</En>
+            </Situation>
+            <Situation id="dc8856af-655e-46b6-8e48-07bb2bac5420">
+              <Vi>Phản ứng hóa học giữa các chất.</Vi>
+              <En>A chemical reaction between substances.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d1926413-2b44-4745-a97d-8ce670493600" type="Noun">
+          <Vi>Phản ứng (trong hóa học)</Vi>
+          <En>A process in which one or more substances are converted into different substances.</En>
+          <Example>The reaction between hydrogen and oxygen produces water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="945116a8-087a-4e98-82fa-5216a524761f">
+              <Vi>Mô tả quá trình hóa học xảy ra trong phòng thí nghiệm.</Vi>
+              <En>Describing a chemical process occurring in a laboratory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

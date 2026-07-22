@@ -1,0 +1,52 @@
+<Vocab id="19a4c1d2-690f-486a-8ec0-e3805fe57660" word="instance" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d043d20d-1248-40cf-aeb9-32ed20bbc7e7" ipa="/ˈɪn.stəns/" vi_ipa="in-dớt-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7bf06913-f501-402d-b76b-7e9d1ec9ada7" type="Noun">
+          <Vi>trường hợp; ví dụ; thể hiện cụ thể</Vi>
+          <En>a particular occurrence or example of something</En>
+          <Example>There have been several instances of fraud reported this year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85852d72-90ae-4dbd-97a0-53d7dce91a0b">
+              <Vi>Mô tả một sự kiện cụ thể đã xảy ra trong quá khứ hoặc hiện tại.</Vi>
+              <En>Describing a specific event that occurred in the past or present.</En>
+            </Situation>
+            <Situation id="c38d2a73-5653-4ed0-8485-2e0ef0dbfa2a">
+              <Vi>Dùng trong lập trình để chỉ một đối tượng được tạo từ một lớp (class).</Vi>
+              <En>Used in programming to refer to an object created from a class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e4d1e1f7-17f0-4338-b560-ab154cdcac07" type="Noun">
+          <Vi>thời điểm (thường dùng trong cụm từ "at the instance of")</Vi>
+          <En>the moment or time at which something happens (often used in formal or legal contexts)</En>
+          <Example>At the instance of the judge, the hearing was postponed.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="9dd5cace-54d5-46c2-af47-a07f5ae6625c">
+              <Vi>Xuất hiện trong văn bản pháp lý hoặc văn phong trang trọng, chỉ thời điểm hành động được thực hiện.</Vi>
+              <En>Found in legal documents or formal writing, indicating the precise moment an action is carried out.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
