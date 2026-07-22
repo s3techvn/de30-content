@@ -1,0 +1,40 @@
+<Vocab id="92565940-19e4-4a0e-ae93-27cf90dd9138" word="inspection" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="4d7d7ee8-3402-494e-a0f1-024ce814def3" value="Inspector" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="1434e391-54eb-4f44-b5c9-4986c1b6b0c9" value="Safety Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3aacf0a7-c593-4ec7-8030-26f5758a1e34" ipa="/ɪnˈspɛk.ʃən/" vi_ipa="in-speek-chơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="22b15134-40a3-433c-aacd-9ff8b71f0745" type="Noun">
+          <Vi>cuộc kiểm tra, thanh tra, kiểm định</Vi>
+          <En>A formal examination or inspection of something, especially to ensure it meets certain standards or regulations.</En>
+          <Example>The fire department conducted an inspection of the building before issuing the occupancy permit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="984764df-559b-4cb1-93dc-c23d6eb160d5">
+              <Vi>Quan chức chính phủ kiểm tra cơ sở để đảm bảo tuân thủ quy định an toàn.</Vi>
+              <En>A government official inspects a facility to ensure compliance with safety regulations.</En>
+            </Situation>
+            <Situation id="c659c30a-01b2-48e0-9fb4-870be46c96cd">
+              <Vi>Kỹ sư kiểm tra chất lượng công trình sau khi hoàn thành.</Vi>
+              <En>An engineer performs an inspection of the construction quality after completion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
