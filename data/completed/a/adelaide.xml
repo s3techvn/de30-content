@@ -1,0 +1,37 @@
+<Vocab id="88614ee5-cac2-46f1-ad85-57a289414382" word="adelaide" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64bf3447-e938-4b60-b666-19a99f16efe6" ipa="/əˈdeɪ.laɪd/" vi_ipa="ơ-đê-i-lây">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2f60688-af9b-4cf7-be9a-70a96a39c41a" type="Proper Noun">
+          <Vi>Thành phố Adelaide, thủ phủ của bang Nam Úc</Vi>
+          <En>Adelaide, the capital city of South Australia</En>
+          <Example>Adelaide is known for its festivals, wine regions, and Mediterranean climate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="051e631f-732f-4794-8027-27c265240e90">
+              <Vi>Thảo luận về du lịch Úc hoặc đặc điểm địa lý của các thành phố lớn.</Vi>
+              <En>Discussing travel in Australia or geographical features of major cities.</En>
+            </Situation>
+            <Situation id="acdc0850-15e8-4c6c-a31d-9d15cd4a7325">
+              <Vi>Nghe tin tức về thời tiết hoặc lễ hội tổ chức tại Adelaide.</Vi>
+              <En>Listening to news about weather or festivals held in Adelaide.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
