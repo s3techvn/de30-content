@@ -1,0 +1,40 @@
+<Vocab id="6b131122-7bc1-4b5c-b783-6e2265360b0f" word="encyclopedia" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a41c3a74-f637-4f3c-950d-461717ce50a6" value="Reference" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cfdb98b0-ecf9-478b-b6b5-2a57d7f6d4b3" ipa="/ˌɛn.sɪ.kloʊˈpiː.di.ə/" vi_ipa="en-xi-clo-pi-đia">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ac041d88-b5e1-44c8-a478-5b70239384af" type="Noun">
+          <Vi>Bách khoa toàn thư</Vi>
+          <En>A comprehensive reference work that contains information on all branches of knowledge, typically arranged in alphabetical order.</En>
+          <Example>She consulted the encyclopedia to learn more about the history of ancient Rome.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="92870746-8484-4fc5-bda8-017cb8b75b9d">
+              <Vi>Học sinh tra cứu bách khoa toàn thư để làm bài tập lịch sử.</Vi>
+              <En>A student looks up an encyclopedia to gather historical information for a school assignment.</En>
+            </Situation>
+            <Situation id="22250471-f396-4647-9433-e0eee658065b">
+              <Vi>Nhà xuất bản phát hành phiên bản kỹ thuật số của bách khoa toàn thư.</Vi>
+              <En>The publisher released a digital version of the encyclopedia.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
