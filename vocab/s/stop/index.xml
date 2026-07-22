@@ -1,0 +1,82 @@
+<Vocab id="d91e80c0-ed73-4fbe-bdee-e915d13dab5e" word="stop" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="f0a90d1d-3def-4e17-8a51-ccd453c0de08" value="Traffic Controller" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8561c483-d832-4e5a-bb78-2b40774d8bee" ipa="/stɑːp/" vi_ipa="x-tóp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f198efd2-ceff-44fe-88b8-71b3e4f789af" type="Verb">
+          <Vi>ngừng, dừng lại</Vi>
+          <En>to cease movement, activity, or operation; to come to a halt</En>
+          <Example>She stopped the car at the red light.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73339ea4-7f0e-4cd1-afc1-99ec7a40683d">
+              <Vi>Ngừng một hành động hoặc chuyển động đang diễn ra.</Vi>
+              <En>Halting an ongoing action or motion, such as pausing speech or ceasing movement.</En>
+            </Situation>
+            <Situation id="f0822124-3f62-487a-b3fb-998dd364cc92">
+              <Vi>Ngừng một thiết bị hoặc hệ thống hoạt động.</Vi>
+              <En>Terminating the operation of a device or system, e.g., stopping a machine or computer program.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bca0ae18-1023-4dfe-bb0f-8e699d83818f" type="Noun">
+          <Vi>sự dừng lại; trạm dừng</Vi>
+          <En>a place or moment at which something ceases to move or operate; a halt or pause</En>
+          <Example>The bus makes a scheduled stop at every corner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4bc7e3d-d79c-401f-a4ff-bcf137827e19">
+              <Vi>Điểm dừng trong hành trình (xe buýt, tàu, v.v.).</Vi>
+              <En>A designated point where a vehicle halts to pick up or drop off passengers.</En>
+            </Situation>
+            <Situation id="09e032dc-e54b-4f4b-92a0-65d8a424fabb">
+              <Vi>Khoảng thời gian ngắn nghỉ ngơi trong công việc hoặc hoạt động.</Vi>
+              <En>A brief pause or break during work or an activity, e.g., “Let’s take a stop for coffee.”</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="3dc250fa-c712-4a4f-b540-1d7c368d1c21" ipa="/stɑːp/" vi_ipa="x-tóp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e6c9f6f2-3d64-49ca-86e7-1976d64a1df1" type="Interjection">
+          <Vi>ngừng! (dùng để ra lệnh dừng ngay lập tức)</Vi>
+          <En>used as a command to halt immediately; an exclamation expressing sudden interruption or protest</En>
+          <Example>Stop! Don’t touch that!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da4e9a19-d346-407b-b11f-0cd96164ea71">
+              <Vi>Cảnh báo hoặc ra lệnh dừng ngay khi có nguy hiểm.</Vi>
+              <En>Urgently interrupting an action to prevent danger or error.</En>
+            </Situation>
+            <Situation id="b6066dab-4193-4129-b2d2-54c1af999a93">
+              <Vi>Ngắt lời ai đó đang nói (trong tranh luận hoặc thảo luận).</Vi>
+              <En>Interrupting someone mid-sentence, often to correct or object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
