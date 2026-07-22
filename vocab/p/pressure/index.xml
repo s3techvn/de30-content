@@ -1,0 +1,66 @@
+<Vocab id="dda6c50d-c2ad-4745-a427-2a33682a67d3" word="pressure" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7393664c-9303-4e69-9508-750980bd0f22" value="Physician" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7e9bc3cd-4e7e-4bb0-8cc1-2f0b9c4c05bf" ipa="/ˈpreʃ.ɚ/" vi_ipa="pờ-rét-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="57b411a7-4b26-4f87-9b68-ea2f109ea4b2" type="Noun">
+          <Vi>Áp lực</Vi>
+          <En>The force applied per unit area on a surface, or the psychological stress experienced by a person.</En>
+          <Example>High blood pressure can lead to serious health problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd44f72c-8bae-41af-9543-b822689a9531">
+              <Vi>Một bác sĩ đo huyết áp cho bệnh nhân.</Vi>
+              <En>A doctor measuring a patient's blood pressure.</En>
+            </Situation>
+            <Situation id="2b64cb8e-869d-47ab-8ef4-176085e6eed7">
+              <Vi>Cảm giác bị áp lực từ công việc hoặc học tập.</Vi>
+              <En>Feeling stressed due to work or academic demands.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="2056ee65-6a45-4d15-99fc-ac367d4a815e" ipa="/prəˈʃɚ/" vi_ipa="pờ-rét-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5d29ac8-15c3-4cc8-9638-089b3f9d2939" type="Verb">
+          <Vi>Ép buộc, gây áp lực (lên ai/cái gì)</Vi>
+          <En>To exert force or influence to make someone do something, often against their will or better judgment.</En>
+          <Example>The manager pressured the team to meet the tight deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c45fec93-7b85-4936-b25c-6a5bfc41c9f1">
+              <Vi>Người thân ép bạn đồng ý một quyết định quan trọng.</Vi>
+              <En>A family member pressures you into making a major decision you’re unsure about.</En>
+            </Situation>
+            <Situation id="5c8b01d9-fb28-4008-9734-7808a7b750b8">
+              <Vi>Chính phủ gây áp lực lên một quốc gia khác để chấm dứt xung đột.</Vi>
+              <En>The government pressures another country to end the conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
