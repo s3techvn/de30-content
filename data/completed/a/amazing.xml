@@ -1,0 +1,38 @@
+<Vocab id="e70c17e7-c6ce-40b2-a52b-5f9b12e4d38c" word="amazing" type="short" status="done">
+  <Topics>
+    <Topic id="534ecd25-6f52-4c50-a3ff-2b8e3f76255f" value="Emotions and Descriptions" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="68019fd6-fa53-4b87-962f-e55a8fec6739" ipa="/əˈmeɪ.zɪŋ/" vi_ipa="ơ-mê-dzinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f6a280d-0714-421e-a09b-7428dd748ccd" type="Adjective">
+          <Vi>thú vị, tuyệt vời, đáng kinh ngạc</Vi>
+          <En>causing great surprise or wonder; astonishingly good or impressive</En>
+          <Example>The view from the mountaintop was absolutely amazing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="631c2bff-1a2f-455f-976c-5250e768e1d3">
+              <Vi>Mô tả một trải nghiệm hoặc cảnh vật khiến người nghe cảm thấy ngỡ ngàng và thích thú.</Vi>
+              <En>Used to describe an experience or sight that evokes awe or admiration.</En>
+            </Situation>
+            <Situation id="863fb2b4-8653-481f-986d-4e0e93c9f261">
+              <Vi>Phản ứng khi chứng kiến điều gì đó vượt ngoài mong đợi.</Vi>
+              <En>Expressing admiration or disbelief at something unexpectedly excellent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
