@@ -1,0 +1,38 @@
+<Vocab id="76117c2f-b8d1-4fc5-83ee-506cb62b6d5f" word="integer" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48ef826a-8699-4041-99ba-002bfe4c14f5" ipa="/ˈɪn.tɪ.dʒər/" vi_ipa="in-ti-gơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="14af0d5a-f073-42aa-8d84-280c42f04540" type="Noun">
+          <Vi>Số nguyên</Vi>
+          <En>A whole number; a number that can be positive, negative, or zero, but not a fraction or decimal.</En>
+          <Example>The function returns an integer value, not a floating-point number.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94a382f0-f6b3-4091-8b6c-4fea7dcfc763">
+              <Vi>Trong lập trình, khi cần lưu trữ giá trị không có phần thập phân.</Vi>
+              <En>In programming, when storing a value without a fractional or decimal component.</En>
+            </Situation>
+            <Situation id="91b9ee55-b289-4075-91ec-bcfa1f62b348">
+              <Vi>Trong toán học, khi phân loại các số theo tập hợp số (natural, integer, rational, etc.).</Vi>
+              <En>In mathematics, when classifying numbers into sets such as natural, integer, rational, etc.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

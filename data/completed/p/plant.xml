@@ -1,0 +1,50 @@
+<Vocab id="757673f6-ae4e-48ae-97c5-af07eac49080" word="plant" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" value="Agricultural Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3fd079af-64fd-4487-a284-db2e52c5af66" ipa="/plænt/" vi_ipa="plent">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="092e821f-9fd8-4afe-a09d-35dcca5025c3" type="Noun">
+          <Vi>Cây; thực vật</Vi>
+          <En>A living organism of the kind that grows in the ground and has a stem, leaves, and roots, typically producing seeds or spores.</En>
+          <Example>The garden is full of colorful plants.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7702602d-d093-4873-9978-b1a3ae5c9cf8">
+              <Vi>Mô tả các loại cây cối trong vườn hoặc rừng.</Vi>
+              <En>Referring to vegetation in natural or cultivated environments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a8211c6d-250d-47eb-9bcd-becc06f08fb5" type="Verb">
+          <Vi>Trồng (cây); đặt, lắp đặt (máy móc, thiết bị)</Vi>
+          <En>To put a seed, bulb, or young plant in the ground and cover it with soil; to establish or install something firmly in a place.</En>
+          <Example>She planted the tomato seeds in early spring.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a99fd4e7-6243-4c46-8511-f2a68d506339">
+              <Vi>Hành động gieo hạt hoặc trồng cây con vào đất.</Vi>
+              <En>The act of placing seeds or seedlings into soil for growth.</En>
+            </Situation>
+            <Situation id="6f7798cd-7e89-497a-9018-df4388c6bed4">
+              <Vi>Lắp đặt thiết bị hoặc cài đặt phần mềm (nghĩa bóng).</Vi>
+              <En>To install hardware, software, or even a hidden device (e.g., a spyware or explosive).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
