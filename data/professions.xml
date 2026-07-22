@@ -341,4 +341,5 @@
   <Profession id="b6dfa8b9-2392-41b6-8fad-49d38dbeb3c3" slug="homeowner" value="Homeowner" />
   <Profession id="b3abdbd1-a670-4bf7-88c8-706df4520917" slug="plaintiff" value="Plaintiff" />
   <Profession id="c9843bf2-7bed-48cf-b05f-f4ccf897cd51" slug="grocer" value="Grocer" />
+  <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" slug="freelancer" value="Freelancer" />
 </Professions>

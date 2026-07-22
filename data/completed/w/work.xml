@@ -1,0 +1,90 @@
+<Vocab id="0486f0bc-d685-4c91-872e-0b42f2066889" word="work" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" value="Freelancer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8cbbaa57-321f-4a8a-99c1-778a896c8c8c" ipa="/wɜːrk/" vi_ipa="wooc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="32cea7d7-34c5-49ad-9c86-7cd66703ba54" type="Verb">
+          <Vi>Làm việc, hoạt động, vận hành</Vi>
+          <En>To engage in physical or mental effort in order to achieve a purpose or result; to be in action or operation.</En>
+          <Example>She works at a hospital as a nurse.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="48d8fd11-f405-4613-aed1-e2a7ba39df13">
+              <Vi>Mô tả việc thực hiện nhiệm vụ hoặc trách nhiệm trong công việc hàng ngày.</Vi>
+              <En>Describing the act of performing tasks or responsibilities in daily employment.</En>
+            </Situation>
+            <Situation id="f79d7885-eb0b-4125-9fe0-1dcdcbced27d">
+              <Vi>Mô tả máy móc đang hoạt động đúng cách.</Vi>
+              <En>Describing machinery functioning properly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7883a0c6-9ed7-46cd-b456-051303ae9514" type="Verb">
+          <Vi>Thao tác, xử lý (nguyên liệu, vật liệu)</Vi>
+          <En>To shape, form, or manipulate material (e.g., metal, clay) by hand or tool.</En>
+          <Example>The artist works the clay into a beautiful sculpture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d00a48d9-f0b8-41ab-bcd2-d4492d6def89">
+              <Vi>Mô tả việc tạo hình hoặc chế tác một vật bằng tay.</Vi>
+              <En>Describing shaping or crafting an object manually.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="96846601-1a6d-42a9-9bd8-665a09e2280c" type="Verb">
+          <Vi>Hoạt động hiệu quả, có tác dụng</Vi>
+          <En>To have a desired effect or produce a particular result.</En>
+          <Example>This medicine works quickly to relieve pain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f6f1e48-d994-4374-9e96-63572c43b55c">
+              <Vi>Mô tả hiệu quả của một phương pháp, thuốc, hoặc hành động.</Vi>
+              <En>Describing the effectiveness of a method, medicine, or action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9acc463f-695d-4f25-a9f3-cefb1571a147" ipa="/wɜːrk/" vi_ipa="wooc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0e94a557-95f6-4512-9fb4-da51cffee760" type="Noun">
+          <Vi>Công việc, việc làm, sản phẩm</Vi>
+          <En>Activity involving mental or physical effort done in order to achieve a purpose or result; also, something produced by such effort.</En>
+          <Example>He has a lot of work to finish before the deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="abb4395d-7fa2-4582-951c-83abd9c377a2">
+              <Vi>Mô tả khối lượng nhiệm vụ cần hoàn thành trong công việc.</Vi>
+              <En>Describing the amount of tasks to be completed in a job.</En>
+            </Situation>
+            <Situation id="85bca8b1-96e1-49f5-9e0d-f85e9155c263">
+              <Vi>Mô tả một sản phẩm nghệ thuật hoặc thủ công.</Vi>
+              <En>Describing a piece of art or craft.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

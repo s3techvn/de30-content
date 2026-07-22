@@ -1,0 +1,48 @@
+<Vocab id="81f16faf-cae5-431f-a906-70431702c406" word="dozen" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+    <Topic id="a481f2f4-d784-4592-ac52-3514a9ebf18b" value="Cooking &amp; Baking" />
+  </Topics>
+  <Professions>
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="c9843bf2-7bed-48cf-b05f-f4ccf897cd51" value="Grocer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fb9d13dd-4d92-403a-aad0-ede4ba76c9c0" ipa="/ˈdʌz.ən/" vi_ipa="đơ-zơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1cdbc540-90d6-4bf8-8bf0-b79276effdfa" type="Noun">
+          <Vi>Mười hai cái (được tính theo đơn vị)</Vi>
+          <En>A group of twelve items, especially when counted or sold as a unit.</En>
+          <Example>I bought a dozen eggs from the grocery store.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e034a199-eb0a-4229-9d9a-5e7584745c93">
+              <Vi>Mua bán hàng hóa theo lô 12 cái (trứng, bánh, bút…)</Vi>
+              <En>Buying or selling items in sets of twelve, such as eggs, donuts, or pens.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="43e416ab-57ca-46bc-9a1e-e65614662503" type="Noun">
+          <Vi>Nhóm người đáng chú ý (thường dùng trong cụm "a dozen or so")</Vi>
+          <En>A small, indefinite number of people or things, typically around twelve.</En>
+          <Example>A dozen or so guests arrived early for the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="632b16e5-f576-4b45-b57a-670d710e8a92">
+              <Vi>Mô tả số lượng người hoặc vật không chính xác nhưng xấp xỉ 12</Vi>
+              <En>Describing an approximate number of people or objects, usually around twelve.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
