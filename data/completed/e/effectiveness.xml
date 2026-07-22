@@ -1,0 +1,36 @@
+<Vocab id="cdb077f0-000d-4017-b54a-bc9a529b8fec" word="effectiveness" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e4a2d5c-c30e-460d-a4e0-ad3083cc4b1c" ipa="/ɪˈfɛk.tɪ.və.nəs/" vi_ipa="i-fék-ti-vơ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="21c1f7eb-5f6f-46ad-afc4-003574bebaf5" type="Noun">
+          <Vi>Hiệu quả, hiệu lực, mức độ đạt được kết quả mong muốn</Vi>
+          <En>The degree to which something is successful in producing a desired result; the quality of being effective.</En>
+          <Example>The new teaching method improved student engagement and learning effectiveness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7336a16b-362c-497c-ad19-1ebdc40ea641">
+              <Vi>Mô tả mức độ thành công của một chiến dịch truyền thông, chương trình đào tạo, hoặc liệu pháp y tế.</Vi>
+              <En>Used when evaluating how well a program, strategy, or treatment achieves its intended goals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

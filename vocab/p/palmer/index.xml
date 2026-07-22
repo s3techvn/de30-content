@@ -1,0 +1,32 @@
+<Vocab id="34f6d4a2-33a2-4d1b-9414-1596368802eb" word="palmer" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="756cd5a7-9893-47d6-877f-5c8b02252221" value="Religious Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a0fe953-8c8d-45bd-812c-722b7f30bb33" ipa="/ˈpæl.mər/" vi_ipa="pờ-lờ-mờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="616ef9d6-e6c7-4763-ad42-855a33f985a3" type="Noun">
+          <Vi>người hành hương (đi hành hương đến Đất Thánh, đặc biệt là Giêrusalem)</Vi>
+          <En>a pilgrim who has visited the Holy Land, especially Jerusalem</En>
+          <Example>Historical accounts mention several palmer who brought back relics and testimonies from their journeys.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="568866a9-27fb-474a-9347-1c37f9dca5f8">
+              <Vi>Thường dùng trong văn học hoặc lịch sử để chỉ các tín đồ Kitô giáo thời Trung cổ đi hành hương đến Đất Thánh.</Vi>
+              <En>Used in historical or literary contexts to refer to Christian pilgrims in the Middle Ages who traveled to the Holy Land.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
