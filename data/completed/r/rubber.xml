@@ -1,0 +1,40 @@
+<Vocab id="7b02de08-9e8e-4f47-8bfb-2a5108f9555a" word="rubber" type="short" status="done">
+  <Topics>
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="0bd086ae-9b7b-4d77-8e6f-ba1f80c576fe" value="Manufacturing Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63a8b94b-204c-4a95-a3c4-b428beb8abf5" ipa="/ˈrʌb.ɚ/" vi_ipa="ráp-bơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d8868a3a-9a6c-4b3a-8fdf-daefcfec78d8" type="Noun">
+          <Vi>Cao su</Vi>
+          <En>A flexible, elastic substance, typically made from latex or synthetic polymers, used for making tires, gloves, hoses, and many other products.</En>
+          <Example>The car tire is made of durable rubber to withstand road friction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee8d107b-0cdb-4bd2-8b38-179f6ee84568">
+              <Vi>Ngành sản xuất lốp xe ô tô và xe đạp.</Vi>
+              <En>The automotive industry, especially in tire manufacturing.</En>
+            </Situation>
+            <Situation id="8984f439-d977-49b8-a525-9240ae10ddc6">
+              <Vi>Vật liệu làm găng tay y tế.</Vi>
+              <En>Material used for medical gloves and protective equipment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

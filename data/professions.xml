@@ -295,4 +295,5 @@
   <Profession id="fbe0905a-3244-43a8-b4f5-0debf3cfb215" slug="activist" value="Activist" />
   <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" slug="academic-researcher" value="Academic Researcher" />
   <Profession id="100444fe-cb02-4260-9787-723ce5eb3cc1" slug="fencer" value="Fencer" />
+  <Profession id="0bd086ae-9b7b-4d77-8e6f-ba1f80c576fe" slug="manufacturing-engineer" value="Manufacturing Engineer" />
 </Professions>
