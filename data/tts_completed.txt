@@ -630,3 +630,4 @@ protocol
 individual
 flash
 swing
+financial
