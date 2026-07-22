@@ -1,0 +1,70 @@
+<Vocab id="b2cc53fc-968c-419f-b0f2-dd27cd465e26" word="dose" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d908afa7-0a0c-4c06-aed6-589a6be0970b" ipa="/doʊs/" vi_ipa="đô-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="329314a2-0022-4b1c-a78c-a87b5e9428f8" type="Noun">
+          <Vi>Lượng thuốc hoặc chất được dùng trong một lần</Vi>
+          <En>A specific amount of a medicine or drug taken at one time</En>
+          <Example>The doctor prescribed a daily dose of 500 milligrams.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="724a8a40-6bbc-4fd4-9e7b-0a918f758c3c">
+              <Vi>Bác sĩ chỉ định liều thuốc cho bệnh nhân uống mỗi ngày.</Vi>
+              <En>The doctor prescribes the medication dosage for the patient to take daily.</En>
+            </Situation>
+            <Situation id="89146a0c-e002-43bc-adf5-5fedb2c65b44">
+              <Vi>Nhân viên y tế hướng dẫn cách uống đúng liều kháng sinh.</Vi>
+              <En>Healthcare staff instructs how to take the antibiotic at the correct dose.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="90a21150-9b6a-4231-a5bd-e02105772a61" type="Noun">
+          <Vi>Lượng chất (thường là hóa chất hoặc chất gây nghiện) được dùng một lần</Vi>
+          <En>A single amount of a substance, especially a drug or poison, taken or administered at one time</En>
+          <Example>A massive dose of radiation can cause acute radiation sickness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a11cb07b-ad58-4e2e-ad22-74b2e38da85c">
+              <Vi>Người dùng ma túy nhận một liều heroin cao.</Vi>
+              <En>A drug user takes a high dose of heroin.</En>
+            </Situation>
+            <Situation id="5ff88c14-5b4f-48a1-94a9-f6391a38df69">
+              <Vi>Thí nghiệm cho thấy liều hóa chất này gây độc cho chuột.</Vi>
+              <En>The experiment showed this chemical dose is toxic to mice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ddc5c50-0737-4755-a585-1e863c8d0080" type="Noun">
+          <Vi>Lượng nhỏ (thường là điều gì đó tiêu cực) được coi là cần thiết hoặc không thể tránh khỏi</Vi>
+          <En>A small amount of something unpleasant or undesirable, especially when it is necessary or unavoidable</En>
+          <Example>He needs a dose of reality to stop dreaming about quick success.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fdb40bbc-3ff2-4e4e-ac92-99079170aa90">
+              <Vi>Cô ấy cần một liều sự thật để nhận ra vấn đề thực sự.</Vi>
+              <En>She needs a dose of reality to recognize the real issues.</En>
+            </Situation>
+            <Situation id="857e650e-9f9f-48c3-bef3-72e47dcb4296">
+              <Vi>Bản tin mang lại một liều nhỏ sự hoài nghi về triển vọng kinh tế.</Vi>
+              <En>The news report delivers a dose of skepticism about the economic outlook.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
