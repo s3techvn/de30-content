@@ -336,4 +336,5 @@
   <Profession id="9cfe9d98-c264-413f-b0e3-3de636fe3b13" slug="software-architect" value="Software Architect" />
   <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" slug="literary-critic" value="Literary Critic" />
   <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" slug="civil-servant" value="Civil Servant" />
+  <Profession id="41d88a36-fb1f-4fc7-bae4-415c5386f945" slug="history" value="History" />
 </Professions>

@@ -1,0 +1,45 @@
+<Vocab id="01985248-20aa-4cb7-a826-510dbdf7fc01" word="nelson" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="41d88a36-fb1f-4fc7-bae4-415c5386f945" value="History" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e5909469-6a75-4ac3-93fa-493535db9dcd" ipa="/ˈnɛlsən/" vi_ipa="nen-xơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1bb6359b-4b20-4e19-88b7-4e0cb0f7ccbb" type="Noun">
+          <Vi>Người anh hùng hải quân Anh Horatio Nelson; tên gọi thường dùng để chỉ Đô đốc Nelson</Vi>
+          <En>A British naval hero, typically referring to Admiral Horatio Nelson (1758–1805), famous for his victories during the Napoleonic Wars, especially the Battle of Trafalgar.</En>
+          <Example>Statues of Nelson stand in many ports, most famously Nelson’s Column in Trafalgar Square, London.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b8120f5-c33e-41eb-b0d3-2c6dbf021fbd">
+              <Vi>Thường xuất hiện trong sách lịch sử, bảo tàng hải quân, hoặc khi nói về chiến thắng hải quân của Anh.</Vi>
+              <En>Commonly used in historical texts, naval museums, or discussions about British naval supremacy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b7b103c3-a14b-4b83-8f15-6cc10ced191e" type="Noun">
+          <Vi>Tên riêng (đặt cho người hoặc vật)</Vi>
+          <En>A proper noun used as a given name or surname, most notably borne by Admiral Horatio Nelson.</En>
+          <Example>Many ships have been named *Nelson* in honor of the admiral.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c4d6138-c0df-47a9-ac8c-efa1431402af">
+              <Vi>Dùng làm tên người (họ hoặc tên đệm), hoặc đặt tên tàu chiến, công trình, quảng trường… để tưởng nhớ Đô đốc Nelson.</Vi>
+              <En>Used as a personal name or to name ships, monuments, and public spaces in commemoration of the admiral.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
