@@ -1,0 +1,66 @@
+<Vocab id="9856c2a6-2e28-4026-a962-0dc7f3d41711" word="access" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" value="IT Administrator" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="198723cc-3a87-4066-ab67-f277602b8fd4" ipa="/ˈæk.ses/" vi_ipa="ác-xét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="124e0ca7-c7f2-48a1-baae-11a45097e87f" type="Noun">
+          <Vi>Quyền truy cập; sự tiếp cận; cổng vào</Vi>
+          <En>The ability or right to see, use, or enter something; a way of entering or reaching something.</En>
+          <Example>She requested administrative access to the server.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ee4f5a3-eaf2-444b-9cea-43f3995c0542">
+              <Vi>Một người dùng cần quyền để mở tệp tin hoặc hệ thống.</Vi>
+              <En>A user needs permission to open a file or system.</En>
+            </Situation>
+            <Situation id="ba77c4f7-ea1a-4865-af43-adad55e28f46">
+              <Vi>Công trình xây dựng có lối vào dành cho người khuyết tật.</Vi>
+              <En>The building has wheelchair access.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="acabe599-0dd6-4566-b68d-9aa46b4b90bb" ipa="/əkˈses/" vi_ipa="ác-xép">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="69ac752a-c17c-4e14-a605-36145385307a" type="Verb">
+          <Vi>Truy cập; tiếp cận; mở (file, hệ thống, dữ liệu)</Vi>
+          <En>To reach or enter something, especially a computer system, file, or information.</En>
+          <Example>He accessed the database using his login credentials.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="360d42ac-1145-4c98-aaae-7a701c9a7c15">
+              <Vi>Nhân viên IT đang truy cập máy chủ từ xa để khắc phục sự cố.</Vi>
+              <En>The IT staff is remotely accessing the server to fix the issue.</En>
+            </Situation>
+            <Situation id="5220278f-f054-4950-a70b-753226721b70">
+              <Vi>Người dùng không thể truy cập trang web do lỗi kết nối.</Vi>
+              <En>Users cannot access the website due to a connection error.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
