@@ -1,0 +1,38 @@
+<Vocab id="f08cd30f-2fb7-4eea-a63d-5cb3ca8f41cb" word="semester" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a2098263-f010-462c-99e8-b8145240b38a" ipa="/ˈsɛm.ɪ.stɚ/" vi_ipa="xêm-i-sờ-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2e86263e-2bb4-4aef-9137-c9b497553f88" type="Noun">
+          <Vi>Học kỳ</Vi>
+          <En>One of two or more named periods into which a school year is divided, typically lasting about 15–18 weeks.</En>
+          <Example>Students usually take four or five courses per semester.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="432e962d-8370-4a69-8756-a42d18003f70">
+              <Vi>Thời gian học tập chính trong năm học tại trường đại học hoặc cao đẳng.</Vi>
+              <En>The main teaching period in a university or college academic year.</En>
+            </Situation>
+            <Situation id="7e61415f-b5c1-47a7-bf72-77cd3957c4fb">
+              <Vi>Học sinh đăng ký môn học trước khi bắt đầu học kỳ mới.</Vi>
+              <En>Students register for courses before the start of a new semester.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
