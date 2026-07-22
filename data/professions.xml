@@ -266,4 +266,5 @@
   <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" slug="executive" value="Executive" />
   <Profession id="e5b97041-f3da-41dd-ab13-3356d2f1e8a4" slug="mountaineer" value="Mountaineer" />
   <Profession id="7865af47-fdae-4060-8f87-5dc93f1e84bc" slug="catholic-priest" value="Catholic Priest" />
+  <Profession id="fa3f3ac0-190e-4ce3-944f-6f9a417015a2" slug="food-service-worker" value="Food Service Worker" />
 </Professions>
