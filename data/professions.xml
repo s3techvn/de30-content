@@ -334,4 +334,5 @@
   <Profession id="2d94a089-5564-417e-ad6b-fc7af712e75d" slug="actress" value="Actress" />
   <Profession id="8b4b2985-e6db-409f-a1f5-52866e11b7d2" slug="border-guard" value="Border Guard" />
   <Profession id="9cfe9d98-c264-413f-b0e3-3de636fe3b13" slug="software-architect" value="Software Architect" />
+  <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" slug="literary-critic" value="Literary Critic" />
 </Professions>

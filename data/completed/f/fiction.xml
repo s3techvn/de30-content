@@ -1,0 +1,50 @@
+<Vocab id="7ea0cf46-ba2b-4654-8c4a-5f944e524e0d" word="fiction" type="short" status="done">
+  <Topics>
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" value="Literary Critic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="13ca98a1-8d3e-4638-816e-b0f366b9eb46" ipa="/ˈfɪk.ʃən/" vi_ipa="phích-shơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="10b7854d-d56d-4b97-82b2-c93aa374f9e5" type="Noun">
+          <Vi>Tác phẩm hư cấu; truyện hư cấu; sự hư cấu</Vi>
+          <En>Imaginative literature or stories, especially novels, films, etc., that are invented by the author and not based on real events.</En>
+          <Example>She prefers reading fiction over non-fiction because she enjoys escaping into imaginary worlds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bbd65761-6c05-47b6-aa59-7e6db7874860">
+              <Vi>Người đọc say mê các tiểu thuyết giả tưởng vào buổi tối.</Vi>
+              <En>A reader enjoys immersive fantasy novels during the evening.</En>
+            </Situation>
+            <Situation id="b7b78269-a251-49ed-aa98-8a2e14364709">
+              <Vi>Bạn có thể phân biệt giữa truyện hư cấu và sự thật không?</Vi>
+              <En>Can you distinguish between fiction and reality?</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dc615795-f09a-42b0-9759-14f3f3eb4c15" type="Noun">
+          <Vi>Sự bịa đặt; điều không có thật</Vi>
+          <En>A statement, idea, or story that is deliberately invented or false, often used to deceive.</En>
+          <Example>His excuse about being sick was pure fiction—he was actually at the concert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9d1ab6c-4384-40ad-896a-c427741d7ec2">
+              <Vi>Chính phủ bác bỏ những tin đồn là hư cấu không có căn cứ.</Vi>
+              <En>The government dismissed the rumors as baseless fiction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
