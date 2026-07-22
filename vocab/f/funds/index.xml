@@ -1,0 +1,38 @@
+<Vocab id="fb5409e7-3d23-411c-8bd9-e1f4f4685e8e" word="funds" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e41161c5-a6ef-4bde-bb1c-88543231e17c" ipa="/fʌndz/" vi_ipa="fan-dz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5535d6db-387e-49bd-8677-ff93c66cd9c9" type="Noun">
+          <Vi>Tiền vốn; quỹ tiền tệ</Vi>
+          <En>Money that is available to be used for a specific purpose, especially by an organization or government.</En>
+          <Example>The charity received a large donation to support its funds for disaster relief.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ffd391bc-3c89-4283-a1a6-bb31a57e83d1">
+              <Vi>Tình huống nói về ngân sách hoặc tài chính của tổ chức.</Vi>
+              <En>Scenario involving an organization’s financial resources or budget.</En>
+            </Situation>
+            <Situation id="99aac6b2-ee1e-4041-866a-f350c8070242">
+              <Vi>Tình huống yêu cầu phân bổ hoặc huy động vốn.</Vi>
+              <En>Scenario where funds need to be allocated or raised.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

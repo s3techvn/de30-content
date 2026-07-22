@@ -1,0 +1,52 @@
+<Vocab id="ab3e7fa3-22ae-4690-ad81-898ca15cb21a" word="acute" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6d598b04-50bb-4a7e-8ee5-074ab46eb7a8" ipa="/əˈkjuːt/" vi_ipa="ơ-ki-út">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d214790-63f4-4417-90a6-e02daffb49ea" type="Adjective">
+          <Vi>nhọn, sắc, cấp tính</Vi>
+          <En>having a sharp or pointed end or edge; or (of a medical condition) having a sudden and severe onset but short duration.</En>
+          <Example>The nurse administered the injection using an acute needle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e731fa6a-ed92-41e7-b28d-d361a4ae66c3">
+              <Vi>Mô tả một vật có đầu nhọn như kim, dao, hoặc góc nhỏ hơn 90 độ trong hình học.</Vi>
+              <En>Describing a sharp object (e.g., a needle) or an angle less than 90 degrees in geometry.</En>
+            </Situation>
+            <Situation id="e319e82b-6836-46c2-8a70-d7c55a14d9fd">
+              <Vi>Mô tả một bệnh lý khởi phát đột ngột và nghiêm trọng nhưng kéo dài ngắn (ngược lại với mãn tính).</Vi>
+              <En>Describing a medical condition that starts suddenly and severely but lasts only a short time (opposite of chronic).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f69c013b-730b-4816-9c11-e966b900cd03" type="Adjective">
+          <Vi>nhạy cảm, tinh tế, nhanh nhạy (về trí tuệ)</Vi>
+          <En>having or showing an ability to understand things quickly; mentally sharp.</En>
+          <Example>She has an acute mind and picks up new concepts in minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb403560-1ceb-4a03-b183-f83f7818f1e0">
+              <Vi>Mô tả một người có khả năng tư duy nhanh, quan sát tinh tế và hiểu sâu sắc.</Vi>
+              <En>Describing a person with quick thinking, keen observation, and deep understanding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

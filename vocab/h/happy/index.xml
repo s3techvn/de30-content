@@ -1,0 +1,38 @@
+<Vocab id="ce114339-0528-46ea-9c5e-fd9b8a49de6e" word="happy" type="short" status="done">
+  <Topics>
+    <Topic id="68319244-13aa-4e8c-9877-c347b6864187" value="Emotions &amp; Feelings" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="32b28dfc-2d82-4951-933c-3f0fde8a145b" ipa="/ˈhæp.i/" vi_ipa="háp-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="612c2314-e3af-40c8-a593-64a07e2978ca" type="Adjective">
+          <Vi>hạnh phúc, vui vẻ</Vi>
+          <En>feeling or showing pleasure or contentment</En>
+          <Example>She looked happy when she opened her birthday presents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8e85463-e262-4ee3-8031-84081dfc49e6">
+              <Vi>Mô tả trạng thái tinh thần tích cực khi đạt được điều mong muốn hoặc trải nghiệm điều tốt đẹp.</Vi>
+              <En>Describes a positive mental state when achieving desired outcomes or experiencing something pleasant.</En>
+            </Situation>
+            <Situation id="1aa6836b-e370-4397-8e52-c958e5329249">
+              <Vi>Sử dụng để khen ngợi ai đó có thái độ tích cực, nụ cười rạng rỡ.</Vi>
+              <En>Used to praise someone for having a positive attitude or a bright smile.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
