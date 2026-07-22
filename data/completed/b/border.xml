@@ -1,0 +1,66 @@
+<Vocab id="d54c33ae-4945-47a5-9e67-52db3b7ad147" word="border" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="8b4b2985-e6db-409f-a1f5-52866e11b7d2" value="Border Guard" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3ecba1a1-e8ee-45d5-9497-72b266fe02b2" ipa="/ˈbɔːr.dər/" vi_ipa="bờ-đờ-đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d934db7a-3dd0-4789-aedf-72b14194f02d" type="Noun">
+          <Vi>biên giới; viền; rìa</Vi>
+          <En>The line or boundary separating two countries, regions, or areas; the edge or margin of something.</En>
+          <Example>The river forms part of the border between the two nations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="33f661d0-8c55-4080-af89-e0a27e54cd28">
+              <Vi>Mô tả ranh giới địa lý giữa hai quốc gia hoặc khu vực.</Vi>
+              <En>Describing the geographical boundary between two countries or regions.</En>
+            </Situation>
+            <Situation id="6a9a8eac-8719-46f2-b869-42835de9cc31">
+              <Vi>Mô tả viền của một vật, như viền của một tấm vải hoặc khung ảnh.</Vi>
+              <En>Describing the edge or margin of an object, such as the edge of fabric or a photo frame.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="4375689e-1e01-4e45-9aa3-c3e941d68720" ipa="/bɔːrˈdɜːr/" vi_ipa="bờ-đờ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4903bac8-a950-4d6d-8061-4995177444f6" type="Verb">
+          <Vi>đặt biên giới; giáp với; viền quanh</Vi>
+          <En>To form or lie along the edge of something; to be adjacent to a boundary or edge.</En>
+          <Example>The village borders the forest on three sides.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2fa0486-0f8b-472b-85f3-644cff921c8f">
+              <Vi>Mô tả việc một khu vực hoặc quốc gia tiếp giáp với một khu vực khác.</Vi>
+              <En>Describing how one region or country adjoins another.</En>
+            </Situation>
+            <Situation id="f27da50f-d229-415b-9e47-27601fa4b1e0">
+              <Vi>Mô tả việc trang trí viền cho một vật (ít dùng, thường trong văn phong nghệ thuật).</Vi>
+              <En>Describing the act of edging or framing something (less common, often in artistic contexts).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
