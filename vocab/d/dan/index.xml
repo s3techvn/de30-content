@@ -1,0 +1,37 @@
+<Vocab id="a1e346e3-df57-4ac9-90ee-1dc09ce14ed5" word="dan" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0dab500a-f225-4fc5-8c44-1f7b2bda8f31" ipa="/zæn/" vi_ipa="dân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="14c66e54-d2aa-4e33-b2c7-0dd90d0c1ccf" type="Noun">
+          <Vi>Dân; người (thuộc một nhóm, cộng đồng, dân tộc, quốc gia)</Vi>
+          <En>People; citizens; a group of people sharing a common identity, such as ethnicity, nationality, or community</En>
+          <Example>The Vietnamese people, or *dân Việt*, have a rich history of resistance and cultural continuity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2654af14-e5ef-4606-acea-f2f6040d0907">
+              <Vi>Trong ngữ cảnh văn hóa hoặc lịch sử, chỉ tập thể người thuộc một dân tộc hay quốc gia.</Vi>
+              <En>In cultural or historical contexts, refers to the collective people of an ethnic group or nation.</En>
+            </Situation>
+            <Situation id="9dfa39fa-f5e6-4989-beb1-f908a95490e6">
+              <Vi>Trong tên gọi các nhóm dân cư (ví dụ: dân tộc, dân làng).</Vi>
+              <En>In names of population groups (e.g., ethnic groups, village communities).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
