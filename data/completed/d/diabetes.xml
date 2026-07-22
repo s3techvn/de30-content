@@ -1,0 +1,38 @@
+<Vocab id="52506963-1d02-4872-8b72-5c2d5b8de6e9" word="diabetes" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ca37e8e1-e3fb-4d2c-b40a-4903d3106d37" ipa="/ˌdaɪ.əˈbiː.tiː.z/" vi_ipa="đai-ơ-bi-ti-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="75dfa2ca-3c4f-4e58-b772-90605350cc9e" type="Noun">
+          <Vi>Bệnh tiểu đường</Vi>
+          <En>A chronic medical condition in which the body cannot properly regulate blood sugar levels due to insufficient insulin production or insulin resistance.</En>
+          <Example>People with diabetes need to monitor their blood glucose levels regularly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8143285-abda-405f-a777-4a21da00f339">
+              <Vi>Chẩn đoán và điều trị bệnh tiểu đường tại phòng khám.</Vi>
+              <En>Diagnosis and treatment of diabetes in a clinic.</En>
+            </Situation>
+            <Situation id="43e378ef-5548-44b1-b299-22b1e0e2cea3">
+              <Vi>Người bệnh tiểu đường phải tuân thủ chế độ ăn uống và tập luyện nghiêm ngặt.</Vi>
+              <En>People with diabetes must follow strict diet and exercise regimens.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
