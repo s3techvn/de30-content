@@ -1,0 +1,38 @@
+<Vocab id="4781b447-33a6-43a2-9da9-195c1e2d5cd9" word="delaware" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="69d4d8ca-20dd-4e0b-9765-f0d8495f60a9" ipa="/dɪˈlɔː.ər/" vi_ipa="đi-lô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9aada793-aef4-4310-b3a0-b99f63482afa" type="Noun">
+          <Vi>Đô-lô-rơ (tên một bang ở miền Đông Hoa Kỳ)</Vi>
+          <En>A state in the eastern United States, located on the Atlantic coast, known as the "First State" for being the first to ratify the U.S. Constitution.</En>
+          <Example>Delaware is famous for its chemical industry and as a corporate incorporation hub.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d665535a-21a1-4f5f-9f25-f16965f2b0b1">
+              <Vi>Trong ngữ cảnh địa lý hoặc du lịch, nói về bang nhỏ nhưng có vị thế quan trọng trong lịch sử Hoa Kỳ.</Vi>
+              <En>In geographical or travel contexts, referring to the small but historically significant U.S. state.</En>
+            </Situation>
+            <Situation id="b1f89d75-c7ba-4fdb-a83a-5cd73e594e3a">
+              <Vi>Khi thảo luận về pháp lý hoặc doanh nghiệp, vì Delaware là nơi đăng ký thành lập công ty phổ biến.</Vi>
+              <En>When discussing legal or business contexts, as Delaware is a popular state for corporate incorporation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
