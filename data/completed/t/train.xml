@@ -1,0 +1,50 @@
+<Vocab id="9e51cd07-a81d-4cfe-ba04-bfe34a2f16dd" word="train" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="3a0a4682-11dd-4813-a9f7-56148763ec7d" value="Railway Engineer" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="03c16db1-0e62-4fe6-b66a-636e2625bf62" ipa="/treɪn/" vi_ipa="t rê-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0e8c91b9-bb7a-4219-a1a6-e337ca0b3716" type="Noun">
+          <Vi>xe lửa; đoàn tàu</Vi>
+          <En>A connected series of railway cars used for transporting passengers or freight.</En>
+          <Example>The train arrived at the station ten minutes late.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f226611b-715d-4cf4-b7ea-90715e3528d1">
+              <Vi>Hành khách chờ trên platform để lên tàu.</Vi>
+              <En>Passengers wait on the platform to board the train.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1fcb40a7-2984-4ca9-a0b0-1014bee9e4b4" type="Verb">
+          <Vi>đào tạo; huấn luyện; huấn luyện (động vật)</Vi>
+          <En>To teach or gain knowledge, skill, or ability through instruction or practice; to develop or discipline (an animal) by instruction and practice.</En>
+          <Example>She trained as a nurse before moving to Canada.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d2cef0c-65b2-4438-94b7-8407120fdc10">
+              <Vi>Cô ấy đang tập luyện để chuẩn bị cho giải marathon.</Vi>
+              <En>She is training to prepare for the marathon.</En>
+            </Situation>
+            <Situation id="8ac57678-b5e4-47f0-b5b4-9434a660f021">
+              <Vi>Chó được huấn luyện để dẫn đường cho người khiếm thị.</Vi>
+              <En>Dogs are trained to guide visually impaired people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

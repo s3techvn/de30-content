@@ -473,4 +473,5 @@
   <Profession id="fc9f28e0-4dcf-4dee-88ec-ea2c3a4cbcc1" slug="producer" value="Producer" />
   <Profession id="02c5f2d0-55c5-4ebc-adce-2be266b6a7aa" slug="conservationist" value="Conservationist" />
   <Profession id="5404dd49-5214-40be-8ae2-280dd3070b34" slug="store-manager" value="Store Manager" />
+  <Profession id="3a0a4682-11dd-4813-a9f7-56148763ec7d" slug="railway-engineer" value="Railway Engineer" />
 </Professions>
