@@ -1,0 +1,54 @@
+<Vocab id="95e38e06-3ccd-43fb-a3be-493b9467dfac" word="treasure" type="short" status="done">
+  <Topics>
+    <Topic id="2d17b282-5db7-4310-a3a2-109f6324e2f5" value="Wealth &amp; Valuables" />
+  </Topics>
+  <Professions>
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" value="Museum Curator" />
+    <Profession id="0f406918-6e05-4472-819a-862f59ebe79b" value="Treasure Hunter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d2307d66-fcd9-45db-929e-dda5b39271ef" ipa="/ˈtreʒ.ɚ/" vi_ipa="tờ-rờ-dờ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89507175-7db9-4e38-a6c7-f8bd1a2cf5a4" type="Noun">
+          <Vi>Kho báu</Vi>
+          <En>Valuables, such as gold, silver, jewels, or money, that are hidden or buried and often of great historical or monetary value.</En>
+          <Example>The pirates buried their treasure on a remote island.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac070404-0dc2-4f66-b7ce-f5749733682e">
+              <Vi>Người ta đào bới hoặc tìm kiếm kho báu bị chôn giấu.</Vi>
+              <En>People dig or search for hidden or buried valuables.</En>
+            </Situation>
+            <Situation id="91dec7ea-b343-41cf-85b9-3e205d01b808">
+              <Vi>Một bảo vật quý giá trong bảo tàng hoặc gia đình.</Vi>
+              <En>A precious item kept in a museum or family collection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="62b8e11c-e2d1-4bb9-a453-d520e8021791" type="Verb">
+          <Vi>Coi trọng, trân trọng</Vi>
+          <En>To hold something or someone in high regard; to value deeply.</En>
+          <Example>She treasures every moment spent with her grandmother.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f098ad1-6bee-494f-9d15-3674fe9bb8d2">
+              <Vi>Cảm xúc khi giữ gìn kỷ vật hoặc người thân yêu.</Vi>
+              <En>Emotionally valuing a person or object deeply, often due to sentimental significance.</En>
+            </Situation>
+            <Situation id="6d0db617-f030-4b7f-80d6-31ea6daedd01">
+              <Vi>Trong văn chương hoặc thơ ca, dùng để diễn tả sự trân quý.</Vi>
+              <En>In literature or poetry, used to express deep appreciation or affection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

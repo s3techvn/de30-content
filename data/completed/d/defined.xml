@@ -1,0 +1,40 @@
+<Vocab id="7803d00a-c0d4-495c-8d37-dfe13da1ebf1" word="defined" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="02104865-01ae-49fa-8337-40961d4ef1d4" ipa="/dɪˈfaɪnd/" vi_ipa="đị-fây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a75f936-b25d-468d-baa1-894a8a1748fb" type="Adjective">
+          <Vi>được xác định rõ ràng; được định nghĩa</Vi>
+          <En>Clearly stated, specified, or established; having a precise meaning or boundary.</En>
+          <Example>The contract contains a defined list of responsibilities for each party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6cf51b72-a9eb-4ed2-92ce-f279ab542c3d">
+              <Vi>Trong văn bản pháp lý hoặc học thuật, khi một khái niệm hay điều khoản được nêu rõ nghĩa để tránh hiểu lầm.</Vi>
+              <En>In legal or academic texts, when a term or concept is explicitly stated to avoid ambiguity.</En>
+            </Situation>
+            <Situation id="d4cb1f1c-cac1-4034-a01f-2543556491b4">
+              <Vi>Khi mô tả một ranh giới, phạm vi, hoặc đặc điểm cụ thể của một đối tượng hoặc hiện tượng.</Vi>
+              <En>When describing a specific boundary, scope, or characteristic of an object or phenomenon.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
