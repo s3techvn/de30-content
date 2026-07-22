@@ -1,0 +1,50 @@
+<Vocab id="60bc786c-f127-418e-85b6-14dbabca7633" word="forum" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="3596008c-d74f-46e5-8a6a-d43c3349d7c6" value="Community Manager" />
+    <Profession id="e0e9ba2e-05bb-40b7-9129-7b17196ca3a7" value="Customer Support Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="79ad421d-eb1f-47bf-8041-06a22d68620e" ipa="/ˈfɔːr.əm/" vi_ipa="pho-răm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de2cf8cf-540d-4e14-b70c-11284c73c986" type="Noun">
+          <Vi>Diễn đàn (trên mạng)</Vi>
+          <En>An online platform where users post messages and discuss topics of common interest.</En>
+          <Example>Many programmers seek help on programming forums like Stack Overflow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60c77d37-4e80-44ca-98d3-ae7544a8fa56">
+              <Vi>Người dùng đăng câu hỏi và nhận phản hồi từ cộng đồng chuyên gia.</Vi>
+              <En>Users post questions and receive responses from a community of experts.</En>
+            </Situation>
+            <Situation id="d101cf6f-aa31-4a4e-ad2d-e7da7f103308">
+              <Vi>Các nhóm thảo luận theo chủ đề, ví dụ như công nghệ, sức khỏe, hay giải trí.</Vi>
+              <En>Topic-specific discussion groups, such as those on technology, health, or entertainment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="283c87e3-03ab-4938-a6f3-f1b24dc44841" type="Noun">
+          <Vi>Diễn đàn (hội trường công cộng ở La Mã cổ)</Vi>
+          <En>A public square or open space in ancient Rome used for assemblies and public speeches.</En>
+          <Example>The Roman Forum was the center of political and social life in ancient Rome.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="38b1d485-b3f4-4a27-b3e9-76797253ec5f">
+              <Vi>Khám phá di tích lịch sử La Mã cổ đại.</Vi>
+              <En>Exploring historical ruins of ancient Rome.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
