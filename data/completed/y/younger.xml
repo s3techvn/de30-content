@@ -1,0 +1,38 @@
+<Vocab id="a39bc16b-0a22-4f02-865a-d85a67419a31" word="younger" type="short" status="done">
+  <Topics>
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d66093eb-9d9e-4630-b2dc-a39e07648a71" ipa="/ˈjʌŋ.ɡər/" vi_ipa="yăng-gơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89b858f6-fa99-4002-acb7-f56b49c85cf7" type="Adjective">
+          <Vi>nhỏ tuổi hơn, trẻ hơn</Vi>
+          <En>born more recently; having a lesser age.</En>
+          <Example>She has two younger brothers and an older sister.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7556ce37-b114-4312-aa9d-980fdbce5952">
+              <Vi>Mô tả người sinh sau trong cùng một gia đình hoặc nhóm anh chị em.</Vi>
+              <En>Describes someone born after another person, especially within the same family or sibling group.</En>
+            </Situation>
+            <Situation id="c131dea4-ba07-4d83-96f4-0d555914a666">
+              <Vi>Dùng để so sánh độ tuổi giữa hai người trong một ngữ cảnh cụ thể.</Vi>
+              <En>Used to compare ages between two people in a specific context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

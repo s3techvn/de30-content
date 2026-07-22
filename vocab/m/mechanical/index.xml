@@ -1,0 +1,52 @@
+<Vocab id="2ab5878b-6393-48db-846d-dcb30490dfb1" word="mechanical" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" value="Automotive Technician" />
+    <Profession id="b41d762b-a0c9-470e-81b0-a72753cb523f" value="Manufacturing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a340c47f-9211-48a8-a038-01ece34137d2" ipa="/məˈkæn.ɪ.kəl/" vi_ipa="mơ-kă-ních-kơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="159ff807-cc95-4f73-b019-c4d07fb802be" type="Adjective">
+          <Vi>thuộc về cơ khí; cơ học; máy móc</Vi>
+          <En>Relating to machinery, tools, or machines, especially in terms of their structure, function, or operation.</En>
+          <Example>The mechanical parts of the car needed regular maintenance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0fcaa85f-1105-4820-9909-f797f1b6abab">
+              <Vi>Mô tả các bộ phận, hệ thống hoặc hoạt động liên quan đến máy móc, thiết bị cơ khí.</Vi>
+              <En>Describing components, systems, or operations involving machines or mechanical devices.</En>
+            </Situation>
+            <Situation id="72b50af1-7ef1-4c70-986e-8fafa0e3ab07">
+              <Vi>Chỉ tính chất thiếu linh hoạt, tự nhiên (nghĩa bóng).</Vi>
+              <En>Referring to something lacking naturalness or spontaneity (figurative use).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c65c5634-2950-49c1-aef0-e4c8f6a5f4aa" type="Adjective">
+          <Vi>thực hiện một cách máy móc, không suy nghĩ</Vi>
+          <En>Done in a routine or automatic way, without thought or emotion.</En>
+          <Example>She gave a mechanical smile, clearly distracted by her worries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="862a288b-d28d-445a-a92f-c831d7214de6">
+              <Vi>Mô tả hành vi, phản ứng thiếu cảm xúc, lặp lại theo thói quen.</Vi>
+              <En>Describing behavior or responses that are routine, automatic, and emotionally detached.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
