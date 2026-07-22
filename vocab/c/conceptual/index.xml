@@ -1,0 +1,52 @@
+<Vocab id="d081aee2-da91-49a2-9024-ff9e217ac1d9" word="conceptual" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="9cfe9d98-c264-413f-b0e3-3de636fe3b13" value="Software Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="36d95ac5-ad3b-4924-b750-d6a0828d900a" ipa="/kənˈsɛp.tʃu.əl/" vi_ipa="cơn-sép-chu-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e97b99fc-aa2d-459b-9b60-7afde8014209" type="Adjective">
+          <Vi>thuộc về khái niệm; mang tính chất trừu tượng, dựa trên khái niệm hơn là thực tế</Vi>
+          <En>relating to abstract ideas or concepts rather than practical activities or objects</En>
+          <Example>The team held a conceptual discussion before moving on to the design phase.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df422c36-0ff0-41fa-9cb8-5e34b2ec9723">
+              <Vi>Trong một buổi họp nhóm, người ta bàn về ý tưởng chung mà chưa đi vào chi tiết kỹ thuật.</Vi>
+              <En>In a team meeting, people discuss broad ideas without yet addressing technical details.</En>
+            </Situation>
+            <Situation id="b0af2b23-961d-46a1-81cc-f12a44d1125e">
+              <Vi>Một bài luận triết học phân tích khái niệm về công lý.</Vi>
+              <En>An essay in philosophy analyzing the concept of justice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4cf6c8e7-807b-454a-8a07-91490877ba73" type="Adjective">
+          <Vi>được hình thành trong trí óc; mang tính suy luận, không dựa trên kinh nghiệm thực tế</Vi>
+          <En>formed in the mind; theoretical rather than based on direct experience or observation</En>
+          <Example>The model is purely conceptual at this stage and has not been tested empirically.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17c2df0b-a9a1-4cfb-81a6-efa6e0de1c90">
+              <Vi>Khi xây dựng một lý thuyết khoa học mới, nhà nghiên cứu bắt đầu bằng một mô hình khái niệm.</Vi>
+              <En>When developing a new scientific theory, the researcher begins with a conceptual model.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

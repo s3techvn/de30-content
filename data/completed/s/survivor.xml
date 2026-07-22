@@ -1,0 +1,40 @@
+<Vocab id="d31f6461-6609-4d60-9088-251263db166e" word="survivor" type="short" status="done">
+  <Topics>
+    <Topic id="f0c63198-256c-46b0-b786-b61611a5c6ae" value="Life &amp; Society" />
+    <Topic id="6427f4ed-c9df-4dfa-95db-93da1c512f83" value="Disaster &amp; Emergency" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f3685a8e-020c-40f5-b451-6a3b210d83c2" ipa="/sərˈvaɪ.vər/" vi_ipa="xờ-rây-vây-vờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f7a244ca-f089-4782-a9f7-c20d3f58d17d" type="Noun">
+          <Vi>người sống sót</Vi>
+          <En>a person who continues to live after a dangerous, traumatic, or life-threatening event</En>
+          <Example>She was the only survivor of the plane crash.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf83cacd-a9c0-4b07-8f09-21560e0589ae">
+              <Vi>Mô tả người còn sống sau thảm họa, tai nạn, hoặc chiến tranh.</Vi>
+              <En>Describes a person who remains alive after a disaster, accident, or war.</En>
+            </Situation>
+            <Situation id="83b64491-bf76-4afc-96ff-4338510b2355">
+              <Vi>Dùng trong bối cảnh tâm lý để nói về người vượt qua sang chấn.</Vi>
+              <En>Used in psychological contexts to refer to someone who has overcome trauma.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
