@@ -1,0 +1,58 @@
+<Vocab id="1d6dad3a-d6b5-4751-ab6b-f586b0aa65b3" word="ministry" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" value="Civil Servant" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48fd6ae6-a5fd-49c7-a474-9494e68ff6a0" ipa="/ˈmɪn.ɪ.stri/" vi_ipa="mih-nih-stree">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0b4fef7-8ca3-4a55-9d27-3d6b05c5f7ca" type="Noun">
+          <Vi>Bộ (trong chính phủ)</Vi>
+          <En>A government department headed by a minister, especially in a parliamentary system.</En>
+          <Example>The Ministry of Health announced new public health guidelines.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="849803f0-176b-4713-a90c-b0d2b089b2b0">
+              <Vi>Thể hiện cơ quan hành chính cấp cao trong chính phủ, do một bộ trưởng đứng đầu.</Vi>
+              <En>Refers to a top-level government department led by a minister, such as in the UK or India.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="55ef1809-de0c-4e8c-8aaa-9f09c2fc5ae1" type="Noun">
+          <Vi>Nhiệm kỳ, chức vụ của một bộ trưởng</Vi>
+          <En>The period during which a minister serves in office; also, the minister’s official duties or sphere of responsibility.</En>
+          <Example>During his ministry, he introduced several education reforms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd5ba996-d51b-4729-a633-e61c16170e0c">
+              <Vi>Mô tả thời gian và vai trò của một bộ trưởng trong nhiệm kỳ của mình.</Vi>
+              <En>Used when referring to a minister’s term of office or the scope of their responsibilities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="14da5d3b-f7f5-40c8-9032-cbbcd4ce815d" type="Noun">
+          <Vi>Nhiệm vụ, sứ mạng (đặc biệt trong tôn giáo)</Vi>
+          <En>A religious or spiritual mission, especially one carried out by a clergy member or group.</En>
+          <Example>The missionaries set out on a ministry to help the poor in rural areas.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2d4f19d-3a07-4404-9fd9-d38b1fc9f037">
+              <Vi>Hoạt động truyền giáo hoặc phục vụ cộng đồng theo niềm tin tôn giáo.</Vi>
+              <En>Used in religious contexts to describe charitable or evangelistic work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

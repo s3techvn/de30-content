@@ -1,0 +1,38 @@
+<Vocab id="3dcd3b75-2c51-4f62-9ef2-1596a1eb7f9d" word="cursor" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8ea73cd-ccb4-449a-ae60-9fcbe6d78f9b" ipa="/ˈkɜːr.sər/" vi_ipa="cờ-rơ-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67eb5958-f265-4d9b-98c6-7517333ddd38" type="Noun">
+          <Vi>Con trỏ (máy tính)</Vi>
+          <En>A marker on a computer screen that indicates the position where the next character will be inserted or the location of the mouse pointer.</En>
+          <Example>Move the cursor to the text box and click to begin typing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5d6d48c-2f40-44d2-9ae0-2d0dd31f3160">
+              <Vi>Người dùng điều khiển con trỏ chuột để chọn hoặc nhập dữ liệu.</Vi>
+              <En>The user moves the mouse cursor to select or input data on screen.</En>
+            </Situation>
+            <Situation id="3b96ca24-220f-4c1f-ae10-58fc6550b4ae">
+              <Vi>Trong soạn thảo văn bản, con trỏ nhấp nháy cho biết vị trí chèn văn bản.</Vi>
+              <En>In word processing, the blinking cursor shows where text will be inserted.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
