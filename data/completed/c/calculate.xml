@@ -1,0 +1,46 @@
+<Vocab id="32e55417-9605-452e-acaa-6e6c44edb01a" word="calculate" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6689d9b1-371b-4009-92fc-921c7906d01a" ipa="/ˈkæl.kə.leɪt/" vi_ipa="cờ-lờ-cờ-lây-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41e6b1ef-3a0d-438c-8836-478ed5312811" type="Verb">
+          <Vi>Tính toán</Vi>
+          <En>To determine a result by mathematical methods; to compute.</En>
+          <Example>The software can calculate the total cost in seconds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0444d766-2472-4fb0-8d8d-0365de37a529">
+              <Vi>Người dùng nhập dữ liệu để phần mềm tự động tính tổng chi phí.</Vi>
+              <En>The user enters data so the software automatically computes the total cost.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d9d0935f-cdad-4e31-8efd-252ee03ea8c2" type="Verb">
+          <Vi>Dự tính, suy đoán (dựa trên dữ liệu hoặc kinh nghiệm)</Vi>
+          <En>To estimate or plan something based on available information or experience.</En>
+          <Example>We calculated that the trip would take about three hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f463a0f7-f844-47df-ab8b-219953a49478">
+              <Vi>Chúng tôi ước lượng thời gian di chuyển dựa trên bản đồ và tốc độ trung bình.</Vi>
+              <En>We estimated the travel time based on the map and average speed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
