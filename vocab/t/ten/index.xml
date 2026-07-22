@@ -1,0 +1,58 @@
+<Vocab id="2c7e688e-6163-4398-8549-931ae12f0d74" word="ten" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1e0f77c9-170d-440e-843c-3c713d7e289f" ipa="/tɛn/" vi_ipa="ten">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ac14d932-feb0-4b15-9c4e-65772749872c" type="Noun">
+          <Vi>Mười</Vi>
+          <En>The cardinal number equal to 10.</En>
+          <Example>There are ten apples in the basket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bab0c8e7-0663-4d94-bdbe-589d6251fa1b">
+              <Vi>Số lượng đếm được khi cộng thêm một đơn vị vào chín.</Vi>
+              <En>The quantity obtained by adding one to nine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="17695ff3-9c2b-49d9-a0ae-03bd9864650f" type="Adjective">
+          <Vi>Mười (dùng để chỉ số lượng)</Vi>
+          <En>Denoting a quantity consisting of 10 items or units.</En>
+          <Example>She scored ten points in the game.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6abd8391-697b-4cf6-a6ed-8b1cbb570d39">
+              <Vi>Mô tả số lượng cụ thể của vật hoặc người.</Vi>
+              <En>Used to specify the exact number of items or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a4a03f17-b9be-4efc-9e44-1a9a6fe9831f" type="Noun">
+          <Vi>Mười (trong hệ thập phân)</Vi>
+          <En>The base of the decimal number system.</En>
+          <Example>Each digit in a decimal number represents a power of ten.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02f08ea5-e2db-4288-b89f-95a3c33b30ff">
+              <Vi>Cơ sở của hệ đếm thập phân, dùng trong toán học và khoa học.</Vi>
+              <En>The foundation of the decimal numeral system, used in mathematics and science.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
