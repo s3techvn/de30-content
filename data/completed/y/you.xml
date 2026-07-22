@@ -1,0 +1,36 @@
+<Vocab id="f39b64c5-ccd1-4640-8e42-9fbd3a7e59e8" word="you" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1e312274-1b03-4b8f-b7f8-0fc6adc4191d" value="All Professions" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2089e578-694f-406f-b1a0-f5623d88a8e1" ipa="/ju/" vi_ipa="giơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="046018a5-1119-4676-8860-a526cf124e98" type="Pronoun">
+          <Vi>Bạn, các bạn, quý vị (dùng để chỉ người nghe, ở cả số ít và số nhiều)</Vi>
+          <En>Used to refer to the person or people being addressed; the second-person pronoun.</En>
+          <Example>Can you help me with this?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c12641a0-dfb9-4d35-8ed9-67e45664f9e2">
+              <Vi>Dùng khi trực tiếp nói chuyện với một hoặc nhiều người.</Vi>
+              <En>Used when speaking directly to one or more people.</En>
+            </Situation>
+            <Situation id="e482560a-b2e5-45e0-9f06-b8d69bdb3897">
+              <Vi>Dùng trong văn phong trang trọng để chỉ người đọc hoặc người nghe chung.</Vi>
+              <En>Used in formal writing or speech to refer to the audience in general.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
