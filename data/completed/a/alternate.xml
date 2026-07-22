@@ -1,0 +1,54 @@
+<Vocab id="79bab3ac-1803-4cb0-ad6b-5720e6f31d77" word="alternate" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" value="Any" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="31f110d2-a978-47d4-92ae-668c4f5092a4" ipa="/ˈɔːl.tər.nət/" vi_ipa="ô-lờ-te-nát">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="287282f1-a9d0-40bc-bac7-664d058f4d7a" type="Adjective">
+          <Vi>thay thế, dự phòng, phụ</Vi>
+          <En>Being one of two or more things that take turns or can be used instead of another; not the primary one.</En>
+          <Example>She worked as an alternate juror during the trial.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8cbf7ee1-e1c5-40be-afaf-de84b4ad797e">
+              <Vi>Người hoặc vật được chọn để thay thế nếu người/vật chính không thể làm việc.</Vi>
+              <En>A person or thing designated to replace another if the original is unavailable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d102800a-9952-432b-ba04-486fe02286b7" ipa="/ˈɔːl.tər.neɪt/" vi_ipa="ô-lờ-te-nết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="36e59d9b-dfd5-4a38-a459-ef6e444334f5" type="Verb">
+          <Vi>thay phiên, luân phiên, thay thế</Vi>
+          <En>To take turns with something else; to occur or be used in place of something else in a regular or alternating pattern.</En>
+          <Example>The two teams alternate shifts every week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f2506c9-9a62-4a14-a874-ea6d741c9f0b">
+              <Vi>Hai người hoặc hai sự vật lần lượt thực hiện một hành động hoặc giữ một vị trí.</Vi>
+              <En>Two people or things take turns performing an action or holding a position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
