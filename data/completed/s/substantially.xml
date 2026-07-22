@@ -1,0 +1,40 @@
+<Vocab id="ea69907d-e893-4f45-9b37-e426bd1b0fb9" word="substantially" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="a37eac3c-5e22-419c-bf51-db77dc668a99" value="Business Communication" />
+    <Topic id="af99c241-8d8a-4638-921f-82ebc69b7875" value="Legal Documents" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a5c45947-b202-46c1-9414-68f6c0f3fa5b" ipa="/səbˈstæn.ʃəl.i/" vi_ipa="xơ-bx-tan-xơ-lơ-ê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="97c39171-dd28-4e03-a8ff-dbcf0f1dfede" type="Adverb">
+          <Vi>Đáng kể; về cơ bản; một cách đáng kể</Vi>
+          <En>In a way that is large enough to have a significant effect or to be important; to a considerable extent</En>
+          <Example>The new policy has substantially improved employee satisfaction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="925110b7-9226-470b-85c7-7e7726e3be2e">
+              <Vi>Mô tả mức độ thay đổi hoặc ảnh hưởng lớn trong báo cáo hoặc phân tích.</Vi>
+              <En>Used in reports or analyses to indicate a meaningful or notable change or effect.</En>
+            </Situation>
+            <Situation id="47fea76a-5d51-4ad7-9e29-5e937ecc8c4c">
+              <Vi>Dùng để làm rõ rằng một sự khác biệt là đáng kể, không chỉ nhỏ nhặt.</Vi>
+              <En>Used to emphasize that a difference is meaningful, not merely superficial or minor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
