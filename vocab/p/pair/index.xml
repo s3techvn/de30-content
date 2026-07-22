@@ -1,0 +1,56 @@
+<Vocab id="f2c2126d-cf4d-43e8-b3d9-506df7a95796" word="pair" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8390dc98-59d9-463b-b280-a980796cd231" ipa="/peər/" vi_ipa="pờ-ê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3f877040-eaa8-4366-9439-f245790b0352" type="Noun">
+          <Vi>một cặp, một đôi</Vi>
+          <En>two items of the same kind, used together or considered as a unit.</En>
+          <Example>She bought a pair of shoes for the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9c1f434-72e0-4d68-9870-1bfdb06b9c5a">
+              <Vi>Mua hoặc giới thiệu hai đồ vật giống nhau được dùng cùng nhau.</Vi>
+              <En>Buying or referring to two identical items intended for simultaneous use.</En>
+            </Situation>
+            <Situation id="458ef7cb-30e3-46fe-8c63-4ecd1a406a1b">
+              <Vi>Trong toán học, chỉ hai số hoặc đối tượng được ghép lại.</Vi>
+              <En>In mathematics, referring to two elements grouped together (e.g., coordinate pair).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aa6a66e6-5602-4c53-8131-f3e219ec61ef" type="Verb">
+          <Vi>ghép lại thành cặp, kết hợp</Vi>
+          <En>to put two things together as a pair; to form a pair with someone or something.</En>
+          <Example>The teacher paired the students for the group activity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59257f8b-7c18-40bf-8c05-458eee693129">
+              <Vi>Chia nhóm hoặc ghép người/thứ gì đó để làm việc cùng nhau.</Vi>
+              <En>Assigning two people or things to work, compete, or function together.</En>
+            </Situation>
+            <Situation id="0943a1c7-9c32-4a73-9b5c-775c82937c86">
+              <Vi>Trong thể thao, ghép hai vận động viên thành đội đôi.</Vi>
+              <En>In sports, assigning two athletes to compete as a doubles team.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
