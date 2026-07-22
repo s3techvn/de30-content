@@ -1,0 +1,63 @@
+<Vocab id="4e231444-4ba3-4901-b2e3-85ad5087940f" word="login" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7173783-f734-4613-8d95-2a5eca7c53af" ipa="/ˈlɒɡ.ɪn/" vi_ipa="lô-gin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a90a6ff6-3157-43e3-94f6-ffea389f2fb4" type="Noun">
+          <Vi>Đăng nhập; thông tin đăng nhập (tên người dùng và mật khẩu)</Vi>
+          <En>The process of entering a system, or the credentials (username and password) used to do so</En>
+          <Example>I entered my login details to access the secure server.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1df378d1-365f-479f-a2ea-77decf79fef1">
+              <Vi>Tình huống người dùng nhập tên đăng nhập và mật khẩu để truy cập tài khoản trực tuyến.</Vi>
+              <En>User enters username and password to access an online account.</En>
+            </Situation>
+            <Situation id="f09b991b-28b4-4104-8e37-b0e65c6f01dd">
+              <Vi>Tình huống hệ thống yêu cầu xác thực danh tính trước khi cho phép truy cập.</Vi>
+              <En>System requires identity verification before granting access.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fb2b6ff7-b417-4853-a7ed-9362392dee27" ipa="/ˈlɒɡ.ɪn/" vi_ipa="lô-gin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b01db9be-bb4a-42e4-a507-1bfc801a886f" type="Verb">
+          <Vi>Đăng nhập (vào hệ thống)</Vi>
+          <En>To enter a system or account using valid credentials</En>
+          <Example>She logged in to her email account before checking her messages.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34888955-f56e-4230-8a6b-cd70c27ad921">
+              <Vi>Tình huống người dùng truy cập ứng dụng sau khi nhập thông tin xác thực.</Vi>
+              <En>User accesses an application after entering correct credentials.</En>
+            </Situation>
+            <Situation id="31a82fd5-4e02-4fb7-84e4-5fd79e23e6eb">
+              <Vi>Tình huống nhân viên công ty đăng nhập vào mạng nội bộ để làm việc từ xa.</Vi>
+              <En>Employee logs into the company’s internal network to work remotely.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
