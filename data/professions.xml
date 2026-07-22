@@ -370,4 +370,5 @@
   <Profession id="c835a8dd-adbd-4ddf-9d21-b8f692c6e80f" slug="composer" value="Composer" />
   <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" slug="general-public" value="General Public" />
   <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" slug="plumber" value="Plumber" />
+  <Profession id="78beb87d-7f60-4d45-ae52-00939a7cf72e" slug="philosophy" value="Philosophy" />
 </Professions>

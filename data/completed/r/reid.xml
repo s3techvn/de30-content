@@ -1,0 +1,33 @@
+<Vocab id="6bc9fd27-e32c-4fb2-aca6-49d7391d7336" word="reid" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="78beb87d-7f60-4d45-ae52-00939a7cf72e" value="Philosophy" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86142f0b-7269-4191-907e-f8112c435138" ipa="/rɛɪd/" vi_ipa="rây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca433401-c7af-4828-ab41-74201ff72b2d" type="Noun">
+          <Vi>Reid (họ, tên riêng)</Vi>
+          <En>A surname and occasionally a given name, notably associated with the Scottish philosopher Thomas Reid.</En>
+          <Example>Thomas Reid was a major figure in the Scottish Enlightenment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="628dd26e-0265-4c86-8c25-9a63c8c8dc08">
+              <Vi>Dùng để chỉ họ hoặc tên riêng, đặc biệt trong bối cảnh triết học phương Tây.</Vi>
+              <En>Used as a surname or occasionally a given name, especially in Western philosophical contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
