@@ -1,0 +1,38 @@
+<Vocab id="e96d5b47-f26b-4b35-8c04-bdf53e0058da" word="syndication" type="short" status="done">
+  <Topics>
+    <Topic id="9ec3ebf1-fb06-4591-9f31-673f665db2af" value="Media &amp; Journalism" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="dd80100f-13b3-43e9-ba32-d426394992ec" value="Content Strategist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="649235bf-07e4-439d-a2b9-fac3d3d7b16c" ipa="/ˌsɪn.dɪˈkeɪ.ʃən/" vi_ipa="xìn-đi-kê-i-xi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d9904de3-e9db-4263-8a2c-0037baa837f7" type="Noun">
+          <Vi>Việc phân phối nội dung (như bài báo, chương trình truyền hình) cho nhiều cơ quan hoặc nền tảng khác nhau thông qua hợp đồng cấp phép.</Vi>
+          <En>The distribution of content (such as newspaper articles, television programs, or radio shows) to multiple outlets or platforms under licensing agreements.</En>
+          <Example>The newspaper chain acquired syndication rights to the comic strip for nationwide distribution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd75e25d-27bb-436c-be06-77925280d9f8">
+              <Vi>Một nhà văn tự do bán bản quyền đăng lại bài phỏng vấn của họ cho nhiều báo địa phương.</Vi>
+              <En>A freelance writer sells syndication rights for an interview to multiple local newspapers.</En>
+            </Situation>
+            <Situation id="96ba5216-e7ac-4413-8e6b-8568e103cced">
+              <Vi>Chương trình truyền hình nổi tiếng được phát sóng trên nhiều đài địa phương nhờ hợp đồng phân phối.</Vi>
+              <En>A popular TV show is broadcast across multiple local stations thanks to a syndication deal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
