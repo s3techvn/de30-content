@@ -463,4 +463,5 @@
   <Profession id="4e78535e-37cc-4fe0-a55d-a9aed42b5b48" slug="curator" value="Curator" />
   <Profession id="de040b9c-9afd-4c57-b9b6-2a0f7654df67" slug="museum-guide" value="Museum Guide" />
   <Profession id="b8d12e1c-af0e-4726-b04b-789491176dec" slug="textile-engineer" value="Textile Engineer" />
+  <Profession id="e0cc6c42-fcf3-420e-be41-bd9c5ff0761a" slug="transportation-planner" value="Transportation Planner" />
 </Professions>
