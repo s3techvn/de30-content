@@ -1,0 +1,54 @@
+<Vocab id="c5dfa793-f097-47c7-9a96-c4debf354816" word="caution" type="short" status="done">
+  <Topics>
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="1434e391-54eb-4f44-b5c9-4986c1b6b0c9" value="Safety Officer" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5b7d2673-a951-431b-b3e0-012324f69f1d" ipa="/ˈkɔː.ʃən/" vi_ipa="cờ-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ea0e0ec3-796c-4add-ad13-1685e0a1cdb8" type="Noun">
+          <Vi>Sự cảnh báo; lời cảnh báo; sự cẩn trọng</Vi>
+          <En>A warning or instruction to be careful in a particular situation; a state of being careful to avoid danger or risk.</En>
+          <Example>Please exercise caution when crossing the street in heavy traffic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b8ede3a-c37c-4a58-a3f1-82a2270e1864">
+              <Vi>Cảnh báo trước khi thực hiện hành động có thể gây nguy hiểm.</Vi>
+              <En>A warning issued before performing an action that could be dangerous.</En>
+            </Situation>
+            <Situation id="9e373d01-5a14-47cf-a189-00d741ea90cb">
+              <Vi>Tâm thế cẩn trọng khi đưa ra quyết định quan trọng.</Vi>
+              <En>A mindset of carefulness when making important decisions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="14ff5749-4cfd-487b-809d-6ec5aee4ecba" type="Verb">
+          <Vi>Cảnh báo; đề phòng; cẩn trọng</Vi>
+          <En>To warn someone about a possible danger or risk; to act with care or prudence.</En>
+          <Example>The sign cautions drivers to reduce speed in school zones.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e0e2fe03-03bc-467b-b095-9f528c08a2bc">
+              <Vi>Nhắc nhở người khác về rủi ro tiềm ẩn.</Vi>
+              <En>Reminding others about potential risks or hazards.</En>
+            </Situation>
+            <Situation id="a5135185-03e9-4e7e-99c2-0eebfddd7f21">
+              <Vi>Tự nhắc nhở bản thân không nên vội vàng trong tình huống khó.</Vi>
+              <En>Telling oneself not to rush in a difficult or uncertain situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
