@@ -1,0 +1,52 @@
+<Vocab id="bbc4b6e7-06f2-4f5e-8071-e8378364d593" word="street" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="3dc7aad4-4f7c-4f3c-beb9-ac7fd44f3dee" value="Urban Planning" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="bf33168c-263f-48ff-af08-43014534bb6f" value="Delivery Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="015ee178-de4d-4b88-b2cf-cf4349e42000" ipa="/strit/" vi_ipa="s-t-r-i-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ec49e2a9-ec61-448e-8056-96f891b64f32" type="Noun">
+          <Vi>đường phố</Vi>
+          <En>A public road in a city or town, typically with buildings on one or both sides.</En>
+          <Example>She walked down the street to buy coffee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ed49379-1333-4c6a-bbe6-ce0279be92c0">
+              <Vi>Mô tả một con đường có nhà cửa hai bên, nơi người đi bộ và phương tiện giao thông di chuyển.</Vi>
+              <En>A road with buildings on both sides, used by pedestrians and vehicles in an urban area.</En>
+            </Situation>
+            <Situation id="b8c9261f-7e7f-4359-b9b5-64a16378e32f">
+              <Vi>Chỉ tên riêng của một con đường cụ thể (ví dụ: "Main Street").</Vi>
+              <En>The proper name of a specific road (e.g., "Main Street").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="440244a7-24da-4503-82a5-8557934a3e1b" type="Noun">
+          <Vi>phố (trong nghĩa tập thể, cộng đồng dân cư)</Vi>
+          <En>The people living in a particular area; used to emphasize community or local identity.</En>
+          <Example>The street supported the local bakery during the pandemic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="41dca9a7-afa4-4f7a-9c70-84781f7aa833">
+              <Vi>Dùng để nói về người dân địa phương như một khối thống nhất.</Vi>
+              <En>Used to refer to the local community as a unified group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

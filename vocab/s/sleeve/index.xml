@@ -1,0 +1,62 @@
+<Vocab id="b944bac7-b94b-4961-ab54-ccb5d7528393" word="sleeve" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="48ec0582-23a3-4fb7-8326-cb0d78f9fad8" value="Textile Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="887814d8-1b38-47a9-ba2c-cd10211ac2e2" ipa="/sliːv/" vi_ipa="x-li-v">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e502b122-3e34-47d6-9f76-10415addfef4" type="Noun">
+          <Vi>Cánh tay (phần áo phủ từ vai đến cổ tay)</Vi>
+          <En>The part of a garment that covers the arm, extending from the shoulder to the wrist.</En>
+          <Example>She adjusted the sleeve of her shirt to avoid getting it wet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="48c01489-9563-4141-a1ce-4ba5b7c7a2ef">
+              <Vi>Mô tả phần áo bao quanh cánh tay khi mặc đồ.</Vi>
+              <En>Referring to the arm-covering portion of clothing during dressing or fitting.</En>
+            </Situation>
+            <Situation id="e92198fe-de40-4d79-ade7-5395077ec719">
+              <Vi>Chỉ phần vải hoặc vật liệu che cánh tay trong thiết kế thời trang.</Vi>
+              <En>Used when discussing garment design, especially sleeve length or style (e.g., short sleeve, long sleeve).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="07f16360-75fb-4c4b-924f-0deed93ddf9d" type="Noun">
+          <Vi>Ống tay (dùng trong kỹ thuật, ví dụ: ống lót cho trục máy)</Vi>
+          <En>A cylindrical lining or cover, especially one fitted inside a hole or around a shaft in machinery.</En>
+          <Example>The engineer replaced the worn-out sleeve in the hydraulic cylinder.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1a766e2-d0af-4622-895b-7231dbb14c64">
+              <Vi>Sử dụng trong kỹ thuật cơ khí để chỉ chi tiết bao quanh trục.</Vi>
+              <En>Used in mechanical engineering contexts to describe a bearing or protective liner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="358fd91d-39ab-4986-83fa-382463dd9a7f" type="Noun">
+          <Vi>Ống (dùng cho ống dẫn, ví dụ: ống bảo vệ dây điện)</Vi>
+          <En>A protective tube or casing, especially for wires, cables, or pipes.</En>
+          <Example>The electrician slipped the wire into a plastic sleeve for insulation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a159b066-e2f2-4bc6-b18a-37a6623ef171">
+              <Vi>Bảo vệ dây điện hoặc cáp bằng ống nhựa hoặc kim loại.</Vi>
+              <En>Used when describing cable management or safety measures in electrical work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

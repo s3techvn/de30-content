@@ -1,0 +1,50 @@
+<Vocab id="879f42d2-74f4-4db5-b073-a212a41a7ee7" word="heather" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="dc95aafb-9718-431d-aad8-70d4dfa3a9d8" value="Textile Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="057dbd94-3991-4625-8663-563aaf6ecc43" ipa="/ˈheð.ər/" vi_ipa="hê-đờ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="84ee1d5f-92d8-4dd3-8230-2eecc7175fcc" type="Noun">
+          <Vi>Cây heather (loại cây bụi thấp, có hoa tím hoặc hồng nhỏ, mọc nhiều ở vùng đồi núi Anh)</Vi>
+          <En>A low-growing evergreen shrub with small, scale-like leaves and pinkish-purple flowers, common in heaths and moors of northern and western Europe.</En>
+          <Example>The Scottish Highlands are covered in purple heather during late summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f22e9d1-1fe1-4a67-ae6d-1cd532f97198">
+              <Vi>Mô tả cảnh thiên nhiên ở vùng đồi Scotland hoặc Ireland vào mùa hè muộn.</Vi>
+              <En>Describing the natural landscape of Scottish or Irish moorlands in late summer.</En>
+            </Situation>
+            <Situation id="52abe315-2b6b-4d99-b0d9-c806429277e7">
+              <Vi>Ngành dệt vải len truyền thống dùng sợi từ cây heather để tạo màu tự nhiên.</Vi>
+              <En>Traditional wool-dyeing industry using heather to produce natural dyes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="afcfa5b2-793a-4a91-838c-9365fc66900e" type="Noun">
+          <Vi>Tên gọi người (họ Heathers hoặc dạng tên đệm Heathers – hiếm)</Vi>
+          <En>A rare surname or variant of the name Heather, used as a proper noun.</En>
+          <Example>Heather is a popular given name in English-speaking countries, derived from the plant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5d00896-aa2e-4050-a612-bf6f3d6ad0f6">
+              <Vi>Dùng trong bối cảnh đặt tên người, đặc biệt là phụ nữ.</Vi>
+              <En>Used in naming contexts, especially for females in English-speaking cultures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
