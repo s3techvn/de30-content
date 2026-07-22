@@ -1,0 +1,40 @@
+<Vocab id="d5ad551c-fb45-4fac-a1f8-f2e3a3960733" word="formal" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f8e92ca-f4d5-4d88-aeec-890f73c92cb3" ipa="/ˈfɔːr.məl/" vi_ipa="phooc-mờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e2d3f3d9-2ed7-4ba1-bb29-1376fd010575" type="Adjective">
+          <Vi>trang trọng; chính thức; nghiêm túc</Vi>
+          <En>having a conventional and serious appearance or manner; official or authorized by law or custom.</En>
+          <Example>She wore a formal black dress to the wedding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="687ae0b2-abb4-4ed8-b303-9e1344ffdd72">
+              <Vi>Một sự kiện yêu cầu ăn mặc chỉn chu, không mặc thường phục.</Vi>
+              <En>An event where formal attire is required, such as a gala or business meeting.</En>
+            </Situation>
+            <Situation id="cb536955-9356-4ef4-8702-116ae5d1a8ba">
+              <Vi>Hình thức được sử dụng trong văn bản pháp lý hoặc học thuật.</Vi>
+              <En>Used in legal documents or academic writing to denote official or standardized procedures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
