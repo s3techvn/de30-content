@@ -1,0 +1,66 @@
+<Vocab id="9430db1d-6999-4b71-90b6-99f52e8eb912" word="principal" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="78cf232d-23ec-447a-bc52-69ad7e43630c" value="School Administrator" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="740b2480-7dda-46b6-bc0d-72ae95ed2c54" ipa="/ˈprɪn.sə.pəl/" vi_ipa="pờ-rin-sờ-pờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="50753ff4-244a-4a10-b0c0-e8f422c57b39" type="Adjective">
+          <Vi>chính, quan trọng nhất, chủ yếu</Vi>
+          <En>primary; most important in degree, rank, or value.</En>
+          <Example>The principal reason for the delay was bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b5f835b-491b-446c-8399-c698f7b262db">
+              <Vi>Mô tả yếu tố hoặc người đóng vai trò then chốt trong một tình huống.</Vi>
+              <En>Describes the key factor or person in a situation.</En>
+            </Situation>
+            <Situation id="44c746ef-54a3-421e-8fb5-24a07a504eb3">
+              <Vi>Dùng để chỉ vị trí lãnh đạo cao nhất trong trường học.</Vi>
+              <En>Used to refer to the highest-ranking leader in a school.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="77986302-6c6e-4b9f-8b3a-6cf637bb4693" ipa="/ˈprɪn.sə.pəl/" vi_ipa="pờ-rin-sờ-pờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4ddfeeee-38b5-4e0e-8c1f-e3a8cb080723" type="Noun">
+          <Vi>hiệu trưởng; vốn (trong tài chính)</Vi>
+          <En>(in schools) the head of a school or college; (in finance) the original sum of money invested or loaned, as opposed to interest.</En>
+          <Example>The principal of the school greeted the new students.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed23351a-9be6-4f3c-b27c-1e626ab9c213">
+              <Vi>Tình huống giao tiếp trong môi trường giáo dục khi đề cập đến người đứng đầu trường học.</Vi>
+              <En>Situation in an educational setting when referring to the head of a school.</En>
+            </Situation>
+            <Situation id="4d940642-78b2-41e1-aea1-23fcd577c73d">
+              <Vi>Tình huống tài chính khi nói về số tiền gốc chưa tính lãi.</Vi>
+              <En>Financial context when referring to the original sum of money, excluding interest.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
