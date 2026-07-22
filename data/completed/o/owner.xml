@@ -1,0 +1,40 @@
+<Vocab id="3d9db2e2-aea2-4f64-92a2-116ebbd0cce2" word="owner" type="short" status="done">
+  <Topics>
+    <Topic id="b0281ed7-688d-401d-85a8-fb05ac721d56" value="Law and Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+  </Topics>
+  <Professions>
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="1c9f93ca-e771-45bc-bd12-118505fa7395" value="Business Owner" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1965555f-0c9b-46ad-9239-b4bbd31d5850" ipa="/ˈoʊ.nər/" vi_ipa="ô-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0cab2fab-2a72-4b51-871e-5afe94a59623" type="Noun">
+          <Vi>Chủ sở hữu; người влад hữu</Vi>
+          <En>A person or entity that owns something, especially property, a business, or an asset.</En>
+          <Example>The owner of the restaurant decided to sell it after ten years of operation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a9bc754-4e1f-4927-a52c-da8f33911c7e">
+              <Vi>Người có quyền kiểm soát và hưởng lợi từ tài sản, bất động sản, hoặc doanh nghiệp.</Vi>
+              <En>A person who has legal rights to possess, use, and dispose of property or a business.</En>
+            </Situation>
+            <Situation id="eaa0a742-2200-43ee-ab7d-912bcdca136e">
+              <Vi>Trong giao dịch mua bán, người bán phải chứng minh mình là chủ sở hữu hợp pháp.</Vi>
+              <En>In a sale transaction, the seller must prove they are the lawful owner of the item.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

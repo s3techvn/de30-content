@@ -1,0 +1,56 @@
+<Vocab id="ebe658c4-896a-432c-9fec-a3ea43c8e038" word="elite" type="short" status="done">
+  <Topics>
+    <Topic id="f59c859c-a3ba-45ce-872b-3741d9eab3bf" value="Society" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="7d3b2690-b1bc-4a07-9a4c-ae5afd9949a7" value="Business Executive" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd79b8c4-2c9c-4321-a51b-d80d20707291" ipa="/eɪˈliːt/" vi_ipa="ê-lít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf13f364-0426-450c-be80-3bedad874baa" type="Adjective">
+          <Vi>thượng lưu; tinh hoa; ưu tú</Vi>
+          <En>Belonging to a select group that is superior to others in terms of ability, status, or wealth.</En>
+          <Example>The company’s elite team of engineers solved the most complex technical challenges.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e24eb657-bc41-4095-8534-bd0d56dc23cf">
+              <Vi>Mô tả một nhóm người có vị thế cao, được chọn lọc kỹ lưỡng trong xã hội hoặc lĩnh vực.</Vi>
+              <En>Describing a select group of people with high status or exceptional ability in a field or society.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="45b3ea04-bd80-456a-94a8-df549c7b4a7f" ipa="/ˈel.ɪt/" vi_ipa="e-lít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="448114fc-21b2-4544-8993-5f6bdc13732c" type="Noun">
+          <Vi>giới tinh hoa; tầng lớp thượng lưu</Vi>
+          <En>A small group of people who have the most power, influence, or wealth in a society or organization.</En>
+          <Example>The political elite gathered at the summit to discuss global economic policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03ea5e70-a178-4be2-b46b-a18ea9995a00">
+              <Vi>Tình huống nói về những người nắm quyền lực hoặc ảnh hưởng lớn trong xã hội.</Vi>
+              <En>A situation referring to individuals who wield significant influence or authority in society or an institution.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
