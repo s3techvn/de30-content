@@ -1,0 +1,36 @@
+<Vocab id="2535a27b-e48a-4704-8d2f-eb3a25c26dd6" word="growing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f88ee746-e77f-4fd3-8b6e-0eef7ffe445c" ipa="/ˈɡraʊ.ɪŋ/" vi_ipa="grao-ơ-ing">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="277679fc-11f7-4193-a948-4dd18492ebbc" type="Adjective">
+          <Vi>đang phát triển; đang lớn lên</Vi>
+          <En>In the process of developing, increasing, or maturing.</En>
+          <Example>The company is experiencing growing pains as it expands rapidly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94e89362-2167-4a43-b587-ee3176e45310">
+              <Vi>Mô tả một thực thể (người, cây, doanh nghiệp) đang trong giai đoạn phát triển hoặc mở rộng.</Vi>
+              <En>Describing an entity (person, plant, business) currently developing or expanding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

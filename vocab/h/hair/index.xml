@@ -1,0 +1,52 @@
+<Vocab id="ef55e5be-de11-4103-8f8d-8e38f16de231" word="hair" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b06d15af-0fa1-45a2-afc7-3be9ee305b3a" value="Health &amp; Body" />
+    <Topic id="3a731e93-6b69-40c5-ad2a-c0c3edc21969" value="Beauty &amp; Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="66598e53-adca-4e88-ba3d-13c131c6e1f2" value="Barber" />
+    <Profession id="c107c5ed-a284-406d-8632-b5ebbfd7374a" value="Cosmetologist" />
+    <Profession id="c7424671-91c1-443a-a80b-f3093d809f10" value="Dermatologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="57a050c6-ec22-4a24-b835-d640cebdb3bd" ipa="/her/" vi_ipa="hờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d6482343-41b0-4120-81a3-31a4aaeed1d9" type="Noun">
+          <Vi>Sợi lông mọc trên da đầu (hoặc trên cơ thể người và động vật)</Vi>
+          <En>One of the fine thread-like strands growing from the skin of humans and animals, especially on the head.</En>
+          <Example>She dyed her hair bright red for the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e53b1c31-cce3-4ab1-9d99-16bea0e71718">
+              <Vi>Mô tả ngoại hình, chăm sóc tóc, hoặc thay đổi kiểu tóc.</Vi>
+              <En>Describing appearance, hair care, or changing hairstyles.</En>
+            </Situation>
+            <Situation id="f441d795-808b-4cfe-aac5-8dda52f5609b">
+              <Vi>So sánh độ dài, màu sắc, hoặc chất lượng của tóc.</Vi>
+              <En>Comparing length, color, or quality of hair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9fdcefe8-a3df-4b7e-942d-5a5cb573f15f" type="Noun">
+          <Vi>Một lượng nhỏ (dùng trong cụm từ "a hair's breadth")</Vi>
+          <En>A very small amount or degree, especially in the phrase "a hair's breadth".</En>
+          <Example>The bullet missed him by a hair.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8667fdb-dc22-4ecb-9bdc-90d8cfa8603d">
+              <Vi>Mô tả sự chênh lệch rất nhỏ trong kết quả hoặc khoảng cách.</Vi>
+              <En>Describing a very narrow margin in outcome or distance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
