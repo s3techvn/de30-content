@@ -1,0 +1,66 @@
+<Vocab id="94478db0-a8e1-430f-adb7-b309912c8285" word="intellectual" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="22a011fe-01a6-4463-840f-30e44c0e6be7" value="Academia" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a8b5264-9f0a-4d88-beeb-bba39ddb40b5" ipa="/ˌɪn.təˈlek.tʃu.əl/" vi_ipa="in-tờ-lec-chu-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="341ce94d-b473-4684-94a1-bc9460a1460c" type="Adjective">
+          <Vi>thuộc về trí tuệ, trí thức; có năng lực tư duy sâu sắc, am hiểu rộng</Vi>
+          <En>relating to the intellect or use of the mind; characterized by deep thought, knowledge, and reasoning.</En>
+          <Example>She is known for her intellectual curiosity and ability to analyze complex problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="196ad475-27da-4a82-bfb4-e2562b252bb4">
+              <Vi>Mô tả một người có tư duy phản biện mạnh, thích học hỏi và tranh luận triết lý.</Vi>
+              <En>Describes a person with strong critical thinking skills, a love of learning, and engagement in philosophical debate.</En>
+            </Situation>
+            <Situation id="bf79cebf-0ff2-430d-aad8-b714c890ba30">
+              <Vi>Chỉ các hoạt động đòi hỏi tư duy trừu tượng như triết học, toán học, hay văn học lý thuyết.</Vi>
+              <En>Refers to activities requiring abstract thought, such as philosophy, mathematics, or literary theory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="65d1d097-dbb8-4ce0-997d-5c0253e508d8" ipa="/ˈɪn.tə.lek.tʃu.əl/" vi_ipa="in-tờ-lec-chu-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ffaead7c-d543-4985-8b53-51e83684689d" type="Noun">
+          <Vi>người trí thức; người hoạt động trong lĩnh vực tư tưởng, văn hóa, học thuật</Vi>
+          <En>a person who seeks knowledge and understanding, especially through academic or philosophical pursuits.</En>
+          <Example>The university invited several prominent intellectuals to speak at the conference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59cbba42-5daf-4a39-86de-a22f9187017d">
+              <Vi>Một nhà triết học, nhà văn, hoặc học giả thường tham gia các hội thảo và xuất bản bài luận.</Vi>
+              <En>A philosopher, writer, or scholar who frequently participates in seminars and publishes essays.</En>
+            </Situation>
+            <Situation id="829eed46-5bf7-454e-ba50-78cc9672f167">
+              <Vi>Người tham gia tranh luận công khai về các vấn đề xã hội, chính trị dưới góc nhìn lý luận.</Vi>
+              <En>A person engaging in public debates on social or political issues from a theoretical perspective.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

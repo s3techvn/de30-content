@@ -1,0 +1,40 @@
+<Vocab id="23d901e0-2684-4610-9bb1-1b3554a1cfda" word="recommendation" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a930559d-afe2-46f1-985c-fb80fa69072a" ipa="/ˌrek.ə.mənˈdeɪ.ʃən/" vi_ipa="rít-kờ-mờ-nen-đê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="391954aa-d397-4d48-b2e0-760b51764039" type="Noun">
+          <Vi>Sự đề xuất, khuyến nghị; thư giới thiệu</Vi>
+          <En>A suggestion or proposal of a course of action, or a letter written by someone to endorse a person or product</En>
+          <Example>She received a strong recommendation from her former supervisor for the job.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e8cb5cf-1e96-4f39-abad-717f82d281af">
+              <Vi>Người xin việc cung cấp thư giới thiệu từ cựu sếp để chứng minh năng lực.</Vi>
+              <En>A job applicant provides a letter of recommendation from a former employer to demonstrate qualifications.</En>
+            </Situation>
+            <Situation id="71c07ee2-3c8e-4f94-805c-9ca5075a60bf">
+              <Vi>Bác sĩ đưa ra khuyến nghị về chế độ ăn uống và tập luyện cho bệnh nhân.</Vi>
+              <En>The doctor gives a recommendation about diet and exercise for the patient.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

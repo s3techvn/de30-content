@@ -1,0 +1,54 @@
+<Vocab id="995eb4bc-bdf0-4d14-b7d7-1b479dbd5c9d" word="warning" type="short" status="done">
+  <Topics>
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="1434e391-54eb-4f44-b5c9-4986c1b6b0c9" value="Safety Officer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b0fcfd92-7c4d-4b9d-b3fb-9967ad79d4e4" ipa="/ˈwɔːr.ɪŋ/" vi_ipa="wo-rinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a7590ec9-1c38-4d83-be6b-3b7ca16a2a28" type="Noun">
+          <Vi>Cảnh báo</Vi>
+          <En>A statement or sign that alerts someone to a possible danger, problem, or unpleasant situation.</En>
+          <Example>There is a warning sign on the road indicating slippery conditions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5ad5231-c13e-4944-9ca6-0c003a3267f6">
+              <Vi>Cảnh báo nguy hiểm trên biển báo giao thông.</Vi>
+              <En>A warning displayed on a traffic sign to alert drivers of a hazard.</En>
+            </Situation>
+            <Situation id="dc5ef4f1-586b-487b-bf4d-141d0cbf5f7b">
+              <Vi>Lời cảnh báo từ bác sĩ về tác dụng phụ của thuốc.</Vi>
+              <En>A warning from a doctor about the side effects of a medication.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="66316ed0-4506-490b-832e-d2416e81428d" type="Verb">
+          <Vi>Cảnh báo</Vi>
+          <En>To inform someone in advance about a possible danger, problem, or unpleasant consequence.</En>
+          <Example>The teacher warned the students not to touch the hot stove.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c979591-3631-48d3-aceb-0cf43e9c8981">
+              <Vi>Người lớn cảnh báo trẻ em không lại gần hồ.</Vi>
+              <En>An adult warns children not to go near the lake.</En>
+            </Situation>
+            <Situation id="a23364d8-487e-4ab2-a607-1a27fb2a4aec">
+              <Vi>Báo động sớm về nguy cơ lũ lụt.</Vi>
+              <En>Issuing an early warning about the risk of flooding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
