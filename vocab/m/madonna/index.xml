@@ -1,0 +1,70 @@
+<Vocab id="04e5cbdc-633c-4d84-80c0-61b24e72c9af" word="madonna" type="short" status="done">
+  <Topics>
+    <Topic id="37509c8e-c6b5-4f72-9e16-69e935f44437" value="Art &amp; Culture" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="46bd54fe-39fb-4c81-ab49-ad9309fd8e18" value="Religious Scholar" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c463a0e1-1901-458a-93a9-796a158ea509" ipa="/məˈdɒn.ə/">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="80948b5f-c61d-4fcc-86b6-c2ec0f7edcf3" type="Noun">
+          <Vi>Đức Mẹ Maria (trong Kitô giáo); tên gọi trang trọng cho Đức Trinh Nữ Maria</Vi>
+          <En>The Virgin Mary, especially as depicted in art or venerated in the Catholic and Orthodox Churches.</En>
+          <Example>The Renaissance painting shows the Madonna holding the infant Jesus in a tender embrace.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42dd70d0-959c-47d9-83f2-4d40935d0482">
+              <Vi>Trong bối cảnh tôn giáo hoặc nghệ thuật, nói về hình ảnh Đức Mẹ Maria.</Vi>
+              <En>In religious or artistic contexts, referring to depictions of the Virgin Mary.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f6a1e30c-66cd-4b5d-9736-4994a9c4d4b0" type="Noun">
+          <Vi>Tên riêng của ca sĩ nổi tiếng Madonna Louise Ciccone</Vi>
+          <En>The stage name of the American pop singer Madonna Louise Ciccone.</En>
+          <Example>Madonna revolutionized pop music with her bold performances and visual aesthetics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e3a4bae3-1d44-4d36-aa09-a33d0b5c492d">
+              <Vi>Khi nói về nghệ sĩ âm nhạc pop người Mỹ.</Vi>
+              <En>When referring to the American pop music icon.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="bdc56cd1-99c2-456d-82ef-47013f72d564" ipa="/məˈdɒn.ə/">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="93389f1f-8ae5-4340-8258-78f25d870883" type="Noun">
+          <Vi>Tên gọi trang trọng cho một người phụ nữ cao quý hoặc thánh thiện (nghĩa bóng)</Vi>
+          <En>A term of respectful or poetic address for a woman of high status or virtue (figurative).</En>
+          <Example>The villagers referred to her as the Madonna of the village for her kindness and wisdom.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="ce3de9a9-5a20-4850-bddd-b4a3b0fb01fd">
+              <Vi>Trong văn học cổ điển hoặc thơ ca, dùng để tôn xưng một người phụ nữ đức độ.</Vi>
+              <En>In classical literature or poetry, used as an honorific for a virtuous woman.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

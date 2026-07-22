@@ -1,0 +1,94 @@
+<Vocab id="e6551822-305f-4a04-8d48-82f9b4663763" word="mass" type="short" status="done">
+  <Topics>
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="7865af47-fdae-4060-8f87-5dc93f1e84bc" value="Catholic Priest" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21c8be65-8dbf-4326-a406-6096f316bb23" ipa="/mæs/" vi_ipa="mét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="53ef8fa9-205a-4d26-8122-0c161a3c04ef" type="Noun">
+          <Vi>Khối lượng</Vi>
+          <En>The amount of matter in an object, typically measured in kilograms.</En>
+          <Example>The mass of the planet Earth is approximately 5.97 × 10²⁴ kilograms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87f43732-e9dc-42e6-b25d-5f3298573b8d">
+              <Vi>Mô tả lượng vật chất trong vật thể trong vật lý.</Vi>
+              <En>Describing the quantity of matter in a physical object in physics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="70e023c1-d157-4538-b16c-f766a15d2d9d" type="Noun">
+          <Vi>Khối, đám đông</Vi>
+          <En>A large body of matter with no definite shape; a large number of people or things gathered together.</En>
+          <Example>A mass of people gathered in the square to protest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88bfc130-ab89-4ec1-acab-6033e774624c">
+              <Vi>Mô tả một nhóm người đông đảo hoặc vật chất không định hình.</Vi>
+              <En>Describing a large crowd of people or unshaped matter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2aca1d49-1187-454e-8d95-b2437186837b" type="Noun">
+          <Vi>Thánh lễ (Công giáo)</Vi>
+          <En>The central religious service in the Roman Catholic Church, involving the Eucharist.</En>
+          <Example>She attends Mass every Sunday at 9 a.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1792be6-2d6b-4bd4-948b-ee473807e8ba">
+              <Vi>Thực hành phụng vụ Thánh lễ trong Giáo hội Công giáo.</Vi>
+              <En>Participating in the Catholic Eucharistic liturgy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="30f3e255-5124-43ab-b52a-90e1383d685d" ipa="/mæs/" vi_ipa="mét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4ea8e80d-bac3-47d7-b82e-32fd585f1938" type="Verb">
+          <Vi>Đo khối lượng</Vi>
+          <En>To determine the mass of something, especially using scientific instruments.</En>
+          <Example>The scientist will mass the sample before the experiment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="30c4dd5b-299b-41e2-a966-05f728ca21e2">
+              <Vi>Thao tác đo khối lượng trong phòng thí nghiệm.</Vi>
+              <En>Measuring the mass of a substance in a laboratory setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e225a629-05e1-49a1-90a2-ae0574876ad0" type="Verb">
+          <Vi>Tập trung, dồn lại</Vi>
+          <En>To gather or collect (people or things) into a dense group or mass.</En>
+          <Example>They massed their troops near the border.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa1ece9e-a488-4741-b2ef-78d8fa2ed0a8">
+              <Vi>Di chuyển và tập trung quân đội hoặc lực lượng.</Vi>
+              <En>Moving and concentrating troops or resources in one area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
