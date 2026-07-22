@@ -339,3 +339,4 @@ record
 tim
 wage
 stay
+funded
