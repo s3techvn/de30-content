@@ -1,0 +1,66 @@
+<Vocab id="b32276f0-6f8b-4d24-aa4c-2ddcd11d4732" word="focus" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="50ea4b3b-c0fc-4da2-a201-723f74180511" ipa="/ˈfoʊ.kəs/" vi_ipa="phô-kờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d00d784-0a1e-4a2d-82d7-1f3506d7fd43" type="Noun">
+          <Vi>Sự tập trung; điểm hội tụ; tiêu điểm</Vi>
+          <En>The center of attention or interest; the point at which rays of light or other radiation converge.</En>
+          <Example>She lost focus during the meeting and missed the key announcement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd91ec7e-b42c-48b5-aab2-53aa8a186de3">
+              <Vi>Tình huống một người đang cố gắng tập trung vào một nhiệm vụ nhưng bị làm phiền.</Vi>
+              <En>A situation where someone is trying to concentrate on a task but is interrupted.</En>
+            </Situation>
+            <Situation id="ea502e7f-ec87-44bd-99d2-450bb1887ba9">
+              <Vi>Tình huống chụp ảnh khi điều chỉnh ống kính để làm rõ đối tượng.</Vi>
+              <En>A situation in photography when adjusting the lens to make the subject sharp.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="32aef2bc-f8d0-42f7-9a5b-8193a62c6c78" ipa="/foʊˈkəs/" vi_ipa="phô-kờ-xít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3e0c9453-9206-4314-b845-572a7b34671d" type="Verb">
+          <Vi>Tập trung (sự chú ý); làm cho hội tụ; điều chỉnh tiêu điểm</Vi>
+          <En>To direct attention or effort toward something; to cause light or other radiation to converge on a point.</En>
+          <Example>Please focus your eyes on the screen during the presentation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa34371c-b242-4e76-854e-21613074d1bd">
+              <Vi>Tình huống một học sinh cố gắng tập trung vào bài giảng.</Vi>
+              <En>A situation where a student tries to concentrate on the teacher’s lecture.</En>
+            </Situation>
+            <Situation id="af4e9ff2-1dc2-409e-8a4c-faff9dee97de">
+              <Vi>Tình huống điều chỉnh ống kính máy ảnh để ảnh rõ nét.</Vi>
+              <En>A situation where you adjust a camera lens to make the image sharp.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

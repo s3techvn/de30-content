@@ -1,0 +1,32 @@
+<Vocab id="a6bdc602-29fc-49cb-97d6-2e35bc9999c2" word="ourselves" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6060a721-1d3a-4963-a9b7-48ff67a18d52" ipa="/ˌaʊrˈselvz/" vi_ipa="ao-ơ-sen-vơ-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="00104ba8-cc32-4d98-9ca0-d2afed89e316" type="Pronoun">
+          <Vi>chính chúng tôi; bản thân chúng tôi</Vi>
+          <En>used to emphasize the pronoun 'we' or 'us', indicating that the action is done by the speakers themselves without help from others</En>
+          <Example>We painted the house ourselves to save money.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3742a3c9-9393-4088-8c4b-246dbc0dc48d">
+              <Vi>Chỉ ra rằng nhóm người nói (chúng tôi) tự làm điều gì đó mà không nhờ người khác.</Vi>
+              <En>Used to stress that 'we' did something independently, without external help.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

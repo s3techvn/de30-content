@@ -1,0 +1,40 @@
+<Vocab id="29dbdd1d-4c7b-4a8a-be2f-820ef898ff65" word="opportunity" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="67369275-c0c2-4c6a-9fa4-e6671d7bade0" value="Career Counselor" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cbe3ebd0-5d94-4cfa-91b2-cf168f96c4a9" ipa="/ˌɑː.pərˈt̬uː.nə.t̬i/" vi_ipa="ác-pơ-rơ-tu-nơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4f59a8b5-868a-4a9e-9c9e-2ee81556cc58" type="Noun">
+          <Vi>Cơ hội</Vi>
+          <En>A time or set of circumstances that makes it possible to do something, especially something desirable.</En>
+          <Example>She seized the opportunity to study abroad after graduation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bbadc7b6-40e4-46af-ae65-de191e51aeac">
+              <Vi>Một tình huống thuận lợi xuất hiện, cho phép người ta thực hiện điều mình mong muốn.</Vi>
+              <En>A favorable situation arises that allows someone to achieve a desired goal.</En>
+            </Situation>
+            <Situation id="316bf415-4c03-471a-a011-f89a96ea57eb">
+              <Vi>Thời điểm vàng để đưa ra quyết định quan trọng trong công việc hoặc học tập.</Vi>
+              <En>The ideal moment to make an important decision in work or studies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

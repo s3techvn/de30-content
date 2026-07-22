@@ -1,0 +1,60 @@
+<Vocab id="43ce425b-52a3-4e8e-b4b9-543caf8c8a76" word="oil" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9d9cd7b2-c2e2-4518-a7b0-a17b2f424951" value="Energy" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="2cda5b8d-cf19-4c22-9593-aaac92a8c889" value="Petroleum Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0a243ae7-6237-415e-8e03-dc4284d91357" ipa="/ɔɪl/" vi_ipa="ô-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fc1d4cff-dd80-4a91-811c-47738e53612c" type="Noun">
+          <Vi>Dầu (chất lỏng nhớt, thường từ động vật, thực vật, hoặc dầu mỏ)</Vi>
+          <En>A viscous liquid, typically derived from petroleum, plants, or animals, used as fuel, lubricant, or in cooking.</En>
+          <Example>She added a spoonful of olive oil to the salad.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8e75f8f-5d5b-45c6-b483-e83302ba4006">
+              <Vi>Nhà bếp: thêm dầu ăn vào chảo trước khi xào</Vi>
+              <En>Kitchen: adding cooking oil to a pan before stir-frying.</En>
+            </Situation>
+            <Situation id="697087f3-6648-4117-b922-a1167a5e105d">
+              <Vi>Xưởng cơ khí: kiểm tra mức dầu nhớt trong động cơ xe</Vi>
+              <En>Mechanic shop: checking the engine oil level in a vehicle.</En>
+            </Situation>
+            <Situation id="3a94bd5d-1d35-4034-8d27-c36ecee80854">
+              <Vi>Nhà máy lọc dầu: tinh chế dầu thô thành xăng và dầu diesel</Vi>
+              <En>Oil refinery: processing crude oil into gasoline and diesel fuel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef00380b-df3a-4ae8-991a-e8c1680b2463" type="Verb">
+          <Vi>Bôi dầu, thoa dầu</Vi>
+          <En>To coat or lubricate something with oil.</En>
+          <Example>The mechanic oiled the hinges to stop the squeaking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f801d912-0f4b-444e-be5b-ba8e4d6a7191">
+              <Vi>Chăm sóc da: bôi dầu dưỡng ẩm lên mặt trước khi ngủ</Vi>
+              <En>Skin care: applying facial oil before bedtime.</En>
+            </Situation>
+            <Situation id="a7cc40c7-b4b3-4dee-8a3e-6d464de34e5e">
+              <Vi>Thợ mộc: bôi dầu lên bề mặt gỗ để bảo vệ</Vi>
+              <En>Carpenter: applying wood oil to protect and enhance the surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
