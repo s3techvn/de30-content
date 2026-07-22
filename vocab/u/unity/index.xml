@@ -1,0 +1,52 @@
+<Vocab id="67e9ccdd-c911-4160-ba8f-16fc8b067388" word="unity" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="c2f2eb15-6325-4f22-847f-9afaa5411720" value="Teamwork" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="daba2a11-fd83-498e-952c-1e665e71a55d" value="Community Organizer" />
+    <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" value="Team Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f76eed0-b067-491d-b9e1-75d54000f9a3" ipa="/ˈjuː.nə.ti/" vi_ipa="yu-nơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="22826897-1fb0-4eb1-9815-413ee3e7f507" type="Noun">
+          <Vi>Sự thống nhất; đoàn kết</Vi>
+          <En>The state of being joined together; the quality of being united or whole.</En>
+          <Example>The unity of the team was evident in their seamless coordination during the match.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a643873b-2666-49e3-be22-1f7271c5df47">
+              <Vi>Tình trạng các cá nhân hoặc nhóm làm việc cùng nhau mà không có xung đột nội bộ.</Vi>
+              <En>A condition where individuals or groups collaborate harmoniously without internal conflict.</En>
+            </Situation>
+            <Situation id="71ba5c19-e8ae-4116-a341-751687931603">
+              <Vi>Cảm giác gắn bó và chia sẻ mục tiêu chung trong một cộng đồng hoặc tổ chức.</Vi>
+              <En>A sense of bonding and shared purpose within a community or organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4cdb5b60-8cca-40bb-bb7e-a07177deb672" type="Noun">
+          <Vi>Một nhóm người được gắn kết vì mục tiêu chung</Vi>
+          <En>A group of people or things that are joined together for a common purpose.</En>
+          <Example>The coalition formed a political unity to challenge the incumbent government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4223703-8a8e-4cb2-b01e-5f5b9724e3d3">
+              <Vi>Một liên minh hoặc liên kết chính thức giữa các đảng phái hoặc tổ chức.</Vi>
+              <En>A formal alliance or association between political parties or organizations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

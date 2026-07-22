@@ -310,4 +310,7 @@
   <Profession id="dd1386b8-d52a-47d8-b292-f9a099f96402" slug="production-manager" value="Production Manager" />
   <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" slug="industrial-designer" value="Industrial Designer" />
   <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" slug="team-leader" value="Team Leader" />
+  <Profession id="525e9f38-7294-4a9f-a5e9-18354aac9ace" slug="social-media-influencer" value="Social Media Influencer" />
+  <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" slug="marketing-specialist" value="Marketing Specialist" />
+  <Profession id="5ff02746-5ee9-4225-a9c8-d4cadb3da74e" slug="fan-club-organizer" value="Fan Club Organizer" />
 </Professions>
