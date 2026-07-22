@@ -1,0 +1,59 @@
+<Vocab id="6bdf807f-d689-4e12-82e0-d8f18d967fc1" word="stomach" type="short" status="done">
+  <Topics>
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d9737080-9f1f-4a65-8680-3f2436df69c1" ipa="/ˈstʌm.ək/" vi_ipa="stă-mơk">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7e25fa4b-89f3-4260-ae44-b9bcedd8a8dc" type="Noun">
+          <Vi>Dạ dày, bao tử</Vi>
+          <En>The organ in the body where food is digested.</En>
+          <Example>He was taken to the hospital with severe stomach pains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cba3832c-dbfa-4ee1-a6b9-ff84563eaa91">
+              <Vi>Khi thảo luận về sức khỏe, tiêu hóa hoặc các vấn đề y tế.</Vi>
+              <En>When discussing health, digestion, or medical issues.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7b892a58-c762-4125-a0b0-b0131ae644c2" type="Noun">
+          <Vi>Bụng</Vi>
+          <En>The front part of the body below the chest.</En>
+          <Example>She was lying on her stomach on the beach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="314eccbd-d097-4af7-aa3f-562c9a00ce46">
+              <Vi>Khi mô tả tư thế cơ thể hoặc ngoại hình.</Vi>
+              <En>When describing body posture or physical appearance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bd6cb116-1a9e-4dc5-8180-71445e4716d3" type="Verb">
+          <Vi>Chịu đựng, cam chịu, nuốt trôi (thường dùng trong câu phủ định)</Vi>
+          <En>To tolerate or accept something unpleasant.</En>
+          <Example>I cannot stomach his constant complaining.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba1fb072-f24c-4297-be0f-a1cb61c1439a">
+              <Vi>Khi bày tỏ sự không thể chấp nhận hoặc cực kỳ ghét hành vi, thái độ của ai đó.</Vi>
+              <En>When expressing an inability to tolerate or strong dislike of someone's behavior or attitude.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
