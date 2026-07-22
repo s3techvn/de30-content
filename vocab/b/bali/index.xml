@@ -1,0 +1,33 @@
+<Vocab id="536fa591-c2d5-4a3b-8130-f8304bfda604" word="bali" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a29a1fb5-aa61-4786-bed2-255c48143d48" ipa="/ˈbɑː.li/" vi_ipa="ba-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8fe17dc6-8346-43e2-8479-c5d339cf3932" type="Noun">
+          <Vi>Đảo Bali, một hòn đảo thuộc Indonesia, nổi tiếng với văn hóa Hindu độc đáo, cảnh quan thiên nhiên tuyệt đẹp và nghệ thuật truyền thống.</Vi>
+          <En>A volcanic island in Indonesia, part of the Lesser Sunda Islands, renowned for its unique Hindu culture, stunning natural landscapes, and traditional arts.</En>
+          <Example>Many tourists visit Bali to attend the annual Ubud Film Festival and relax on its famous beaches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e3441498-9eb9-4280-a9bf-f5829428c26b">
+              <Vi>Trong ngữ cảnh du lịch hoặc nghiên cứu văn hóa Đông Nam Á.</Vi>
+              <En>In the context of Southeast Asian travel or cultural studies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
