@@ -1,0 +1,48 @@
+<Vocab id="5d081c95-69fb-4cf0-a997-c1c31d8c91b9" word="pike" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="064f63ed-7d75-40d6-b9b5-5e579e1aba67" value="Fishing" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8e3efb1e-89cf-4fcc-a379-7fe6c84131df" ipa="/paɪk/" vi_ipa="pai-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1ff38e3a-55a1-4102-824b-3c743c4a34b3" type="Noun">
+          <Vi>Cá trắm cờ (loài cá nước ngọt, thân dài, hàm có răng sắc)</Vi>
+          <En>A predatory freshwater fish with a long, slender body and sharp teeth, commonly found in lakes and rivers of North America and Europe.</En>
+          <Example>The angler caught a large northern pike in the lake early this morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="172b950b-e300-44ce-8a17-c0d2c9e244bc">
+              <Vi>Mô tả việc câu cá hoặc quan sát cá pike trong tự nhiên.</Vi>
+              <En>Describing fishing for or observing pike in natural habitats.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6fa9fe3a-0d5c-4ce6-8d17-4b31d43d3b7a" type="Noun">
+          <Vi>Cây lau (dùng làm vũ khí cổ)</Vi>
+          <En>A long, heavy spear with a pointed metal head, used historically by infantry as a defensive or offensive weapon.</En>
+          <Example>The medieval soldiers formed a tight formation with their pikes to repel the cavalry charge.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="963b53b5-345a-486c-8aaf-3a8da78a9705">
+              <Vi>Mô tả chiến thuật quân sự thời Trung cổ sử dụng giáo dài.</Vi>
+              <En>Describing medieval infantry tactics using long spears against cavalry.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
