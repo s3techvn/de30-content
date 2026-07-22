@@ -1,0 +1,36 @@
+<Vocab id="afae222c-26e0-44d7-b058-1f0f01f14436" word="sherman" type="short" status="done">
+  <Topics>
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bcf16f82-2ef2-4cc5-a830-fd80a90bc1da" ipa="/ˈʃɜːr.mən/" vi_ipa="sờ-mờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e39afd36-7778-45de-9709-90d5e535f4d6" type="Noun">
+          <Vi>Tướng William Tecumseh Sherman; người đặt tên cho xe tăng Sherman</Vi>
+          <En>A surname, notably of General William Tecumseh Sherman; also used to refer to the M4 Sherman tank used by the Allies in WWII.</En>
+          <Example>General Sherman led the famous “March to the Sea” during the American Civil War.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0746a05e-dd9b-4417-9e43-5c78859adca4">
+              <Vi>Thảo luận về chiến dịch quân sự trong Nội chiến Mỹ</Vi>
+              <En>Discussing military campaigns in the American Civil War, especially General Sherman’s campaigns.</En>
+            </Situation>
+            <Situation id="956603cd-4863-44fc-b5ba-977a6f68780d">
+              <Vi>Mô tả xe tăng Sherman trong bảo tàng chiến tranh</Vi>
+              <En>Describing the M4 Sherman tank in a military history museum.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
