@@ -504,4 +504,7 @@
   <Profession id="86dcf3df-ef0b-4328-8550-53ab76ed3525" slug="rock-climbing-instructor" value="Rock Climbing Instructor" />
   <Profession id="80c5dbdf-8d37-496d-8e53-ef71a403fc35" slug="rescue-worker" value="Rescue Worker" />
   <Profession id="e43f8c05-88e0-4385-8bac-619a0a5fde56" slug="factory-manager" value="Factory Manager" />
+  <Profession id="66598e53-adca-4e88-ba3d-13c131c6e1f2" slug="barber" value="Barber" />
+  <Profession id="c107c5ed-a284-406d-8632-b5ebbfd7374a" slug="cosmetologist" value="Cosmetologist" />
+  <Profession id="c7424671-91c1-443a-a80b-f3093d809f10" slug="dermatologist" value="Dermatologist" />
 </Professions>
