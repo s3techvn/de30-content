@@ -375,4 +375,5 @@
   <Profession id="9d5ccbec-274a-4c14-a0a4-8722f30fd634" slug="psychiatrist" value="Psychiatrist" />
   <Profession id="52d815e3-5c00-4177-ad7a-eb907b4523c6" slug="emergency-medical-technician" value="Emergency Medical Technician" />
   <Profession id="3596008c-d74f-46e5-8a6a-d43c3349d7c6" slug="community-manager" value="Community Manager" />
+  <Profession id="2d84b71c-7ee9-4467-93d6-fceeb437e58c" slug="shepherd" value="Shepherd" />
 </Professions>

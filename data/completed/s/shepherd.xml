@@ -1,0 +1,59 @@
+<Vocab id="96bf1c29-d743-44d1-ac3b-4828e32d70e7" word="shepherd" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="2d84b71c-7ee9-4467-93d6-fceeb437e58c" value="Shepherd" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8526826f-1dbc-4c65-b469-1cc4629b468e" ipa="/ˈʃɛp.ərd/" vi_ipa="sếp-hờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3761bb1b-7f3a-498d-a82a-9ef6b7ef0898" type="Noun">
+          <Vi>Người chăn cừu</Vi>
+          <En>A person whose job is to tend, feed, and protect sheep.</En>
+          <Example>The shepherd led the flock through the mountain pass at dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d246a305-29c0-4045-87a9-a8d606f04bc8">
+              <Vi>Mô tả một người làm nghề chăn cừu trong trang trại hoặc đồng cỏ.</Vi>
+              <En>Describes someone working as a shepherd on a farm or pasture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8ff4da27-714e-44e8-aa7f-c4a681b6f993" type="Noun">
+          <Vi>Người lãnh đạo, người dẫn dắt (ẩn dụ)</Vi>
+          <En>A person who guides, leads, or protects a group of people; a leader or guide.</En>
+          <Example>The pastor was seen as the shepherd of his congregation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa0e2318-a13b-4168-a854-f53481962597">
+              <Vi>Sử dụng trong ngữ cảnh tôn giáo hoặc văn học để chỉ người lãnh đạo tinh thần.</Vi>
+              <En>Used in religious or literary contexts to refer to a spiritual leader.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="70aba475-cc9c-46f3-a2a1-d25c9aab0359" type="Verb">
+          <Vi>Dẫn dắt, hướng dẫn (như người chăn cừu)</Vi>
+          <En>To guide or direct a group of people, especially in a careful or protective manner.</En>
+          <Example>The tour guide shepherded the visitors through the museum.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36820248-63b6-4289-a886-d417341054be">
+              <Vi>Mô tả việc dẫn dắt một nhóm người một cách cẩn trọng và có trách nhiệm.</Vi>
+              <En>Describes guiding a group of people carefully and responsibly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
