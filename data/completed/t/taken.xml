@@ -1,0 +1,60 @@
+<Vocab id="e459d896-45d7-4f06-bb73-5917420f6867" word="taken" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cc318b0b-5eea-4381-abec-585a1f09f956" ipa="/ˈteɪ.kən/" vi_ipa="tê-kin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="928ce52a-d105-4e15-bada-6ac041614376" type="Adjective">
+          <Vi>đã bị lấy, đã bị chiếm; đã bị chiếm giữ; đã bị chiếm đoạt</Vi>
+          <En>seized, captured, or occupied; no longer available or free</En>
+          <Example>The seat was taken before I could get to it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d7302f1-a1f8-43c9-a900-524a4299121a">
+              <Vi>Mô tả một vị trí, vật, hoặc cơ hội đã không còn trống hoặc sẵn có.</Vi>
+              <En>Describes a position, object, or opportunity that is no longer available or free.</En>
+            </Situation>
+            <Situation id="e27231b5-5a8d-44d4-90cf-e5810b94faa5">
+              <Vi>Dùng trong ngữ cảnh chiến tranh hoặc xung đột để nói về lãnh thổ bị chiếm đóng.</Vi>
+              <En>Used in war or conflict contexts to describe territory that has been occupied or captured.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4c3a853c-ba08-4605-a3c1-5793e37ae96b" type="Adjective">
+          <Vi>đã bị thu hút (tình cảm), đã bị chinh phục (tâm trí)</Vi>
+          <En>attracted or captivated emotionally or mentally; charmed</En>
+          <Example>She was taken by his charm and quick wit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="668085f7-75df-42e4-80e6-ea6459bc836b">
+              <Vi>Mô tả cảm xúc say mê, yêu mến ngay từ đầu khi gặp ai đó hoặc điều gì đó.</Vi>
+              <En>Describes an immediate feeling of being captivated or charmed by someone or something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6170bea7-1d18-4a20-be44-bef8f58fc3b1" type="Adjective">
+          <Vi>đã bị bắt, đã bị bắt giữ (do vi phạm pháp luật)</Vi>
+          <En>arrested or apprehended, especially by law enforcement</En>
+          <Example>The thief was taken by the police after the robbery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="045d18d0-17ae-4ced-94ad-aa84e26222f1">
+              <Vi>Mô tả cảnh sát bắt giữ nghi phạm sau khi điều tra.</Vi>
+              <En>Describes law enforcement apprehending a suspect after an investigation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
