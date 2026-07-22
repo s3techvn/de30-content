@@ -293,4 +293,5 @@
   <Profession id="a96b92ff-f962-44f8-96ea-d42af68fe92a" slug="wedding-coordinator" value="Wedding Coordinator" />
   <Profession id="80b5da50-6b3f-4992-9713-90fd61f68b76" slug="venue-manager" value="Venue Manager" />
   <Profession id="fbe0905a-3244-43a8-b4f5-0debf3cfb215" slug="activist" value="Activist" />
+  <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" slug="academic-researcher" value="Academic Researcher" />
 </Professions>

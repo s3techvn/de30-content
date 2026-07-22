@@ -1,0 +1,56 @@
+<Vocab id="d986816e-79e7-4de6-8ba5-697c68e9ef2f" word="freedom" type="short" status="done">
+  <Topics>
+    <Topic id="0b557a18-3c4a-46cb-9bfd-2898c8e6021c" value="Society &amp; Politics" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="fbe0905a-3244-43a8-b4f5-0debf3cfb215" value="Activist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6e331065-c3a7-4c47-96a1-8481851330b4" ipa="/ˈfriː.dəm/" vi_ipa="phrì-dơ-m">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="483ac7fa-6c5e-4947-8cce-dea6b7a3573e" type="Noun">
+          <Vi>Tự do</Vi>
+          <En>The condition of being free from oppressive restrictions imposed by authority on one's behavior or political views.</En>
+          <Example>She fought for freedom of speech and expression.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1534c23c-e9f8-41d8-9476-0ffc3e41a72c">
+              <Vi>Tình trạng một cá nhân được phép hành động, nói chuyện, hoặc suy nghĩ mà không bị cản trở bởi chính quyền hoặc người khác.</Vi>
+              <En>A state in which a person is allowed to act, speak, or think without interference by authorities or others.</En>
+            </Situation>
+            <Situation id="64a6feb4-bdd2-45ab-8828-e7db8dda3e31">
+              <Vi>Quyền được lựa chọn và ra quyết định độc lập trong các vấn đề cá nhân hoặc chính trị.</Vi>
+              <En>The right to choose and make independent decisions in personal or political matters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5b452065-846f-40fd-a34d-122630968cdf" type="Noun">
+          <Vi>Sự giải phóng; sự tự chủ</Vi>
+          <En>The state of being released from confinement, slavery, or control; autonomy.</En>
+          <Example>The abolition of slavery marked the freedom of millions of people.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e48b09ce-a265-4be6-af7f-951bc758bd95">
+              <Vi>Tình trạng được giải phóng khỏi tù đày, nô lệ, hoặc sự kiểm soát của người khác.</Vi>
+              <En>The condition of being released from imprisonment, slavery, or another person’s control.</En>
+            </Situation>
+            <Situation id="3d3056c9-e03a-4a42-88f4-126645697973">
+              <Vi>Khả năng tự quyết định và hành động theo ý muốn, không bị lệ thuộc vào người khác.</Vi>
+              <En>The ability to make one’s own choices and act independently, without dependence on others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
