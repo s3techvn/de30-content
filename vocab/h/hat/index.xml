@@ -1,0 +1,50 @@
+<Vocab id="7745a3f2-182d-4fe4-ac6e-f267fc038d4a" word="hat" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e525b88c-b080-468d-ab03-90f435896ff1" ipa="/hæt/" vi_ipa="hết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="129d8b8d-ff18-4380-bd0d-fc018adef4c5" type="Noun">
+          <Vi>Mũ</Vi>
+          <En>A covering for the head, typically with a brim and a crown, worn for protection, warmth, or as a fashion accessory.</En>
+          <Example>She adjusted her wide-brimmed hat before stepping into the sunlight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="74a159bd-72bb-466f-8f5f-c40db886e495">
+              <Vi>Người đi biển đội mũ rộng vành để tránh nắng.</Vi>
+              <En>A person wears a wide-brimmed hat while at the beach to avoid sun exposure.</En>
+            </Situation>
+            <Situation id="22229e45-32f9-4ef0-90a0-ff1478fe5473">
+              <Vi>Nhân viên xây dựng đội mũ bảo hiểm thay vì mũ thông thường.</Vi>
+              <En>Construction workers wear hard hats instead of regular hats for safety.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c7e33210-94eb-4a3d-ac52-3c15bc0da6ca" type="Noun">
+          <Vi>Mũ (dùng trong ẩn dụ: “take off one’s hat” = ghi nhận, kính nể)</Vi>
+          <En>An object or symbol used metaphorically to represent respect or admiration (e.g., in the phrase “take off one’s hat to someone”).</En>
+          <Example>He took off his hat to the team for their incredible effort and dedication.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e55019d-da09-4ddb-ad5c-dcf4efb38224">
+              <Vi>Người đứng đầu công ty gỡ mũ để bày tỏ sự ngưỡng mộ trước thành tích của nhân viên.</Vi>
+              <En>The company CEO “took off his hat” to the employees for their record-breaking performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

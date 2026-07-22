@@ -804,3 +804,4 @@ lounge
 reef
 mouth
 fog
+hat
