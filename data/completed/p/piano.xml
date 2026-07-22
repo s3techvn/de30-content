@@ -1,0 +1,38 @@
+<Vocab id="4049f492-77d2-453a-851d-657b71530303" word="piano" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="541d5700-b6af-4658-8915-8512e46e97b2" value="Piano Teacher" />
+    <Profession id="c835a8dd-adbd-4ddf-9d21-b8f692c6e80f" value="Composer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="11d71d9f-9a6a-4067-a08a-2abb5e38ef6c" ipa="/ˈpɪə.noʊ/" vi_ipa="pi-a-nô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="279c79c3-0295-41fe-89ec-c3133df9afec" type="Noun">
+          <Vi>Cây đàn piano</Vi>
+          <En>A large musical instrument with a keyboard of 88 keys (52 white and 36 black), producing sound when keys are pressed and hammers strike strings inside.</En>
+          <Example>She practices the piano for an hour every day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="920b628a-b899-44c7-856e-ffecfe92723b">
+              <Vi>Một nhạc sĩ đang biểu diễn một bản sonata trên đàn piano trong phòng hòa nhạc.</Vi>
+              <En>A musician performing a sonata on a piano in a concert hall.</En>
+            </Situation>
+            <Situation id="9556274a-3edb-4b29-bf3b-2315b6cc31fe">
+              <Vi>Học sinh tập chơi piano trong lớp học âm nhạc.</Vi>
+              <En>A student practicing piano in a music class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

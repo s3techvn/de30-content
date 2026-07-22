@@ -366,4 +366,6 @@
   <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" slug="museum-curator" value="Museum Curator" />
   <Profession id="0f406918-6e05-4472-819a-862f59ebe79b" slug="treasure-hunter" value="Treasure Hunter" />
   <Profession id="4fdd2aec-577e-4ecb-8a13-b8d87c9b6675" slug="it-specialist" value="IT Specialist" />
+  <Profession id="541d5700-b6af-4658-8915-8512e46e97b2" slug="piano-teacher" value="Piano Teacher" />
+  <Profession id="c835a8dd-adbd-4ddf-9d21-b8f692c6e80f" slug="composer" value="Composer" />
 </Professions>
