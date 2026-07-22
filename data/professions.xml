@@ -328,4 +328,7 @@
   <Profession id="7358b72e-0703-41a5-a4de-85e658dfc356" slug="lobbyist" value="Lobbyist" />
   <Profession id="73557f49-4f53-49de-861d-46d819311cd4" slug="detective" value="Detective" />
   <Profession id="dc4a2e22-693e-413d-8da2-9134cc853da5" slug="procurement-manager" value="Procurement Manager" />
+  <Profession id="ba3ae16d-5822-45c9-b795-22d059b32f28" slug="neurologist" value="Neurologist" />
+  <Profession id="aec31f5f-64af-43bf-93a7-be9241770f66" slug="neuroscientist" value="Neuroscientist" />
+  <Profession id="970389cd-6b91-4620-8b9c-5d2909324e75" slug="ai-engineer" value="AI Engineer" />
 </Professions>
