@@ -1,0 +1,36 @@
+<Vocab id="ffda6186-082e-4704-a8c7-df12da56000b" word="during" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bcbdb6ca-9bb0-4c80-b4f8-87e73fdae488" ipa="/ˈdʊr.ɪŋ/" vi_ipa="đua-rinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="18f64b72-cbb7-455b-8ded-1dc76da4042a" type="Preposition">
+          <Vi>trong lúc, trong khoảng thời gian</Vi>
+          <En>at or in the course of; while</En>
+          <Example>She fell asleep during the movie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0545d3a-6a6a-44d9-9fe4-1534514603bd">
+              <Vi>Mô tả một sự kiện xảy ra trong một khoảng thời gian cụ thể.</Vi>
+              <En>Describes an event occurring within a specific time period.</En>
+            </Situation>
+            <Situation id="a1f694f4-8290-42fd-92a2-d46b9663b74a">
+              <Vi>Dùng để chỉ đồng thời xảy ra của hai hành động hoặc trạng thái.</Vi>
+              <En>Used to indicate that two actions or states occur simultaneously.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
