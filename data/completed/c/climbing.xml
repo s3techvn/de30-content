@@ -1,0 +1,38 @@
+<Vocab id="5d6e02e4-963b-4635-aef3-7caf3195ba7e" word="climbing" type="short" status="done">
+  <Topics>
+    <Topic id="70e0c39b-5d53-489b-8eb4-71344671b917" value="Sports &amp; Recreation" />
+  </Topics>
+  <Professions>
+    <Profession id="158045bf-6125-4e90-8c1b-e7405d0cd97f" value="Mountain Guide" />
+    <Profession id="86dcf3df-ef0b-4328-8550-53ab76ed3525" value="Rock Climbing Instructor" />
+    <Profession id="80c5dbdf-8d37-496d-8e53-ef71a403fc35" value="Rescue Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e1510285-7214-4017-aaab-782c7fd2f619" ipa="/ˈklɪm.ɪŋ/" vi_ipa="cờ-lim-ing">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf180204-c8d1-4000-96dc-4feaca9443e5" type="Noun">
+          <Vi>Sự leo trèo; hoạt động leo (đồi, núi, vách đá, tường nhân tạo...)</Vi>
+          <En>The sport, activity, or practice of ascending steep terrain, such as mountains, cliffs, or artificial walls, typically using hands and feet and often specialized equipment.</En>
+          <Example>She has been practicing indoor climbing three times a week to prepare for her first outdoor climb.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="afc16c35-dd12-4d10-9b5e-1f49708a37fe">
+              <Vi>Một người đang tập leo tường nhân tạo trong phòng tập thể thao.</Vi>
+              <En>A person training on an indoor climbing wall at a gym.</En>
+            </Situation>
+            <Situation id="fe7b5fe9-f9b3-46ac-a3ad-f1fc7ef8b191">
+              <Vi>Nhóm bạn đang leo một vách đá ở Vịnh Hạ Long.</Vi>
+              <En>A group of friends climbing a cliff at Ha Long Bay.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

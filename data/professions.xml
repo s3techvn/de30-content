@@ -500,4 +500,7 @@
   <Profession id="6652b3ce-54a6-4395-bf3c-5541564d3757" slug="recycling-specialist" value="Recycling Specialist" />
   <Profession id="89b6fc89-afc2-4a06-8ba9-573fa3bf9b16" slug="food-packaging-engineer" value="Food Packaging Engineer" />
   <Profession id="295a3ec5-db10-4f9d-b614-35b6b8d68cd9" slug="tourism-professional" value="Tourism Professional" />
+  <Profession id="158045bf-6125-4e90-8c1b-e7405d0cd97f" slug="mountain-guide" value="Mountain Guide" />
+  <Profession id="86dcf3df-ef0b-4328-8550-53ab76ed3525" slug="rock-climbing-instructor" value="Rock Climbing Instructor" />
+  <Profession id="80c5dbdf-8d37-496d-8e53-ef71a403fc35" slug="rescue-worker" value="Rescue Worker" />
 </Professions>

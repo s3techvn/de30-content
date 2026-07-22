@@ -1,0 +1,40 @@
+<Vocab id="a048ee91-9c46-4efb-af8a-e61c8650d2d2" word="quantity" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6beea807-fcac-497c-a468-a8fbd516eb04" ipa="/ˈkwɑːn.tə.ti/" vi_ipa="cờ-ni-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1e94f810-3acc-4961-88fd-10aa8ee35ecf" type="Noun">
+          <Vi>Số lượng; đại lượng</Vi>
+          <En>An amount or number of something, especially when considered in relation to a total or standard.</En>
+          <Example>We need to increase the quantity of raw materials in stock.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f47ef583-1a80-444c-9385-aa7be20dad75">
+              <Vi>Mô tả mức độ hoặc số lượng của một vật hoặc hiện tượng.</Vi>
+              <En>Describing the amount or number of a particular thing.</En>
+            </Situation>
+            <Situation id="aaaecd0e-b461-4a09-8bc4-1a01b1372779">
+              <Vi>So sánh hoặc đo lường giữa các mức độ (ví dụ: quantity over quality).</Vi>
+              <En>Comparing or measuring levels (e.g., quantity over quality).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
