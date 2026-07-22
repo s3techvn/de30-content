@@ -1,0 +1,41 @@
+<Vocab id="a572e522-6bda-4ffe-90de-7fcc14656e9d" word="voluntary" type="short" status="done">
+  <Topics>
+    <Topic id="531e92cf-8ca8-4b2d-a79c-dc229eefec1c" value="Social &amp; Ethics" />
+    <Topic id="a7fb9478-e657-478f-9ed8-2f4f15e8ffe7" value="Law &amp; Government" />
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="39fc592e-a10a-40bb-b21f-23c0f093f1ef" ipa="/ˈvɑːl.ən.t̬ər.i/" vi_ipa="vôn-lơ-n-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b6810a61-6649-4fb6-9149-63ce3d1f5449" type="Adjective">
+          <Vi>thực hiện một cách tự nguyện, không bị ép buộc</Vi>
+          <En>done, made, or carried out by one’s own free will and without compulsion.</En>
+          <Example>She made a voluntary donation to the charity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cfa32f62-3805-42d7-91ac-15d7e1044008">
+              <Vi>Một người tự nguyện đóng góp thời gian hoặc tiền bạc mà không bị yêu cầu hay trả lương.</Vi>
+              <En>A person contributes time or money of their own accord, without being asked or paid.</En>
+            </Situation>
+            <Situation id="c96cbb35-832d-45e7-b809-809e76c42941">
+              <Vi>Trong pháp lý, hành động được thực hiện với sự đồng ý rõ ràng và không bị ép buộc (ví dụ: khai báo tự nguyện).</Vi>
+              <En>In legal contexts, an action taken with clear, uncoerced consent (e.g., a voluntary confession).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
