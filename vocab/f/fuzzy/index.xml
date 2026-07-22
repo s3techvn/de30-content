@@ -1,0 +1,51 @@
+<Vocab id="1fcf12b2-fb44-4f33-b39c-da77a405f324" word="fuzzy" type="short" status="done">
+  <Topics>
+    <Topic id="70c9e6b8-5b1b-48f7-9807-2b9e0c45ca10" value="Science &amp; Nature" />
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+  </Topics>
+  <Professions>
+    <Profession id="01ee4126-42a6-411f-b8f4-6b18d4011725" value="Computer Scientist" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="48ec0582-23a3-4fb7-8326-cb0d78f9fad8" value="Textile Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="daab5dbb-69bc-4d17-a1c4-a114696cae11" ipa="/ˈfʌz.i/" vi_ipa="phà-zì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af088565-7102-4a4b-b92f-0f42a19daa40" type="Adjective">
+          <Vi>mơ hồ; không rõ ràng; lông mao mềm, xù</Vi>
+          <En>not clear or definite; covered with soft, fine hair or fibers</En>
+          <Example>The image on the screen was fuzzy and hard to read.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e3de953b-4683-4bc4-b73e-a2e93dd0ee2a">
+              <Vi>Mô tả hình ảnh, âm thanh, hoặc ký ức không rõ ràng, mờ ảo.</Vi>
+              <En>Describing unclear or indistinct images, sounds, or memories.</En>
+            </Situation>
+            <Situation id="d687f3a2-3534-4609-b3ff-682121678adf">
+              <Vi>Mô tả bề mặt hoặc chất liệu có lông tơ mềm, xù (ví dụ: vải, lông thú).</Vi>
+              <En>Describing a surface or fabric covered with soft, fine fibers (e.g., fleece, velvet).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="444ad74f-7c15-47c9-8594-5deadd1e0ef7" type="Adjective">
+          <Vi>thuộc lý thuyết mờ (trong toán học/máy tính)</Vi>
+          <En>relating to fuzzy logic, a form of many-valued logic in which truth values are approximate rather than exact</En>
+          <Example>Fuzzy algorithms can handle imprecise input data more effectively than binary systems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="012639d0-856e-4e8a-b6f6-62d7e76c7e71">
+              <Vi>Sử dụng trong khoa học máy tính và trí tuệ nhân tạo để xử lý dữ liệu không chắc chắn.</Vi>
+              <En>Used in computer science and artificial intelligence to handle uncertain or imprecise data.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

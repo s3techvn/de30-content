@@ -483,4 +483,5 @@
   <Profession id="6feb3304-b234-4ada-afb4-743724554e3a" slug="professional" value="Professional" />
   <Profession id="92fbca4b-ae74-401c-9892-462a658dc40f" slug="stockbroker" value="Stockbroker" />
   <Profession id="4f421813-c18f-4880-977a-250d2da85b59" slug="traffic-engineer" value="Traffic Engineer" />
+  <Profession id="48db7228-ff6e-4f4e-97e2-1f20c09418c9" slug="tourist" value="Tourist" />
 </Professions>

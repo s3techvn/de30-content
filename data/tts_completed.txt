@@ -721,3 +721,4 @@ featured
 effort
 tried
 quit
+fuzzy

@@ -1,0 +1,38 @@
+<Vocab id="43a9bfaf-8dda-46c3-aa62-cdcaa9e7ab62" word="hotel" type="short" status="done">
+  <Topics>
+    <Topic id="29955897-b53f-493a-a918-27822243d2cc" value="Travel and Accommodation" />
+  </Topics>
+  <Professions>
+    <Profession id="ade3f022-0d58-47d7-b068-22093d81115f" value="Hospitality Worker" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="48db7228-ff6e-4f4e-97e2-1f20c09418c9" value="Tourist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64846c13-ea97-4e76-9f98-9f65f95b47c3" ipa="/ˈhoʊ.təl/" vi_ipa="hô-tờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db929700-153c-4086-a831-e0c894f620cc" type="Noun">
+          <Vi>khách sạn</Vi>
+          <En>A building where people can pay to stay temporarily, typically offering rooms, meals, and other services.</En>
+          <Example>They booked a suite at a luxury hotel in Paris for their anniversary trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d446f0d-c60a-4a82-a466-4303fd2fe8fe">
+              <Vi>Người đi du lịch đặt phòng nghỉ qua đêm tại một cơ sở lưu trú có dịch vụ đầy đủ.</Vi>
+              <En>A traveler reserves a room for overnight stay at a full-service lodging facility.</En>
+            </Situation>
+            <Situation id="17973f4e-370c-42e8-89e0-e31cebf29a5d">
+              <Vi>Chủ khách sạn quản lý nhân sự, phòng ốc và dịch vụ ăn uống cho khách.</Vi>
+              <En>The hotel manager oversees staff, rooms, and food services for guests.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
