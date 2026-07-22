@@ -1,0 +1,56 @@
+<Vocab id="bbb41fa6-22d1-4acb-a0c6-fcc9ded52c80" word="alive" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="695b07b7-20b3-4acc-b788-f19b2fa7c9b1" ipa="/əˈlaɪv/" vi_ipa="ơ-lây-v">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3d242da0-e146-47b2-a17d-6927032c3271" type="Adjective">
+          <Vi>đang sống; còn sống; còn mạng</Vi>
+          <En>Having life; not dead or inanimate.</En>
+          <Example>The patient is still alive after the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a97fa78-c151-4a5f-9b0e-c1091f2be070">
+              <Vi>Mô tả trạng thái sinh học của con người, động vật sau khi bị chấn thương hoặc trong tình trạng hôn mê.</Vi>
+              <En>Describing the biological state of a human or animal after trauma or in a coma.</En>
+            </Situation>
+            <Situation id="875708f8-ba68-4867-82d0-a981f843af77">
+              <Vi>Dùng để nhấn mạnh sự sống còn trong hoàn cảnh nguy hiểm hoặc bất ngờ.</Vi>
+              <En>Used to emphasize survival in dangerous or unexpected situations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8ed9a513-0994-45b7-92d3-72e569c93b44" type="Adjective">
+          <Vi>đang hoạt động; đang diễn ra; sôi nổi, hào hứng</Vi>
+          <En>In active operation or condition; full of energy or excitement.</En>
+          <Example>The city was alive with music and lights during the festival.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f0096208-293f-4e5f-ae02-eab67d85b7b5">
+              <Vi>Mô tả một không gian, sự kiện, hoặc môi trường tràn đầy năng lượng và hoạt động sôi nổi.</Vi>
+              <En>Describing a space, event, or environment filled with energy and vibrant activity.</En>
+            </Situation>
+            <Situation id="2bc54a63-b44c-47d5-a298-14cdf2e354e0">
+              <Vi>Dùng để nói về một chủ đề, cuộc tranh luận, hoặc cảm xúc đang mạnh mẽ và được thảo luận sôi nổi.</Vi>
+              <En>Used to describe a topic, debate, or emotion that is currently intense and actively discussed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
