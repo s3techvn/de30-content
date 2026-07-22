@@ -1,0 +1,56 @@
+<Vocab id="3940ce5b-7253-4bf8-b5fb-1bc58012b0b0" word="merchandise" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="e6e1f13b-f9f0-48ed-8dc6-182002d45be9" value="Merchandiser" />
+    <Profession id="5404dd49-5214-40be-8ae2-280dd3070b34" value="Store Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="afcc4c3d-b66c-42f9-bcbc-65f306d94dba" ipa="/ˈmɜːr.tʃən.days/" vi_ipa="mờ-rờ-chờ-nai-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c144802-0f8e-41ee-aa81-4b8ac6b668d3" type="Noun">
+          <Vi>Hàng hóa; hàng hóa để bán</Vi>
+          <En>Goods or commodities that are bought and sold, especially in bulk or by retailers.</En>
+          <Example>The store’s merchandise includes clothing, electronics, and home goods.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79979ae0-2afb-42f6-892b-bf7f11fe5a94">
+              <Vi>Cửa hàng sắp xếp và trưng bày hàng hóa để khách hàng dễ chọn mua.</Vi>
+              <En>The store organizes and displays its merchandise to help customers choose easily.</En>
+            </Situation>
+            <Situation id="eb79af97-8f58-4343-895b-4526f4b74ba5">
+              <Vi>Công ty nhập khẩu hàng hóa từ nước ngoài để phân phối trong nước.</Vi>
+              <En>The company imports merchandise from abroad for domestic distribution.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="37538038-9650-4d12-bea8-8667b0cba5b1" type="Verb">
+          <Vi>Bán hàng; trưng bày và quảng bá hàng hóa</Vi>
+          <En>To display, promote, or sell goods, especially in a retail setting.</En>
+          <Example>The sales team was trained to merchandise the new product line effectively.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5bcae31-48cf-44eb-8c3d-7f200e9e4b70">
+              <Vi>Nhân viên cửa hàng được đào tạo để trưng bày và giới thiệu sản phẩm mới.</Vi>
+              <En>Store staff were trained to merchandise the new product line effectively.</En>
+            </Situation>
+            <Situation id="90b9fab8-96eb-426a-8b6c-05fcc316fd5d">
+              <Vi>Các nhà bán lẻ thường merchandising sản phẩm theo mùa vụ.</Vi>
+              <En>Retailers often merchandise products seasonally.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
