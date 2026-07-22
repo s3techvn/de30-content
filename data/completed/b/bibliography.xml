@@ -1,0 +1,38 @@
+<Vocab id="6abd22a1-24b8-46b7-afb9-386e68fe48da" word="bibliography" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+  </Topics>
+  <Professions>
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="57229e8c-7469-4c37-8773-f22e6418597c" ipa="/ˌbɪb.liˈɒɡ.rə.fi/" vi_ipa="bíp-li-ô-grơ-phì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="716b59d6-309b-4066-9baa-8353f9935dc7" type="Noun">
+          <Vi>Danh mục tài liệu tham khảo</Vi>
+          <En>A list of the books, articles, and other sources used or referred to in a scholarly work, typically arranged alphabetically by author.</En>
+          <Example>The bibliography at the end of the thesis includes over 50 scholarly sources.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46069f04-9965-4852-8135-2511d9a5a29b">
+              <Vi>Học sinh/sinh viên liệt kê các nguồn đã tham khảo khi viết báo cáo, luận văn.</Vi>
+              <En>Students or scholars compile a list of all sources consulted when writing academic papers or reports.</En>
+            </Situation>
+            <Situation id="d933f54a-35a3-4f61-9190-3559903b8e40">
+              <Vi>Nhà xuất bản yêu cầu danh mục tài liệu trước khi in sách học thuật.</Vi>
+              <En>A publisher may require a complete bibliography before printing an academic book.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

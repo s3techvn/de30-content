@@ -1,0 +1,41 @@
+<Vocab id="17fa6183-9219-4b0a-9915-7349d0342e0e" word="explanation" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b82c6bcf-263f-4879-9e9a-8ee8ab180ea2" ipa="/ˌek.spləˈneɪ.ʃən/" vi_ipa="éc-plơ-nê-i-xi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="05b5409a-58d1-49b3-82eb-8033298708fa" type="Noun">
+          <Vi>Sự giải thích; lời giải thích</Vi>
+          <En>A statement or account that makes something clear or understandable.</En>
+          <Example>She gave a clear explanation of why the project was delayed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="247cbfa7-8ef7-49a3-b278-2d58d8995c8c">
+              <Vi>Giảng viên giải thích một khái niệm khó cho sinh viên.</Vi>
+              <En>A teacher clarifies a difficult concept for students.</En>
+            </Situation>
+            <Situation id="7978055c-bfe0-46e8-9684-bc2b69ce4d13">
+              <Vi>Người lái xe đưa ra lời giải thích cho vi phạm giao thông.</Vi>
+              <En>A driver offers an explanation for a traffic violation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
