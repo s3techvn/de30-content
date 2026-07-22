@@ -744,3 +744,4 @@ progress
 maria
 login
 collaborative
+vanilla

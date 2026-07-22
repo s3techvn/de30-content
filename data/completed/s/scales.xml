@@ -1,0 +1,70 @@
+<Vocab id="31a1939f-dbdc-4a6d-b48c-3b029b24821d" word="scales" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="011e12fe-b550-4b00-bea8-6ed11d7a33e8" ipa="/skeɪlz/" vi_ipa="xkê-lz">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd8ac6d4-d4e1-4a4d-ac4f-ce950f07747e" type="Noun">
+          <Vi>Cây cân; vảy (cá, rồng, v.v.); dải âm (trong âm nhạc)</Vi>
+          <En>Plural of scale: a device for measuring weight; a small rigid plate covering the body of a fish or reptile; one of the seven notes in a musical scale</En>
+          <Example>She adjusted the kitchen scales before adding flour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="00a63fe9-26d0-40e6-b213-c44e7e89b069">
+              <Vi>Đo trọng lượng thực phẩm trong bếp.</Vi>
+              <En>Measuring the weight of ingredients in cooking.</En>
+            </Situation>
+            <Situation id="15f5658f-9736-4f5c-8fee-771cc2417570">
+              <Vi>Mô tả vảy cá khi chế biến hoặc quan sát sinh học.</Vi>
+              <En>Describing fish scales during cooking or biological study.</En>
+            </Situation>
+            <Situation id="fe64df22-2430-40b0-9b83-eed7826fc2b8">
+              <Vi>Học hoặc chơi một dải âm trong nhạc lý.</Vi>
+              <En>Practicing or playing a musical scale during instrument training.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fe1c05fd-1ad4-4786-9077-218b782d17c5" ipa="/skelz/" vi_ipa="xkel-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="747e961b-0722-48e5-97c6-8728ae8f3050" type="Verb">
+          <Vi>Cân; leo lên (bằng thang); mở rộng theo tỷ lệ</Vi>
+          <En>To weigh something; to climb up using a ladder or similar; to adjust something in proportion to a scale</En>
+          <Example>The climber began to scale the sheer rock face.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0f3158fe-9ddf-4939-a90c-be2a4c063bf4">
+              <Vi>Leo lên vách đá hoặc tường cao.</Vi>
+              <En>Climbing up a steep rock wall or building.</En>
+            </Situation>
+            <Situation id="f2348e8c-a0f0-42f9-83da-a3cf9371a09c">
+              <Vi>Điều chỉnh công thức theo số lượng người ăn.</Vi>
+              <En>Scaling a recipe up or down for more or fewer servings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
