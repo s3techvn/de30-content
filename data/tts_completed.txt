@@ -204,3 +204,4 @@ imagination
 transparency
 shoulder
 auto
+regular
