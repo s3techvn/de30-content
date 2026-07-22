@@ -1,0 +1,66 @@
+<Vocab id="d03ff002-c6d9-4341-9227-e18305c11dc1" word="book" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="061e9785-edb6-4ef2-822a-f6928c8be2e9" ipa="/bʊk/" vi_ipa="bút">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="09d58588-d362-450b-84fe-55ae916b3552" type="Noun">
+          <Vi>Sách</Vi>
+          <En>A written or printed work consisting of pages glued or sewn together along one side and bound between covers.</En>
+          <Example>I borrowed a novel from the library and read it cover to cover in two days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1af19242-3f28-462c-ba72-25edee4db57d">
+              <Vi>Mua sách ở hiệu sách hoặc thư viện.</Vi>
+              <En>Buying or borrowing physical books at a bookstore or library.</En>
+            </Situation>
+            <Situation id="dbb3fc9a-3da6-4457-8421-31461ff4a707">
+              <Vi>Đọc sách để học hoặc giải trí.</Vi>
+              <En>Reading books for education or leisure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a5fc684e-3f4e-4cf7-9d0a-950f9c13c410" ipa="/bʊk/" vi_ipa="bút">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="49f58611-b734-4001-91c7-77634829a8ef" type="Verb">
+          <Vi>Đặt trước (chỗ ngồi, vé, khách sạn...); ghi danh, đăng ký</Vi>
+          <En>To arrange for and pay for something in advance, especially a seat, room, or ticket.</En>
+          <Example>We booked a table at the restaurant for 7 p.m. last night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38735c43-9795-4ee4-bb0d-f09ca1089886">
+              <Vi>Đặt phòng khách sạn qua internet trước khi đi du lịch.</Vi>
+              <En>Reserving a hotel room online before a trip.</En>
+            </Situation>
+            <Situation id="359c414a-6b5c-4d01-9672-972c04203f00">
+              <Vi>Đặt vé máy bay cho chuyến đi công tác.</Vi>
+              <En>Booking flight tickets for a business trip.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,48 @@
+<Vocab id="2b9150ce-0c1a-4d14-b101-cc8723882083" word="inserted" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="220051f6-1c81-4794-aebd-76124ebbf868" value="Document Editing" />
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1971b3a8-3854-46f9-b677-624ef5727854" ipa="/ɪnˈsɜːtɪd/" vi_ipa="in-sờ-tít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ba14f277-6708-42b8-a2fe-9a416828c7be" type="Adjective">
+          <Vi>được chèn vào</Vi>
+          <En>Put or inserted (as a component, text, or object) into something else.</En>
+          <Example>The new paragraph was inserted between the second and third sections.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="77ce6576-e4cd-4e25-b684-d070b8578f69">
+              <Vi>Mô tả một phần văn bản, hình ảnh, hoặc đối tượng đã được thêm vào một tài liệu hoặc hệ thống.</Vi>
+              <En>Describes a text segment, image, or object that has been added into a document or system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6155f684-09a6-400d-bf3d-c886a9251040" type="Verb (past tense/participle)">
+          <Vi>đã chèn</Vi>
+          <En>Past tense and past participle of *insert*, meaning to put something inside or into something else.</En>
+          <Example>She inserted the key into the lock and turned it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6cd7e739-4b8c-44f9-8728-908739d6553e">
+              <Vi>Mô tả hành động đã thực hiện chèn một vật vào một vị trí cụ thể.</Vi>
+              <En>Describes the action of placing an object into a specific location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
