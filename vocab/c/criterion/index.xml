@@ -1,0 +1,40 @@
+<Vocab id="0dd32258-ed5f-4dec-b8bd-7b0481cfffde" word="criterion" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+    <Topic id="01a81ca0-f4cf-4188-a200-9da0412d3ae2" value="Evaluation" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c79c0e10-8c66-4140-8bb4-26425655775f" ipa="/ˈkrɪt.ər.i.ən/" vi_ipa="crít-ê-ri-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="49ca448e-dc56-45f9-a080-2e7236a141d9" type="Noun">
+          <Vi>tiêu chuẩn; điều kiện để đánh giá hoặc quyết định</Vi>
+          <En>a standard or principle used to judge, evaluate, or make decisions</En>
+          <Example>The main criterion for selecting the winner was creativity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f61bb52b-a21b-4ae2-a3d4-93f1cfb4b533">
+              <Vi>Giáo viên sử dụng tiêu chí để chấm bài luận.</Vi>
+              <En>Teachers use criteria to grade essays.</En>
+            </Situation>
+            <Situation id="0df1192a-380b-4391-9385-0c311128258a">
+              <Vi>Các tiêu chí tuyển sinh được công khai trước khi xét tuyển.</Vi>
+              <En>The admission criteria are published before the selection process.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
