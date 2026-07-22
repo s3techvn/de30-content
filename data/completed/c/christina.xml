@@ -1,0 +1,32 @@
+<Vocab id="8899fd95-2554-4c0b-aecd-cca4cabc1bd9" word="christina" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="01dff18f-a503-4398-ab07-ea9f74c254b3" ipa="/krɪˈstɪn.ə/" vi_ipa="cờ-rít-tin-a">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1587724e-364b-4eb8-a5c0-64c7e8c659eb" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng cho nữ (viết hoa: Christina)</Vi>
+          <En>A feminine given name, of Greek origin, meaning "Christian" or "follower of Christ".</En>
+          <Example>Christina Aguilera is a famous American singer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bdcd6530-38e7-443d-8e0c-7942ee9c72a9">
+              <Vi>Dùng để chỉ một người phụ nữ mang tên Christina trong văn nói hoặc văn viết.</Vi>
+              <En>Used to refer to a woman named Christina in speech or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
