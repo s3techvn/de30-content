@@ -1,0 +1,56 @@
+<Vocab id="0c3917e3-dfa9-4e7a-8849-b29c1c3c33dd" word="juvenile" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25f83844-3b5b-4c5f-817b-9cc9e288975e" ipa="/ˈdʒuː.və.naɪl/" vi_ipa="giu-vơ-na-il">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a18434bb-9f0a-4c6c-85ba-2e49685055d8" type="Adjective">
+          <Vi>thiếu niên, vị thành niên; trẻ con, chưa trưởng thành</Vi>
+          <En>relating to, characteristic of, or belonging to young people, especially those below the age of legal adulthood</En>
+          <Example>The school organized a special program for juvenile offenders.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36320ec8-cd00-435e-be16-f2fcf876fdea">
+              <Vi>Mô tả hành vi hoặc đặc điểm của trẻ vị thành niên trong môi trường học đường hoặc pháp lý.</Vi>
+              <En>Describing behavior or traits of adolescents in educational or legal contexts.</En>
+            </Situation>
+            <Situation id="125221ef-2ba2-4fcf-990c-513b57336f33">
+              <Vi>Chỉ sự non nớt, thiếu kinh nghiệm trong suy nghĩ hoặc hành vi.</Vi>
+              <En>Referring to immaturity or lack of experience in thought or behavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d8a9172f-a87e-40c4-aacd-c66dbc9dd8a2" type="Noun">
+          <Vi>thiếu niên (người dưới tuổi trưởng thành)</Vi>
+          <En>a young person, especially one who is not yet an adult</En>
+          <Example>The court appointed a guardian ad litem to represent the juvenile in proceedings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1172571f-98b6-4b7a-a3d7-f92d46f753cd">
+              <Vi>Sử dụng trong ngữ cảnh pháp lý khi nói về người dưới 18 tuổi bị truy tố.</Vi>
+              <En>Used in legal contexts when referring to a person under 18 who is being prosecuted.</En>
+            </Situation>
+            <Situation id="8e102ce9-7146-4b0d-ae29-684d12bc5ca5">
+              <Vi>Chỉ nhóm đối tượng trong các chương trình giáo dục hoặc hỗ trợ xã hội dành cho trẻ em và thanh thiếu niên.</Vi>
+              <En>Refers to the target group in educational or social support programs for minors.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
