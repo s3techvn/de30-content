@@ -1,0 +1,66 @@
+<Vocab id="821b31b4-081a-4f57-ba99-814fa69ba842" word="correct" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7d22ef7d-f4e1-4b05-b96a-e26b657e20db" ipa="/kəˈrekt/" vi_ipa="cờ-rết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f95c3561-eef7-493d-a776-0be400598603" type="Adjective">
+          <Vi>đúng, chính xác</Vi>
+          <En>Free from error; in accordance with fact or truth.</En>
+          <Example>The answer is correct; you solved the problem perfectly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fed3dfcd-e2f5-4b62-9da1-107ecd0f1f76">
+              <Vi>Khi kiểm tra bài làm, giáo viên xác nhận học sinh trả lời đúng.</Vi>
+              <En>When grading a test, the teacher confirms the student's answer is accurate.</En>
+            </Situation>
+            <Situation id="68e8d65b-ee74-437a-8cb6-107c8c8de30e">
+              <Vi>Trong lập trình, một đoạn mã đúng về mặt logic và cú pháp.</Vi>
+              <En>In programming, a code segment that is logically and syntactically correct.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6c72b6ce-f7db-499b-9377-f25e24c2b18c" ipa="/ˈkɔː.rekt/" vi_ipa="cờ-rết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="953e7215-2d8b-49e0-a0fc-fa0802283252" type="Verb">
+          <Vi>sửa, chỉnh sửa cho đúng</Vi>
+          <En>To make something right or accurate by removing errors or flaws.</En>
+          <Example>Please correct the spelling mistakes in this paragraph.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e76d7a64-1144-4d7e-b4c1-7aa38af5f92d">
+              <Vi>Người biên tập sửa lỗi chính tả trong bản thảo.</Vi>
+              <En>The editor corrects spelling errors in the manuscript.</En>
+            </Situation>
+            <Situation id="45c10668-93ba-4c3f-b1f3-2013223a4fc7">
+              <Vi>Học sinh tự sửa bài làm sau khi nhận phản hồi.</Vi>
+              <En>The student corrects their assignment after receiving feedback.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
