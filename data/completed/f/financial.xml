@@ -1,0 +1,41 @@
+<Vocab id="11e6571c-606b-4d6b-9eab-4b0464927f84" word="financial" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="16f7fcb8-0874-4be5-ad53-89dde63d3920" ipa="/faɪˈnæn.ʃəl/" vi_ipa="fai-nan-chờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="76075dd3-6bbd-417e-955d-3027314986d7" type="Adjective">
+          <Vi>thuộc về tài chính, tài chính</Vi>
+          <En>relating to finance, especially the management of money, assets, or liabilities</En>
+          <Example>The company released its quarterly financial report yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6947afa3-0a8f-41b4-b998-9541dce8b320">
+              <Vi>Mô tả các hoạt động liên quan đến tiền bạc, đầu tư, ngân sách.</Vi>
+              <En>Describing activities related to money, investments, and budgeting.</En>
+            </Situation>
+            <Situation id="29062f89-a084-4466-a691-54f77a0cd561">
+              <Vi>Dùng trong bối cảnh báo cáo, phân tích hoặc lập kế hoạch tài chính.</Vi>
+              <En>Used in contexts such as reporting, analysis, or financial planning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

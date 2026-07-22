@@ -1,0 +1,95 @@
+<Vocab id="8d71aba2-dd22-4492-a568-8a9349301101" word="swing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="928c0afd-593f-4208-a708-0bb4da13af5c" value="Golfer" />
+    <Profession id="b90ace89-b507-47cd-b7f4-8321226b8307" value="Baseball Player" />
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5b68a689-4263-405c-8800-76883ee1d64d" ipa="/swɪŋ/" vi_ipa="x-u-ou-ơ-nh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6e1b0f67-e352-4ca0-a18d-623e20763ba9" type="Verb">
+          <Vi>đung đưa, vung (tay/cơ thể), quay vòng</Vi>
+          <En>to move or cause to move back and forth or from side to side in a regular or repeated motion</En>
+          <Example>She swung her arms while walking up the hill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3721e81f-c180-47d1-a189-65c17f197b1e">
+              <Vi>Mô tả chuyển động cơ thể hoặc vật thể qua lại như trên ghế xích đu hoặc khi vung tay.</Vi>
+              <En>Describes the back-and-forth motion of a body part or object, such as on a swing set or while swinging arms.</En>
+            </Situation>
+            <Situation id="b5af26af-41a4-4059-a929-07829335953a">
+              <Vi>Trong thể thao: động tác vung tay/cây vợt/cây gậy để đánh bóng.</Vi>
+              <En>In sports: the motion of swinging an arm, racket, or club to strike a ball.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c0e34832-913b-4eec-a851-f4c9937e8427" type="Noun">
+          <Vi>sự đung đưa, ghế xích đu</Vi>
+          <En>a back-and-forth motion; also, a piece of equipment consisting of a seat suspended by ropes or chains, used for swinging</En>
+          <Example>The children were playing on the swing in the park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3c0c24fb-7dd3-4e6e-b4d6-9b2dbc6e3cc3">
+              <Vi>Trong công viên hoặc sân chơi trẻ em: thiết bị để trẻ em đung đưa.</Vi>
+              <En>In parks or playgrounds: equipment for children to sit on and swing back and forth.</En>
+            </Situation>
+            <Situation id="98b24171-e65a-46b6-ade8-c8463f33e93e">
+              <Vi>Trong âm nhạc: phong cách chơi nhạc jazz với nhịp điệu linh hoạt, nhấn mạnh vào các phách yếu.</Vi>
+              <En>In music: a rhythmic style in jazz where beats are played with a lilting, uneven feel (e.g., swung eighth notes).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="62137960-4798-4af0-8726-c49a630ae568" type="Verb">
+          <Vi>biến động mạnh, thay đổi đột ngột (ý kiến, cảm xúc, v.v.)</Vi>
+          <En>to change suddenly and dramatically, especially in opinion, mood, or behavior</En>
+          <Example>Public opinion swung in favor of the new policy after the presentation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="044e0cfc-98c0-4698-8506-ea5f527bfe23">
+              <Vi>Mô tả sự thay đổi nhanh chóng trong thái độ, cảm xúc, hoặc xu hướng xã hội.</Vi>
+              <En>Describes a rapid shift in attitude, emotion, or social trend.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fde88b98-ac1a-46d6-9bf8-5a0b7b51402a" ipa="/swɪŋ/" vi_ipa="x-u-ou-ơ-nh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e6c823f8-7275-48ef-bdac-17efcc54a3ad" type="Noun">
+          <Vi>phạm vi biến động, mức độ thay đổi (đặc biệt trong chính trị hoặc kinh tế)</Vi>
+          <En>the range or scope within which something can vary or change</En>
+          <Example>The swing in stock prices was wider than expected.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0b43dd7-6bad-43d4-a762-c2f4bd4ddf0d">
+              <Vi>Trong tài chính: mức chênh lệch tăng/giảm của giá cổ phiếu hoặc chỉ số.</Vi>
+              <En>In finance: the magnitude of fluctuation in stock prices or market indices.</En>
+            </Situation>
+            <Situation id="9e123d7c-23fc-40bd-af22-0d7363e484d8">
+              <Vi>Trong chính trị: sự chuyển dịch cử tri hoặc xu hướng bầu cử giữa các đảng phái.</Vi>
+              <En>In politics: the shift in voter sentiment or electoral support between parties.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

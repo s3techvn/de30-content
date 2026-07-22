@@ -629,3 +629,4 @@ unlimited
 protocol
 individual
 flash
+swing
