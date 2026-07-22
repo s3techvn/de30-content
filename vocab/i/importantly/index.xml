@@ -1,0 +1,38 @@
+<Vocab id="065cb712-ac21-40e1-b328-f994c6a9d68c" word="importantly" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4b058fba-2783-4523-9a92-39e8f4064684" ipa="/ɪmˈpɔːr.tən.tli/" vi_ipa="im-pɔː-tơ-nờ-t-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="37e16f7d-dd7c-44d0-afa4-ee5b55880325" type="Adverb">
+          <Vi>quan trọng; một cách quan trọng; đáng chú ý</Vi>
+          <En>in a way that is significant or worthy of attention; used to emphasize a key point or fact</En>
+          <Example>Importantly, the data shows a steady decline in user engagement over the past six months.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d0793a1-110e-482b-983c-1b2d41555ed6">
+              <Vi>Dùng để nhấn mạnh một điểm then chốt trong lập luận hoặc báo cáo.</Vi>
+              <En>Used to highlight a critical point in an argument, report, or presentation.</En>
+            </Situation>
+            <Situation id="cf15237a-ee05-4775-af00-27a8f9c551d0">
+              <Vi>Trong văn viết học thuật hoặc báo chí, để dẫn dắt một phát hiện quan trọng.</Vi>
+              <En>In academic or journalistic writing, to introduce a key finding or observation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
