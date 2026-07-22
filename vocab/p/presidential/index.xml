@@ -1,0 +1,38 @@
+<Vocab id="98d4689a-0a80-411a-bb3d-1140eb357a0b" word="presidential" type="short" status="done">
+  <Topics>
+    <Topic id="8f5c0137-1fa7-47f8-acdf-b3b00be40edc" value="Politics &amp; Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d335a29-2f45-4910-960d-fd62864d6821" ipa="/ˌprez.ɪˈden.ʃəl/" vi_ipa="pờ-rê-dên-xờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bc901e18-09c6-4fda-a279-c4d8ac4a9418" type="Adjective">
+          <Vi>thuộc về tổng thống; do tổng thống làm hoặc tổ chức</Vi>
+          <En>relating to the president, especially of the United States; performed or conducted by the president.</En>
+          <Example>The presidential campaign attracted millions of voters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b5ac883f-a57d-41a8-b1ac-baf8f1139531">
+              <Vi>Mô tả các hoạt động, vị trí, hoặc sự kiện liên quan trực tiếp đến chức vụ tổng thống.</Vi>
+              <En>Describes activities, positions, or events directly related to the office of the president.</En>
+            </Situation>
+            <Situation id="897b1e1e-4069-4777-abd8-82fe4529e04d">
+              <Vi>Dùng trong bối cảnh bầu cử tổng thống hoặc các quyết định hành pháp của tổng thống.</Vi>
+              <En>Used in the context of presidential elections or executive decisions made by the president.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

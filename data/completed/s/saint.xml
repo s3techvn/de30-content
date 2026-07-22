@@ -1,0 +1,37 @@
+<Vocab id="c5cc8bb9-1b07-45d0-b58c-0e1d37392391" word="saint" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="983e4645-2ad8-4a86-b0f8-4ced455c7ce9" ipa="/seɪnt/" vi_ipa="xâynt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0b62a28-9d51-452c-b4ab-b434774bbf5c" type="Noun">
+          <Vi>thánh (người được Giáo hội Công giáo hoặc Chính thống giáo phong thánh vì đức tin và nhân đức xuất sắc)</Vi>
+          <En>a person who is officially recognized by a Christian church as having lived an exceptionally holy life and is worthy of veneration</En>
+          <Example>Saint Francis of Assisi is known for his love of animals and nature.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcf5c0a0-dedb-4f09-bb2d-4943a06fe57c">
+              <Vi>Trong nghi lễ phong thánh của Giáo hội Công giáo, một người được công nhận là thánh sau khi chứng minh có hai phép lạ sau khi qua đời.</Vi>
+              <En>In the Catholic Church’s canonization ceremony, a person is declared a saint after evidence of two miracles attributed to their intercession.</En>
+            </Situation>
+            <Situation id="99bcd0c4-4564-4443-b8d4-8ce2f4173fef">
+              <Vi>Tên một thành phố ở Mỹ (viết hoa như Saint Louis, viết tắt là St. Louis).</Vi>
+              <En>A city name in the U.S. (e.g., Saint Louis, abbreviated as St. Louis).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
