@@ -1,0 +1,56 @@
+<Vocab id="d4958de6-12c3-48bd-96e8-d53b5e8f2911" word="tongue" type="short" status="done">
+  <Topics>
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="e5eea47f-9706-4773-9915-55b81225db2e" value="Speech Therapist" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21d01575-e85a-4008-9d70-b38a5c68ae20" ipa="/tʌŋ/">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b6f4a102-d140-443a-8dbd-14f7183d7c82" type="Noun">
+          <Vi>lưỡi (bộ phận trong miệng)</Vi>
+          <En>The muscular organ in the mouth used for tasting, swallowing, and speaking.</En>
+          <Example>She burned her tongue on the hot soup.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="62155ea5-fbb0-4e10-867a-f6364dde2ef8">
+              <Vi>Mô tả tình huống khi bị bỏng lưỡi do ăn uống quá nóng.</Vi>
+              <En>A situation where someone accidentally burns their tongue while eating or drinking something too hot.</En>
+            </Situation>
+            <Situation id="eb5fb138-ede6-4e35-9ddc-e151b834177b">
+              <Vi>Mô tả khi bác sĩ kiểm tra lưỡi để chẩn đoán bệnh.</Vi>
+              <En>A situation where a doctor examines the tongue as part of a physical examination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="72fb05ac-27a6-4500-aba5-59fa3f421c30" type="Noun">
+          <Vi>ngôn ngữ (dùng trong ngữ cảnh ẩn dụ)</Vi>
+          <En>A particular language or way of speaking; often used in phrases like “mother tongue” or “foreign tongue”.</En>
+          <Example>English is not her mother tongue, but she speaks it fluently.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="540d1914-5759-470d-814a-4e1f460c0f49">
+              <Vi>Mô tả khi nói về tiếng mẹ đẻ hoặc ngôn ngữ chính.</Vi>
+              <En>A situation where someone refers to their native or primary language.</En>
+            </Situation>
+            <Situation id="29803588-8260-47f3-a224-d1795633ee0e">
+              <Vi>Mô tả khi học ngoại ngữ và so sánh với tiếng bản xứ.</Vi>
+              <En>A situation involving learning a foreign language and contrasting it with one’s native tongue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
