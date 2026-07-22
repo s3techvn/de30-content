@@ -1,0 +1,48 @@
+<Vocab id="92e8299e-2ae3-4bcb-a77a-e1fddc84c136" word="douglas" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="0aa381a1-0fa1-4bcc-823b-b40031ccb362" value="Forester" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf028a36-8e65-46f4-934d-28f5e0ac65de" ipa="/ˈduːɡləs/" vi_ipa="đu-g-lơ-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef20ce42-6927-4939-8b6d-3c84d5551312" type="Proper Noun">
+          <Vi>Tên riêng: họ姓 hoặc tên đệm phổ biến ở Scotland và Anh, và cũng là tên gọi của một số địa danh, đặc biệt là ở Mỹ và Canada.</Vi>
+          <En>A surname of Scottish origin, also used as a given name; notably, the name of several places in the United States and Canada.</En>
+          <Example>Mount Douglas is a prominent landmark in Victoria, British Columbia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f78b430c-f37b-4aec-8bbc-c8c7f7f9c17a">
+              <Vi>Dùng khi đề cập đến người có họ hoặc tên Douglas, hoặc khi nói về các địa danh mang tên này.</Vi>
+              <En>Used when referring to people with the surname or given name Douglas, or when naming places such as cities, mountains, or parks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6fe31168-3402-4a08-a992-6dd99acf2140" type="Proper Noun">
+          <Vi>Tên gọi tắt của cây thông Douglas (Douglas fir), một loài cây lá kim phổ biến ở Tây Bắc Thái Bình Dương.</Vi>
+          <En>Short for *Douglas fir*, a coniferous tree native to western North America, widely used in forestry and timber production.</En>
+          <Example>The forest was dominated by towering Douglas trees, their needles carpeting the ground.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa650c44-16ce-4574-9dfe-2d84c82df46d">
+              <Vi>Dùng trong ngữ cảnh sinh học, lâm nghiệp, hoặc khi nói về gỗ xây dựng.</Vi>
+              <En>Used in botanical, forestry, or construction contexts when referring to the tree or its wood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
