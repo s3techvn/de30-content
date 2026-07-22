@@ -1,0 +1,40 @@
+<Vocab id="2a6a7ec6-5b22-4707-99c8-7345878b0add" word="corpus" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="d55b8deb-3820-44b9-9910-05c552d3588c" value="Linguistics" />
+    <Topic id="22a011fe-01a6-4463-840f-30e44c0e6be7" value="Academia" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76edbee6-dd13-440e-bc41-583e66112a7d" ipa="/ˈkɔː.pəs/" vi_ipa="cớ-pờ-sợ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7f0fd6c4-70e6-47fb-a163-5f75e6135f23" type="Noun">
+          <Vi>Cơ thể (trong ngữ cảnh pháp lý hoặc học thuật); tập hợp văn bản, dữ liệu hoặc ví dụ được sưu tầm để nghiên cứu</Vi>
+          <En>A body of law, a collection of texts or data, especially one used for linguistic or legal study</En>
+          <Example>The linguist analyzed the corpus of spoken English to identify evolving slang patterns.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="776dc3c9-8696-4027-96e2-2c4ee0cd8adf">
+              <Vi>Trong nghiên cứu ngôn ngữ, một tập hợp lớn các văn bản viết hoặc lời nói được dùng để phân tích xu hướng sử dụng từ.</Vi>
+              <En>In linguistics, a large collection of written or spoken texts used to analyze language usage trends.</En>
+            </Situation>
+            <Situation id="08422069-e376-410c-8504-1266f079a511">
+              <Vi>Trong pháp luật, toàn bộ hệ thống luật pháp của một quốc gia hoặc khu vực.</Vi>
+              <En>In law, the entire body of statutes, regulations, and case law in a jurisdiction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
