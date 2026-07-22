@@ -1,0 +1,40 @@
+<Vocab id="e32d264f-d213-4f0e-9e45-dcfcdf5b55d0" word="amendment" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="8bddaac3-70cd-427f-95db-d62040e7a310" value="Legislator" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0f04d0ee-0375-47e1-b47f-92be58e14dd5" ipa="/əˈmɛn.dəm.ənt/" vi_ipa="ơ-mên-đờ-mênt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7d29899b-faa2-4607-ba7b-fdb343d4ac28" type="Noun">
+          <Vi>Sửa đổi; bản sửa đổi (đặc biệt trong văn bản pháp lý hoặc hiến pháp)</Vi>
+          <En>A change or addition made to a law, document, or proposal, especially a formal change to a constitution or statute.</En>
+          <Example>The committee approved three amendments to the bill before sending it to the full legislature.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d502308a-f11f-42aa-a6a1-32681a8d52e3">
+              <Vi>Quốc hội thông qua bản sửa đổi Hiến pháp để bảo vệ quyền riêng tư.</Vi>
+              <En>The legislature passed a constitutional amendment to protect privacy rights.</En>
+            </Situation>
+            <Situation id="cdd5e4d1-e5eb-4f13-a61b-2cf8307329e3">
+              <Vi>Luật sư đề xuất một bản sửa đổi để làm rõ điều khoản hợp đồng.</Vi>
+              <En>The lawyer proposed an amendment to clarify the contract clause.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
