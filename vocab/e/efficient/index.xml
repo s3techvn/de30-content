@@ -1,0 +1,40 @@
+<Vocab id="5a479433-e1bb-40c3-924b-bb385adaabc3" word="efficient" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e13f64be-899e-43c7-869d-a9322515a214" ipa="/ɪˈfɪʃ.ənt/" vi_ipa="i-fít-chờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a2975631-dbdc-46c1-8447-3415b31685e0" type="Adjective">
+          <Vi>hiệu quả, hiệu suất cao</Vi>
+          <En>achieving maximum productivity with minimum wasted effort or expense</En>
+          <Example>The new software update made the system significantly more efficient.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f26d6cd-9718-4b35-8034-9dc8822103df">
+              <Vi>Mô tả một quy trình hoặc thiết bị hoạt động tốt, tiết kiệm thời gian và nguồn lực.</Vi>
+              <En>Describing a process or device that operates well, saving time and resources.</En>
+            </Situation>
+            <Situation id="627733a5-540b-429c-99a6-94e10ffccd06">
+              <Vi>Phê bình hoặc khen ngợi cách làm việc của cá nhân/tổ chức.</Vi>
+              <En>Criticizing or praising how an individual or organization works.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
