@@ -1,0 +1,46 @@
+<Vocab id="1837ad34-2c25-41e7-ac28-950b5ce01e9f" word="reprint" type="short" status="done">
+  <Topics>
+    <Topic id="05532446-0078-40b5-835d-ec6c790e0179" value="Publishing" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee22a761-fdcc-40b4-bcc5-4b1549df1a79" ipa="/ˌriːˈprɪnt/" vi_ipa="ri-i-prin-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0831850d-7150-462a-84b6-d2b176e201d4" type="Verb">
+          <Vi>in lại, tái bản (sách, báo...)</Vi>
+          <En>to print again, especially a book or newspaper after the first edition has sold out</En>
+          <Example>The publisher decided to reprint the bestseller due to high demand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d4111c3-7477-4b9e-816d-1ade2cea0cf3">
+              <Vi>Ấn bản ban đầu đã bán hết, nhà xuất bản quyết định in thêm.</Vi>
+              <En>The initial print run sold out, so the publisher decided to print more copies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3143f7e6-aca8-4190-a32f-fe23c493ea9b" type="Noun">
+          <Vi>bản in lại, bản tái bản</Vi>
+          <En>a copy of a book, newspaper, or other printed material that has been printed again after the first edition</En>
+          <Example>This is a later reprint of the 1950s classic, with a new introduction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47014bdb-73eb-40cf-b9c9-421dc34d552d">
+              <Vi>Tôi mua một bản in lại có bìa mới của cuốn tiểu thuyết cũ.</Vi>
+              <En>I bought a new-cover reprint of the old novel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

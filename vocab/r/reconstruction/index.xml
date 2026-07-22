@@ -1,0 +1,53 @@
+<Vocab id="063b7207-c273-445f-aa46-99ebaf59b060" word="reconstruction" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2f362db8-e4b7-4e1d-beea-415acd0188ec" ipa="/ˌriː.kənˈstrʌk.ʃən/" vi_ipa="ri-hi-đờ-kơn-trác-ti-ôn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d746e091-1d2b-4ae9-960e-74297edf313d" type="Noun">
+          <Vi>Sự tái thiết; sự phục chế</Vi>
+          <En>The act of rebuilding something, especially after damage or destruction, or the process of reconstructing a historical event or condition based on available evidence.</En>
+          <Example>The city underwent a full reconstruction after the war destroyed most of its infrastructure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43421414-2750-491f-ad4c-d1217a34d023">
+              <Vi>Sau thiên tai hoặc chiến tranh, người ta xây dựng lại các công trình bị phá hủy.</Vi>
+              <En>After a natural disaster or war, damaged buildings and infrastructure are rebuilt.</En>
+            </Situation>
+            <Situation id="8de39fd1-1848-44fe-80e9-e379d95de628">
+              <Vi>Lịch sử gia tái tạo lại bối cảnh lịch sử dựa trên tư liệu và khảo cổ.</Vi>
+              <En>Historians recreate past events or settings using historical documents and archaeological findings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="47d0e5b1-84c8-46a5-93e5-5d71e63e75ab" type="Noun">
+          <Vi>Bản tái thiết; bản phục chế</Vi>
+          <En>A model, plan, or representation of something that has been rebuilt or restored, especially in archaeology or architecture.</En>
+          <Example>The museum displayed a scale reconstruction of the ancient temple based on excavated foundations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="179a7f6c-773a-4bb5-b68e-724faa13bfca">
+              <Vi>Bản sao kiến trúc cổ được dựng lại từ các mảnh ghép khảo cổ.</Vi>
+              <En>A scaled model of an ancient structure built from archaeological fragments and records.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

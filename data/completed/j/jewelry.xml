@@ -1,0 +1,40 @@
+<Vocab id="ecbefa97-c59d-44db-96da-d51f6f0b33e1" word="jewelry" type="short" status="done">
+  <Topics>
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+    <Topic id="35cfcb6a-1393-4163-989c-5f9aef59c473" value="Personal Accessories" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3cbbf45b-3185-46e8-bc36-4a815b26ff22" ipa="/ˈdʒuː.əl.ri/" vi_ipa="giu-ơ-lơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dacdd5d2-8e0f-47bb-b42f-4291047ecdac" type="Noun">
+          <Vi>trang sức</Vi>
+          <En>Decorative items made from precious metals and gemstones, such as necklaces, rings, and bracelets, worn for personal adornment.</En>
+          <Example>She inherited her grandmother’s antique jewelry collection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6efd5f89-4eaa-43ad-88b2-8da347038ddc">
+              <Vi>Mua hoặc trưng bày đồ trang sức quý giá trong cửa hàng hoặc bảo tàng.</Vi>
+              <En>Browsing or purchasing valuable jewelry in a store or museum.</En>
+            </Situation>
+            <Situation id="4bac892c-6ece-4780-8d5b-b640ba012d83">
+              <Vi>Trang trí cơ thể bằng vòng cổ, nhẫn, hoặc bông tai làm từ vàng, bạc, hoặc đá quý.</Vi>
+              <En>Adorning the body with necklaces, rings, or earrings made of gold, silver, or gemstones.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
