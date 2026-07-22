@@ -1,0 +1,38 @@
+<Vocab id="64d9d0d3-3393-44db-aadd-7b046f1b83be" word="seventh" type="short" status="done">
+  <Topics>
+    <Topic id="4b28a772-7a0b-47d3-a9d8-64a01d1bed3e" value="Numbers and Order" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2ffe8409-524d-4454-b35a-23f99d32c701" ipa="/ˈsev.ənθ/" vi_ipa="xê-vơn-th">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7ef756da-3d76-4cc3-9b84-a32208121ee4" type="Adjective">
+          <Vi>thứ bảy; thứ bảy trong tuần; phần thứ bảy</Vi>
+          <En>coming after the sixth and before the eighth in a sequence; ordinal number 7</En>
+          <Example>She finished in seventh place in the race.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f488187e-5123-43d9-8bca-90e7b72d8dce">
+              <Vi>Chỉ vị trí trong một danh sách hoặc chuỗi thứ tự.</Vi>
+              <En>Indicates position in an ordered list or sequence.</En>
+            </Situation>
+            <Situation id="fd970da4-021c-4916-ae11-5444f7616d54">
+              <Vi>Trong âm nhạc, chỉ bậc bảy của thang âm (ví dụ: seventh chord).</Vi>
+              <En>In music, refers to the seventh degree of a scale (e.g., a dominant seventh chord).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
