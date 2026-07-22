@@ -1,0 +1,34 @@
+<Vocab id="72522eed-81c8-49d5-b744-0774e738677e" word="sympathy" type="short" status="done">
+  <Topics>
+    <Topic id="27e77086-44ea-4a70-bfd7-1cc9fe60f3d6" value="Emotions and Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5591362d-8e4a-491f-9699-5238242df12b" ipa="/ˈsɪm.pə.θi/" vi_ipa="xim-pơ-thi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2c3464a7-21e9-4b78-941d-55b195687001" type="Noun">
+          <Vi>Sự đồng cảm; sự thông cảm</Vi>
+          <En>The ability to understand and share the feelings of another person, especially during difficult times.</En>
+          <Example>She expressed her sympathy for the victims of the earthquake by donating to relief efforts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad2bdac7-98e4-4a97-91e6-066e460e621c">
+              <Vi>Thể hiện sự thấu hiểu và chia sẻ nỗi đau với người khác khi họ gặp khó khăn.</Vi>
+              <En>Expressing understanding and emotional support for someone experiencing hardship or loss.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
