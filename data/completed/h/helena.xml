@@ -1,0 +1,36 @@
+<Vocab id="a70bad40-4032-4de1-beef-fc02eccbd555" word="helena" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="63e22b81-c0c0-4487-b423-e9155adcbf3d" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="68c7b57a-50ae-4b0d-ac6e-6bf0133a8abd" ipa="/həˈliː.nə/" vi_ipa="hơ-lì-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="828b64be-4126-4809-a4e3-05575b018df1" type="Proper Noun">
+          <Vi>Tên riêng, thường là tên nữ (Helena)</Vi>
+          <En>A female given name of Greek origin, meaning "light" or "shining one"; also the name of a city in Montana, USA.</En>
+          <Example>Helena is a beautiful and historic city nestled in the mountains of Montana.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14706464-ca48-411b-849f-c3b86df5fe88">
+              <Vi>Dùng để chỉ một người phụ nữ mang tên Helena.</Vi>
+              <En>Used to refer to a woman named Helena.</En>
+            </Situation>
+            <Situation id="5f59da10-34e1-47e3-b0f3-b970033dd086">
+              <Vi>Dùng để chỉ thành phố Helena, thủ phủ của bang Montana, Hoa Kỳ.</Vi>
+              <En>Used to refer to Helena, the capital city of Montana, USA.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

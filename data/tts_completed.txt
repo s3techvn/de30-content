@@ -695,3 +695,4 @@ priority
 lap
 frequent
 spent
+immediately
