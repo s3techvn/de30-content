@@ -394,4 +394,5 @@
   <Profession id="9e9b8b08-b33d-4fc9-9af3-459a0f0d90c5" slug="factory-worker" value="Factory Worker" />
   <Profession id="13429d22-ee85-4e8e-ad1a-818aec310274" slug="truck-driver" value="Truck Driver" />
   <Profession id="d9d75918-750e-4777-9417-6bf1484c6afa" slug="makeup-artist" value="Makeup Artist" />
+  <Profession id="30c413e4-1035-4086-92a4-e31472d5b4c6" slug="childcare-worker" value="Childcare Worker" />
 </Professions>
