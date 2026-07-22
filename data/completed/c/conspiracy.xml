@@ -1,0 +1,57 @@
+<Vocab id="cf862876-6a27-4f0e-98ab-12bd3b52794b" word="conspiracy" type="short" status="done">
+  <Topics>
+    <Topic id="d49c8ef2-6d63-4197-86e3-3a2d47aca529" value="Law &amp; Crime" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae2e7ecc-e6f3-42e7-b5a6-61051f4a4cf4" ipa="/kənˈspɪr.ə.si/" vi_ipa="cơn-pi-xờ-rơ-si">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0323889-8547-4010-a239-35559bbaac1c" type="Noun">
+          <Vi>âm mưu; sự thông đồng để làm điều trái pháp luật hoặc gây hại</Vi>
+          <En>A secret plan by a group to do something unlawful or harmful.</En>
+          <Example>The FBI uncovered a conspiracy to sabotage the election infrastructure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a32c7a30-22a1-4a72-adca-ba9dd4b0ac7f">
+              <Vi>Một nhóm người bí mật lập kế hoạch lật đổ chính quyền.</Vi>
+              <En>A group of people secretly plotting to overthrow the government.</En>
+            </Situation>
+            <Situation id="1747aa43-3914-402f-8fdf-1abad3959932">
+              <Vi>Các bị cáo bị kết án vì tham gia vào âm mưu buôn lậu ma túy.</Vi>
+              <En>The defendants were convicted for participating in a drug trafficking conspiracy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="07e535db-234b-4eb6-bfea-ea8d54c4d43c" type="Noun">
+          <Vi>sự thông đồng, liên kết (để đạt mục đích bất hợp pháp)</Vi>
+          <En>The act of conspiring together; a mutual agreement between two or more persons to do an unlawful act.</En>
+          <Example>She was charged with conspiracy to commit fraud.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36c805c7-3778-44dc-b8fb-1784c96cc9a2">
+              <Vi>Luật hình sự thường truy tố cả những hành vi chuẩn bị chưa thực hiện, nếu có âm mưu rõ ràng.</Vi>
+              <En>Criminal law often prosecutes preparatory acts if a clear conspiracy is proven.</En>
+            </Situation>
+            <Situation id="b3ee280e-10f0-45e1-89f5-ed27d0eaf9dd">
+              <Vi>Bản cáo trạng nêu rõ nhiều bằng chứng về âm mưu giữa các bị cáo.</Vi>
+              <En>The indictment laid out substantial evidence of the defendants’ conspiracy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
