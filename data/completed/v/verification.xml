@@ -1,0 +1,40 @@
+<Vocab id="9447fb30-dc0f-4863-8960-807b92d9416b" word="verification" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="ac82ebcc-c5d5-45e4-a004-b8e3653b9a2b" value="Auditor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4ca6335e-dfc3-4826-8a92-31e1605bbceb" ipa="/ˌver.ə.fəˈkeɪ.ʃən/" vi_ipa="vờ-rờ-phi-cai-xi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="093c898d-9abe-40b8-9038-bca6ee079ddf" type="Noun">
+          <Vi>Quá trình xác minh hoặc xác nhận tính đúng đắn, hợp lệ hoặc chính xác của điều gì đó</Vi>
+          <En>The act of confirming or establishing the truth, accuracy, or validity of something</En>
+          <Example>Before submitting the form, please complete the email verification step.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d270fee1-676e-4dd9-829a-2fac53d6259b">
+              <Vi>Xác minh danh tính người dùng qua email hoặc SMS</Vi>
+              <En>Confirming a user’s identity via email or SMS code</En>
+            </Situation>
+            <Situation id="090133fc-2621-4234-b13e-d3a9d799f875">
+              <Vi>Quá trình kiểm tra tính hợp lệ của một giao dịch tài chính</Vi>
+              <En>The process of checking the validity of a financial transaction</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

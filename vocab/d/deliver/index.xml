@@ -1,0 +1,84 @@
+<Vocab id="a4aa9d54-5e6a-4584-8be4-eeb8da9c225b" word="deliver" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="641fb810-6946-453d-bd23-e1a7bd607977" value="Courier" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="51bf1cbb-23ef-43d5-b85d-2396eed8dfe9" ipa="/dɪˈlɪv.ɚ/" vi_ipa="đi-líp-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0a72fad1-df16-4043-a357-4ef68dcc90fc" type="Verb">
+          <Vi>Giao, chuyển (hàng hóa, thư tín, v.v.) đến người nhận</Vi>
+          <En>To bring and hand over (goods, letters, etc.) to a recipient, typically as part of a service.</En>
+          <Example>The courier will deliver the package to your door within two hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4039fdcf-431d-4ddf-a5af-ceb8fd7b3592">
+              <Vi>Người giao hàng mang đơn hàng đã đặt online đến nhà khách hàng.</Vi>
+              <En>A delivery person brings an online-ordered item to a customer’s home.</En>
+            </Situation>
+            <Situation id="48aefeef-6530-49a3-b44a-853f9a90189a">
+              <Vi>Nhân viên bưu điện giao thư và bưu phẩm đến địa chỉ cụ thể.</Vi>
+              <En>A postal worker delivers letters and mail to specific addresses.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d8467a11-4636-46ba-86e3-9fad256c133e" type="Verb">
+          <Vi>Trình bày, phát biểu (bài nói, bài phát biểu, v.v.)</Vi>
+          <En>To present or utter (a speech, statement, etc.), especially formally or publicly.</En>
+          <Example>The CEO will deliver a keynote address at the annual conference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f178387d-a127-4ee4-942a-d7b588ef7f47">
+              <Vi>Giảng viên trình bày bài giảng trước lớp.</Vi>
+              <En>The lecturer delivers a lecture to the students.</En>
+            </Situation>
+            <Situation id="7c9adc79-e3d9-4268-9aeb-8608de181425">
+              <Vi>Chính trị gia phát biểu trước cử tri trong chiến dịch tranh cử.</Vi>
+              <En>The politician delivers a speech to voters during a campaign.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5431da6f-61d4-49f5-b7f6-dcec1e199df8" type="Verb">
+          <Vi>Đưa ra, cung cấp (thông tin, bằng chứng, v.v.)</Vi>
+          <En>To provide or supply (information, evidence, etc.), especially when needed or requested.</En>
+          <Example>The witness refused to deliver testimony under oath.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fdb2c19-ce68-47d7-b6f7-d71d6f2b98fe">
+              <Vi>Luật sư yêu cầu nhân chứng đưa ra bằng chứng trong phiên tòa.</Vi>
+              <En>The lawyer asks the witness to deliver evidence in court.</En>
+            </Situation>
+            <Situation id="b3fddee3-1961-466c-8cf4-eb34f4aa7b29">
+              <Vi>Người dùng hệ thống báo cáo sự cố và cung cấp thông tin chi tiết.</Vi>
+              <En>The user reports an issue and delivers detailed information to support staff.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="42f9fff1-0fee-4db2-8c20-9b5191af1d36" type="Verb">
+          <Vi>Đẻ (trẻ em), sinh (con)</Vi>
+          <En>To give birth to a baby.</En>
+          <Example>The doctor helped deliver the baby safely.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="35b05999-8e8a-4ff3-8f9b-d1613513767c">
+              <Vi>Bác sĩ hỗ trợ sản phụ trong quá trình sinh con.</Vi>
+              <En>The doctor assists the mother during childbirth and helps deliver the baby.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
