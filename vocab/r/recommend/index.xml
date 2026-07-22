@@ -1,0 +1,40 @@
+<Vocab id="66947f51-3a05-4ab9-b51f-203da315411c" word="recommend" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63a7054d-4d11-44e5-a9dc-2a2b1ff86338" ipa="/ˈrek.əm.end/" vi_ipa="rít-kờ-mên-đ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="388fe0ce-09c5-4c8b-b234-7b906bab5179" type="Verb">
+          <Vi>đề xuất, giới thiệu (ai/cái gì tốt)</Vi>
+          <En>to suggest or advise someone to do something, especially because it is suitable or beneficial</En>
+          <Example>I recommend this restaurant—it has excellent service and fresh ingredients.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1f0c6247-599d-4cff-b775-73804e05540d">
+              <Vi>Chỉ ra một lựa chọn tốt cho người khác dựa trên kinh nghiệm hoặc kiến thức.</Vi>
+              <En>Pointing out a good option to someone based on experience or knowledge.</En>
+            </Situation>
+            <Situation id="5abf8065-9792-4fb0-9bf7-e6c84a48d443">
+              <Vi>Đưa ra lời khuyên chính thức trong môi trường làm việc hoặc học tập.</Vi>
+              <En>Giving formal advice in a workplace or academic setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
