@@ -349,4 +349,7 @@
   <Profession id="ee6c3918-377d-4f12-b8cd-982e3a605e2b" slug="waiter/waitress" value="Waiter/Waitress" />
   <Profession id="bbba1071-c04b-477a-ab8b-5e306a042793" slug="bowling-coach" value="Bowling Coach" />
   <Profession id="7e9f2f8b-b026-49c7-9351-33ec17c9a557" slug="small-business-owner" value="Small Business Owner" />
+  <Profession id="ec07a7d1-768d-425f-b10e-b9f86222f57c" slug="compliance-officer" value="Compliance Officer" />
+  <Profession id="fb4c6b29-7f93-426d-9cba-5c2cdac93dbf" slug="legal-counsel" value="Legal Counsel" />
+  <Profession id="bb9daf26-d41c-485a-a1d6-7acd75eebe45" slug="healthcare-administrator" value="Healthcare Administrator" />
 </Professions>
