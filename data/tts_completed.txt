@@ -708,3 +708,4 @@ investor
 criterion
 pike
 riverside
+affected

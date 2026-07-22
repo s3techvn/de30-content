@@ -1,0 +1,40 @@
+<Vocab id="34e009f9-aba2-48ae-9168-afdf34662f05" word="affected" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="422dd397-b398-460c-8122-18e3d9f93e3f" ipa="/əˈfɛk.tɪd/" vi_ipa="ơ-phết-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d7fb28d-1b74-4a59-9af4-030929ecfe31" type="Adjective">
+          <Vi>bị ảnh hưởng; bị tác động; có biểu hiện giả tạo</Vi>
+          <En>Experiencing the effects of something; influenced or changed by a particular situation or condition; also, behaving in a way that is artificial or pretentious.</En>
+          <Example>Children who are affected by parental divorce often struggle with emotional regulation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="120837f2-0ba9-41bf-8bae-83d376f277df">
+              <Vi>Mô tả người hoặc vật chịu tác động tiêu cực từ một sự kiện hoặc điều kiện.</Vi>
+              <En>Describing a person or thing experiencing negative or significant impact from an event or condition.</En>
+            </Situation>
+            <Situation id="7113ff1c-58ba-4625-978d-084f740059c0">
+              <Vi>Mô tả cách hành xử giả tạo, cố ý gây ấn tượng.</Vi>
+              <En>Describing artificial or pretentious behavior intended to impress others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
