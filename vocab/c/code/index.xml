@@ -1,0 +1,69 @@
+<Vocab id="95628901-612e-4545-b496-c7212c33eb76" word="code" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="4df1030a-7106-465c-82be-482fe933b4c8" value="Law &amp; Security" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="2f4f9ade-392a-4131-b575-39ebe1638521" value="Cryptographer" />
+    <Profession id="b012a32f-5e17-4ba5-87fc-59166c3d0c61" value="Military Intelligence Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="73f52d76-c1f4-4d82-ad38-820dc354b9fc" ipa="/koʊd/" vi_ipa="cô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2efef6b-5ddb-419b-aa4e-920ce79f41d8" type="Noun">
+          <Vi>Mã; mã hóa; mật mã</Vi>
+          <En>A system of words, letters, figures, or other symbols substituted for other words, letters, etc., especially for the purposes of secrecy or brevity.</En>
+          <Example>The programmer wrote a script to decode the encrypted message.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f42eeb96-72d6-4697-a520-821864cbc11e">
+              <Vi>Trong lập trình, mã là tập hợp các chỉ thị mà máy tính thực thi.</Vi>
+              <En>In programming, code refers to the instructions written by a developer for a computer to execute.</En>
+            </Situation>
+            <Situation id="ed530924-3741-4524-8e60-7dd36cf24c91">
+              <Vi>Trong giao tiếp mật, mã là hệ thống ký hiệu dùng để bảo mật thông tin.</Vi>
+              <En>In secret communication, code is a system of symbols used to conceal the meaning of a message.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="73996db4-8e24-4e5a-88bf-22226ad2e80f" type="Verb">
+          <Vi>Mã hóa; lập trình; viết mã</Vi>
+          <En>To convert (information or a message) into a coded form; to write computer programs.</En>
+          <Example>She spent the afternoon coding a new feature for the app.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="76b34321-78f7-49c9-9193-8cd6b319aba6">
+              <Vi>Chuyển đổi dữ liệu sang dạng mã để bảo mật.</Vi>
+              <En>To transform data into a coded format for security purposes.</En>
+            </Situation>
+            <Situation id="8caafeff-4bfb-435b-ac7c-7cb64b95f8e1">
+              <Vi>Viết mã nguồn để tạo phần mềm.</Vi>
+              <En>To write source code to develop software applications.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="60dffe11-c545-4210-9221-136593c307ac" type="Noun">
+          <Vi>Mã số; mã vùng; mã bưu điện</Vi>
+          <En>A set of numbers or letters used to identify a place, product, or person, especially for sorting or tracking.</En>
+          <Example>The ZIP code for New York City begins with 100.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="afa58408-fad4-4869-897b-3fb2aa72bcd6">
+              <Vi>Khi gửi thư, người ta cần nhập mã bưu điện để định vị địa điểm.</Vi>
+              <En>When mailing a letter, one must enter the postal code to identify the destination region.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

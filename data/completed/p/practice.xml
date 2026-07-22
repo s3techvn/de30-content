@@ -1,0 +1,79 @@
+<Vocab id="c1f96131-15b0-4b21-9fe9-35d25863ca66" word="practice" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="261f20d7-a7eb-442e-a84b-553ff8c6d53b" ipa="/ˈpræktɪs/" vi_ipa="prắc-tíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1343e9c3-a527-4417-80e7-145d39cf2c5f" type="Verb">
+          <Vi>luyện tập, thực hành</Vi>
+          <En>To do or engage in an activity repeatedly or regularly to improve skill or proficiency.</En>
+          <Example>She practices piano for an hour every day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="050db73b-9d72-462b-aa67-3dfc7b807e9e">
+              <Vi>Học sinh luyện tập giải toán mỗi ngày để chuẩn bị thi.</Vi>
+              <En>A student practices solving math problems daily to prepare for the exam.</En>
+            </Situation>
+            <Situation id="da9f534b-347a-4bcd-84ba-01acada5496c">
+              <Vi>Nhạc sĩ luyện tập bản nhạc trước khi biểu diễn.</Vi>
+              <En>The musician practices the piece before the performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7784b365-da34-4f41-ad75-4b4fdb818865" type="Noun">
+          <Vi>sự luyện tập, sự thực hành</Vi>
+          <En>The action of doing something repeatedly to improve or maintain skill; also, the usual or customary way of doing something.</En>
+          <Example>Regular practice is essential for mastering a musical instrument.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f108ab35-f4d1-424a-857b-3766fcc837ef">
+              <Vi>Các bác sĩ tham gia buổi thực hành y khoa hàng tuần.</Vi>
+              <En>Doctors attend weekly clinical practice sessions.</En>
+            </Situation>
+            <Situation id="e35b154b-28fb-4a43-bad9-7d82deaf11cc">
+              <Vi>Thói quen thực hành trong pháp luật: "practice of law".</Vi>
+              <En>The professional activity of giving legal advice and representing clients in court.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="735af455-2a10-4a3d-8bf5-e38d3769d359" ipa="/prəˈtɪs/" vi_ipa="prơ-tíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72b8e084-c383-4386-b462-7d1c2581c9e8" type="Verb">
+          <Vi>thực hành (động từ, ít dùng, thường trong văn phong trang trọng hoặc cổ)</Vi>
+          <En>To carry out or perform (a duty, ceremony, or ritual), especially in a formal or ritualistic context.</En>
+          <Example>The priest practiced ancient rites with solemn reverence.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="2f4973b8-45ac-4cb2-b05f-e89c10cef6d8">
+              <Vi>Các thầy tu thực hành nghi lễ cổ xưa.</Vi>
+              <En>Monks practice ancient rituals during religious ceremonies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
