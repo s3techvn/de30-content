@@ -1,0 +1,39 @@
+<Vocab id="0c66b716-09bf-4921-82da-b13e028df358" word="polished" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+    <Topic id="0d662cea-65d4-4b56-b437-a422727d94f5" value="Professionalism" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="6b269086-076a-4ff2-9347-9f3236eab2bc" value="Sales Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f9af37a7-0a21-4850-8153-5059bbc69da8" ipa="/ˈpɑː.lɪʃt/" vi_ipa="pô-lít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="75613445-27d0-46c2-98c0-31f3e3d4d871" type="Adjective">
+          <Vi>được đánh bóng, bóng bẩy, trau chuốt kỹ lưỡng</Vi>
+          <En>having a smooth, shiny surface; also, refined, elegant, or well-rehearsed in manner or delivery</En>
+          <Example>The actor gave a polished performance, delivering every line with confidence and grace.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47abac53-f09e-4dfc-906f-8765f5be1d76">
+              <Vi>Mô tả bề mặt vật liệu được đánh bóng sáng bóng (gỗ, kim loại).</Vi>
+              <En>Describing a smooth, shiny surface on materials like wood or metal.</En>
+            </Situation>
+            <Situation id="0db055b2-b0db-4e1a-afd4-7e47aa7c1ab7">
+              <Vi>Mô tả cách nói chuyện, trình bày, hoặc biểu diễn chuyên nghiệp, trau chuốt, không vấp váp.</Vi>
+              <En>Describing speech, presentation, or performance that is refined, fluent, and well-rehearsed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
