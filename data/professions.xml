@@ -304,4 +304,6 @@
   <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" slug="hydrologist" value="Hydrologist" />
   <Profession id="f138862a-dfb8-4ace-b22c-d2acc68cee16" slug="software-developer-(voip)" value="Software Developer (VoIP)" />
   <Profession id="21067ef1-89f5-4f1f-ab61-47dbc3bf0dc5" slug="business-strategist" value="Business Strategist" />
+  <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" slug="fisherman" value="Fisherman" />
+  <Profession id="2bc61616-fa9d-4521-9995-6b174195cce5" slug="boat-captain" value="Boat Captain" />
 </Professions>

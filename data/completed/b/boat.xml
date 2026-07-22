@@ -1,0 +1,52 @@
+<Vocab id="5f47414a-1a69-4e78-8491-33a960f95849" word="boat" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="00f113b8-1700-4b3a-bbf4-b2b97815a22c" value="Leisure" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="2bc61616-fa9d-4521-9995-6b174195cce5" value="Boat Captain" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9841729d-fd14-4a94-b67e-02f3ba9795d3" ipa="/boʊt/" vi_ipa="bốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40c99d0f-f9ee-452c-88bd-22dfdfc4c8cf" type="Noun">
+          <Vi>thuyền (nhỏ, thường dùng trên sông, hồ, biển gần bờ)</Vi>
+          <En>a small vessel for travel or transport on water, typically powered by oars, sail, or a small engine</En>
+          <Example>We rented a small boat to explore the calm lake at sunrise.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7ad0066-154e-4ff9-9430-e9d4d1c3a523">
+              <Vi>Người dân địa phương dùng thuyền nhỏ để đánh cá gần bờ.</Vi>
+              <En>Local people use small boats for fishing near the shore.</En>
+            </Situation>
+            <Situation id="3f409f9e-8f64-465a-803c-6185d518ac0a">
+              <Vi>Du khách đi thuyền dọc theo bờ biển để ngắm cảnh.</Vi>
+              <En>Tourists take a boat ride along the coastline to enjoy the scenery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="15326c43-571b-4464-b816-cdc8e35bf3a2" type="Verb">
+          <Vi>chở bằng thuyền; đưa bằng thuyền</Vi>
+          <En>to transport people or goods in a boat</En>
+          <Example>The ferry will boat passengers to the island every hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cfe14e1d-552b-47d2-b33b-8800ee316c76">
+              <Vi>Hệ thống giao thông thủy boat hành khách từ cảng này sang cảng khác.</Vi>
+              <En>The water transport system boats passengers from one pier to another.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
