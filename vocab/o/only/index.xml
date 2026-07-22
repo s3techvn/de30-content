@@ -1,0 +1,44 @@
+<Vocab id="e4e38c89-3816-49c1-b7c1-9d67f84610ef" word="only" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6fd39002-cf48-49cf-8f5d-06b2a6fd60d3" ipa="/ˈoʊn.li/" vi_ipa="ân-lì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0708e357-9038-4703-80c9-a0ce8b9de917" type="Adjective">
+          <Vi>duy nhất, chỉ</Vi>
+          <En>being the single one or the only one of its kind; not one of many</En>
+          <Example>She is the only person who knows the password.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2f29775-bcb6-4d57-9a56-f6414e794ae0">
+              <Vi>Dùng để nhấn mạnh rằng không có ai hay cái gì khác ngoài đối tượng được đề cập.</Vi>
+              <En>Used to emphasize that no one or nothing else exists or is involved.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="73a6b13a-b55b-461e-87b1-d14c65731076" type="Adverb">
+          <Vi>chỉ, chỉ mới, mới chỉ</Vi>
+          <En>used to emphasize that something is the case to the exclusion of all else; merely</En>
+          <Example>I only wanted to help.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43dd4fec-53c5-4a94-ae2b-268281f4efb5">
+              <Vi>Dùng để giới hạn phạm vi hoặc mức độ của một hành động hoặc trạng thái.</Vi>
+              <En>Used to limit the scope or degree of an action or state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

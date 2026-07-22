@@ -1,0 +1,46 @@
+<Vocab id="5454afad-9bdd-4e14-91d5-3e42a1048208" word="alto" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="2ee20587-fc87-40e4-8c98-9a1d256c381b" value="Choral Conductor" />
+    <Profession id="23ea97bc-0ad9-4992-9b4a-91eba915388e" value="Music Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2329e2c1-d65e-4cef-bdc5-205a22c376c9" ipa="/ˈæl.toʊ/" vi_ipa="an-tô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b3cd044a-8890-4ec1-8d23-13d4612da0c8" type="Noun">
+          <Vi>giọng nam cao</Vi>
+          <En>The vocal range between bass and tenor, typically sung by men with a voice similar to that of a female contralto but lower in pitch.</En>
+          <Example>The choir needed an alto to balance the vocal parts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cd1b4b09-ba8a-4340-a83d-1b2fd7fb2988">
+              <Vi>Mô tả giọng hát nam cao trong dàn hợp xướng hoặc nhạc kịch.</Vi>
+              <En>Referring to a male singer who sings in the alto range, often in choral or operatic settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="355080f4-302e-437d-8c39-4e95fabe31f2" type="Noun">
+          <Vi>nhạc cụ alto (thường chỉ đàn violin alto, hay đàn viola)</Vi>
+          <En>A musical instrument in the alto range, most commonly referring to the viola, especially in orchestral or chamber music contexts.</En>
+          <Example>She switched from violin to alto to better fit the string quartet’s texture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad650067-2099-4f50-8179-27e3819cbec4">
+              <Vi>Sử dụng trong ngữ cảnh nhạc cụ, đặc biệt là dàn nhạc giao hưởng.</Vi>
+              <En>Used when specifying the instrument (e.g., viola) in an ensemble where voice or instrument ranges are categorized as soprano, alto, tenor, bass.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

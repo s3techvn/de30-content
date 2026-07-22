@@ -437,4 +437,6 @@
   <Profession id="e5eea47f-9706-4773-9915-55b81225db2e" slug="speech-therapist" value="Speech Therapist" />
   <Profession id="7864b3c6-3c49-44e0-8c57-0953a3c1ad16" slug="costume-maker" value="Costume Maker" />
   <Profession id="362fa879-4377-4ffb-94e6-ab7cf8dc74f5" slug="public-relations-officer" value="Public Relations Officer" />
+  <Profession id="2ee20587-fc87-40e4-8c98-9a1d256c381b" slug="choral-conductor" value="Choral Conductor" />
+  <Profession id="23ea97bc-0ad9-4992-9b4a-91eba915388e" slug="music-educator" value="Music Educator" />
 </Professions>
