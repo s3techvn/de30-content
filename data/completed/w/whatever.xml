@@ -1,0 +1,58 @@
+<Vocab id="befd9ae7-cbd4-4af9-a6b8-1bbaf8fc123d" word="whatever" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ae4a2e2-f9a8-4d1a-a6ee-e722531374f5" ipa="/ˈwʌt.ɛ.vɚ/" vi_ipa="đờ-đờ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2134804-91a6-4aa9-b889-746f47be831c" type="Pronoun">
+          <Vi>bất cứ cái gì; bất kỳ điều gì</Vi>
+          <En>anything that; no matter what</En>
+          <Example>You can eat whatever you like.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd9b8b52-7491-46ed-b806-7638badbebb2">
+              <Vi>Trong tình huống cho phép lựa chọn tùy ý, không hạn chế.</Vi>
+              <En>Used when offering or accepting a free choice without restriction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2c4b7088-a309-42a5-9fc2-f86afad3ee10" type="Conjunction">
+          <Vi>bất kể điều gì; dù điều gì xảy ra</Vi>
+          <En>no matter what; regardless of what</En>
+          <Example>Whatever happens, I’ll support you.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cb141eeb-70bb-4ff1-b0d7-0e6fb4b4fe81">
+              <Vi>Trong câu thể hiện sự cam kết bất chấp kết quả.</Vi>
+              <En>Used to express unwavering support or commitment regardless of outcome.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b4883315-9f0a-4ca5-ba75-804d118fba9e" type="Adjective">
+          <Vi>ba hoa, không quan trọng; bất kỳ… nào</Vi>
+          <En>of no importance; any… at all</En>
+          <Example>He’s whatever you say he is.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6faac1c5-57e8-4ed3-865c-d2f9b1665a2f">
+              <Vi>Trong tình huống thể hiện sự nhượng bộ hoặc thiếu quan tâm.</Vi>
+              <En>Used to concede a point or indicate indifference.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

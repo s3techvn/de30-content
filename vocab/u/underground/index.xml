@@ -1,0 +1,66 @@
+<Vocab id="570addb5-d00c-4d1a-83c2-6fc7fcf15b40" word="underground" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="13224e58-e6a4-48bb-b8a8-86854d94131f" value="Urban Life" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2da73c17-977c-4f02-9f1f-ac447107ae6d" ipa="/ˈʌn.dər.graʊnd/" vi_ipa="ân-đờ-rơ-grây-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e2444a15-a715-44a5-88b2-43f348c0c7d3" type="Adjective">
+          <Vi>ngầm; dưới mặt đất; ngầm định, bất hợp pháp (nói về hoạt động chính trị)</Vi>
+          <En>Located or occurring beneath the surface of the ground; also, operating secretly or illegally, especially in opposition to official authority.</En>
+          <Example>The city is building a new underground subway line to reduce traffic congestion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42dab119-2c74-4a80-8e4f-6ebfabd80df9">
+              <Vi>Mô tả các công trình như hầm, đường ray tàu điện ngầm nằm dưới mặt đất.</Vi>
+              <En>Refers to infrastructure such as tunnels or subway tracks located beneath the ground surface.</En>
+            </Situation>
+            <Situation id="224fcb8e-05de-4d62-a6c5-bd0351ca920e">
+              <Vi>Mô tả các nhóm hoạt động chính trị bí mật chống lại chính quyền.</Vi>
+              <En>Refers to secret political groups or movements operating clandestinely against official authority.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="bd5a0817-d501-4c86-9dd0-03e68debbcb5" ipa="/ˈʌn.dər.graʊnd/" vi_ipa="ân-đờ-rơ-grây-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fad96a91-8146-4546-a2cb-af94690e2f68" type="Noun">
+          <Vi>đường tàu điện ngầm; phong trào bí mật (chính trị)</Vi>
+          <En>A subway system; or a secret political movement operating clandestinely.</En>
+          <Example>The London Underground is one of the oldest and busiest metro systems in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bdb904e7-87f1-4ddd-b0f4-449db66c896a">
+              <Vi>Mô tả hệ thống tàu điện ngầm ở các thành phố lớn.</Vi>
+              <En>Refers to the subway or metro system in major cities, especially London.</En>
+            </Situation>
+            <Situation id="d6a52d15-567a-4bee-8769-3f59e71c484a">
+              <Vi>Mô tả các nhóm kháng chiến hoặc phe đối lập hoạt động bí mật.</Vi>
+              <En>Refers to resistance or opposition groups operating in secrecy, especially during wartime or authoritarian regimes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
