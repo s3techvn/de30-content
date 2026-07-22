@@ -1,0 +1,36 @@
+<Vocab id="3f907b23-5580-42e2-b4e1-fa3daa8ed6d0" word="forth" type="short" status="done">
+  <Topics>
+    <Topic id="b9013171-e65e-4a65-a4a4-687faea72f9f" value="Movement &amp; Direction" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5bcb236e-59fc-44d3-9d1f-122441a91bca" ipa="/fɔːrθ/" vi_ipa="phoó-th">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1c76a504-35a8-4002-88da-d33d0f61f8fc" type="Adverb">
+          <Vi>đi tới, tiến về phía trước (đặc biệt về mặt địa lý hoặc thời gian)</Vi>
+          <En>moving or going forward, especially in space or time</En>
+          <Example>He set forth on his journey at dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="09bda86a-60cf-4c7c-af8b-9a2c1a26b20c">
+              <Vi>Mô tả hành động bắt đầu một chuyến đi hoặc tiến về phía trước.</Vi>
+              <En>Describes the act of beginning a journey or moving ahead.</En>
+            </Situation>
+            <Situation id="55c085ae-2c86-4376-902b-485c96af999a">
+              <Vi>Dùng trong văn chương hoặc trang trọng để diễn tả sự khởi đầu.</Vi>
+              <En>Used in formal or literary contexts to denote the beginning of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

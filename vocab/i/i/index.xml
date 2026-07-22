@@ -1,0 +1,32 @@
+<Vocab id="e8188f5b-1c0c-4a58-97a9-00678d588b4e" word="i" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23c1db79-0d9d-416c-8ead-268ea19626e8" ipa="/aɪ/" vi_ipa="ai">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6925b531-b879-49db-8dbe-dc117df6e08f" type="Pronoun">
+          <Vi>Tôi</Vi>
+          <En>The first-person singular subject pronoun, used to refer to oneself as the doer of an action.</En>
+          <Example>I am going to the store.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93d03103-8200-4475-8072-c42bb41b4a82">
+              <Vi>Người nói tự giới thiệu hoặc nói về bản thân trong giao tiếp hàng ngày.</Vi>
+              <En>The speaker refers to themselves as the subject in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
