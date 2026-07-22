@@ -1,0 +1,63 @@
+<Vocab id="736de247-09bb-43b1-a51d-310e587779ce" word="lane" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="ea5e4104-233a-4208-b42d-9c8e0edbca34" value="Road Infrastructure" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="4f421813-c18f-4880-977a-250d2da85b59" value="Traffic Engineer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="effcc3ac-761d-464a-9733-daa3db1ee67e" ipa="/leɪn/" vi_ipa="lê-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd21c4d1-601b-4543-8039-48d96b5e794f" type="Noun">
+          <Vi>Làn đường</Vi>
+          <En>A narrow road, especially one of the parallel divisions of a wider road for traffic moving in the same direction.</En>
+          <Example>She changed lanes to overtake the slow-moving truck.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d08f074-8f46-4bf4-9e33-4ee92b124b8a">
+              <Vi>Tình huống khi lái xe trên cao tốc và cần chuyển sang làn khác để vượt.</Vi>
+              <En>Scenario when driving on a highway and needing to change lanes to overtake another vehicle.</En>
+            </Situation>
+            <Situation id="d8eb3ecd-f025-46fa-8520-79ecaab25fc7">
+              <Vi>Tình huống giao thông khi các làn đường được phân chia rõ ràng để điều tiết luồng xe.</Vi>
+              <En>Scenario where traffic lanes are clearly marked to regulate vehicle flow.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="751cdc75-c281-4b8c-84c3-195fffd999ec" type="Noun">
+          <Vi>Làn (trong thể thao, ví dụ như bơi lội, đua xe)</Vi>
+          <En>A marked or assigned path or track for competitors in a race or sport.</En>
+          <Example>She was assigned lane three for the 100-meter sprint.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a163c54a-245e-451c-8cd9-e2a70bfe86fa">
+              <Vi>Tình huống trong thi đấu bơi lội, mỗi vận động viên được phân một làn riêng.</Vi>
+              <En>Scenario in swimming competitions where each athlete is assigned a separate lane.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6ee110a8-5ae2-41b8-893e-55a8ee05d792" type="Noun">
+          <Vi>Làn (trong nông nghiệp, ví dụ: làn trồng trọt)</Vi>
+          <En>A narrow strip of land used for growing crops or plants, especially in rows.</En>
+          <Example>The farmer planted carrots in neat lanes across the field.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e74756a-b5dd-4bc4-8fe0-707b00635e88">
+              <Vi>Tình huống canh tác nông nghiệp với các làn cây được trồng theo hàng.</Vi>
+              <En>Scenario in agriculture where crops are planted in organized rows or lanes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

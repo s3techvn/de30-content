@@ -1,0 +1,40 @@
+<Vocab id="28c44c54-d9a5-424c-85ea-6266338f53b5" word="mil" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="8dda0897-4bed-4eb4-aca8-d2a92b7bb011" value="Manufacturing" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e58a57e8-8d86-4662-bea2-f8413d86b133" ipa="/mɪl/" vi_ipa="míl">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="02f2f8ce-8b6d-4c30-b629-2738c01dc8ed" type="Noun">
+          <Vi>thiên lý (đơn vị độ dài bằng 1/1000 inch)</Vi>
+          <En>A unit of length equal to one thousandth of an inch (0.001 inch), commonly used in engineering and manufacturing to specify small dimensions or tolerances.</En>
+          <Example>The thickness of the coating was specified as 5 mils.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="edfd5646-ad45-4640-8607-a672dc7927df">
+              <Vi>Đo lường độ dày của lớp sơn, màng nhựa, hoặc vật liệu mỏng trong sản xuất công nghiệp.</Vi>
+              <En>Measuring the thickness of paint, plastic films, or thin materials in industrial manufacturing.</En>
+            </Situation>
+            <Situation id="42cacc0f-d11f-4216-8360-6b8a57bd9f53">
+              <Vi>Trong quân sự, đơn vị đo khoảng cách (ít dùng, thường bị nhầm với dặm Anh).</Vi>
+              <En>In military contexts, occasionally used as a unit of distance (though often confused with the mile).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
