@@ -1,0 +1,38 @@
+<Vocab id="6d147d9f-586b-4729-aa6f-5e7969cbcb81" word="friday" type="short" status="done">
+  <Topics>
+    <Topic id="19bb0e26-a8c9-4364-b8b0-62967a34778a" value="Time and Calendar" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55a4caad-11e3-4b72-85b4-16c577bc9501" ipa="/ˈfraɪ.deɪ/" vi_ipa="fрай-đê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08eda5f9-471e-40d3-a650-eee0e612794d" type="Noun">
+          <Vi>Thứ Sáu</Vi>
+          <En>The day after Thursday and before Saturday, the sixth day of the week.</En>
+          <Example>We usually have team meetings on Friday mornings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="786aafd1-9365-4f91-be3a-fb2745078dd7">
+              <Vi>Ngày cuối tuần làm việc, thường gắn với không khí háo hức chuẩn bị cho cuối tuần.</Vi>
+              <En>The last working day of the week, often associated with excitement for the upcoming weekend.</En>
+            </Situation>
+            <Situation id="8ce0ac2e-9947-4909-a362-22b0c7570b40">
+              <Vi>Ngày tổ chức các sự kiện cuối tuần hoặc tiệc tùng.</Vi>
+              <En>The day when weekend events or parties are often scheduled to begin.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
