@@ -1,0 +1,32 @@
+<Vocab id="5a845d61-244a-4eee-b51f-b8c30960639f" word="joel" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="084fcd68-e371-4beb-acbe-9574dee5f6e6" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c9c871b-db67-4b67-afe0-d781e4fd91e7" ipa="/dʒoʊəl/" vi_ipa="giô-ên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="086a6b57-7993-4717-b0bd-d421a4b4b52b" type="Proper Noun">
+          <Vi>Tên riêng (nam), thường viết hoa: Joel</Vi>
+          <En>A male given name of Hebrew origin, meaning "Yahweh is God".</En>
+          <Example>Joel is studying theology at the seminary.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc77f709-e83e-4184-8d8d-0a6c0947e709">
+              <Vi>Dùng khi gọi hoặc đề cập đến một người nam có tên Joel.</Vi>
+              <En>Used when addressing or referring to a man named Joel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

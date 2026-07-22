@@ -1,0 +1,52 @@
+<Vocab id="ecd5973f-cb89-4a94-be5f-9270a4724c5b" word="colors" type="short" status="done">
+  <Topics>
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+    <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" value="Interior Decorator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ab6bf12-71dc-47b4-8668-714741a2dfd4" ipa="/ˈkʌl.ɚz/" vi_ipa="cờ-lơ-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f2df975e-4f7a-41a6-875d-6a50fed94493" type="Noun">
+          <Vi>màu sắc</Vi>
+          <En>The property of an object that depends on the light it reflects, emits, or transmits, typically perceived as red, blue, green, etc.</En>
+          <Example>The artist carefully chose the colors for her painting to evoke a sense of calm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6f1c9ad-d719-4316-a3a2-18277c506e76">
+              <Vi>Mô tả các sắc thái thị giác trong nghệ thuật hoặc thiết kế.</Vi>
+              <En>Describing visual hues in art, design, or nature.</En>
+            </Situation>
+            <Situation id="5cbf01d0-e3e9-4d2a-a632-c34dc7fe68f5">
+              <Vi>Chọn màu để phối đồ hoặc trang trí nội thất.</Vi>
+              <En>Selecting hues for clothing or interior decoration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="458bdc08-e961-47e6-9538-dff57f6681cd" type="Noun">
+          <Vi>màu nhuộm; phẩm màu</Vi>
+          <En>Substances used to add color to materials such as fabric, food, or hair.</En>
+          <Example>The fabric was dyed using natural colors derived from plants.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6df8011-1173-476c-bf7f-5292437a6770">
+              <Vi>Sử dụng phẩm màu trong công nghiệp dệt may.</Vi>
+              <En>Using dyes in textile manufacturing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
