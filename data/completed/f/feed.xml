@@ -1,0 +1,72 @@
+<Vocab id="4e50f932-8912-49c0-ab76-70f39b45fa5c" word="feed" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="059766fc-9897-4072-ac58-cd2453496279" value="Pet Owner" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="82c2c2a0-9c69-4206-b238-40dee37b7057" ipa="/fiːd/" vi_ipa="phít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96a57886-49d9-4e93-8336-b3aea1ff3523" type="Verb">
+          <Vi>cung cấp thức ăn cho (người, động vật)</Vi>
+          <En>to give food to a person, animal, or organism</En>
+          <Example>The farmer feeds the cows twice a day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e4ae949-e548-4076-afbf-f68bf256d86d">
+              <Vi>Nhà nông cho bò ăn cỏ tươi mỗi sáng.</Vi>
+              <En>A farmer provides fresh grass to cows every morning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bc65f935-c7f3-49cd-82e2-36178530d582" type="Verb">
+          <Vi>cung cấp thông tin, dữ liệu, hoặc nguồn cấp (cho hệ thống)</Vi>
+          <En>to supply data, information, or a signal to a system or device</En>
+          <Example>The sensor feeds real-time data to the central monitoring system.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cff0cf55-4b08-40d4-8133-538f488abbc9">
+              <Vi>Máy quét mã vạch gửi dữ liệu vào phần mềm quản lý kho.</Vi>
+              <En>The barcode scanner feeds data into the warehouse management software.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bcfe846e-15fd-43a7-9350-99d932987dd6" type="Noun">
+          <Vi>thức ăn (cho động vật)</Vi>
+          <En>food, especially for animals</En>
+          <Example>The horse needs fresh hay as feed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="342d9eb1-76da-4c5a-8cae-672b62a2e033">
+              <Vi>Nhà trại cung cấp cám cho gà mỗi ngày.</Vi>
+              <En>The poultry farm provides feed to chickens daily.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bf772a03-0064-4f92-b4b8-39d83e68d080" type="Noun">
+          <Vi>nguồn cấp (dữ liệu, tín hiệu, nội dung)</Vi>
+          <En>a source or stream of data, content, or information, especially in computing or media</En>
+          <Example>The app pulls articles from an RSS feed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="348437d2-006a-4aa8-bd68-ad96ec32fd16">
+              <Vi>Ứng dụng tin tức hiển thị nội dung từ nguồn cấp RSS.</Vi>
+              <En>The news app displays content from an RSS feed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
