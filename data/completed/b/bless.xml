@@ -1,0 +1,58 @@
+<Vocab id="ad1bd996-bbaf-4886-9bd5-ab04c239a408" word="bless" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="8426b177-e9ff-4cdc-86ef-a2ebde8e75f2" value="Wedding Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="359af050-ea56-4db3-8c71-4d54b4a0c5f2" ipa="/bles/">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a70cf635-1f76-4734-bd57-16e4671a54f1" type="Verb">
+          <Vi>ban phước, chúc phúc</Vi>
+          <En>To confer a religious or spiritual blessing upon someone or something; to invoke divine favor.</En>
+          <Example>The priest will bless the congregation at the end of the service.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5c163fa-f874-479e-a222-51f5e7faa26e">
+              <Vi>Giáo sĩ thực hiện nghi thức ban phước trong nhà thờ.</Vi>
+              <En>A religious leader performs a blessing ritual in church.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3516d783-d43f-4e4e-a120-edc034e6a34f" type="Verb">
+          <Vi>chúc may mắn, chúc thành công</Vi>
+          <En>To wish someone good fortune or success, often in a formal or ceremonial context.</En>
+          <Example>Before the competition, the coach told the team, “Good luck—I bless your efforts!”</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="33e05005-65fb-4d38-9707-a7a3afcaabe8">
+              <Vi>Người thân chúc may mắn cho người đi thi hoặc đi làm quan trọng.</Vi>
+              <En>A loved one expresses goodwill and hopes for success before an important event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ded2a354-0b29-41c5-b6c7-0081b2df9135" type="Verb">
+          <Vi>làm cho (một vật) trở nên may mắn hoặc được bảo vệ</Vi>
+          <En>To make something seem lucky, protected, or divinely favored—often used idiomatically.</En>
+          <Example>This old house has been blessed by generations of happy families.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1f87f06-7435-4498-b824-24f73f8a1e12">
+              <Vi>Mô tả một nơi được cho là được phù hộ và mang lại may mắn.</Vi>
+              <En>Describing a place believed to be protected or bring good fortune.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
