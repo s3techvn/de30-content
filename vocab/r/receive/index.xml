@@ -1,0 +1,52 @@
+<Vocab id="4c377cd9-cba7-48d8-b719-9f39f0dfcc2a" word="receive" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="09d4f10f-0d88-4096-87f4-1cd9213be61a" value="Receptionist" />
+    <Profession id="812aa29c-85fb-4675-be93-76477fe20619" value="Office Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="082db579-f604-4cf0-bc7d-537be6e0585a" ipa="/rɪˈsiːv/" vi_ipa="rị-si-úp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b3a2bc70-0b37-4636-ba53-5bad1e90a256" type="Verb">
+          <Vi>nhận, đón nhận</Vi>
+          <En>To get or be given something, especially something offered or expected.</En>
+          <Example>I received a gift from my friend on my birthday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ef4085a-23fe-4fd7-823a-0e91b8e17833">
+              <Vi>Đón nhận vật phẩm, thư từ, hoặc thông tin từ người khác.</Vi>
+              <En>Accepting physical items, letters, or information from someone else.</En>
+            </Situation>
+            <Situation id="647fc2ee-4b60-4c6c-86e4-2c09122abdd8">
+              <Vi>Chấp nhận một lời đề nghị, lời mời, hoặc lời chúc.</Vi>
+              <En>Accepting an offer, invitation, or greeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d41565d1-dd57-4ca8-baf2-934afff9c877" type="Verb">
+          <Vi>tiếp đón, đón tiếp</Vi>
+          <En>To welcome or greet someone, especially in a formal or official capacity.</En>
+          <Example>The host received the guests warmly at the door.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e68834d5-dd8f-4bcb-8827-73a266030984">
+              <Vi>Đón tiếp khách đến nhà hoặc sự kiện.</Vi>
+              <En>Welcoming guests arriving at a home or event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
