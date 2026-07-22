@@ -322,3 +322,4 @@ category
 hash
 correct
 principal
+journalist
