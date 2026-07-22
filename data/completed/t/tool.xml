@@ -1,0 +1,57 @@
+<Vocab id="52469749-70fe-4617-9cbe-6c0009e1406f" word="tool" type="short" status="done">
+  <Topics>
+    <Topic id="056b58f4-b74a-4d4c-9bf4-66c731f0fee5" value="Work &amp; Trades" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="854c5ecb-48eb-4d65-82d5-936d7891efb2" ipa="/tuːl/" vi_ipa="tú-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fc0e10ae-63cb-4941-9aa0-de96ca473678" type="Noun">
+          <Vi>Công cụ (dụng cụ cầm tay hoặc thiết bị dùng để thực hiện một nhiệm vụ cụ thể)</Vi>
+          <En>An instrument or device, typically held in the hand, used to carry out a particular function, especially in repair, construction, or manufacturing.</En>
+          <Example>He used a hammer as a tool to drive the nail into the wood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3b176dd-71e5-4d3b-bf9b-8facbb79b3ea">
+              <Vi>Sử dụng kìm để thay đổi ốc vít trong sửa chữa điện.</Vi>
+              <En>Using pliers to tighten or loosen a screw during electrical repairs.</En>
+            </Situation>
+            <Situation id="8c1a5f2d-2b7c-4ada-86e2-544bc2a3a951">
+              <Vi>Phần mềm máy tính cũng được xem là công cụ hỗ trợ làm việc.</Vi>
+              <En>Computer software is also considered a tool to aid in work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3a51f773-9fdf-4283-8adc-c7b7db5631a6" type="Noun">
+          <Vi>Công cụ (ẩn dụ: phương tiện,手段 để đạt mục tiêu)</Vi>
+          <En>A means to an end; something used to achieve a particular goal, often metaphorically.</En>
+          <Example>Language is a powerful tool for communication and influence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="12b1ad89-7a62-4cb9-9cca-72867aeb0ffc">
+              <Vi>Chính phủ sử dụng thuế như một công cụ điều tiết kinh tế.</Vi>
+              <En>The government uses taxation as a tool to regulate the economy.</En>
+            </Situation>
+            <Situation id="3a2b1285-a950-4bb0-8ff9-fb1ea8522425">
+              <Vi>Trong đàm phán, sự kiên nhẫn là một công cụ quan trọng.</Vi>
+              <En>In negotiations, patience is an important tool.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
