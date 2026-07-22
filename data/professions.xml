@@ -263,4 +263,5 @@
   <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" slug="librarian" value="Librarian" />
   <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" slug="sound-engineer" value="Sound Engineer" />
   <Profession id="db049c33-ca31-402b-aabf-5420324f9bdc" slug="religious-studies" value="Religious Studies" />
+  <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" slug="executive" value="Executive" />
 </Professions>

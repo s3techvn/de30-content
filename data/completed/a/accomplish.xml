@@ -1,0 +1,38 @@
+<Vocab id="2302b768-b4e5-49d7-97b8-b1c63536deb6" word="accomplish" type="short" status="done">
+  <Topics>
+    <Topic id="c11e2abc-d003-4bbb-be37-7433992310d9" value="Work &amp; Achievement" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" value="Executive" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1982c02-ec06-4a17-8952-6d58a1d9bc5c" ipa="/əˈkʌm.plɪʃ/" vi_ipa="ơ-kăm-pli-sh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2ab33b01-78bc-4cfe-a7a9-dd05114fb884" type="Verb">
+          <Vi>hoàn thành, thực hiện thành công</Vi>
+          <En>to successfully reach a goal or finish a task, especially one that requires effort or skill</En>
+          <Example>She managed to accomplish all her goals before the deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="554fce08-dcb9-47e5-a403-265bea14e432">
+              <Vi>Hoàn thành một dự án, mục tiêu, hoặc nhiệm vụ khó khăn sau nỗ lực bền bỉ.</Vi>
+              <En>Successfully completing a difficult project, goal, or task after sustained effort.</En>
+            </Situation>
+            <Situation id="166856f8-868c-45bb-a475-6c830b4a9188">
+              <Vi>Thực hiện một lời hứa hoặc cam kết.</Vi>
+              <En>Fulfilling a promise or commitment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
