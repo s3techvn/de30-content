@@ -1,0 +1,41 @@
+<Vocab id="b2d7df7c-537d-439d-a0f3-c92ce9247425" word="beauty" type="short" status="done">
+  <Topics>
+    <Topic id="a1d36111-f938-47b3-80ad-32ab3119db74" value="Aesthetics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="539e9119-9b31-487f-b0ad-c3888ac137a3" value="Fashion &amp; Style" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="d9d75918-750e-4777-9417-6bf1484c6afa" value="Makeup Artist" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8a75024f-3ac3-40e1-9b9c-a7f62cf028aa" ipa="/ˈbjuː.ti/" vi_ipa="bít-y">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fb52cb7a-bbb6-41ba-acd8-7c880f61fc45" type="Noun">
+          <Vi>Sắc đẹp; vẻ đẹp</Vi>
+          <En>The quality of being pleasing to the eye or mind, especially through harmony of form, color, or proportion.</En>
+          <Example>She was struck by the beauty of the sunset over the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab0c2bc4-3b78-4750-b940-92d1f6a0192c">
+              <Vi>Mô tả cảnh vật, con người, hoặc tác phẩm nghệ thuật gây ấn tượng mạnh về mặt thị giác hoặc cảm xúc.</Vi>
+              <En>Used to describe a person, object, or scene that evokes admiration for its visual or aesthetic appeal.</En>
+            </Situation>
+            <Situation id="eda1b272-7cd8-4918-b773-9beffd5b910e">
+              <Vi>Chỉ phẩm chất nội tại như lòng tốt, sự chân thành, tạo nên sức hút sâu sắc.</Vi>
+              <En>Can refer to inner qualities such as kindness or authenticity that create deep personal appeal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

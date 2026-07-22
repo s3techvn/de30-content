@@ -488,3 +488,4 @@ pair
 conversion
 refund
 extensive
+finder

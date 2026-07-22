@@ -1,0 +1,47 @@
+<Vocab id="d7489666-670e-4610-91ed-37072c3cef54" word="finder" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="51339aeb-5bb8-4e48-93e9-d6a9b7fcf291" ipa="/ˈfaɪn.dər/" vi_ipa="fây-nờ-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9052b179-129f-45c8-85ec-ba5cee3e7de1" type="Noun">
+          <Vi>người tìm thấy; người phát hiện</Vi>
+          <En>a person or thing that finds something, especially a person who discovers or locates something valuable or important</En>
+          <Example>She was praised as the finder of the lost manuscript.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="129347e6-6267-4835-84ee-1a04f497e482">
+              <Vi>Tình huống khen ngợi ai đó đã phát hiện hoặc khôi phục được tài sản, tài liệu quý giá.</Vi>
+              <En>A situation where someone is acknowledged for discovering or recovering a valuable item or document.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="94d42647-5def-48af-b2d8-f9e08b04bbb1" type="Noun">
+          <Vi>phần mềm tìm kiếm (trên máy tính hoặc điện thoại)</Vi>
+          <En>a software tool used to locate files, documents, or data on a computer or mobile device</En>
+          <Example>The file finder in macOS allows users to search by name, date, or content.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4c027ac5-de9b-4f0f-9f89-1fe83b3e9149">
+              <Vi>Tình huống người dùng dùng công cụ tìm kiếm để mở rộng hoặc lọc kết quả tìm tệp tin.</Vi>
+              <En>A situation where a user employs a file-finding tool to refine or expand search results for digital files.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
