@@ -198,3 +198,4 @@ intensity
 street
 coming
 neighbor
+global
