@@ -240,3 +240,4 @@ aerial
 amplifier
 postal
 strike
+powerful
