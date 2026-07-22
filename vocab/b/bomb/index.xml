@@ -1,0 +1,56 @@
+<Vocab id="fb10fdc2-9d76-4bcc-9145-c3618799ddcd" word="bomb" type="short" status="done">
+  <Topics>
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="a50b6bd8-d76b-4e7c-acb5-6826436b8332" value="Explosives" />
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="a7a13009-fae2-4ba3-bab1-986cb68d9e41" value="Demolition Expert" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48ec8cf4-69c9-4c72-922f-f7670e5e2f45" ipa="/bɑːm/" vi_ipa="bôm">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fc145859-9527-45b9-92c8-3a6833270e08" type="Noun">
+          <Vi>Quả bom</Vi>
+          <En>A container filled with explosive material, designed to be dropped or launched to cause a violent explosion.</En>
+          <Example>The military team safely defused the unexploded bomb found near the airport.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="614b0fbc-ea16-4e8f-b9f5-7e1bd2f6ae8b">
+              <Vi>Mô tả vũ khí nổ quân sự được sử dụng trong chiến tranh hoặc khủng bố.</Vi>
+              <En>Describes a military or terrorist explosive device intended to cause destruction.</En>
+            </Situation>
+            <Situation id="270c5986-ff96-4e14-80af-3aa541aa7248">
+              <Vi>Trong nghĩa bóng: điều gì đó gây sốc, bất ngờ hoặc thành công lớn (như trong "a bomb" = một thất bại thảm hại; "a bomb" = một thành công vang dội).</Vi>
+              <En>In figurative use: something shocking, surprising, or highly successful (e.g., "a bomb" = a huge success; "a flop" = a failure).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d35a3145-42da-4339-bfdf-a06dfc6bd93f" type="Verb">
+          <Vi>Ném bom; đánh bom; làm nổ tung</Vi>
+          <En>To attack with bombs; to destroy or damage something by exploding a bomb.</En>
+          <Example>The enemy planes bombed the city for three hours straight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ee2937c-2a6f-4dd8-864b-3ce465a3c6a8">
+              <Vi>Mô tả hành động quân sự dùng bom để tấn công.</Vi>
+              <En>Describes a military or terrorist act of attacking with bombs.</En>
+            </Situation>
+            <Situation id="55e87171-445c-4fc8-a1b2-0a83638d45f1">
+              <Vi>Trong thể thao (bóng rổ, bóng chuyền): ném bóng mạnh, không thể cản phá.</Vi>
+              <En>In sports (basketball, volleyball): to make a powerful, unstoppable shot or spike.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
