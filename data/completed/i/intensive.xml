@@ -1,0 +1,40 @@
+<Vocab id="e45b6eb6-6d39-4282-bcce-2556e55be065" word="intensive" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="81ef7ae3-d5ca-456e-b70f-45404aee2fb0" value="Work &amp; Business" />
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+    <Profession id="e5b9782f-50ec-4e55-a0f4-1f0c4f34b9ad" value="Healthcare Provider" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="086efbe8-4eb1-4521-ac68-45ed4eef5bc0" ipa="/ˈɪn.tən.sɪv/" vi_ipa="in-tơ-nơ-síp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2d61aaa-0229-45f9-beeb-0d965f478bef" type="Adjective">
+          <Vi>thâm sâu, mạnh mẽ, tập trung cao độ</Vi>
+          <En>characterized by a high degree of intensity, concentration, or effort; very thorough or rigorous.</En>
+          <Example>The intensive language course helped her achieve fluency in just three months.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3666e03-4658-4010-98f2-3cd0181d5607">
+              <Vi>Mô tả một khóa học hoặc chương trình đào tạo ngắn nhưng rất tập trung và yêu cầu cao.</Vi>
+              <En>Describing a short but highly focused and demanding training program or course.</En>
+            </Situation>
+            <Situation id="0b124ca7-2158-4e43-98cc-b0bcf94f3acd">
+              <Vi>Mô tả một phương pháp điều trị y tế yêu cầu theo dõi và can thiệp liên tục.</Vi>
+              <En>Describing a medical treatment requiring continuous monitoring and intervention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
