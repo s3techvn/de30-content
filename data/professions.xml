@@ -215,4 +215,6 @@
   <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" slug="business-manager" value="Business Manager" />
   <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" slug="anthropologist" value="Anthropologist" />
   <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" slug="automotive-technician" value="Automotive Technician" />
+  <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" slug="military-personnel" value="Military Personnel" />
+  <Profession id="f8976ea2-08f1-455e-bbae-a3741a0ac6a9" slug="astronaut" value="Astronaut" />
 </Professions>
