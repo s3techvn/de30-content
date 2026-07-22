@@ -356,4 +356,5 @@
   <Profession id="49d3530f-39b1-438f-b0b2-0746769f95c5" slug="theatre-performer" value="Theatre Performer" />
   <Profession id="4f3af2c1-b847-49ed-bce5-cb8c675e94f6" slug="theatre-director" value="Theatre Director" />
   <Profession id="a9eefd83-d744-44b5-bc27-f57d50f4bfba" slug="stage-designer" value="Stage Designer" />
+  <Profession id="b716cd5e-4063-40cd-b07b-eda5366a6500" slug="university-admissions-officer" value="University Admissions Officer" />
 </Professions>
