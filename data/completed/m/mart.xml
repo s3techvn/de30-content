@@ -1,0 +1,37 @@
+<Vocab id="a806a2b3-6822-4f01-9f13-23942e402341" word="mart" type="short" status="done">
+  <Topics>
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="5404dd49-5214-40be-8ae2-280dd3070b34" value="Store Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="177a8a9c-6e4d-4a20-a658-e2df1dbe695a" ipa="/mɑːrt/" vi_ipa="mác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d05c2383-4eca-4858-adc3-f7bc58f3a198" type="Noun">
+          <Vi>chợ, chợ trời, siêu thị nhỏ</Vi>
+          <En>A large self-service store that sells food, drink, and household goods, typically at discounted prices.</En>
+          <Example>They stopped by the farmers’ mart to buy fresh produce and handmade crafts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="259817c9-5819-486c-a9a6-a8daf43b6f02">
+              <Vi>Một nơi tổ chức giao dịch mua bán nông sản, hàng thủ công mỹ nghệ tại địa phương.</Vi>
+              <En>A venue where local farmers and artisans sell fresh produce and handmade goods directly to customers.</En>
+            </Situation>
+            <Situation id="ddeb8f2f-c3df-4183-a7c5-e6fb7111adc5">
+              <Vi>Chợ phiên hoặc chợ lớn chuyên bán thực phẩm và đồ dùng thiết yếu với giá hời.</Vi>
+              <En>A large marketplace specializing in groceries and daily essentials, often with competitive pricing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
