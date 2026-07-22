@@ -1,0 +1,56 @@
+<Vocab id="fc3c91fe-e493-4e38-8164-69329fc3349f" word="cube" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+    <Topic id="acf85b01-ff71-49bb-89cb-772e645b788b" value="Everyday Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14969176-8c66-4a2c-bc95-841db6372664" ipa="/kjuːb/" vi_ipa="ki-úp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="46c62e86-c5da-4124-9d10-c6b016a80b46" type="Noun">
+          <Vi>Hình lập phương</Vi>
+          <En>A three-dimensional shape with six square faces, where all edges are equal in length and all angles are right angles.</En>
+          <Example>The volume of a cube is calculated by raising the length of one side to the third power.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d463ad4-22a4-463f-93f5-7de3bd4c1c52">
+              <Vi>Hình học ba chiều cơ bản trong toán học.</Vi>
+              <En>A basic three-dimensional geometric shape in mathematics.</En>
+            </Situation>
+            <Situation id="0cbab848-e664-48e1-8d75-c781133637d5">
+              <Vi>Hình dạng của các viên đường hoặc đá lạnh trong nấu ăn.</Vi>
+              <En>The shape of sugar cubes or ice cubes in cooking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f1e689d0-bcac-4bf3-b35b-af60c2e2ca9f" type="Verb">
+          <Vi>Chia làm ba phần bằng nhau (theo số học); cắt thành hình lập phương</Vi>
+          <En>To raise a number to the third power; to cut food into small cube-shaped pieces.</En>
+          <Example>Cube the potatoes before adding them to the stew.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6cbcf9d8-4281-465e-9418-afe197aa4564">
+              <Vi>Thao tác cắt rau củ thành hình khối nhỏ trong bếp.</Vi>
+              <En>The kitchen task of cutting vegetables into small, uniform cubes.</En>
+            </Situation>
+            <Situation id="3e141617-5d7f-4d0b-bb40-f2e51012959f">
+              <Vi>Tính toán số mũ bậc ba trong toán học.</Vi>
+              <En>Performing the mathematical operation of cubing a number.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
