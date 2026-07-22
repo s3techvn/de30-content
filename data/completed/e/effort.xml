@@ -1,0 +1,52 @@
+<Vocab id="cb3004e8-331c-4f54-aef9-861114d10c31" word="effort" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="4def9226-bd9c-4b2b-9364-0d0ce31685f5" value="Work &amp; Productivity" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7a39a89-0bfc-4328-b9e2-b61c9eb339ac" ipa="/ˈef.ɚt/" vi_ipa="ép-fờ-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31261bc2-b67d-4a92-8654-2f19ec2d5115" type="Noun">
+          <Vi>Sự nỗ lực; nỗ lực (để đạt được điều gì đó)</Vi>
+          <En>Use of physical or mental energy; a attempt or exertion to achieve a goal</En>
+          <Example>She put a lot of effort into preparing for the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee016d33-4347-4f6c-a144-ed8efd2aa113">
+              <Vi>Mô tả việc một người dành thời gian, công sức hoặc trí tuệ để hoàn thành một nhiệm vụ khó khăn.</Vi>
+              <En>Describes someone dedicating time, physical strength, or mental energy to accomplish a challenging task.</En>
+            </Situation>
+            <Situation id="159db8bf-487d-4dee-a9bd-42f78ba8dfad">
+              <Vi>Tình huống khi kết quả không đạt được do thiếu nỗ lực.</Vi>
+              <En>A situation where a goal is not achieved due to insufficient effort.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3f78177c-d98b-42ce-9018-8210aaf58fdc" type="Noun">
+          <Vi>Cố gắng (đặc biệt là cố gắng lớn hoặc khó khăn)</Vi>
+          <En>A vigorous or determined attempt to do something, especially one that is difficult or requires perseverance</En>
+          <Example>The company made a final effort to save the project before shutting it down.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="081e77bf-48c4-4eb0-add0-1c0d89b910f0">
+              <Vi>Một nhóm làm việc chăm chỉ để vượt qua trở ngại cuối cùng trước hạn chót.</Vi>
+              <En>A team working intensively to overcome the final obstacle before the deadline.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
