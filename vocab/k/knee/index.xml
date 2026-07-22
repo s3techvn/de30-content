@@ -1,0 +1,38 @@
+<Vocab id="b48c999f-01c3-4e92-a51c-7586c1ddcd2d" word="knee" type="short" status="done">
+  <Topics>
+    <Topic id="fd21b870-3776-417b-997d-a20618bf5a27" value="Human Body" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63465c57-0b48-4b6d-8eaa-5b89748309a1" ipa="/niː/" vi_ipa="ni">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6d783db8-a044-4c56-bf7f-65945ced6c40" type="Noun">
+          <Vi>gối (phần khớp giữa đùi và cẳng chân)</Vi>
+          <En>The joint between the thigh and lower leg, allowing bending and straightening of the leg.</En>
+          <Example>He twisted his knee while playing basketball.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcca9c96-b4f9-4577-8d53-e378eb6fc7b0">
+              <Vi>Mô tả chấn thương hoặc cảm giác đau ở vùng khớp gối.</Vi>
+              <En>Describing injury or pain in the knee area.</En>
+            </Situation>
+            <Situation id="4406fa88-8e1f-4783-8d21-2083231d2879">
+              <Vi>Hành động quỳ gối hoặc co gối khi đứng lên.</Vi>
+              <En>Actions such as kneeling or bending the knee when standing up.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
