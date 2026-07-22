@@ -434,4 +434,5 @@
   <Profession id="81d3444c-64b3-4cdd-9d1f-f07dce053ff1" slug="florist" value="Florist" />
   <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" slug="flight-attendant" value="Flight Attendant" />
   <Profession id="86103626-498b-4cd8-aae9-ea4acbbb21ab" slug="immunologist" value="Immunologist" />
+  <Profession id="e5eea47f-9706-4773-9915-55b81225db2e" slug="speech-therapist" value="Speech Therapist" />
 </Professions>

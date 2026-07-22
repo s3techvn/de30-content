@@ -1,0 +1,38 @@
+<Vocab id="0d3db0ce-80d4-4bd3-8d18-4f7ec1dfa510" word="immune" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="86103626-498b-4cd8-aae9-ea4acbbb21ab" value="Immunologist" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="62dd88b4-09d8-4334-ae4e-035ace6b1227" ipa="/ɪˈmjuːn/" vi_ipa="i-miu-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af7be42f-3205-44c3-b977-d431605c791d" type="Adjective">
+          <Vi>miễn nhiễm; miễn dịch</Vi>
+          <En>Not affected by a particular disease, drug, or other agent; protected from infection or disease through immunity.</En>
+          <Example>After recovering from measles, she became immune to the virus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69c20dbf-7beb-4b5b-a0a2-eee6ba3ce154">
+              <Vi>Tình trạng cơ thể không bị bệnh do đã có kháng thể hoặc đã tiêm vắc-xin.</Vi>
+              <En>The state of the body being protected from disease due to antibodies or vaccination.</En>
+            </Situation>
+            <Situation id="aff036b0-8437-4d5e-998f-5b712b74c57b">
+              <Vi>Không bị ảnh hưởng bởi một yếu tố gây hại (ví dụ: miễn nhiễm với một loại thuốc hoặc chất độc).</Vi>
+              <En>Not affected by a harmful agent (e.g., resistant to a drug or toxin).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
