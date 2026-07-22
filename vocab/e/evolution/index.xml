@@ -1,0 +1,54 @@
+<Vocab id="5d4fd1e9-3692-4b68-9be4-fe0af96f2157" word="evolution" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="08c3c0b0-aa96-418e-93b4-4b894f114494" value="Paleontologist" />
+    <Profession id="65149e82-0093-4536-bc06-6208733876b8" value="Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f49f2dce-2675-4216-999c-6de28966b2c1" ipa="/ˌiː.vəˈluː.ʃən/" vi_ipa="i-vơ-lu-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0946faf6-041f-4637-91c1-ba3471d45a62" type="Noun">
+          <Vi>quá trình tiến hóa</Vi>
+          <En>The gradual development of something, especially from a simple to a more complex form; in biology, the process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.</En>
+          <Example>Charles Darwin’s theory of evolution by natural selection revolutionized biology.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28ba1754-1f9a-436f-a613-c02fe91bc8cf">
+              <Vi>Giảng giải sự thay đổi dần dần của các loài sinh vật qua nhiều thế hệ.</Vi>
+              <En>Explaining the gradual change in species over successive generations.</En>
+            </Situation>
+            <Situation id="3afba46c-1d1d-465f-8427-25d6f4a07af9">
+              <Vi>Trong tranh luận về giáo dục khoa học, "evolution" thường đề cập đến thuyết tiến hóa.</Vi>
+              <En>In science education debates, "evolution" often refers to the theory of evolution.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5300c2f1-5808-4cc6-86d6-622a0caa0e66" type="Noun">
+          <Vi>sự phát triển, tiến bộ (theo hướng phức tạp hơn, tốt hơn)</Vi>
+          <En>The process of change in something over time, especially in a gradual and cumulative way, often implying improvement or increasing complexity.</En>
+          <Example>The evolution of smartphones has transformed how we communicate and access information.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="00be98b3-5830-4996-a470-7b4a1dcf31d7">
+              <Vi>Mô tả sự phát triển công nghệ qua các thế hệ sản phẩm.</Vi>
+              <En>Describing how technology develops across successive product generations.</En>
+            </Situation>
+            <Situation id="70f5aa98-3415-45fe-b041-e861bd33758b">
+              <Vi>Trong nghệ thuật, chỉ sự thay đổi phong cách qua các thời kỳ.</Vi>
+              <En>In art, referring to stylistic changes across historical periods.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
