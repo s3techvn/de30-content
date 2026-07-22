@@ -1,0 +1,44 @@
+<Vocab id="5ce2dfd5-8029-4d05-b525-9c47c94f6206" word="lots" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e97b993e-0bd2-46c4-93cc-427d9b29b6d5" ipa="/lɑːts/" vi_ipa="lốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aec6129f-4c68-4a46-a461-92e0ed496efd" type="Noun">
+          <Vi>Số lượng lớn; nhiều; đống, mớ</Vi>
+          <En>A large number or amount; a great deal.</En>
+          <Example>There are lots of people at the park today.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="35f25598-e21b-4873-bc5a-628cd3f20882">
+              <Vi>Mô tả sự hiện diện hoặc tồn tại của nhiều người, vật, hoặc sự việc.</Vi>
+              <En>Used to describe the presence or existence of many people, things, or events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7529c4e1-9a48-4cf6-9e49-27d57fe5f846" type="Noun">
+          <Vi>Đất đai, mảnh đất (thường nhỏ, dùng để xây dựng hoặc trồng trọt)</Vi>
+          <En>A piece of land, especially one designated for building or farming.</En>
+          <Example>They bought a lot in the new housing development.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="81fe7bc4-346b-4912-affb-876ca3b75344">
+              <Vi>Trong bất động sản hoặc quy hoạch đô thị, chỉ một mảnh đất cụ thể.</Vi>
+              <En>In real estate or urban planning, refers to a specific parcel of land.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

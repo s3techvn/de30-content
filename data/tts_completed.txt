@@ -797,3 +797,4 @@ angola
 activation
 administration
 making
+gently
