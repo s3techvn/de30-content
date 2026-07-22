@@ -480,3 +480,4 @@ machine
 homework
 cluster
 clinic
+diabetes
