@@ -1,0 +1,48 @@
+<Vocab id="bf1c6d2d-b431-4e5a-91c0-bae2e22f4fe6" word="event" type="short" status="done">
+  <Topics>
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86b8ba9c-1dba-4ead-9d1c-71393b0fc877" ipa="/ɪˈvɛnt/" vi_ipa="i-vént">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2d812c97-8280-4f54-bbf5-26fa9ec1a746" type="Noun">
+          <Vi>Sự kiện; sự việc; biến cố</Vi>
+          <En>A thing that happens, especially one of importance or significance.</En>
+          <Example>The conference was a major event in the scientific calendar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5f44958-6b2e-43b1-9d4a-0f9a8307c333">
+              <Vi>Một hoạt động hoặc hiện tượng được tổ chức hoặc xảy ra, thường có ý nghĩa đặc biệt.</Vi>
+              <En>A planned or unplanned occurrence, often with social, cultural, or professional significance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03305f48-629d-4d03-8184-9905dfc30117" type="Noun">
+          <Vi>Giải đấu; cuộc thi (trong thể thao)</Vi>
+          <En>A competitive contest, especially in track and field or other sports.</En>
+          <Example>She won gold in the 100-meter event.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1159a40e-fe3b-4ce4-af69-79684e37c7ae">
+              <Vi>Một phần thi đấu cụ thể trong một giải thể thao.</Vi>
+              <En>A specific race, match, or competition within a larger sporting tournament.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
