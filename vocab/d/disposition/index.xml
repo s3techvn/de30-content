@@ -1,0 +1,58 @@
+<Vocab id="c299f8b5-a394-4cfb-b7bb-9db572cedc94" word="disposition" type="short" status="done">
+  <Topics>
+    <Topic id="2e809121-46a8-43c4-a499-a1333620207e" value="Personality &amp; Behavior" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2bceedc8-6b8c-4595-bf18-6526e0aa8a57" ipa="/ˌdɪs.pəˈzɪʃ.ən/" vi_ipa="đít-pờ-zi-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1a0f6b1a-de18-49d1-9556-84694d427608" type="Noun">
+          <Vi>Tính cách, bản chất, khuynh hướng tự nhiên</Vi>
+          <En>A person’s inherent quality of mind and character; a natural tendency or inclination.</En>
+          <Example>She has a cheerful disposition that makes her popular in any group.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2baba09c-2602-4a92-a8f3-75f893c385f6">
+              <Vi>Mô tả tính cách bẩm sinh hoặc thường xuyên thể hiện của một người.</Vi>
+              <En>Describing someone’s typical personality traits or emotional tendencies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="402c3a1d-cc83-4909-af45-c18552bfb6c1" type="Noun">
+          <Vi>Sự sắp xếp, bố trí, sắp đặt</Vi>
+          <En>The action of arranging things in a particular order or the state of being arranged.</En>
+          <Example>The disposition of furniture in the room makes it feel more spacious.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="311ef781-4612-4ff3-997a-f602d04eeff9">
+              <Vi>Sử dụng khi nói về cách sắp xếp vật dụng, không gian, hoặc nhân sự.</Vi>
+              <En>Used when referring to the arrangement of objects, space, or personnel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="96865cc6-7d05-4093-9a9d-555095417458" type="Noun">
+          <Vi>Sự phân phối, xử lý (hàng hóa, tài sản, di chúc...)</Vi>
+          <En>The act of distributing or allocating something, especially according to a plan or will.</En>
+          <Example>The executor is responsible for the disposition of the deceased’s assets.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a768e53f-881b-4186-96eb-822b4001582f">
+              <Vi>Xảy ra trong ngữ cảnh pháp lý, tài chính, hoặc quản lý di sản.</Vi>
+              <En>Common in legal, financial, or estate-planning contexts involving allocation of property.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
