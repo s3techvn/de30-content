@@ -34,3 +34,4 @@ news
 neighborhood
 namely
 neither
+neighbor
