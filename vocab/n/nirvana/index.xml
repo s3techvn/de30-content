@@ -1,0 +1,61 @@
+<Vocab id="999f9b71-857b-4e59-bac3-64e8ed822cc8" word="nirvana" type="short" status="done">
+  <Topics>
+    <Topic id="003e317f-2fb5-41e3-beef-c582a4b2ad42" value="Religion &amp; Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="15b15afc-84f3-4cc8-868e-8af56762aada" value="Spiritual Teacher" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eb8813fa-003f-4a24-89e7-d2c0816fe6fb" ipa="/nɪrˈvɑː.nə/" vi_ipa="nờ-rờ-van-a">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed5dbd26-9ee1-4e2e-a752-62a9bc75db8f" type="Noun">
+          <Vi>niết-bàn; cảnh giới giải thoát tối thượng trong Phật giáo</Vi>
+          <En>in Buddhism, the state of perfect peace and happiness that is achieved when a person is free from all greed, hatred, and delusion, especially as the ultimate goal of Buddhist practice</En>
+          <Example>After decades of meditation and self-discipline, the monk finally attained nirvana.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b9d2780-374a-49eb-9155-4d1619f9ac86">
+              <Vi>Mô tả trạng thái tâm thức cao nhất trong đạo Phật, vượt khỏi luân hồi sinh tử.</Vi>
+              <En>Describes the highest state of consciousness in Buddhism, beyond the cycle of rebirth and suffering.</En>
+            </Situation>
+            <Situation id="a7854da4-5d9e-43d1-9b2e-c4c7889cc9a0">
+              <Vi>Dùng trong văn học và triết học để chỉ sự yên bình tuyệt đối sau khi vượt qua khổ đau.</Vi>
+              <En>Used in literature and philosophy to denote absolute peace after transcending suffering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2dab508e-855a-480d-90a8-b5c4c85f45c9" type="Noun">
+          <Vi>chết đi vào cõi niết-bàn; sự giải thoát vĩnh hằng</Vi>
+          <En>the death of a Buddhist saint, marking entry into nirvana and liberation from the cycle of rebirth</En>
+          <Example>The ancient texts describe the Buddha’s passing into parinirvana at the age of eighty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="63b2a1ac-ca11-4825-978a-df727a5352f8">
+              <Vi>Chỉ cái chết của một vị A-la-hán hay Đức Phật, khi ngũ uẩn tan rã hoàn toàn.</Vi>
+              <En>Refers to the death of an arhat or the Buddha, when the five aggregates dissolve completely.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a4701854-50d7-4397-bc80-833d57244182" type="Noun">
+          <Vi>hạnh phúc tuyệt đối, trạng thái an lạc tột cùng (dùng ẩn dụ)</Vi>
+          <En>an ideal state of perfect happiness, peace, or fulfillment (used metaphorically)</En>
+          <Example>For many people, retirement represents a kind of personal nirvana after years of hard work.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fe49cef-1ed8-49eb-b7e0-58af239d2c0d">
+              <Vi>Dùng trong văn nói để diễn tả cảm giác hoàn hảo, không còn lo âu hay khát vọng.</Vi>
+              <En>Used colloquially to describe a feeling of perfection, free from worry or desire.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
