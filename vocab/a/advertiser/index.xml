@@ -1,0 +1,39 @@
+<Vocab id="f3eab87a-9506-4c4f-80db-ed06dbdf71cf" word="advertiser" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+    <Profession id="861c6b54-f8ab-40ef-84fe-281aaeffddee" value="Media Buyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="15056b38-2cc6-410b-8993-976b44c1a31d" ipa="/ədˈver.tɪ.zər/" vi_ipa="a-đờ-vơ-tai-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="918ca66e-e950-4bd4-882b-2df744329eda" type="Noun">
+          <Vi>Người hoặc tổ chức đăng quảng cáo</Vi>
+          <En>A person or company that places advertisements, especially in media such as newspapers, television, or online platforms.</En>
+          <Example>The advertiser negotiated a lower rate for the prime-time commercial slot.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93d8f864-88a8-40a9-a826-a61a53686882">
+              <Vi>Doanh nghiệp chi tiền để quảng bá sản phẩm trên TV hoặc mạng xã hội.</Vi>
+              <En>A business pays to promote its product on TV or social media platforms.</En>
+            </Situation>
+            <Situation id="dc3f5e99-c400-4a65-91e5-a5cc2e878967">
+              <Vi>Công ty quảng cáo đại diện cho khách hàng để lên kế hoạch chiến dịch truyền thông.</Vi>
+              <En>An advertising agency represents clients to plan and execute media campaigns.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

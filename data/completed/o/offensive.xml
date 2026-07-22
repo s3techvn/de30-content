@@ -1,0 +1,62 @@
+<Vocab id="6d8574bd-774d-4a96-9ca7-6b19a973bea3" word="offensive" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="5cfaad63-2c21-4540-ba22-178d9a2b8dcf" value="Media &amp; Communication" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1922f40e-d3c9-47a9-bd21-402dc6690b59" ipa="/əˈfens.ɪv/" vi_ipa="ơ-fen-síp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41ed7ea9-fed7-4e6e-acb8-de9ce61fcccb" type="Adjective">
+          <Vi>gây xúc phạm; khiêu khích; thô lỗ</Vi>
+          <En>causing offense or resentment; rude or insulting</En>
+          <Example>His offensive remarks made everyone in the room uncomfortable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57e8a6dd-dcff-4679-b217-2fb6b86a82cb">
+              <Vi>Tình huống khi một người nói điều gì thiếu tôn trọng hoặc gây tổn thương cảm xúc.</Vi>
+              <En>A situation where someone says something disrespectful or emotionally hurtful.</En>
+            </Situation>
+            <Situation id="aab334cc-ea47-4f02-97e0-fe45f0dcca33">
+              <Vi>Tình huống quảng cáo hoặc nội dung truyền thông bị coi là thiếu nhạy cảm văn hóa.</Vi>
+              <En>A situation where an advertisement or media content is perceived as culturally insensitive.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="4a0a2341-2bca-4778-b9f1-83a9bc4626ca" ipa="/ˈɒf.ens.ɪv/" vi_ipa="ốp-fen-síp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b54e3aca-7e10-4699-9ee8-f49dc89ce6ea" type="Adjective">
+          <Vi>(thuộc) tấn công, (thuộc) tấn công (trong quân sự)</Vi>
+          <En>relating to military operations aimed at capturing territory or defeating an enemy</En>
+          <Example>The general announced a new offensive to retake the strategic hill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6bd01e0f-b379-4c00-9a10-e7ca0a873a9c">
+              <Vi>Tình huống trong quân sự khi một lực lượng bắt đầu một chiến dịch tấn công quy mô lớn.</Vi>
+              <En>A military context where a large-scale attack is launched to gain territory or weaken the enemy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
