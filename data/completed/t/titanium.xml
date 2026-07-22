@@ -1,0 +1,38 @@
+<Vocab id="9028825c-0247-48bb-8612-4306a7340c01" word="titanium" type="short" status="done">
+  <Topics>
+    <Topic id="6115f760-2cd9-43fe-b019-d92b05d28b2e" value="Materials &amp; Science" />
+  </Topics>
+  <Professions>
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+    <Profession id="b0a39df3-4126-4690-9d3a-a48acab563d6" value="Medical Implant Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="81264ec3-21fc-47ab-885e-631673fa4bad" ipa="/taɪˈteɪniəm/" vi_ipa="tai-tây-ni-ơ-m">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="79110bff-3268-4ffa-b510-144304e635f6" type="Noun">
+          <Vi>kim loại titan, một kim loại màu trắng, nhẹ, bền, chịu ăn mòn tốt, được dùng trong hàng không vũ trụ, y tế và công nghiệp hóa chất</Vi>
+          <En>a strong, lightweight, corrosion-resistant silver-white metal, widely used in aerospace, medical implants, and chemical industries</En>
+          <Example>Titanium is prized for its high strength-to-density ratio and biocompatibility.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f0dbfbc-8db2-4e2d-9213-d99ae7e5af5a">
+              <Vi>Ngành hàng không sử dụng titan để chế tạo động cơ và khung máy bay nhờ khả năng chịu nhiệt và nhẹ.</Vi>
+              <En>The aerospace industry uses titanium to manufacture engines and airframes due to its heat resistance and low weight.</En>
+            </Situation>
+            <Situation id="d506b568-9c32-4414-a881-93531b7c6e64">
+              <Vi>Bác sĩ cấy ghép xương thường chọn titan vì nó không gây phản ứng miễn dịch và tích hợp tốt với xương.</Vi>
+              <En>Doctors often choose titanium for bone implants because it is non-reactive and integrates well with bone tissue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

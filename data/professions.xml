@@ -395,4 +395,6 @@
   <Profession id="13429d22-ee85-4e8e-ad1a-818aec310274" slug="truck-driver" value="Truck Driver" />
   <Profession id="d9d75918-750e-4777-9417-6bf1484c6afa" slug="makeup-artist" value="Makeup Artist" />
   <Profession id="30c413e4-1035-4086-92a4-e31472d5b4c6" slug="childcare-worker" value="Childcare Worker" />
+  <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" slug="aerospace-engineer" value="Aerospace Engineer" />
+  <Profession id="b0a39df3-4126-4690-9d3a-a48acab563d6" slug="medical-implant-specialist" value="Medical Implant Specialist" />
 </Professions>
