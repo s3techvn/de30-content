@@ -420,4 +420,5 @@
   <Profession id="9bd72d63-fed6-4500-a864-faea6ecb97f9" slug="leader" value="Leader" />
   <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" slug="sales-representative" value="Sales Representative" />
   <Profession id="ff57e504-2f1e-4656-8583-de39343f2f6b" slug="coffee-importer" value="Coffee Importer" />
+  <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" slug="content-creator" value="Content Creator" />
 </Professions>

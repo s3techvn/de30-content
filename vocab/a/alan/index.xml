@@ -1,0 +1,33 @@
+<Vocab id="7ff50a0f-647b-4c26-a0b5-9d585d2d7140" word="alan" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b23095f2-e3e1-4e9f-9a32-f44957c9e98b" ipa="/ˈæl.ən/" vi_ipa="a-lân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7382da03-258f-4d23-8b05-57f90a67adfd" type="Noun">
+          <Vi>Tên riêng (thường dùng cho nam), thường là viết tắt của Alan (ví dụ: Alan Turing)</Vi>
+          <En>A male given name, often used as a short form or standalone name (e.g., Alan Turing).</En>
+          <Example>Alan is a renowned computer scientist and mathematician.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="148a7b0c-282a-469d-b774-8370c8f48e3b">
+              <Vi>Dùng khi giới thiệu hoặc nhắc đến một người tên Alan trong giao tiếp hàng ngày hoặc văn cảnh học thuật.</Vi>
+              <En>Used when introducing or referring to a person named Alan in everyday conversation or academic contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

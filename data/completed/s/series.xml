@@ -1,0 +1,40 @@
+<Vocab id="e5a49026-7e8f-435e-bb14-9ba606e27c35" word="series" type="short" status="done">
+  <Topics>
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="91ca10f2-9ee6-4b58-8c10-b1afea9f1361" ipa="/ˈsɪr.iːz/" vi_ipa="xì-ri-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1a1d6086-8702-448d-9a66-38eb30711d87" type="Noun">
+          <Vi>Dãy; chuỗi; loạt (phần liên tiếp của cùng một loại)</Vi>
+          <En>A number of things or events happening or following one after another; a sequence.</En>
+          <Example>The TV show released its third season, marking the end of the series.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea137ea3-fc03-4dd8-b3a8-ef448eb3f7a9">
+              <Vi>Chỉ một chuỗi các tập phim truyền hình hoặc chương trình phát sóng liên tiếp.</Vi>
+              <En>Refers to a sequence of episodes in a television or radio program.</En>
+            </Situation>
+            <Situation id="32727ac3-aaa2-4560-b05a-0d14d811defc">
+              <Vi>Trong toán học, chỉ một dãy số hoặc hàm được sắp xếp theo quy luật.</Vi>
+              <En>In mathematics, refers to an ordered list of numbers or functions following a specific pattern.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
