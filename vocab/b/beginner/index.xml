@@ -1,0 +1,40 @@
+<Vocab id="47301f31-6f6c-4129-96c5-bd7a2de3d276" word="beginner" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cb264819-893a-48a2-9602-9827ec6c31b3" ipa="/bɪˈɡɪn.ər/" vi_ipa="bi-gin-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca9665f6-1933-45a5-adde-5a80de56b95d" type="Noun">
+          <Vi>người mới bắt đầu; người mới học</Vi>
+          <En>a person who is just starting to learn or do something</En>
+          <Example>She enrolled in the cooking class as a complete beginner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="882c90c7-0571-48a0-86bf-6b9b5a06cabe">
+              <Vi>Mô tả người chưa có kinh nghiệm trong một hoạt động hoặc môn học mới.</Vi>
+              <En>Describes someone with no prior experience in a new activity or subject.</En>
+            </Situation>
+            <Situation id="6dff7a92-a27c-4d62-b457-37a68fb97923">
+              <Vi>Chương trình hoặc tài liệu dành cho người mới bắt đầu.</Vi>
+              <En>A program or material designed for people just starting out.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

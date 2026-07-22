@@ -362,4 +362,5 @@
   <Profession id="011e02e1-d229-45b2-bc6e-2894536a4b39" slug="agricultural-worker" value="Agricultural Worker" />
   <Profession id="e411117b-0985-4764-852d-4efc6da017d8" slug="freight-forwarder" value="Freight Forwarder" />
   <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" slug="trainer" value="Trainer" />
+  <Profession id="3a10e35d-999e-4fc8-b596-1784cf9894e7" slug="demographer" value="Demographer" />
 </Professions>
