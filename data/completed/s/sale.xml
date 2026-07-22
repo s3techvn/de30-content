@@ -1,0 +1,56 @@
+<Vocab id="4d8f7d51-d57b-4775-b819-332ecc9a223b" word="sale" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bae0e03f-ea1b-49f7-8c99-8d2fea516797" ipa="/seɪl/" vi_ipa="xê-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fbaee2f1-e538-4325-88ea-cd99c6283d42" type="Noun">
+          <Vi>Giảm giá; cuộc bán hàng; khoản bán</Vi>
+          <En>A reduction in the price of goods or services; an event where goods are sold at reduced prices; the act of selling something.</En>
+          <Example>The store is having a spring sale—everything is 30% off!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="23db1b9a-b97e-4bbd-bc10-75e0488e2d61">
+              <Vi>Quần áo được bán với giá rẻ trong tuần lễ giảm giá cuối năm.</Vi>
+              <En>Clothing is sold at discounted prices during the year-end clearance sale.</En>
+            </Situation>
+            <Situation id="326a9938-2db1-448d-8e9f-920c020db998">
+              <Vi>Công ty vừa hoàn thành giao dịch bán cổ phần đầu tiên.</Vi>
+              <En>The company just completed its first share sale.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cc3fbe43-7510-4c36-b0ae-1c75dc016fbb" type="Verb">
+          <Vi>Bán (hàng); bán đấu giá</Vi>
+          <En>To sell something, especially goods or property; to sell at auction.</En>
+          <Example>They decided to sell their old car and buy a new electric one.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e842425b-08ff-44ed-8756-3f0ef39af8ba">
+              <Vi>Nhà đất được bán qua hình thức đấu giá công khai.</Vi>
+              <En>The property was sold at a public auction.</En>
+            </Situation>
+            <Situation id="70bf553b-3a5c-4b65-abdb-eb298ba2c9e6">
+              <Vi>Cô ấy vừa bán một căn hộ ở trung tâm thành phố.</Vi>
+              <En>She just sold an apartment in the city center.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
