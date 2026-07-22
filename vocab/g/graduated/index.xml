@@ -1,0 +1,38 @@
+<Vocab id="ad295465-2cdc-4086-bada-bd129b177ef3" word="graduated" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fb3e927e-99fa-4c6d-aa6f-5ed05671f0c4" ipa="/ˈɡrædʒ.u.eɪ.tɪd/" vi_ipa="grát-chu-ê-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="564ade85-89c8-4bb7-abd6-a1f6ee099e86" type="Adjective">
+          <Vi>đã tốt nghiệp; đã được chia bậc (thang đo); có bậc đều đặn</Vi>
+          <En>Having completed a course of study and received a degree; having divisions or intervals of equal size (of a scale or instrument).</En>
+          <Example>She is a graduated engineer from Stanford University.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e66cf99e-6c73-4c10-9358-3573e164b1a8">
+              <Vi>Mô tả người đã hoàn thành chương trình đào tạo và nhận bằng.</Vi>
+              <En>Describes someone who has completed a formal program of study and received an academic degree.</En>
+            </Situation>
+            <Situation id="d7754fa2-d6a1-4ad2-8758-ef03cfbc91cc">
+              <Vi>Mô tả thang đo có các vạch chia đều (ví dụ: thang đo nhiệt độ, pH).</Vi>
+              <En>Describes a scale or instrument with evenly spaced divisions (e.g., a graduated cylinder in a lab).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
