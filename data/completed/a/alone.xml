@@ -1,0 +1,50 @@
+<Vocab id="6f1f0300-7732-4878-9024-237fc7da1543" word="alone" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d040dbb0-420d-4b20-8819-35966d7f0337" ipa="/əˈloʊn/" vi_ipa="ơ-lôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="822d691d-2c89-40a3-ad8a-2a13494bc3fc" type="Adjective">
+          <Vi>độc thân; một mình, không có ai khác</Vi>
+          <En>by oneself; without others</En>
+          <Example>She enjoys spending time alone to read and reflect.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a51dd682-a562-4ba4-9a00-7717574efb35">
+              <Vi>Mô tả trạng thái không có người khác hiện diện, thường mang sắc thái trung tính hoặc tích cực (tùy ngữ cảnh).</Vi>
+              <En>Describes a state of being without other people present, often neutral or positive depending on context.</En>
+            </Situation>
+            <Situation id="fb36eb22-690b-4cf0-853e-dfe21edd94c0">
+              <Vi>Dùng để nhấn mạnh sự cô đơn hoặc thiếu sự hỗ trợ.</Vi>
+              <En>Used to emphasize loneliness or lack of support.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b2cbef30-c526-45c8-9b83-539ae79b826d" type="Adverb">
+          <Vi>một mình, độc thân</Vi>
+          <En>by oneself; without help or company</En>
+          <Example>He lived alone in a small cabin deep in the forest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="41d507b7-8060-45a4-aa86-b9258e0bb586">
+              <Vi>Mô tả hành động hoặc trạng thái diễn ra không có người khác tham gia.</Vi>
+              <En>Describes an action or state occurring without other people involved.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
