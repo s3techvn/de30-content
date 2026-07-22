@@ -1,0 +1,40 @@
+<Vocab id="d71886d1-e6d8-4771-b83d-c60340b4096e" word="aerial" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="8d753d3a-b01a-41fc-b357-51ac9d5b5b2b" value="Telecommunications Engineer" />
+    <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" value="Military Strategist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ad291533-01ce-4f73-8dbd-784b9f272857" ipa="/ˈeə.ri.əl/" vi_ipa="ê-rơ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fa003d60-94ec-4d03-891e-bb5b64c40b83" type="Adjective">
+          <Vi>thuộc về không trung; trên không</Vi>
+          <En>Relating to or operating in the air, especially by aircraft or birds.</En>
+          <Example>The aerial view of the city revealed stunning patterns of streets and parks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ab29689-635a-4506-8839-350795ee2f75">
+              <Vi>Mô tả điều gì đó liên quan đến không khí, máy bay, hoặc chim.</Vi>
+              <En>Used when describing things associated with flight, aircraft, or birds.</En>
+            </Situation>
+            <Situation id="466354d8-51e3-4dd6-a356-48b94f3d69da">
+              <Vi>Chỉ anten thu phát sóng vô tuyến treo cao trên cột.</Vi>
+              <En>Refers to an antenna mounted high on a pole for radio or TV reception.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
