@@ -1,0 +1,33 @@
+<Vocab id="041d097b-00b2-42f4-b44e-b8dda9a21bd1" word="shorter" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ad86a63-7ced-42d7-ae4f-9bfd5755fd5d" ipa="/ˈʃɔːr.t̬ɚ/" vi_ipa="sờ-tớ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="365f782e-fc5f-4066-b4fe-b87a401f7a3e" type="Adjective">
+          <Vi>ngắn hơn, ngắn hơn mức bình thường</Vi>
+          <En>less long in length or duration; comparative of short</En>
+          <Example>The new dress is shorter than the old one.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56649ccb-0ffe-4084-923e-75706471baf2">
+              <Vi>Mô tả độ dài của quần áo, tóc, hoặc vật thể ngắn hơn so với chuẩn hoặc trước đó.</Vi>
+              <En>Describing the length of clothing, hair, or objects that is less than expected or previous.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
