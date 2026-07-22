@@ -244,4 +244,6 @@
   <Profession id="aeaedc5c-09dc-45f7-a3bc-b053e80c0ba1" slug="wildlife-photographer" value="Wildlife Photographer" />
   <Profession id="8bddaac3-70cd-427f-95db-d62040e7a310" slug="legislator" value="Legislator" />
   <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" slug="policy-analyst" value="Policy Analyst" />
+  <Profession id="e6838278-c29a-4d1b-ac58-b5ae0d371b2f" slug="international-trader" value="International Trader" />
+  <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" slug="cultural-anthropologist" value="Cultural Anthropologist" />
 </Professions>
