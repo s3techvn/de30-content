@@ -1,0 +1,66 @@
+<Vocab id="46c3763c-2242-400d-b90b-4b912bbf4b18" word="rise" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae5e4d1d-8180-4128-8418-528c9377e555" ipa="/raɪz/" vi_ipa="rai-x">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5524b72d-c353-4c8e-8f56-06fc400e49d7" type="Verb">
+          <Vi>đi lên, trỗi dậy, tăng lên</Vi>
+          <En>to move or go upward physically, or to increase in amount, level, or value</En>
+          <Example>The sun rises in the east every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71d17d94-7166-44f4-ab84-9b516252a791">
+              <Vi>Mặt trời mọc từ phía đông.</Vi>
+              <En>The sun moving upward above the horizon in the morning.</En>
+            </Situation>
+            <Situation id="1d3f8bd7-9605-4135-9292-0ca0bb930bc7">
+              <Vi>Lương thực tăng giá do thiếu hụt cung.</Vi>
+              <En>Prices increasing due to supply shortages.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="e670b95e-9371-4a5f-aa90-5e6d1792117d" ipa="/raɪz/" vi_ipa="rai-x">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b57adc63-e391-4378-8af2-53b7f4dfb94c" type="Noun">
+          <Vi>sự dâng lên, sự tăng trưởng, sự mọc lên</Vi>
+          <En>an increase in amount, number, or level; the act of moving upward</En>
+          <Example>There has been a steady rise in global temperatures over the past century.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b86bc53-39b7-4703-9967-74d0117e83cf">
+              <Vi>Sự tăng giá nhà ở tại các thành phố lớn.</Vi>
+              <En>The continuous increase in housing prices in major cities.</En>
+            </Situation>
+            <Situation id="e15e7700-2cc6-45f1-8492-7604e46e96d9">
+              <Vi>Nước biển dâng do hiệu ứng nhà kính.</Vi>
+              <En>Sea level increasing due to climate change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

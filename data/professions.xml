@@ -342,4 +342,5 @@
   <Profession id="b3abdbd1-a670-4bf7-88c8-706df4520917" slug="plaintiff" value="Plaintiff" />
   <Profession id="c9843bf2-7bed-48cf-b05f-f4ccf897cd51" slug="grocer" value="Grocer" />
   <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" slug="freelancer" value="Freelancer" />
+  <Profession id="57124b8b-1356-412c-a956-f416e7e7f803" slug="logistics-specialist" value="Logistics Specialist" />
 </Professions>

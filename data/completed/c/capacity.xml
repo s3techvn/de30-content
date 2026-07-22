@@ -1,0 +1,52 @@
+<Vocab id="6892b0c9-3efc-4bbe-a1d0-2d6338927099" word="capacity" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="57124b8b-1356-412c-a956-f416e7e7f803" value="Logistics Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86b02951-7099-4422-a902-01725f15fe45" ipa="/kəˈpæs.ə.ti/" vi_ipa="kơ-pờ-si-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1877bc1e-4b46-443a-829d-c56e8e2f8cc4" type="Noun">
+          <Vi>Sức chứa; năng lực; khả năng</Vi>
+          <En>The maximum amount that something can contain, produce, or deal with; the ability to do something effectively.</En>
+          <Example>The stadium has a seating capacity of 80,000 people.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd117377-5bd8-4631-9a86-03dcd801fc4d">
+              <Vi>Mô tả sức chứa tối đa của một không gian hoặc thiết bị.</Vi>
+              <En>Describing the maximum amount a space or device can hold or handle.</En>
+            </Situation>
+            <Situation id="ff620ecb-fd7e-47ba-b567-b71fa9da8d84">
+              <Vi>Dùng để nói về khả năng làm việc hoặc tiếp nhận thông tin của một người.</Vi>
+              <En>Used to describe a person’s ability to work or process information.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e6d282a6-4161-4218-9fde-07579912ad0f" type="Noun">
+          <Vi>Chức vụ, vai trò (trong một tổ chức)</Vi>
+          <En>In the role or position of; as a functionary or official.</En>
+          <Example>She is acting in the capacity of project manager until a permanent replacement is found.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5727717-7eeb-4eed-b4e3-e62936b2eaea">
+              <Vi>Dùng khi nói về vai trò tạm thời hoặc chính thức trong công việc.</Vi>
+              <En>Used when referring to a temporary or official role in a professional context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
