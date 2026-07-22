@@ -1,0 +1,52 @@
+<Vocab id="88749f95-5277-44ab-8de0-aaeb40ee1747" word="physical" type="short" status="done">
+  <Topics>
+    <Topic id="b06d15af-0fa1-45a2-afc7-3be9ee305b3a" value="Health &amp; Body" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="7393664c-9303-4e69-9508-750980bd0f22" value="Physician" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b647f799-34d0-40a9-8a78-544c62247b1e" ipa="/ˈfɪz.ɪ.kəl/" vi_ipa="phích-i-cờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa6f838b-5526-4aa7-b725-deb56ef39768" type="Adjective">
+          <Vi>thuộc về thân thể, vật chất; thể chất</Vi>
+          <En>Relating to the body, especially as a contrast to the mind or spirit; tangible or material.</En>
+          <Example>She focuses on physical exercise to stay healthy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7e5a0eac-c0e9-4d53-ab18-cfb514469bd1">
+              <Vi>Mô tả các đặc điểm hoặc hoạt động liên quan đến cơ thể con người.</Vi>
+              <En>Describing characteristics or activities related to the human body.</En>
+            </Situation>
+            <Situation id="7ccc3858-e32d-43c4-af16-7d70955a6eec">
+              <Vi>So sánh với yếu tố tinh thần hoặc trí tuệ (ví dụ: sức khỏe thể chất).</Vi>
+              <En>Contrasting with mental or emotional aspects (e.g., physical health vs. mental health).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="120d4bee-20e2-49aa-9bbf-3f17a090c284" type="Adjective">
+          <Vi>thực tế, cụ thể; không phải là giả định hay lý thuyết</Vi>
+          <En>Real and tangible, not imaginary or theoretical.</En>
+          <Example>The damage caused by the storm was more physical than financial.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc76484d-0691-4d4a-ab55-b384a2c16799">
+              <Vi>Dùng để nhấn mạnh tính hiện hữu, cụ thể của một điều gì đó.</Vi>
+              <En>Used to emphasize the concrete, real existence of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

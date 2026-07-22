@@ -286,4 +286,5 @@
   <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" slug="law-enforcement" value="Law Enforcement" />
   <Profession id="da367c8f-a53c-40a6-9383-e566e4b08174" slug="martial-artist" value="Martial Artist" />
   <Profession id="c3d723e0-cd26-4b94-ba4f-f6d09be3bf1b" slug="performer" value="Performer" />
+  <Profession id="71d75f44-3b80-4788-97e7-ae07a1351240" slug="quality-control-engineer" value="Quality Control Engineer" />
 </Professions>
