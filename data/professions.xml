@@ -368,4 +368,5 @@
   <Profession id="4fdd2aec-577e-4ecb-8a13-b8d87c9b6675" slug="it-specialist" value="IT Specialist" />
   <Profession id="541d5700-b6af-4658-8915-8512e46e97b2" slug="piano-teacher" value="Piano Teacher" />
   <Profession id="c835a8dd-adbd-4ddf-9d21-b8f692c6e80f" slug="composer" value="Composer" />
+  <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" slug="general-public" value="General Public" />
 </Professions>
