@@ -1,0 +1,40 @@
+<Vocab id="4f60d229-d1cd-4d81-9caa-03ac496a3151" word="closely" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="a9e4bf94-f974-411d-ae8e-c87ef85ce8c5" value="Science &amp; Research" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a9e7cd41-c585-45ad-ab64-e7394ef9ca9e" ipa="/ˈkloʊsli/" vi_ipa="克لو-ơ-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c98837b2-dc8b-42c5-be1f-eb6933b88d33" type="Adverb">
+          <Vi>gần gũi; một cách chặt chẽ; một cách kỹ lưỡng</Vi>
+          <En>In a close manner; with little space or distance between things; with careful attention or scrutiny.</En>
+          <Example>She examined the document closely to spot any errors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="493711e0-dbc1-493d-a525-603c4f3b1e46">
+              <Vi>Mô tả việc quan sát hoặc theo dõi một cách kỹ lưỡng, không bỏ sót chi tiết nào.</Vi>
+              <En>Describing careful observation or scrutiny, leaving no detail unnoticed.</En>
+            </Situation>
+            <Situation id="189b0588-ab84-4984-8a2a-3724f391e2a8">
+              <Vi>Mô tả khoảng cách vật lý rất ngắn giữa hai người hoặc vật.</Vi>
+              <En>Describing very short physical distance between two people or objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

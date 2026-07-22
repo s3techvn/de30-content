@@ -1,0 +1,48 @@
+<Vocab id="b1553f47-bd30-4899-a278-0b5c9181fd55" word="temple" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e10e28aa-bd7d-42dc-9a0f-7ce5f3f71520" ipa="/ˈtɛm.pəl/" vi_ipa="tem-pờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4c03ecbf-2105-487b-9cf7-83558322a7ce" type="Noun">
+          <Vi>đền, chùa, đền thờ</Vi>
+          <En>A building dedicated to the worship of a deity or deities; a place of religious worship.</En>
+          <Example>The ancient temple in Angkor Wat attracts millions of visitors each year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49b32918-0cfa-4ed2-9e17-fb97528f1c65">
+              <Vi>Người dân địa phương cầu nguyện và dâng lễ tại ngôi đền cổ mỗi ngày.</Vi>
+              <En>Local people pray and offer sacrifices at the ancient temple every day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c2c64565-2373-439d-80bd-c393f91adbfe" type="Noun">
+          <Vi>hố chẩm (phần đầu bên thái dương)</Vi>
+          <En>The hollow area on either side of the forehead, above the eyes.</En>
+          <Example>She massaged her temples to relieve the tension headache.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="232edd43-d26a-47aa-aacc-6fd3209e8187">
+              <Vi>Cô ấy cảm thấy đau đầu và dùng ngón tay day nhẹ vào hai bên hố chẩm.</Vi>
+              <En>She felt a headache and gently pressed her fingers against the sides of her temples.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
