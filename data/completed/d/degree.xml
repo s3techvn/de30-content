@@ -1,0 +1,45 @@
+<Vocab id="44cc3cac-2411-4b70-a795-269385a1b9e1" word="degree" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d0d6b61-a14e-41c4-a700-6bcaa4540d60" ipa="/dɪˈɡriː/" vi_ipa="đi-grì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4bc246c6-eccb-4967-9cdc-1b5542fe4954" type="Noun">
+          <Vi>Độ; mức độ; bằng cấp</Vi>
+          <En>A measure of temperature, a level or stage in a process, or an academic qualification awarded by a university.</En>
+          <Example>She earned a master’s degree in environmental science.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="917c912d-2547-4f81-913f-13e555f2a75b">
+              <Vi>Học sinh/sinh viên nhận bằng sau khi hoàn thành chương trình đào tạo.</Vi>
+              <En>A student receives a degree after completing a formal program of study.</En>
+            </Situation>
+            <Situation id="3e2bb022-658f-4dec-97bc-850daa05cec0">
+              <Vi>Đo lường nhiệt độ trong khoa học hoặc thời tiết.</Vi>
+              <En>Measuring temperature in scientific or meteorological contexts (e.g., 25 degrees Celsius).</En>
+            </Situation>
+            <Situation id="96705e17-0b4e-4797-8a56-0c9c6acfc65e">
+              <Vi>Mức độ mạnh yếu của một hiện tượng (ví dụ: mức độ nghiêm trọng).</Vi>
+              <En>The extent or intensity of something (e.g., to a certain degree).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
