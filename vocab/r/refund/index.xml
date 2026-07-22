@@ -1,0 +1,56 @@
+<Vocab id="9b008212-f450-40b0-becc-7913d4ce775e" word="refund" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="88151c2c-6be7-4727-9377-c8e4941ff100" value="Consumer Rights" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d53e0918-0359-4bed-ad15-1dfe60ae18f5" ipa="/rɪˈfʌnd/" vi_ipa="rị-fản">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0c21c8c-aeaa-4358-beba-280a2c141696" type="Verb">
+          <Vi>Hoàn tiền; hoàn lại tiền</Vi>
+          <En>To return money to someone, typically because they are dissatisfied with a product or service</En>
+          <Example>The store agreed to refund the full purchase price after I returned the defective headphones.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="801ddf18-1317-4ed7-80a5-5ee292494fc2">
+              <Vi>Khách hàng yêu cầu hoàn tiền vì sản phẩm bị hỏng hoặc không như mô tả.</Vi>
+              <En>A customer requests money back because the product is faulty or does not meet expectations.</En>
+            </Situation>
+            <Situation id="fcc3bac9-b618-4496-8a73-51a16eafadcc">
+              <Vi>Nhà cung cấp hoàn tiền cho khách hàng sau khi nhận lại hàng.</Vi>
+              <En>A vendor issues a refund to a customer after receiving the returned item.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d9c6e2a6-4acc-4041-bf14-476df0613ce3" type="Noun">
+          <Vi>Số tiền hoàn lại; khoản hoàn tiền</Vi>
+          <En>A sum of money returned to someone, typically because they overpaid or are dissatisfied with a purchase</En>
+          <Example>She received a full refund within three business days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38d8cfe7-b48f-40bf-8fa4-129fc323c42a">
+              <Vi>Khách hàng nhận được hoàn tiền đầy đủ sau khi trả lại hàng.</Vi>
+              <En>The customer received the full refund after returning the item.</En>
+            </Situation>
+            <Situation id="daec0a2c-3cc9-4503-b3d8-7f445979348e">
+              <Vi>Yêu cầu hoàn tiền trong vòng 30 ngày kể từ ngày mua.</Vi>
+              <En>A refund request must be submitted within 30 days of purchase.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
