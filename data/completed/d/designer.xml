@@ -1,0 +1,37 @@
+<Vocab id="d7a274f8-6e0f-4d19-9b29-34a1f97f01be" word="designer" type="short" status="done">
+  <Topics>
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a98766d2-3864-46d6-a9dd-4d73903f3896" ipa="/dɪˈzaɪ.nər/" vi_ipa="đi-zây-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5337afd0-9bbf-443b-b115-6da502df5cd1" type="Noun">
+          <Vi>nhà thiết kế</Vi>
+          <En>A person who creates plans or drawings for products, buildings, or systems, especially one with professional training or experience.</En>
+          <Example>The fashion designer presented her new spring collection at Paris Fashion Week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="632e124d-dc29-4562-9372-2d7d77c04710">
+              <Vi>Người làm nghề tạo hình ảnh, bố cục, hoặc sản phẩm trong lĩnh vực sáng tạo.</Vi>
+              <En>A professional who creates visual concepts to communicate ideas, inspire audiences, or solve problems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
