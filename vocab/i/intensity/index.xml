@@ -1,0 +1,52 @@
+<Vocab id="acd355d6-6f75-41f6-ad86-7da219fea258" word="intensity" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d23d46f4-dada-4bfd-a75f-e023d8cf80fd" ipa="/ɪnˈtɛn.sə.ti/" vi_ipa="in-ten-xơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9a5bf3a2-90f1-4f55-8d5b-b536a724bf1b" type="Noun">
+          <Vi>Cường độ</Vi>
+          <En>The degree or amount of force, energy, or power exerted or experienced; a measure of strength or concentration.</En>
+          <Example>The intensity of the earthquake caused widespread damage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd5d3fd9-e325-4050-ba6f-c5f408608a95">
+              <Vi>Mô tả mức độ mạnh yếu của một hiện tượng vật lý như sóng, ánh sáng, hoặc động đất.</Vi>
+              <En>Describing the strength or magnitude of a physical phenomenon such as waves, light, or earthquakes.</En>
+            </Situation>
+            <Situation id="90158db6-1fbd-4427-82f4-4eb488dc39ce">
+              <Vi>Dùng để nói về mức độ mạnh của cảm xúc như giận dữ, yêu thương, hoặc nỗi đau.</Vi>
+              <En>Used to describe the strength of emotions such as anger, love, or grief.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1590a46e-1614-4c65-9db0-870de4412947" type="Noun">
+          <Vi>Mức độ tập trung hoặc khẩn trương</Vi>
+          <En>The degree of concentration, focus, or emotional strain in a situation.</En>
+          <Example>The intensity of the negotiations surprised everyone involved.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14ba0f8e-5961-4dbd-8e57-19b4b7adb7d8">
+              <Vi>Mô tả một tình huống làm việc hoặc thi đấu căng thẳng, đòi hỏi sự tập trung cao.</Vi>
+              <En>Describing a high-stakes or demanding situation requiring high focus, such as work or sports.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
