@@ -1,0 +1,52 @@
+<Vocab id="dc6385d9-a901-4917-bee8-593b1ac617dc" word="revision" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c9d1ac86-3786-4857-be95-9cbf5da4ecc7" value="Writing" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ec878074-cddd-4ff1-9096-8dffe427511b" ipa="/rɪˈvɪʒ.ən/" vi_ipa="ri-vích-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b5e731fe-0885-465e-a7fd-7ec24cb0c3b7" type="Noun">
+          <Vi>Sự sửa đổi, chỉnh lý (đặc biệt là văn bản, tài liệu)</Vi>
+          <En>An act of revising, especially a thorough review and correction of a text, document, or plan.</En>
+          <Example>She spent three days working on the final revision of her thesis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52182d32-5625-4306-ba01-821c75355a2e">
+              <Vi>Sinh viên chỉnh sửa bài luận sau khi nhận phản hồi từ giảng viên.</Vi>
+              <En>A student revises an essay after receiving feedback from an instructor.</En>
+            </Situation>
+            <Situation id="a7a174a2-2e43-405d-bd6e-acb3c265c9c4">
+              <Vi>Luật sư kiểm tra và cập nhật bản nháp hợp đồng trước khi ký.</Vi>
+              <En>A lawyer reviews and updates a draft contract before signing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4253d629-d22d-4060-9cad-18f10025cc88" type="Noun">
+          <Vi>Bản được sửa đổi, bản hiệu đính</Vi>
+          <En>A revised version of a book, document, or other written work.</En>
+          <Example>The second edition of the textbook is a revised version with updated statistics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5eeae34e-b9f0-4940-ae74-d50a3d3f519a">
+              <Vi>Nhà xuất bản phát hành bản hiệu đính của cuốn sách sau khi phát hiện lỗi in.</Vi>
+              <En>The publisher released a revised edition of the book after discovering printing errors.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
