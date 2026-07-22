@@ -1,0 +1,36 @@
+<Vocab id="cdfa2311-acaa-421d-a53c-d529ebd8f940" word="quit" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fc561a2a-9b16-4001-b61c-c8f5a99c9437" ipa="/kwɪt/" vi_ipa="c-u-i-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d07eac9c-153d-46e6-8476-0615c4896811" type="Verb">
+          <Vi>thôi, từ bỏ, nghỉ việc</Vi>
+          <En>to leave or stop doing, participating in, or being involved with something; to leave a job or position</En>
+          <Example>She decided to quit her job and travel the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1dc8f6fc-e0fe-4f49-9cbb-b6deb297a1d9">
+              <Vi>Tình huống người nói quyết định ngừng tham gia một hoạt động hoặc rời bỏ công việc.</Vi>
+              <En>A person decides to stop participating in an activity or leave their job.</En>
+            </Situation>
+            <Situation id="d34b344d-402a-4bd0-998f-00d8b2384b28">
+              <Vi>Tình huống người nói từ bỏ một thói quen xấu (như hút thuốc).</Vi>
+              <En>A person stops a bad habit (e.g., smoking).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

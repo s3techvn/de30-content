@@ -1,0 +1,32 @@
+<Vocab id="646b5d4c-67d9-4352-be93-7d2c10c2ec7d" word="tried" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b86acfb-dcf3-41be-af03-9eaf58c7496b" ipa="/traɪd/" vi_ipa="t-rai-d">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44b5dd13-ede2-424f-aef5-0f750b7d6dd6" type="Adjective">
+          <Vi>đã được thử, đã được kiểm nghiệm, đáng tin cậy do đã qua thử nghiệm</Vi>
+          <En>proven to be effective or reliable through testing or experience; tested and verified.</En>
+          <Example>She only uses tried-and-true methods in her classroom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ddfac8be-5a50-44ff-8726-460ed0261bff">
+              <Vi>Mô tả một phương pháp, thiết bị, hoặc người đã được kiểm chứng qua thời gian và cho kết quả tốt.</Vi>
+              <En>Describing a method, device, or person that has been tested over time and proven effective.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
