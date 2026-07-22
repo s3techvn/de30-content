@@ -1,0 +1,38 @@
+<Vocab id="758cf801-da53-49b4-ab31-de3e2f010446" word="ecological" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="02c5f2d0-55c5-4ebc-adce-2be266b6a7aa" value="Conservationist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89b6f50f-6c55-44b4-9c35-0ad62f995c20" ipa="/ˌiː.kəˈlɒk.əl.ər/" vi_ipa="i-ka-lốc-ơ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c52b8d37-bf52-42f1-9255-7ea79848f789" type="Adjective">
+          <Vi>thuộc về sinh thái học; liên quan đến hệ sinh thái</Vi>
+          <En>relating to the branch of biology that deals with the relations of organisms to one another and to their physical surroundings</En>
+          <Example>The ecological impact of deforestation in the Amazon is still being studied.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="efcabda1-674a-44ba-a6ad-cf66d6288a3e">
+              <Vi>Mô tả các yếu tố tự nhiên ảnh hưởng đến sự sống và môi trường sống của sinh vật.</Vi>
+              <En>Describing natural factors affecting the living conditions and habitats of organisms.</En>
+            </Situation>
+            <Situation id="b2ef931a-5406-4af6-8a6c-df43322e7bcb">
+              <Vi>Liên quan đến các chính sách bảo vệ môi trường dựa trên hiểu biết về hệ sinh thái.</Vi>
+              <En>Relating to environmental policies based on understanding of ecosystems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
