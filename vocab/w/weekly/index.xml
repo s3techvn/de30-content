@@ -1,0 +1,46 @@
+<Vocab id="7fa179fb-d155-49a0-b1ad-65b34d5d2bf7" word="weekly" type="short" status="done">
+  <Topics>
+    <Topic id="5517f7fe-ce28-4b61-9554-763ca1550087" value="Time and Scheduling" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b4aea5b2-cedd-4ce5-b088-1ff4a265f38f" ipa="/ˈwiː.kli/" vi_ipa="wi:–kli">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="495acb29-72a1-4509-a844-07315465c082" type="Adjective">
+          <Vi>Hàng tuần; hàng bảy ngày</Vi>
+          <En>Occurring or published once every week.</En>
+          <Example>The company holds a weekly staff meeting every Monday morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f755d4f-0b54-4a11-aa82-04c3a06c5bf5">
+              <Vi>Mô tả sự kiện, ấn phẩm, hoặc hoạt động diễn ra định kỳ mỗi tuần.</Vi>
+              <En>Describing an event, publication, or activity that recurs every seven days.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9db86efa-88e8-43bb-98a0-cc509693ba0f" type="Noun">
+          <Vi>Tạp chí/tuần báo</Vi>
+          <En>A publication that is issued once a week.</En>
+          <Example>She reads *The Economist* weekly to stay updated on global economics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e01ea84-2d4c-4d04-b7da-1ef7c7b7b8da">
+              <Vi>Dùng để chỉ các ấn phẩm định kỳ hàng tuần, đặc biệt là báo chí.</Vi>
+              <En>Used to refer to periodical publications released on a weekly basis, especially news magazines.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

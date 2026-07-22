@@ -734,3 +734,4 @@ dumb
 month
 sat
 dan
+weekly
