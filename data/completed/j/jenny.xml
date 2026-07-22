@@ -1,0 +1,45 @@
+<Vocab id="0055ccc6-6774-4d64-b85b-fedd83ef4d69" word="jenny" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="27b445e5-7641-453e-bcf5-51219519f457" ipa="/ˈdʒɛn.i/" vi_ipa="djen-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d532ee1-c1ca-418f-b657-790959088ab1" type="Noun">
+          <Vi>con lừa cái</Vi>
+          <En>a female donkey</En>
+          <Example>She feeds the jenny and her foal every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="737be1d7-17b9-4a3e-8385-ee125d5d60a9">
+              <Vi>Tình huống mô tả việc chăm sóc hoặc nói chuyện về con lừa cái trong trang trại.</Vi>
+              <En>Scenario describing caring for or talking about a female donkey on a farm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c4a6f287-771b-42e3-b660-29d43a9d8415" type="Noun">
+          <Vi>máy dệt tự động (cũ)</Vi>
+          <En>an early automatic loom, especially one operated by a single person</En>
+          <Example>The textile factory used a jenny to weave fine silk.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="1f08e52a-9081-4d76-bc8c-034107ae0cbf">
+              <Vi>Tình huống liên quan đến lịch sử công nghệ dệt vải vào thế kỷ 18–19.</Vi>
+              <En>Scenario related to textile manufacturing history in the 18th–19th centuries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
