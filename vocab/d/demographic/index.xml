@@ -1,0 +1,64 @@
+<Vocab id="b16d5271-293e-4072-bc35-b1588208bb61" word="demographic" type="short" status="done">
+  <Topics>
+    <Topic id="59701dac-e4e8-4899-8e51-a61c6f57c9da" value="Social Science" />
+  </Topics>
+  <Professions>
+    <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" value="Market Researcher" />
+    <Profession id="3a10e35d-999e-4fc8-b596-1784cf9894e7" value="Demographer" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8eeed35b-543c-407a-bb56-5b6eba45d41d" ipa="/ˌdem.əˈɡræf.ɪk/" vi_ipa="đê-mô-gra-phíc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e4bf0950-aa4d-4b36-9793-7c30a27fd466" type="Adjective">
+          <Vi>thuộc về nhân khẩu học; đặc trưng cho một nhóm dân số cụ thể</Vi>
+          <En>relating to the structure and characteristics of human populations, especially age, gender, ethnicity, and income distribution</En>
+          <Example>The company analyzed demographic data to tailor its marketing strategy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd1380dc-1835-4cb4-884d-e14861e08f1e">
+              <Vi>Mô tả đặc điểm dân số như tuổi, giới tính, thu nhập trong một khu vực.</Vi>
+              <En>Describing population characteristics such as age, gender, and income in a region.</En>
+            </Situation>
+            <Situation id="7b76b966-540e-4852-a998-f3550b6c1e32">
+              <Vi>Phân tích thị trường dựa trên nhóm người tiêu dùng cụ thể.</Vi>
+              <En>Analyzing markets based on specific consumer groups.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="80b082ce-3b2f-4bf8-996a-b62a21c999d7" ipa="/ˌdem.əˈɡræf.ɪk/" vi_ipa="đê-mô-gra-phíc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9e41fb9-7653-46a8-b290-c6351f3eebab" type="Noun">
+          <Vi>nhóm dân số; nhóm người tiêu dùng được xác định bởi các đặc điểm nhân khẩu học</Vi>
+          <En>a particular segment of a population, especially as identified by age, gender, income, or other statistical characteristics</En>
+          <Example>The target demographic for the new app is adults aged 18 to 35.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ea5a53d-1206-4c25-aa95-27454bdd273e">
+              <Vi>Xác định nhóm khách hàng mục tiêu dựa trên độ tuổi và thu nhập.</Vi>
+              <En>Identifying target customers based on age and income.</En>
+            </Situation>
+            <Situation id="a150a7f0-7c3e-41fa-a52a-5a5b1afd0765">
+              <Vi>Báo cáo về xu hướng dân số trong khu vực đô thị.</Vi>
+              <En>Reporting on demographic trends in urban areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -363,4 +363,6 @@
   <Profession id="e411117b-0985-4764-852d-4efc6da017d8" slug="freight-forwarder" value="Freight Forwarder" />
   <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" slug="trainer" value="Trainer" />
   <Profession id="3a10e35d-999e-4fc8-b596-1784cf9894e7" slug="demographer" value="Demographer" />
+  <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" slug="museum-curator" value="Museum Curator" />
+  <Profession id="0f406918-6e05-4472-819a-862f59ebe79b" slug="treasure-hunter" value="Treasure Hunter" />
 </Professions>
