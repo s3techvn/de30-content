@@ -1,0 +1,38 @@
+<Vocab id="7dfa4f0f-7332-4c61-8df0-33361a212790" word="unlimited" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c14d86ed-88e3-473a-8e25-d4536c974689" ipa="/ˌʌnˈlɪm.ɪ.tɪd/" vi_ipa="ân-lim-i-tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12855295-3794-4960-8f4c-8675718394d1" type="Adjective">
+          <Vi>Vô hạn; không giới hạn</Vi>
+          <En>Not limited in size, amount, or extent; having no boundaries or restrictions.</En>
+          <Example>They offer unlimited data for a fixed monthly fee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8f9160e-da74-4020-ad79-2908cd872966">
+              <Vi>Mô tả một dịch vụ hoặc quyền truy cập không bị giới hạn về dung lượng hoặc tần suất sử dụng.</Vi>
+              <En>Describing a service or access that has no restrictions on usage volume or frequency.</En>
+            </Situation>
+            <Situation id="fed7dcc9-9c35-4a6c-996b-d1c457872756">
+              <Vi>Dùng để nhấn mạnh sự tự do tuyệt đối hoặc khả năng không bị ràng buộc.</Vi>
+              <En>Used to emphasize complete freedom or unrestricted capability.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
