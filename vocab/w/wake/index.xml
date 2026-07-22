@@ -1,0 +1,70 @@
+<Vocab id="6f09db36-86ee-4393-8c35-d30cbd78b265" word="wake" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e95c342-ded9-4f2d-a231-17eaa4154ad3" ipa="/weɪk/" vi_ipa="vây-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="763ceb36-05fd-4b07-bbe2-1c364339bc0d" type="Verb">
+          <Vi>thức dậy; đánh thức</Vi>
+          <En>to stop sleeping; to cause someone to stop sleeping</En>
+          <Example>She woke up at 6 a.m. and started her morning routine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88dba2f9-03f2-4287-9bd6-a03adafee36c">
+              <Vi>Mô tả hành động tỉnh dậy sau khi ngủ.</Vi>
+              <En>Describes the action of becoming conscious after sleep.</En>
+            </Situation>
+            <Situation id="57c6e99b-2274-45d1-b22a-7a6e838fd4fd">
+              <Vi>Mô tả việc làm ai đó tỉnh giấc (ví dụ: chuông báo thức reo).</Vi>
+              <En>Describes causing someone to become awake (e.g., alarm clock ringing).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="59accc9a-3b8b-48cb-af3e-dd1fa46e5ab6" type="Verb">
+          <Vi>gây ra (cảm xúc, kỷ niệm, v.v.) trỗi dậy</Vi>
+          <En>to cause a feeling, memory, or reaction to begin again</En>
+          <Example>The sight of the old house woke memories of her childhood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c25c2399-a11e-4f1b-942b-561013f932d5">
+              <Vi>Sử dụng khi một điều gì đó khiến ký ức hoặc cảm xúc quay trở lại.</Vi>
+              <En>Used when something triggers the return of memories or emotions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="12044956-8419-4c04-89c5-db3b3acd2383" ipa="/weɪk/" vi_ipa="vây-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a03d8a7-a4c6-4560-903d-845353a9d096" type="Noun">
+          <Vi>buổi thức tỉnh (sau khi ai qua đời); lễ tưởng niệm</Vi>
+          <En>a ceremony held before a burial, especially in some Christian traditions, where family and friends gather to pay respects to the deceased</En>
+          <Example>The family held a wake for their grandfather in the living room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84fc930d-1c31-42c3-8512-8b4f3413974b">
+              <Vi>Sự kiện tổ chức trước tang lễ để viếng người đã mất.</Vi>
+              <En>An event held before the funeral to honor the deceased.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
