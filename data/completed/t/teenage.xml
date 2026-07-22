@@ -1,0 +1,40 @@
+<Vocab id="84f92fe3-675f-4601-a58c-924fa58d05ae" word="teenage" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="34da5267-599a-4586-b093-24a4fec40b97" value="Youth Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4ea10ef2-cffd-4942-a4cc-161ddc376afe" ipa="/ˈtiːn.eɪdʒ/" vi_ipa="ti-nhê-êch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e7badf38-cd97-4e03-b201-5bb97535ba55" type="Adjective">
+          <Vi>thanh thiếu niên; ở độ tuổi từ 13 đến 19</Vi>
+          <En>relating to or characteristic of teenagers, especially aged 13 to 19</En>
+          <Example>She’s struggling with typical teenage mood swings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d16983b4-c51a-489b-8e16-b35869b7a84c">
+              <Vi>Mô tả hành vi, sở thích, hoặc đặc điểm của người trong độ tuổi dậy thì.</Vi>
+              <En>Describing behaviors, interests, or traits of adolescents.</En>
+            </Situation>
+            <Situation id="5cad6f99-da7f-4a14-83cc-e8b9731956d1">
+              <Vi>Chỉ giai đoạn phát triển từ 13–19 tuổi.</Vi>
+              <En>Refers specifically to the developmental stage between ages 13 and 19.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
