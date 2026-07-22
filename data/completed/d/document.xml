@@ -1,0 +1,66 @@
+<Vocab id="e056d808-dd19-4bb5-9d88-b7b28c5487ea" word="document" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" value="Administrator" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6ccfc1e1-4452-4aef-ad20-c6cd58c1ad26" ipa="/ˈdɑː.kjə.mənt/" vi_ipa="đờ-khi-ơ-mờ-đờ-nt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8271df6e-bb30-4b08-8622-0cbc776c3d6b" type="Noun">
+          <Vi>tài liệu</Vi>
+          <En>A written or printed paper that provides information or proof.</En>
+          <Example>Please submit the required document before the deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1ceaf2f-40df-4f1a-85ab-a1c792938660">
+              <Vi>Người nộp hồ sơ cần xuất trình giấy tờ tùy thân và đơn xin việc.</Vi>
+              <En>The applicant must present identification and a resume.</En>
+            </Situation>
+            <Situation id="41cd08ed-776a-4c9a-9886-e85dd4f9cba0">
+              <Vi>Luật sư tham khảo các tài liệu pháp lý để chuẩn bị vụ án.</Vi>
+              <En>The lawyer reviews legal documents to prepare the case.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="64ba43d9-ba42-410b-9ece-22fb1f7812b4" ipa="/ˈdɑː.kjə.meɪnt/" vi_ipa="đờ-khi-ơ-mờ-đờ-nt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0caa678b-ac14-4ad6-8fa9-cb09dbc0587b" type="Verb">
+          <Vi>ghi chép, ghi lại, lập hồ sơ</Vi>
+          <En>To record information in writing or digitally.</En>
+          <Example>The officer documented every detail of the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06366553-35b7-4877-9623-70a5510e8ad9">
+              <Vi>Bác sĩ ghi lại triệu chứng và chẩn đoán vào hồ sơ bệnh án.</Vi>
+              <En>The doctor documented the symptoms and diagnosis in the patient's medical record.</En>
+            </Situation>
+            <Situation id="5c0958ee-2b0d-48f6-989e-830389a507f2">
+              <Vi>Ứng viên nên ghi lại các câu hỏi được hỏi trong buổi phỏng vấn.</Vi>
+              <En>Candidates should document the questions asked during the interview.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

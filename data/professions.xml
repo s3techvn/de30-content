@@ -278,4 +278,5 @@
   <Profession id="e823449c-1d45-43b4-b266-c49316963ff3" slug="analyst" value="Analyst" />
   <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" slug="event-organizer" value="Event Organizer" />
   <Profession id="059766fc-9897-4072-ac58-cd2453496279" slug="pet-owner" value="Pet Owner" />
+  <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" slug="administrator" value="Administrator" />
 </Professions>
