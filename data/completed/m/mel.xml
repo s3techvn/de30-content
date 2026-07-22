@@ -1,0 +1,33 @@
+<Vocab id="5cbe5df0-0d7e-43ff-9c72-3a6634b29933" word="mel" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b932661c-3273-40d4-b570-e1256d32297e" ipa="/mɛl/" vi_ipa="mên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="02b92165-b6cc-46f4-b018-2e02f541b1fa" type="Noun">
+          <Vi>mel (viết tắt của *melody*), giai điệu</Vi>
+          <En>A short, memorable sequence of notes in a song or piece of music; often used informally as shorthand for *melody*.</En>
+          <Example>She hummed the mel while tuning her guitar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42e77062-1012-4ee1-a035-462fb48f0f66">
+              <Vi>Nghe nhạc sĩ gõ phím piano và hát lại giai điệu ngắn của bài hát.</Vi>
+              <En>A musician taps piano keys and sings back the short tune of a song.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

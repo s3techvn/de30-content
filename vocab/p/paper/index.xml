@@ -1,0 +1,64 @@
+<Vocab id="5c6e23cf-9772-4b41-9084-f6e9e4c8510d" word="paper" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b53ecd91-0815-4565-b650-8c187f81f1b9" value="Office" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2189cec9-a7f8-490a-b7cf-d37d535b8485" ipa="/ˈpeɪ.pər/" vi_ipa="pi-pơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="61cbdf11-6deb-4101-9138-a621220a941a" type="Noun">
+          <Vi>Tờ giấy (vật liệu làm từ bột gỗ hoặc sợi thực vật)</Vi>
+          <En>A thin material produced from pulp, typically used for writing, printing, or wrapping.</En>
+          <Example>She wrote her notes on a sheet of blank paper.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="651aa54c-db19-413b-8583-bc33c3e7edd6">
+              <Vi>Sử dụng giấy để ghi chép hoặc in ấn.</Vi>
+              <En>Using paper for writing, printing, or drawing.</En>
+            </Situation>
+            <Situation id="ec241ada-6f37-4d77-b3ef-4336597758db">
+              <Vi>Giấy tái chế để bảo vệ môi trường.</Vi>
+              <En>Recycled paper used for environmental sustainability.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="75b86109-690d-4adb-9b64-639383db8105" type="Noun">
+          <Vi>Bài báo học thuật; luận văn</Vi>
+          <En>A written document, especially one presenting research or analysis, often published in an academic journal.</En>
+          <Example>He presented his findings in a research paper at the conference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d761a28b-b6ac-40ae-bc92-5575071015ec">
+              <Vi>Sinh viên viết luận văn tốt nghiệp.</Vi>
+              <En>A student writing a graduation thesis or academic paper.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4f3611ff-d218-4738-9e73-e2df835e1ea2" type="Noun">
+          <Vi>Tờ báo (tờ in của một số báo)</Vi>
+          <En>A newspaper; a printed publication containing news, articles, and advertisements.</En>
+          <Example>I read the sports section in the morning paper.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1eda0ba1-8eab-4d08-b73a-ad646ae4a289">
+              <Vi>Đọc báo mỗi sáng để cập nhật tin tức.</Vi>
+              <En>Reading a newspaper daily to stay informed about current events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
