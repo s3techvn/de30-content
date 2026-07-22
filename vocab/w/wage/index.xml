@@ -1,0 +1,48 @@
+<Vocab id="daf7b95a-aa6a-4c84-a09f-fb93f902bbcc" word="wage" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="15fc4cbe-2431-4e2f-8a14-dc61f1578c31" value="Employment" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e041f274-dd3e-4b8b-925c-ba4764f93961" ipa="/weɪdʒ/" vi_ipa="vê-i-djì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="563d221e-20e1-4f33-8d9f-79d1307a9f60" type="Noun">
+          <Vi>Lương, tiền công</Vi>
+          <En>Money paid by an employer to an employee, typically calculated on an hourly, daily, or piecework basis.</En>
+          <Example>The factory workers received a 5% wage increase last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c664c81d-41af-405e-a096-23455cb64daf">
+              <Vi>Thương lượng mức lương theo giờ hoặc theo sản phẩm.</Vi>
+              <En>Negotiating hourly or piecework pay rates.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9f44d776-044a-4c86-9303-1794d47c41da" type="Verb">
+          <Vi>Đưa ra, tiến hành (một chiến dịch, cuộc đấu tranh…)</Vi>
+          <En>To carry out or initiate (a campaign, struggle, or war), especially a prolonged or determined one.</En>
+          <Example>The union decided to wage a strike to demand better working conditions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68af721c-cbf9-4e5c-9eff-9b40f9e8b073">
+              <Vi>Mô tả việc phát động một chiến dịch hoặc cuộc đấu tranh (như bãi công, chiến tranh).</Vi>
+              <En>Describing the initiation of a campaign or struggle, such as a strike or war.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

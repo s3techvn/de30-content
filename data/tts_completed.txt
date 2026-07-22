@@ -337,3 +337,4 @@ paper
 mel
 record
 tim
+wage

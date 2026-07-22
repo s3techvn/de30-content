@@ -1,0 +1,61 @@
+<Vocab id="fe12fa6c-89b5-44f3-9dfd-e63e07a97466" word="stay" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="96e878f9-a1a4-471a-bb6a-96f9eddbf93b" ipa="/steɪ/" vi_ipa="x-tei">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="095f539c-0b64-4b8e-aecb-07ee396f9776" type="Verb">
+          <Vi>Ở lại, lưu lại, không rời đi</Vi>
+          <En>To remain in a place or position without leaving</En>
+          <Example>She decided to stay at home instead of going to the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6ef55c8-f256-4e89-a672-76c8058f72a6">
+              <Vi>Ở lại một nơi vì lý do cá nhân, công việc, hoặc do hoàn cảnh (ví dụ: ở lại khách sạn qua đêm).</Vi>
+              <En>Remaining in a location due to personal choice, work, or circumstances (e.g., overnight at a hotel).</En>
+            </Situation>
+            <Situation id="f49e45dc-8469-4878-814a-c109e95e5ba9">
+              <Vi>Giữ nguyên trạng thái hoặc vị trí (ví dụ: giữ nguyên vị trí trong cuộc thi).</Vi>
+              <En>Maintaining a particular state or position (e.g., staying in the same position in a competition).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1c5ac3d0-9b24-484b-9b6d-d2d318fbb47f" type="Verb">
+          <Vi>Tạm dừng, ngừng lại (hành động)</Vi>
+          <En>To pause or suspend an action temporarily</En>
+          <Example>The pilot asked passengers to stay seated until the plane comes to a complete stop.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4d67d43-3df8-4f62-bf58-93a30efe9f41">
+              <Vi>Yêu cầu hoặc khuyên ai đó không di chuyển (thường trong tình huống an toàn).</Vi>
+              <En>Asking or advising someone not to move, often for safety reasons.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="743efd41-7a23-424b-afa8-de4993a58c3c" type="Verb">
+          <Vi>Giữ nguyên (một quyết định, cam kết, v.v.)</Vi>
+          <En>To maintain or adhere to a decision, promise, or commitment</En>
+          <Example>He promised to stay loyal to his principles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c0a37d22-b3cb-4f15-b324-6920b6dafacb">
+              <Vi>Giữ lời hứa, cam kết, hoặc nguyên tắc trong thời gian dài.</Vi>
+              <En>Keeping a promise, commitment, or principle over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
