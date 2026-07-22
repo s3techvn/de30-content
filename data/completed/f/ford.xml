@@ -1,0 +1,52 @@
+<Vocab id="b258651a-f62b-405d-a83a-c6cba00cfd1c" word="ford" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eb368261-8a0d-4674-acf7-2d2219eb1a7f" ipa="/fɔːrd/" vi_ipa="phoóp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="85ddd6e3-a11d-446b-acba-5dab0cebde7e" type="Noun">
+          <Vi>Cổng qua sông (đi bộ hoặc cưỡi ngựa), điểm qua sông nông</Vi>
+          <En>A shallow place in a river or stream where one can cross on foot or horseback, especially without a bridge.</En>
+          <Example>They crossed the river at a ford near the old mill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f453c795-1fb3-4750-9d93-5bf0fb4c9b27">
+              <Vi>Mô tả cảnh người dân hoặc quân đội vượt sông qua điểm nước nông.</Vi>
+              <En>Describing people or troops crossing a river at a shallow point.</En>
+            </Situation>
+            <Situation id="a0af852d-44a5-4ad3-a4eb-885165689394">
+              <Vi>Tên một địa danh tại Anh (ví dụ: Fordham, Stratford-upon-Avon).</Vi>
+              <En>A common element in English place names (e.g., Stratford-upon-Avon).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="203d0f01-f95f-48c3-99f4-f790b219453c" type="Noun">
+          <Vi>Công ty ô tô Ford (Ford Motor Company)</Vi>
+          <En>The American multinational automobile company, Ford Motor Company.</En>
+          <Example>He bought a used Ford Focus last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e166e64f-93d1-479c-a569-486faf206392">
+              <Vi>Người nói về xe hơi hiệu Ford trong giao thông hoặc mua bán.</Vi>
+              <En>Discussing a Ford-branded vehicle in everyday or commercial contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
