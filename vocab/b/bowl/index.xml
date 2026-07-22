@@ -1,0 +1,60 @@
+<Vocab id="ef4973ac-acdf-4c69-a2b8-3d7f8e159484" word="bowl" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="ee6c3918-377d-4f12-b8cd-982e3a605e2b" value="Waiter/Waitress" />
+    <Profession id="bbba1071-c04b-477a-ab8b-5e306a042793" value="Bowling Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d474ba92-d383-4a79-8c71-b94dc8f592ef" ipa="/boʊl/" vi_ipa="bowl">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cbd42154-d173-4209-b6ce-9e3ea5d094b6" type="Noun">
+          <Vi>Cái bát; cái chậu lớn; quả bóng dùng trong bowling</Vi>
+          <En>A deep, round container used for holding food or liquids; also, a spherical object used in bowling.</En>
+          <Example>She poured cereal into a bowl and added milk.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5fbf4fc1-042e-4791-909c-a0c5f45a2ea7">
+              <Vi>Đựng đồ ăn, đặc biệt là đồ ăn lỏng hoặc hỗn hợp như súp, cháo, ngũ cốc.</Vi>
+              <En>Used to hold food, especially liquids or semi-liquids like soup, porridge, or cereal.</En>
+            </Situation>
+            <Situation id="5ff0e18b-0194-41d8-a0e4-adc92c95e78b">
+              <Vi>Trong môn bowling, quả bóng được ném vào đường bowling để đánh ngã các gậy (pin).</Vi>
+              <En>In bowling, the heavy spherical ball rolled down the lane to knock down pins.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="16c7c9ba-b715-44d1-a2a2-b24755646581" type="Verb">
+          <Vi>Đựng trong bát; ném bóng bowling; quay tròn (để tạo hình)</Vi>
+          <En>To place food into a bowl; to roll a bowling ball; to shape dough by forming it into a round ball.</En>
+          <Example>He bowls the ball down the lane with great accuracy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b6108b6-5c41-4209-a01d-b579946cb944">
+              <Vi>Hành động cho thức ăn vào bát trước khi phục vụ.</Vi>
+              <En>The action of placing food into a bowl before serving.</En>
+            </Situation>
+            <Situation id="95b70daa-368d-4238-bbb1-9506620567f3">
+              <Vi>Trong bowling, ném bóng xuống đường bowling để đánh ngã gậy.</Vi>
+              <En>In bowling, the act of rolling the ball down the lane to knock down pins.</En>
+            </Situation>
+            <Situation id="8c3c8fba-fac1-4efc-bf9a-7a6afc64b1ba">
+              <Vi>Trong làm bánh, vo bột thành hình tròn trước khi nướng.</Vi>
+              <En>In baking, shaping dough into a smooth, round ball before proofing or baking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -348,4 +348,5 @@
   <Profession id="96b0f135-7f8e-4dc5-87db-cac9ea40551c" slug="beer-sommelier" value="Beer Sommelier" />
   <Profession id="ee6c3918-377d-4f12-b8cd-982e3a605e2b" slug="waiter/waitress" value="Waiter/Waitress" />
   <Profession id="bbba1071-c04b-477a-ab8b-5e306a042793" slug="bowling-coach" value="Bowling Coach" />
+  <Profession id="7e9f2f8b-b026-49c7-9351-33ec17c9a557" slug="small-business-owner" value="Small Business Owner" />
 </Professions>

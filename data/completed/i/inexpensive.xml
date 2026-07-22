@@ -1,0 +1,40 @@
+<Vocab id="bde081c2-a32e-4bb4-a3f3-916939305a9d" word="inexpensive" type="short" status="done">
+  <Topics>
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" value="Consumer" />
+    <Profession id="7e9f2f8b-b026-49c7-9351-33ec17c9a557" value="Small Business Owner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="83e7e9e2-a1f5-41b6-85f4-3f685acce5da" ipa="/ɪnˈkspɛns.ɪv/" vi_ipa="in-khén-siv">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e91e1466-db9d-4e7c-9541-eef01903a30e" type="Adjective">
+          <Vi>giá rẻ, không đắt</Vi>
+          <En>Costing little money; low in price.</En>
+          <Example>This restaurant offers delicious meals at an inexpensive price.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="019b8ae8-b41e-4be2-9c96-7afa4d3a5da4">
+              <Vi>Mô tả một sản phẩm hoặc dịch vụ có mức giá thấp, phù hợp với người có ngân sách hạn chế.</Vi>
+              <En>Describing a product or service that is affordable and low-cost.</En>
+            </Situation>
+            <Situation id="8f23382c-7108-474d-a125-1a1c6dd7d3b4">
+              <Vi>So sánh giá cả giữa hai mặt hàng, trong đó một mặt hàng có giá thấp hơn đáng kể.</Vi>
+              <En>Comparing prices of two items, where one is significantly cheaper than the other.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
