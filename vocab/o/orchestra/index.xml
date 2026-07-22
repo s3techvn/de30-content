@@ -1,0 +1,38 @@
+<Vocab id="dea06056-f19a-4b20-9dfc-334551d04633" word="orchestra" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="ce767566-c0ce-4156-ae82-3e48dab78633" value="Conductor" />
+    <Profession id="c835a8dd-adbd-4ddf-9d21-b8f692c6e80f" value="Composer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fd0a24eb-c13c-41bb-89b9-b7c5d30c0f4a" ipa="/ˈɔːr.kə.strə/" vi_ipa="ớ-cờ-trờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b6977149-6cff-44cd-8a7b-ea9e029df2dd" type="Noun">
+          <Vi>Đoàn nhạc giao hưởng</Vi>
+          <En>A large group of musicians who play various instruments together, typically including strings, woodwinds, brass, and percussion, led by a conductor.</En>
+          <Example>The orchestra performed a stunning rendition of Beethoven’s Fifth Symphony.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dca92a6a-a133-4f99-ba1b-52ac39235a5c">
+              <Vi>Nghe một buổi hòa nhạc tại nhà hát lớn với nhiều nhạc sĩ chơi cùng nhau.</Vi>
+              <En>Attending a concert at a grand theater where many musicians perform together.</En>
+            </Situation>
+            <Situation id="c1abe0aa-3653-473f-8c60-626712d4e6a3">
+              <Vi>Quan sát nhạc trưởng điều khiển toàn bộ dàn nhạc.</Vi>
+              <En>Watching the conductor guide the musicians with precise gestures and tempo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
