@@ -1,0 +1,46 @@
+<Vocab id="5a5c5a54-e2de-4eb6-8882-0461bce402db" word="unto" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2de0f6c2-6812-408e-88e3-cb5f873a9667" ipa="/ˈʌn.tuː/" vi_ipa="ân-tu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40654cf9-6891-4d27-8430-7b25d434b169" type="Preposition">
+          <Vi>tới, cho, với (tương đương với "to" trong tiếng Anh hiện đại)</Vi>
+          <En>To (used in archaic, poetic, or religious contexts)</En>
+          <Example>Do unto others as you would have them do unto you.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="02d261f7-e551-4699-8058-58c1d24dc338">
+              <Vi>Dùng trong các trích dẫn Kinh Thánh hoặc văn học cổ điển</Vi>
+              <En>Used in biblical quotes or classical literature</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="23fc2759-fc90-4bfd-a524-e41fc86558c6" type="Preposition">
+          <Vi>cho đến, cho tới (tương đương với "until" trong tiếng Anh hiện đại)</Vi>
+          <En>Until (used in archaic or poetic contexts)</En>
+          <Example>Be thou faithful unto death, and I will give thee a crown of life.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="cdec6874-e7c5-4adb-a9e4-bc334975de8b">
+              <Vi>Dùng trong thơ ca hoặc văn bản cổ mang tính trang trọng</Vi>
+              <En>Used in poetry or formal archaic texts</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

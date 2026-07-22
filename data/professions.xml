@@ -271,4 +271,7 @@
   <Profession id="aaa0deed-0b19-4268-ab81-3bd8b8fb8010" slug="consultant" value="Consultant" />
   <Profession id="90161946-c6db-49b1-9412-720b8e73559a" slug="camping-guide" value="Camping Guide" />
   <Profession id="e4aa13b0-4272-41b9-a389-9faf8d59e367" slug="outdoor-instructor" value="Outdoor Instructor" />
+  <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" slug="game-designer" value="Game Designer" />
+  <Profession id="3b061ab0-3aad-46d4-89e6-97266cef637f" slug="fantasy-writer" value="Fantasy Writer" />
+  <Profession id="bc1e22c6-2d1b-4477-baf4-248ff3c9441c" slug="career-coach" value="Career Coach" />
 </Professions>
