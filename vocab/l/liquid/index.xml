@@ -1,0 +1,56 @@
+<Vocab id="e5bdbfa0-711c-4bcb-b38c-f149aadeac27" word="liquid" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ead6e924-dbee-4a50-98bc-ba1b5d539493" ipa="/ˈlɪk.wɪd/" vi_ipa="lích-uí">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8bccd0b0-afe3-479a-bf6a-888187d22140" type="Adjective">
+          <Vi>Lỏng; chất lỏng; trong suốt, rõ ràng</Vi>
+          <En>Having the physical properties of a liquid; not solid or gas; clear and transparent.</En>
+          <Example>The water turned into ice when frozen, but at room temperature it is a clear liquid.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb339c38-c1b7-4c72-9af0-0bdbbc13e974">
+              <Vi>Mô tả trạng thái vật lý của nước, dầu, sữa, v.v.</Vi>
+              <En>Describing the state of substances like water, oil, or milk that flow and take the shape of their container.</En>
+            </Situation>
+            <Situation id="f6a05458-5ce0-4562-90bc-f0d1143a6fc5">
+              <Vi>Dùng để nói về sự rõ ràng, minh bạch (nghĩa bóng).</Vi>
+              <En>Used metaphorically to describe transparency or clarity, e.g., "liquid reasoning".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e06f3303-09ce-4c33-af35-375be4d431a9" type="Noun">
+          <Vi>Chất lỏng</Vi>
+          <En>A substance that flows freely but is of constant volume, such as water or oil.</En>
+          <Example>Be careful not to spill the liquid—it’s hot!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f55340fa-626b-4b63-9d6a-9895a3d3ad6e">
+              <Vi>Khi nói về các chất trong phòng thí nghiệm hóa học.</Vi>
+              <En>When referring to substances in a chemistry lab.</En>
+            </Situation>
+            <Situation id="07f02fe6-e435-48fe-97e0-f512bac5679e">
+              <Vi>Trong nấu ăn, chỉ các nguyên liệu dạng lỏng như nước, sữa, nước dùng.</Vi>
+              <En>In cooking, referring to liquid ingredients like broth, milk, or water.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,32 @@
+<Vocab id="d8b814f0-3b55-489f-85a0-291dde6a023c" word="jennifer" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="2d94a089-5564-417e-ad6b-fc7af712e75d" value="Actress" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c75263e-05b5-4930-911b-711dfa08d159" ipa="/ˈdʒɛn.ɪ.fər/" vi_ipa="jen-ni-fơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fce3dd82-8057-453f-a436-49aa6848c196" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng cho nữ – một biến thể của tên Jennifer, có nguồn gốc từ tên Welsh Gwendolen, nghĩa là “trắng sáng, trong sáng”.</Vi>
+          <En>A feminine given name, a variant of Jennifer, derived from the Welsh name Gwendolen, meaning “white brow” or “blessed, pure”.</En>
+          <Example>Jennifer Aniston is a famous American actress known for her role in *Friends*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e28ede6-2f3e-4b36-af29-c00d2c43188a">
+              <Vi>Thường gặp trong văn hóa phương Tây, đặc biệt phổ biến ở Mỹ những năm 1970–1990.</Vi>
+              <En>Common in Western cultures, especially popular in the United States from the 1970s to the 1990s.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

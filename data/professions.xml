@@ -331,4 +331,5 @@
   <Profession id="ba3ae16d-5822-45c9-b795-22d059b32f28" slug="neurologist" value="Neurologist" />
   <Profession id="aec31f5f-64af-43bf-93a7-be9241770f66" slug="neuroscientist" value="Neuroscientist" />
   <Profession id="970389cd-6b91-4620-8b9c-5d2909324e75" slug="ai-engineer" value="AI Engineer" />
+  <Profession id="2d94a089-5564-417e-ad6b-fc7af712e75d" slug="actress" value="Actress" />
 </Professions>
