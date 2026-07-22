@@ -1,0 +1,34 @@
+<Vocab id="c3d7c26a-4500-4c92-ae72-c8d2132ea789" word="postal" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="67904fc7-7357-4c88-9065-b4a6716b394f" value="Mail Carrier" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ec9d34d-dae2-415d-90ac-013fb0f4557a" ipa="/ˈpoʊs.təl/" vi_ipa="pô-x-tờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dea36ca6-d6f5-4103-99ac-6a7e8ef56401" type="Adjective">
+          <Vi>thuộc về bưu điện, bưu phẩm</Vi>
+          <En>Relating to the mail or postal system.</En>
+          <Example>She works at the local postal facility.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5520fb45-9632-4a1d-afb8-7a61b9a0b388">
+              <Vi>Mô tả các hoạt động, dịch vụ, hoặc cơ sở liên quan đến bưu chính.</Vi>
+              <En>Describing activities, services, or facilities related to mail delivery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
