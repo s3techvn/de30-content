@@ -1,0 +1,53 @@
+<Vocab id="0e1ba5df-396e-41f1-bebd-af09b68e6f3e" word="expiration" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+    <Topic id="f54ea973-3cf9-440c-97d5-8e3ba6adaa26" value="Law &amp; Official Documents" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ef49ba96-39a1-4be8-86d6-3667a235a3bc" ipa="/ˌek.spəˈreɪ.ʃən/" vi_ipa="éc-xờ-rây-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cd5b61d4-8c16-4848-9b30-26c3cf4899be" type="Noun">
+          <Vi>Thời hạn hết hiệu lực; thời điểm hết hạn</Vi>
+          <En>The time at which something ceases to be valid, effective, or usable, especially a document, license, or product.</En>
+          <Example>The expiration of the passport will require renewal before travel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40c74658-40a0-49cc-ab9e-04e10efa7ea1">
+              <Vi>Ngày hết hạn của giấy tờ tùy thân như hộ chiếu, thị thực, hoặc bằng lái xe.</Vi>
+              <En>The date when official documents such as passports, visas, or driver’s licenses become invalid.</En>
+            </Situation>
+            <Situation id="8b83b2c6-8eff-498b-b47b-5f1b638d0ad3">
+              <Vi>Ngày hết hạn sử dụng của thuốc hoặc thực phẩm.</Vi>
+              <En>The date after which medication or food should no longer be consumed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1de77e02-18a1-4358-929e-4b4bab54df5b" type="Noun">
+          <Vi>Sự chấm dứt, kết thúc (đặc biệt trong y học)</Vi>
+          <En>The act or process of ending or ceasing, especially in medical contexts such as the end of life or a physiological process.</En>
+          <Example>After a long illness, his expiration occurred peacefully in his sleep.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="770655a2-4ae6-48b7-8ff1-9801c5f64972">
+              <Vi>Cái chết (thường mang sắc thái trang trọng hoặc y khoa).</Vi>
+              <En>Death, especially when used in formal or medical contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
