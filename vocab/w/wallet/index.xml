@@ -1,0 +1,37 @@
+<Vocab id="1c613a79-9dec-4249-a154-2d3533687b77" word="wallet" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="40999d68-926e-496e-af27-996682324ee9" ipa="/ˈwɑːl.ɪt/" vi_ipa="von-lít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bfaef786-275e-46e7-993b-8074d828e576" type="Noun">
+          <Vi>Cái ví (dùng để đựng tiền mặt, thẻ, giấy tờ nhỏ)</Vi>
+          <En>A small flat case used for carrying money, cards, and small personal items, typically kept in a pocket.</En>
+          <Example>He pulled a few bills from his wallet to pay for the coffee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="161df22c-d4d6-46f9-8462-516e2a6aac84">
+              <Vi>Tình huống: Mở ví để thanh toán tiền khi mua sắm hoặc đi du lịch.</Vi>
+              <En>Scenario: Opening a wallet to pay for purchases or during travel.</En>
+            </Situation>
+            <Situation id="1d74c427-9e4e-49c3-a0ca-cfb6974f2f5a">
+              <Vi>Tình huống: Nhớ quên ví khi ra khỏi nhà, dẫn đến không thể thanh toán.</Vi>
+              <En>Scenario: Realizing you forgot your wallet after leaving home, making payment impossible.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

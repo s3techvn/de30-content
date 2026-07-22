@@ -643,3 +643,4 @@ choose
 railway
 encryption
 linda
+wallet
