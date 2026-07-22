@@ -1,0 +1,38 @@
+<Vocab id="bb5624ea-39ec-4e95-9965-f4f5343111e5" word="delicious" type="short" status="done">
+  <Topics>
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="856adf36-7dd9-486f-a88b-b4e8654bf94a" value="Food Critic" />
+    <Profession id="0adc1cb0-75c1-4b9e-b7de-42c1ba63e796" value="Restaurant Server" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eac0e9b2-5aba-4877-9c63-cca7706bec1d" ipa="/dɪˈlɪʃ.əs/" vi_ipa="đi-lít-xờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9afd8feb-20b3-456c-bcc0-3106e921c499" type="Adjective">
+          <Vi>ngon, ngon miệng, ngon tuyệt vời</Vi>
+          <En>pleasing to the taste; having a very pleasant flavor.</En>
+          <Example>The chocolate cake was absolutely delicious.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dec2ce1f-1832-497d-9212-e02381e2062e">
+              <Vi>Mô tả món ăn có hương vị thơm ngon, khiến người ăn cảm thấy thích thú.</Vi>
+              <En>Describing food that tastes highly enjoyable and satisfying.</En>
+            </Situation>
+            <Situation id="a833b910-bae2-48b3-b524-9400870c28be">
+              <Vi>Dùng trong phản hồi tích cực sau khi nếm thử món ăn đặc biệt.</Vi>
+              <En>Used in positive feedback after tasting a special dish.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

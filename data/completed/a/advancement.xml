@@ -1,0 +1,40 @@
+<Vocab id="15860e80-2ee7-4ced-afb5-11394b8c3113" word="advancement" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="6feb3304-b234-4ada-afb4-743724554e3a" value="Professional" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fa6a7256-66fd-4d29-bbaa-8f760973b415" ipa="/ədˈvæn.səm.ənt/" vi_ipa="a-dvăng-xờ-mơt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="79074dda-474e-4168-8f40-a86675037732" type="Noun">
+          <Vi>Sự tiến bộ, sự thăng tiến</Vi>
+          <En>Forward movement towards a more advanced or successful state, especially in one’s career or education.</En>
+          <Example>Her dedication led to rapid advancement in her career.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ddcd0c9-a89a-40cf-8ad5-68082b3029fe">
+              <Vi>Mô tả việc thăng chức hoặc đạt được thành tựu học vấn cao hơn.</Vi>
+              <En>Describes being promoted or achieving higher academic or professional milestones.</En>
+            </Situation>
+            <Situation id="92a65cf3-c47a-4052-9e64-c5bace69c105">
+              <Vi>Tình huống khi một công nghệ hoặc xã hội phát triển vượt bậc.</Vi>
+              <En>A situation where technology or society shows significant progress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
