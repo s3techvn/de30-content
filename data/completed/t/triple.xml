@@ -1,0 +1,78 @@
+<Vocab id="5025d0f4-b361-4658-99b0-3b68f9f35526" word="triple" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a65f1c2b-71d5-42d0-84e6-b6adebd9ac92" ipa="/ˈtrɪp.əl/" vi_ipa="tờ-ríp-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="979e3674-9cc7-4405-a639-67d020c6361b" type="Adjective">
+          <Vi>ba lần, gấp ba</Vi>
+          <En>Three times as great in size, amount, or degree.</En>
+          <Example>The population of the city has tripled in the last decade.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4e18f67f-b0ff-48bf-ab79-e5791a55cd2b">
+              <Vi>Mô tả sự tăng trưởng hoặc quy mô tăng lên ba lần.</Vi>
+              <En>Used when describing something that has increased to three times its original size or value.</En>
+            </Situation>
+            <Situation id="90c61926-6e0a-4096-a7c4-83249c51908b">
+              <Vi>Trong toán học: nhân một số với 3.</Vi>
+              <En>In mathematics: multiplying a number by three.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e16fd994-310e-40ec-83de-bc1035c84e9c" type="Noun">
+          <Vi>số gấp ba, bộ ba</Vi>
+          <En>A set of three items, or the number obtained by multiplying a given number by three.</En>
+          <Example>She ordered a triple espresso and a triple-decker sandwich.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0698e6e5-9e4c-4d91-bc1a-bb2dee940aa3">
+              <Vi>Khi gọi món có ba lớp hoặc ba phần.</Vi>
+              <En>Used when ordering food or drink with three layers or portions (e.g., triple-decker sandwich, triple shot).</En>
+            </Situation>
+            <Situation id="922f283b-1431-4d10-b643-5063e60e0c61">
+              <Vi>Trong thể thao: ba điểm (trong một số môn như bóng rổ hoặc bóng đá Mỹ).</Vi>
+              <En>In sports: referring to a three-point shot or play (e.g., in basketball or American football).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fd9ad8f5-551c-4d3e-b129-fa9366326e6c" ipa="/trɪp.əl/" vi_ipa="tờ-ríp-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f825c841-09d1-4680-b50c-7aa7763260be" type="Verb">
+          <Vi>gấp ba, nhân ba</Vi>
+          <En>To increase by three times; to multiply by three.</En>
+          <Example>The company’s profits tripled after the new marketing campaign.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7476debb-03b8-4b97-976d-930788888a54">
+              <Vi>Mô tả sự tăng trưởng đột biến về số lượng hoặc giá trị.</Vi>
+              <En>Used when describing a rapid or significant increase to three times the original amount.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
