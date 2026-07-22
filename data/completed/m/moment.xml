@@ -1,0 +1,56 @@
+<Vocab id="e92baf5c-7a44-47f2-8eec-7b0bfae6996f" word="moment" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="773f5685-74ef-49dd-8d6e-0067acd12355" ipa="/ˈmoʊ.mənt/" vi_ipa="mô-men-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40e4cde8-7745-454a-b820-7a32c97f0ec3" type="Noun">
+          <Vi>chốc lát; khoảnh khắc</Vi>
+          <En>A very brief period of time; an instant.</En>
+          <Example>Wait a moment—I’ll be right with you.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4e8da6f-6d56-4ac7-a2ab-456f99f3d409">
+              <Vi>Yêu cầu người nghe chờ trong một thời gian ngắn.</Vi>
+              <En>Asking someone to wait briefly before proceeding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f316e3a3-06a2-4378-bb99-59920e4c8699" type="Noun">
+          <Vi>thời điểm quan trọng; thời khắc quyết định</Vi>
+          <En>A particular point in time, especially one of significance or opportunity.</En>
+          <Example>This is the moment we’ve been waiting for.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0be050b2-1b1c-497f-82d8-1f3b4f6ff08f">
+              <Vi>Mô tả một thời điểm đặc biệt trong cuộc sống hoặc sự kiện.</Vi>
+              <En>Describing a significant or pivotal point in a story, event, or life experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="47ed66b3-7bbe-4db4-874d-9c8bf9096223" type="Noun">
+          <Vi>thời gian ngắn (trong cụm từ “just a moment”)</Vi>
+          <En>A short, unspecified duration, often used in casual speech.</En>
+          <Example>Hold on for just a moment while I grab my keys.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1a1f75d-8790-4ae5-8f0d-121b3ed92058">
+              <Vi>Đang làm việc gì đó và cần thêm vài giây để hoàn tất.</Vi>
+              <En>Being momentarily occupied and needing a few seconds to finish a task.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
