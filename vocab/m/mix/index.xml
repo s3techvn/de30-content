@@ -1,0 +1,48 @@
+<Vocab id="8d6a1338-6124-4019-8785-e644c58b9bf1" word="mix" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="26ce9381-ac36-4962-bcaf-4c34b08bf230" ipa="/mɪks/" vi_ipa="mích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7176005e-3972-428b-9aaf-c5bcc4c8f974" type="Verb">
+          <Vi>trộn, pha trộn</Vi>
+          <En>To combine two or more substances together, typically so that they are no longer separate.</En>
+          <Example>She mixed flour, eggs, and milk to make pancake batter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="485c7ce6-30df-49f7-8e99-c9f1775a440e">
+              <Vi>Thao tác kết hợp các nguyên liệu trong nấu ăn hoặc pha chế.</Vi>
+              <En>The action of combining ingredients while cooking or mixing drinks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="09c5b312-0b24-415e-98cc-d835b8b686fa" type="Noun">
+          <Vi>sự trộn, hỗn hợp</Vi>
+          <En>A combination of different elements or things.</En>
+          <Example>The soil was a rich mix of compost and sand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cbe82ff3-0b76-447f-bf1b-192ec14a5fdf">
+              <Vi>Mô tả một hỗn hợp gồm nhiều thành phần khác nhau (ví dụ: đất, màu sơn, người trong nhóm).</Vi>
+              <En>Describing a combination of diverse components (e.g., soil, paint, people in a group).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
