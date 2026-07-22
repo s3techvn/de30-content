@@ -1,0 +1,38 @@
+<Vocab id="61ad26e1-038e-4179-8b41-2ae38262152a" word="hourly" type="short" status="done">
+  <Topics>
+    <Topic id="893d4faf-389b-4f51-ab3f-e878f72ebe72" value="Work &amp; Employment" />
+  </Topics>
+  <Professions>
+    <Profession id="132ba25d-2423-4112-b124-9bde14129ba7" value="Employee" />
+    <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" value="Freelancer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1169f31d-6149-4222-bc6d-90a7dd1c024a" ipa="/ˈaʊər.li/" vi_ipa="ác-gơ-rơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="268caf79-eafb-45ee-b75a-be064b5393c0" type="Adjective">
+          <Vi>theo giờ; theo từng giờ</Vi>
+          <En>occurring, paid, or done for each hour; measured or reckoned by the hour.</En>
+          <Example>She earns $15 an hour, so her hourly wage is relatively low.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c63e1878-ddf7-4d8d-872a-6b75a739cab1">
+              <Vi>Mô tả mức lương được tính theo từng giờ làm việc.</Vi>
+              <En>Describing a wage or salary calculated per hour of work.</En>
+            </Situation>
+            <Situation id="f5949b31-2a04-4171-877d-ea6d91bea48e">
+              <Vi>Dùng để chỉ tần suất hoặc chu kỳ diễn ra mỗi giờ.</Vi>
+              <En>Used to indicate frequency or a cycle that occurs every hour (e.g., hourly updates, hourly reports).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

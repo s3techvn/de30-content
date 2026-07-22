@@ -509,4 +509,7 @@
   <Profession id="c7424671-91c1-443a-a80b-f3093d809f10" slug="dermatologist" value="Dermatologist" />
   <Profession id="2e879591-897b-4581-afd7-816c3860171f" slug="wine-sommelier" value="Wine Sommelier" />
   <Profession id="132ba25d-2423-4112-b124-9bde14129ba7" slug="employee" value="Employee" />
+  <Profession id="76e3e1f7-1388-45f9-b2a2-ceb7029fe9b5" slug="hvac-technician" value="HVAC Technician" />
+  <Profession id="3df43b50-7495-46fc-b637-47766faeda97" slug="home-builder" value="Home Builder" />
+  <Profession id="bd92b89a-e608-4533-8857-95a6b5eced0c" slug="safety-inspector" value="Safety Inspector" />
 </Professions>
