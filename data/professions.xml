@@ -499,4 +499,5 @@
   <Profession id="6c130b41-9ddd-44e6-be3e-e38e8a3155c2" slug="metalworker" value="Metalworker" />
   <Profession id="6652b3ce-54a6-4395-bf3c-5541564d3757" slug="recycling-specialist" value="Recycling Specialist" />
   <Profession id="89b6fc89-afc2-4a06-8ba9-573fa3bf9b16" slug="food-packaging-engineer" value="Food Packaging Engineer" />
+  <Profession id="295a3ec5-db10-4f9d-b614-35b6b8d68cd9" slug="tourism-professional" value="Tourism Professional" />
 </Professions>

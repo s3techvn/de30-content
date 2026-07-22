@@ -1,0 +1,40 @@
+<Vocab id="fad77748-3d46-4088-97d1-c18a99aba8ce" word="eligible" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="d7b4e7c4-913b-4caf-ac56-1c667aa0b231" value="Social Affairs" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="47fac884-af28-475f-bcb8-f79de18b1998" value="Human Resources Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="693dfa83-b09e-4c0a-9f27-a429206f94aa" ipa="/ˈel.ɪ.dʒə.bəl/" vi_ipa="e-lích-gi-ơ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="34a7100f-b5a5-4d4e-bf8f-7934c0a4cdc6" type="Adjective">
+          <Vi>Đủ điều kiện; hợp lệ; xứng đáng được hưởng (quyền, lợi ích)</Vi>
+          <En>Meeting the required conditions or qualifications; legally qualified or suitable for a particular role, position, or benefit.</En>
+          <Example>She is eligible to vote in the upcoming election.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d59dd6f7-54f8-47fc-b3b0-4f2b5d2b44f6">
+              <Vi>Người đáp ứng đủ tuổi, quốc tịch và các điều kiện pháp lý để bỏ phiếu.</Vi>
+              <En>A person who meets the age, citizenship, and legal requirements to cast a ballot.</En>
+            </Situation>
+            <Situation id="799d51d2-2075-427b-a2bd-5bb2aa5f0f54">
+              <Vi>Sinh viên đạt điểm và điều kiện đầu vào để nhập học chương trình đại học.</Vi>
+              <En>A student who meets the academic and admission requirements for university enrollment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
