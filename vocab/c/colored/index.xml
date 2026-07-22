@@ -1,0 +1,40 @@
+<Vocab id="d7496110-c393-4d93-aebb-21f716cc4e1b" word="colored" type="short" status="done">
+  <Topics>
+    <Topic id="c1e1bbed-15eb-485e-807f-fa9735d2f004" value="Visual Arts" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+    <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" value="Interior Decorator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21cd5e1e-5459-4405-9c08-b171753171d0" ipa="/ˈkʌl.ər.d/" vi_ipa="cờ-lờ-rợt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f42e7091-09cf-4694-9d79-81fe327f7f6a" type="Adjective">
+          <Vi>được sơn màu; có màu sắc; được nhuộm màu</Vi>
+          <En>Having a particular color or colors; dyed, painted, or otherwise tinted.</En>
+          <Example>The artist used colored pencils to add detail to the sketch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3c14bd8f-8c08-42e5-9add-2b33ec6efd8e">
+              <Vi>Mô tả một vật đã được sơn hoặc nhuộm bằng màu sắc cụ thể.</Vi>
+              <En>Describing an object that has been painted, dyed, or tinted with specific colors.</En>
+            </Situation>
+            <Situation id="b3190c2e-623f-42dc-97e5-062aed1c2b2a">
+              <Vi>So sánh với vật không màu (trắng đen, xám, hoặc không có màu rõ rệt).</Vi>
+              <En>Contrasting with black-and-white, grayscale, or colorless objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

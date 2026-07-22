@@ -1,0 +1,40 @@
+<Vocab id="de77257e-98d6-4c1e-8dc4-51537ff38819" word="convenient" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="92d44e95-ad35-4381-a6bb-c96c4695c3af" ipa="/kənˈviː.ni.ənt/" vi_ipa="cơn-vi-ni-ơt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d35d9d8f-cb19-46ef-b55b-2bc4fabf69f9" type="Adjective">
+          <Vi>thuận tiện, tiện lợi</Vi>
+          <En>Available or accessible in a convenient way; suitable or useful for a particular purpose, especially by saving time and effort.</En>
+          <Example>This app makes it convenient to track expenses on the go.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1a64582-db28-421b-9d8b-9419da1214e0">
+              <Vi>Một sản phẩm hoặc dịch vụ giúp người dùng tiết kiệm thời gian, công sức hoặc dễ dàng tiếp cận.</Vi>
+              <En>A product or service that saves time, effort, or makes access easy for users.</En>
+            </Situation>
+            <Situation id="a72db22b-ac51-4b5a-a923-6ccc6ff3f6b2">
+              <Vi>Vị trí địa lý gần hoặc dễ tiếp cận (ví dụ: cửa hàng nằm ngay góc đường).</Vi>
+              <En>A location that is nearby or easy to reach (e.g., a store located right at the corner).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
