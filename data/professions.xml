@@ -343,4 +343,5 @@
   <Profession id="c9843bf2-7bed-48cf-b05f-f4ccf897cd51" slug="grocer" value="Grocer" />
   <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" slug="freelancer" value="Freelancer" />
   <Profession id="57124b8b-1356-412c-a956-f416e7e7f803" slug="logistics-specialist" value="Logistics Specialist" />
+  <Profession id="1e0e1bba-bf96-42de-8d4e-f584db92a79d" slug="land-manager" value="Land Manager" />
 </Professions>
