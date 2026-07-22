@@ -262,4 +262,5 @@
   <Profession id="88ac3095-3a84-4e9e-ac91-2b24e71e88cd" slug="courier/delivery-driver" value="Courier/Delivery Driver" />
   <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" slug="librarian" value="Librarian" />
   <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" slug="sound-engineer" value="Sound Engineer" />
+  <Profession id="db049c33-ca31-402b-aabf-5420324f9bdc" slug="religious-studies" value="Religious Studies" />
 </Professions>

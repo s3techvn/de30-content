@@ -1,0 +1,32 @@
+<Vocab id="71c5397c-eaf0-46f7-9b60-1a4508a218c8" word="matthew" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="db049c33-ca31-402b-aabf-5420324f9bdc" value="Religious Studies" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2aac943-4861-4f88-ad94-2873d0c0cbdf" ipa="/ˈmæθ.yu/" vi_ipa="mết-thiu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="13309530-163e-4607-a9e9-7a89db37a145" type="Proper Noun">
+          <Vi>Ma-thi-ơ (tên người trong Kinh Thánh)</Vi>
+          <En>Matthew: one of the twelve apostles of Jesus, traditionally considered the author of the Gospel of Matthew in the New Testament.</En>
+          <Example>Matthew was a tax collector before becoming an apostle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd9e80f2-98a7-4e0a-ab88-91f7bec5daec">
+              <Vi>Thường được nhắc đến trong các bài giảng, kinh thánh học, hoặc khi bàn về các tông đồ của Chúa Giêsu.</Vi>
+              <En>Commonly mentioned in sermons, biblical studies, or discussions about Jesus’s apostles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
