@@ -1,0 +1,64 @@
+<Vocab id="74b83120-672c-41bf-8da1-1d10425b0676" word="recovery" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="31cb6441-6b6e-4014-923b-ae6eec8da575" ipa="/rɪˈkʌv.ər.i/" vi_ipa="ri-cà-vơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="289c0125-463a-41db-887c-530167619e4d" type="Noun">
+          <Vi>Sự phục hồi, sự hồi phục</Vi>
+          <En>The process of returning to a normal or healthy state after illness, injury, or hardship.</En>
+          <Example>She made a full recovery after the surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a17cb05a-6d96-44ea-9b94-d963e7f61f24">
+              <Vi>Mô tả tình trạng bệnh nhân trở lại sức khỏe bình thường sau khi điều trị.</Vi>
+              <En>Describing a patient regaining normal health after medical treatment.</En>
+            </Situation>
+            <Situation id="177f8ceb-1d2a-4b8a-baa8-c8912f82e84b">
+              <Vi>Tình trạng một nền kinh tế phục hồi sau suy thoái.</Vi>
+              <En>The state of an economy rebounding after a recession.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eadf0b01-d705-4b43-8662-ba2922b10fcb" type="Noun">
+          <Vi>Sự khôi phục, sự truy xuất lại (dữ liệu)</Vi>
+          <En>The action or process of retrieving lost, corrupted, or deleted data from backup storage.</En>
+          <Example>The IT team managed data recovery within two hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5cf6f54-5a6a-4161-90b1-cb63f9bf824c">
+              <Vi>Khôi phục file bị xóa nhầm trên máy tính.</Vi>
+              <En>Restoring a file accidentally deleted from a computer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fdbf4424-3d2b-40bf-80e2-52cc211aaf22" type="Noun">
+          <Vi>Sự thu hồi, sự hoàn lại (tiền, hàng)</Vi>
+          <En>The act of retrieving something that was lost, stolen, or distributed in error.</En>
+          <Example>The company initiated a product recovery after safety concerns were raised.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="960f6578-1944-441f-9bcd-afee4d335e9f">
+              <Vi>Thu hồi lô hàng thực phẩm bị nhiễm khuẩn.</Vi>
+              <En>Recalling a batch of food products contaminated with bacteria.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
