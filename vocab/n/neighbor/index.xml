@@ -1,0 +1,34 @@
+<Vocab id="15baf227-2db4-428e-8c6c-fe7abef591fe" word="neighbor" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ca40bca9-6c65-4eb5-90ce-398b84ab1feb" value="Community" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a593a72f-2a84-4f87-ab17-2b1ca88989b3" ipa="/ˈneɪ.bɚ/" vi_ipa="nê-i-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a28ee5e-7ce1-4bd2-b3d5-c732d5cf5261" type="Noun">
+          <Vi>hàng xóm</Vi>
+          <En>A person living near or next to another person.</En>
+          <Example>My neighbor helped me carry groceries inside when it started raining.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bbee8a5a-9fb6-4b15-9813-a2c75691a6e0">
+              <Vi>Một người sống gần nhà bạn hoặc ở cạnh nhà bạn.</Vi>
+              <En>A person living near or adjacent to your home.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,32 @@
+<Vocab id="80cd3e99-6c41-4a12-b800-e7d34d482491" word="george" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" value="Historical Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c7500ac-53ca-4f5a-a5fb-e641faef83aa" ipa="/ˈdʒɔːrdʒ/" vi_ipa="gi-oác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d09253a6-a149-4e9e-932c-22b97100dac6" type="Proper Noun">
+          <Vi>Tên riêng: George (thường dùng cho nam)</Vi>
+          <En>A male given name, notably borne by several British monarchs, including King George I–VI.</En>
+          <Example>King George III ruled Great Britain during the American Revolutionary War.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8b88715-5c1c-4f46-9557-2167be366280">
+              <Vi>Dùng để chỉ các vị vua Anh mang tên George, hoặc người đàn ông có tên George.</Vi>
+              <En>Used to refer to British monarchs named George or men named George in historical or contemporary contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
