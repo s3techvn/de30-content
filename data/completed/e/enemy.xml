@@ -1,0 +1,38 @@
+<Vocab id="5846fa12-2d4a-4fb2-bf93-0e5123a128b5" word="enemy" type="short" status="done">
+  <Topics>
+    <Topic id="ee0c0c98-555b-40e2-976d-f130660b66e1" value="War &amp; Conflict" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff475104-a72f-4548-9b03-57b0745eb887" ipa="/ˈen.ə.mi/" vi_ipa="en-ni-mi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f02e2ea0-4f90-4b76-ae9b-68838ded7517" type="Noun">
+          <Vi>kẻ thù, kẻ địch</Vi>
+          <En>A person or group that is actively opposed to or hostile toward another; an adversary.</En>
+          <Example>The two countries have been enemies for decades.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba7c6013-5b31-476f-a17d-13a2e049eda3">
+              <Vi>Trong bối cảnh chiến tranh hoặc xung đột vũ trang giữa hai quốc gia.</Vi>
+              <En>In the context of war or armed conflict between two nations.</En>
+            </Situation>
+            <Situation id="092ed8e1-73e5-4256-a4f9-ed50799280f6">
+              <Vi>Khi nói về mối quan hệ cạnh tranh gay gắt trong thể thao hoặc kinh doanh.</Vi>
+              <En>When describing a fiercely competitive relationship in sports or business.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
