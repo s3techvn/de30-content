@@ -1,0 +1,52 @@
+<Vocab id="11479ce8-4e73-4a48-b64b-78feddcdc346" word="activation" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="43ed9cc4-6bcc-4112-9e2f-2ca5980e6a6b" ipa="/ˌæk.tɪˈveɪ.ʃən/" vi_ipa="ác-ti-vê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="700ebc26-2bb1-4829-9857-a89c3b1d050e" type="Noun">
+          <Vi>Quá trình kích hoạt, kích thích hoạt động</Vi>
+          <En>The process of making something active or operational</En>
+          <Example>The software requires an activation key to begin functioning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53e5ecf8-1b05-4816-a263-23742737311f">
+              <Vi>Người dùng nhập mã kích hoạt để kích hoạt phần mềm sau khi cài đặt.</Vi>
+              <En>The user enters an activation key to enable the software after installation.</En>
+            </Situation>
+            <Situation id="637dd80c-ff41-4fe7-b2d7-1391c809021c">
+              <Vi>Trong tâm lý học, kích hoạt ký ức là quá trình truy xuất thông tin từ trí nhớ dài hạn.</Vi>
+              <En>In psychology, memory activation refers to the process of retrieving information from long-term memory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8eed21e9-9d72-47f6-97fd-916fa90d7f93" type="Noun">
+          <Vi>Sự khởi động, kích thích (hormone, enzyme, tế bào)</Vi>
+          <En>The process of stimulating a biological molecule, cell, or system to become active</En>
+          <Example>The binding of a hormone to its receptor triggers the activation of a signaling cascade.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c8eaee9-1e1f-455a-8569-e1dc77c1f8c3">
+              <Vi>Trong sinh học, sự kích hoạt tế bào T là bước quan trọng trong đáp ứng miễn dịch.</Vi>
+              <En>In biology, T-cell activation is a critical step in the immune response.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
