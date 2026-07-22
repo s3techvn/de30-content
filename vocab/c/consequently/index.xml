@@ -1,0 +1,36 @@
+<Vocab id="a8bc9da1-dc84-44bc-8275-f892740540ba" word="consequently" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="58678ed9-8386-4e32-86a0-7ad682772d36" value="Logic &amp; Reasoning" />
+    <Topic id="a37eac3c-5e22-419c-bf51-db77dc668a99" value="Business Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d5df394-9fdd-4a44-a70e-a2775d896acd" ipa="/ˈkɒn.sɪ.kwən.tliː/" vi_ipa="côn-si-cu-ân-tli">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0faf632-c7c5-4040-b4a2-3bf1399d18e3" type="Adverb">
+          <Vi>do đó, vì vậy, như một hệ quả</Vi>
+          <En>as a result; therefore</En>
+          <Example>Prices rose sharply last quarter; consequently, demand decreased.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e51d1d3-c528-4dc0-8487-9f12c98c6f1b">
+              <Vi>Dùng để nối một kết luận hoặc hệ quả logic với một sự kiện hoặc dữ kiện đã nêu trước đó.</Vi>
+              <En>Used to introduce a logical conclusion or result that follows from a previously stated fact or event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
