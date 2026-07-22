@@ -1,0 +1,48 @@
+<Vocab id="cfd4e0c7-0fb1-4ce9-b4c9-1a6d519aea05" word="sphere" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="6bad4e1a-e05c-4823-9f07-fc9e39bee3eb" value="Metaphor" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="082f5c3c-23ea-4e49-b7b2-9015dfd3cc20" ipa="/sfɪər/" vi_ipa="xơ-fia">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="418f30ec-2041-4a0c-bb5f-1e9d7cfd417c" type="Noun">
+          <Vi>Hình cầu</Vi>
+          <En>A perfectly round geometrical object in three-dimensional space, such as the surface of a completely round ball.</En>
+          <Example>The Earth is approximately a sphere, though it is slightly flattened at the poles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9dce4a3b-b849-4cda-ad9f-1c08633f93ff">
+              <Vi>Mô tả hình dạng của một quả bóng, hành tinh, hoặc vật thể tròn hoàn toàn.</Vi>
+              <En>Used when describing the shape of balls, planets, or any perfectly round 3D object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3dd46a8d-32aa-497e-865e-99642058a6b9" type="Noun">
+          <Vi>Phạm vi ảnh hưởng; lĩnh vực hoạt động</Vi>
+          <En>The range of one’s interests, activities, or influence; a particular area of knowledge or activity.</En>
+          <Example>Her sphere of influence includes politics, education, and environmental policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96205490-82c9-4eb9-8eaf-2debeadb8d7f">
+              <Vi>Dùng để chỉ lĩnh vực chuyên môn hoặc ảnh hưởng của một người.</Vi>
+              <En>Used metaphorically to describe the domain or scope of someone’s expertise or authority.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

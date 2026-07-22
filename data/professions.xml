@@ -479,4 +479,5 @@
   <Profession id="368e3888-03ca-4d97-bb2d-c691f176a711" slug="swimmer" value="Swimmer" />
   <Profession id="f5172a1d-9dca-4528-9718-ffc260de2b82" slug="race-organizer" value="Race Organizer" />
   <Profession id="2d7708b0-ae1e-4f21-984a-dff07d2ee743" slug="travel-writer" value="Travel Writer" />
+  <Profession id="0adc1cb0-75c1-4b9e-b7de-42c1ba63e796" slug="restaurant-server" value="Restaurant Server" />
 </Professions>
