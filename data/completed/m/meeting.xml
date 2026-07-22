@@ -1,0 +1,53 @@
+<Vocab id="d41056ca-4674-4c18-8e2f-681cf68ee4e6" word="meeting" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="aaa0deed-0b19-4268-ab81-3bd8b8fb8010" value="Consultant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="95c50cd5-dd63-46aa-b362-b2d655f684aa" ipa="/ˈmiː.tɪŋ/" vi_ipa="mi-ting">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b6463550-b342-40db-91ab-efc1b2e46ac5" type="Noun">
+          <Vi>Họp, cuộc họp</Vi>
+          <En>A formal or informal gathering of people, typically for a specific purpose such as discussion, decision-making, or information exchange.</En>
+          <Example>We have a team meeting every Monday at 10 a.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e839a6a9-dab2-4a24-890d-a6c16936c54b">
+              <Vi>Các đồng nghiệp tụ tập để thảo luận về tiến độ dự án.</Vi>
+              <En>Colleagues gather to discuss project progress.</En>
+            </Situation>
+            <Situation id="321787cd-1416-48d3-8a05-1b8b35357825">
+              <Vi>Học sinh tham gia buổi họp phụ huynh với giáo viên.</Vi>
+              <En>Students attend a parent-teacher conference.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d376f60-4b39-4497-9e32-36b8b2b67645" type="Noun">
+          <Vi>Sự gặp gỡ, cuộc gặp</Vi>
+          <En>An occasion when two or more people meet, especially for a planned purpose.</En>
+          <Example>The two leaders held a secret meeting to discuss the treaty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ad3faa0-e1a9-48f7-8298-6a465a6313bc">
+              <Vi>Hai đối tác gặp nhau để ký kết hợp đồng.</Vi>
+              <En>Two partners meet to sign the contract.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
