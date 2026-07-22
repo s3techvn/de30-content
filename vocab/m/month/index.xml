@@ -1,0 +1,34 @@
+<Vocab id="a6899c43-1a80-4ad4-9056-216df4d1fb13" word="month" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2e4abc0d-9e30-49cd-9ac6-a9c772994739" ipa="/mʌnθ/" vi_ipa="mơn-th">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="19f23a5b-70f8-4f01-9f3f-b9de03e16d48" type="Noun">
+          <Vi>tháng</Vi>
+          <En>A period of time equal to one twelfth of a year, typically lasting 28–31 days.</En>
+          <Example>We’ll review the project progress at the end of the month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="09a64d48-f263-426c-b819-7f43e4eb1680">
+              <Vi>Thời gian tính theo lịch dương, thường dùng để lập kế hoạch, thanh toán, hoặc theo dõi tiến độ.</Vi>
+              <En>Time measured by the calendar month, commonly used for planning, billing, or tracking progress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

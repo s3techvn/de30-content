@@ -1,0 +1,56 @@
+<Vocab id="b82bd4d7-65b1-4aa9-8445-2372a1639ed7" word="sat" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="98ee9fb9-2634-4126-9c40-bd0bb6642a7d" ipa="/sæt/" vi_ipa="sết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca1d2a37-60a4-4f66-b910-46424f8de32f" type="Verb">
+          <Vi>ngồi</Vi>
+          <En>to be in a seated position</En>
+          <Example>She sat on the chair and began reading.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d79f357-7733-498e-be72-2ea568446441">
+              <Vi>Mô tả hành động đặt cơ thể ở tư thế ngồi, thường trên ghế, bàn, sàn...</Vi>
+              <En>Describes placing the body in a seated position, typically on a chair, table, floor, etc.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="32d09aa3-c119-4fb2-9d8c-c5dd0a086db7" type="Verb">
+          <Vi>đặt (một vật) xuống và để yên</Vi>
+          <En>to put something down and leave it in a particular place</En>
+          <Example>He sat the book on the table and walked away.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e330d371-3cfb-48e6-989a-d9801a724f07">
+              <Vi>Dùng khi đặt một vật cẩn thận ở một vị trí cụ thể (thường là tay không nâng lên lại).</Vi>
+              <En>Used when carefully placing an object in a specific location (usually without lifting it again).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2e4423cc-60cb-43bf-a69c-c16630f37d1b" type="Verb">
+          <Vi>trứng đã được ấp đến giai đoạn nở (gà con, vịt con...)</Vi>
+          <En>of an egg that has been incubated long enough for the embryo to develop and hatch</En>
+          <Example>The hen sat on her eggs for 21 days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61cf7354-2c28-45a9-80a7-ed89454e49ed">
+              <Vi>Mô tả hành động chim cái ấp trứng để nở con.</Vi>
+              <En>Describes a female bird incubating eggs to hatch chicks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
