@@ -1,0 +1,40 @@
+<Vocab id="540d6819-9d59-4135-8ea3-0b77fda7db8a" word="enhanced" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2ebb2500-3a4f-4c21-adfc-95d2d95516c4" ipa="/ɪnˈhæn.st/; /ɪnˈhæn.sɪd/" vi_ipa="in-han-st / in-han-sít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="badd5cb5-1c09-4e71-84d1-38aeb02ca635" type="Adjective">
+          <Vi>được nâng cao, được cải tiến, được tăng cường</Vi>
+          <En>Improved or increased in quality, value, or strength; made more effective or efficient.</En>
+          <Example>The software update includes enhanced security features to protect user data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d220258d-210f-4250-9a21-6d203452b6d4">
+              <Vi>Mô tả sản phẩm, tính năng, hoặc hệ thống đã được cải tiến đáng kể so với phiên bản trước.</Vi>
+              <En>Describing a product, feature, or system that has been significantly improved compared to a previous version.</En>
+            </Situation>
+            <Situation id="afd14944-36f4-4511-b7d4-e734df7301fa">
+              <Vi>Dùng trong quảng cáo hoặc giới thiệu sản phẩm công nghệ để nhấn mạnh ưu điểm vượt trội.</Vi>
+              <En>Used in marketing or product announcements to highlight superior performance or added benefits.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="e6f52ef6-04c8-4d60-a7c4-cb63e704e37c" word="trauma" type="short" status="done">
+  <Topics>
+    <Topic id="3521076f-5c9a-470f-8dc7-bfa1e8b6253b" value="Health &amp; Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="9d5ccbec-274a-4c14-a0a4-8722f30fd634" value="Psychiatrist" />
+    <Profession id="52d815e3-5c00-4177-ad7a-eb907b4523c6" value="Emergency Medical Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f936ccac-010e-44ef-949d-fea7a2fb0652" ipa="/ˈtrɔː.mə/" vi_ipa="trô-ma">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="09f546f4-54aa-4689-9973-c75783c8eec3" type="Noun">
+          <Vi>Trauma (chấn thương tâm lý); chấn thương thể chất</Vi>
+          <En>A deeply distressing or disturbing experience; a physical injury caused by external force or violence.</En>
+          <Example>She sought therapy to process the emotional trauma from the car accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e0f94681-7c85-4bc1-a6d6-86334a322d4c">
+              <Vi>Một sự kiện kinh hoàng gây tổn thương tinh thần nghiêm trọng, ví dụ như tai nạn, bạo lực, hoặc thiên tai.</Vi>
+              <En>A psychologically overwhelming event, such as a natural disaster, assault, or combat, leading to lasting emotional or psychological harm.</En>
+            </Situation>
+            <Situation id="2738b24a-a080-4a80-a627-7c577531d673">
+              <Vi>Cú sốc thể chất nghiêm trọng do tai nạn, ngã, hoặc chấn thương do vũ lực gây ra.</Vi>
+              <En>A serious physical injury, such as a broken bone or internal bleeding, resulting from a sudden external force.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
