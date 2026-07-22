@@ -1,0 +1,32 @@
+<Vocab id="44159b61-66da-482a-8584-d85aae415e58" word="week" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="868539b4-bda2-4e62-83ea-555638d78e77" ipa="/wik/" vi_ipa="uít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de88ee5c-6c0f-4313-94d5-1150e8ac0920" type="Noun">
+          <Vi>Một tuần (7 ngày)</Vi>
+          <En>A period of seven days, typically starting on Monday or Sunday.</En>
+          <Example>I usually go grocery shopping every Sunday, marking the start of a new week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c20446f7-e067-4614-aec0-e398c9fbbc16">
+              <Vi>Thời gian làm việc hoặc học tập kéo dài 7 ngày liên tiếp.</Vi>
+              <En>The standard time unit used in calendars and work schedules, consisting of seven days.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
