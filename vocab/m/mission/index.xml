@@ -1,0 +1,74 @@
+<Vocab id="72381631-d4f9-4757-9afc-16c6b51b6261" word="mission" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="b19a8b4a-bd13-41bb-9900-178345b973ac" value="Space" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="f8976ea2-08f1-455e-bbae-a3741a0ac6a9" value="Astronaut" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e049997-f21b-45e2-a04b-b1e7fc508d34" ipa="/ˈmɪʃ.ən/" vi_ipa="mít-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="058ccb0c-1b0a-42d7-853f-ca5f87d13866" type="Noun">
+          <Vi>Nhiệm vụ</Vi>
+          <En>A task or assignment, especially one given by an organization or authority.</En>
+          <Example>The team was given a mission to deliver aid to the remote village.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53936339-82dd-4706-9172-dcb10fef32f0">
+              <Vi>Một công việc cụ thể được giao cho cá nhân hoặc nhóm để hoàn thành.</Vi>
+              <En>A specific task assigned to an individual or group for completion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b566e02d-c6bc-4fda-b019-b184cba34d71" type="Noun">
+          <Vi>Nhiệm sở (của giáo sĩ)</Vi>
+          <En>A religious post or work, especially one involving spreading a faith in a foreign country.</En>
+          <Example>The missionaries established a school as part of their mission in the village.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d52eeab-7b74-456d-b1c1-2a316ebb783a">
+              <Vi>Công việc truyền giáo hoặc hoạt động tôn giáo ở nước ngoài.</Vi>
+              <En>Religious work or evangelism carried out in a foreign country.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a26c2cbf-5c84-4940-8e42-0396ca3ac7d2" type="Noun">
+          <Vi>Chuyến bay không gian</Vi>
+          <En>A spaceflight or operation conducted by astronauts or spacecraft.</En>
+          <Example>The Apollo 11 mission landed the first humans on the Moon in 1969.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af52cedd-ca20-4a06-a2c7-022620223fee">
+              <Vi>Một chuyến bay được thực hiện bởi tàu vũ trụ với mục tiêu cụ thể.</Vi>
+              <En>A flight conducted by a spacecraft to achieve a specific objective in space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e09d774b-c4e7-4018-9619-0333fd75759a" type="Noun">
+          <Vi>Sứ mệnh, mục tiêu cốt lõi (của tổ chức)</Vi>
+          <En>The fundamental purpose or guiding principle of an organization or individual.</En>
+          <Example>The company's mission is to provide sustainable energy solutions worldwide.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43f6471b-00a4-42c7-8140-5907206b060b">
+              <Vi>Mục tiêu cốt lõi định hướng hoạt động của một tổ chức hoặc cá nhân.</Vi>
+              <En>The core purpose that guides the actions and decisions of an organization or person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

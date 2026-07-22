@@ -1,0 +1,34 @@
+<Vocab id="e39d19b4-6eb9-47c6-966c-57368de38684" word="melissa" type="short" status="done">
+  <Topics>
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+    <Topic id="1f120514-fa79-4645-99a4-d1c4e62f9e3d" value="Herbal Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="84490b98-b0a5-4bfe-8ec5-9b6ebb1efa2c" value="Herbalist" />
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="893c5df3-5f69-4721-a577-bd0247139290" ipa="/məˈlɪs.ə/" vi_ipa="mơ-lít-xơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5cb8f325-72cc-4740-8345-0d4a6294731f" type="Noun">
+          <Vi>Cây cỏ chanh, một loại thảo dược có mùi thơm giống chanh, thường dùng trong y học dân gian và làm trà.</Vi>
+          <En>A perennial herb (Melissa officinalis) with lemon-scented leaves, used in herbal medicine and to make lemon balm tea.</En>
+          <Example>She brewed a calming tea using fresh melissa leaves.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fdef706-34a3-4eee-9dc2-88781cf523b8">
+              <Vi>Người ta hái lá melissa để pha trà giúp thư giãn và hỗ trợ tiêu hóa.</Vi>
+              <En>People harvest melissa leaves to brew a calming tea that aids digestion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

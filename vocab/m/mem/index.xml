@@ -1,0 +1,34 @@
+<Vocab id="fe014474-8ccf-4f26-9342-3ea654a46494" word="mem" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="01ee4126-42a6-411f-b8f4-6b18d4011725" value="Computer Scientist" />
+    <Profession id="6301697c-ce7b-4366-9a6d-5c909a464390" value="Hardware Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="33cdd24f-63c9-480c-ac1e-d5096e7e7375" ipa="/ˈmem/" vi_ipa="mém">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2c479dbb-0925-4f73-9a63-f9a8dd290a7a" type="Noun">
+          <Vi>Bộ nhớ (trong máy tính)</Vi>
+          <En>Short for "memory"; refers to computer memory, especially RAM, used for storing data temporarily while a program is running.</En>
+          <Example>Adding more mem allows the computer to run more applications simultaneously.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="149c7dd7-064e-404e-98ed-2d35ea6ef515">
+              <Vi>Người dùng nâng cấp RAM để tăng dung lượng bộ nhớ cho máy tính.</Vi>
+              <En>User upgrades RAM to increase memory capacity on their computer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
