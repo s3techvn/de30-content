@@ -1,0 +1,72 @@
+<Vocab id="caebc78b-80e3-46c8-be22-ec56a7f4ff96" word="constant" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="95905e9b-023a-4caf-8beb-bc7f69d5cd89" ipa="/ˈkɑːn.stənt/" vi_ipa="con-stần-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca4c79e1-1551-472a-8e51-9f6125243ee4" type="Adjective">
+          <Vi>Liên tục, không ngừng, liên miên</Vi>
+          <En>Happening all the time or repeatedly.</En>
+          <Example>He suffered from constant headaches due to stress.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97b7949c-e0b0-4fda-a421-5d0da56a7d47">
+              <Vi>Mô tả một tình trạng hoặc hành động diễn ra liên tục không ngừng nghỉ</Vi>
+              <En>Describing a state or action that happens continuously without stopping</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3d0c3076-7b95-41e5-9f0a-38906552eb70" type="Adjective">
+          <Vi>Không thay đổi, bất biến, kiên định</Vi>
+          <En>Staying the same; not changing.</En>
+          <Example>The temperature in the laboratory must be kept constant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b9e7866-a532-4028-b585-5a37ff94eca2">
+              <Vi>Mô tả một trạng thái, giá trị hoặc tính chất được giữ nguyên không đổi</Vi>
+              <En>Describing a state, value, or quality that is kept unchanged</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3ec56a9f-f958-4caf-bcfb-09dc6b3346b3" type="Noun">
+          <Vi>Hằng số (trong toán học, vật lý hoặc lập trình)</Vi>
+          <En>A number or quantity that does not change its value.</En>
+          <Example>In this equation, 'g' represents the acceleration due to gravity, which is a constant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6884e1f-420b-4abc-a1a2-08ee09758f01">
+              <Vi>Sử dụng trong các công thức toán học, vật lý hoặc khi khai báo biến không đổi trong lập trình</Vi>
+              <En>Used in mathematical or physical formulas, or when declaring unchanging variables in programming</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5e96c10c-7b29-4263-bfe8-f6cc423f5505" type="Noun">
+          <Vi>Yếu tố không thay đổi, điều bất biến (trong cuộc sống)</Vi>
+          <En>A situation or state of affairs that does not change.</En>
+          <Example>In a world of rapid change, her friendship was the one constant in his life.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b578b23-0faf-4ef7-894a-d21d982e9ffc">
+              <Vi>Nói về một điều gì đó hoặc một người nào đó luôn trung thành, ổn định và không thay đổi giữa những biến động</Vi>
+              <En>Referring to something or someone that remains loyal, stable, and unchanging amidst changes</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
