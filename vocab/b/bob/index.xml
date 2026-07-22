@@ -1,0 +1,77 @@
+<Vocab id="5f1fcf8a-586a-4a28-b1c5-3aa78ce13b7a" word="bob" type="short" status="done">
+  <Topics>
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+    <Topic id="74f82fbf-ec65-4464-8ce4-783c96cf3d03" value="Animation &amp; Movement" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="0ab24464-8d8c-47a4-8c9d-212e59f75f8a" value="Animation Artist" />
+    <Profession id="90684c7f-912e-4ed6-aca3-cfd457954ed9" value="Hairdresser" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="82cc5e69-256e-4757-bbc3-c2d8052f1e5c" ipa="/bɒb/" vi_ipa="bốp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e23457bc-6cd3-4753-8bf9-d31e4d492851" type="Noun">
+          <Vi>Cái nút (trên mũ), cái chấm tròn nhỏ, hoặc một vật nhỏ treo lắc lư</Vi>
+          <En>A small decorative or functional object, such as a button, a small round knob, or a hanging ornament that moves up and down.</En>
+          <Example>She sewed a silk bob onto the end of her ribbon to keep it from fraying.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c055ba9-3396-402a-9aab-6322a12b7ac5">
+              <Vi>Mô tả phụ kiện trang trí trên mũ hoặc dây buộc.</Vi>
+              <En>Used when describing decorative or functional small round items on clothing or accessories.</En>
+            </Situation>
+            <Situation id="c77aea1e-4077-407c-9eb1-8647efc34d60">
+              <Vi>Mô tả chuyển động lắc qua lại như con lắc.</Vi>
+              <En>Used when describing a short, quick up-and-down or side-to-side motion, especially of the head or a hanging object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8ad3de14-3cdd-49a2-8ea0-a49fdfbfea09" type="Verb">
+          <Vi>Nhún đầu hoặc vật gì đó lên xuống nhanh, lắc lư nhẹ</Vi>
+          <En>To move or cause something to move up and down or from side to side with a quick, short motion.</En>
+          <Example>The child bobbed her head to the rhythm of the music.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1dd165b1-bb6e-4f12-84c9-b9a294e62abe">
+              <Vi>Mô tả hành động gật đầu theo nhịp nhạc.</Vi>
+              <En>Used when describing rhythmic head movement, often to music.</En>
+            </Situation>
+            <Situation id="e5a85327-7ef4-4dfa-ba19-e47774e568f2">
+              <Vi>Mô tả chiếc lá lắc lư trên mặt nước.</Vi>
+              <En>Used when describing an object (e.g., a buoy or leaf) moving lightly up and down on water.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="2adedc29-1d8c-460f-b0f7-b89539b14ee4" ipa="/bɑːb/" vi_ipa="bốp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9834a7ce-eb55-4f11-88eb-308e16ea3a60" type="Noun">
+          <Vi>Kiểu tóc ngắn, gọn gàng, thường cắt ngang tai hoặc ngắn hơn</Vi>
+          <En>A short, neat haircut, typically cut straight across at the ears or shorter.</En>
+          <Example>She got a classic bob after her long hair got damaged.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8e3b6a1-e68a-4aad-b850-192b60dd0541">
+              <Vi>Mô tả kiểu tóc ngắn gọn gàng.</Vi>
+              <En>Used when referring to a specific short hairstyle, especially one cut straight across the back of the neck.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
