@@ -1,0 +1,32 @@
+<Vocab id="6d6dda33-ed45-46b7-b97b-192a910bf88d" word="anthony" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="29abede2-fc3c-400a-af54-a3ea36ba08ce" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ac49eb2a-4e45-4672-907b-7c95c0fe5ab8" ipa="/ˈæn.θə.ni/" vi_ipa="an-thơ-ni">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df4381ff-3f16-44ec-a07d-fc919839b3c5" type="Proper Noun">
+          <Vi>Tên riêng: Anthony (nam)</Vi>
+          <En>A male given name, derived from the Roman family name Antonius.</En>
+          <Example>Anthony Hopkins is a renowned British actor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1218072f-574a-4abc-8b1b-86d0b9092c63">
+              <Vi>Dùng để gọi một người nam có tên Anthony trong giao tiếp hoặc văn bản.</Vi>
+              <En>Used to refer to a man named Anthony in conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,36 @@
+<Vocab id="0c3a99f4-7506-4f33-9e75-40f5c05c1464" word="disclosure" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e1ba2409-f9e6-4912-9d0d-933c75c82e37" ipa="/dɪˈskloʊʒ.ər/" vi_ipa="đị-sờ-lố-iờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="57d3c098-4065-4d36-89d3-733635db9fac" type="Noun">
+          <Vi>Sự tiết lộ; sự công khai hóa</Vi>
+          <En>The act of making something public or revealing previously secret information.</En>
+          <Example>The company issued a formal disclosure about the data breach in its annual report.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7fb0fce-3976-4376-ac0d-232c857cd5da">
+              <Vi>Sự tiết lộ thông tin nhạy cảm trong báo cáo tài chính hoặc pháp lý.</Vi>
+              <En>The release of confidential or sensitive information in financial or legal contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
