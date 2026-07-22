@@ -1,0 +1,64 @@
+<Vocab id="9c1369fe-bbdb-4d08-b14c-6665a6b7d364" word="complete" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a9245ef0-f0fe-4ede-a4e5-2883409cb403" ipa="/kəmˈpliːt/" vi_ipa="cơm-pli-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47e42d10-3e4a-4079-8c41-4ca3b4e8a404" type="Adjective">
+          <Vi>hoàn chỉnh; đầy đủ; hoàn thành</Vi>
+          <En>Having all the necessary parts or elements; finished or total.</En>
+          <Example>The report is complete and ready for submission.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e401877c-e87d-413b-b356-25aaded880e1">
+              <Vi>Mô tả một sản phẩm, kế hoạch, hoặc tài liệu đã được làm xong và không thiếu chi tiết nào.</Vi>
+              <En>Describing a product, plan, or document that has been finished and lacks no details.</En>
+            </Situation>
+            <Situation id="3ab1aa8f-b3a7-421e-ac22-34024d018415">
+              <Vi>Dùng để nhấn mạnh mức độ toàn bộ hoặc tuyệt đối (trong ngữ cảnh nhấn mạnh).</Vi>
+              <En>Used to emphasize totality or absoluteness (e.g., "complete silence").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="94198284-5fe4-4995-9b1b-0fb45e94b875" ipa="/kəmˈpliːt/" vi_ipa="cơm-pli-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a936cd75-a817-4ab0-86ae-8ef6fe2b962c" type="Verb">
+          <Vi>hoàn thành; làm xong; bổ sung cho đầy đủ</Vi>
+          <En>To finish making or doing something; to make something whole or perfect.</En>
+          <Example>We need to complete the project by Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c6ad5e1-0be3-41df-94e8-27fe38ed2d40">
+              <Vi>Dùng khi kết thúc một nhiệm vụ, dự án, hoặc công việc đang diễn ra.</Vi>
+              <En>Used when finishing a task, project, or ongoing work.</En>
+            </Situation>
+            <Situation id="b36d8073-0c14-4e8b-a66f-cf637619d03d">
+              <Vi>Dùng trong ngữ cảnh bổ sung yếu tố còn thiếu để tạo thành một thể thống nhất.</Vi>
+              <En>Used when adding missing elements to make something a whole or coherent unit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
