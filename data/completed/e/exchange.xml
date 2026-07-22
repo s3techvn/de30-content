@@ -1,0 +1,94 @@
+<Vocab id="34149055-5d6e-4b58-a6f4-8d28833aa4aa" word="exchange" type="short" status="done">
+  <Topics>
+    <Topic id="151ccef3-ddb7-4b8d-9640-79019f6c33d0" value="Commerce" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="90c2ce31-249f-44f6-8939-7d0055012794" ipa="/ɪksˈtʃeɪndʒ/" vi_ipa="ích-chê-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6bc1127a-489f-4c73-bc24-74325641e2d2" type="Noun">
+          <Vi>tiền tệ đổi (đơn vị tiền tệ của nước khác)</Vi>
+          <En>money of one country that can be used in another, especially in the form of foreign currency or bank drafts</En>
+          <Example>We exchanged some dollars for euros before our trip to France.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2103c6d-5076-452b-8733-0d14a61d268a">
+              <Vi>Đổi tiền mặt tại quầy đổi tiền ở sân bay.</Vi>
+              <En>Exchanging cash at a currency exchange counter at the airport.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="24ff1557-97fa-4fd6-a79f-2521aad245d1" type="Noun">
+          <Vi>sự trao đổi, đổi chác</Vi>
+          <En>the action or process of giving or receiving something in return for something else</En>
+          <Example>The two companies agreed to an exchange of information and resources.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c02e42b7-33dd-4f45-a5fa-df62f80c7921">
+              <Vi>Hai bạn trao đổi quà sinh nhật.</Vi>
+              <En>Two friends exchanging birthday presents.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0daaabf1-70fa-482e-a4f6-f2fea156a29b" type="Verb">
+          <Vi>trao đổi, đổi lấy</Vi>
+          <En>give (something) to someone and receive something else in return</En>
+          <Example>She exchanged her old laptop for a newer model.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85edaf10-f156-485f-837c-e1ee013bfc20">
+              <Vi>Đổi hàng tại cửa hàng nếu không vừa ý.</Vi>
+              <En>Exchanging an item at the store if you're not satisfied with it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="00e21cf7-48f9-435f-85f8-36b30e59e500" type="Verb">
+          <Vi>thay thế, thay nhau làm (nhiệm vụ, chức vụ)</Vi>
+          <En>take turns doing something or replace one person or thing with another</En>
+          <Example>The two volunteers exchanged shifts so one could attend the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6966034-dbc9-497f-9b7b-3fa4e8afbf70">
+              <Vi>Các y tá luân phiên trực đêm.</Vi>
+              <En>Nurses exchanging night shifts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6213c940-a188-445e-acf7-413645242698" ipa="/ˈɛks.tʃeɪndʒ/" vi_ipa="éc-chê-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="418c37ba-73ac-41b4-bf97-507d8fa28d39" type="Noun">
+          <Vi>sân giao dịch (chứng khoán)</Vi>
+          <En>a marketplace where securities, commodities, or other items are traded</En>
+          <Example>The New York Stock Exchange is the largest stock exchange in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f17156e-4cb5-4dad-83c3-42f51673c7b8">
+              <Vi>Các nhà đầu tư giao dịch trên sàn chứng khoán.</Vi>
+              <En>Investors trading on the stock exchange.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

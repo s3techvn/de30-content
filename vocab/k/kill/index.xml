@@ -1,0 +1,61 @@
+<Vocab id="aa3a3079-61ae-4198-af59-6f35397af7c6" word="kill" type="short" status="done">
+  <Topics>
+    <Topic id="5c2dc9e1-4811-4f5f-857d-4f4217cb43d8" value="Violence &amp; Conflict" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="90facd59-f44c-408f-b97c-4baf423b9198" value="Hunter" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="924aff5d-2a7b-42a3-b568-735512ce1001" ipa="/kɪl/" vi_ipa="kí-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6eec8e99-e8a1-4fc6-9fed-0db8f38056f9" type="Verb">
+          <Vi>giết, hạ sát</Vi>
+          <En>to cause the death of (a person, animal, or other living organism)</En>
+          <Example>The lion killed the deer in a single pounce.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="445dbbca-c0ff-47ca-9bc5-7543022636ff">
+              <Vi>Mô tả hành vi gây tử vong cho sinh vật.</Vi>
+              <En>Describing an act that results in the death of a living being.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="36677ae0-9128-4f02-bc7a-611e6b267435" type="Verb">
+          <Vi>làm hỏng, làm mất hiệu lực</Vi>
+          <En>to put an end to; destroy, ruin, or invalidate (something abstract)</En>
+          <Example>The software bug killed the entire launch schedule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c926e18-a470-42e3-b926-702d9747e1cb">
+              <Vi>Sử dụng trong ngữ cảnh phi chính thức để chỉ việc phá hỏng kế hoạch, dự án, v.v.</Vi>
+              <En>Used informally to mean ruining or destroying a plan, project, etc.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="93bdb9f2-41e2-410a-a363-a8541de581f3" type="Verb">
+          <Vi>giết thời gian, làm cho nhàm chán</Vi>
+          <En>to spend (time) in a way that avoids boredom or emptiness</En>
+          <Example>She killed time by scrolling through social media.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="895f6c80-6c62-4392-be1d-24ef18a03a0a">
+              <Vi>Ngữ cảnh làm gì đó để vượt qua thời gian rảnh rỗi.</Vi>
+              <En>Context of doing something to pass the time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
