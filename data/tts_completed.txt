@@ -479,3 +479,4 @@ diagnostic
 machine
 homework
 cluster
+clinic
