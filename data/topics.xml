@@ -321,4 +321,7 @@
   <Topic id="5bbac776-f37f-4237-be7f-ffd136046818" slug="project-management" value="Project Management" />
   <Topic id="c43c9f6e-f926-44dd-8015-6867eba9f734" slug="energy-&amp;-physics" value="Energy &amp; Physics" />
   <Topic id="14180251-57bc-478b-8b8c-e907239ceedf" slug="emergency" value="Emergency" />
+  <Topic id="18a3e4e6-f8f2-40d1-9e15-034226406bd1" slug="numbers-and-mathematics" value="Numbers and Mathematics" />
+  <Topic id="091b5643-93e3-42f9-ba6c-2808cdcaa4ec" slug="business-and-finance" value="Business and Finance" />
+  <Topic id="e6cd6d45-6e8d-4096-97a1-e494b2d23dd0" slug="demographics" value="Demographics" />
 </Topics>

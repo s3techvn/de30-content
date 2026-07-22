@@ -1,0 +1,36 @@
+<Vocab id="42f107c6-858d-4486-9e33-803839eef79e" word="billion" type="short" status="done">
+  <Topics>
+    <Topic id="18a3e4e6-f8f2-40d1-9e15-034226406bd1" value="Numbers and Mathematics" />
+    <Topic id="091b5643-93e3-42f9-ba6c-2808cdcaa4ec" value="Business and Finance" />
+    <Topic id="e6cd6d45-6e8d-4096-97a1-e494b2d23dd0" value="Demographics" />
+  </Topics>
+  <Professions>
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f80dfb2b-aef6-4d61-ab35-4979874ec387" ipa="/ˈbɪl.jən/" vi_ipa="bít-lờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fec911ab-ba53-4cf5-b79b-4283a089c8eb" type="Noun">
+          <Vi>Một nghìn triệu (1,000,000,000)</Vi>
+          <En>A thousand million, written as 1,000,000,000 (short scale, used in the US and most English-speaking countries).</En>
+          <Example>The company’s revenue reached two billion dollars last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc1c046c-6a3c-4180-93b5-c26207862c05">
+              <Vi>Dùng khi nói về dân số, ngân sách quốc gia, hoặc doanh thu doanh nghiệp lớn.</Vi>
+              <En>Used when discussing population figures, national budgets, or large corporate revenues.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
