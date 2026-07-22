@@ -1,0 +1,38 @@
+<Vocab id="ae71d4b0-945f-4fbd-9838-e53c3e84abbf" word="clinic" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4ac3b243-25a2-4bb4-8d91-a50d48314dfe" ipa="/ˈklɪn.ɪk/" vi_ipa="clin-ích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d8eb1585-1bb5-4c42-92bf-e9d1e9e812e3" type="Noun">
+          <Vi>phòng khám; cơ sở y tế nhỏ, thường không có giường nằm</Vi>
+          <En>a place where medical treatment is given, especially one that is not part of a hospital and does not have beds for overnight stays</En>
+          <Example>She visited the free clinic for a checkup and vaccination.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc3cb0b7-3f48-422b-98a0-681496f91a52">
+              <Vi>Bệnh nhân đến khám bệnh thông thường mà không cần nhập viện.</Vi>
+              <En>A patient comes for routine medical consultation without needing hospital admission.</En>
+            </Situation>
+            <Situation id="b5d4554d-232a-4606-b378-3a8964e43e72">
+              <Vi>Các tổ chức phi chính phủ tổ chức phòng khám di động tại vùng nông thôn.</Vi>
+              <En>Non-governmental organizations run mobile clinics in rural areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
