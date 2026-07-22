@@ -1,0 +1,40 @@
+<Vocab id="238e41e3-77e5-4499-8965-a83a1a32020c" word="recipient" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="bb9daf26-d41c-485a-a1d6-7acd75eebe45" value="Healthcare Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="57cce8c8-0c2f-4c96-a1c5-1d8aa4e5470b" ipa="/rɪˈsɪp.i.ənt/" vi_ipa="rị-síp-i-ơnt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="678cf0f6-bac7-4488-9677-fda532ef914e" type="Noun">
+          <Vi>người nhận</Vi>
+          <En>a person or thing that receives something, especially a gift, award, or payment</En>
+          <Example>The recipient of the Nobel Peace Prize accepted the award with gratitude.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04f99443-2b58-493b-af81-d4136428cd67">
+              <Vi>Người được trao giải thưởng, quà tặng, hoặc nhận tiền.</Vi>
+              <En>The person who is awarded a prize, gift, or payment.</En>
+            </Situation>
+            <Situation id="d9cf9c4f-ec2c-4824-a481-355d81bc3360">
+              <Vi>Người nhận thư, email, hoặc bưu kiện.</Vi>
+              <En>The person who receives a letter, email, or package.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
