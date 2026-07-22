@@ -1,0 +1,51 @@
+<Vocab id="eb37ad25-acd2-4025-bc77-5e3165491f61" word="soviet" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" value="Political Scientist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71c19f25-ce00-4b54-8499-47fbfd324166" ipa="/ˈsoʊ.ɪˌɛt/" vi_ipa="sô-vi-ét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cc7eb7a9-72c9-4162-a2f2-139425b45211" type="Noun">
+          <Vi>Cơ quan quản lý hoặc hội đồng do công nhân, binh lính và nông dân bầu ra, đặc biệt trong Nga sau Cách mạng Tháng Mười; còn chỉ hệ thống chính trị của Liên Xô.</Vi>
+          <En>A council of workers', soldiers', and peasants' deputies, especially in Russia after the October Revolution; also refers to the political system of the Soviet Union.</En>
+          <Example>The Bolsheviks seized power through the Petrograd Soviet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21096987-b0ee-46ae-96db-58189dd372ce">
+              <Vi>Trong bối cảnh lịch sử Nga đầu thế kỷ 20, các xô viết đóng vai trò như chính quyền địa phương cách mạng.</Vi>
+              <En>In early 20th-century Russian history, soviets functioned as revolutionary local governments.</En>
+            </Situation>
+            <Situation id="94d4b4cf-07f5-43f5-95f1-ef54dc2f0917">
+              <Vi>Từ "soviet" thường xuất hiện khi nói về lịch sử Liên Xô, ví dụ như "Soviet Russia" hay "Soviet Union".</Vi>
+              <En>The term "soviet" commonly appears when discussing Soviet history, e.g., "Soviet Russia" or "Soviet Union".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1ff529e9-2113-4507-b786-b8a4ea245c62" type="Adjective">
+          <Vi>Thuộc hoặc liên quan đến Liên Xô hoặc hệ thống chính trị cộng sản.</Vi>
+          <En>Relating to the Soviet Union or its communist political system.</En>
+          <Example>Thesoviet-era architecture still dominates many city centers in Eastern Europe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fac5568e-7567-4980-8c1b-c59d9985378c">
+              <Vi>Dùng để mô tả các di sản văn hóa, kiến trúc, hoặc chính sách từ thời Liên Xô.</Vi>
+              <En>Used to describe cultural, architectural, or policy legacies from the Soviet era.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
