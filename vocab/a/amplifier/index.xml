@@ -1,0 +1,40 @@
+<Vocab id="f0340773-d502-4015-bf05-83d67b9fe5c3" word="amplifier" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="56ee3793-dd97-451f-9c27-d2f6d065bc14" value="Electronics" />
+  </Topics>
+  <Professions>
+    <Profession id="85ccac38-91de-4ce4-a1d7-e2cbd7a795e7" value="Audio Engineer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8439014-2f73-4edc-93bd-73ca657f25ed" ipa="/ˈæm.plə.faɪ.ər/" vi_ipa="ăm-pờ-lai-fơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8177066c-01bc-4341-9cf5-8d210c2367a5" type="Noun">
+          <Vi>Bộ khuếch đại</Vi>
+          <En>A device that increases the amplitude of a signal, especially in audio systems to boost sound volume.</En>
+          <Example>The guitarist plugged his electric guitar into a tube amplifier to get a richer tone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="836aea0c-ca66-4bd2-ab46-7a06c847b25f">
+              <Vi>Sử dụng trong phòng thu âm hoặc trên sân khấu để tăng cường âm thanh.</Vi>
+              <En>Used in recording studios or live performances to increase sound volume and clarity.</En>
+            </Situation>
+            <Situation id="9934ab24-eb89-4770-8213-c2d579037958">
+              <Vi>Một bộ khuếch đại có thể được tích hợp trong loa hoặc là thiết bị độc lập.</Vi>
+              <En>An amplifier may be built into a speaker or exist as a standalone unit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

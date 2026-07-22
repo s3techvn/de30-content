@@ -1,0 +1,40 @@
+<Vocab id="bd0eff6a-e0b0-438e-b95f-8c9fd7964310" word="able" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff9161b2-50af-44f9-a8fe-aa7ccd0eaec1" ipa="/ˈeɪ.bəl/" vi_ipa="ê-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2240a07d-8569-4bdd-ae02-c68e46bf9e80" type="Adjective">
+          <Vi>Có khả năng; đủ điều kiện; có thể làm được</Vi>
+          <En>Having the ability, capacity, or means to do something; qualified or suitable for a particular role or task.</En>
+          <Example>She is able to solve complex math problems quickly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="025fc10e-2c0c-4a6e-bc87-4ba6c08c7b2d">
+              <Vi>Mô tả một người có kỹ năng hoặc năng lực để thực hiện một việc cụ thể.</Vi>
+              <En>Describing a person who possesses the skill or capability to perform a specific task.</En>
+            </Situation>
+            <Situation id="1cfc2c54-2ce5-4c88-a3e5-5994fd48fe4f">
+              <Vi>Dùng trong cấu trúc "able to + verb" để diễn đạt khả năng làm gì đó.</Vi>
+              <En>Used in the "able to + verb" structure to express the capacity to do something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

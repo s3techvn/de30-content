@@ -1,0 +1,72 @@
+<Vocab id="f619124d-38c5-42b2-92c7-b6d60c34ebf4" word="scoop" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="fa3f3ac0-190e-4ce3-944f-6f9a417015a2" value="Food Service Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7bc78d1b-60ee-48a7-baa2-0eea39b06f1e" ipa="/skuːp/" vi_ipa="xkúp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="10b67e28-c7ef-44c7-af61-2346d8665622" type="Noun">
+          <Vi>muỗng (dụng cụ múc)</Vi>
+          <En>A small, shallow bowl-shaped utensil with a handle, used for scooping food or liquids.</En>
+          <Example>She used a wooden spoon to stir the soup, then a metal scoop to serve it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8ff5c3a-f460-40b1-a514-a55ede482d51">
+              <Vi>Một đầu bếp dùng scoop để múc kem hoặc bột mì từ túi.</Vi>
+              <En>A chef uses a scoop to portion ice cream or flour from a bag.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2f24fbbc-9702-4d0b-b692-750d49a086ab" type="Noun">
+          <Vi>tin độc quyền (truyền thông)</Vi>
+          <En>A piece of news or information that is published or revealed before others, giving the reporter or outlet a competitive advantage.</En>
+          <Example>The journalist broke the story as a scoop just hours before the official announcement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c94a42f8-0f73-4c9d-89ad-34d5dd824ffc">
+              <Vi>Đài truyền hình có scoop về một vụ bê bối chính trị mới.</Vi>
+              <En>The TV station got the scoop on a new political scandal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ea683109-eca5-4707-8a1d-4739d3ac387d" type="Verb">
+          <Vi>múc, múc lên (thức ăn, nước…)</Vi>
+          <En>To remove something, especially food or liquid, using a scoop or similar tool.</En>
+          <Example>He scooped up the spilled rice with a spatula.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="091cdd54-86b1-4075-ba9f-a10c4be74148">
+              <Vi>Người phục vụ scoops kem vào cốc sau khi khách gọi món.</Vi>
+              <En>The server scoops ice cream into the glass after the customer places the order.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1f0b4dd8-dc3e-49bb-ab4f-bad1b764105d" type="Verb">
+          <Vi>độc quyền đưa tin, có được tin trước</Vi>
+          <En>To obtain or publish important news before other reporters or outlets.</En>
+          <Example>The reporter managed to scoop her colleagues by interviewing the witness first.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5dbedd9-77e0-467c-8af5-f51fe4069748">
+              <Vi>Phóng viên đã scoop đối thủ bằng cách đăng bài trước giờ phát hành chính thức.</Vi>
+              <En>The reporter scooped the competition by publishing the article before the official release.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,63 @@
+<Vocab id="0d623227-3273-4677-b09b-fb4a179ab226" word="plus" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89b0b3ed-1322-4d11-a916-03b6c80dc8e0" ipa="/plʌs/" vi_ipa="plàs">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="558c4994-d5d7-4d2c-812c-df6bd8dcf78f" type="Preposition">
+          <Vi>plus, cộng</Vi>
+          <En>Used to indicate the operation of addition or to introduce an additional item or quantity.</En>
+          <Example>Three plus two is five.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61d77558-c3cf-4a63-a286-193dcc4ed5b0">
+              <Vi>Mô tả phép cộng trong toán học cơ bản.</Vi>
+              <En>Used in elementary arithmetic to express addition.</En>
+            </Situation>
+            <Situation id="3c479a44-ee38-4446-a159-b5127128d239">
+              <Vi>Liệt kê các yếu tố bổ sung trong danh sách hoặc tổng hợp.</Vi>
+              <En>Used to add an extra item to a list or total (e.g., “two apples plus three oranges”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="471da53d-c8a9-46c9-aebd-18c89953b582" type="Conjunction">
+          <Vi>hơn nữa, ngoài ra</Vi>
+          <En>Used to introduce a further point or fact, often strengthening or adding emphasis.</En>
+          <Example>The hotel is cheap, plus it’s located right in the city center.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93ff4f39-f56d-494b-bf0e-3e2f1c4ae9c0">
+              <Vi>Dùng để nhấn mạnh thêm một lợi thế trong lập luận hoặc tranh luận.</Vi>
+              <En>Used in persuasive or explanatory speech to add a reinforcing point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8169e688-5f6d-4b11-a87d-e230a737b929" type="Noun">
+          <Vi>điểm cộng, ưu điểm</Vi>
+          <En>A favorable or advantageous feature or quality.</En>
+          <Example>Her biggest plus is her ability to stay calm under pressure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84d2bc06-ea6b-4760-bdf8-16f488f147a4">
+              <Vi>Trong đánh giá cá nhân hoặc sản phẩm, chỉ yếu tố nổi bật mang lại lợi thế.</Vi>
+              <En>Used in SWOT analysis or personal profiles to denote strengths.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
