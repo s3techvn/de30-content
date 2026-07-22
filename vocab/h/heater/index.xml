@@ -1,0 +1,38 @@
+<Vocab id="dae08f91-0922-4b23-a481-270e1bb54e8b" word="heater" type="short" status="done">
+  <Topics>
+    <Topic id="46c7e475-80f6-496e-8da4-52e8dad91aed" value="Home &amp; Living" />
+  </Topics>
+  <Professions>
+    <Profession id="76e3e1f7-1388-45f9-b2a2-ceb7029fe9b5" value="HVAC Technician" />
+    <Profession id="3df43b50-7495-46fc-b637-47766faeda97" value="Home Builder" />
+    <Profession id="bd92b89a-e608-4533-8857-95a6b5eced0c" value="Safety Inspector" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="24b49c9b-8c1b-4e3e-8c8d-6be44534dee7" ipa="/ˈhiː.t̬ɚ/" vi_ipa="hi-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9c716ee3-aeaa-4f18-954a-8ba835d31cd5" type="Noun">
+          <Vi>Bộ sưởi; máy sưởi; vật dụng làm nóng</Vi>
+          <En>A device that generates heat to warm a room, vehicle, or other space.</En>
+          <Example>The heater in the living room turned on automatically when the temperature dropped.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aeda46b9-81aa-47aa-b827-a76bd767fbaa">
+              <Vi>Sử dụng trong nhà vào mùa đông để giữ ấm.</Vi>
+              <En>Used indoors during winter to maintain warmth.</En>
+            </Situation>
+            <Situation id="7d8844ee-a288-4d66-aeb3-634824f37f33">
+              <Vi>Các loại phổ biến: máy sưởi dầu, sưởi điện, sưởi gas.</Vi>
+              <En>Common types include oil-filled radiators, electric space heaters, and gas heaters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,40 @@
+<Vocab id="262d6111-56be-428a-b889-fb22a00add0e" word="diverse" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="47fac884-af28-475f-bcb8-f79de18b1998" value="Human Resources Specialist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="026fc1fd-4c0a-4e3b-a026-e135dfb80540" value="Policy Maker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="54b8b409-88aa-4a83-b182-1c4698858b8f" ipa="/daɪˈvɜːrs/" vi_ipa="đai-vơ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="85da6037-42f1-476d-b85f-24c0ca15c99c" type="Adjective">
+          <Vi>Đa dạng; phong phú về thành phần, chủng loại, hoặc nguồn gốc</Vi>
+          <En>Showing a great deal of variety; different from one another</En>
+          <Example>The company fosters a diverse workforce by actively recruiting people from various cultural and ethnic backgrounds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e938288f-4888-449e-8bdd-a9da7a5742b7">
+              <Vi>Mô tả một nhóm người có nhiều nền văn hóa, tôn giáo, chủng tộc, hoặc giới tính khác nhau.</Vi>
+              <En>Describing a group of people with different cultural, religious, racial, or gender backgrounds.</En>
+            </Situation>
+            <Situation id="90f35faa-1eb0-4bbc-8ad2-73dcecd3c86b">
+              <Vi>Mô tả một tập hợp các ý tưởng, sản phẩm, hoặc phương pháp rất khác nhau.</Vi>
+              <En>Describing a collection of ideas, products, or methods that are very different from each other.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
