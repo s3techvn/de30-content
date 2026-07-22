@@ -1,0 +1,38 @@
+<Vocab id="9f349ab0-78be-47ee-bb33-092e0cb1a608" word="warcraft" type="short" status="done">
+  <Topics>
+    <Topic id="9637e361-1510-45c9-9401-1612a015c195" value="Gaming" />
+  </Topics>
+  <Professions>
+    <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" value="Game Developer" />
+    <Profession id="81f4f66e-d8f4-4373-86ca-4b6d4c9e0646" value="Esports Player" />
+    <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" value="Game Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b0241d3c-050f-4ae0-ba79-01aa7b9c5035" ipa="/ˈwɔːrˌkræft/" vi_ipa="wooc-răp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de4bd89b-14bc-4278-a8ac-d829b764f55b" type="Noun">
+          <Vi>Trò chơi chiến thuật thời gian thực (RTS) do Blizzard Entertainment phát triển, nổi tiếng với series World of Warcraft và các phần như Warcraft: Orcs &amp; Humans, Warcraft II, Warcraft III.</Vi>
+          <En>A real-time strategy (RTS) video game franchise developed by Blizzard Entertainment, notably including World of Warcraft and earlier titles such as Warcraft: Orcs &amp; Humans, Warcraft II, and Warcraft III.</En>
+          <Example>Many players spend hours each week building bases and commanding armies in Warcraft.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab775713-adc5-4043-9494-79745505be00">
+              <Vi>Một thể loại game chiến thuật thời gian thực với hai phe đối địch (Quân nhân và Phù thủy, v.v.) trong thế giới giả tưởng.</Vi>
+              <En>A genre of real-time strategy games featuring opposing factions (e.g., Humans vs. Orcs) in a fantasy setting.</En>
+            </Situation>
+            <Situation id="9e4e09eb-8039-4e9e-9710-5383e0c9879d">
+              <Vi>Tên gọi chung cho các tựa game do Blizzard sản xuất trong series Warcraft, đặc biệt là World of Warcraft – một MMORPG nổi tiếng toàn cầu.</Vi>
+              <En>The collective name for Blizzard’s Warcraft series of games, especially World of Warcraft – a globally popular MMORPG.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
