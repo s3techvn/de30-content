@@ -1,0 +1,39 @@
+<Vocab id="6996fa32-4226-4b38-938a-434296869d38" word="throughout" type="short" status="done">
+  <Topics>
+    <Topic id="ed395ea9-5b1f-495e-8048-b95b99a6a3d3" value="Time &amp; Duration" />
+    <Topic id="93e61ea2-cc0a-4559-9a55-4da01921ae7d" value="Spatial Relations" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b8470c0-a862-442a-aa41-272e0122c78a" ipa="/θruːˈaʊt/" vi_ipa="thru-ou-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4191ae81-adce-4333-8746-cf2c335a85b9" type="Preposition">
+          <Vi>trong suốt, xuyên suốt, trên khắp</Vi>
+          <En>in every part of (a place, period of time, or activity); during the whole time or extent of.</En>
+          <Example>The festival will take place throughout the city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87a70445-f8c8-432b-ad7b-f62fff95fa53">
+              <Vi>Mô tả một sự kiện diễn ra liên tục trên toàn bộ khu vực hoặc trong toàn bộ thời gian.</Vi>
+              <En>Describing an event or activity that occurs continuously across an entire area or over an entire duration.</En>
+            </Situation>
+            <Situation id="8a567dbc-7bab-4bb0-acaa-2b646acfc9e7">
+              <Vi>Dùng để nhấn mạnh tính toàn diện hoặc không gián đoạn của một hiện tượng.</Vi>
+              <En>Used to emphasize the comprehensiveness or uninterrupted nature of a phenomenon.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

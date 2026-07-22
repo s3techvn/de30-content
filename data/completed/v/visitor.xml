@@ -1,0 +1,40 @@
+<Vocab id="6ba8ed10-2e16-49fe-887e-95ac8b46cbe0" word="visitor" type="short" status="done">
+  <Topics>
+    <Topic id="970d4e12-a694-4295-93cd-12428be2ab90" value="Travel &amp; Hospitality" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="09d4f10f-0d88-4096-87f4-1cd9213be61a" value="Receptionist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86fe4957-722b-466e-8d8a-670e253c5390" ipa="/ˈvɪz.ɪ.tər/" vi_ipa="vích-i-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b5baf4c1-ae96-4cfb-a556-2b41dc4115ba" type="Noun">
+          <Vi>khách; người đến thăm</Vi>
+          <En>a person who visits a place or another person, especially for a short time</En>
+          <Example>The hotel receptionist greeted the visitor with a warm smile.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7eccbd67-616f-4252-84a8-50181c2e5bb1">
+              <Vi>Người đến thăm nhà bạn hoặc một địa điểm công cộng như bảo tàng, trung tâm thương mại.</Vi>
+              <En>A person coming to see your home or a public place like a museum or shopping center.</En>
+            </Situation>
+            <Situation id="4fc5ca30-0267-4c94-8a11-ed1a369b5e08">
+              <Vi>Người tham dự sự kiện, hội nghị, hoặc triển lãm mà không phải là người tổ chức hay diễn giả.</Vi>
+              <En>A person attending an event, conference, or exhibition without being an organizer or speaker.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
