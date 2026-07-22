@@ -1,0 +1,53 @@
+<Vocab id="71f72f94-9672-4dc0-b0a4-7914e2606321" word="characterization" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="b5929921-2905-42c6-a0ec-9ad25d895da0" value="Film &amp; Television" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="d004051e-491e-4197-b7a8-429bc9b22265" value="Screenwriter" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="123aa2b1-2be8-4aaf-9889-97a76e736c80" ipa="/ˌkær.ək.tər.ɪˈzeɪ.ʃən/" vi_ipa="ca-rắc-tơ-rây-zê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b350e7d3-f407-492a-8985-3929a60d0311" type="Noun">
+          <Vi>Sự xây dựng hoặc mô tả tính cách (đặc biệt trong văn học, điện ảnh)</Vi>
+          <En>The action or art of describing a character, especially in literature or film</En>
+          <Example>The novel’s strength lies in its rich characterization of the protagonist.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64752366-a8d8-459c-8067-8660159be5b1">
+              <Vi>Phân tích cách tác giả phát triển nhân vật qua hành động, lời nói và suy nghĩ</Vi>
+              <En>Analyzing how an author develops a character through actions, dialogue, and thoughts</En>
+            </Situation>
+            <Situation id="97038753-9d08-4733-9130-1a030876853b">
+              <Vi>Đánh giá mức độ chân thực và chiều sâu của nhân vật trong phim</Vi>
+              <En>Evaluating the realism and depth of a character in a film</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c58eac20-4923-4287-8d39-afd0cc12d0ca" type="Noun">
+          <Vi>Đặc điểm tính cách được mô tả</Vi>
+          <En>A description of a character’s personality or traits</En>
+          <Example>Her characterization of the villain as sympathetic added complexity to the story.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba3f5b7f-6a45-453e-a0a1-cff01fb6ae52">
+              <Vi>Diễn viên thể hiện nhân vật dựa trên bản characterization do biên kịch cung cấp</Vi>
+              <En>An actor interprets a role based on the characterization provided by the screenwriter</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
