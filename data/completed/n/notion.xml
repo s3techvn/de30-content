@@ -1,0 +1,56 @@
+<Vocab id="cd5e8e7a-404f-4eea-899f-d249ce4a4d13" word="notion" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="785913ca-ed99-4bd1-b645-8fc89eca6fcf" ipa="/ˈnoʊ.ʃən/" vi_ipa="nô-sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b99182e8-dd11-4220-8781-5d91462d769c" type="Noun">
+          <Vi>khái niệm; ý niệm</Vi>
+          <En>a general idea or understanding of something, especially one that is vague or imperfectly formed</En>
+          <Example>She has a vague notion of how the system works.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac451c4e-0130-49d5-b94e-797e1a1bd983">
+              <Vi>Một người chưa hiểu rõ nhưng có ý tưởng sơ bộ về một chủ đề.</Vi>
+              <En>A person who has a rough or incomplete understanding of a topic.</En>
+            </Situation>
+            <Situation id="37c97a45-dbd5-4fad-8740-910558b82c8c">
+              <Vi>Trong học thuật, dùng để chỉ một khái niệm được hình thành từ trải nghiệm hoặc suy luận.</Vi>
+              <En>In academic contexts, referring to a concept formed through experience or reasoning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8fb72671-5cab-4e1b-9e43-b9c255ce69a0" type="Noun">
+          <Vi>sự cho rằng; quan điểm cá nhân</Vi>
+          <En>a belief or opinion, especially one that is not based on fact or deep understanding</En>
+          <Example>He dismissed her notion that success comes easily.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e3dfe71-f8bc-4ea0-82da-244d90fe7658">
+              <Vi>Tranh luận khi ai đó có quan điểm sai lầm hoặc phi lý.</Vi>
+              <En>During a discussion where someone holds a mistaken or unfounded belief.</En>
+            </Situation>
+            <Situation id="9501d8e9-8a93-4e49-8cad-a13f49cbd985">
+              <Vi>Trong văn chương, mô tả một nhân vật có suy nghĩ lý tưởng hóa về thế giới.</Vi>
+              <En>In literature, describing a character who holds idealized or unrealistic beliefs about the world.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
