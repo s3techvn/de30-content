@@ -1,0 +1,46 @@
+<Vocab id="3e55c727-5f7e-43f8-b6e2-8458fc7e4ba7" word="since" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f0adf5ca-0606-41c5-ae2b-e3e64c0acd6b" ipa="/sɪns/" vi_ipa="xìn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="23fbaf3f-901d-4b74-b13b-091e3d6901d2" type="Preposition">
+          <Vi>Từ (mốc thời gian)...</Vi>
+          <En>From a particular time in the past until now or another specified time.</En>
+          <Example>She hasn’t called me since last Tuesday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7ab6ecc-5945-43b8-9374-06a66d3a9e01">
+              <Vi>Chỉ thời điểm bắt đầu một hành động hoặc trạng thái kéo dài đến hiện tại hoặc một thời điểm đã nêu.</Vi>
+              <En>Indicates the starting point of an action or state continuing up to the present or a specified time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="23f2fcc9-da54-46fd-9ac8-0e6bd3c5117e" type="Conjunction">
+          <Vi>Vì, do, kể từ khi...</Vi>
+          <En>Because of the fact that; given that.</En>
+          <Example>Since you’re here, let’s start the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c638f08c-f2ba-456f-a475-982d1a99d9d4">
+              <Vi>Dùng để đưa ra lý do hoặc tiền đề cho một hành động hoặc ý kiến.</Vi>
+              <En>Used to introduce a reason or premise for an action or opinion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
