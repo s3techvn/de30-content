@@ -651,3 +651,4 @@ renewable
 tile
 place
 calculate
+casino

@@ -1,0 +1,40 @@
+<Vocab id="57e6fcfc-22c9-408c-ad5a-4f78c5d636fb" word="comply" type="short" status="done">
+  <Topics>
+    <Topic id="d99ec60d-1454-4deb-848e-d448e664d4f6" value="Law &amp; Regulations" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="ec07a7d1-768d-425f-b10e-b9f86222f57c" value="Compliance Officer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65783922-7ad7-4c36-93e6-33c8c16b3726" ipa="/kəmˈplaɪ/" vi_ipa="cơm-plai">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="92ad9a0e-91d7-4bad-b88f-902cc9ab18ca" type="Verb">
+          <Vi>tuân thủ, tuân theo</Vi>
+          <En>to act in accordance with a request, rule, or law</En>
+          <Example>The company must comply with all environmental regulations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3cbb92f4-c208-47de-8cb9-4deae3aa2a4e">
+              <Vi>Một tổ chức thực hiện đúng các yêu cầu pháp lý hoặc nội bộ.</Vi>
+              <En>An organization carries out all legal or internal requirements as mandated.</En>
+            </Situation>
+            <Situation id="f996b33e-5eda-4877-a5de-a0986a423fa5">
+              <Vi>Một cá nhân đồng ý làm điều người khác yêu cầu, dù không bắt buộc.</Vi>
+              <En>An individual agrees to do what someone else requests, even if not legally required.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

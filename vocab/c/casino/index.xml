@@ -1,0 +1,40 @@
+<Vocab id="70548239-d5a9-424f-be27-9d1213264a7c" word="casino" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="9637e361-1510-45c9-9401-1612a015c195" value="Gaming" />
+  </Topics>
+  <Professions>
+    <Profession id="af062394-937e-4fff-a434-341e5c32c035" value="Gambler" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b691fa82-7c4f-40b4-a456-d50661930b81" ipa="/ˈkæz.ɪ.noʊ/" vi_ipa="caxi-nô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="868c7562-47da-42cb-b1a5-1cae240279c5" type="Noun">
+          <Vi>Sòng bạc</Vi>
+          <En>A building or room where gambling activities, such as card games, roulette, or slot machines, are offered to the public.</En>
+          <Example>They decided to spend the evening at the casino near the Strip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2015590-602b-4770-88ee-9a7f05320ffb">
+              <Vi>Một địa điểm giải trí nơi người ta chơi bài, quay số, hoặc đánh máy gieo xu.</Vi>
+              <En>A venue for recreational gambling featuring games like blackjack, roulette, and slot machines.</En>
+            </Situation>
+            <Situation id="6a18611b-1778-4fce-b6b4-ed7cebecac9a">
+              <Vi>Các sòng bạc thường nằm trong khu resort hoặc trung tâm du lịch lớn.</Vi>
+              <En>Casinos are often located in major tourist destinations or integrated resort complexes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
