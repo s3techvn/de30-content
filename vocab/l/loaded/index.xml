@@ -1,0 +1,72 @@
+<Vocab id="99bd7aa4-7422-4bb2-992d-83275771a6af" word="loaded" type="short" status="done">
+  <Topics>
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="db2d239f-56fb-46df-881a-995a327621fb" ipa="/ˈloʊdɪd/" vi_ipa="lô-đít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="095422d8-24c7-4277-8f57-307f3af0fa09" type="Adjective">
+          <Vi>đầy ắp, chất đầy (vật lý)</Vi>
+          <En>filled or packed to capacity, often with something heavy or numerous items</En>
+          <Example>The truck was loaded with crates of fresh produce.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d9a59d4-aa5f-4620-a09c-2b86e8814950">
+              <Vi>Mô tả phương tiện hoặc容器 chứa đầy hàng hóa, đồ đạc.</Vi>
+              <En>Describes a vehicle or container filled to capacity with goods or items.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e52b947f-8826-419d-b7a9-fe96e3981462" type="Adjective">
+          <Vi>được thao túng, thiên vị (để có lợi cho ai đó)</Vi>
+          <En>manipulated or biased in favor of a particular outcome or person</En>
+          <Example>The jury was loaded with people who had strong opinions against the defendant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a13d9ed-2f78-4553-a720-bf855bea280a">
+              <Vi>Dùng khi nói về một tình huống không công bằng, đã được sắp đặt trước để có kết quả mong muốn.</Vi>
+              <En>Used when describing a situation that is unfairly arranged to favor a specific outcome.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03897c87-c3e7-402d-8136-8deee066c3c1" type="Adjective">
+          <Vi>đầy ắp (ý nghĩa, thông điệp), có hàm ý sâu sắc</Vi>
+          <En>full of meaning, significance, or emotional weight</En>
+          <Example>She gave him a loaded silence before speaking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2bbc24ed-1471-4999-8f8b-2ae037a3adcf">
+              <Vi>Dùng khi mô tả lời nói, ánh mắt, hoặc khoảng lặng có ý nghĩa ẩn ý hoặc cảm xúc mạnh.</Vi>
+              <En>Used to describe speech, gaze, or silence that carries hidden meaning or strong emotion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="921705c3-ed92-4b12-926f-595561c40f15" type="Adjective">
+          <Vi>(thông tục) say rượu, say xỉn</Vi>
+          <En>intoxicated or drunk (slang)</En>
+          <Example>He was completely loaded after three shots of tequila.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55e19c06-6ad8-4c90-b25f-43325c7745fd">
+              <Vi>Dùng trong giao tiếp thân mật để nói ai đó đã uống nhiều rượu/bia.</Vi>
+              <En>Used informally to describe someone who is heavily intoxicated from alcohol.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
