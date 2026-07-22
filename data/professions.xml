@@ -232,4 +232,5 @@
   <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" slug="consumer" value="Consumer" />
   <Profession id="61f4dbd3-cabc-4ead-9382-ebd3a1316270" slug="brand-manager" value="Brand Manager" />
   <Profession id="f62ffbaa-b82f-4741-9e5f-da287069247f" slug="trademark-attorney" value="Trademark Attorney" />
+  <Profession id="310378f4-4f76-4520-b112-4fc97c2cbd9a" slug="music-teacher" value="Music Teacher" />
 </Professions>

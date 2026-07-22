@@ -1,0 +1,49 @@
+<Vocab id="f6de32cf-1c33-48eb-99d4-fc6b9c06de89" word="sing" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="310378f4-4f76-4520-b112-4fc97c2cbd9a" value="Music Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="44f99d0f-cf75-4242-a4e5-16274968efd5" ipa="/sɪŋ/" vi_ipa="xình">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08213652-b055-4c90-9f85-31a8acb2c56f" type="Verb">
+          <Vi>hát</Vi>
+          <En>to produce musical sounds with the voice, typically with words and a melody</En>
+          <Example>She loves to sing folk songs at family gatherings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="95725ebf-f55c-450f-b62c-d4018d2a7b0f">
+              <Vi>Thể hiện giai điệu và lời bài hát bằng giọng nói có âm nhạc.</Vi>
+              <En>Producing melody and lyrics vocally in a musical manner.</En>
+            </Situation>
+            <Situation id="f22760b8-68af-45cc-95b4-083444176969">
+              <Vi>Hát đơn độc hoặc cùng người khác trong một buổi biểu diễn.</Vi>
+              <En>Performing solo or with others in a musical performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="62d17730-7b18-493a-9a2b-04d7bc3e7d40" type="Verb">
+          <Vi>hót (nói về chim)</Vi>
+          <En>to produce a series of clear, musical notes, especially as done by birds</En>
+          <Example>The nightingale sang beautifully in the garden.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e765f4d7-926a-4dae-ba86-b26fa80558fa">
+              <Vi>Chim tạo ra âm thanh trong trẻo, ngân vang như một phần tự nhiên của chúng.</Vi>
+              <En>Birds emitting clear, melodic sounds naturally, especially during mating or territorial displays.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
