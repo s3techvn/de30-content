@@ -1,0 +1,40 @@
+<Vocab id="4caaf7b0-5cc6-48e0-ae94-457f94c6ef05" word="northern" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="2d7708b0-ae1e-4f21-984a-dff07d2ee743" value="Travel Writer" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="297235ec-7149-4829-ae8a-7108e2fdb9ba" ipa="/ˈnɔːr.ðərn/" vi_ipa="nớ-đờ-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8976ec25-10f8-4830-87e2-8e8d653fd8e8" type="Adjective">
+          <Vi>thuộc miền Bắc; ở phía bắc</Vi>
+          <En>relating to or located in the northern part of a country, region, or the world</En>
+          <Example>The northern states of the U.S. often experience colder winters than the southern states.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d3f3329-4041-4d2d-9d3f-738050bde3ec">
+              <Vi>Mô tả vị trí địa lý về phía bắc của một quốc gia hoặc khu vực.</Vi>
+              <En>Describing geographical location toward the north of a country or region.</En>
+            </Situation>
+            <Situation id="3d999e61-ff77-415a-bef3-506143e74eb9">
+              <Vi>Chỉ đặc điểm khí hậu, văn hóa hoặc sinh hoạt của vùng miền Bắc.</Vi>
+              <En>Referring to climate, culture, or lifestyle characteristics of northern regions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
