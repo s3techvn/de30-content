@@ -718,3 +718,4 @@ disposition
 day
 collapse
 featured
+effort
