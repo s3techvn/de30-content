@@ -417,4 +417,5 @@
   <Profession id="c03be1f7-1284-4518-87dc-67810d5b2847" slug="arachnologist" value="Arachnologist" />
   <Profession id="02ab471c-245c-46a6-ab55-eaab2df3f27d" slug="pest-control-technician" value="Pest Control Technician" />
   <Profession id="619882c9-d6fb-4358-a9ec-3ab05e202630" slug="ride_hailing-driver" value="Ride-hailing Driver" />
+  <Profession id="9bd72d63-fed6-4500-a864-faea6ecb97f9" slug="leader" value="Leader" />
 </Professions>
