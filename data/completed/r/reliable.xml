@@ -1,0 +1,40 @@
+<Vocab id="5d0d0d35-1e39-4e5c-8e9b-45d467301187" word="reliable" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7f2abb1d-7595-4175-93db-7ceaf427f1d7" ipa="/rɪˈlaɪ.ə.bəl/" vi_ipa="rị-lái-ơ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d1246258-b692-4b67-ad82-3917c8c83295" type="Adjective">
+          <Vi>Đáng tin cậy; đáng tin tưởng</Vi>
+          <En>Consistently good in quality or performance; able to be trusted or believed.</En>
+          <Example>She is a reliable source of information; you can always count on her to be on time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a957aabd-f3d7-4d9d-99ea-f8ba9fe8a7cc">
+              <Vi>Mô tả một người hoặc thiết bị luôn hoạt động tốt và không gây rủi ro.</Vi>
+              <En>Describing a person or device that consistently performs well and poses no risk.</En>
+            </Situation>
+            <Situation id="0f853a23-c47f-4223-8fb1-8afef1999d73">
+              <Vi>Dùng khi đánh giá mức độ tin cậy của thông tin, lời hứa, hoặc hệ thống.</Vi>
+              <En>Used when assessing the trustworthiness of information, promises, or systems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
