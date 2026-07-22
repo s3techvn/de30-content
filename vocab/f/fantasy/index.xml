@@ -1,0 +1,40 @@
+<Vocab id="0fc8b284-128a-44aa-ac88-7f4f3df630b2" word="fantasy" type="short" status="done">
+  <Topics>
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="b63368a1-bad9-4b88-b22f-eb1e227ff5a6" value="Imagination" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" value="Game Designer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="297bf2f0-2aaa-4d91-a204-d2e26c734699" ipa="/ˈfæn.tə.si/" vi_ipa="fan-ta-si">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="573b7d8c-6755-474a-88dd-00c5689599db" type="Noun">
+          <Vi>Trí tưởng tượng; thể loại giả tưởng</Vi>
+          <En>A mental image or sequence of ideas involving exciting or unusual events; a genre of fiction involving magical or supernatural forces or elements.</En>
+          <Example>She spent the afternoon lost in fantasy, imagining herself as a queen ruling a magical kingdom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="65bb6a4e-4c25-4216-a97a-6208f1b99ae5">
+              <Vi>Tình huống khi một người chìm đắm trong những suy nghĩ viển vông, không có thật.</Vi>
+              <En>A situation where someone indulges in imaginative, unrealistic thoughts or scenarios.</En>
+            </Situation>
+            <Situation id="ad9130f8-5c13-42a9-a129-3ea431dda1a9">
+              <Vi>Tình huống khi nói về thể loại văn học hoặc phim có yếu tố kỳ ảo, phép thuật, thế giới giả tưởng.</Vi>
+              <En>A situation referring to literature, film, or games featuring magical or supernatural elements in imaginary worlds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
