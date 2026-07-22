@@ -1,0 +1,34 @@
+<Vocab id="851191ea-77b5-412c-a9c8-ee30ccf6a38b" word="tin" type="short" status="done">
+  <Topics>
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+  </Topics>
+  <Professions>
+    <Profession id="6c130b41-9ddd-44e6-be3e-e38e8a3155c2" value="Metalworker" />
+    <Profession id="6652b3ce-54a6-4395-bf3c-5541564d3757" value="Recycling Specialist" />
+    <Profession id="89b6fc89-afc2-4a06-8ba9-573fa3bf9b16" value="Food Packaging Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d975ea81-785b-4c4a-9ccf-935e71343814" ipa="/tɪn/" vi_ipa="tín">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="87caaf72-e7a7-478d-a94b-b30112893639" type="Noun">
+          <Vi>Thiếc (kim loại màu trắng xám, mềm, không gỉ, dùng để mạ sắt làm tôn, làm hộp đựng thực phẩm)</Vi>
+          <En>A soft, silvery-white, malleable, non-corrosive chemical element (symbol Sn), commonly used to coat other metals to prevent rust, especially in food cans.</En>
+          <Example>Food cans are often made of steel coated with a thin layer of tin to prevent corrosion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d418b855-2e0b-405e-929a-ba3d4b66272f">
+              <Vi>Hộp thiếc đựng đồ ăn, sơn thiếc, hợp kim thiếc-chì</Vi>
+              <En>Food tins, tin plating, tin-lead solder</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

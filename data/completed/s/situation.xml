@@ -1,0 +1,40 @@
+<Vocab id="fa262c9e-4b8f-4d12-8b12-8af0e43e4bc1" word="situation" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8bf17d3-8d8e-4c8c-a9a9-a423a2516c7c" ipa="/sɪˈtʃuː.ən/">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a0960887-2176-45d4-a781-1307116bb516" type="Noun">
+          <Vi>tình huống</Vi>
+          <En>A set of circumstances or a state of affairs at a particular time; a particular event or occurrence.</En>
+          <Example>She found herself in a difficult situation after the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ad57c81-29a3-48b3-b218-8bdbd448ee5a">
+              <Vi>Mô tả một bối cảnh cụ thể, thường liên quan đến khó khăn hoặc thay đổi.</Vi>
+              <En>Describing a specific context, often involving difficulty or change.</En>
+            </Situation>
+            <Situation id="9190b788-ffc3-4127-9f06-df7195946f37">
+              <Vi>Dùng trong báo cáo hoặc phân tích để chỉ trạng thái hiện tại của một hệ thống.</Vi>
+              <En>Used in reports or analysis to describe the current state of a system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
