@@ -418,4 +418,5 @@
   <Profession id="02ab471c-245c-46a6-ab55-eaab2df3f27d" slug="pest-control-technician" value="Pest Control Technician" />
   <Profession id="619882c9-d6fb-4358-a9ec-3ab05e202630" slug="ride_hailing-driver" value="Ride-hailing Driver" />
   <Profession id="9bd72d63-fed6-4500-a864-faea6ecb97f9" slug="leader" value="Leader" />
+  <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" slug="sales-representative" value="Sales Representative" />
 </Professions>
