@@ -1,0 +1,38 @@
+<Vocab id="b8d14399-a970-4c12-a81c-89957b99c89e" word="diagnostic" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="a20cec2e-0225-48e3-898f-67b26cf629b2" value="Medical Technician" />
+    <Profession id="c71ab53c-048a-4cf2-acfb-73be094c1feb" value="Software Engineer (in debugging context)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="038723e9-e45e-4f3b-a142-a3d20da39386" ipa="/ˌdaɪ.əɡˈnɒs.tɪk/" vi_ipa="đai-ơ-gnô-s-tíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="43dba556-ffef-4af7-92ee-5e0b93920825" type="Adjective">
+          <Vi>thuộc về chẩn đoán; dùng để chẩn đoán bệnh</Vi>
+          <En>relating to the identification of the nature and cause of a disease or condition</En>
+          <Example>The doctor ordered a series of diagnostic tests to determine the cause of the patient’s symptoms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="440415ee-fa41-42e7-8e6e-58b9f4f061b5">
+              <Vi>Bác sĩ sử dụng hình ảnh cộng hưởng từ (MRI) như một công cụ chẩn đoán.</Vi>
+              <En>The doctor uses magnetic resonance imaging (MRI) as a diagnostic tool.</En>
+            </Situation>
+            <Situation id="56137a8d-46d0-4eb4-a1ca-a331e34150ee">
+              <Vi>Phần mềm chẩn đoán hệ thống phát hiện lỗi phần cứng.</Vi>
+              <En>The diagnostic software detects hardware faults in the system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

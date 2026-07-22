@@ -389,4 +389,6 @@
   <Profession id="466c1312-89a0-4dee-9d66-74cc16a14d7c" slug="yacht-captain" value="Yacht Captain" />
   <Profession id="1a69f65e-6797-4de5-8051-ed2744ae4176" slug="marine-instructor" value="Marine Instructor" />
   <Profession id="a7a13009-fae2-4ba3-bab1-986cb68d9e41" slug="demolition-expert" value="Demolition Expert" />
+  <Profession id="a20cec2e-0225-48e3-898f-67b26cf629b2" slug="medical-technician" value="Medical Technician" />
+  <Profession id="c71ab53c-048a-4cf2-acfb-73be094c1feb" slug="software-engineer-(in-debugging-context)" value="Software Engineer (in debugging context)" />
 </Professions>
