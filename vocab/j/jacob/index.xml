@@ -1,0 +1,39 @@
+<Vocab id="5f7272c1-5f2d-46ba-8a47-dd75495e1568" word="jacob" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" value="Historical Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8df1d6ad-300c-461d-9b05-eb8db5d4abf8" ipa="/ˈdʒeɪ.kəb/" vi_ipa="dây-kờ-b">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a2704cb0-4ee5-4246-82e8-1430b6bc662c" type="Proper Noun">
+          <Vi>Giắc (tên người)</Vi>
+          <En>A biblical patriarch, son of Isaac and Rebekah, and father of the twelve tribes of Israel; also the name of a prominent figure in the Book of Genesis.</En>
+          <Example>According to the Bible, Jacob wrestled with an angel and was renamed Israel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03cd277a-5924-44a8-bf46-02e152c97383">
+              <Vi>Trong Kinh Thánh Cựu Ước, Giắc là tổ phụ của dân Israel.</Vi>
+              <En>In the Old Testament, Jacob is a key patriarch and ancestor of the Israelites.</En>
+            </Situation>
+            <Situation id="7b063479-d05d-42fa-b174-af0961a7e008">
+              <Vi>Tên Giắc cũng được dùng như một tên riêng phổ biến trong các cộng đồng Kitô giáo.</Vi>
+              <En>The name Jacob is also used as a given name in many Christian communities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
