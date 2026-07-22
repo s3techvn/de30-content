@@ -1,0 +1,41 @@
+<Vocab id="27d04bfb-0367-4130-bebc-fbdfe971e77c" word="distinguished" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="8f28f2af-9812-4bad-9623-1f4f5225edbd" value="Professional Life" />
+    <Topic id="9d9f5dfe-34c1-4b1e-a915-618b4961d67d" value="Social Status" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="88f33a43-f07a-409c-a7c8-a2c2da095865" ipa="/dɪˈstɪŋ.ɡwɪʃ.t/" vi_ipa="đi-s-tinh-gi-xt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dbf5aaf2-d398-47d4-a06c-255e20682b91" type="Adjective">
+          <Vi>đáng kính trọng; uy tín; nổi bật</Vi>
+          <En>highly respected or accomplished, especially in a professional or public capacity; standing out as superior in quality or character.</En>
+          <Example>She is a distinguished professor of history at Harvard University.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c888963-aa25-4204-bfda-05f93e6e191e">
+              <Vi>Mô tả một người có thành tựu xuất sắc và được xã hội tôn trọng.</Vi>
+              <En>Used to describe a person with notable achievements and high social or professional standing.</En>
+            </Situation>
+            <Situation id="b2a5df7f-50c6-4ffb-95a4-790ec46d4087">
+              <Vi>Dùng để chỉ một đặc điểm làm nổi bật một cá nhân hoặc vật so với những người/vật khác.</Vi>
+              <En>Used to highlight a feature that sets someone or something apart as exceptional.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
