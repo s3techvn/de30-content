@@ -1,0 +1,66 @@
+<Vocab id="6eada192-2cae-43cf-bb77-4841c890e8bc" word="costume" type="short" status="done">
+  <Topics>
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+    <Topic id="db587e89-fe07-4689-8b88-5d73294591a0" value="Entertainment &amp; Performance" />
+    <Topic id="3efa25bb-a339-4ed2-9b26-7e69d7a33747" value="Holidays &amp; Celebrations" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="38acd584-84ba-4e82-99d1-24ed421a21ea" value="Costume Designer" />
+    <Profession id="3990e143-373f-490b-9e64-8cfaeaaf87a1" value="Theater Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dbf50c31-2c0f-43f5-9349-373a455f2771" ipa="/ˈkɑːs.tuːm/" vi_ipa="cốt-tum">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89946019-f2d6-43f8-8f77-cecb7a19add3" type="Noun">
+          <Vi>trang phục (đặc biệt là trang phục biểu diễn, hóa trang, hoặc theo phong cách lịch sử/văn hóa)</Vi>
+          <En>a set of clothes worn to represent a particular character, period, or nationality, especially for performance or celebration</En>
+          <Example>She wore a Victorian-era costume for the school play.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1bce6c3-42ad-480c-bcf9-5ab1f76ee972">
+              <Vi>Người tham gia lễ hội hóa trang mặc trang phục kỳ lạ để biểu diễn.</Vi>
+              <En>A person at a masquerade party wears an elaborate costume to perform.</En>
+            </Situation>
+            <Situation id="a02b3a77-5dbe-4e0a-8ec4-7bc19d08074f">
+              <Vi>Đạo diễn phim yêu cầu diễn viên mặc trang phục đúng với bối cảnh thế kỷ 19.</Vi>
+              <En>The film director asked the actor to wear a costume appropriate for the 19th-century setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="bf3e4ae4-ab7a-458c-bfe2-b20af4605508" ipa="/kəˈstuːm/" vi_ipa="kơ-cốt-tum">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="012c70e4-8932-4114-8785-2b6cc2c249b5" type="Verb">
+          <Vi>trang phục (cho ai đó), mặc đồ hóa trang</Vi>
+          <En>to dress someone or something in a costume</En>
+          <Example>The makeup artist helped costume the actors before the show began.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a7f1114-8d3f-4067-99f5-cc341b59ea7b">
+              <Vi>Đội kỹ thuật phải costume toàn bộ dàn diễn viên trong vòng 30 phút.</Vi>
+              <En>The technical crew had to costume all the actors within 30 minutes.</En>
+            </Situation>
+            <Situation id="6a72c748-12ce-41ae-9b24-df001eaaa615">
+              <Vi>Chúng tôi quyết định costume nhân vật hoạt hình bằng cách mặc đồ màu sáng và đeo mặt nạ.</Vi>
+              <En>We decided to costume the cartoon character by wearing bright clothes and masks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
