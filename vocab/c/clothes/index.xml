@@ -1,0 +1,38 @@
+<Vocab id="4220f64b-dec8-4575-823d-57136c669c47" word="clothes" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d0e8ba6-6eda-4c2e-b49c-509688372756" ipa="/kloʊðz/" vi_ipa="克-lô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b81a6fcb-cfd3-47b8-8384-6a6e3a1b7044" type="Noun">
+          <Vi>quần áo (dạng tổng hợp, không đếm được)</Vi>
+          <En>Garments or attire worn on the body; a general term for items such as shirts, pants, dresses, etc.</En>
+          <Example>She folded the clothes and put them in the drawer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0d8f75b-9ae6-4459-b811-fdcb289ec2de">
+              <Vi>Mô tả việc giặt, gấp, hoặc mua quần áo hàng ngày.</Vi>
+              <En>Refers to everyday activities like laundry, folding, or buying garments.</En>
+            </Situation>
+            <Situation id="4bfd7734-51e5-4d4f-aa00-19e4b3773941">
+              <Vi>Chỉ chung các loại trang phục mà một người mặc.</Vi>
+              <En>Refers collectively to the garments someone wears.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,52 @@
+<Vocab id="8aeeb8cd-2562-4f17-bf26-b84a2498b60b" word="booking" type="short" status="done">
+  <Topics>
+    <Topic id="b0a6c86b-eda7-46a8-a2e9-b5f6b7a50a04" value="Travel &amp; Transportation" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4818d384-bd1c-43f8-98d4-bc6c6d583984" ipa="/ˈbʊk.ɪŋ/" vi_ipa="bú-cơ-ning">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="140ac347-60cc-45df-9b81-b39facc77eef" type="Noun">
+          <Vi>Đặt chỗ; Đặt trước (chỗ ngồi, phòng, vé...)</Vi>
+          <En>The action or process of reserving a place, such as a seat on a plane, a room in a hotel, or tickets for an event.</En>
+          <Example>I made a booking for a double room at the hotel for next Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c17cafc-3df2-4ec8-9760-d51dd5a2110f">
+              <Vi>Người dùng truy cập website để đặt phòng khách sạn trước khi đi du lịch.</Vi>
+              <En>A traveler uses an online platform to reserve accommodation before a trip.</En>
+            </Situation>
+            <Situation id="a6d0603c-f469-42f4-bda6-f3bca0a07a38">
+              <Vi>Nhân viên lễ tân xác nhận thông tin đặt chỗ của khách hàng.</Vi>
+              <En>The receptionist confirms the guest’s reservation details.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c0a9b4d1-94ed-4370-870d-457b1603219c" type="Noun">
+          <Vi>Phiếu đặt chỗ; Hóa đơn đặt trước</Vi>
+          <En>A document or record confirming a reservation, often including details like date, time, and service.</En>
+          <Example>Please show me your booking confirmation email.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd3b2988-ce44-49df-b81b-72d2122a9d5b">
+              <Vi>Hành khách xuất trình booking để làm thủ tục lên máy bay.</Vi>
+              <En>The passenger presents the booking to check in for the flight.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
