@@ -1,0 +1,36 @@
+<Vocab id="04a0b3b8-1e29-4f2c-b505-a10130bb59f0" word="global" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="9c9cbc39-65fd-4a1d-90e9-3899f17d1bef" value="International Relations Specialist" />
+    <Profession id="cd37c9a4-d5bb-4d3e-8d07-b4420a4594b5" value="Global Marketing Manager" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2568b112-6d78-4455-bab3-848a165cf317" ipa="/ˈɡloʊ.bəl/" vi_ipa="glô-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12d7f3ee-0950-475f-9e5c-4e7744fe1bc8" type="Adjective">
+          <Vi>toàn cầu; toàn thế giới</Vi>
+          <En>relating to the entire world; worldwide.</En>
+          <Example>The company has expanded its operations to a global scale.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3cf18d63-6828-40c7-8fc9-2ac0327d5031">
+              <Vi>Mô tả điều gì đó xảy ra hoặc có ảnh hưởng trên phạm vi toàn thế giới.</Vi>
+              <En>Describes something that occurs or has an impact across the entire world.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
