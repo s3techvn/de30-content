@@ -1,0 +1,36 @@
+<Vocab id="ca9c1843-4e2d-4194-a5fd-809a1ec869de" word="ignore" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d92624fd-9813-41c4-b271-e4ae161a3031" ipa="/ɪɡˈnɔːr/" vi_ipa="i-gnờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff47c51e-0852-42a0-bcbf-d0fb900e9bc5" type="Verb">
+          <Vi>phớt lờ, bỏ qua, không quan tâm</Vi>
+          <En>To deliberately pay no attention to someone or something; to disregard intentionally.</En>
+          <Example>She ignored his text messages for three days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c0999bb-ca96-4af3-ae6f-f02db0c05844">
+              <Vi>Chọn không phản hồi khi người khác gọi điện hoặc nhắn tin.</Vi>
+              <En>Choosing not to respond when someone calls or sends a message.</En>
+            </Situation>
+            <Situation id="139d21d2-e357-4e75-b47d-e86b07115f48">
+              <Vi>Không để ý đến lời cảnh báo hoặc dấu hiệu nguy hiểm.</Vi>
+              <En>Not paying attention to warnings or danger signs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
