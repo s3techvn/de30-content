@@ -1,0 +1,38 @@
+<Vocab id="07a2a081-94ed-4930-9504-c6aeeee8b513" word="gif" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e7867151-2eee-4ffa-88f9-05997651672d" ipa="/ɡɪf/" vi_ipa="gíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ce0a8ec4-63a1-452a-9b0c-14127b5d916a" type="Noun">
+          <Vi>File ảnh động dạng GIF (Graphics Interchange Format)</Vi>
+          <En>A raster graphics file format that supports both animated and static images, commonly used for short looping videos or simple animations on the web.</En>
+          <Example>She shared a funny gif of a dancing cat on the group chat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bb8eba6-3936-4d1b-b054-e28655c00609">
+              <Vi>Người dùng gửi ảnh động ngắn để minh họa cảm xúc hoặc phản ứng nhanh trên mạng xã hội.</Vi>
+              <En>Users send short looping animations to express emotions or reactions on social media.</En>
+            </Situation>
+            <Situation id="0f0ef8f2-91f9-4bdc-b45b-81fa249d1d35">
+              <Vi>Web developer nhúng GIF vào trang để minh họa tương tác đơn giản mà không cần JavaScript.</Vi>
+              <En>A web developer embeds a GIF into a webpage to illustrate a simple interaction without using JavaScript.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
