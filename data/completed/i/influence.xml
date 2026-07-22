@@ -1,0 +1,58 @@
+<Vocab id="af5b0b34-a66c-4245-94b1-2e4975404a41" word="influence" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="4d315299-7940-49e1-8216-77ae513db957" value="Leadership" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a5c5749e-c458-4586-949c-80ffc8354eca" ipa="/ˈɪn.flu.əns/" vi_ipa="in-flu-ên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7f18f3b-80d9-4c1f-b64b-04d17b1c4d5b" type="Noun">
+          <Vi>Sức ảnh hưởng; sự tác động</Vi>
+          <En>The power to affect someone or something, especially in a subtle or indirect way.</En>
+          <Example>Her speech had a powerful influence on the audience’s opinion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="470f2f54-c503-4cf3-8fec-7172805a9de2">
+              <Vi>Một người có thể thay đổi quan điểm của người khác bằng lời nói hoặc hành động.</Vi>
+              <En>A person changes others’ views through persuasion or charisma.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="ddf4301f-97b9-4636-8ee5-1f5790649d2d" ipa="/ˈɪn.flu.əns/" vi_ipa="in-flu-ên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca4e8812-a608-462a-a60b-913bcf93715f" type="Verb">
+          <Vi>Làm ảnh hưởng; tác động đến</Vi>
+          <En>To have an effect on the development, behavior, or opinions of someone or something.</En>
+          <Example>Her mentor influenced her decision to pursue a career in science.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c14ded5-a015-4ea1-b498-f1cb83879337">
+              <Vi>Một người lớn tuổi hoặc có uy tín hướng dẫn trẻ em hoặc người trẻ trong lựa chọn nghề nghiệp.</Vi>
+              <En>An experienced person guides a younger person’s career path.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

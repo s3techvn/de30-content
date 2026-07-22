@@ -1,0 +1,50 @@
+<Vocab id="5c9e534d-81a3-4dc7-8076-982aee10303d" word="floppy" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="1d776bbd-9e87-4b6d-a42d-f5ad45239aa5" value="Historian (Technology)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="911a95ab-b806-4815-9feb-e9e1120104aa" ipa="/ˈflɑː.pi/" vi_ipa="phlốp-pi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc40898f-9031-4801-a3ae-337eb4c6cb97" type="Adjective">
+          <Vi>mềm, xệ, không cứng cáp (nói về vật thể mềm, dễ uốn cong)</Vi>
+          <En>soft, limp, or lacking firmness and stiffness; easily bent or folded.</En>
+          <Example>The floppy disk fell out of the drive when I shook the computer case.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07cbbe5e-c8a1-4b76-a746-9faba05719db">
+              <Vi>Mô tả một vật mềm, dễ uốn như dây cáp cũ hoặc tai thỏ đồ chơi.</Vi>
+              <En>Describing something soft and pliable, such as an old cable or a rabbit’s ear on a toy.</En>
+            </Situation>
+            <Situation id="76d4c910-32a2-4cd4-856f-296c632a87b8">
+              <Vi>Chỉ tính chất vật lý của vật liệu mềm, không giữ được hình dạng.</Vi>
+              <En>Referring to the physical property of a material that does not hold its shape under light pressure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="058c251c-f97d-417f-9cce-0d015b64467c" type="Adjective">
+          <Vi>(từ lóng, Mỹ) không hiệu quả, yếu ớt, thiếu năng lực (nói về người)</Vi>
+          <En>(slang, US) ineffective, weak, or lacking competence; often used to describe a person or their actions.</En>
+          <Example>He gave a floppy presentation and couldn’t answer any of the questions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d92fc5af-93b9-49e5-8a85-94ef3ec19e1e">
+              <Vi>Mô tả một bài thuyết trình yếu ớt, thiếu thuyết phục.</Vi>
+              <En>Describing a weak, unconvincing presentation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
