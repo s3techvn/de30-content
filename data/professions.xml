@@ -496,4 +496,7 @@
   <Profession id="34da5267-599a-4586-b093-24a4fec40b97" slug="youth-counselor" value="Youth Counselor" />
   <Profession id="e6e1f13b-f9f0-48ed-8dc6-182002d45be9" slug="merchandiser" value="Merchandiser" />
   <Profession id="cb6bd05f-0bd3-4b59-9ced-30763497e232" slug="quality-assurance-specialist" value="Quality Assurance Specialist" />
+  <Profession id="6c130b41-9ddd-44e6-be3e-e38e8a3155c2" slug="metalworker" value="Metalworker" />
+  <Profession id="6652b3ce-54a6-4395-bf3c-5541564d3757" slug="recycling-specialist" value="Recycling Specialist" />
+  <Profession id="89b6fc89-afc2-4a06-8ba9-573fa3bf9b16" slug="food-packaging-engineer" value="Food Packaging Engineer" />
 </Professions>
