@@ -1,0 +1,48 @@
+<Vocab id="a5567b14-87df-4008-8488-04a0dd581ff4" word="logged" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="46394ab7-dc73-4627-885a-4d8d8e762707" ipa="/lɒɡd/" vi_ipa="lốt-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6fd60fa2-e89f-4223-94fd-2fde28995496" type="Adjective">
+          <Vi>đã được ghi lại</Vi>
+          <En>Recorded or stored in a log, typically for tracking or auditing purposes.</En>
+          <Example>The system logged all user access attempts for security review.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07be6afc-39e6-4c77-9062-2422d23c5805">
+              <Vi>Mô tả trạng thái của dữ liệu hoặc hành động đã được ghi vào hệ thống.</Vi>
+              <En>Describes the state of data or an action that has been recorded in a system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="277d25c6-98d0-4200-930b-c8d1d4ae7d32" type="Verb">
+          <Vi>đã ghi (vào nhật ký)</Vi>
+          <En>Past tense and past participle of "log"; to record information in a logbook or digital system.</En>
+          <Example>She logged her hours before submitting the timesheet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b1647ad-17a3-47b7-b7a0-004228b34c86">
+              <Vi>Hành động ghi lại thời gian làm việc, hoạt động, hoặc sự kiện vào hệ thống.</Vi>
+              <En>The action of recording work hours, activities, or events into a system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

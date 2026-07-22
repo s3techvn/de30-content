@@ -1,0 +1,32 @@
+<Vocab id="60a9e1e7-d5a5-49fc-9517-b5dbf074cfb2" word="clara" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="8e9909c8-14f5-4da5-9000-802261acc5e6" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="825d6270-2a45-4917-82f4-a9dce76878c5" ipa="/ˈklɑː.rə/" vi_ipa="cờ-la-ra">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74a67ba2-c745-40aa-87b4-577d4a730486" type="Noun">
+          <Vi>Tên riêng (thường là tên nữ); tên gọi trong một số ngữ cảnh văn học hoặc âm nhạc</Vi>
+          <En>A feminine given name; also used in literary or musical contexts (e.g., *Clara* in *The Nutcracker*).</En>
+          <Example>Clara is a popular name in German-speaking countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5dfcb7e5-ef99-41a0-a97a-3d13fabcf48e">
+              <Vi>Dùng để đặt tên cho người, đặc biệt là phụ nữ, trong các quốc gia nói tiếng Anh hoặc tiếng Đức.</Vi>
+              <En>Used as a feminine given name, especially in English- and German-speaking countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
