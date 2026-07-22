@@ -1,0 +1,56 @@
+<Vocab id="e3bd8e4a-5a45-4658-84ce-7db030e9791c" word="deviant" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+  </Topics>
+  <Professions>
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="1cc51c4e-3dc2-4acc-ba64-431ea7b1adac" value="Law Enforcement Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b19140c7-13e9-4b87-9e47-8a40809498c0" ipa="/ˈdiː.vi.ənt/" vi_ipa="đi-vi-ên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0c824668-eab1-41de-892e-3d1172256435" type="Adjective">
+          <Vi>lệch chuẩn, bất thường (về hành vi, tính cách)</Vi>
+          <En>deviating from what is normal, usual, or expected, especially in behavior or character</En>
+          <Example>His deviant behavior raised concerns among his teachers and peers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="669c87f1-397d-4eb1-8776-3a067d2d8a86">
+              <Vi>Mô tả hành vi vượt ra ngoài chuẩn mực xã hội, thường gây lo ngại.</Vi>
+              <En>Describing behavior that falls outside accepted social norms and often causes concern.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="ffc405e0-b3d2-4812-80dc-c1969ec5bc07" ipa="/ˈdiː.vi.ənt/" vi_ipa="đi-vi-ên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41a3ca9b-9d4f-404d-aabf-bbe5b84c1198" type="Noun">
+          <Vi>người lệch chuẩn, người có hành vi bất thường</Vi>
+          <En>a person whose behavior or character deviates significantly from what is considered normal or acceptable in a society</En>
+          <Example>The study focused on understanding deviants in high-stress professions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0af7ae13-619b-4e22-b186-880b463a48c8">
+              <Vi>Sử dụng trong nghiên cứu xã hội học để chỉ cá nhân vi phạm chuẩn mực.</Vi>
+              <En>Used in sociological research to refer to individuals who violate societal norms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
