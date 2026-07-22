@@ -302,4 +302,5 @@
   <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" slug="hotel-manager" value="Hotel Manager" />
   <Profession id="af22be43-b537-4e72-84ec-3d8613c011f7" slug="telecommunications-technician" value="Telecommunications Technician" />
   <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" slug="hydrologist" value="Hydrologist" />
+  <Profession id="f138862a-dfb8-4ace-b22c-d2acc68cee16" slug="software-developer-(voip)" value="Software Developer (VoIP)" />
 </Professions>

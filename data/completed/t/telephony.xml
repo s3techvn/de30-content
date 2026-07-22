@@ -1,0 +1,38 @@
+<Vocab id="c7558794-6904-444e-baa8-44a4b9300bc4" word="telephony" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="8d753d3a-b01a-41fc-b357-51ac9d5b5b2b" value="Telecommunications Engineer" />
+    <Profession id="f138862a-dfb8-4ace-b22c-d2acc68cee16" value="Software Developer (VoIP)" />
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="396c7d39-9882-43f5-a7a5-cbab98a04ce7" ipa="/ˈtel.ə.fə.ni/" vi_ipa="tê-lê-fô-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="83583690-0500-4260-b0b9-aa95aa69a1a8" type="Noun">
+          <Vi>Kỹ thuật điện thoại; hệ thống điện thoại</Vi>
+          <En>The technology, systems, and practices involved in transmitting voice and data over telephone networks.</En>
+          <Example>Modern telephony includes both traditional landline systems and VoIP (Voice over Internet Protocol) solutions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de28a60b-48ff-46c5-ba1f-449203dc5ffd">
+              <Vi>Mô tả các công nghệ và mạng lưới dùng để truyền tải cuộc gọi điện thoại.</Vi>
+              <En>Describes technologies and networks used to carry telephone calls.</En>
+            </Situation>
+            <Situation id="7af4c9c6-8dcb-4dca-803e-a257acc3ef35">
+              <Vi>Thảo luận về sự phát triển từ điện thoại analog sang điện thoại số và VoIP.</Vi>
+              <En>Discusses the evolution from analog telephony to digital and VoIP systems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
