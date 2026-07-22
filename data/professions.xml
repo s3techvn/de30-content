@@ -344,4 +344,6 @@
   <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" slug="freelancer" value="Freelancer" />
   <Profession id="57124b8b-1356-412c-a956-f416e7e7f803" slug="logistics-specialist" value="Logistics Specialist" />
   <Profession id="1e0e1bba-bf96-42de-8d4e-f584db92a79d" slug="land-manager" value="Land Manager" />
+  <Profession id="0bdc3958-9145-4cac-8c62-8108c5e90992" slug="cultural-historian" value="Cultural Historian" />
+  <Profession id="96b0f135-7f8e-4dc5-87db-cac9ea40551c" slug="beer-sommelier" value="Beer Sommelier" />
 </Professions>
