@@ -1,0 +1,40 @@
+<Vocab id="fdf42c0e-1367-4422-ba46-f7910de91e48" word="upper" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cc266420-0711-46e4-9a36-9c6d34e99407" ipa="/ˈʌp.ɚ/" vi_ipa="áp-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1cd2ae59-27f0-4eb4-96cb-485d7f7a50f5" type="Adjective">
+          <Vi>trên, ở phần trên, cao hơn</Vi>
+          <En>being in or coming from the higher part or position; situated above</En>
+          <Example>She placed the book on the upper shelf.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2869adb2-5a0d-40ee-b941-8f85772c00b1">
+              <Vi>Mô tả vị trí cao hơn trong không gian hoặc thứ bậc.</Vi>
+              <En>Describes a position that is higher in space or rank.</En>
+            </Situation>
+            <Situation id="f6b1bcd2-ba79-4469-a1fe-dbefaf494069">
+              <Vi>Dùng để chỉ phần cơ thể phía trên (so với phần dưới).</Vi>
+              <En>Used to refer to the upper part of the body (e.g., upper arm, upper back).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
