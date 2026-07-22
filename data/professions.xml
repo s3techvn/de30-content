@@ -219,4 +219,5 @@
   <Profession id="f8976ea2-08f1-455e-bbae-a3741a0ac6a9" slug="astronaut" value="Astronaut" />
   <Profession id="48ec0582-23a3-4fb7-8326-cb0d78f9fad8" slug="textile-worker" value="Textile Worker" />
   <Profession id="f8b71418-0a7f-4cab-b41c-122f799035c2" slug="paramedic" value="Paramedic" />
+  <Profession id="bf33168c-263f-48ff-af08-43014534bb6f" slug="delivery-driver" value="Delivery Driver" />
 </Professions>
