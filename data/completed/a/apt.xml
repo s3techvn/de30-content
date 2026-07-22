@@ -1,0 +1,37 @@
+<Vocab id="7c0fdd9c-1842-42d2-9880-32a6eb6386c7" word="apt" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3bfaa3a4-f064-4cd2-ab3d-2c139ff0dcc7" value="Education" />
+    <Profession id="589adaba-7314-4380-af64-c5027fa8eaa2" value="Recruitment" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7e607895-d1fa-49d9-bd45-0fdb5f9b8556" ipa="/æpt/" vi_ipa="ép-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c052b7b5-7f66-4bee-92c7-aa9c3caa64c8" type="Adjective">
+          <Vi>phù hợp, thích hợp, dễ bị ảnh hưởng bởi (thói quen, bệnh tật)</Vi>
+          <En>suited or likely to do something; having a tendency or likelihood</En>
+          <Example>She is apt to forget small details when she’s tired.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="206a4bc2-f840-44d8-8830-7a40e17f663d">
+              <Vi>Mô tả xu hướng hoặc khả năng dễ xảy ra điều gì đó.</Vi>
+              <En>Describing a tendency or likelihood of something happening.</En>
+            </Situation>
+            <Situation id="efd121f1-a961-44c5-93f8-0fe9d7827382">
+              <Vi>Dùng trong ngữ cảnh đánh giá tính phù hợp của một người cho một vai trò hoặc nhiệm vụ.</Vi>
+              <En>Used when assessing someone’s suitability for a role or task (e.g., “He is apt for the job”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

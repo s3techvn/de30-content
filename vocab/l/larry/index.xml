@@ -1,0 +1,32 @@
+<Vocab id="3ea76f3b-0776-4a76-8bdf-8e445d1d9772" word="larry" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="7b80031d-78b6-453c-a715-51dc20fc6263" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c86875c-91a7-423f-82ef-0fc12b30c83b" ipa="/ˈlær.i/" vi_ipa="lơ-rây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5a28ebb5-e835-47f6-af38-db5802627772" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm phổ biến ở Mỹ)</Vi>
+          <En>A male given name, commonly used in the United States.</En>
+          <Example> Larry Page co-founded Google in 1998.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="89ba7169-cabe-4458-b96c-8595939bd0e5">
+              <Vi>Dùng để gọi một người đàn ông có tên Larry trong giao tiếp hàng ngày hoặc trong văn bản.</Vi>
+              <En>Used to refer to a man named Larry in everyday conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
