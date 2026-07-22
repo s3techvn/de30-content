@@ -1,0 +1,56 @@
+<Vocab id="f8ee9fa9-3632-4754-9ab8-817e968517f1" word="courier" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="bf33168c-263f-48ff-af08-43014534bb6f" value="Delivery Driver" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="641fb810-6946-453d-bd23-e1a7bd607977" value="Courier" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7f5798e-9cb8-404f-8ca6-5059578e4a47" ipa="/ˈkʊr.i.ər/" vi_ipa="cua-rơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c032f4b4-b937-4425-bcdb-c012a13382d9" type="Noun">
+          <Vi>người đưa thư, người giao hàng (đặc biệt là thư tín hoặc bưu phẩm khẩn)</Vi>
+          <En>a person or company that delivers messages, packages, or documents, especially urgently or over short distances</En>
+          <Example>The courier arrived within 30 minutes to deliver the signed contract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="270f5598-d5f8-4049-aab3-56c98d836e3c">
+              <Vi>Trong bối cảnh giao nhận khẩn cấp, một người đưa thư chuyên nghiệp mang tài liệu quan trọng từ thành phố này sang thành phố khác.</Vi>
+              <En>In an urgent delivery scenario, a professional messenger carries important documents between cities.</En>
+            </Situation>
+            <Situation id="48aff84d-1ae1-466a-baaa-ea62507f260d">
+              <Vi>Công ty sử dụng dịch vụ của một công ty chuyển phát nhanh để giao hóa đơn và hợp đồng.</Vi>
+              <En>The company uses a courier service to deliver invoices and contracts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7a7b07ea-caf1-43ba-9fa8-86157a790f0f" type="Verb">
+          <Vi>giao hàng (đặc biệt là thư từ, tài liệu) một cách nhanh chóng và đáng tin cậy</Vi>
+          <En>to carry and deliver (a message, package, or document), especially urgently or over a short distance</En>
+          <Example>The startup founder decided to courier the prototype to the investor personally.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e33cbbe-2ee8-4837-9465-8b455e54bac1">
+              <Vi>Sau khi ký hợp đồng, tôi sẽ gửi bản gốc qua dịch vụ chuyển phát nhanh.</Vi>
+              <En>After signing the contract, I’ll courier the original copy.</En>
+            </Situation>
+            <Situation id="07d18e57-20ce-46fd-a25b-8a258d451aff">
+              <Vi>Người nhà ở nước ngoài đã gửi quà Tết bằng dịch vụ chuyển phát nhanh.</Vi>
+              <En>Relatives abroad sent Lunar New Year gifts via courier.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
