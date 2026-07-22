@@ -1,0 +1,40 @@
+<Vocab id="f8d51e94-b0a4-48b9-8431-8690413d31c3" word="funded" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" value="Investor" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="85de8f9e-d1da-44e9-b18f-7a1f488cc687" ipa="/ˈfʌn.dɪd/" vi_ipa="fan-đít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9c49ef95-b77e-48af-b57b-bdeda44e5b10" type="Adjective">
+          <Vi>Được tài trợ; được cấp vốn</Vi>
+          <En>Having received financial support, typically from an organization, government, or investor.</En>
+          <Example>The startup is now fully funded and ready to launch its product.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fd27fb4-419d-441f-9554-355bebdeaa5b">
+              <Vi>Một công ty khởi nghiệp đã nhận được đủ vốn đầu tư để hoạt động.</Vi>
+              <En>A startup has received sufficient investment to begin operations.</En>
+            </Situation>
+            <Situation id="1461a30b-e334-418a-8658-87b290a0f1ce">
+              <Vi>Chương trình nghiên cứu được tài trợ bởi chính phủ.</Vi>
+              <En>The research program is funded by the government.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
