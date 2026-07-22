@@ -1,0 +1,38 @@
+<Vocab id="04862410-632d-4cbd-832e-f259f6f2a0c3" word="plaintiff" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="1aac9405-f457-4df3-ac0e-eb10b9f6403f" value="Paralegal" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f4ea0595-5488-4504-85bf-a90ee8d541b2" ipa="/ˈpleɪntɪf/" vi_ipa="p-lây-n-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1da29f7f-215c-4acf-896c-f4d56cc36a53" type="Noun">
+          <Vi>Nguyên đơn</Vi>
+          <En>The person who brings a lawsuit against another in a court of law.</En>
+          <Example>The plaintiff filed a complaint alleging breach of contract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79bdc549-3bdc-4df5-819c-1bf61f53e837">
+              <Vi>Người khởi kiện trong một vụ án dân sự.</Vi>
+              <En>The person who initiates legal action in a civil case.</En>
+            </Situation>
+            <Situation id="8d79d3e8-82d6-4e84-a097-f9bef68be0ed">
+              <Vi>Có thể bị phản tố (counter-claimed) trong quá trình tố tụng.</Vi>
+              <En>May be subject to a counterclaim during litigation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

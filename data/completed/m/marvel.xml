@@ -1,0 +1,57 @@
+<Vocab id="40abf419-5407-4907-be8e-faf924ebb253" word="marvel" type="short" status="done">
+  <Topics>
+    <Topic id="4c1bf275-9227-4ce3-be82-fd79fe9b6471" value="Emotions and Reactions" />
+    <Topic id="3e7bdb84-4964-48a4-bf07-d6a3086d2efe" value="Literature and Media" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="f7fbee4d-bb78-4bae-80ed-ad1f9c8acd24" value="Film Critic" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="85933b03-1c16-4765-9b7b-1b1b79b40e5c" ipa="/ˈmɑːr.vəl/" vi_ipa="mác-vờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd42f452-ea9e-4f0a-8dfd-a69ab3fbe387" type="Verb">
+          <Vi>ngạc nhiên, kinh ngạc, ngưỡng mộ</Vi>
+          <En>to feel amazement or admiration at something extraordinary or impressive</En>
+          <Example>She marveled at the breathtaking view from the mountaintop.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d16dc49e-0fdc-4172-a463-81a8f1550045">
+              <Vi>Một người cảm thấy kinh ngạc trước điều gì đó kỳ diệu hoặc ấn tượng mạnh.</Vi>
+              <En>A person expresses wonder or admiration upon encountering something remarkable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="2a0cf0d5-bf39-4d9d-a1de-12cf35a10495" ipa="/ˈmɑːr.vəl/" vi_ipa="mác-vờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5aef9062-7816-49f8-9081-709af884dc28" type="Noun">
+          <Vi>điều kỳ diệu, điều đáng kinh ngạc</Vi>
+          <En>a person or thing that is worthy of admiration or wonder; something extraordinary or remarkable</En>
+          <Example>The ancient pyramids are considered one of the Seven Wonders of the World — true marvels of engineering.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ff66dd1-c83a-4660-b637-36002f1b82f1">
+              <Vi>Dùng để mô tả một công trình, hiện tượng hoặc con người gây ấn tượng mạnh nhờ sự kỳ diệu hoặc tài tình.</Vi>
+              <En>Used to describe something extraordinary—often in nature, art, or technology—that inspires awe.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
