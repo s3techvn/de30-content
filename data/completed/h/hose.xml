@@ -1,0 +1,56 @@
+<Vocab id="e3f06179-cc14-4b78-a2b8-43afbbeb249b" word="hose" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="688bf6df-fa7e-48df-a885-147015dc3191" value="Gardening" />
+    <Topic id="25c1906f-5f86-498d-be96-a6765b1f5fc2" value="Emergency Services" />
+  </Topics>
+  <Professions>
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" value="Firefighter" />
+    <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" value="Plumber" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a40454fa-6bd9-472d-b9a8-6cfe8c95a7c6" ipa="/hoʊz/" vi_ipa="hao-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="22172aa0-bcab-4b77-8c8a-f905f27f9281" type="Noun">
+          <Vi>Cái vòi; ống dẫn nước (thường mềm, dùng để tưới cây, chữa cháy, v.v.)</Vi>
+          <En>A flexible tube used to convey water or other liquids/gases, typically from a tap or pump.</En>
+          <Example>She watered the garden with a garden hose.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a109d9f3-01e4-46db-9009-e89e7197c556">
+              <Vi>Tưới cây bằng vòi nước trong vườn.</Vi>
+              <En>Using a garden hose to water plants in the yard.</En>
+            </Situation>
+            <Situation id="748236fe-b13a-4af2-8d18-151d80eef89f">
+              <Vi>Lửa cháy bùng phát và lính cứu hỏa dùng vòi chữa cháy.</Vi>
+              <En>A fire breaks out and firefighters use a fire hose to extinguish it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="471ac8ea-7287-4e19-8ae2-123a2de757c1" type="Verb">
+          <Vi>Bơm (nước) bằng vòi; xả nước mạnh</Vi>
+          <En>To fill or empty something using a hose, typically by pumping liquid.</En>
+          <Example>They hosed down the driveway after pressure-washing it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21c8f24a-ad41-4832-965e-260ab1757cc5">
+              <Vi>Xả nước mạnh vào xe để làm sạch sau khi đánh bóng.</Vi>
+              <En>Rinsing a car with a hose after waxing it.</En>
+            </Situation>
+            <Situation id="89210d86-31c4-4ef5-929e-a2e0bd42aa0c">
+              <Vi>Lính cứu hỏa hosing đám cháy từ xa.</Vi>
+              <En>Firefighters hosing down the blaze from a safe distance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -381,4 +381,5 @@
   <Profession id="3bfaa3a4-f064-4cd2-ab3d-2c139ff0dcc7" slug="education" value="Education" />
   <Profession id="ed2204c3-10d4-44d9-a930-224cf8e2e3b2" slug="engineering" value="Engineering" />
   <Profession id="d2301ef1-c595-4e8e-8627-3ef7ca397674" slug="swimwear-model" value="Swimwear Model" />
+  <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" slug="firefighter" value="Firefighter" />
 </Professions>

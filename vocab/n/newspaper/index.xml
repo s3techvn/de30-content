@@ -1,0 +1,38 @@
+<Vocab id="f80b34b6-b295-465c-8fda-9d840f0ca7a0" word="newspaper" type="short" status="done">
+  <Topics>
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5d4b2405-0414-4804-8bf9-f5790c6a560b" ipa="/ˈnuːz.peɪ.pər/" vi_ipa="nư-pxi-pê-pơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="795bbc52-63fc-4c6f-9ca1-a755b027d9b1" type="Noun">
+          <Vi>Báo in, báo giấy</Vi>
+          <En>A printed publication containing news, articles, and advertisements, typically issued daily or weekly.</En>
+          <Example>She reads the newspaper every morning over her coffee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c528f164-2fe6-4932-83bc-212329116156">
+              <Vi>Người đọc mua báo giấy để cập nhật tin tức hàng ngày.</Vi>
+              <En>A person buys a printed newspaper to stay updated on daily news.</En>
+            </Situation>
+            <Situation id="cca854ce-dd09-4693-ab46-885ae764c83d">
+              <Vi>Báo chí truyền thống vẫn còn được nhiều người lớn tuổi ưa chuộng.</Vi>
+              <En>Traditional print media is still favored by many older people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
