@@ -1,0 +1,33 @@
+<Vocab id="95318da8-ad70-4c5d-a84d-371d365a1094" word="blake" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b969db38-3a38-4969-ab0f-819289eafe91" ipa="/bleɪk/" vi_ipa="bleyk">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1b227426-a66f-4476-a95a-482abd378760" type="Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là họ người Anh</Vi>
+          <En>A surname of English origin, used as both a family name and a given name.</En>
+          <Example>William Blake was a famous English poet and painter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e77bb39-c4a8-444d-89d6-8871b88b2865">
+              <Vi>Dùng khi nhắc đến các nhân vật nổi tiếng mang tên Blake, như nhà thơ William Blake hoặc diễn viên Blake Lively.</Vi>
+              <En>Used when referring to notable individuals with the name Blake, such as the poet William Blake or actress Blake Lively.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
