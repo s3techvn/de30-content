@@ -1,0 +1,39 @@
+<Vocab id="9da1eced-8d23-4908-ad9d-d12f28bce1f8" word="gently" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2fa4f452-f8fb-42e8-88ca-1d652d13406e" ipa="/ˈdʒen.tli/" vi_ipa="gi-en-tli">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9ad03c20-a524-4efb-a77d-56b5d0a6bead" type="Adverb">
+          <Vi>một cách nhẹ nhàng, êm dịu</Vi>
+          <En>in a gentle manner; with care, softness, or kindness, without force or harshness</En>
+          <Example>She gently touched his arm to get his attention.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d70b5103-7d76-407f-a3cf-9b6a31ef125a">
+              <Vi>Mô tả hành động làm điều gì đó một cách cẩn trọng, không gây tổn thương hay làm phiền.</Vi>
+              <En>Describes performing an action carefully, without causing harm or disturbance.</En>
+            </Situation>
+            <Situation id="1e9d700b-6378-4d17-bebc-a8abb0e1f296">
+              <Vi>Sử dụng khi an ủi, thuyết phục, hoặc yêu cầu ai đó một cách lịch sự và nhẹ nhàng.</Vi>
+              <En>Used when comforting, persuading, or requesting someone in a polite and tender way.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

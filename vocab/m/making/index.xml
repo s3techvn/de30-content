@@ -1,0 +1,50 @@
+<Vocab id="c5a25294-5f6c-4b97-9338-8e0f42b7c4fb" word="making" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6b6f40e0-6844-4973-a324-198a6c889166" value="Craftsman" />
+    <Profession id="df6c3054-4616-4090-b5de-876f526ba4dc" value="Manufacturer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5b44b85b-5c34-428b-97ea-f2fbadb545b4" ipa="/ˈmeɪ.kɪŋ/" vi_ipa="mê-king">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0a249382-19b8-4300-8f01-2124932a026d" type="Noun">
+          <Vi>quá trình tạo ra; sự chế tạo; sự làm ra</Vi>
+          <En>The process of creating or producing something, especially by physical or manual effort.</En>
+          <Example>The making of the handmade ceramic vase took over two weeks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8395a238-1509-4572-81e2-73f98f0a4b57">
+              <Vi>Mô tả quá trình sản xuất hoặc chế tạo một vật phẩm cụ thể.</Vi>
+              <En>Describing the process of producing or crafting a specific item.</En>
+            </Situation>
+            <Situation id="6c18b6dd-7bcc-4d72-9a0c-40d618767ad8">
+              <Vi>Dùng trong cụm từ "making of..." (ví dụ: making of a film).</Vi>
+              <En>Used in the phrase "making of..." (e.g., making of a film).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a2a4a6ae-2cc9-4451-b224-3c6f2b9b2f91" type="Noun">
+          <Vi>phần được làm ra; bộ phận cấu thành</Vi>
+          <En>The part of something that has been made or constructed; the material or structure formed.</En>
+          <Example>The making of the bridge was completed ahead of schedule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a423b91b-e635-4fd6-81fe-ebe510e3b0e0">
+              <Vi>Dùng để chỉ phần đã được xây dựng hoặc lắp ráp trong công trình.</Vi>
+              <En>Used to refer to the constructed or assembled portion of a project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
