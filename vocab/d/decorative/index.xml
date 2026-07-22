@@ -1,0 +1,38 @@
+<Vocab id="223939aa-ed48-44f0-931a-af5dd36178d6" word="decorative" type="short" status="done">
+  <Topics>
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+    <Topic id="4c122ed5-401b-4af0-91ef-b1d199a02a8d" value="Home Improvement" />
+  </Topics>
+  <Professions>
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8d91bc57-1391-4816-b2ef-803d80e54806" ipa="/ˈdek.ər.ə.tɪv/" vi_ipa="đe-cơ-rơ-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8abbf263-6542-407c-a6e2-fee0226d35d3" type="Adjective">
+          <Vi>Mang tính trang trí, để trang trí, làm đẹp</Vi>
+          <En>Serving to make something look more attractive; ornamental</En>
+          <Example>The mirrors on the wall are purely decorative and serve no practical purpose.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a2aec41-adef-44f4-abed-05188a271308">
+              <Vi>Thảo luận về thiết kế nội thất và trang trí nhà cửa</Vi>
+              <En>Discussing interior design and home decoration</En>
+            </Situation>
+            <Situation id="9e660ff2-4b2e-4a5c-bdcc-f9870f66a55a">
+              <Vi>Mô tả các họa tiết nghệ thuật trên đồ gốm hoặc quần áo</Vi>
+              <En>Describing artistic patterns on pottery or clothing</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

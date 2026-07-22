@@ -1,0 +1,40 @@
+<Vocab id="15010297-f3b9-4054-9a55-c5cd5bcfe145" word="contribute" type="short" status="done">
+  <Topics>
+    <Topic id="c84d1c7e-645a-4447-b95d-85ac71fc43d0" value="Collaboration" />
+    <Topic id="dd0f3461-6f90-4859-845f-0f13ecf5dc73" value="Fundraising" />
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+  </Topics>
+  <Professions>
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" value="Nonprofit Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6d06acd9-3623-4bc9-a2fb-8ee4a6f1fd00" ipa="/kənˈtrɪb.juːt/" vi_ipa="cơn-trih-biu-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="37ff29f4-5fb9-4d5f-b3cf-42a5b5cfb524" type="Verb">
+          <Vi>đóng góp, góp phần</Vi>
+          <En>to give or provide something, such as money, time, effort, or ideas, to help achieve a shared goal or support a cause</En>
+          <Example>She contributed $500 to the disaster relief fund.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="daec458e-b48c-44f8-aebb-99b704fbb6b5">
+              <Vi>Đóng góp tiền bạc hoặc tài nguyên cho một tổ chức hoặc dự án chung.</Vi>
+              <En>Donating money or resources to support a shared project or organization.</En>
+            </Situation>
+            <Situation id="f4f0cc48-ec65-4257-84b1-ca548732122e">
+              <Vi>Đóng góp ý tưởng, bài viết, hoặc nỗ lực cá nhân vào một sản phẩm tập thể.</Vi>
+              <En>Providing ideas, writing, or personal effort toward a collaborative output.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

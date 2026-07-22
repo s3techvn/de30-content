@@ -1,0 +1,67 @@
+<Vocab id="6288f6e4-3276-4b97-8460-0c9cc9fbede0" word="care" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6eb90830-cb24-4bf5-9e99-b9b3e103dba9" ipa="/keər/" vi_ipa="kia">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b4d73089-aa3a-4f16-80bf-c7e50e2236a2" type="Noun">
+          <Vi>Sự quan tâm; sự chăm sóc; điều đáng để quan tâm</Vi>
+          <En>Attention and effort devoted to someone or something; something that matters to a person</En>
+          <Example>She showed great care for her elderly parents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7b22f41-6454-47b7-8814-288ad92a6e50">
+              <Vi>Mô tả hành động lo lắng, chu đáo trong việc chăm sóc người khác.</Vi>
+              <En>Describes attentive and thoughtful actions toward others’ well-being.</En>
+            </Situation>
+            <Situation id="0027dce8-b5d4-41de-8bc0-50429d9d44bf">
+              <Vi>Chỉ điều gì đó quan trọng với một người (trong cụm "I don’t care").</Vi>
+              <En>Refers to something that matters or is important to someone (as in "I don’t care").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9dcdf2ec-17e5-4248-86c4-930ed3137109" ipa="/keər/" vi_ipa="kia">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="73cc4e12-b49f-4431-9500-eeb0f75b73d2" type="Verb">
+          <Vi>Chăm sóc; quan tâm; lo lắng cho; coi trọng</Vi>
+          <En>To look after or provide attention and effort for someone or something; to feel concern or interest</En>
+          <Example>He doesn’t care what people think of him.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8df6e46e-2ff8-41ba-909e-7a809f141b20">
+              <Vi>Hành động chăm sóc, bảo vệ sức khỏe hoặc nhu cầu của người khác.</Vi>
+              <En>Acting to protect or meet the health or needs of another person.</En>
+            </Situation>
+            <Situation id="03601173-f6d8-4ad1-9456-e9b031570f17">
+              <Vi>Thể hiện sự quan tâm, đồng cảm hoặc lo lắng về một vấn đề.</Vi>
+              <En>Expressing concern or empathy about an issue or person’s well-being.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

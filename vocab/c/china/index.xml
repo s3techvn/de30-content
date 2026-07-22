@@ -1,0 +1,66 @@
+<Vocab id="df7a4644-5bd6-4d15-be01-d1eb1930cfbb" word="china" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="e6838278-c29a-4d1b-ac58-b5ae0d371b2f" value="International Trader" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6a18bb0e-bfbe-4f2a-a0d2-89a7db024636" ipa="/ˈtʃaɪ.nə/" vi_ipa="chây-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6a214066-4103-45bf-9ccc-5a7a9f1a7d3e" type="Noun">
+          <Vi>Trung Quốc</Vi>
+          <En>A country in East Asia, the world’s most populous nation, officially known as the People’s Republic of China.</En>
+          <Example>Beijing is the capital city of China.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="108555a4-6858-4e2b-b688-48bfb1580746">
+              <Vi>Thảo luận về lịch sử, văn hóa, hoặc du lịch tại Trung Quốc.</Vi>
+              <En>Discussing history, culture, or travel in China.</En>
+            </Situation>
+            <Situation id="8e415bf6-2175-4b14-8ab9-411c213c0793">
+              <Vi>Thương mại hoặc xuất nhập khẩu hàng hóa từ Trung Quốc.</Vi>
+              <En>Trading or importing goods from China.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d8f986c6-35b8-41fa-850a-cbd74e8002ea" ipa="/ˈtʃaɪ.nə/" vi_ipa="chây-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5a511bfc-0c8a-42b8-8399-af04bcf8c4e5" type="Noun">
+          <Vi>đồ gốm sứ (đặc biệt là loại tinh xảo từ Trung Quốc)</Vi>
+          <En>High-quality porcelain or ceramic tableware, often associated with fine Chinese ceramics.</En>
+          <Example>We served dessert on delicate bone china.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a152987-b27a-42aa-9702-156188e66768">
+              <Vi>Mô tả bộ đồ ăn sứ cao cấp trong nhà hàng hoặc gia đình.</Vi>
+              <En>Describing fine porcelain dinnerware in a restaurant or home setting.</En>
+            </Situation>
+            <Situation id="dad94d97-4cb4-47a6-98f6-03ebdcd2f5e8">
+              <Vi>Thương mại đồ gốm sứ cao cấp, đặc biệt là loại có họa tiết tinh xảo.</Vi>
+              <En>Trading high-end porcelain items, especially those with intricate designs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
