@@ -414,4 +414,6 @@
   <Profession id="b56f2365-11c1-4564-9a45-a837f2ac28af" slug="electronics-technician" value="Electronics Technician" />
   <Profession id="38acd584-84ba-4e82-99d1-24ed421a21ea" slug="costume-designer" value="Costume Designer" />
   <Profession id="3990e143-373f-490b-9e64-8cfaeaaf87a1" slug="theater-technician" value="Theater Technician" />
+  <Profession id="c03be1f7-1284-4518-87dc-67810d5b2847" slug="arachnologist" value="Arachnologist" />
+  <Profession id="02ab471c-245c-46a6-ab55-eaab2df3f27d" slug="pest-control-technician" value="Pest Control Technician" />
 </Professions>

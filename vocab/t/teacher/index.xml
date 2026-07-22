@@ -1,0 +1,36 @@
+<Vocab id="f9945c9c-a5c2-4fc1-add0-f5a278604060" word="teacher" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be07122e-6c95-4d25-b63e-1365af64d11c" ipa="/ˈtiː.tʃər/" vi_ipa="tì-chờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3da45f91-6769-4ee7-b5fb-5c8f0212fccc" type="Noun">
+          <Vi>giáo viên</Vi>
+          <En>A person who teaches, especially in a school.</En>
+          <Example>The teacher explained the lesson clearly and patiently.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb52792f-544f-44b8-9f43-a240e1ba8897">
+              <Vi>Học sinh lắng nghe giáo viên giảng bài trên bảng.</Vi>
+              <En>Students listen to the teacher explaining a lesson on the board.</En>
+            </Situation>
+            <Situation id="8e235cbd-47b0-4158-ad57-e2fc13b3437a">
+              <Vi>Giáo viên chủ nhiệm tổ chức hoạt động ngoại khóa cho lớp.</Vi>
+              <En>The homeroom teacher organizes extracurricular activities for the class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

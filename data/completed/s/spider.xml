@@ -1,0 +1,52 @@
+<Vocab id="89e4b609-5282-4ca6-85f4-e22822069d60" word="spider" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="c03be1f7-1284-4518-87dc-67810d5b2847" value="Arachnologist" />
+    <Profession id="02ab471c-245c-46a6-ab55-eaab2df3f27d" value="Pest Control Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7fab5056-2d18-4846-b60c-353ffad5d6ff" ipa="/ˈspaɪ.dər/" vi_ipa="s-pai-đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6db7d351-a0a6-4904-a1b1-66f3585c1c9d" type="Noun">
+          <Vi>con nhện</Vi>
+          <En>A predatory arachnid with eight legs, typically with silk-spinning organs, that catches insects in webs or by stalking them.</En>
+          <Example>The spider spun a delicate web between two branches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c3ae912-bacb-4fd5-97a5-c47008c72a3a">
+              <Vi>Một con nhện bò ra từ góc phòng tối.</Vi>
+              <En>A spider crawled out from a dark corner of the room.</En>
+            </Situation>
+            <Situation id="c99fd003-0dac-4267-be7e-7a01e3d8faaa">
+              <Vi>Nhện thường được tìm thấy trong nhà vào mùa thu.</Vi>
+              <En>Spiders are commonly found in houses during autumn.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0083e6c2-684d-4c79-8ad4-366a7bacbe50" type="Noun">
+          <Vi>người hay lén lút theo dõi (thường là thám tử hoặc cảnh sát)</Vi>
+          <En>A slang term for a detective or someone who secretly observes others, especially in surveillance.</En>
+          <Example>The reporter hired a private spider to gather evidence on the suspect.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0492581c-c728-4026-b027-469e96209489">
+              <Vi>Trong phim hình sự, nhân vật chính dùng một "spider" để theo dõi nghi phạm.</Vi>
+              <En>In the crime film, the protagonist uses a "spider" to tail the suspect.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
