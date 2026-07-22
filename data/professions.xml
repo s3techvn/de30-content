@@ -217,4 +217,5 @@
   <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" slug="automotive-technician" value="Automotive Technician" />
   <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" slug="military-personnel" value="Military Personnel" />
   <Profession id="f8976ea2-08f1-455e-bbae-a3741a0ac6a9" slug="astronaut" value="Astronaut" />
+  <Profession id="48ec0582-23a3-4fb7-8326-cb0d78f9fad8" slug="textile-worker" value="Textile Worker" />
 </Professions>
