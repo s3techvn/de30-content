@@ -411,4 +411,5 @@
   <Profession id="0ab24464-8d8c-47a4-8c9d-212e59f75f8a" slug="animation-artist" value="Animation Artist" />
   <Profession id="90684c7f-912e-4ed6-aca3-cfd457954ed9" slug="hairdresser" value="Hairdresser" />
   <Profession id="b66f4445-0ae3-4812-a4e2-ca6f5cb33209" slug="home-stager" value="Home Stager" />
+  <Profession id="b56f2365-11c1-4564-9a45-a837f2ac28af" slug="electronics-technician" value="Electronics Technician" />
 </Professions>

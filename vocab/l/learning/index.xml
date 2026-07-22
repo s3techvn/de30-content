@@ -1,0 +1,50 @@
+<Vocab id="e2e93322-da0c-44cd-9d0c-beb95915c2cd" word="learning" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="06474003-2e52-4143-8473-6d1ecb715efe" ipa="/ˈlɜːr.nɪŋ/" vi_ipa="lờ-nin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08a8c6b8-cec4-4a0e-96bb-efca3efb68ee" type="Noun">
+          <Vi>Quá trình học tập; sự tiếp thu kiến thức hoặc kỹ năng</Vi>
+          <En>The process of acquiring new knowledge, behaviors, skills, values, or preferences</En>
+          <Example>Effective learning requires motivation, practice, and feedback.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21ab45b4-f5e6-417d-a939-84b00ad93de2">
+              <Vi>Một sinh viên đang tham gia khóa học trực tuyến để nâng cao kỹ năng lập trình.</Vi>
+              <En>A student enrolling in an online course to improve programming skills.</En>
+            </Situation>
+            <Situation id="45f27de0-b0c7-4740-b11e-d2d6b13421e0">
+              <Vi>Học qua trải nghiệm thực tế giúp củng cố kiến thức lý thuyết.</Vi>
+              <En>Learning through hands-on experience helps reinforce theoretical knowledge.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="40a62be4-3bbf-47fc-b0e9-85e85dea7080" type="Noun">
+          <Vi>Kết quả của quá trình học; điều đã được học</Vi>
+          <En>The knowledge or skill gained through study or experience</En>
+          <Example>The learning from this project will inform our future strategies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="caf6835d-cb17-4aed-a969-cdc2e7207779">
+              <Vi>Đội dự án đã tổng hợp toàn bộ learning sau khi hoàn thành giai đoạn thử nghiệm.</Vi>
+              <En>The project team compiled all the learning after completing the pilot phase.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

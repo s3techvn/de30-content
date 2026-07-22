@@ -1,0 +1,52 @@
+<Vocab id="37318eee-69e2-41c1-acfb-7a43e9713498" word="battery" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+    <Topic id="56ee3793-dd97-451f-9c27-d2f6d065bc14" value="Electronics" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" value="Automotive Technician" />
+    <Profession id="b56f2365-11c1-4564-9a45-a837f2ac28af" value="Electronics Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="507df92d-8fc4-4edf-8165-f7cb93690c04" ipa="/ˈbæt̬.ər.i/" vi_ipa="bát-tơ-rì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="651d694b-83f2-486b-983e-4d214cddc436" type="Noun">
+          <Vi>Bình ắc-quy; pin (dùng để lưu trữ và cung cấp điện năng)</Vi>
+          <En>A device consisting of one or more electrochemical cells with external connections for powering electrical devices.</En>
+          <Example>My phone battery died halfway through the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="703f64b9-a649-44dc-ac42-c0baadd01e9c">
+              <Vi>Tình huống khi thiết bị điện tử hết pin và cần sạc lại.</Vi>
+              <En>A situation where an electronic device runs out of power and needs recharging.</En>
+            </Situation>
+            <Situation id="98d64256-500f-455f-8d6d-5f12f00a6303">
+              <Vi>Tình huống thay thế ắc-quy xe ô tô cũ.</Vi>
+              <En>A situation involving replacing an old car battery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6e67b2f5-f94e-48e6-9209-f80056f26391" type="Noun">
+          <Vi>Đạn dược, pháo binh (hàng loạt vũ khí hoặc thiết bị tương tự)</Vi>
+          <En>A group of similar things used together, especially weapons or pieces of equipment.</En>
+          <Example>The artillery battery opened fire at dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8b67275-6292-4fe4-9fe1-43b9363b1467">
+              <Vi>Tình huống quân sự mô tả một đội pháo binh hoạt động.</Vi>
+              <En>A military context describing an artillery battery in action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
