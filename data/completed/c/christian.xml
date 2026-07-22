@@ -1,0 +1,45 @@
+<Vocab id="54936179-3f22-4afa-8bce-c34ddead9760" word="christian" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65610963-fe12-4bea-a133-48704fd96d5a" ipa="/ˈkrɪs.tʃən/" vi_ipa="cơ-rít-chơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="90af4891-8a5e-4923-a430-87037071a377" type="Adjective">
+          <Vi>thuộc về Kitô giáo, Cơ Đốc giáo</Vi>
+          <En>Belonging to or associated with Christianity or Christians.</En>
+          <Example>She attends a Christian church every Sunday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7077364f-9320-4318-8c97-2953ed905e1b">
+              <Vi>Mô tả các yếu tố, nghi thức, hoặc tổ chức liên quan đến Kitô giáo.</Vi>
+              <En>Describing elements, rituals, or institutions related to Christianity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="234ed222-6d87-46a2-945e-583a836bd92d" type="Noun">
+          <Vi>người theo Kitô giáo, tín đồ Cơ Đốc giáo</Vi>
+          <En>A person who follows the teachings of Jesus Christ and believes in Christianity.</En>
+          <Example>Many Christians observe Lent as a period of reflection and fasting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7da2120-3c57-4842-a282-88fb23c717cb">
+              <Vi>Dùng để chỉ cá nhân công khai tuyên xưng đức tin Kitô giáo.</Vi>
+              <En>Used to refer to an individual who publicly professes faith in Christianity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
