@@ -1,0 +1,50 @@
+<Vocab id="6d85a799-ceb9-4dbd-ae73-237a18a3c7eb" word="brunette" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="5f0d2f6d-e9aa-42f5-b25e-83efeee68158" value="Hair Stylist" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="de734334-3852-4202-aa19-69cb6f15395e" ipa="/brʊˈnɛt/" vi_ipa="bờ-rờ-nét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f8b65c70-ab6a-4733-bba2-1864160dbdcc" type="Noun">
+          <Vi>người phụ nữ có tóc nâu sẫm</Vi>
+          <En>a woman with dark brown or blackish-brown hair</En>
+          <Example>She’s a tall brunette with striking green eyes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0dd4c7cb-7c01-4774-a2c1-8721940e8740">
+              <Vi>Mô tả ngoại hình của một người phụ nữ trong truyện hoặc bài báo.</Vi>
+              <En>Describing a woman’s physical appearance in a story or article.</En>
+            </Situation>
+            <Situation id="26b3dec7-cbf7-448d-8eb4-192a1dfe6ac2">
+              <Vi>Chọn màu nhuộm tóc phù hợp cho khách hàng.</Vi>
+              <En>Discussing hair dye options for a client with naturally dark hair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6e23a8dd-bf57-4516-a97b-1c9faa7cf1e5" type="Adjective">
+          <Vi>nâu sẫm (dùng để chỉ tóc)</Vi>
+          <En>having dark brown or blackish-brown hair</En>
+          <Example>He prefers brunettes over blondes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="95dce29a-46e1-4fb4-9ba6-d4afabda2c5e">
+              <Vi>Trong cuộc trò chuyện về sở thích ngoại hình.</Vi>
+              <En>In casual conversation about physical appearance preferences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
