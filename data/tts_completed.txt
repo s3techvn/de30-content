@@ -1323,3 +1323,4 @@ occasional
 impression
 bangkok
 standard
+bang
