@@ -1,0 +1,90 @@
+<Vocab id="c1d2a8eb-21b5-4718-8b09-0ca2e0215f84" word="dot" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b26bed5-e145-4f97-9def-1d6237867189" ipa="/dɑːt/" vi_ipa="đốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3324956d-4351-45dc-b5df-43dedb8cb543" type="Noun">
+          <Vi>Dấu chấm; chấm nhỏ</Vi>
+          <En>A small round mark, typically used in writing, printing, or on a screen.</En>
+          <Example>She added a dot after the closing parenthesis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a06739fc-4f10-4219-be27-62e8a3aab7db">
+              <Vi>Viết chữ cái tiếng Anh hoặc dấu câu trên giấy.</Vi>
+              <En>Writing English letters or punctuation marks on paper.</En>
+            </Situation>
+            <Situation id="06828313-1783-451a-8427-c44016870c4b">
+              <Vi>Hiển thị điểm trên màn hình máy tính hoặc điện thoại.</Vi>
+              <En>Displaying a point or pixel on a computer or phone screen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8fd257f6-87ec-4db4-a2fd-7344bf894669" type="Verb">
+          <Vi>Đánh dấu chấm; rải từng chấm nhỏ</Vi>
+          <En>To mark with small dots or to place dots here and there.</En>
+          <Example>The artist dotted the painting with bright colors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6aa76321-0f31-4311-8ada-e19638c412b1">
+              <Vi>Chấm điểm vào bản vẽ kỹ thuật để đánh dấu vị trí.</Vi>
+              <En>Making small dots on a technical drawing to indicate positions.</En>
+            </Situation>
+            <Situation id="f83a7f2f-38e9-4250-9bfc-e8bcffd6621d">
+              <Vi>Trang trí bằng cách chấm từng chấm nhỏ lên bề mặt.</Vi>
+              <En>Decorating by applying small dots onto a surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="7e5e91af-b4c8-4b81-98ac-50ef8ce0c771" ipa="/dɒt/" vi_ipa="đốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="66f50ade-7612-4f1e-ace6-8a2c1758b63a" type="Noun">
+          <Vi>Điểm (trong mạng máy tính); địa chỉ IP ngắn gọn</Vi>
+          <En>A dot used in network addresses, such as in IP addresses (e.g., 192.168.1.1).</En>
+          <Example>The IPv4 address is written with dots separating each octet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b7331230-b0ec-484a-b5cb-f00c5da477f0">
+              <Vi>Viết địa chỉ email hoặc IP trong lập trình hoặc cấu hình mạng.</Vi>
+              <En>Writing email addresses or IP addresses in programming or network configuration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9db2586d-6c7b-446e-98b7-89e1d9412846" type="Noun">
+          <Vi>Điểm nhỏ (trong toán học, vật lý)</Vi>
+          <En>A point in geometry or physics, representing a location with no dimensions.</En>
+          <Example>In coordinate geometry, a dot marks the origin (0, 0).</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8eb179e1-68b3-41f6-b878-33d3af82ce14">
+              <Vi>Vẽ đồ thị và đánh dấu các điểm tọa độ.</Vi>
+              <En>Plotting a graph and marking coordinate points.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
