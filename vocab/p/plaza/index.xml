@@ -1,0 +1,40 @@
+<Vocab id="504268c2-432a-495c-99b9-494af44fcfb9" word="plaza" type="short" status="done">
+  <Topics>
+    <Topic id="3dc7aad4-4f7c-4f3c-beb9-ac7fd44f3dee" value="Urban Planning" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c76d937b-a397-4314-b932-79f1eee427d4" ipa="/ˈplæz.ə/" vi_ipa="pờ-lây-zơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f6cb32f1-318a-4323-bdc8-67aa62a0f79e" type="Noun">
+          <Vi>quảng trường (thường là nơi công cộng, có thể có đài phun nước, ghế ngồi, và cửa hàng xung quanh)</Vi>
+          <En>a public open space, typically in a city or town, often surrounded by buildings and sometimes featuring a fountain, benches, or shops</En>
+          <Example>The tourists gathered in the main plaza to take photos of the historic cathedral.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3465dc4a-7bd6-4dd5-8f38-0d6109eaf75c">
+              <Vi>Một khu vực mở trong trung tâm thành phố, nơi người dân và du khách thường tụ tập.</Vi>
+              <En>A central open area in a city where people gather for events, relaxation, or transit.</En>
+            </Situation>
+            <Situation id="b8adfa44-0ea5-4404-b62d-438066ad5d75">
+              <Vi>Khu vực thương mại – giải trí gắn liền với quảng trường, như trong các trung tâm mua sắm kiểu Tây Ban Nha.</Vi>
+              <En>A shopping or entertainment complex modeled after traditional Spanish-style plazas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
