@@ -645,4 +645,6 @@
   <Profession id="ed03f375-7f4c-4a82-b8d7-6b3da5e239d1" slug="travel-&amp;-logistics" value="Travel &amp; Logistics" />
   <Profession id="059085e8-a597-4864-bc7b-3c2dd5911fdb" slug="architecture-&amp;-urban-planning" value="Architecture &amp; Urban Planning" />
   <Profession id="c9a2b1f7-7f82-4530-b041-50c1cc105ad7" slug="physical-education-teacher" value="Physical Education Teacher" />
+  <Profession id="f740bf76-88e4-4b4e-ad57-fbd10995030e" slug="goldsmith" value="Goldsmith" />
+  <Profession id="5b85c3f2-299a-46f6-9324-517c5759cf56" slug="silversmith" value="Silversmith" />
 </Professions>

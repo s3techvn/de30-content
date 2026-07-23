@@ -1,0 +1,38 @@
+<Vocab id="4efab3ca-4109-4dea-8cde-620a707d2216" word="smith" type="short" status="done">
+  <Topics>
+    <Topic id="1e4fb0a4-977f-4e53-a1c0-a184033d0420" value="Crafts and Trades" />
+  </Topics>
+  <Professions>
+    <Profession id="ecf69b14-0d8f-4211-bb8a-29450207841e" value="Blacksmith" />
+    <Profession id="f740bf76-88e4-4b4e-ad57-fbd10995030e" value="Goldsmith" />
+    <Profession id="5b85c3f2-299a-46f6-9324-517c5759cf56" value="Silversmith" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b74e2635-919a-4ee7-a82e-b46afa1c0b20" ipa="/smɪθ/" vi_ipa="xmith">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0bd594dd-6a9a-4563-9ccb-3dac2b22be32" type="Noun">
+          <Vi>thợ rèn; thợ kim hoàn</Vi>
+          <En>A worker who makes and repairs metal objects, especially by forging iron or steel; historically, a craftsman who works with metal, such as a blacksmith or goldsmith.</En>
+          <Example>The blacksmith hammered the hot iron into a horseshoe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9bd35ad1-922a-4e88-bcdd-43349867ef55">
+              <Vi>Một người làm việc trong xưởng rèn, đúc và uốn kim loại nóng chảy.</Vi>
+              <En>A person working in a forge, heating, shaping, and joining metal components.</En>
+            </Situation>
+            <Situation id="7fd236b8-53b0-4d58-838f-44cb234e1aa5">
+              <Vi>Thợ kim hoàn chế tác trang sức từ vàng, bạc.</Vi>
+              <En>A goldsmith or silversmith crafting jewelry and decorative items from precious metals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

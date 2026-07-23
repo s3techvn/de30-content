@@ -1,0 +1,94 @@
+<Vocab id="b33e31ed-4450-4d96-888f-4ad49457fabe" word="yield" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" value="Investor" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="02bd1908-e4fc-4d91-a336-be1f224d3e39" ipa="/jiːld/" vi_ipa="gi-ê-ld">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="63dfa002-184d-45a6-821a-0c277f12443b" type="Verb">
+          <Vi>đưa, nhường, nhượng lại (quyền, lợi ích, vị trí…)</Vi>
+          <En>to give up or surrender something, especially under pressure or in compliance with a demand</En>
+          <Example>The company decided to yield control of the project to the government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9a4bda4-9ac6-4c9f-b003-93012e94e8ba">
+              <Vi>Tình huống một công ty đồng ý trao quyền kiểm soát cho cơ quan nhà nước sau khi đàm phán.</Vi>
+              <En>A company agrees to hand over control to a government body after negotiations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="78f57f67-bc38-4b9c-a8f7-18d2d318c85c" type="Verb">
+          <Vi>cho ra (sản lượng, lợi nhuận…)</Vi>
+          <En>to produce or provide a result, especially a financial return or agricultural output</En>
+          <Example>This investment yielded a 10% return last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a19918a-878b-43e3-89fa-977e1d28f8d1">
+              <Vi>Tình huống một khoản đầu tư tạo ra lợi nhuận cụ thể trong một năm.</Vi>
+              <En>A scenario where an investment generates a specific profit over a year.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3530f3f6-3e35-44d2-8f4a-73494b18bd01" type="Verb">
+          <Vi>(xe cộ) lùi lại, nhường đường</Vi>
+          <En>(of a vehicle) to slow down or stop to let another vehicle or pedestrian pass</En>
+          <Example>At the intersection, drivers must yield to pedestrians.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="037c9b66-95d8-487d-b925-f27f632e88f4">
+              <Vi>Tình huống người lái xe nhường đường cho người đi bộ tại ngã tư.</Vi>
+              <En>A driver stops or slows to let pedestrians cross at a crosswalk.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="918512ed-d969-4196-97f4-a1e5afe91580" ipa="/jɪld/" vi_ipa="gi-ê-lđơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6c964c2-558f-4c4a-8bcc-b0b1856cbf95" type="Noun">
+          <Vi>sản lượng, năng suất (nông nghiệp, công nghiệp)</Vi>
+          <En>the amount of something produced, especially crops or industrial output</En>
+          <Example>The rice yield this season was 20% higher than last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="467b6a02-8328-4f96-8fa2-895b124fc0ac">
+              <Vi>Tình huống nông dân báo cáo năng suất lúa cao hơn mùa trước.</Vi>
+              <En>A farmer reports a higher rice harvest compared to the previous season.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d2d72a95-3d06-4f7b-8baf-81639482786f" type="Noun">
+          <Vi>lợi tức, suất sinh lời (trong tài chính)</Vi>
+          <En>the income returned on an investment, such as interest or dividends</En>
+          <Example>The bond has a current yield of 4.5% per year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b5cca364-2441-43cf-a9e6-a82612afacd5">
+              <Vi>Tình huống nhà đầu tư so sánh suất sinh lời giữa các trái phiếu.</Vi>
+              <En>An investor compares the annual returns of different bonds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
