@@ -1,0 +1,38 @@
+<Vocab id="db462744-d90e-4177-8475-69d16915a06e" word="berlin" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f378a0e-6a84-4dbf-9cb4-31df7cb72516" ipa="/ˈbɜːr.lɪn/" vi_ipa="béc-lin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="608828c5-64a6-4628-b9f3-567b18a7ba4d" type="Noun">
+          <Vi>Berlin</Vi>
+          <En>The capital and largest city of Germany, known for its complex history, divided past, and vibrant cultural scene.</En>
+          <Example>Many tourists visit the Brandenburg Gate and the Berlin Wall Memorial when they travel to Berlin.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08138e07-10e9-4083-a795-15b7575adc3d">
+              <Vi>Thảo luận về du lịch hoặc lịch sử nước Đức.</Vi>
+              <En>Discussing travel to or the history of Germany.</En>
+            </Situation>
+            <Situation id="48f5ad61-ef7c-4c33-a542-891a39b7eab7">
+              <Vi>Nhắc đến các sự kiện lịch sử như Chiến tranh Lạnh hoặc việc xây dựng Tường Berlin.</Vi>
+              <En>Referring to Cold War events or the construction of the Berlin Wall.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
