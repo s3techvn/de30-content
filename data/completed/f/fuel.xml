@@ -1,0 +1,78 @@
+<Vocab id="12fd365e-3bb1-4e22-95fe-049500d85581" word="fuel" type="short" status="done">
+  <Topics>
+    <Topic id="72d3d15a-ce90-4042-99f7-8a70c13dbc69" value="Energy &amp; Environment" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6ea546c-e59e-4526-bd0a-9931fc1664c3" ipa="/fjuːəl/" vi_ipa="phiu-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f9bb7dd5-67b2-46ca-89cc-fa3cf9032117" type="Noun">
+          <Vi>nhiên liệu</Vi>
+          <En>A material (such as coal, oil, or gas) that is burned to produce heat or power.</En>
+          <Example>The car ran out of fuel on the highway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a879b8cb-9674-4dc5-8419-c8ea3883553b">
+              <Vi>Tình huống khi xe cần đổ xăng/dầu để tiếp tục chạy.</Vi>
+              <En>A situation where a vehicle needs refueling to continue operation.</En>
+            </Situation>
+            <Situation id="a0c247f0-4146-4e29-babb-27b8a5f78006">
+              <Vi>Tình huống thảo luận về nguồn nhiên liệu tái tạo.</Vi>
+              <En>A situation discussing renewable fuel sources like bioethanol or hydrogen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="15fc02e6-dcdb-4668-90a7-609588916b5b" type="Verb">
+          <Vi>đổ nhiên liệu; cung cấp nhiên liệu</Vi>
+          <En>To provide a vehicle, engine, or system with fuel; to supply something with the energy or resources needed to function or grow.</En>
+          <Example>The pilot fueled the plane before takeoff.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ccc1166-894d-43ca-b10d-8e9b9bf2e33c">
+              <Vi>Tình huống nhân viên xăng dầu bơm nhiên liệu vào xe.</Vi>
+              <En>A situation where a gas station attendant pumps fuel into a vehicle.</En>
+            </Situation>
+            <Situation id="14f3bd09-fb51-4879-b06a-ee771951b91e">
+              <Vi>Tình huống nói bóng bẩy về việc "fuel" một cuộc tranh luận.</Vi>
+              <En>A figurative use, e.g., "The report fueled public debate on climate change."</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d05fdf79-c5d2-41df-94c9-0fd78b27ac9a" ipa="/ˈfjuː.əl/" vi_ipa="phiu-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="04abbae8-bc01-448c-9f27-4995d50c542d" type="Noun">
+          <Vi>chất đốt (dùng trong lò, nồi hơi)</Vi>
+          <En>A substance used to produce heat or power in a furnace, boiler, or engine, especially in industrial contexts.</En>
+          <Example>The factory switched from coal to natural gas as its primary fuel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4af976b7-5266-46e8-bfd7-c2fbe4e9ba91">
+              <Vi>Tình huống kỹ sư nhà máy kiểm tra hệ thống cấp nhiên liệu cho lò hơi.</Vi>
+              <En>A situation where a factory engineer inspects the fuel supply system for the boiler.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
