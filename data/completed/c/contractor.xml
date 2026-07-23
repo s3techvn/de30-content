@@ -1,0 +1,36 @@
+<Vocab id="97d244f6-bf92-4a19-9ace-e603cd0cfcce" word="contractor" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" value="Construction Manager" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="d4f216d6-9d5f-45a4-886c-75e8cdb0dc82" value="Legal Consultant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1e241c3a-879e-44d2-9c38-aedee24f5523" ipa="/kənˈtræk.tər/" vi_ipa="cơn-trắc-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f701fc0c-c00e-4e6a-b0d2-96ca05a70673" type="Noun">
+          <Vi>nhà thầu</Vi>
+          <En>A person or company that undertakes a contract to provide materials or labor to perform a task or deliver a result.</En>
+          <Example>The contractor completed the building project two weeks ahead of schedule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f2301da-6108-42ee-9f30-9433536e9e56">
+              <Vi>Người hoặc công ty được giao nhiệm vụ xây dựng, sửa chữa, hoặc cung cấp dịch vụ theo hợp đồng.</Vi>
+              <En>A person or company hired under a formal agreement to carry out specific work or services.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
