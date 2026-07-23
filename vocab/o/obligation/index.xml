@@ -1,0 +1,52 @@
+<Vocab id="8b7abe7f-e154-44de-9f45-6872afe174e9" word="obligation" type="short" status="done">
+  <Topics>
+    <Topic id="37995cfd-a3f4-4653-a8ab-ef12ea444e0b" value="Law &amp; Ethics" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c1dae290-e5a5-4738-9e99-bde0de86288f" ipa="/ˌɑːblɪˈɡeɪʃn/" vi_ipa="ác-bli-gây-sơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="61c54dfc-49b4-41ea-a84a-4d6daea0c3d5" type="Noun">
+          <Vi>Nghĩa vụ</Vi>
+          <En>A moral or legal duty to do something.</En>
+          <Example>She felt a strong obligation to help her aging parents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db057cd6-bb17-4c3d-bef8-d83a477859ca">
+              <Vi>Tình huống khi một người cảm thấy phải làm điều gì vì đạo đức, pháp luật, hoặc lời hứa.</Vi>
+              <En>A situation where a person feels compelled to act due to ethical, legal, or promised commitments.</En>
+            </Situation>
+            <Situation id="b846bfc0-f7d8-4eed-8b3b-a6309738f8f8">
+              <Vi>Trong hợp đồng lao động, nhân viên có nghĩa vụ tuân thủ quy định công ty.</Vi>
+              <En>In an employment contract, employees have an obligation to comply with company policies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d03f5df8-0af0-4c5c-968d-49ba7950340f" type="Noun">
+          <Vi>Sự ràng buộc (tâm lý hoặc xã hội)</Vi>
+          <En>A feeling of being bound or committed to someone or something, often due to gratitude or social expectation.</En>
+          <Example>He felt an obligation to attend the wedding after his friend helped him move house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="be994a71-8f37-407e-94a9-2896c285d93f">
+              <Vi>Cảm giác phải đáp lại ân huệ hoặc sự giúp đỡ từ người khác.</Vi>
+              <En>A sense of needing to reciprocate a favor or kindness received from someone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
