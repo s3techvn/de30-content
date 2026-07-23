@@ -1,0 +1,40 @@
+<Vocab id="62d75c91-cc25-4942-9d2c-9f12df9e7d85" word="inner" type="short" status="done">
+  <Topics>
+    <Topic id="2bd71022-ac06-4a28-8875-be9fac56de1f" value="Emotions &amp; Psychology" />
+    <Topic id="1f92406e-730d-4c01-8ac8-e9fd4592813d" value="Anatomy &amp; Body" />
+    <Topic id="40efa9fd-ac22-41b6-875c-df7e839de5f2" value="Philosophy &amp; Spirituality" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="202c452b-c4ec-4ed5-a1c9-abb6eccf6ff1" ipa="/ˈɪn.ər/" vi_ipa="in-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45ce7586-3883-4c96-905f-5561d4d22722" type="Adjective">
+          <Vi>thuộc bên trong; nội tại; bên trong</Vi>
+          <En>being or occurring inside something; internal.</En>
+          <Example>She tried to calm her inner turmoil before the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="75447ab5-b082-4830-ad19-c71847590a65">
+              <Vi>Mô tả điều gì đó nằm hoặc xảy ra bên trong một vật thể, cơ thể, hoặc hệ thống.</Vi>
+              <En>Describing something located or occurring inside an object, body, or system.</En>
+            </Situation>
+            <Situation id="0ccb3307-3d71-4957-b283-6aa2b2a416c9">
+              <Vi>Dùng để chỉ cảm xúc, suy nghĩ, hoặc phẩm chất không biểu lộ ra bên ngoài.</Vi>
+              <En>Used to refer to emotions, thoughts, or qualities that are not expressed outwardly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

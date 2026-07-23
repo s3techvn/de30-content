@@ -1,0 +1,46 @@
+<Vocab id="f8083c11-a714-4830-a504-a60b66336e11" word="sub" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="fa3f3ac0-190e-4ce3-944f-6f9a417015a2" value="Food Service Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="770ecc87-f688-44d9-aabc-871e8e5aaa4c" ipa="/sʌb/" vi_ipa="xáp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8debefe2-7f28-4118-8e61-a62b124716b2" type="Noun">
+          <Vi>đóng vai người thay thế; người thay thế</Vi>
+          <En>A person who takes the place of another, especially temporarily.</En>
+          <Example>She was hired as a sub for the regular teacher during maternity leave.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bee5221f-19a1-4525-81bd-7981169606bf">
+              <Vi>Giáo viên thay thế được gọi là "sub" trong trường học.</Vi>
+              <En>In schools, a temporary replacement teacher is commonly called a "sub".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cffdcb32-4d9d-4ff3-9377-9e69724acdcd" type="Noun">
+          <Vi>đóng vai người thay thế; người thay thế</Vi>
+          <En>A sandwich made with a long, crusty roll, typically filled with meats, cheeses, vegetables, and condiments.</En>
+          <Example>We ordered two subs for lunch — one with turkey and avocado, the other with roast beef.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1e85791-b7a1-4f9b-9417-9c686f14adb9">
+              <Vi>Người Mỹ thường gọi bánh mì kẹp dài là "sub sandwich" hoặc rút gọn thành "sub".</Vi>
+              <En>In the U.S., people often refer to a long sandwich as a "sub sandwich" or simply "sub".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
