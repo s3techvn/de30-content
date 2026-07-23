@@ -1,0 +1,32 @@
+<Vocab id="2be18a18-73a4-4683-9693-f51f6f96e906" word="yea" type="short" status="done">
+  <Topics>
+    <Topic id="4fcc8a78-03e6-4f9d-a771-fbfd4873f0d1" value="Everyday Conversation" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bee8b03f-7058-4082-b86d-9e2a266de884" ipa="/jɑː/" vi_ipa="yê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="51e6cc7b-2788-4643-9d78-bcdf9f8fdcb9" type="Interjection">
+          <Vi>ừ, vâng (dùng để đồng ý một cách thân mật hoặc không quá trang trọng)</Vi>
+          <En>yes (used informally to express agreement)</En>
+          <Example>— Are we meeting at 3? — Yea, that works for me.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="717eebfe-cd52-4d2f-b54d-51f9162c94b4">
+              <Vi>Phản hồi ngắn gọn, thân mật khi đồng ý với một đề xuất hoặc câu hỏi trong hội thoại hàng ngày.</Vi>
+              <En>Giving a casual, informal "yes" in response to a question or suggestion in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
