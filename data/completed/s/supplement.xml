@@ -1,0 +1,68 @@
+<Vocab id="53a0eb25-98f5-4c06-988f-3c6389c33814" word="supplement" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+  </Topics>
+  <Professions>
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ce85b7cd-46f1-40af-8a6c-4f6f9d7f74cf" ipa="/ˈsʌp.lɪ.mənt/" vi_ipa="sáp-lơ-mơnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a596f32-39a2-4f62-93d3-ebce46af18c9" type="Noun">
+          <Vi>thực phẩm chức năng; phụ gia; phần bổ sung</Vi>
+          <En>A substance added to a product or diet to enhance its nutritional value or compensate for a deficiency.</En>
+          <Example>Many people take a vitamin D supplement during the winter months.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57a89cdc-c882-41d5-8e98-b0ef3b9368a8">
+              <Vi>Người tiêu dùng mua viên uống bổ sung vitamin tại hiệu thuốc.</Vi>
+              <En>A customer purchases a vitamin supplement at the pharmacy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b6d6bbb8-edbf-46c2-ada9-e420681bfd15" type="Verb">
+          <Vi>bổ sung; thêm vào cho đầy đủ</Vi>
+          <En>To add something to another in order to make up for a deficiency or improve completeness.</En>
+          <Example>The report was supplemented with additional data from field research.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a709ae3c-4203-4d56-b887-bc26a0095887">
+              <Vi>Bác sĩ kê đơn bổ sung sắt cho bệnh nhân bị thiếu máu.</Vi>
+              <En>The doctor prescribed iron supplements for the anemic patient.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c08868c8-2b30-41fa-9419-1443c3687669" ipa="/ˈsʌp.lɪ.mənt/" vi_ipa="sáp-lơ-mơnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cbbd0754-457a-42c0-ad40-b00747c5e933" type="Noun">
+          <Vi>bản bổ sung (sách, báo chí)</Vi>
+          <En>An additional section or issue added to a book, newspaper, or periodical, often containing extra or updated material.</En>
+          <Example>The latest edition of the textbook includes a supplement on climate change.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7fcdb6eb-0394-4247-95bc-b978d3a95cc3">
+              <Vi>Báo khoa học phát hành bản bổ sung chuyên sâu về công nghệ AI.</Vi>
+              <En>The scientific journal released a supplement dedicated to AI technologies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
