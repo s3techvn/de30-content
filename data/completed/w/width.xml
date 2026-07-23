@@ -1,0 +1,38 @@
+<Vocab id="1a713f9e-1eb0-42cf-802b-a21a449e1d34" word="width" type="short" status="done">
+  <Topics>
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5fb3a87-5dbf-4bf2-b2f2-aaa1b162639c" ipa="/wɪdθ/" vi_ipa="uít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e6d7a7ec-a500-4369-80c8-e661aae30575" type="Noun">
+          <Vi>Chiều rộng</Vi>
+          <En>The measurement of the extent of something from side to side.</En>
+          <Example>The width of the room is five meters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2b4eccda-6f94-4463-9976-d5710be77dc6">
+              <Vi>Mô tả kích thước ngang của một vật hoặc không gian.</Vi>
+              <En>Describing the horizontal measurement of an object or space.</En>
+            </Situation>
+            <Situation id="25052229-daec-4a59-aef8-fb425adf5f26">
+              <Vi>Đo lường trong thiết kế may mặc để đảm bảo vừa vặn.</Vi>
+              <En>Measurement in clothing design to ensure proper fit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
