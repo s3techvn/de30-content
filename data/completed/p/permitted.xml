@@ -1,0 +1,33 @@
+<Vocab id="fad0632b-b909-497e-959e-f4ff6a8fdc59" word="permitted" type="short" status="done">
+  <Topics>
+    <Topic id="d99ec60d-1454-4deb-848e-d448e664d4f6" value="Law &amp; Regulations" />
+  </Topics>
+  <Professions>
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+    <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" value="Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a2261392-c952-42fe-a710-739a86db52b3" ipa="/ˈpɜːr.mɪ.tɪd/" vi_ipa="pờ-mít-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ce509fd2-835c-49ad-9527-d1bbb7690916" type="Adjective">
+          <Vi>được phép; được cho phép</Vi>
+          <En>allowed or authorized by law, rule, or someone in authority.</En>
+          <Example>Smoking is not permitted in this building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2764af94-ce5b-403a-b1f3-c29c36140660">
+              <Vi>Một nơi hoặc hoạt động mà hành vi cụ thể được phép theo quy định.</Vi>
+              <En>A place or activity where a specific action is allowed according to rules or regulations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

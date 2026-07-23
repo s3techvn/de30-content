@@ -1,0 +1,56 @@
+<Vocab id="2f1d07da-f429-4697-82f2-9af4b56692e6" word="host" type="short" status="done">
+  <Topics>
+    <Topic id="9ffea2b1-125c-4010-b71b-d34bba311f80" value="Social Events" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="970d4e12-a694-4295-93cd-12428be2ab90" value="Travel &amp; Hospitality" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71b92adf-ca65-4be7-822f-5b7c0b730575" ipa="/həʊst/" vi_ipa="hốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8bf82e0-f40a-4282-a645-16b1c9dfacb3" type="Noun">
+          <Vi>người chủ trì; người chủ nhà; máy chủ</Vi>
+          <En>a person who receives or entertains guests, or the owner or manager of a hotel, pub, or restaurant; in computing, a computer that provides data or services for other computers</En>
+          <Example>She agreed to host the dinner party at her apartment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4cf445ec-e3a2-43ae-91c2-ba5f664872e3">
+              <Vi>Chủ nhà tổ chức tiệc tại nhà.</Vi>
+              <En>A person organizes and provides a gathering at their home.</En>
+            </Situation>
+            <Situation id="dc22df91-224f-4fe2-86c6-077a186f4b6b">
+              <Vi>Máy chủ lưu trữ website và phản hồi yêu cầu từ máy khách.</Vi>
+              <En>A computer system that stores a website’s files and responds to requests from users’ devices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d21c9e81-1c3d-4e67-8813-d7f786eb31e7" type="Verb">
+          <Vi>chủ trì; tổ chức; làm chủ nhà; lưu trữ (dữ liệu)</Vi>
+          <En>to organize and preside over an event or meeting; to provide accommodation or entertainment for guests; in computing, to store and provide data or services for other computers</En>
+          <Example>The university will host the international conference next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="371a0f3b-9f91-40f1-ad92-cd0f582190c2">
+              <Vi>Doanh nghiệp tổ chức hội nghị khách hàng.</Vi>
+              <En>A company organizes and manages a customer conference.</En>
+            </Situation>
+            <Situation id="552b2afd-445a-455b-8bcb-9c8a65c3ae35">
+              <Vi>Ứng dụng được lưu trữ trên máy chủ đám mây.</Vi>
+              <En>The application is stored and run on a cloud-based server.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
