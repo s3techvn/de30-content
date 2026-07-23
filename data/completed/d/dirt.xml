@@ -1,0 +1,63 @@
+<Vocab id="32d1b6f8-a8a0-476b-8f3a-1596563f5d38" word="dirt" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="22f730d1-2b56-4b41-9747-5b5d0cfde045" ipa="/dɜːrt/" vi_ipa="đờ-ri-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1822e1b9-dc45-42e2-b795-79ea7a993033" type="Noun">
+          <Vi>đất bẩn; đất cát; bùn (thường chỉ đất không tơi xốp, khô hoặc ẩm, có thể lẫn rác, phân, v.v.)</Vi>
+          <En>loose, dry, or moist soil, especially when mixed with organic matter, debris, or waste; often used informally to refer to soil in a general or unrefined sense</En>
+          <Example>He wiped the dirt off his hands with a rag.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8739282-934e-44bc-9334-b022974f22a2">
+              <Vi>Mô tả tình huống khi làm vườn hoặc xây dựng, người ta phải làm sạch đất trước khi trồng cây hoặc đổ bê tông.</Vi>
+              <En>A gardener or construction worker removes dirt from a site before planting or pouring concrete.</En>
+            </Situation>
+            <Situation id="4720d512-5c6c-4d6d-9eb3-eff6786f345f">
+              <Vi>Trẻ em chơi bùn hoặc vui đùa trong đất ẩm sau khi mưa.</Vi>
+              <En>Children play in the wet dirt after a rainstorm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="be19e6f6-a165-407a-8e0a-72ad0d2b7e64" type="Noun">
+          <Vi>chất bẩn (dạng bột hoặc bùn bám trên bề mặt)</Vi>
+          <En>loose, dry, or sticky soil-like substance that adheres to surfaces, especially when it makes things unclean</En>
+          <Example>She brushed the dirt off her shoes before entering the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a77912af-cebe-4103-815d-a2baaf1746fd">
+              <Vi>Sau khi đi bộ ngoài đường, giày bị phủ đầy đất và bụi.</Vi>
+              <En>After walking outside, the shoes were covered in dirt and dust.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c33f7568-7db4-40e1-864c-f957c06498a7" type="Noun">
+          <Vi>(nghĩa bóng) điều bẩn thỉu, điều nhơ nhuốc (thường dùng trong cụm từ như "make a dirt nap", "dirt poor")</Vi>
+          <En>(figurative) something disgraceful or degrading; also used in idioms (e.g., "dirt poor" = extremely poor)</En>
+          <Example>He was dirt poor when he first started his business.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed11d594-f2f8-4ab8-a44d-c1f3c3d62fcf">
+              <Vi>Mô tả một người từng sống trong nghèo khó cùng cực trước khi thành công.</Vi>
+              <En>Describes someone who lived in extreme poverty before achieving success.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
