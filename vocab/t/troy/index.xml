@@ -1,0 +1,47 @@
+<Vocab id="3a3e9426-f0ce-45d5-9ff5-2c521af5a5a4" word="troy" type="short" status="done">
+  <Topics>
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="f740bf76-88e4-4b4e-ad57-fbd10995030e" value="Goldsmith" />
+    <Profession id="287eb6b3-d4e3-47e4-91b6-f63f2cf3bd7c" value="Miner" />
+    <Profession id="5e2d467d-da5f-4ad1-bc3d-aa185b0ec754" value="Pharmacist (historical)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="03da78f7-a90f-45ed-b4b9-79a5d79aefb1" ipa="/tɹɔɪ/" vi_ipa="trôi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e2b53898-cff6-433b-863c-e2c6d3f9063f" type="Noun">
+          <Vi>đơn vị đo lường (dùng để cân kim loại quý như vàng, bạc, và đá quý)</Vi>
+          <En>a system of weights used for precious metals and gemstones, equal to 12 troy ounces or approximately 373.24 grams</En>
+          <Example>The gold bar weighed 10 troy ounces.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a447589-270a-4e8c-a37c-7829a4b42a77">
+              <Vi>Ngành kim hoàn và đúc tiền sử dụng đơn vị troy để đo lường khối lượng kim loại quý.</Vi>
+              <En>The jewelry and minting industries use the troy system to measure the mass of precious metals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2a5ecc7c-a314-477d-a298-27ce49b6c564" type="Noun">
+          <Vi>đơn vị khối lượng troy (1 troy pound = 12 troy ounces ≈ 373.24 g)</Vi>
+          <En>a unit of weight equal to 20 pennyweights or 5,760 grains, used for precious metals and in pharmacy (historically)</En>
+          <Example>One troy pound is lighter than the avoirdupois pound (453.59 grams).</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="ca686570-6f40-411e-af5e-99db1f091b9c">
+              <Vi>Trong y học cổ, dược sĩ dùng hệ đo lường troy để cân nguyên liệu.</Vi>
+              <En>In historical pharmacy, practitioners used the troy system to weigh ingredients.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
