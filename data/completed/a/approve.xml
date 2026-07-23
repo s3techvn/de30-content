@@ -1,0 +1,40 @@
+<Vocab id="460b4bd9-0ba5-4b2a-a788-7cee5f6a5185" word="approve" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" value="Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c1b00f80-8ccb-4da7-9923-d8d1bd71ec49" ipa="/əˈpruːv/" vi_ipa="ơ-đờ-r-u-úp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8e684c0c-12af-4c0c-8af5-14a6e9a44bd2" type="Verb">
+          <Vi>phê duyệt; chấp thuận</Vi>
+          <En>to officially agree to or accept something, especially after formal review</En>
+          <Example>The principal approved the new school schedule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1978e04d-e9b2-4c86-8341-4ce6d31f3881">
+              <Vi>Quản lý phê duyệt kế hoạch dự án sau khi xem xét báo cáo.</Vi>
+              <En>A manager officially accepts a project plan after reviewing the report.</En>
+            </Situation>
+            <Situation id="f8952d07-240b-4315-a75e-2109d255815f">
+              <Vi>Ngân hàng phê duyệt khoản vay sau khi kiểm tra hồ sơ.</Vi>
+              <En>The bank approves a loan after reviewing the application documents.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
