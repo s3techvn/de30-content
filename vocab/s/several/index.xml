@@ -1,0 +1,32 @@
+<Vocab id="1b3843e2-b60f-4085-81cc-e7ae70758d23" word="several" type="short" status="done">
+  <Topics>
+    <Topic id="b02656c0-80ca-49b1-9fb3-aa5e3588796f" value="Quantifiers" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86a89b41-05e8-4652-b1b2-65e3885a2135" ipa="/ˈsɛv.ər.əl/" vi_ipa="xê-vơ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6506241a-3728-4159-b688-13c1af2619e8" type="Adjective">
+          <Vi>một vài; một số (ít hơn nhiều nhưng hơn hai)</Vi>
+          <En>more than two but not many; a small number</En>
+          <Example>Several people attended the meeting, but not enough for a quorum.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4cdb2dc7-e78f-4855-a62d-3a6a56672751">
+              <Vi>Mô tả số lượng không xác định nhưng rõ ràng là hơn hai và ít hơn so với "many".</Vi>
+              <En>Used to indicate an indefinite but small number, typically between 3 and 10.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
