@@ -1,0 +1,78 @@
+<Vocab id="d4689883-171a-4d58-acc9-8ae31635e2fb" word="import" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10292ee1-14de-4791-8416-484346cffea1" value="Trade" />
+    <Topic id="0020764d-94e5-43da-a39c-0289e2af9ef4" value="Economics" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="a8443f74-c010-461d-94a4-f3144cd984d1" value="International Trade Specialist" />
+    <Profession id="dab2219c-841e-435d-947c-bd8ffbb5526d" value="Supply Chain Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be2a6db5-c3b5-47df-8d26-f72c4e44f10e" ipa="/ˈɪm.pɔːrt/" vi_ipa="im-póc-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5aad70ef-a1e8-4813-a6cc-afa236e08568" type="Verb">
+          <Vi>Nhập khẩu (hàng hóa từ nước ngoài)</Vi>
+          <En>To bring goods or services into a country from abroad for sale or use.</En>
+          <Example>The company plans to import organic coffee beans from Colombia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ee00291-6627-417f-82fe-20e9eb11ad15">
+              <Vi>Doanh nghiệp mua hàng từ nước ngoài để bán trong nước.</Vi>
+              <En>A business purchases products from overseas to sell domestically.</En>
+            </Situation>
+            <Situation id="3f75812d-b764-4804-b5b3-7a06fb031ef4">
+              <Vi>Chính phủ áp thuế nhập khẩu để bảo vệ ngành sản xuất trong nước.</Vi>
+              <En>The government imposes import tariffs to protect domestic industries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="65e9f29c-8ba8-4177-9872-74ad46fa1a3b" type="Noun">
+          <Vi>Hàng nhập khẩu</Vi>
+          <En>Goods or services brought into a country from abroad.</En>
+          <Example>Many electronics sold locally are imports from Asia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6699751f-c028-474d-8880-d6d2b0ea4e89">
+              <Vi>Cửa hàng chuyên bán hàng nhập khẩu cao cấp.</Vi>
+              <En>The store specializes in premium imported goods.</En>
+            </Situation>
+            <Situation id="e3e1d11d-3aba-403d-b66b-915024e18d78">
+              <Vi>Chính sách hạn ngạch nhập khẩu ảnh hưởng đến giá cả thị trường.</Vi>
+              <En>Import quotas affect market prices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="714cfce5-f510-474e-a9a0-a6cf1c3796d6" ipa="/ɪmˈpɔːrt/" vi_ipa="im-póc-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0563902c-8de9-4e33-a347-b0122788be21" type="Verb">
+          <Vi>Có ý nghĩa quan trọng; được nhấn mạnh</Vi>
+          <En>To be of great significance or value; to matter.</En>
+          <Example>It’s important to listen—what she says does import.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="f2a95284-8185-4285-9e0e-2bcac0b3d28f">
+              <Vi>Ngôn ngữ trang trọng hoặc văn chương cổ, ít dùng trong giao tiếp hiện đại.</Vi>
+              <En>Used in formal or literary contexts, now considered archaic in everyday speech.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,51 @@
+<Vocab id="afce9c87-67fc-499d-9b08-8b7da76d1c42" word="young" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b5352a81-540f-4cf3-8e63-dce02ae322c6" value="People &amp; Identity" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="34da5267-599a-4586-b093-24a4fec40b97" value="Youth Counselor" />
+    <Profession id="5a3c5868-21ad-49f0-9262-4b1178a8ef15" value="Pediatrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fd206e7e-ec66-441a-9c77-313eeebcf4d5" ipa="/jʌŋ/" vi_ipa="giăng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f6c811c-5a64-4e73-ac69-5cefac1aaddd" type="Adjective">
+          <Vi>trẻ, còn nhỏ, chưa trưởng thành</Vi>
+          <En>having lived for a short time; not old or mature.</En>
+          <Example>She started her career at a young age.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2efcc6e5-a98b-46ac-8335-ddd96c60caf7">
+              <Vi>Mô tả người hoặc sinh vật ở giai đoạn đầu đời, thường trước tuổi dậy thì hoặc mới lớn.</Vi>
+              <En>Describing a person or organism in the early stage of life, typically before puberty or adolescence.</En>
+            </Situation>
+            <Situation id="4f8104e1-058f-40fd-9568-5d7095f4872e">
+              <Vi>Dùng để chỉ người trẻ tuổi, thường dưới 30–40 tuổi, trong bối cảnh so sánh với người lớn tuổi hơn.</Vi>
+              <En>Used to describe someone relatively young, often under 30–40, especially in comparison to older individuals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="11891931-47a1-4451-8d03-b1b144c8082b" type="Noun">
+          <Vi>người trẻ, giới trẻ</Vi>
+          <En>young people collectively; youth.</En>
+          <Example>The community center offers programs for the young and the old.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2098ae6-59e3-4a77-b174-71fe7a3b17df">
+              <Vi>Dùng trong cụm từ “the young” để chỉ nhóm người trẻ tuổi như một tập thể.</Vi>
+              <En>Used in the phrase “the young” to refer to young people as a group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
