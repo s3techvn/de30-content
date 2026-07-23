@@ -1305,3 +1305,4 @@ interval
 cooler
 hamilton
 bool
+insulation

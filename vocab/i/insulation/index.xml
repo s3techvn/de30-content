@@ -1,0 +1,40 @@
+<Vocab id="005621f6-6a80-4be3-bac0-aab51f1d43eb" word="insulation" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="9046e0c4-276e-47d5-a3d5-b53f6b982878" value="Energy Efficiency" />
+    <Topic id="4c122ed5-401b-4af0-91ef-b1d199a02a8d" value="Home Improvement" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="76e3e1f7-1388-45f9-b2a2-ceb7029fe9b5" value="HVAC Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a4117d6-5464-40c4-8d37-d9bb7de84e77" ipa="/ˌɪn.səlˈeɪ.ʃən/" vi_ipa="in-sờ-lây-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="638b90d7-02a2-4a54-bc2f-48b36c34128b" type="Noun">
+          <Vi>Vật liệu cách nhiệt / vật liệu cách điện</Vi>
+          <En>Material used to prevent the transfer of heat, electricity, or sound between objects or environments.</En>
+          <Example>The house was insulated with fiberglass to reduce heating costs in winter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b0bff41-c222-49f6-8e8d-a0396d497e17">
+              <Vi>Thợ xây dựng lắp đặt bông thủy tinh vào tường để giữ ấm.</Vi>
+              <En>Construction workers install fiberglass insulation into walls to retain heat.</En>
+            </Situation>
+            <Situation id="f1361379-8131-483c-b5d1-6cb823c94e56">
+              <Vi>Cáp điện được bọc cách điện để tránh rò rỉ điện.</Vi>
+              <En>Electrical wires are covered with insulation to prevent electric leakage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
