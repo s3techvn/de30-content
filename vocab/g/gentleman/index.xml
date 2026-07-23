@@ -1,0 +1,38 @@
+<Vocab id="027707cf-1332-4d9a-b575-fceb6828d0f3" word="gentleman" type="short" status="done">
+  <Topics>
+    <Topic id="557740fa-eaca-4bd5-9d55-9c82ade2ab21" value="Social &amp; Etiquette" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="67dfc775-f84f-4b1b-9a33-0c9d960433cb" ipa="/ˈdʒen.təl.mən/" vi_ipa="gi-en-tờ-lơ-man">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="405903e0-23ac-42af-9cf5-36dc6a57bc62" type="Noun">
+          <Vi>người đàn ông lịch sự, tao nhã; quý ông</Vi>
+          <En>A man who is polite, respectful, and behaves with honor and integrity.</En>
+          <Example>He always held the door open for others, a true gentleman in every sense.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17d806e6-a47c-4fb9-a4f0-1f2e5894a7eb">
+              <Vi>Một người đàn ông cư xử lịch thiệp, tôn trọng người khác, đặc biệt là trong giao tiếp xã hội.</Vi>
+              <En>A man demonstrating courtesy, fairness, and chivalrous behavior in social interactions.</En>
+            </Situation>
+            <Situation id="6f3063d1-b7af-42e7-8821-27cd20c16fbf">
+              <Vi>Người đàn ông có học vấn cao hoặc thuộc tầng lớp thượng lưu (trong ngữ cảnh lịch sử).</Vi>
+              <En>A man of high social status or education, especially in historical contexts (e.g., “gentleman farmer”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
