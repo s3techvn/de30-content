@@ -1,0 +1,40 @@
+<Vocab id="d2c44f4e-f414-4ada-b97d-8aad580e3352" word="officially" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" value="Government Official" />
+    <Profession id="e9d171e9-6fed-4157-a628-ca905280cf6f" value="Corporate Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c205351-0d3c-474b-a9ba-f89c98743449" ipa="/ˈɔː.ʃən.əl.i/" vi_ipa="ao-sờ-nờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b03883d3-9fb8-49e2-991a-dcfce7ad9bca" type="Adverb">
+          <Vi>một cách chính thức</Vi>
+          <En>In a formal or authorized manner; by virtue of official authority.</En>
+          <Example>The company officially announced the merger last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1969d878-2d1a-4db2-a0cf-5cdb623ddd58">
+              <Vi>Trong bối cảnh công bố quyết định, thông báo, hoặc hành động có tính chất pháp lý hoặc có thẩm quyền.</Vi>
+              <En>When making formal declarations, announcements, or actions carried out with legal or authoritative backing.</En>
+            </Situation>
+            <Situation id="25cbbf15-37a0-461b-9a41-bb1a2547b3c1">
+              <Vi>Khi phân biệt giữa hành động mang tính chính thức và hành động mang tính cá nhân hoặc không chính thức.</Vi>
+              <En>When distinguishing between formal, authorized actions and informal or personal ones.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

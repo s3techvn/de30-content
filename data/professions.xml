@@ -583,4 +583,6 @@
   <Profession id="4e6b9a91-5492-4733-accf-3aa0c8225571" slug="art-historian" value="Art Historian" />
   <Profession id="cd43842b-2ecc-4e6c-b9f1-0e9da2204105" slug="sex-educator" value="Sex Educator" />
   <Profession id="2e62d299-7618-4cd0-9d59-e94222d1f812" slug="medical-doctor" value="Medical Doctor" />
+  <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" slug="government-official" value="Government Official" />
+  <Profession id="e9d171e9-6fed-4157-a628-ca905280cf6f" slug="corporate-manager" value="Corporate Manager" />
 </Professions>
