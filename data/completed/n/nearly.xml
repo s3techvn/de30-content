@@ -1,0 +1,32 @@
+<Vocab id="61209b93-0d31-406b-b05a-a16545e43afc" word="nearly" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="3bfaa3a4-f064-4cd2-ab3d-2c139ff0dcc7" value="Education" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3faa7e4e-1a36-4123-94a8-2e59737fc395" ipa="/ˈnɪr.li/" vi_ipa="nờ-ri-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="65d481a6-2df6-44cb-8f1e-11f8e8a1b7c4" type="Adverb">
+          <Vi>gần như, gần như là</Vi>
+          <En>almost; very close to (a particular number, amount, or condition)</En>
+          <Example>She finished the race in nearly two hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97834643-7ba0-49fa-a157-91e3214a1db7">
+              <Vi>Mô tả mức độ gần đạt đến một ngưỡng hoặc giá trị cụ thể.</Vi>
+              <En>Used to indicate something is very close to being true or complete, but not quite.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
