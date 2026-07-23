@@ -1,0 +1,39 @@
+<Vocab id="338f13df-9e4d-4db2-b334-53d8cad5413a" word="decided" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="026fc1fd-4c0a-4e3b-a026-e135dfb80540" value="Policy Maker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21b239bf-9239-4b5c-8939-6182c060a9af" ipa="/dɪˈsaɪ.dɪd/" vi_ipa="đi-xây-đít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4f7bef56-94cf-4736-b822-9c57f9e4c102" type="Adjective">
+          <Vi>quyết đoán; dứt khoát; rõ ràng, không mơ hồ</Vi>
+          <En>showing a firmness of purpose or opinion; clear and unambiguous</En>
+          <Example>She gave a decided nod, leaving no room for doubt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61bea7ae-6ecf-4175-b271-396f6cfdbf7a">
+              <Vi>Mô tả một người hành động hoặc phản ứng với sự tự tin và không do dự.</Vi>
+              <En>Describes a person acting or responding with confidence and without hesitation.</En>
+            </Situation>
+            <Situation id="c48fe5f2-dfec-4e87-9806-bf319eb7141e">
+              <Vi>Dùng để nhấn mạnh sự khác biệt rõ rệt giữa hai lựa chọn hoặc kết quả.</Vi>
+              <En>Used to emphasize a clear distinction between two options or outcomes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
