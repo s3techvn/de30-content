@@ -1,0 +1,40 @@
+<Vocab id="6400eb1f-8be1-4266-a986-d3b155fb3dae" word="maximize" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="46343508-44ca-420e-9877-fcaaef1d691c" ipa="/ˈmæks.ɪ.maɪz/" vi_ipa="mác-xi-mây-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="79e1ac1e-2593-4ef2-b12a-b664c2c043dd" type="Verb">
+          <Vi>Tối đa hóa</Vi>
+          <En>To make something as large or great as possible.</En>
+          <Example>We need to maximize our profits before the fiscal year ends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c20f2620-7a25-40f7-851b-85d18e491085">
+              <Vi>Trong kinh doanh, tìm cách tăng lợi nhuận hoặc hiệu suất lên mức cao nhất.</Vi>
+              <En>In business, finding ways to increase profit or efficiency to the highest possible level.</En>
+            </Situation>
+            <Situation id="65584333-c594-4e74-b746-386fe7d48cac">
+              <Vi>Khi lập trình, tối ưu hóa thuật toán để sử dụng ít tài nguyên nhất nhưng cho kết quả tốt nhất.</Vi>
+              <En>In programming, optimizing an algorithm to use the least resources while delivering the best results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,112 @@
+<Vocab id="518a1fda-3bbf-4002-9582-95178f30258e" word="round" type="short" status="done">
+  <Topics>
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="54d57cbf-aee5-4c59-98db-9984f21a7456" ipa="/raʊnd/" vi_ipa="ra-oun-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a7ffe5cf-7fab-48fd-be51-395406e50fe4" type="Adjective">
+          <Vi>tròn</Vi>
+          <En>having a circular or spherical shape; shaped like a circle or sphere.</En>
+          <Example>The pizza was perfectly round and golden brown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c72bcc0-0501-45c9-bff8-e72ca8e3b1de">
+              <Vi>Mô tả hình dạng không có góc nhọn hay cạnh thẳng.</Vi>
+              <En>Describing a shape without sharp corners or straight edges.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="48bc8dd3-f694-4a08-93a5-b532fd40e5ff" type="Noun">
+          <Vi>vòng, vòng tròn; vòng đấu (trong thi đấu)</Vi>
+          <En>a circular or curved line or object; one of a series of contests or competitions in a tournament.</En>
+          <Example>She advanced to the next round of the chess tournament.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26afef12-55ad-492e-abfb-f106ee5bfe50">
+              <Vi>Dùng trong thể thao hoặc thi đấu để chỉ một giai đoạn.</Vi>
+              <En>Used in sports or competitions to denote a stage or phase.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f163595d-29fc-48fb-9da9-4d8367e499eb" type="Adverb">
+          <Vi>quanh, vòng quanh</Vi>
+          <En>in a circle or around a place or thing.</En>
+          <Example>The children ran round the garden.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af138fb6-7877-4057-b8fd-ebf8730299ea">
+              <Vi>Mô tả chuyển động theo quỹ đạo khép kín.</Vi>
+              <En>Describing movement along a circular path.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="847b49b1-3839-477f-b44e-e7bb6655d419" type="Verb">
+          <Vi>đi vòng quanh; làm tròn (số)</Vi>
+          <En>to move in a circle around something; to approximate a number to the nearest specified unit.</En>
+          <Example>The car rounded the corner quickly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5bd66928-ad8c-4b17-821e-e9f90257106a">
+              <Vi>Mô tả hành động đi vòng qua một điểm hoặc góc.</Vi>
+              <En>Describing movement past a corner or obstacle while changing direction.</En>
+            </Situation>
+            <Situation id="1f26288b-3e13-4e44-9d73-24e1ba0049b3">
+              <Vi>Dùng khi làm tròn số trong tính toán.</Vi>
+              <En>Used when rounding numbers in calculations (e.g., round 3.7 to 4).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6c1ef540-8c9f-429d-a469-84c613c26bea" ipa="/rʌnd/" vi_ipa="ră-oun-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f156244-b642-4272-b5f7-84b9204bb01e" type="Adjective">
+          <Vi>đầy đặn, tròn trịa (dùng mô tả cơ thể)</Vi>
+          <En>plump or well-rounded, especially in reference to a person’s body.</En>
+          <Example>She has a round face and warm smile.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="114c0b71-4780-4975-8ad0-07d754b3c54e">
+              <Vi>Mô tả khuôn mặt hoặc cơ thể có đường nét mềm mại, không gầy gò.</Vi>
+              <En>Describing a face or body with soft, full contours rather than angular or thin.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="708b1e7a-55a5-4480-ae72-648bcd008e97" type="Adjective">
+          <Vi>tròn trịa, hoàn chỉnh (dùng cho ý kiến, kế hoạch)</Vi>
+          <En>complete, well-thought-out, or comprehensive (of ideas, plans, etc.).</En>
+          <Example>He gave a round explanation of the project’s goals.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96912385-4748-4322-bd97-509061a99905">
+              <Vi>Dùng khi đánh giá một ý kiến, kế hoạch là đầy đủ và chi tiết.</Vi>
+              <En>Used when describing an idea or plan as thorough and well-developed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
