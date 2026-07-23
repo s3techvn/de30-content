@@ -1,0 +1,56 @@
+<Vocab id="2e3d0c9b-61eb-46da-9bed-d4e1d18d2fea" word="link" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="899c236c-45d0-4e42-b26a-8fb871dc0c9e" value="Internet" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9b90b9bb-31c5-4f73-a0de-bd97e2e4618c" ipa="/lɪŋk/" vi_ipa="lín-k">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fefe0649-f96f-4a34-9d42-8d055fcd06f7" type="Noun">
+          <Vi>liên kết; liên hệ; mắt xích</Vi>
+          <En>A connection or relationship between two or more things.</En>
+          <Example>The two events are not directly linked, but there may be an indirect link.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ea948f4-421f-4415-8f1e-427100000f3a">
+              <Vi>Mô tả mối quan hệ giữa hai yếu tố, sự kiện hoặc đối tượng.</Vi>
+              <En>Describing a relationship between two factors, events, or objects.</En>
+            </Situation>
+            <Situation id="f4351d61-3e31-431d-bce8-a52e03f33fb8">
+              <Vi>Trong công nghệ: một kết nối trong mạng hoặc giữa các thiết bị.</Vi>
+              <En>In technology: a connection within a network or between devices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1bd27211-7952-4336-88e0-1cdcdb3a069f" type="Verb">
+          <Vi>liên kết; nối; gắn kết</Vi>
+          <En>To establish a connection or relationship between things.</En>
+          <Example>The new software will link your calendar to your email account.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66ea82e7-bbe7-449f-b9c3-7214da516e7e">
+              <Vi>Chỉ hành động kết nối hai hệ thống, ứng dụng hoặc dữ liệu.</Vi>
+              <En>Refers to connecting two systems, applications, or data sources.</En>
+            </Situation>
+            <Situation id="368a61a2-7fea-4f9c-b40f-ee7ad2c0a119">
+              <Vi>Trong ngữ cảnh xã hội: gán ghép trách nhiệm hoặc vai trò cho một người.</Vi>
+              <En>In a social context: assigning responsibility or role to a person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

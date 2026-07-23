@@ -1,0 +1,45 @@
+<Vocab id="44e43b94-df18-457a-8355-d89690e41c1e" word="charlie" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="dcb5eac5-3607-4c3a-b27b-0373898cbf3f" value="Aviation Staff" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f5a569e7-bf3f-4e43-a270-04944db97294" ipa="/ˈtʃɑːr.li/" vi_ipa="chác-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="25d85cd9-1d2c-4c34-bec8-4b6afeb86037" type="Noun">
+          <Vi>Tên gọi mã hóa trong bảng chữ cái phonetic NATO cho chữ cái "C"</Vi>
+          <En>The NATO phonetic alphabet code word for the letter "C"</En>
+          <Example>When spelling "CAT" over the radio, the pilot says "Charlie Alpha Tango."</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de990f29-d8a0-40ef-b56f-6f666d50b647">
+              <Vi>Sử dụng trong giao tiếp vô tuyến, hàng không, hoặc quân sự để tránh nhầm lẫn khi phát âm các chữ cái.</Vi>
+              <En>Used in radio, aviation, or military communications to avoid confusion when spelling letters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5b48f666-d2a6-4ee5-8e87-6600d8c81af3" type="Noun">
+          <Vi>Tên riêng (thường là tên nam), phiên bản thuần Anh của Charles</Vi>
+          <En>A male given name, the English variant of Charles</En>
+          <Example>Charlie Brown is the main character in the Peanuts comic strip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4daea021-0e9f-474b-bd91-4b8eb813ba96">
+              <Vi>Dùng như tên gọi thân mật hoặc rút gọn của Charles trong tiếng Anh.</Vi>
+              <En>Used as a familiar or shortened form of the name Charles in English-speaking contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
