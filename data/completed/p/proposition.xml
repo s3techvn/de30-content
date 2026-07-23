@@ -1,0 +1,72 @@
+<Vocab id="eb96073e-3519-42d7-abc9-2c8d5194dfa5" word="proposition" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="905deb69-7027-45f0-92b2-880542090f70" value="Logic" />
+    <Topic id="414196d1-def1-438d-b154-58c8a3d71aca" value="Daily Conversation" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9b636da3-1460-478d-90e8-577420662974" ipa="/ˌprɑː.pəˈzɪʃ.ən/" vi_ipa="pờ-rờ-pờ-zih-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff56af0a-572b-4b99-8cfd-06e50af264b8" type="Noun">
+          <Vi>Đề xuất; mệnh đề (trong logic); đề nghị, lời chào (trong tình cảm)</Vi>
+          <En>A suggestion or proposal made for consideration or acceptance; a statement that can be true or false in logic; a romantic or marriage proposal.</En>
+          <Example>The company made a formal proposition to merge with its competitor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c2b5f932-8f3c-480e-83cf-780613e2c96c">
+              <Vi>Trong kinh doanh, một công ty đưa ra đề nghị hợp tác hoặc mua bán.</Vi>
+              <En>In business, a company puts forward a formal offer for collaboration or acquisition.</En>
+            </Situation>
+            <Situation id="eee3ad1c-210f-498b-be0a-d6c10af01f34">
+              <Vi>Trong logic học, một mệnh đề là câu khẳng định có thể đúng hoặc sai.</Vi>
+              <En>In logic, a proposition is a declarative sentence that is either true or false.</En>
+            </Situation>
+            <Situation id="e795727d-0104-4172-b199-12e87ac316b9">
+              <Vi>Trong tình cảm, một người đưa ra lời cầu hôn.</Vi>
+              <En>In romantic context, a person makes a marriage proposal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5e38c2d2-03fe-4482-a409-27b02eb2f62e" ipa="/ˌprɑː.pəˈzɪt/" vi_ipa="pờ-rờ-pờ-zít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1f330f41-b6eb-4a01-9e6e-89b30d7fb76a" type="Verb">
+          <Vi>Đề xuất; đặt ra (một ý tưởng, kế hoạch); đưa ra (mệnh đề)</Vi>
+          <En>To put forward a suggestion, plan, or idea for consideration; to state or assert a proposition.</En>
+          <Example>The researcher proposed a new hypothesis to explain the phenomenon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab06c5ea-43c4-4b26-86bf-7d0be7fe2c3b">
+              <Vi>Trong họp nhóm, một thành viên đưa ra ý tưởng mới.</Vi>
+              <En>In a team meeting, a member puts forward a new idea for discussion.</En>
+            </Situation>
+            <Situation id="d886eae4-eaa8-44fd-8f63-8f4d3418fa82">
+              <Vi>Trong tranh luận, một người đưa ra một mệnh đề để tranh luận.</Vi>
+              <En>In a debate, a participant states a proposition to be argued.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
