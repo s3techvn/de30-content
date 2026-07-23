@@ -1,0 +1,57 @@
+<Vocab id="5bebe461-8776-4f9a-a248-b4c8f573ed14" word="shield" type="short" status="done">
+  <Topics>
+    <Topic id="460c0182-fe67-4d41-b787-5d1c52de31d4" value="Military &amp; Defense" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="fb4ff08d-fc9e-4bbe-822a-0d34849d53d8" value="Everyday Protection" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="3b39f0ec-b2dd-4575-8aaf-9c21d04d27f5" value="Football Player" />
+    <Profession id="ecf69b14-0d8f-4211-bb8a-29450207841e" value="Blacksmith" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7f1adcd6-c273-44e3-acfa-cd62d3205901" ipa="/ʃiːld/" vi_ipa="xi-ldơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="397377b7-3b87-4673-b87e-ad41ce5afc9e" type="Noun">
+          <Vi>lá chắn; tấm bảo vệ</Vi>
+          <En>A flat or curved piece of armor or protective material, used to block attacks or physical harm.</En>
+          <Example>The knight raised his shield to block the enemy’s sword.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0808532d-e5e7-49be-b355-4c8d6ef6cc91">
+              <Vi>Chiến binh cầm lá chắn để phòng thủ trong trận chiến.</Vi>
+              <En>A soldier holds a shield to defend against incoming attacks in battle.</En>
+            </Situation>
+            <Situation id="a857068f-ed90-41b7-9ca0-94f2507cb889">
+              <Vi>Học sinh dùng bảng chắn để bảo vệ mình trong buổi tập bắn súng.</Vi>
+              <En>The student uses a protective shield during a firearms training session.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c23a09cd-235f-4fe5-a52e-f0c7b2db0285" type="Verb">
+          <Vi>che chở; bảo vệ</Vi>
+          <En>To protect someone or something from harm, danger, or unpleasant exposure.</En>
+          <Example>The government shielded the witness from public exposure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e746ef9e-2502-4d1e-9189-73c35d94e008">
+              <Vi>Bố mẹ che chở con khỏi những tin xấu.</Vi>
+              <En>Parents shield their children from bad news.</En>
+            </Situation>
+            <Situation id="60695f8b-7972-417b-a303-b1b839b0b3ff">
+              <Vi>Chính sách bảo vệ môi trường giúp che chở các loài động vật hoang dã.</Vi>
+              <En>Environmental protection policies help shield wildlife from extinction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

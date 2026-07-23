@@ -1,0 +1,57 @@
+<Vocab id="9b9640bd-d912-435c-b10e-e0c9ac38c241" word="mentor" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b3c9b229-8c1f-4afb-a2bb-925e03223188" value="Career Development" />
+    <Topic id="4d315299-7940-49e1-8216-77ae513db957" value="Leadership" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" value="Executive" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="048a7049-1c4c-44af-8d11-a2bd5b1641bc" ipa="/ˈmen.tɔːr/" vi_ipa="mên-tô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0b5c3f0-26b4-44c4-bd57-9e0e0bc8b088" type="Noun">
+          <Vi>Người cố vấn; người hướng dẫn có kinh nghiệm</Vi>
+          <En>A trusted advisor, guide, or teacher who provides wisdom, support, and advice, especially to a less experienced person.</En>
+          <Example>She credits her success to her mentor, who helped her navigate the early challenges of her career.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34f613f4-02e5-4ac8-89f3-a97f0b79287b">
+              <Vi>Một giáo sư hoặc sếp hướng dẫn sinh viên hoặc nhân viên mới.</Vi>
+              <En>A professor or manager guiding a student or new employee.</En>
+            </Situation>
+            <Situation id="dd846a19-6843-4453-b471-ab20f566cd35">
+              <Vi>Học sinh tham gia chương trình cố vấn với một chuyên gia trong ngành.</Vi>
+              <En>A student participates in a mentoring program with a professional in the field.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4a16c860-5d99-4813-a54e-e51e93c30fae" type="Verb">
+          <Vi>Đóng vai trò là cố vấn; hướng dẫn, chỉ bảo</Vi>
+          <En>To act as a mentor to someone; to provide guidance, support, and advice, especially in a professional or personal context.</En>
+          <Example>He mentors junior colleagues to help them develop their leadership skills.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="626828c9-31c4-4c07-a5f3-6c4ff2fe3c70">
+              <Vi>Giám đốc công ty tự tay đào tạo nhân viên mới.</Vi>
+              <En>The company director personally trains new employees.</En>
+            </Situation>
+            <Situation id="2baeb843-54e6-4e50-a71f-d81092094ea6">
+              <Vi>Cựu sinh viên quay lại trường để cố vấn sinh viên hiện tại.</Vi>
+              <En>Alumni return to the school to mentor current students.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
