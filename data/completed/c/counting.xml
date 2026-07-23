@@ -1,0 +1,46 @@
+<Vocab id="efc89b7f-4984-4b7a-8cc5-96c926723289" word="counting" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="47d022f4-7dfa-49fa-846b-28cddd815c47" ipa="/ˈkaʊn.tɪŋ/" vi_ipa="kàu-n-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c119a602-3ff4-4d8f-94c1-3c02e50f270e" type="Noun">
+          <Vi>việc đếm, sự đếm</Vi>
+          <En>The action or process of determining the total number of items in a set.</En>
+          <Example>Counting the students in the classroom takes just a few minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9cf1a7bd-3834-41ab-b486-b97c49870a93">
+              <Vi>Giáo viên đang đếm số học sinh trong lớp để kiểm tra sĩ số.</Vi>
+              <En>The teacher is counting the students in the class for attendance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3acad62c-a324-4bc5-9896-773dea987846" type="Verb">
+          <Vi>đếm (hành động)</Vi>
+          <En>To determine the number or amount of something by listing or calculating them.</En>
+          <Example>She started counting the coins in her piggy bank.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="133a294b-4688-4abc-935d-9c3ca0dfa737">
+              <Vi>Trẻ em học cách đếm các ngón tay từ 1 đến 10.</Vi>
+              <En>A child is learning to count fingers from 1 to 10.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
