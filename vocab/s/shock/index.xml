@@ -1,0 +1,72 @@
+<Vocab id="e76ddd7d-4e1c-41f4-b87e-c288511fb71c" word="shock" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="f1c5c10b-6c62-4d44-a720-ded3e2133040" value="Electrical Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="111aa26c-195f-4bea-a877-629523e63b30" ipa="/ʃɑːk/" vi_ipa="sốc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3cde5d44-d94c-4444-aa74-f3df651c23e9" type="Noun">
+          <Vi>Sốc (tình trạng nguy kịch do suy giảm tuần hoàn máu đột ngột)</Vi>
+          <En>A medical condition in which the body is not receiving adequate blood flow, leading to organ failure and potentially death.</En>
+          <Example>Paramedics treated the victim for shock after the car accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="92970a22-1eed-4fba-9713-09da5e0db91a">
+              <Vi>Tình trạng cơ thể suy kiệt do mất máu, chấn thương nặng, hoặc phản ứng dị ứng nghiêm trọng.</Vi>
+              <En>A life-threatening condition caused by severe blood loss, trauma, or anaphylaxis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="341e9fe6-216d-42ce-9a05-358bfe1e97a7" type="Noun">
+          <Vi>Sốc (phản ứng tâm lý bất ngờ, kinh ngạc mạnh)</Vi>
+          <En>A sudden and overwhelming feeling of surprise, disbelief, or distress.</En>
+          <Example>She was in shock when she heard the news of her friend’s sudden death.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac790edc-c96f-4593-b6a4-5c86b8fd23b7">
+              <Vi>Phản ứng ban đầu khi nghe tin dữ hoặc trải nghiệm sự kiện bất ngờ, khó tin.</Vi>
+              <En>The initial mental state after hearing devastating or unexpected news.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="009b7d66-b213-4b45-a945-fb19f2e72336" type="Noun">
+          <Vi>Sốc (điện giật mạnh)</Vi>
+          <En>A sudden, powerful electric current passing through the body.</En>
+          <Example>He received an electric shock while repairing the faulty wiring.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c462bcc0-02c5-4b86-b52c-ec5f560ab702">
+              <Vi>Bị điện giật do tiếp xúc với dây điện hở hoặc thiết bị hỏng.</Vi>
+              <En>Receiving an electric current due to contact with exposed or damaged electrical components.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="14f5b3de-ed07-41f8-b5b5-8f02b617ac5c" type="Verb">
+          <Vi>Làm sốc (gây kinh ngạc, hoảng loạn)</Vi>
+          <En>To cause someone to feel sudden shock, surprise, or distress.</En>
+          <Example>The sudden announcement shocked everyone in the room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0942a021-725b-4665-8b53-bd8e1d650939">
+              <Vi>Làm người khác bàng hoàng, không tin vào tai mình khi nghe điều bất ngờ.</Vi>
+              <En>To make someone feel stunned or disbelief upon hearing unexpected news.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
