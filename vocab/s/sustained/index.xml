@@ -1,0 +1,36 @@
+<Vocab id="dc3c6c67-8a86-483f-9d8b-198727c2f799" word="sustained" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2073ac2d-ccdf-4a65-aee0-0641fb9ff4eb" ipa="/səˈsteɪ.ndɪd/" vi_ipa="sờ-stей-nhíd">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7c46c39c-24c3-4c4c-857d-20367ba09531" type="Adjective">
+          <Vi>Bền, kéo dài, liên tục</Vi>
+          <En>Continued for a long time or without interruption; prolonged.</En>
+          <Example>The company enjoyed sustained growth over the past five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="953a3156-47dc-4a49-ab2c-b89fe0e5d680">
+              <Vi>Mô tả một quá trình, trạng thái, hoặc hiệu ứng kéo dài lâu dài và ổn định.</Vi>
+              <En>Used to describe a process, state, or effect that lasts for a long duration without interruption.</En>
+            </Situation>
+            <Situation id="d063a0a9-8d31-4954-9874-07305167da0b">
+              <Vi>Thường dùng để nói về tăng trưởng kinh tế, nỗ lực, hoặc áp lực không giảm.</Vi>
+              <En>Commonly used to describe economic growth, effort, or pressure that remains constant over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

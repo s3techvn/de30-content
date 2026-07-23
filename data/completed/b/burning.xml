@@ -1,0 +1,52 @@
+<Vocab id="bb5891a3-be7f-47ea-9a16-5214bea41c12" word="burning" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" value="Firefighter" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a7936fcc-4f80-4674-95cd-334f4ea6737a" ipa="/ˈbɜːr.nɪŋ/" vi_ipa="bơ-nin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2bfedad-3df1-4ca2-9e26-11d8564b176f" type="Adjective">
+          <Vi>đang cháy; đang cháy bỏng; rực cháy</Vi>
+          <En>in the process of burning; producing fire and heat; causing a sensation of heat or pain</En>
+          <Example>The burning log crackled in the fireplace.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="131f721c-9c8f-4559-8583-1833f9082abd">
+              <Vi>Mô tả ngọn lửa đang cháy mạnh, ví dụ khi nấu ăn hoặc trong đám cháy.</Vi>
+              <En>Describing active combustion, such as a fire in a stove or a wildfire.</En>
+            </Situation>
+            <Situation id="627427c0-9650-42e7-a4f5-bdd3f4c65bb0">
+              <Vi>Mô tả cảm giác bỏng rát trên da do nhiệt, hóa chất, hoặc ánh nắng.</Vi>
+              <En>Describing a painful, hot sensation on the skin due to sunburn, chemicals, or heat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5407fe6d-212e-42ca-8937-f4372f8a8142" type="Adjective">
+          <Vi>đang nóng bỏng; khát khao mãnh liệt (nghĩa bóng)</Vi>
+          <En>intensely hot or passionate; filled with strong emotion or desire</En>
+          <Example>She gave a burning speech about climate justice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="993d68d3-9162-4b8f-8f47-9ad2b62d2250">
+              <Vi>Mô tả cảm xúc mãnh liệt như yêu, căm thù, hoặc khát vọng (nghĩa ẩn dụ).</Vi>
+              <En>Used metaphorically to describe intense emotions such as love, anger, or ambition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
