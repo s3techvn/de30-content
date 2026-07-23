@@ -1,0 +1,40 @@
+<Vocab id="32ba744e-b763-451f-81a4-1f90100550c2" word="metropolitan" type="short" status="done">
+  <Topics>
+    <Topic id="3dc7aad4-4f7c-4f3c-beb9-ac7fd44f3dee" value="Urban Planning" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" value="Civil Servant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="19ef01aa-03de-40d2-8cc3-eb77b05cbaaf" ipa="/ˌmet.rəˈpɒl.ɪ.tən/" vi_ipa="mét-rô-pô-lít-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="138706f8-c987-463b-9463-7508749078a1" type="Adjective">
+          <Vi>thuộc thành phố lớn; đô thị; thuộc vùng đô thị</Vi>
+          <En>relating to a large city or its surrounding area; urban</En>
+          <Example>The metropolitan area includes several suburbs and satellite towns.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed529cd1-a0fb-45e8-af33-9402e9f217af">
+              <Vi>Mô tả các khu vực xung quanh một thành phố lớn như một thực thể thống nhất.</Vi>
+              <En>Describing the integrated region around a major city, including its suburbs and commuter zones.</En>
+            </Situation>
+            <Situation id="4890be42-8d21-471c-a3b7-d7b179a73a49">
+              <Vi>Chỉ đặc điểm văn hóa, kinh tế, hoặc hạ tầng của thành phố lớn.</Vi>
+              <En>Referring to cultural, economic, or infrastructural characteristics typical of large cities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
