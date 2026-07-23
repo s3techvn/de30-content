@@ -1,0 +1,47 @@
+<Vocab id="0d97dae6-f291-47cf-9d2a-7a7cb65fb205" word="wonder" type="short" status="done">
+  <Topics>
+    <Topic id="1641149e-fa7a-42ea-84cd-442b1e119467" value="Emotions &amp; Reactions" />
+    <Topic id="9976f811-bca8-4007-9dfc-cc9c4afc4b34" value="Curiosity &amp; Learning" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b716d28e-55c4-478f-bb49-3d3c0cb56a6a" ipa="/ˈwʌn.dər/" vi_ipa="xao-n-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f3c89aaf-707a-4e92-a036-4852f68c4364" type="Noun">
+          <Vi>Điều kỳ lạ; điều làm kinh ngạc; sự ngưỡng mộ, thán phục</Vi>
+          <En>A remarkable person, thing, or event; something that causes awe or admiration</En>
+          <Example>The pyramids of Egypt are considered one of the Seven Wonders of the Ancient World.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c169779-2f75-4266-b4a5-cb8c1a326112">
+              <Vi>Mô tả một công trình, hiện tượng, hoặc con người gây kinh ngạc và ngưỡng mộ.</Vi>
+              <En>Describing a remarkable structure, phenomenon, or person that inspires awe or admiration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ff95b592-c62c-4bf0-a408-658ca03d2032" type="Verb">
+          <Vi>Ngạc nhiên, thắc mắc, tò mò</Vi>
+          <En>To feel curiosity or doubt about something; to be puzzled or intrigued</En>
+          <Example>I wonder why she didn’t reply to my message.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b72678f1-892c-4951-8812-bbbbc9bc2f6a">
+              <Vi>Biểu đạt sự tò mò hoặc nghi ngờ về một điều chưa rõ hoặc chưa biết.</Vi>
+              <En>Expressing curiosity, doubt, or uncertainty about something unknown or unclear.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
