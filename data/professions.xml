@@ -628,4 +628,6 @@
   <Profession id="433d4130-32b2-422e-a134-0a75c1643e55" slug="editor-(publishing)" value="Editor (Publishing)" />
   <Profession id="eedd69e1-7978-43f4-98fe-7959e4fd1f1f" slug="professor" value="Professor" />
   <Profession id="d85a04fb-365f-4011-928c-eb0afcb15faa" slug="copywriter" value="Copywriter" />
+  <Profession id="4fde2ef3-ab77-4056-a32f-06f650cf002f" slug="physiotherapist" value="Physiotherapist" />
+  <Profession id="f516e8a0-1023-4ec1-a6c5-3fe8aedea956" slug="swimming-coach" value="Swimming Coach" />
 </Professions>

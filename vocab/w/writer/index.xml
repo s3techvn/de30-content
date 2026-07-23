@@ -1,0 +1,38 @@
+<Vocab id="8e22789f-c4bd-4a8f-85af-0c47dff3190e" word="writer" type="short" status="done">
+  <Topics>
+    <Topic id="a2b1ea59-853d-4275-922c-f0d2b70251e2" value="Arts &amp; Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="45ca1827-9d93-491c-ab68-014e25aaaf13" value="Author" />
+    <Profession id="d85a04fb-365f-4011-928c-eb0afcb15faa" value="Copywriter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="db7be8e0-9362-4120-b5a5-61a6388c32cf" ipa="/ˈraɪ.tər/" vi_ipa="рай-tờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="716ac54b-9d77-45a8-97cd-7510af83b92e" type="Noun">
+          <Vi>nhà văn; người viết</Vi>
+          <En>a person who writes books, articles, or other written works, especially as a profession.</En>
+          <Example>She has been a successful writer for over two decades.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="422af4a2-9afc-4715-9b8e-814bc1144ad5">
+              <Vi>Một người làm nghề sáng tác văn học hoặc báo chí.</Vi>
+              <En>A person whose occupation involves creating written content for publication.</En>
+            </Situation>
+            <Situation id="b89fbad9-0eb1-4009-a5cc-2120d1203ced">
+              <Vi>Người viết lách chuyên nghiệp hoặc tự do.</Vi>
+              <En>Someone who produces written material, such as novels, essays, or scripts, regularly or professionally.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

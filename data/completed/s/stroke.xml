@@ -1,0 +1,73 @@
+<Vocab id="048742e2-cc9f-45a0-8901-d0910e699ba8" word="stroke" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="dcee83b0-7319-4ce3-bb65-f58bd4ef64c6" value="Art" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="4fde2ef3-ab77-4056-a32f-06f650cf002f" value="Physiotherapist" />
+    <Profession id="f516e8a0-1023-4ec1-a6c5-3fe8aedea956" value="Swimming Coach" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76d4dd98-3431-4f83-95d1-05a5598d1463" ipa="/stroʊk/" vi_ipa="s-t-r-o-k">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3e4c8519-778e-4bee-b8e8-a12385d479f2" type="Noun">
+          <Vi>Cơn đột quỵ</Vi>
+          <En>A medical condition caused by interrupted blood supply to the brain, leading to brain cell damage.</En>
+          <Example>He was rushed to the hospital after suffering a stroke.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed8ec43c-498f-4631-8ec8-e1751e3f8739">
+              <Vi>Mô tả tình huống cấp cứu khi người bệnh bị đột quỵ.</Vi>
+              <En>Describes an emergency situation when a patient suffers a stroke.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dc25a87d-d82e-44db-b56b-ca2591f166a0" type="Noun">
+          <Vi>V cú đánh (trong thể thao, vẽ, viết)</Vi>
+          <En>A single movement of hitting or drawing something, especially with a hand, pen, or brush.</En>
+          <Example>She executed a perfect backhand stroke in the tennis match.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cb865481-f117-4294-8e37-bddd49c80a7f">
+              <Vi>Hành động đánh bóng trong tennis hoặc bơi lội.</Vi>
+              <En>The action of hitting a ball in tennis or moving the arm in swimming.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dd5b56a1-a7ae-41c0-9ccb-47182fd02ff1" type="Noun">
+          <Vi>V cú chạm nhẹ, vỗ nhẹ</Vi>
+          <En>A light tap or touch, often conveying affection or emphasis.</En>
+          <Example>He gave her hand a gentle stroke to comfort her.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a108d14-da2f-42ab-9c71-eb22c636fe84">
+              <Vi>Hành động vuốt nhẹ để an ủi hoặc thể hiện tình cảm.</Vi>
+              <En>The act of gently touching or stroking to comfort or show affection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="83b99fb0-93f4-4e88-8bce-507ff6ef7a9a" type="Verb">
+          <Vi>Đánh (bóng, vẽ, viết), vuốt nhẹ</Vi>
+          <En>To make a single movement of hitting, drawing, or touching lightly.</En>
+          <Example>She stroked the cat’s fur gently.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="803396fb-2eaa-436b-9279-53f30ca2aa05">
+              <Vi>Hành động vuốt ve vật nuôi hoặc vẽ nét bút.</Vi>
+              <En>The act of petting an animal or making a single drawing movement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
