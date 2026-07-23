@@ -1,0 +1,56 @@
+<Vocab id="20c4270c-5c61-4733-b687-d9c00027ecca" word="country" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8031f17-49b1-40af-aac6-c523e3158f65" ipa="/ˈkʌn.tri/" vi_ipa="cân-tờ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="23072e29-cfeb-4e3e-88ec-d62cbb73299b" type="Noun">
+          <Vi>quốc gia; đất nước</Vi>
+          <En>A nation or large administrative region, typically with its own government, territory, and population.</En>
+          <Example>She dreams of visiting every country in Europe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53d3687f-2387-42f8-bf3c-1dbe104e4dca">
+              <Vi>Người nói đang thảo luận về các quốc gia trên thế giới.</Vi>
+              <En>The speaker is discussing nations around the world.</En>
+            </Situation>
+            <Situation id="78b9fcc6-e936-48d3-8aa5-9c9166401da7">
+              <Vi>Người nói đang so sánh văn hóa, kinh tế giữa các quốc gia.</Vi>
+              <En>The speaker is comparing culture and economy between nations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="95c0f4e5-f92d-48b3-8a19-6caee657b27a" type="Noun">
+          <Vi>vùng quê; vùng nông thôn</Vi>
+          <En>Rural areas, especially when contrasted with cities or urban centers.</En>
+          <Example>They decided to retire and move to the country.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a20955d6-4b0a-40ce-a632-053d71ea7753">
+              <Vi>Người nói đang nói về việc sống yên bình ở vùng ngoại ô hoặc nông thôn.</Vi>
+              <En>The speaker is talking about living peacefully in rural or suburban areas.</En>
+            </Situation>
+            <Situation id="13525b8e-1377-47d7-a160-9d8f1afbb3d6">
+              <Vi>Người nói đang phân biệt giữa thành phố và vùng quê.</Vi>
+              <En>The speaker is distinguishing between city life and country life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
