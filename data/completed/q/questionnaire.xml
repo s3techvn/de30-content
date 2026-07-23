@@ -1,0 +1,38 @@
+<Vocab id="8850e88f-0156-4dba-9cb6-2b2317a4cfe8" word="questionnaire" type="short" status="done">
+  <Topics>
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+  </Topics>
+  <Professions>
+    <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" value="Market Researcher" />
+    <Profession id="b60c5701-6ae0-4327-a366-dcf33c150b84" value="Social Scientist" />
+    <Profession id="cd1326cb-2279-408a-af4a-8b8d26c8ec78" value="Survey Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f6d9ee39-3b6f-44ba-a282-50b2d47499f7" ipa="/ˌkwes.tʃəˈner/" vi_ipa="cờ-đờ-nờ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c6fd5f49-624f-4709-92c5-38636b6113b8" type="Noun">
+          <Vi>Bản câu hỏi khảo sát</Vi>
+          <En>A written set of questions used to collect information from a group of people, typically for research or surveys.</En>
+          <Example>The researchers distributed the questionnaire to 500 participants across three cities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ab1ce9c-36d1-4564-9a4e-559e2eb1e1c7">
+              <Vi>Trong nghiên cứu thị trường, công ty sử dụng bản câu hỏi khảo sát để thu thập ý kiến khách hàng.</Vi>
+              <En>In market research, the company uses a questionnaire to collect customer feedback.</En>
+            </Situation>
+            <Situation id="08a6f5ff-8438-4042-91f7-655140678081">
+              <Vi>Sinh viên đại học phải hoàn thành bản câu hỏi khảo sát để phục vụ khóa luận.</Vi>
+              <En>University students must complete a questionnaire as part of their thesis research.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
