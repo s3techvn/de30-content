@@ -1,0 +1,41 @@
+<Vocab id="841a895d-d392-4a26-bec3-113fabd430eb" word="assessed" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="4c7507a5-286c-45d1-8f0b-bc012adb0e44" value="Appraiser" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1e52c52-ea6a-4677-accb-7152a9dcee32" ipa="/əˈses.t/">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6f5e104d-e790-4874-a383-1e0e7a829d12" type="Verb">
+          <Vi>đánh giá; ước lượng; tính toán (giá trị, mức độ, mức đóng góp...)</Vi>
+          <En>to evaluate or calculate the value, nature, or condition of something, especially for taxation or academic purposes</En>
+          <Example>The teacher assessed the students' essays based on clarity and originality.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64af1dc0-a635-4bba-8593-1441f99db796">
+              <Vi>Giáo viên đánh giá bài luận của học sinh dựa trên tiêu chí rõ ràng và sáng tạo.</Vi>
+              <En>A teacher evaluates student essays based on clarity and originality.</En>
+            </Situation>
+            <Situation id="6e11ac71-448b-4030-90a4-7d29959fdfb1">
+              <Vi>Chính quyền địa phương đánh giá giá trị bất động sản để tính thuế.</Vi>
+              <En>The local government assesses property values to determine tax liability.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
