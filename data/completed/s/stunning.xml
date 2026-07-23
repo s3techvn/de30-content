@@ -1,0 +1,41 @@
+<Vocab id="4506c9db-15b4-45ad-852f-0e14f6ae82df" word="stunning" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a3ac779d-4e83-46bd-af5c-ca0fd88a7148" ipa="/ˈstʌn.ɪŋ/" vi_ipa="s-tơ-nhin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="454d2ba0-6f44-4e28-8028-1dd99374bd95" type="Adjective">
+          <Vi>đẹp tuyệt vời, gây choáng ngợp</Vi>
+          <En>extremely beautiful, impressive, or attractive in a way that causes surprise or admiration</En>
+          <Example>She looked absolutely stunning in her red evening gown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61abd853-f84d-4d7d-8de3-65cd256b3e00">
+              <Vi>Mô tả vẻ đẹp gây ấn tượng mạnh, thường dùng để khen ngoại hình hoặc trang phục nổi bật.</Vi>
+              <En>Used to praise someone’s striking appearance, especially in fashion or formal events.</En>
+            </Situation>
+            <Situation id="8caa318f-0774-461a-b905-0fdc996380aa">
+              <Vi>Mô tả cảnh vật, sự kiện hoặc tác phẩm nghệ thuật gây kinh ngạc vì độ hoành tráng hoặc tinh tế.</Vi>
+              <En>Used to describe scenery, events, or artworks that are breathtakingly impressive.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
