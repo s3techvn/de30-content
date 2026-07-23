@@ -1,0 +1,38 @@
+<Vocab id="6aab8030-f4fb-45ca-b850-f3f5a4211de9" word="equality" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7c6eae79-b9df-4dbd-87a9-85fa4d95f8de" value="Human Rights Advocate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d724eb6c-c460-48f2-aeae-03bc65931ab8" ipa="/ˈiː.kwəl.ə.ti/" vi_ipa="i:–quờ–lờ–ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bc6a39b2-d643-484d-920f-6ed4f2f7fc0d" type="Noun">
+          <Vi>Sự bình đẳng</Vi>
+          <En>The state of being equal, especially in status, rights, or opportunities.</En>
+          <Example>She fought for racial and gender equality throughout her career.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c5fa70d-806b-435f-8fb5-122c225c2f8f">
+              <Vi>Tình huống khi mọi người được đối xử công bằng, không phân biệt chủng tộc, giới tính hay xuất thân.</Vi>
+              <En>A situation where people are treated fairly, without discrimination based on race, gender, or background.</En>
+            </Situation>
+            <Situation id="526cb76b-99c7-479a-b134-97dbf10198e5">
+              <Vi>Tình huống trong giáo dục, khi học sinh từ mọi hoàn cảnh đều có cơ hội tiếp cận chất lượng giảng dạy như nhau.</Vi>
+              <En>A situation in education where students from all backgrounds have equal access to quality teaching.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
