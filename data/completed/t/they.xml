@@ -1,0 +1,36 @@
+<Vocab id="4ce5ba0c-4ca2-4d3d-976f-ee939c000e79" word="they" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49729dec-0403-4c77-b257-e644abcd4b5d" ipa="/ðeɪ/" vi_ipa="đê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="21385684-cc28-4671-b25c-5a2b3aae79b2" type="Pronoun">
+          <Vi>Họ</Vi>
+          <En>Used to refer to two or more people or things previously mentioned or easily identified.</En>
+          <Example>We saw the twins yesterday; they were wearing matching outfits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="276e2448-f3e1-4a1e-8f4a-10d141230b0f">
+              <Vi>Trong ngữ cảnh nói về một nhóm người đã được đề cập trước đó.</Vi>
+              <En>Used when referring to a group of people or things already mentioned.</En>
+            </Situation>
+            <Situation id="8e506eba-a4ac-40f4-99b7-cb6cb087ac4d">
+              <Vi>Trong ngữ cảnh sử dụng đại từ ngôi thứ ba số nhiều chung (gender-neutral).</Vi>
+              <En>Used as a gender-neutral singular pronoun when the gender is unknown or irrelevant (e.g., “Someone left their bag; they forgot it here”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,39 @@
+<Vocab id="77226b90-e6d2-4a4a-867a-b6b5b621b1c2" word="seller" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c3d726a6-47b6-4115-a8e6-887932554ca7" ipa="/ˈsel.ɚ/" vi_ipa="xen-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4c1a3d29-9bcd-4270-b7bd-c935f28b72d6" type="Noun">
+          <Vi>người bán</Vi>
+          <En>A person or entity that sells goods or services.</En>
+          <Example>The seller agreed to lower the price after negotiations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="400a94af-f147-4223-97df-4daedded6036">
+              <Vi>Người bán hàng trong một cửa hàng hoặc trên nền tảng thương mại điện tử.</Vi>
+              <En>A person offering products for sale in a store or online marketplace.</En>
+            </Situation>
+            <Situation id="40681963-39ca-49e0-90a1-f426104da0de">
+              <Vi>Người bán nhà trong giao dịch bất động sản.</Vi>
+              <En>The party transferring ownership of property in a real estate transaction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
