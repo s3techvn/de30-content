@@ -1,0 +1,37 @@
+<Vocab id="be2b3053-4dd5-464f-ace5-d8fe0d0441b5" word="betting" type="short" status="done">
+  <Topics>
+    <Topic id="29248cfe-d0ab-423f-8567-69c63077f235" value="Gambling" />
+  </Topics>
+  <Professions>
+    <Profession id="2c5ec1b7-c45b-4a9f-a4ff-bf28a038c45c" value="Bookmaker" />
+    <Profession id="5a88c980-c0dc-4618-8b57-e01d67002aff" value="Professional Gambler" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a6304dda-0140-4619-a88e-588f023d01ae" ipa="/ˈbet.ɪŋ/" vi_ipa="bét-tinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f37c2f2-f585-415c-9346-57c1bd8dedfc" type="Noun">
+          <Vi>Cược; sự đặt cược</Vi>
+          <En>The act of risking money or something valuable on the outcome of a contest, game, or uncertain event.</En>
+          <Example>He lost a lot of money on betting at the racetrack.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad092166-04a1-4bbe-a945-0499c478bd73">
+              <Vi>Hành động đặt tiền vào kết quả của một trận đấu, cuộc thi, hoặc sự kiện không chắc chắn.</Vi>
+              <En>The action of staking money on the uncertain outcome of a sports event or game.</En>
+            </Situation>
+            <Situation id="2b50fcd8-2251-4a15-985c-0dc345c029eb">
+              <Vi>Cược cá độ thể thao hoặc cược Roulette tại sòng bạc.</Vi>
+              <En>Placing wagers on sports matches or games like roulette in a casino.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

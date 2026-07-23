@@ -771,4 +771,5 @@
   <Profession id="20b27fe4-9abe-45f4-85a4-3d1e661e3533" slug="tv-producer" value="TV Producer" />
   <Profession id="9af40ef2-68ab-43d2-a68d-b986f42844c2" slug="electronics-engineer" value="Electronics Engineer" />
   <Profession id="e8602fcb-9050-4cdb-bc36-db9774d3728a" slug="pharmaceutical-researcher" value="Pharmaceutical Researcher" />
+  <Profession id="2c5ec1b7-c45b-4a9f-a4ff-bf28a038c45c" slug="bookmaker" value="Bookmaker" />
 </Professions>
