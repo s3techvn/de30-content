@@ -1,0 +1,40 @@
+<Vocab id="1a1bddbd-5726-4c7c-a05b-11733218fd8e" word="virtually" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a82e763c-3cbd-4f6a-b699-5a2e4d56d3f8" ipa="/ˈvɜːr.tʃu.əl.i/" vi_ipa="vơ-tu-ơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5ce80a88-65b2-477d-b0de-1daf81b1a424" type="Adverb">
+          <Vi>gần như, gần như là, về cơ bản</Vi>
+          <En>almost; nearly; in effect, though not in name or form</En>
+          <Example>The meeting was held virtually due to the pandemic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04b096ec-458d-4b44-a4c6-fc3ff92c618b">
+              <Vi>Mô tả tình huống khi một sự kiện diễn ra qua nền tảng trực tuyến, gần như tương đương với sự kiện trực tiếp.</Vi>
+              <En>A scenario where an event occurs online, functioning as a substitute for an in-person gathering.</En>
+            </Situation>
+            <Situation id="3cfa4783-378e-4998-b002-2433fdcb9327">
+              <Vi>Mô tả mức độ gần như hoàn toàn đúng, nhưng có thể có một vài ngoại lệ nhỏ.</Vi>
+              <En>A situation describing something that is almost entirely true, with only minor exceptions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
