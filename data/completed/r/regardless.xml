@@ -1,0 +1,32 @@
+<Vocab id="6cc9b143-3b6f-4a55-83a0-6a1b2f80ce0b" word="regardless" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="35d4a46e-d821-437e-bff2-745be85d2696" ipa="/rɪˈɡɑːr.dəl.əs/" vi_ipa="rị-ga-đờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="912380bb-05e0-4802-8808-8f4b325536e6" type="Adverb">
+          <Vi>cho dù, bất chấp, không kể</Vi>
+          <En>without being affected by; in spite of</En>
+          <Example>Regardless of the weather, we went hiking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3e1e7b3-98ae-430d-b0d5-aa6c2eff947c">
+              <Vi>Trong tình huống đưa ra quyết định hoặc hành động bất chấp khó khăn hoặc yếu tố cản trở.</Vi>
+              <En>In a situation where a decision or action is taken despite difficulties or obstacles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

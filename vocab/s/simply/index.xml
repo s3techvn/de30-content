@@ -1,0 +1,59 @@
+<Vocab id="93ec3bee-b061-4947-8d6a-c7f60b06fd0f" word="simply" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="82ea7f75-d326-49b5-84b8-87a39f78f1a9" ipa="/ˈsɪm.pəl.i/" vi_ipa="xim-pli">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1654ac7-1e65-42d0-80f9-e017068ef97f" type="Adverb">
+          <Vi>đơn giản, chỉ đơn thuần là</Vi>
+          <En>in a simple manner; without complexity or elaboration</En>
+          <Example>She explained the instructions simply so everyone could understand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3d661b95-8421-4d19-99ef-2b5009c709e8">
+              <Vi>Giải thích một điều gì đó rõ ràng, dễ hiểu mà không dùng từ ngữ phức tạp.</Vi>
+              <En>Explaining something clearly and easily without using complex language.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ec504a9-f016-4d44-9479-e330d907ecee" type="Adverb">
+          <Vi>chỉ là, chính xác là</Vi>
+          <En>used to emphasize that something is exactly as stated, often to downplay or clarify</En>
+          <Example>He was simply tired, not sick.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ead84555-bc19-48c9-8b0c-f6929cd704df">
+              <Vi>Dùng để nhấn mạnh sự chính xác hoặc làm rõ một tình huống, thường để bác bỏ hiểu lầm.</Vi>
+              <En>Used to emphasize accuracy or clarify a situation, often to correct a misunderstanding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fafe7d79-6dd2-46f1-8bf6-09c63d1edf79" type="Adverb">
+          <Vi>chỉ, chỉ mới, mới chỉ</Vi>
+          <En>used to indicate that something happened very recently or is the only thing done</En>
+          <Example>I simply forgot to call you yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5fb0fbb-45b1-4195-9e22-32a6c0f45e42">
+              <Vi>Giải thích lý do một việc chưa xảy ra, nhấn mạnh sự thiếu sót duy nhất.</Vi>
+              <En>Explaining why something didn’t happen, emphasizing it was the only thing missed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
