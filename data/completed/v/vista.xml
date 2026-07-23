@@ -1,0 +1,52 @@
+<Vocab id="af6a704e-147e-475f-bbda-ac652948b06e" word="vista" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8441114f-677e-411e-bad5-6332132b8f76" ipa="/ˈvɪs.tə/" vi_ipa="vít-xơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7dc1c956-1a1a-4b09-9cf3-7cdc4d40ab09" type="Noun">
+          <Vi>khung cảnh thiên nhiên rộng lớn, đặc biệt là cảnh nhìn ra xa qua một khoảng trống (như từ đỉnh đồi, cửa sổ, hoặc lối đi)</Vi>
+          <En>a distant view, especially one seen through an opening or from a high place, often featuring natural scenery</En>
+          <Example>The hikers paused to admire the breathtaking vista of the valley below.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94390ea2-f836-42e4-93df-310b9f4e9c94">
+              <Vi>Cảnh nhìn ra biển từ vách đá cao</Vi>
+              <En>A view of the ocean from a high cliff</En>
+            </Situation>
+            <Situation id="4a239998-4fa7-4667-808d-ab813a6a2a33">
+              <Vi>Khung cảnh mở ra khi bước ra khỏi một hành lang dài vào một quảng trường</Vi>
+              <En>The scene that opens up when stepping out of a long corridor into a plaza</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="79fa2ef3-29ad-468a-a5a9-5529c6625be3" type="Noun">
+          <Vi>(nghĩa bóng) viễn cảnh, triển vọng tương lai</Vi>
+          <En>(figurative) a prospect or outlook, especially of future possibilities</En>
+          <Example>The new policy has opened up exciting vistas for economic growth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cbe27985-edd8-4d35-bf15-ee82185ab831">
+              <Vi>Triển vọng nghề nghiệp rộng mở sau khi tốt nghiệp</Vi>
+              <En>Career prospects that widen after graduation</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
