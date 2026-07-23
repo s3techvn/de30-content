@@ -626,4 +626,5 @@
   <Profession id="1c23537c-1138-45d4-889c-ce3233a80672" slug="aircraft-pilot" value="Aircraft Pilot" />
   <Profession id="be7f5540-87e1-4e4c-800e-7d0e7a82727e" slug="novelist" value="Novelist" />
   <Profession id="433d4130-32b2-422e-a134-0a75c1643e55" slug="editor-(publishing)" value="Editor (Publishing)" />
+  <Profession id="eedd69e1-7978-43f4-98fe-7959e4fd1f1f" slug="professor" value="Professor" />
 </Professions>
