@@ -1,0 +1,58 @@
+<Vocab id="38c2162a-03eb-48bc-8483-06001a1053c8" word="bang" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="67b65a78-93e2-4bfb-9f19-cbc501339394" value="Sound" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" value="Sound Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b81d09a9-94d7-4974-8f8c-e56074ad15cb" ipa="/bæŋ/" vi_ipa="băng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e91e94f-9817-4861-af96-408ac52cae0a" type="Noun">
+          <Vi>tiếng nổ lớn, tiếng va chạm mạnh</Vi>
+          <En>a loud, sharp sound, typically made by something hitting something else forcefully</En>
+          <Example>The door slammed with a loud bang.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85e622fc-fd49-4b0a-b6dc-44165390e31c">
+              <Vi>Mô tả âm thanh khi cửa đóng mạnh hoặc pháo nổ.</Vi>
+              <En>Describes the sound when a door slams shut or a firecracker explodes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3a7da40c-cb8b-4ad8-a384-67cb33993ccd" type="Noun">
+          <Vi>đòn đánh mạnh, cú đánh bằng tay hoặc vật cứng</Vi>
+          <En>a hard, forceful blow, especially one delivered with the hand or a heavy object</En>
+          <Example>He gave the table a bang with his fist.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c678eab4-62f0-46a6-9b90-fe671c7e8b9e">
+              <Vi>Mô tả hành động đánh mạnh vào vật gì đó trong sự tức giận hoặc thử nghiệm.</Vi>
+              <En>Describes hitting something hard, often in anger or to test its sturdiness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f71e98cf-6cff-44c4-b673-469dbd3d1619" type="Verb">
+          <Vi>đánh mạnh, đập mạnh</Vi>
+          <En>to hit something hard, typically making a loud noise</En>
+          <Example>She banged the pot on the table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ce829a11-c1b9-46e4-ae78-44be8a022d38">
+              <Vi>Mô tả hành động đặt hoặc ném đồ vật một cách thô bạo, gây tiếng ồn.</Vi>
+              <En>Describes placing or throwing an object roughly, producing a loud noise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
