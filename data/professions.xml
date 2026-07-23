@@ -733,4 +733,5 @@
   <Profession id="4a93b435-9262-4004-a025-0ebd387378a9" slug="tobacco-industry-worker" value="Tobacco Industry Worker" />
   <Profession id="5a88c980-c0dc-4618-8b57-e01d67002aff" slug="professional-gambler" value="Professional Gambler" />
   <Profession id="b85f27ac-538e-4a94-956f-3cc54ef7a1a0" slug="organist" value="Organist" />
+  <Profession id="2495fdc8-db22-477e-88ee-07c88610cf64" slug="corporate-executive" value="Corporate Executive" />
 </Professions>
