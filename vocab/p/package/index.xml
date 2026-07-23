@@ -1,0 +1,66 @@
+<Vocab id="92d9b608-e5bd-465d-a812-09f9866ff893" word="package" type="short" status="done">
+  <Topics>
+    <Topic id="151ccef3-ddb7-4b8d-9640-79019f6c33d0" value="Commerce" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1cdd1c63-7761-446c-b61d-4d87bbe4b2a2" ipa="/ˈpæk.ɪdʒ/" vi_ipa="pác-khét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3581a259-dd13-4a33-aae8-6beb6d1b3c9f" type="Noun">
+          <Vi>Gói hàng; bao bì; gói phần mềm</Vi>
+          <En>A container, typically made of paper, cardboard, or plastic, in which goods are packed for storage or transport; also refers to a bundle of software or services.</En>
+          <Example>The delivery driver left the package on the porch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f70a6c00-3f94-45b0-94ac-52ccec1d9ea4">
+              <Vi>Một người nhận hàng mở thùng hàng được giao đến nhà.</Vi>
+              <En>A recipient opens a parcel delivered to their home.</En>
+            </Situation>
+            <Situation id="61f0e80b-fba9-4655-8353-5b507cdffc68">
+              <Vi>Lập trình viên cài đặt một gói phần mềm từ kho lưu trữ.</Vi>
+              <En>A programmer installs a software package from a repository.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="1c287774-f4a9-4102-81d7-96fb2df02953" ipa="/pəˈkeɪdʒ/" vi_ipa="pờ-két-chi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6cd61d84-e662-4c4b-91c1-63dfa2a43835" type="Verb">
+          <Vi>Gói hàng; đóng gói; bao gồm</Vi>
+          <En>To wrap or box up items for storage, transport, or sale; to include something as part of a bundle.</En>
+          <Example>She spent the afternoon packaging gifts for her friends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee8d33f0-d9cd-4f6e-9faa-897256b0235c">
+              <Vi>Nhân viên kho sắp xếp và đóng gói đơn hàng trước khi giao.</Vi>
+              <En>The warehouse worker prepares and seals orders for shipping.</En>
+            </Situation>
+            <Situation id="0adbfd3e-5b1e-4a4d-8875-69381e7967ac">
+              <Vi>Nhà phát triển phần mềm đóng gói ứng dụng để phát hành.</Vi>
+              <En>The software developer packages the app for release on the app store.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
