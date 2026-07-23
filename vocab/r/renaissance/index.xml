@@ -1,0 +1,48 @@
+<Vocab id="a02872af-0779-426c-8676-5a12320e25c2" word="renaissance" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="dcee83b0-7319-4ce3-bb65-f58bd4ef64c6" value="Art" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="4e6b9a91-5492-4733-accf-3aa0c8225571" value="Art Historian" />
+    <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" value="Museum Curator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7dc1d2dd-4e54-44a9-95b5-53d73b093316" ipa="/ˌren.əˈsɑːns/" vi_ipa="rê-nax-sân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5765bd9-3e05-49e5-9fff-3595bc85b2f3" type="Noun">
+          <Vi>Sự tái sinh, sự phục hưng (đặc biệt chỉ phong trào văn hóa, nghệ thuật và tư tưởng ở châu Âu thế kỷ 14–17)</Vi>
+          <En>A rebirth or revival, especially the cultural, artistic, and intellectual movement in Europe from the 14th to the 17th century, marked by renewed interest in classical learning and values.</En>
+          <Example>The Renaissance produced masterpieces by Leonardo da Vinci and Michelangelo.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d49de6f5-1a05-4ef3-8b7b-6aeb48f0788e">
+              <Vi>Giảng dạy về lịch sử nghệ thuật châu Âu thời kỳ phục hưng.</Vi>
+              <En>Discussing European art history during the period of renewed classical inspiration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9c68109c-38f9-4b8c-85b6-336d474898b4" type="Noun">
+          <Vi>Sự hồi sinh, sự tái sinh (nghĩa bóng, dùng cho lĩnh vực cụ thể)</Vi>
+          <En>A revival or renewed interest in a particular field, style, or practice.</En>
+          <Example>The 1990s saw a renaissance of vinyl records among young music lovers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee599c84-d27d-45e7-a480-8c2e475eb1ce">
+              <Vi>Mô tả sự phục hưng của một xu hướng văn hóa hoặc công nghệ cũ.</Vi>
+              <En>Describing the resurgence of an old trend, such as retro fashion or analog technology.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

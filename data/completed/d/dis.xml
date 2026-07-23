@@ -1,0 +1,36 @@
+<Vocab id="3ae1d6de-7f70-4f3e-b1d3-4f4b7ac35147" word="dis" type="short" status="done">
+  <Topics>
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+  </Topics>
+  <Professions>
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f117d38-67d1-45be-bffd-9f9b8eb66dd9" ipa="/dɪs/" vi_ipa="đít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c4bd2c1-b708-48d4-a58f-1b04894b78da" type="Prefix">
+          <Vi>tiền tố mang nghĩa phủ định, trái ngược, hoặc làm yếu đi (tương đương với "not", "opposite of", hoặc "reversal of")</Vi>
+          <En>a prefix meaning "not", "opposite of", or "reversal of", used to form negative or opposite meanings of words</En>
+          <Example>Disagree, disloyal, disassemble.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ceaa4048-c943-41f7-9ba1-35de5d760733">
+              <Vi>Dùng để tạo từ trái nghĩa hoặc phủ định từ gốc (ví dụ: agree → disagree).</Vi>
+              <En>Used to form antonyms or negative forms of base words (e.g., agree → disagree).</En>
+            </Situation>
+            <Situation id="0936d593-b19e-4426-a3b2-1088f3296d52">
+              <Vi>Xuất hiện nhiều trong từ vựng học thuật và văn viết trang trọng.</Vi>
+              <En>Frequently appears in academic vocabulary and formal writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
