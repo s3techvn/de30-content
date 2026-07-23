@@ -663,4 +663,5 @@
   <Profession id="bba33354-152e-4c85-8544-c839ee711f14" slug="systems-administrator" value="Systems Administrator" />
   <Profession id="deec797e-c7c4-4fee-b6c1-77c6f75714c1" slug="merchant-navy-officer" value="Merchant Navy Officer" />
   <Profession id="4bb43b6f-2f4e-4dbb-a6a5-36701d232680" slug="naval-engineer" value="Naval Engineer" />
+  <Profession id="09df083c-1425-4bf2-a382-d6ec410adb6f" slug="agriculturist" value="Agriculturist" />
 </Professions>

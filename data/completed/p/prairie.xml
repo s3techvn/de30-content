@@ -1,0 +1,40 @@
+<Vocab id="9efbb117-e252-4dd8-883c-6d2299bb64e3" word="prairie" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="09df083c-1425-4bf2-a382-d6ec410adb6f" value="Agriculturist" />
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f343aeb8-924d-461f-b423-44363308eab2" ipa="/ˈprɛr.i/" vi_ipa="pơ-rê-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="71a6a1c3-206f-4bb5-98cc-f09896bcece5" type="Noun">
+          <Vi>Cánh đồng cỏ rộng lớn, đặc trưng ở Bắc Mỹ, thường không có cây, chủ yếu do gió và cháy tự nhiên duy trì.</Vi>
+          <En>A large area of flat or gently rolling grassland, especially in central North America, typically treeless and maintained by wind and natural fires.</En>
+          <Example>The tallgrass prairie once stretched across much of the Midwest United States.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="863807ab-f2a8-4ced-b60f-14931e973848">
+              <Vi>Mô tả hệ sinh thái đồng cỏ rộng lớn ở Mỹ, nơi chăn nuôi gia súc và bảo tồn đa dạng sinh học.</Vi>
+              <En>Describing the vast grassland ecosystem in the U.S., used for livestock grazing and biodiversity conservation.</En>
+            </Situation>
+            <Situation id="93b26f6b-1a2f-4e91-8ccb-74d7339cef44">
+              <Vi>Cảnh quan đồng cỏ hoang dã trong phim西部 (westerns), thường gắn với người da đỏ và người định cư.</Vi>
+              <En>The wild grassland landscape in Western films, often associated with Native Americans and settlers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
