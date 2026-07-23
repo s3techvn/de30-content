@@ -1,0 +1,56 @@
+<Vocab id="fcc2eb38-7003-41a1-ae6a-5cea1dd528e2" word="terminal" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+    <Profession id="dcb5eac5-3607-4c3a-b27b-0373898cbf3f" value="Aviation Staff" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e589fd79-05b7-42d8-ae41-f8ba739992ad" ipa="/ˈtɜːr.mə.nəl/" vi_ipa="tờ-mờ-nờ-nờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3bbf29b2-1084-4fee-a826-42d0465de817" type="Noun">
+          <Vi>cổng kết nối; trung tâm cuối; nhà ga (xe buýt, tàu bay)</Vi>
+          <En>a computer terminal; the end point of a communication line; a building at an airport where passengers board planes</En>
+          <Example>She logged into the mainframe using a text-based terminal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="16ff1653-222f-447a-9d7a-e014d26119b2">
+              <Vi>Một thiết bị hoặc giao diện cho phép người dùng tương tác với máy tính trung tâm.</Vi>
+              <En>A device or interface allowing users to interact with a central computer system.</En>
+            </Situation>
+            <Situation id="bd695f61-1681-4e43-a1d0-86721de6aecd">
+              <Vi>Khu vực chờ và lên máy bay trong sân bay.</Vi>
+              <En>The area in an airport where passengers wait and board aircraft.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6d83e351-fc60-4e07-883a-4609106ef30a" type="Adjective">
+          <Vi>ở cuối; cuối cùng; triệt để</Vi>
+          <En>at or near the end of a process, period, or sequence; extreme or final</En>
+          <Example>The patient showed terminal signs of the disease.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ca6c19f1-b783-4ea6-a6be-a42deee4aa79">
+              <Vi>Mô tả một tình trạng bệnh lý không thể chữa khỏi và dẫn đến cái chết.</Vi>
+              <En>Describing a medical condition that is incurable and leads to death.</En>
+            </Situation>
+            <Situation id="db197676-d191-4c66-84ca-e88b54205d2f">
+              <Vi>Mô tả một thiết bị hoặc điểm kết thúc trong một hệ thống kỹ thuật.</Vi>
+              <En>Describing a device or endpoint in an electrical or communication system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
