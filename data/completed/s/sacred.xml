@@ -1,0 +1,38 @@
+<Vocab id="4dd7c5c3-8383-445e-a71e-e31cb1b26beb" word="sacred" type="short" status="done">
+  <Topics>
+    <Topic id="045ae109-bea1-47c9-9c62-a39d36d9cc54" value="Religion and Spirituality" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f44bf6cb-71f0-460d-a314-e08dc5fdd704" ipa="/ˈseɪ.krɪd/" vi_ipa="xê-krít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddf992d3-a0d4-4236-a6e0-a63c05923e75" type="Adjective">
+          <Vi>thiêng liêng; thánh thiện</Vi>
+          <En>regarded as dedicated to a religious purpose or deserving reverence and respect; connected with God or a deity.</En>
+          <Example>The temple is considered a sacred place where worshippers come to pray.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d536f96d-775b-4ff1-9f18-909bed99fda7">
+              <Vi>Mô tả một địa điểm, vật phẩm, hoặc nghi lễ có tính chất tôn giáo cao, không được xem thường hay xúc phạm.</Vi>
+              <En>Describing a location, object, or ritual that holds deep religious significance and must be treated with reverence.</En>
+            </Situation>
+            <Situation id="750d2b62-f5f8-434e-8200-8d943e59a239">
+              <Vi>Dùng để nhấn mạnh sự trang nghiêm hoặc giá trị tinh thần vượt bậc của điều gì đó, ngay cả trong ngữ cảnh phi tôn giáo.</Vi>
+              <En>Used to emphasize the solemn or deeply meaningful nature of something, even in non-religious contexts (e.g., "sacred duty").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
