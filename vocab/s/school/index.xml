@@ -1,0 +1,62 @@
+<Vocab id="19dccec8-87d3-4351-a186-27ef2747ad93" word="school" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="78cf232d-23ec-447a-bc52-69ad7e43630c" value="School Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="56bac24f-db5f-4643-9efc-dc081f4656cf" ipa="/skuːl/" vi_ipa="s-k-u-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="43132d70-fb2d-4fa7-969f-978b64631c4d" type="Noun">
+          <Vi>trường học</Vi>
+          <En>A building or institution where students receive education, typically from primary to secondary levels.</En>
+          <Example>The children walk to school every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5a4f7e8-995e-44c5-8c1f-820b1e030102">
+              <Vi>Học sinh đến lớp để học các môn như toán, văn, khoa học.</Vi>
+              <En>Students attend classes to study subjects such as math, literature, and science.</En>
+            </Situation>
+            <Situation id="bee3dc02-7c8e-402f-bd40-f991b50e0b59">
+              <Vi>Gia đình đưa trẻ đến trường khai giảng năm học mới.</Vi>
+              <En>The family takes the child to school for the new academic year’s opening ceremony.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="29ea87bc-5987-4a95-8491-0e90bd06e956" type="Noun">
+          <Vi>trường phái; nhóm người có cùng quan điểm</Vi>
+          <En>A group of people with shared opinions, principles, or methods, especially in art, philosophy, or science.</En>
+          <Example>The impressionist school of painting revolutionized art in the 19th century.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bfd04810-9726-4cfb-acac-db8775aac9b7">
+              <Vi>Các nghệ sĩ theo trường phái hiện thực thường vẽ cảnh đời thường một cách chân thực.</Vi>
+              <En>Artists belonging to the realist school often depict everyday life in a realistic manner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8f00db09-651e-4b81-9c08-f95b46f103fc" type="Verb">
+          <Vi>đào tạo; huấn luyện</Vi>
+          <En>To train or educate someone in a particular skill or subject.</En>
+          <Example>The company will school its new employees in customer service best practices.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6bc25a7f-5b66-4ab8-bd57-7b528c484bdc">
+              <Vi>Chuyên gia huấn luyện sẽ đào tạo đội tuyển trước khi thi đấu quốc tế.</Vi>
+              <En>The coach will school the team in advanced tactics before the international competition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
