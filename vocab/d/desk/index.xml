@@ -1,0 +1,40 @@
+<Vocab id="ee0d19aa-7ef6-4054-a6a0-2784526dae74" word="desk" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b53ecd91-0815-4565-b650-8c187f81f1b9" value="Office" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="428f713c-d623-473d-9d15-38131a58db88" ipa="/desk/" vi_ipa="đét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="298c0e41-18ac-4c58-a1c1-3e3d2c3b9b89" type="Noun">
+          <Vi>Cái bàn (thường có ngăn kéo, dùng để làm việc, học tập)</Vi>
+          <En>A piece of furniture with a flat top and one or more drawers, typically used for work or study.</En>
+          <Example>She left her laptop and notebooks on her desk.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85d6e5ad-6ea6-452e-b32c-954e4a32ceb6">
+              <Vi>Một học sinh đang ngồi học bài tại bàn học trong phòng.</Vi>
+              <En>A student is studying at their desk in the room.</En>
+            </Situation>
+            <Situation id="78a8ef24-a3b4-47fc-933e-00a5fa2d0e22">
+              <Vi>Nhân viên văn phòng đang làm việc trên máy tính tại bàn làm việc.</Vi>
+              <En>An office worker is typing on a computer at their desk.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
