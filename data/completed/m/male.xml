@@ -1,0 +1,40 @@
+<Vocab id="ca14afd3-fc82-40e1-8c7c-c656a227da93" word="male" type="short" status="done">
+  <Topics>
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="bc038858-356e-45f4-bda9-d744574a2192" value="Social Studies" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="376a2022-1c5d-4edf-900a-b0cc90e70672" ipa="/meɪl/" vi_ipa="mê-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="64447418-7a33-4415-b3ed-96634b1e1c33" type="Adjective">
+          <Vi>giới tính nam; nam tính; của con đực</Vi>
+          <En>relating to or characteristic of the male sex; having male reproductive organs or characteristics</En>
+          <Example>Male birds often have brighter plumage than females.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="89631266-3ed7-46f1-a3da-2bf5917a1789">
+              <Vi>Mô tả đặc điểm sinh học hoặc xã hội liên quan đến giới tính nam.</Vi>
+              <En>Used to describe biological, physical, or behavioral traits associated with males.</En>
+            </Situation>
+            <Situation id="166d9354-fead-4f34-94dc-b3b508b0d9a9">
+              <Vi>Phân biệt giới tính trong động vật (ví dụ: con đực).</Vi>
+              <En>Used in biology to distinguish male animals (e.g., male lion, male chicken).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
