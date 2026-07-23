@@ -1,0 +1,50 @@
+<Vocab id="5429117d-4589-4a21-9b61-cd0e415be1ff" word="reproduction" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+    <Profession id="4505b9f7-0022-4255-bf6d-b006cdff3d80" value="Agricultural Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f464dea3-8db7-47d1-9333-3e67db9d7063" ipa="/ˌriː.prəˈdʌk.ʃən/" vi_ipa="ri-i-pờ-rơ-đác-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e2dfb3e-99ef-4bb9-bb0b-44a0930549b7" type="Noun">
+          <Vi>Sự sinh sản; sự tái tạo</Vi>
+          <En>The biological process by which new individual organisms – offspring – are produced from their parents.</En>
+          <Example>Sexual reproduction involves the combination of genetic material from two parents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4754b586-2bfa-4537-b642-7918fa9271a0">
+              <Vi>Mô tả quá trình sinh sản ở động vật hoặc thực vật trong sinh học.</Vi>
+              <En>Describing how organisms produce new individuals in biology classes or scientific texts.</En>
+            </Situation>
+            <Situation id="4db67011-8739-4745-bfd6-19f8afd5692e">
+              <Vi>Liên quan đến công nghệ nhân bản hoặc tạo giống trong nông nghiệp.</Vi>
+              <En>Referring to cloning or selective breeding techniques in agriculture and biotechnology.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b25edbdf-74c3-47bc-baa0-897c9a7da2b0" type="Noun">
+          <Vi>Bản sao; sự tái bản</Vi>
+          <En>The act of making a copy or duplicate of something, especially a work of art, document, or artifact.</En>
+          <Example>The museum displayed both the original painting and a high-quality reproduction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58e924b6-1a4f-4561-9ef1-c127dfb84f29">
+              <Vi>Khi nói về bản sao tác phẩm nghệ thuật hoặc sách cổ.</Vi>
+              <En>Used when referring to replicas of artworks, manuscripts, or historical documents.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

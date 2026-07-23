@@ -1,0 +1,58 @@
+<Vocab id="f1051424-4d1b-4545-a60b-68728db5f86a" word="rand" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="2f4f9ade-392a-4131-b575-39ebe1638521" value="Cryptographer" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="afbad523-ccd4-46c2-b0be-8de12e674961" ipa="/rænd/" vi_ipa="răng-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed03d721-aaae-4971-a1e1-8ff6aa4d1add" type="Noun">
+          <Vi>Đơn vị tiền tệ của Nam Phi (đã ngừng lưu hành)</Vi>
+          <En>The former currency of South Africa, replaced by the rand in 1961; also used for the current South African currency.</En>
+          <Example>Before 1961, South Africa used the South African pound, which was divided into 20 shillings, and each shilling into 12 pence—replaced by the rand at a rate of 2 rand to 1 pound.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="e53b6961-06bd-4bc7-ab72-8d2c7bbee132">
+              <Vi>Ngữ cảnh lịch sử khi nói về tiền tệ Nam Phi trước năm 1961.</Vi>
+              <En>Historical context when referring to South African currency before 1961.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="98db8ec1-ac84-450d-9b84-27d248b21289" type="Noun">
+          <Vi>Đơn vị tiền tệ hiện tại của Nam Phi</Vi>
+          <En>The official currency of South Africa, subdivided into 100 cents; symbol: R or R$, ISO code: ZAR.</En>
+          <Example>The rand has experienced significant volatility against the US dollar due to fluctuations in commodity prices and political instability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cd2e895d-a1e1-4c6b-8a5a-dc5f8e1fc6bc">
+              <Vi>Ngữ cảnh tài chính, du lịch, hoặc thương mại liên quan đến Nam Phi.</Vi>
+              <En>Financial, travel, or trade contexts involving South Africa.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7402a0fa-1e36-4d0a-9d62-c180e805f77c" type="Noun">
+          <Vi>Một lượng ngẫu nhiên hoặc không xác định (trong lập trình máy tính)</Vi>
+          <En>In computing, a random value or number, especially used in cryptography, simulations, or algorithms requiring unpredictability.</En>
+          <Example>The function rand() in C generates a pseudo-random integer between 0 and RAND_MAX.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ecba7822-d140-43cc-915f-1c4b863b6802">
+              <Vi>Ngữ cảnh lập trình, đặc biệt khi tạo mã hóa, mật khẩu, hoặc mô phỏng ngẫu nhiên.</Vi>
+              <En>Programming context, especially when generating cryptographic keys, passwords, or random simulations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
