@@ -977,3 +977,4 @@ instructor
 tell
 knew
 northwest
+adaptive

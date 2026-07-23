@@ -1,0 +1,76 @@
+<Vocab id="c1688d64-0e90-494f-9297-a061987a6dd3" word="opposite" type="short" status="done">
+  <Topics>
+    <Topic id="0209e330-c15e-400b-8bc6-32a125b86b8b" value="General Vocabulary" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="57b0c2da-472b-4825-840b-624b4b5f41d1" ipa="/ˈɑː.pə.zət/" vi_ipa="ác-pơ-zớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7bd92c5f-e7e5-49dc-9421-08bb8ba9a9de" type="Adjective">
+          <Vi>ngược lại, đối lập</Vi>
+          <En>completely different or contrary to something else; forming a pair of things that contrast or cancel each other</En>
+          <Example>She wore a dress of white and black, the opposite colors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c8ee7fd-8366-45f9-bd64-fc2b612358ff">
+              <Vi>Mô tả hai thứ hoàn toàn trái ngược nhau trong tính chất, vị trí, hướng, hoặc màu sắc.</Vi>
+              <En>Describing two things that are completely different in property, position, direction, or color.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9fdf51d4-424c-41d6-8741-efe121d2b734" ipa="/ˈɑː.pə.zət/" vi_ipa="ác-pơ-zớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6a2bc36-3388-45e2-9e69-8eb7c5874725" type="Noun">
+          <Vi>cái đối lập, cái ngược lại</Vi>
+          <En>a person or thing that is the direct opposite of another</En>
+          <Example>Hot and cold are opposites.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="192375dc-4e69-4f44-8732-6e1e5f4e9ed8">
+              <Vi>Dùng khi nói về hai khái niệm, trạng thái, hoặc đối tượng trái ngược hoàn toàn.</Vi>
+              <En>Used when referring to two concepts, states, or objects that are completely opposite.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0de7f42f-bc32-44e8-8781-730e45e73f52" ipa="/əˈpə.zət/" vi_ipa="ơ-pơ-zớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6c5ca8cf-397a-4ccc-b219-71dc7cc2b13c" type="Preposition">
+          <Vi>ở phía đối diện với</Vi>
+          <En>on or at the side of something that faces another thing</En>
+          <Example>The library is opposite the post office.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b656622-e23b-4472-8c45-895ca2d643af">
+              <Vi>Mô tả vị trí địa lý của một địa điểm nằm đối diện với một địa điểm khác qua một con đường hoặc không gian trống.</Vi>
+              <En>Describes the geographical location of a place facing another across a street or open space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
