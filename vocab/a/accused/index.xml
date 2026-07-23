@@ -1,0 +1,46 @@
+<Vocab id="df585ffa-3a57-4a92-ad0f-9865ffd47f0e" word="accused" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4bb6aea0-1a33-4005-9014-870462b60fc7" ipa="/əˈkjuːzd/" vi_ipa="ơ-khiúzd">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="32b4b7c8-c59a-478c-badc-b4afd82aa42c" type="Adjective">
+          <Vi>bị buộc tội, bị cáo buộc</Vi>
+          <En>Formally charged with a crime or fault; under accusation.</En>
+          <Example>The accused man denied all charges in court.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a8e7b06-0961-4a37-819b-5c7002ba292c">
+              <Vi>Mô tả người đang bị buộc tội trước khi xét xử.</Vi>
+              <En>Describing a person who is formally charged with a crime before trial.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="beec1149-5125-42e2-b3c8-2a6fc474d0dd" type="Noun">
+          <Vi>người bị buộc tội, bị cáo</Vi>
+          <En>A person who is accused of a crime or fault; the defendant in a legal case.</En>
+          <Example>The accused was represented by a skilled defense attorney.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52677eb4-7f91-4748-95ec-b7f95d2dab90">
+              <Vi>Dùng trong báo chí hoặc phiên tòa để chỉ người đứng trước tòa.</Vi>
+              <En>Used in legal or media contexts to refer to the person on trial.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
