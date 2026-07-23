@@ -1,0 +1,38 @@
+<Vocab id="47589078-3ae4-4dd2-813a-ce16dd43857a" word="partly" type="short" status="done">
+  <Topics>
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="922c8ef0-03b6-4d88-ba11-185e2c17cec7" ipa="/ˈpɑːrt.li/" vi_ipa="pác-tơ-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="939b3b37-8fe6-41d0-8246-9c2fc4d2ecec" type="Adverb">
+          <Vi>phần nào, một phần, một phần nào đó</Vi>
+          <En>to some extent; in part; not completely</En>
+          <Example>The project succeeded partly due to her careful planning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73104b86-05b9-4161-88b4-b4cbd3497c35">
+              <Vi>Mô tả mức độ không hoàn toàn, thường dùng để làm dịu hoặc làm rõ một tuyên bố.</Vi>
+              <En>Used to indicate that something is true to some degree but not entirely.</En>
+            </Situation>
+            <Situation id="658513be-f2f0-4ae2-a059-b5c469349fec">
+              <Vi>Trong phân tích nguyên nhân hoặc đánh giá kết quả, nhấn mạnh một yếu tố góp phần nhưng không quyết định.</Vi>
+              <En>In analysis of causes or outcomes, highlighting a contributing factor without full responsibility.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

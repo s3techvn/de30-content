@@ -1,0 +1,64 @@
+<Vocab id="ae161400-354b-4762-9f64-fc5d1dd359d4" word="trap" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="87fdd431-9e15-4285-8f27-97b5afaf025b" value="Hunting" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="90facd59-f44c-408f-b97c-4baf423b9198" value="Hunter" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="1cc51c4e-3dc2-4acc-ba64-431ea7b1adac" value="Law Enforcement Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f935acf-63a9-4614-a2c0-fad5f3de55ea" ipa="/træp/" vi_ipa="tráp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a40190d9-d61b-4a07-8d7c-fda7c14843d1" type="Noun">
+          <Vi>Bẫy (dụ hoặc giam giữ ai đó hoặc loài vật)</Vi>
+          <En>A device or strategy used to catch or confine an animal, person, or opponent, often by deception.</En>
+          <Example>The hunter set a trap to catch the fox.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60133bf5-0e56-47eb-8a30-5c855cad8e63">
+              <Vi>Sử dụng bẫy để bắt động vật hoang dã.</Vi>
+              <En>Using a physical device to capture animals, such as in wildlife management or hunting.</En>
+            </Situation>
+            <Situation id="fd583bca-6a2c-4894-8178-7433f11faf46">
+              <Vi>Đặt bẫy trong điều tra hình sự để bắt tội phạm.</Vi>
+              <En>Setting up a covert operation to catch a criminal, e.g., a sting operation.</En>
+            </Situation>
+            <Situation id="4ac0c1ac-c496-44dc-b1bc-a2df8ce0e0cc">
+              <Vi>Trở thành nạn nhân của một âm mưu hoặc lừa đảo.</Vi>
+              <En>Falling into a deceptive scheme or situation, e.g., a phishing trap.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="df3d9703-a835-4fc5-8880-e85b7c13c42f" type="Verb">
+          <Vi>Bẫy (ai đó) vào một tình huống khó thoát; đặt bẫy</Vi>
+          <En>To catch or confine someone or something in a trap; or to trick someone into a compromising or difficult situation.</En>
+          <Example>They trapped the intruder in the room until the police arrived.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26ae2625-cbdb-4b78-8d62-75fec91db51f">
+              <Vi>Đặt bẫy để bắt động vật.</Vi>
+              <En>To physically set a device to capture animals.</En>
+            </Situation>
+            <Situation id="af52923b-0c52-4007-b316-ff7bc94c7925">
+              <Vi>Lừa ai đó vào một tình huống nguy hiểm hoặc bất lợi.</Vi>
+              <En>To deceive someone into a harmful or disadvantageous situation, e.g., “He was trapped into signing the contract.”</En>
+            </Situation>
+            <Situation id="9ede2978-db48-4c98-93bc-f2c438393222">
+              <Vi>Trong lập trình: làm cho chương trình rơi vào vòng lặp vô hạn hoặc trạng thái không phản hồi.</Vi>
+              <En>In programming: to cause a process to become stuck, e.g., “The program was trapped in an infinite loop.”</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
