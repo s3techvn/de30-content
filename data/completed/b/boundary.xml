@@ -1,0 +1,40 @@
+<Vocab id="c1f4d680-8ebe-45ee-b0b1-4c153b1b0531" word="boundary" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d638d677-e63f-46e1-bb06-e5d742795a64" ipa="/ˈbaʊn.dri/" vi_ipa="ba-un-đri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddca9b76-cf16-4d75-9eef-82e8a41b623e" type="Noun">
+          <Vi>Biên giới; ranh giới; giới hạn</Vi>
+          <En>A line or border that marks the limits of an area; a limit on behavior, rights, or responsibilities.</En>
+          <Example>The property boundary is clearly marked with fence posts and stakes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02705e93-2192-4ed3-b670-283def815c83">
+              <Vi>Chia sẻ tài sản hoặc đất đai giữa hai chủ sở hữu.</Vi>
+              <En>Dividing land or property between two owners.</En>
+            </Situation>
+            <Situation id="04e7545a-9443-4d35-9ab5-e652c5990e79">
+              <Vi>Đặt giới hạn về mặt cảm xúc hoặc hành vi trong một mối quan hệ.</Vi>
+              <En>Setting emotional or behavioral limits in a relationship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
