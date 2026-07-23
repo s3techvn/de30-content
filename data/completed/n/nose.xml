@@ -1,0 +1,75 @@
+<Vocab id="887717b2-0125-41c6-8e86-517f36d551ad" word="nose" type="short" status="done">
+  <Topics>
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="31e7a32c-1f88-4406-aec1-b155ac474bda" value="Perfumer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e77ec6f8-ac91-4db8-96b3-9d545a27ce8f" ipa="/noʊz/" vi_ipa="nơ-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="38334865-162d-4125-9754-1aa8e7b246ea" type="Noun">
+          <Vi>Mũi (bộ phận trên mặt dùng để ngửi và thở)</Vi>
+          <En>The part of the face used for smelling and breathing.</En>
+          <Example>She pressed her nose against the window to get a better view.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="89cec763-3a31-4ca9-89e1-541942420a3b">
+              <Vi>Mô tả vị trí hoặc hành động liên quan đến bộ phận trên mặt.</Vi>
+              <En>Describing the position or action involving the facial feature.</En>
+            </Situation>
+            <Situation id="134a9bf6-95e7-429d-accf-35e85dbb6a8e">
+              <Vi>Người bị cảm lạnh hoặc dị ứng thường bị nghẹt mũi.</Vi>
+              <En>People with a cold or allergies often have a stuffy nose.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c3318996-61f3-4ba8-94da-641753f4fc5b" type="Noun">
+          <Vi>Mũi (phần nhô ra của một vật, như mũi thuyền hoặc mũi kim)</Vi>
+          <En>A projecting part resembling the nose of an animal or human, such as the prow of a ship or the point of a needle.</En>
+          <Example>The ship’s nose cut through the waves with surprising grace.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34efd66d-5f78-4e74-8b21-4a6749792ab7">
+              <Vi>Mô tả hình dạng hoặc cấu trúc của vật thể có phần nhô ra giống mũi.</Vi>
+              <En>Describing the shape or structure of an object with a protruding, nose-like part.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1e272f95-8d46-45eb-b404-7cd5bffe0be2" type="Verb">
+          <Vi>Ngửi (mùi) bằng mũi; dò tìm bằng cách ngửi</Vi>
+          <En>To detect or search for something by smelling.</En>
+          <Example>The dog nose-d around the garden until it found the buried bone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18939100-1ee8-4217-b3d4-714d7400e9aa">
+              <Vi>Động vật hoặc con người dùng mũi để dò tìm vật hoặc mùi.</Vi>
+              <En>An animal or person uses their nose to locate an object or scent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f2a316bb-554c-4510-9087-e6599192d5e8" type="Verb">
+          <Vi>(nghĩa bóng) tò mò, soi mói (vào chuyện riêng tư)</Vi>
+          <En>(figurative) To be overly curious or intrusive about someone else’s affairs.</En>
+          <Example>Stop nose-ing into my personal life!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67af9452-9079-4721-8e09-d881972454e0">
+              <Vi>Người khác tò mò, hỏi han chuyện riêng tư một cách phiền hà.</Vi>
+              <En>Someone is prying or asking too many personal questions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
