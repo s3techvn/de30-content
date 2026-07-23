@@ -1,0 +1,52 @@
+<Vocab id="535a2493-82d9-442e-b065-2dc3dbeca334" word="road" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="bf33168c-263f-48ff-af08-43014534bb6f" value="Delivery Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb21c6c3-8b90-43e4-91f2-ef2cec09de12" ipa="/roʊd/" vi_ipa="rờ-ốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9c6c815a-25c0-4a02-94c8-efe898efdaeb" type="Noun">
+          <Vi>Đường (để xe cộ đi lại)</Vi>
+          <En>A wide path or way, especially one made of asphalt or concrete, for vehicles and pedestrians.</En>
+          <Example>She walked along the road toward the village.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0009893-10c4-41ea-942c-00a74ff6ca72">
+              <Vi>Mô tả một con đường giao thông chính hoặc phụ trong đô thị hoặc nông thôn.</Vi>
+              <En>Describing a main or minor traffic route in urban or rural areas.</En>
+            </Situation>
+            <Situation id="9afb6ba6-d27a-4cc2-b7df-fa42a889a461">
+              <Vi>Tình huống liên quan đến xây dựng, bảo trì hoặc di chuyển trên đường.</Vi>
+              <En>Scenarios involving construction, maintenance, or travel on a road.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1e0eb295-b319-4e44-bab7-868fae3d1c19" type="Noun">
+          <Vi>Con đường (theo nghĩa bóng bẩy: con đường, hướng đi trong cuộc sống)</Vi>
+          <En>A course, direction, or method of life or development; a path toward a goal.</En>
+          <Example>He chose the road to recovery after his illness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55cc3819-160b-4b7b-94a6-bbe44322218d">
+              <Vi>Sử dụng trong ẩn dụ về hành trình cá nhân, sự nghiệp, hoặc thay đổi.</Vi>
+              <En>Used metaphorically to describe personal journeys, careers, or transformations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

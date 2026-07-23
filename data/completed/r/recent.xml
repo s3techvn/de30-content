@@ -1,0 +1,40 @@
+<Vocab id="8ac8a691-8e49-4280-9901-57fb9bd177ad" word="recent" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+    <Topic id="588fde25-d89d-4b79-9abd-cbdd95696d92" value="Time &amp; Chronology" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49668aea-f7be-4e64-a71b-de6505d943bd" ipa="/ˈriː.sənt/" vi_ipa="ri-sợnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1da14b9c-8d41-4cad-a44f-54f313fe8c8a" type="Adjective">
+          <Vi>gần đây, mới đây</Vi>
+          <En>Happening or occurring not long ago; of recent origin or development.</En>
+          <Example>She received some recent news about her job application.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="32770fe4-489b-4387-afb1-ac019008a7e9">
+              <Vi>Mô tả sự kiện xảy ra trong vài ngày hoặc vài tuần gần đây.</Vi>
+              <En>Describes an event that occurred within the past few days or weeks.</En>
+            </Situation>
+            <Situation id="aba05f1b-5edb-482e-bab2-d6146924253b">
+              <Vi>Dùng để chỉ tài liệu, nghiên cứu, hoặc dữ liệu cập nhật gần đây.</Vi>
+              <En>Used to refer to documents, research, or data that are up to date or recently published.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
