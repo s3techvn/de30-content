@@ -1,0 +1,34 @@
+<Vocab id="179a0676-7e2b-4afa-90b7-9c8c27865fef" word="gnu" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="aeaedc5c-09dc-45f7-a3bc-b053e80c0ba1" value="Wildlife Photographer" />
+    <Profession id="02c5f2d0-55c5-4ebc-adce-2be266b6a7aa" value="Conservationist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25fbcfa6-e8ce-4abc-9be9-dd7a2369a67b" ipa="/njuː/" vi_ipa="nhi-u">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="574227b1-1242-4015-b1dc-fc47dae66863" type="Noun">
+          <Vi>con linh dương đầu bò (một loài động vật có vú lớn ở châu Phi, có sừng cong và đầu rộng như đầu bò)</Vi>
+          <En>a large African antelope with a broad head and curved horns, also known as the wildebeest</En>
+          <Example>The safari guide pointed out a herd of gnus migrating across the Serengeti plains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c2b51603-7e75-46ea-8b4d-a5410abe3bbc">
+              <Vi>Mô tả loài động vật hoang dã khi đi săn ảnh hoặc tham quan công viên quốc gia ở châu Phi.</Vi>
+              <En>Describing the animal during a wildlife safari or visit to a national park in Africa.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

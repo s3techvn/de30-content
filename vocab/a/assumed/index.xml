@@ -1,0 +1,33 @@
+<Vocab id="1508d0aa-52db-4fcb-a075-2d7bed347085" word="assumed" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c8add2dc-5eb4-49d2-8704-db06c1975e12" ipa="/əˈsuːmd/" vi_ipa="ơ-đờ-sờ-mẹt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="badb7390-4383-46f3-a2f1-5c381ff15f0f" type="Adjective">
+          <Vi>giả định, được cho là, được nhận định (không có bằng chứng rõ ràng)</Vi>
+          <En>Supposed or taken for granted without proof; based on an assumption.</En>
+          <Example>He was the assumed leader of the group, though no formal election had taken place.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c9cd6a9-8efb-4f1b-af52-54ff08cc39c9">
+              <Vi>Mô tả một người hoặc điều gì được người khác tin là đúng mà không có bằng chứng xác thực.</Vi>
+              <En>Describing a person or thing that others believe to be true without concrete evidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
