@@ -735,4 +735,5 @@
   <Profession id="b85f27ac-538e-4a94-956f-3cc54ef7a1a0" slug="organist" value="Organist" />
   <Profession id="2495fdc8-db22-477e-88ee-07c88610cf64" slug="corporate-executive" value="Corporate Executive" />
   <Profession id="33f3a3d1-aa7f-4ab1-9815-9cfa07f7a612" slug="typist" value="Typist" />
+  <Profession id="ba1f0b5f-a4c6-4d4a-9d94-299ca9c2fd10" slug="media-producer" value="Media Producer" />
 </Professions>

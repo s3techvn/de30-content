@@ -1,0 +1,56 @@
+<Vocab id="eed043eb-a7ff-4661-899c-53fe7e376550" word="streaming" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="899c236c-45d0-4e42-b26a-8fb871dc0c9e" value="Internet" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+    <Profession id="ba1f0b5f-a4c6-4d4a-9d94-299ca9c2fd10" value="Media Producer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1400f0b5-ee57-4968-8405-45de15d15882" ipa="/ˈstriːm.ɪŋ/" vi_ipa="stri-ming">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="78aac1e9-4fb4-48b7-802e-6e79773f7107" type="Noun">
+          <Vi>luồng dữ liệu (đặc biệt là âm thanh hoặc video được truyền trực tuyến theo thời gian thực)</Vi>
+          <En>the continuous transmission of data, especially audio or video, from one point to another over the internet without requiring the user to download the entire file first</En>
+          <Example>Netflix offers high-quality streaming of movies and TV shows.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20859842-3350-4550-b7eb-682afc12dd3f">
+              <Vi>Người dùng xem phim trực tuyến mà không cần tải về máy.</Vi>
+              <En>A user watches a movie online without downloading it first.</En>
+            </Situation>
+            <Situation id="66263547-3d81-439d-8054-131816088797">
+              <Vi>Phát trực tiếp một buổi hòa nhạc qua internet.</Vi>
+              <En>Broadcasting a live concert over the internet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7b1c7663-f33f-4386-a9e0-0b3bcc195b5a" type="Verb (present participle/gerund)">
+          <Vi>phát (âm thanh/video) trực tuyến theo thời gian thực; truyền phát trực tiếp</Vi>
+          <En>to transmit data, especially audio or video, over the internet in real time for immediate playback</En>
+          <Example>She is streaming her gameplay on Twitch right now.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ebd0ca5-2128-4fd9-b63a-d293e2931ae9">
+              <Vi>Người dùng phát trực tiếp video lên YouTube.</Vi>
+              <En>A user uploads and broadcasts video live to YouTube.</En>
+            </Situation>
+            <Situation id="e577df71-d780-4e5c-93a0-bd71df80b0c4">
+              <Vi>Ứng dụng cho phép phát lại nhạc từ máy chủ mà không tải về.</Vi>
+              <En>The app allows music to be played back from a server without downloading.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
