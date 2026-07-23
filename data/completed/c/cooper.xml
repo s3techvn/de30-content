@@ -1,0 +1,33 @@
+<Vocab id="436dc2c1-85de-4369-8742-25c3696d6e24" word="cooper" type="short" status="done">
+  <Topics>
+    <Topic id="1e4fb0a4-977f-4e53-a1c0-a184033d0420" value="Crafts and Trades" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="9c60c73f-b79d-4117-a2dc-413329c2a98b" value="Traditional Artisan" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b61bc491-5424-4c8e-b2a0-8c4b74f60acf" ipa="/ˈkuː.pər/" vi_ipa="cú-pơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b42e374-b8cd-40c5-a5c0-f09e8664b538" type="Noun">
+          <Vi>Thợ làm chậu, thùng, nồi đồng (ngành đóng thùng gỗ truyền thống)</Vi>
+          <En>A craftsman who makes or repairs wooden barrels, casks, and other containers made of staves and hoops.</En>
+          <Example>The cooper built a sturdy oak barrel to store wine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39fd6e38-82b7-4827-a237-ccb25de2c9a3">
+              <Vi>Người thợ sử dụng dụng cụ truyền thống để uốn và ghép các nan gỗ thành hình tròn, gắn vòng sắt giữ cố định.</Vi>
+              <En>A craftsman uses traditional tools to bend and assemble wooden staves into cylindrical shapes, secured with metal hoops.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
