@@ -1,0 +1,37 @@
+<Vocab id="5f480f96-7bc7-44de-81fd-f55ac0414d76" word="joyce" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="9c3ea2fd-e3e1-4cd4-9f0b-8e16219b2afb" value="Literary Scholar" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="11ac293f-3aed-422b-88b1-706f4d28f7e2" ipa="/dʒɔɪs/" vi_ipa="gi-ốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="284a1798-a2ef-46c8-8bb9-d4f5bc78d8c3" type="Proper Noun">
+          <Vi>Tên riêng: James Joyce, nhà văn hiện đại nổi tiếng người Ireland</Vi>
+          <En>A proper noun referring to James Joyce (1882–1941), the influential Irish modernist writer.</En>
+          <Example>James Joyce’s novel *Ulysses* is considered one of the greatest works of 20th-century literature.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b17c828e-02e0-44d3-a907-639d515c9a00">
+              <Vi>Thảo luận về văn học hiện đại, đặc biệt là các tác giả Ireland.</Vi>
+              <En>Discussions of modernist literature, especially Irish authors.</En>
+            </Situation>
+            <Situation id="e60995b4-2d35-4dfc-875f-8db861fb1ceb">
+              <Vi>Trong ngữ cảnh học thuật, nghiên cứu văn học hoặc triết học.</Vi>
+              <En>In academic contexts, literary or philosophical scholarship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

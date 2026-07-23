@@ -1,0 +1,33 @@
+<Vocab id="42a24323-6542-422d-bac6-f7a8846ca2ac" word="dell" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="32d461ce-6acf-46bb-9591-35c71f9c4fd2" ipa="/dɛl/" vi_ipa="đen">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ffa1a14-0f35-4193-9760-b284a8cd038d" type="Noun">
+          <Vi>thung lũng nhỏ, thung lũng tròn thường có sông hoặc suối chảy qua</Vi>
+          <En>a small, rounded valley, typically with a stream or river running through it</En>
+          <Example>The hikers followed the trail that wound through a secluded dell beside the river.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97166911-2a39-4908-9bf7-723e2d10fe64">
+              <Vi>Mô tả một địa hình tự nhiên nhỏ, thường được dùng trong văn học mô tả cảnh quan thiên nhiên yên bình.</Vi>
+              <En>Used in literature or nature writing to describe a small, sheltered natural valley.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
