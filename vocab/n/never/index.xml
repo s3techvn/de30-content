@@ -1,0 +1,36 @@
+<Vocab id="420812bd-cbad-4a6d-8359-5e2b9cbb6bff" word="never" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8738282-5c7b-44e1-8278-e1f4d8a58685" ipa="/ˈnev.ɚ/" vi_ipa="nờ-vờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="61254b45-fb81-4000-81ae-e76f9867b305" type="Adverb">
+          <Vi>không bao giờ, chẳng bao giờ</Vi>
+          <En>at no time; not ever</En>
+          <Example>I will never forget what you did for me.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e8919467-fc05-4399-82f8-9e79b2ad7e49">
+              <Vi>Thể hiện sự khẳng định tuyệt đối về việc điều gì đó sẽ không xảy ra trong tương lai hoặc đã không xảy ra trong quá khứ.</Vi>
+              <En>Expresses absolute certainty that something will not happen in the future or did not happen in the past.</En>
+            </Situation>
+            <Situation id="cd3ced7a-a1c6-46bb-a51b-869568fcedb6">
+              <Vi>Dùng trong phản bác hoặc phủ định mạnh một khả năng hoặc kinh nghiệm.</Vi>
+              <En>Used to strongly refute a possibility or past experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
