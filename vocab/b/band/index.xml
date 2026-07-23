@@ -1,0 +1,60 @@
+<Vocab id="f5eec6c9-1ef5-4608-9a0b-331cd3f733fd" word="band" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="59632c5d-f95c-4ed3-a996-5ff5b1ed4e7a" ipa="/bænd/" vi_ipa="banh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="99b03d5a-35a1-4006-9183-c751d5edf4f6" type="Noun">
+          <Vi>Cuộn dây, dải, dải ruy-băng; dải tần; nhóm nhạc</Vi>
+          <En>A strip of material used for binding, a decorative ribbon, a range of frequencies in physics, or a group of musicians who play together.</En>
+          <Example>She tied the package with a red ribbon band.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3a9eb01-9aab-42cf-b365-813f7c9ebcff">
+              <Vi>Người ta dùng dải ruy-băng để trang trí hoặc buộc đồ vật.</Vi>
+              <En>A ribbon or strip of material is used for decoration or binding.</En>
+            </Situation>
+            <Situation id="54e48709-b957-4642-aae3-76aed9ce8474">
+              <Vi>Nhóm nhạc đường phố biểu diễn tại quảng trường.</Vi>
+              <En>A street band performs in the town square.</En>
+            </Situation>
+            <Situation id="c93517b3-0dcc-48c2-9d7c-0ec140e08a31">
+              <Vi>Trong vật lý, dải tần 2.4 GHz được dùng cho Wi-Fi.</Vi>
+              <En>In physics, the 2.4 GHz frequency band is used for Wi-Fi.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b3638199-8b07-4df5-bbc3-5abab47bad4c" type="Verb">
+          <Vi>Bọc, quấn, buộc bằng dải; hợp lại thành nhóm</Vi>
+          <En>To wrap or bind something with a band; to form or join together as a group.</En>
+          <Example>The soldiers were banded together to defend the village.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9cd3cf7-f561-4823-b2b2-000ccbd9905f">
+              <Vi>Nhân viên các phòng ban được band lại thành một nhóm làm việc chung.</Vi>
+              <En>Staff from different departments were banded together into one working group.</En>
+            </Situation>
+            <Situation id="b2e5bf0d-2904-485c-b2e7-4ef194133251">
+              <Vi>Cô ấy band chiếc khăn quanh đầu để giữ tóc gọn gàng.</Vi>
+              <En>She banded the scarf around her head to keep her hair neat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

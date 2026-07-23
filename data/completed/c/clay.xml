@@ -1,0 +1,53 @@
+<Vocab id="0a28e966-4e28-4274-87f9-7fd0291170df" word="clay" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="5ed5c5ab-3394-4a30-97c1-e70c6ac8b2ce" value="Art &amp; Craft" />
+    <Topic id="0c858101-dd75-42ca-b708-c64e996cac8c" value="Geology" />
+  </Topics>
+  <Professions>
+    <Profession id="8448d274-ee36-4c64-bcdc-c4bc3bdc2107" value="Potter" />
+    <Profession id="9686b4e0-0ba5-4f78-a870-3c6333625767" value="Sculptor" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89951e7e-da0b-4055-8f1d-61424f6adef0" ipa="/kleɪ/" vi_ipa="cley">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="75879a2e-db55-4add-8f4f-599f2e160db9" type="Noun">
+          <Vi>Đất sét</Vi>
+          <En>Soft, sticky earth that becomes hard when dried or heated; a fine-grained natural soil material.</En>
+          <Example>She molded the clay into a beautiful vase.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7dcfec74-ba99-4b3d-b4aa-fd14c39e80d5">
+              <Vi>Người làm gốm nhào nặn đất sét để tạo hình.</Vi>
+              <En>A potter kneads clay to shape pottery.</En>
+            </Situation>
+            <Situation id="688732c0-51cc-41e3-91fc-8fa03072240d">
+              <Vi>Đất sét ẩm thường xuất hiện sau mưa lớn.</Vi>
+              <En>Wet clay often appears after heavy rain.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cb13e795-1124-47da-b345-d30136c6ea85" type="Noun">
+          <Vi>Đất sét (trong nghĩa ẩn dụ: người uỷ nhiệm, người phụ thuộc)</Vi>
+          <En>Figuratively: a person who is easily influenced or controlled by others.</En>
+          <Example>He was like clay in her hands—easily shaped by her suggestions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a53d246d-2acd-4c58-bf5c-f35d78b39797">
+              <Vi>Cô ấy đối xử với đồng nghiệp như đất sét trong tay người tạo hình.</Vi>
+              <En>She treated her colleagues like clay in her hands—malleable and moldable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
