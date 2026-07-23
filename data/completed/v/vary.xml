@@ -1,0 +1,38 @@
+<Vocab id="7f09dd32-6c64-40c8-a0fe-1b72f8b5a845" word="vary" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a760b0c-3f07-4a98-a6c5-0c1dddf8026a" ipa="/ˈveə.ri/" vi_ipa="vê-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddf60db2-3a86-4f76-bdc0-91afb123b650" type="Verb">
+          <Vi>thay đổi, khác nhau</Vi>
+          <En>To be different in size, amount, degree, or nature; to change or differ from a standard or from one another.</En>
+          <Example>The menu varies depending on the season.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="572be25e-b3db-4b26-ae2a-bcdb30457603">
+              <Vi>Mô tả sự khác biệt giữa các yếu tố trong cùng một loại (ví dụ: giá cả, kích thước, màu sắc).</Vi>
+              <En>Describing differences among items of the same category (e.g., price, size, color).</En>
+            </Situation>
+            <Situation id="a5017acf-f000-414e-8f7f-15ca76e52011">
+              <Vi>Chỉ sự thay đổi theo điều kiện hoặc hoàn cảnh (thời tiết, mùa vụ, sở thích cá nhân).</Vi>
+              <En>Indicating change according to conditions or circumstances (weather, season, personal preferences).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
