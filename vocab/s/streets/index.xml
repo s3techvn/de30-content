@@ -1,0 +1,40 @@
+<Vocab id="ebc8f970-8246-49f2-a31c-324c600fb76b" word="streets" type="short" status="done">
+  <Topics>
+    <Topic id="13224e58-e6a4-48bb-b8a8-86854d94131f" value="Urban Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="bf33168c-263f-48ff-af08-43014534bb6f" value="Delivery Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="547060c1-310a-42d1-aa84-c4ec69db6898" ipa="/striːts/" vi_ipa="stri-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8bdaf203-e3b8-4ff6-9ff1-358a0ff053eb" type="Noun">
+          <Vi>đường phố (số nhiều)</Vi>
+          <En>The public roads in a city or town, typically with buildings on one or both sides.</En>
+          <Example>She walked home along the quiet streets of the old quarter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf7a61a8-ac0f-4c98-87b5-5bd9e9491ebb">
+              <Vi>Mô tả các con đường trong khu dân cư hoặc trung tâm thành phố.</Vi>
+              <En>Describing roads in residential areas or city centers where people walk, drive, or live.</En>
+            </Situation>
+            <Situation id="c9d3eb98-e01a-4704-b451-be6168bfc295">
+              <Vi>Chỉ các tuyến đường có đèn giao thông, vỉa hè, và phương tiện qua lại.</Vi>
+              <En>Referring to roads equipped with traffic lights, sidewalks, and vehicle traffic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
