@@ -1266,3 +1266,4 @@ ada
 shed
 store
 antarctica
+counting

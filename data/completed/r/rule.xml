@@ -1,0 +1,56 @@
+<Vocab id="9201efe1-d5c3-4d0c-ae54-981e74b9784c" word="rule" type="short" status="done">
+  <Topics>
+    <Topic id="ffd7e5f9-8473-429d-a552-4dc3a5ad28dc" value="Law &amp; Governance" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8953ce0-6776-41c5-8714-e9d4ef12a08b" ipa="/ruːl/" vi_ipa="rư-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2264c359-3243-4667-8e35-bbab3fec57a6" type="Noun">
+          <Vi>quy tắc; luật lệ; nguyên tắc</Vi>
+          <En>A principle, regulation, or guideline that governs conduct or procedure.</En>
+          <Example>The school has strict rules about mobile phone usage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7bbf0d80-0b8b-424f-9314-2c6fd46e7646">
+              <Vi>Một quy định chính thức được áp dụng trong tổ chức hoặc xã hội.</Vi>
+              <En>A formal regulation applied within an organization or society.</En>
+            </Situation>
+            <Situation id="d8e10e17-5100-497f-8eee-04d584cb3b13">
+              <Vi>Nguyên tắc cơ bản điều khiển cách thức hoạt động của một hệ thống.</Vi>
+              <En>A fundamental principle controlling how a system operates.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fa9f9add-c74c-40f2-9413-a10a9d8bd32f" type="Verb">
+          <Vi>điều hành; cai trị; quy định; áp đặt quy tắc</Vi>
+          <En>To govern or control by authority; to establish and enforce rules.</En>
+          <Example>The king ruled the kingdom for over thirty years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b179577-8a26-41b0-a7e4-7a50d2b7b1d1">
+              <Vi>Hành động quản lý hoặc kiểm soát một quốc gia hoặc tổ chức.</Vi>
+              <En>The act of managing or controlling a country or organization.</En>
+            </Situation>
+            <Situation id="37db9fe6-ffee-44e5-b9a5-548d53b03136">
+              <Vi>Đặt ra và thực thi các quy định trong một hoàn cảnh cụ thể.</Vi>
+              <En>To set and enforce rules in a specific context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
