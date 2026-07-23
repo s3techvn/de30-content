@@ -1,0 +1,56 @@
+<Vocab id="7a1df16f-5ed0-4a9c-866e-78b05c8020d1" word="wheel" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="452a63f0-5d0a-4ecf-bc54-51dcf224ac01" value="Automotive Engineer" />
+    <Profession id="e4282717-a360-470c-912c-c442956e683a" value="Cyclist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bbdd4c55-3c44-4739-b8da-5cb9ee59eda9" ipa="/wɛl/" vi_ipa="oen">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e88c2f68-d047-4d93-859a-d38eadb28f31" type="Noun">
+          <Vi>Bánh xe</Vi>
+          <En>A circular object that rotates on an axle and is used for transportation or machinery.</En>
+          <Example>The car stopped because one of the wheels was flat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5efeda0-5266-4394-b07a-d8001a0caf1d">
+              <Vi>Mô tả một chiếc xe đang di chuyển hoặc bị hỏng do lốp xẹp.</Vi>
+              <En>A scenario involving vehicle movement or mechanical failure related to tires.</En>
+            </Situation>
+            <Situation id="e3266cb7-37be-4483-b35b-788eddfcdbf8">
+              <Vi>Hướng dẫn cách thay lốp xe khi bị xịt.</Vi>
+              <En>A step-by-step guide for changing a car tire after a puncture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1569d32c-8e28-486b-b042-7b55a7e54c0e" type="Verb">
+          <Vi>Đưa đi nhanh; quay tròn</Vi>
+          <En>To move or cause something to move quickly, often with a spinning motion; to rotate rapidly.</En>
+          <Example>He wheeled the suitcase through the airport.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd307c92-eb85-4af1-b444-2c6501fe63bc">
+              <Vi>Mô tả việc di chuyển vali có bánh xe trong sân bay.</Vi>
+              <En>Describing the act of rolling a wheeled suitcase through an airport terminal.</En>
+            </Situation>
+            <Situation id="71890cf1-da7b-4257-9426-7f6e413760a4">
+              <Vi>Mô tả một người quay nhanh trong khi khiêu vũ.</Vi>
+              <En>Describing someone spinning quickly during a dance move.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
