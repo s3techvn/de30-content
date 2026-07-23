@@ -1,0 +1,54 @@
+<Vocab id="b9943bfd-d19e-46e1-9151-0107c1a28350" word="muscle" type="short" status="done">
+  <Topics>
+    <Topic id="8279f5de-c99d-410b-9268-00355e053853" value="Anatomy &amp; Health" />
+  </Topics>
+  <Professions>
+    <Profession id="4fde2ef3-ab77-4056-a32f-06f650cf002f" value="Physiotherapist" />
+    <Profession id="391eda84-c02f-4e03-9a2e-c41c23e55236" value="Personal Trainer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5df06b6-df8f-494c-94bc-3307a3c64ca6" ipa="/ˈmʌs.əl/" vi_ipa="mác-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0db656ea-8725-43f3-86c3-b97ad3c46827" type="Noun">
+          <Vi>cơ (bắp thịt)</Vi>
+          <En>A band or bundle of fibrous tissue in the human or animal body that has the ability to contract, producing movement and maintaining posture.</En>
+          <Example>He strengthened his core muscles during the workout.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3813d976-153a-460d-bcb8-fe2f9d79ecce">
+              <Vi>Mô tả cấu trúc sinh học trong cơ thể người hoặc động vật.</Vi>
+              <En>Referring to anatomical tissue responsible for bodily movement.</En>
+            </Situation>
+            <Situation id="ed18e672-6bda-4bfd-b72b-fc1a250317da">
+              <Vi>Dùng trong ngữ cảnh thể hình, tập luyện, vật lý trị liệu.</Vi>
+              <En>Commonly used in fitness, physical therapy, and sports contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6fe4cc39-734b-4a92-8b1e-d1e4cf8a2a45" type="Verb">
+          <Vi>co cơ, căng cơ; dùng sức (để làm gì đó)</Vi>
+          <En>To contract or tense a muscle, especially deliberately or forcefully; to exert effort or strength.</En>
+          <Example>She muscled the heavy box onto the shelf.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0dad4888-e950-49d2-95e7-c127e24bae7a">
+              <Vi>Mô tả hành động co cơ hoặc căng cơ cố ý.</Vi>
+              <En>Describing the deliberate tensing or contracting of muscles.</En>
+            </Situation>
+            <Situation id="97b294dc-958c-4d2b-a372-b3223bd63d52">
+              <Vi>Dùng ẩn dụ để chỉ việc dùng sức hoặc nỗ lực mạnh mẽ.</Vi>
+              <En>Used metaphorically to mean exerting force or effort, often persistently.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
