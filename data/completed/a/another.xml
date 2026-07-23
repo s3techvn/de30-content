@@ -1,0 +1,54 @@
+<Vocab id="d1919c7f-72e7-4f34-80e7-478919336c0d" word="another" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b176b9c9-3984-4338-812e-55fbb65c3d2b" ipa="/əˈnʌð.ər/" vi_ipa="ơ-nơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddea0484-4f6b-4b57-b676-05f7b9a9e8eb" type="Adjective">
+          <Vi>một khác, một nữa, thêm một</Vi>
+          <En>one more; an additional one of the same kind.</En>
+          <Example>I'd like another cup of coffee, please.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d0d4dd8-da4f-4244-b649-3d747b5892bc">
+              <Vi>Yêu cầu thêm một món tương tự đã được phục vụ trước đó.</Vi>
+              <En>Requesting an additional item of the same type already served or provided.</En>
+            </Situation>
+            <Situation id="69d9f7ee-b75a-4a51-938e-1547f0cb8777">
+              <Vi>So sánh hoặc phân biệt giữa hai hoặc nhiều đối tượng tương tự.</Vi>
+              <En>Distinguishing between two or more similar items or options.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="59f29c7e-9737-4cd9-8302-632fad6b8eeb" type="Pronoun">
+          <Vi>một người khác, một thứ khác</Vi>
+          <En>someone or something different or additional.</En>
+          <Example>If you don’t like this shirt, try another.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="afb1f63d-5526-4b40-b4df-3c0f814217bc">
+              <Vi>Đề xuất lựa chọn thay thế trong ngữ cảnh mua sắm hoặc chọn lựa.</Vi>
+              <En>Suggesting an alternative option in shopping or decision-making contexts.</En>
+            </Situation>
+            <Situation id="807514d6-8b2b-41f0-9fa3-0acbd5696c21">
+              <Vi>Chỉ một cá nhân hoặc vật khác trong một nhóm đã được nhắc đến.</Vi>
+              <En>Referring to a different person or thing within a previously mentioned group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
