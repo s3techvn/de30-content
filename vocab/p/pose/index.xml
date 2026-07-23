@@ -1,0 +1,57 @@
+<Vocab id="ab214bb1-3f8c-468f-bf04-4c15bff28c09" word="pose" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="db90f1c1-1404-439a-8d7f-f8cbbf602887" value="Art &amp; Photography" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="464f867b-7226-4691-8eca-0dcd23007caa" ipa="/poʊz/" vi_ipa="pơ-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="64def8e3-570c-4760-9cf7-e2c0162185a9" type="Verb">
+          <Vi>đứng, ngồi, hoặc giữ một tư thế cụ thể (thường để chụp ảnh, biểu diễn, hoặc thể hiện thái độ)</Vi>
+          <En>to assume a particular posture, especially for artistic or dramatic effect, or to be positioned in a specific way</En>
+          <Example>She posed for the photographer in front of the Eiffel Tower.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56095f3f-137d-4c65-a4ed-bbbcbb37a1b6">
+              <Vi>Người mẫu giữ tư thế đẹp để chụp ảnh</Vi>
+              <En>A model holds a stylish posture for a photo shoot</En>
+            </Situation>
+            <Situation id="ef73371b-0121-40fa-86f9-c36b71c1f244">
+              <Vi>Giả vờ hoặc biểu lộ thái độ (thường để gây ấn tượng hoặc đùa vui)</Vi>
+              <En>To pretend or feign a certain attitude, often for effect or humor</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5f2b4abd-31cb-434c-b7e2-28f4b040f298" type="Noun">
+          <Vi>trạng thái đứng hoặc giữ tư thế; tư thế; thái độ giả vờ</Vi>
+          <En>a particular posture or stance, especially one adopted for artistic, dramatic, or deceptive purposes</En>
+          <Example>The statue’s pose suggests calm and dignity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="453e9d95-439c-47b2-af0f-ac5b05c7f9d4">
+              <Vi>Tư thế của một bức tượng hoặc bức ảnh</Vi>
+              <En>The posture of a statue or photograph</En>
+            </Situation>
+            <Situation id="aba1abf9-7b78-4d8f-81ee-30563ae32e71">
+              <Vi>Thái độ giả tạo để gây ấn tượng hoặc đánh lừa</Vi>
+              <En>A false or pretentious attitude adopted to impress others</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
