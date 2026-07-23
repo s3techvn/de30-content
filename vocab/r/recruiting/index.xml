@@ -1,0 +1,56 @@
+<Vocab id="c1b53f69-91fe-497f-b8af-568cd8fa3a8f" word="recruiting" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="3722e6e5-d215-487b-b80d-2f7247cbce68" value="Human Resources" />
+    <Topic id="15fc4cbe-2431-4e2f-8a14-dc61f1578c31" value="Employment" />
+  </Topics>
+  <Professions>
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+    <Profession id="587267fc-3e6f-4bba-9f13-35d519a61c05" value="Hiring Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c0f0a3d-c4e6-4cbf-9f5d-ec0a64c40fa3" ipa="/rɪˈkrut.ɪŋ/" vi_ipa="rị-khui-tíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d930dcd0-d630-43fb-9d5b-c5a81470765a" type="Verb">
+          <Vi>tuyển dụng</Vi>
+          <En>the action of finding and hiring new employees, especially for a company or organization</En>
+          <Example>Our HR team is currently focused on recruiting for the new marketing division.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd586703-15c2-456b-9400-9325901ea7a6">
+              <Vi>Tình huống công ty đang tìm kiếm và phỏng vấn ứng viên cho vị trí kỹ sư phần mềm.</Vi>
+              <En>The company is conducting interviews and evaluating candidates for a software engineer position.</En>
+            </Situation>
+            <Situation id="a86d9a47-60e7-462d-a2ed-aad2e096eae3">
+              <Vi>Tình huống nhà tuyển dụng đăng tin tuyển dụng trên các nền tảng việc làm.</Vi>
+              <En>An employer posts job listings on online job boards to attract applicants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6375f2d2-3d54-4e62-a8f8-6f11ca9e7970" type="Noun">
+          <Vi>sự tuyển dụng</Vi>
+          <En>the process or activity of finding and hiring new staff</En>
+          <Example>The success of the project depended heavily on the speed and quality of the recruiting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4d850ddc-d5f9-436d-83aa-85f3bc3d27e4">
+              <Vi>Tình huống phòng nhân sự đánh giá hiệu quả chiến dịch tuyển dụng quý vừa qua.</Vi>
+              <En>The HR department reviewed the effectiveness of the recent recruiting campaign.</En>
+            </Situation>
+            <Situation id="2b3c8016-4548-4b84-83d8-941b7e6247e7">
+              <Vi>Tình huống công ty tăng ngân sách cho recruiting để thu hút nhân tài.</Vi>
+              <En>The company increased its budget for recruiting to attract top talent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
