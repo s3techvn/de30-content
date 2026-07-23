@@ -1,0 +1,54 @@
+<Vocab id="5aeb006e-38a6-4e48-9fed-97d5b7dbf28d" word="and" type="short" status="done">
+  <Topics>
+    <Topic id="67523d33-9668-44d7-8644-2eeaeb791acb" value="Basic Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="1e312274-1b03-4b8f-b7f8-0fc6adc4191d" value="All Professions" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="77559d65-144d-4a92-9262-32895a7c8e4b" ipa="/ənd/" vi_ipa="ân-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67bd7fa4-258c-4a36-a5dd-ca7e6a4ef656" type="Conjunction">
+          <Vi>và</Vi>
+          <En>Used to connect words, phrases, clauses, or sentences that are related or added together.</En>
+          <Example>She bought apples and oranges.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="569221f4-5476-4691-b8ef-77a97ff8fd19">
+              <Vi>Dùng để nối hai hoặc nhiều từ, cụm từ, mệnh đề có cùng vai trò trong câu.</Vi>
+              <En>Used to join two or more words, phrases, or clauses of equal grammatical status.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="8e862ddf-79cc-424b-851a-786261308432" ipa="/ænd/" vi_ipa="ép-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ec10df4a-c2f0-43ba-812d-08dd5d1c6a79" type="Conjunction">
+          <Vi>và (được phát âm rõ ràng hơn khi nhấn mạnh hoặc ở cuối câu)</Vi>
+          <En>Used in formal or emphatic speech, especially at the end of a list or for emphasis.</En>
+          <Example>He likes tea, coffee, and.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="807d156d-7b06-41dd-b4da-a770e0230548">
+              <Vi>Dùng khi nhấn mạnh hoặc trong văn phong trang trọng, thường ở cuối danh sách.</Vi>
+              <En>Used for emphasis or in formal contexts, especially before the final item in a list (Oxford comma context).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

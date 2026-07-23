@@ -1,0 +1,80 @@
+<Vocab id="58f5973a-c9f0-4bec-9c6a-4d4af6674766" word="hook" type="short" status="done">
+  <Topics>
+    <Topic id="064f63ed-7d75-40d6-b9b5-5e579e1aba67" value="Fishing" />
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="acf85b01-ff71-49bb-89cb-772e645b788b" value="Everyday Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="46ba193b-192f-4788-adc1-80ad6f2e3068" value="Security Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bae51405-9861-4ee8-9a02-e10cb15ef39c" ipa="/hʊk/" vi_ipa="húc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a3ac212c-0801-4109-ad42-7492581ff1ee" type="Noun">
+          <Vi>Cái móc, cái câu (dụng cụ dạng cong, dùng để treo, buộc, hoặc câu cá)</Vi>
+          <En>A curved or bent piece of metal or plastic, used for hanging things, catching fish, or catching someone’s attention.</En>
+          <Example>She hung her coat on the hook behind the door.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="006e9901-b55f-4dcf-a077-232fe66975d5">
+              <Vi>Trong nhà bếp, treo dao hoặc nồi lên móc trên tường.</Vi>
+              <En>Using wall-mounted hooks to hang kitchen utensils.</En>
+            </Situation>
+            <Situation id="28e8491f-0f7e-42aa-a9da-4e28af5f167b">
+              <Vi>Trong câu cá, dùng móc câu để nhử cá ăn mồi.</Vi>
+              <En>Attaching bait to a fishing hook to catch fish.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bc9aca05-5bf7-4292-ad04-32ef492e4487" type="Verb">
+          <Vi>Đeo móc, treo bằng móc; câu cá bằng móc; làm bẫy, dụ (ai đó)</Vi>
+          <En>To hang or attach something using a hook; to catch fish with a hook; to attract and hold someone’s interest.</En>
+          <Example>The TV show hooked me with its thrilling plot.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7928ed41-12dc-450e-9e1e-ec103b212c91">
+              <Vi>Đeo chìa khóa vào móc trên cửa.</Vi>
+              <En>Hooking your keys on the hook by the door.</En>
+            </Situation>
+            <Situation id="735b37a4-960a-4cc2-8ec8-eebd34a00ada">
+              <Vi>Người bán hàng dùng lời nói hấp dẫn để dụ khách hàng mua hàng.</Vi>
+              <En>A salesperson using an engaging pitch to hook a customer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="e0e9df48-b023-45f7-91d9-16ed97d6b095" ipa="/hʊk/" vi_ipa="húc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c3135267-f0b6-4da3-a352-03369b47478e" type="Noun">
+          <Vi>Móc (trong phần đầu của một câu chuyện, bài nói, v.v.) – phần gây tò mò, thu hút người nghe</Vi>
+          <En>The opening part of a story, speech, or article that is designed to capture the audience’s interest.</En>
+          <Example>The article began with a strong hook to draw readers in.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="537220a9-8787-4167-ae7f-fbe09699c816">
+              <Vi>Người phát biểu mở đầu bằng một câu hỏi gây tò mò để làm “móc” sự chú ý.</Vi>
+              <En>A speaker starts with a surprising question to create a compelling hook.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
