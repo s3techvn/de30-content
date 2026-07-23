@@ -1,0 +1,40 @@
+<Vocab id="ebc624e1-a16c-4505-aa02-3fa8afe9d80f" word="suspected" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="73557f49-4f53-49de-861d-46d819311cd4" value="Detective" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ddfe07ab-4ffb-4139-87a3-6b94f643a82c" ipa="/səˈspɛktɪd/" vi_ipa="sờ-sợ-kết-tí-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="863e748c-68b7-4d7b-b545-afc72f0f34c4" type="Adjective">
+          <Vi>Bị nghi là</Vi>
+          <En>Considered likely to be the case or responsible for something, especially something wrong or illegal, though not proven.</En>
+          <Example>The police have a list of suspected terrorists currently under surveillance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a23bd60d-4ebb-4ed9-b395-d5e834739d1d">
+              <Vi>Trong điều tra hình sự, khi có bằng chứng gián tiếp khiến cơ quan chức năng tin rằng một người có thể liên quan đến tội phạm.</Vi>
+              <En>In criminal investigation, when indirect evidence leads authorities to believe someone may be involved in a crime.</En>
+            </Situation>
+            <Situation id="9b58d30c-044a-4f08-bdbf-9094383f8adc">
+              <Vi>Khi một người được cho là có thể đã gây ra tai nạn, dù chưa có kết luận chính thức.</Vi>
+              <En>When someone is believed to have possibly caused an accident, though no official conclusion has been reached.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

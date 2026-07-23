@@ -1,0 +1,40 @@
+<Vocab id="729922eb-626e-4d97-af78-e0620c7c8c20" word="gasoline" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="9d9cd7b2-c2e2-4518-a7b0-a17b2f424951" value="Energy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="2cda5b8d-cf19-4c22-9593-aaac92a8c889" value="Petroleum Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1cb550c0-9e6c-4547-a0c0-df8c61cfa436" ipa="/ˈɡæs.əl.iːn/" vi_ipa="gát-xô-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1e7668d2-1e1e-44aa-9631-6ecc4a606c8c" type="Noun">
+          <Vi>Xăng (dùng để chạy xe ô tô, xe máy, máy phát điện...)</Vi>
+          <En>A flammable liquid derived from petroleum, used primarily as fuel in internal combustion engines.</En>
+          <Example>She filled the car’s tank with gasoline before the road trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5e32fd45-2900-456d-a835-c0d56cabaf1a">
+              <Vi>Đổ xăng vào bình chứa của xe hơi hoặc xe máy.</Vi>
+              <En>Refueling a car or motorcycle at a gas station.</En>
+            </Situation>
+            <Situation id="90419645-b259-4507-81b5-ab52d7b4021a">
+              <Vi>Giá xăng tăng mạnh vào mùa hè.</Vi>
+              <En>Gasoline prices surge during summer due to higher demand.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
