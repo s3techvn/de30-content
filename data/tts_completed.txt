@@ -1767,3 +1767,4 @@ turkey
 compact
 synthesis
 betting
+academy
