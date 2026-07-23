@@ -1,0 +1,32 @@
+<Vocab id="ebf933d1-57db-43fe-bd2a-ecb5cf059fcc" word="sometimes" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c627d43d-7796-4ef3-84ae-d48d2d8a3207" ipa="/ˈsʌm.tɪmz/" vi_ipa="xôm-tim">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="24c5e753-70c8-45ff-82b1-d7859b939cd2" type="Adverb">
+          <Vi>đôi khi, thỉnh thoảng</Vi>
+          <En>on some occasions but not always or not frequently</En>
+          <Example>I sometimes forget to water my plants.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="905ce701-56b6-4997-b7b3-aed8803ad16b">
+              <Vi>Mô tả hành động xảy ra không thường xuyên, nhưng có lúc xảy ra.</Vi>
+              <En>Describes an action that occurs occasionally but not regularly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

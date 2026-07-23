@@ -1,0 +1,62 @@
+<Vocab id="6567a6d5-3abf-46cc-ac7d-32bc0eae7ba8" word="sugar" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c4cb063b-25e6-408c-8dec-f4bc52da6177" ipa="/ˈʃʊɡ.ər/" vi_ipa="sờ-ga">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a2495ef-e3f3-42b4-ba08-939087a1a5ca" type="Noun">
+          <Vi>đường (chất ngọt dạng tinh thể, thường từ mía hoặc củ cải đường)</Vi>
+          <En>A sweet, white, crystalline substance obtained from sugarcane or sugar beets, used to sweeten food and drink.</En>
+          <Example>She added a spoonful of sugar to her tea.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c434af86-1232-431b-a861-1e221b1ad584">
+              <Vi>Thêm đường vào cà phê hoặc trà để làm ngọt.</Vi>
+              <En>Adding sugar to coffee or tea to sweeten it.</En>
+            </Situation>
+            <Situation id="3eec4768-2837-42e4-a2d0-2d2e5b42fb4d">
+              <Vi>Hạn chế tiêu thụ đường do ảnh hưởng đến sức khỏe.</Vi>
+              <En>Reducing sugar intake due to health concerns.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fdc824bd-e891-40e5-866e-7c5b9cd14392" type="Noun">
+          <Vi>đường (dùng ẩn dụ để làm dịu, làm dễ chịu)</Vi>
+          <En>Something pleasant or comforting added to make a difficult situation more bearable.</En>
+          <Example>He tried to put a little sugar on the bitter news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ea0a170-8264-4671-9595-c5c9151439a6">
+              <Vi>Dùng lời nói nhẹ nhàng để làm dịu một thông tin xấu.</Vi>
+              <En>Using gentle words to soften the impact of bad news.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ccea9b6c-1971-461e-bbf7-578dc3635562" type="Verb">
+          <Vi>thêm đường vào; làm ngọt</Vi>
+          <En>To add sugar to something, especially food or drink.</En>
+          <Example>Don’t sugar your coffee—it’s better black.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7e98275-82b9-4f66-b5c7-90dd2eaa1c81">
+              <Vi>Nhắc người khác không nên thêm đường vào đồ uống.</Vi>
+              <En>Telling someone not to add sugar to their beverage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
