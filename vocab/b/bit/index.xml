@@ -1,0 +1,96 @@
+<Vocab id="f1cb7b1c-cb31-44ae-b572-4d68b797fcf3" word="bit" type="short" status="done">
+  <Topics>
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a6110038-b0dc-4364-839b-b0f16d7474d5" ipa="/bɪt/" vi_ipa="bít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0acf00c8-207f-4527-b49c-9b4dd3a207bd" type="Noun">
+          <Vi>bit</Vi>
+          <En>The smallest unit of data in computing, representing either 0 or 1.</En>
+          <Example>Each character in a text file is stored as a sequence of eight bits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a77874cd-517d-4544-80eb-bb02659fd3d0">
+              <Vi>Mô tả đơn vị dữ liệu nhỏ nhất trong máy tính.</Vi>
+              <En>Describing the smallest unit of digital information.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4b9cdea8-9359-4538-beb0-8584f61d4c11" type="Noun">
+          <Vi>một lượng nhỏ</Vi>
+          <En>A very small amount of something.</En>
+          <Example>Can you give me a bit of your time?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17ec2327-70fc-4584-8b49-361705f020a2">
+              <Vi>Dùng trong giao tiếp để chỉ một lượng nhỏ thời gian, sự giúp đỡ, v.v.</Vi>
+              <En>Used informally to refer to a small quantity or degree.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03b8a287-bcdd-44a5-aaf0-2eed1f27211e" type="Noun">
+          <Vi>mũi khoan nhỏ</Vi>
+          <En>A small, pointed tool for drilling holes, typically attached to a drill.</En>
+          <Example>The electrician changed the drill bit before starting the installation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8ecb148-ee68-4388-9f29-31e0f867d542">
+              <Vi>Trong kỹ thuật, chỉ đầu khoan hoặc mũi khoan.</Vi>
+              <En>In engineering or construction, referring to the cutting part of a drill.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="83663d17-39c7-42f5-aa87-1035884cea17" type="Verb">
+          <Vi>đào, khoan (với mũi khoan nhỏ)</Vi>
+          <En>To make a hole in something using a drill bit.</En>
+          <Example>The machine bit into the concrete wall with ease.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fa3cfa5-400e-48e1-a7f9-ab7336b3e34e">
+              <Vi>Mô tả hành động khoan bằng dụng cụ nhỏ.</Vi>
+              <En>Describing the action of drilling with a small tool.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cd9c6fc7-569a-40c3-929a-316689988a79" type="Adjective">
+          <Vi>nhỏ, li ti</Vi>
+          <En>Very small in size or amount.</En>
+          <Example>She took a bit of cake and left the rest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17beb772-5a82-42a2-8278-5571b9496eff">
+              <Vi>Mô tả kích thước hoặc lượng nhỏ.</Vi>
+              <En>Used to emphasize smallness or insignificance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ace54a8-3b56-42d2-a942-95581a3ca808" type="Adverb">
+          <Vi>một chút</Vi>
+          <En>To a small degree or extent; slightly.</En>
+          <Example>The soup is a bit too salty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1f0c9b71-cb17-47dc-929e-63c1ff8a1005">
+              <Vi>Chỉ mức độ nhẹ, không đáng kể.</Vi>
+              <En>Used to modify adjectives or adverbs to indicate slightness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

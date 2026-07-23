@@ -1,0 +1,52 @@
+<Vocab id="b1ccbc87-c708-481c-b243-48d9f2f843a8" word="mystery" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="73557f49-4f53-49de-861d-46d819311cd4" value="Detective" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f4c1c140-0f28-4831-90d5-084ebd49d104" ipa="/ˈmɪs.tər.i/" vi_ipa="mít-xờ-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="065d4e50-58fa-4537-9feb-f78d752775a4" type="Noun">
+          <Vi>Điều bí ẩn; điều khó hiểu; điều kỳ lạ</Vi>
+          <En>A thing that is difficult or impossible to understand or explain; something that is hidden or unknown.</En>
+          <Example>The disappearance of the ancient civilization remains one of history’s greatest mysteries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b3e1ad31-e04c-453f-bbcc-99ac5b1e6dbf">
+              <Vi>Một sự kiện hoặc hiện tượng chưa được giải thích rõ ràng, gây tò mò và kích thích trí tò mò.</Vi>
+              <En>An unexplained event or phenomenon that sparks curiosity and intrigue.</En>
+            </Situation>
+            <Situation id="c03bee4b-ea41-4086-9d19-d56b7f29e5e2">
+              <Vi>Thể loại truyện hoặc phim xoay quanh việc điều tra và giải mã các sự kiện kỳ lạ.</Vi>
+              <En>A genre of stories or films centered around investigating and solving strange or puzzling events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c5383e67-01d0-4108-8a61-5619b683ef8a" type="Noun">
+          <Vi>Bí mật; điều không tiết lộ</Vi>
+          <En>A secret or something kept hidden, especially one that is deliberately concealed.</En>
+          <Example>She refused to reveal the mystery behind her sudden promotion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fbd07de-3fa5-437d-8a44-5f65a68de8b1">
+              <Vi>Một thông tin hoặc sự thật bị giữ kín, thường để tạo sự hồi hộp hoặc bất ngờ.</Vi>
+              <En>Information or a fact kept secret, often to create suspense or surprise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
