@@ -1,0 +1,33 @@
+<Vocab id="150d177a-ee34-45b8-b79d-9ea59c2abf88" word="ken" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="833316da-0478-42a6-b51a-fb21c178004c" value="Aviator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76c6cf69-f9ca-4af5-bca9-ab3c971a19db" ipa="/kɛn/" vi_ipa="ken">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5ede80f4-4636-47c5-ae5f-33a2f9be8e43" type="Noun">
+          <Vi>phạm vi tầm nhìn, tầm nhìn xa, giới hạn hiểu biết</Vi>
+          <En>the range of one’s vision or understanding; the extent of one’s knowledge or experience</En>
+          <Example>His knowledge lies beyond my ken.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="f1c54a79-5b04-4065-b6f7-5420be10a3aa">
+              <Vi>Dùng trong văn chương hoặc ngôn ngữ cổ để chỉ giới hạn hiểu biết hoặc khả năng quan sát.</Vi>
+              <En>Used in literary or archaic contexts to refer to the limits of one’s understanding or perception.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
