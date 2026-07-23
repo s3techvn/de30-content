@@ -1,0 +1,60 @@
+<Vocab id="c003a284-d731-400d-a8a0-190fbc80d4aa" word="dark" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d42d3441-55f3-4655-b494-b3c425406d35" ipa="/dɑːrk/" vi_ipa="đác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ac5d4e5d-fc60-4da0-907b-f84d4e1b379f" type="Adjective">
+          <Vi>đen tối; tối tăm</Vi>
+          <En>having little or no light; not bright</En>
+          <Example>The room was pitch dark after the power went out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8bbafa36-2ff6-4b46-8f57-3a796c1ec304">
+              <Vi>Mô tả môi trường thiếu ánh sáng, như ban đêm hoặc trong phòng không có đèn.</Vi>
+              <En>Describing an environment with little or no light, such as at night or in a dark room.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="60da889d-eac1-44bb-9540-e9e36c55f736" type="Adjective">
+          <Vi>buồn bã; u ám; tiêu cực</Vi>
+          <En>gloomy, depressing, or pessimistic in mood or atmosphere</En>
+          <Example>She felt a dark cloud of sadness over her after hearing the news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5204f4c-e468-448e-a165-8f91c291a682">
+              <Vi>Dùng để diễn tả trạng thái cảm xúc hoặc không khí u ám, bi quan.</Vi>
+              <En>Used to describe a gloomy, depressing, or pessimistic mood or atmosphere.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e97d8528-a64e-4da5-9013-a3eae0ca9bc3" type="Adjective">
+          <Vi>không rõ ràng; khó hiểu; bí ẩn</Vi>
+          <En>not clear or transparent; obscure or mysterious</En>
+          <Example>The motives behind the crime remain dark and unknown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8181d56-00c4-4755-a3f3-3d4cc1bac2f8">
+              <Vi>Dùng khi nói về thông tin, động cơ, hoặc tình huống chưa được làm rõ hoặc mang tính bí ẩn.</Vi>
+              <En>Used when referring to information, motives, or situations that are unclear, obscure, or mysterious.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
