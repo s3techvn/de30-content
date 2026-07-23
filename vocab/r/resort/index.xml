@@ -1,0 +1,49 @@
+<Vocab id="96166afc-20a7-46e7-9c4a-eb511d9553ec" word="resort" type="short" status="done">
+  <Topics>
+    <Topic id="aaf4ff6b-ef5e-4104-af23-943169a882c2" value="Travel and Leisure" />
+  </Topics>
+  <Professions>
+    <Profession id="295a3ec5-db10-4f9d-b614-35b6b8d68cd9" value="Tourism Professional" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8c72a462-f80c-491f-afdb-6c4c590c0dff" ipa="/rɪˈzɔːrt/" vi_ipa="rì-dzợt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="63a500ec-5846-400e-8a02-4bd1e222b630" type="Noun">
+          <Vi>Khu nghỉ dưỡng; nơi để nghỉ ngơi, thư giãn</Vi>
+          <En>A place where people go for rest, recreation, or vacation, typically featuring accommodations, entertainment, and leisure facilities.</En>
+          <Example>They booked a week at a beach resort in Bali.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4ebd144-08d7-464c-9e3a-c810176d0f75">
+              <Vi>Một khách hàng đặt phòng tại một khu nghỉ dưỡng ven biển để nghỉ mát.</Vi>
+              <En>A guest books accommodation at a seaside resort for vacation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c4eb0c61-9be7-4449-8d7d-936ea3ec69c9" type="Verb">
+          <Vi>Đi nghỉ dưỡng; tìm đến (nơi) để giải tỏa căng thẳng</Vi>
+          <En>To go to a resort or other place for rest or recreation; to turn to someone or something for help or support.</En>
+          <Example>When things get tough, she tends to resort to unhealthy coping mechanisms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2b089499-7dd8-4196-8f72-c85c826afbe3">
+              <Vi>Sau một tuần làm việc căng thẳng, họ quyết định resort đến một resort ở Đà Lạt.</Vi>
+              <En>After a stressful week of work, they decided to resort to a resort in Da Lat.</En>
+            </Situation>
+            <Situation id="3f133cb0-eaee-4780-92ce-ff5127401dd8">
+              <Vi>Trong tình huống khẩn cấp, họ resort đến chuyên gia.</Vi>
+              <En>In an emergency, they resort to an expert.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

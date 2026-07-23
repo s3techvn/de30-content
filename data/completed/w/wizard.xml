@@ -1,0 +1,48 @@
+<Vocab id="5bbfd7af-61d1-455e-91c2-2b43547ef654" word="wizard" type="short" status="done">
+  <Topics>
+    <Topic id="314a41c4-eee2-4590-bf1d-6be43172a568" value="Fantasy" />
+    <Topic id="c2960f31-37a5-4aa4-978f-dca6c92f814e" value="Mythology" />
+    <Topic id="7ea90550-e072-4429-904d-30352dbf90c5" value="Technology (slang)" />
+  </Topics>
+  <Professions>
+    <Profession id="0a00118c-986a-43dc-a04c-ba383686f15f" value="Writer (fantasy genre)" />
+    <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" value="Game Designer" />
+    <Profession id="768a8c33-28b3-444e-8c29-37ca2808f050" value="Software Developer (slang)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3db00215-ac9f-4a71-a7ca-6c54db095aab" ipa="/ˈwɪz.ərd/" vi_ipa="hi-dờ-rít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44078b3e-3bf0-46d8-a9d1-2d04fc29dc85" type="Noun">
+          <Vi>phù thủy (nam)</Vi>
+          <En>A man who is supposed to have magical powers, especially one who uses magic for good.</En>
+          <Example>The wizard in the story helped the prince find the lost crown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="50c86dfc-c59d-4b04-b745-6f9464b2b414">
+              <Vi>Trong truyện cổ tích hoặc tiểu thuyết kỳ ảo, một nhân vật nam có khả năng sử dụng phép thuật.</Vi>
+              <En>In fairy tales or fantasy novels, a male character with the ability to perform magic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f3c36abd-ca8a-434e-93ce-03fc3832acb4" type="Noun">
+          <Vi>người rất giỏi (từ lóng, thường chỉ nam)</Vi>
+          <En>A person who is extremely skilled or knowledgeable in a particular area (often used informally).</En>
+          <Example>He’s a wizard at fixing computers—nothing ever breaks when he’s around!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a3612c23-bc7b-4a53-87a3-11fdaa546d13">
+              <Vi>Dùng để khen ai đó rất thành thạo một kỹ năng cụ thể, thường trong công việc hoặc sở thích.</Vi>
+              <En>Used to praise someone who is exceptionally proficient in a specific skill, often in work or hobbies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

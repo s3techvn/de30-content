@@ -1733,3 +1733,4 @@ taking
 trek
 australia
 mandatory
+resort
