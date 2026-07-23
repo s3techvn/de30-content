@@ -1,0 +1,53 @@
+<Vocab id="e4793ba6-89ef-4956-b545-35ff03a1cee2" word="modeling" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="26a1340c-732e-47f5-bd83-0bbec963d268" value="3D Artist" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1f6b056c-0587-4d03-a1d2-027319d9792f" ipa="/ˈmɒd.əl.ɪŋ/" vi_ipa="mô-đen-linh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="42333f44-1c9a-4171-aa2b-ba5d5ed4fb2e" type="Noun">
+          <Vi>Quá trình tạo mô hình (đặc biệt là mô hình 3D hoặc mô hình toán học)</Vi>
+          <En>The process of creating a representation of a concept, object, or system, especially in 3D digital form or as a mathematical construct.</En>
+          <Example>The artist spent weeks on modeling the character’s face to ensure realistic expressions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af170555-9f38-4fee-a548-54c649c12a48">
+              <Vi>Trong thiết kế đồ họa 3D, dùng phần mềm như Blender hoặc Maya để tạo hình dạng chi tiết.</Vi>
+              <En>In 3D graphics design, using software like Blender or Maya to create detailed shapes.</En>
+            </Situation>
+            <Situation id="15373e3e-4b15-4078-ae0e-583fa6c27082">
+              <Vi>Trong khoa học dữ liệu, dùng để chỉ việc xây dựng mô hình dự đoán từ dữ liệu.</Vi>
+              <En>In data science, referring to the construction of predictive models from data.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9b8f2885-36a6-4b91-b395-153d5cb7a040" type="Noun">
+          <Vi>Hành động làm mẫu (trong thời trang hoặc quảng cáo)</Vi>
+          <En>The act of posing as a model for fashion designers, photographers, or advertisers.</En>
+          <Example>Her modeling career took off after she won a national talent competition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="601ae4c0-721f-4296-911f-dc7f236fc1d9">
+              <Vi>Người mẫu đứng yên hoặc di chuyển trên runway để trình diễn bộ sưu tập thời trang.</Vi>
+              <En>A model stands or walks on the runway to showcase a fashion collection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
