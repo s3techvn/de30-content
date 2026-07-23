@@ -1,0 +1,39 @@
+<Vocab id="6030240d-c80d-40fd-b4f8-10fe2f345c07" word="accounting" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="ac82ebcc-c5d5-45e4-a004-b8e3653b9a2b" value="Auditor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="22d539ed-a630-4e3c-962f-d5a36a73402b" ipa="/əˈkaʊn.tɪŋ/" vi_ipa="ơ-ka-un-tíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8c5a3236-5f0c-449c-8902-3d6086987086" type="Noun">
+          <Vi>Nghề kế toán; hệ thống ghi chép và báo cáo tài chính</Vi>
+          <En>The process or system of recording, summarizing, and reporting financial transactions for a business or organization.</En>
+          <Example>She earned her CPA license after years of studying accounting and passing rigorous exams.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a0cce3e7-1b8e-439a-9ff1-eef2e92152dc">
+              <Vi>Mô tả công việc hàng ngày của một kế toán viên trong công ty.</Vi>
+              <En>Describing the daily tasks of a company accountant, such as preparing financial statements and reconciling accounts.</En>
+            </Situation>
+            <Situation id="4dae3667-8225-408a-b304-902c3c781881">
+              <Vi>Học tập hoặc đào tạo trong lĩnh vực kế toán tại trường đại học.</Vi>
+              <En>Studying or training in accounting at a university, including courses in financial accounting and taxation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
