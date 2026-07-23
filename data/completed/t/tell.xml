@@ -1,0 +1,62 @@
+<Vocab id="b0ade6c6-650f-44e4-a7d6-bd8e73b3af2a" word="tell" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08bd1197-6fed-4f6f-868d-6423f7acc260" ipa="/tɛl/" vi_ipa="tờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="23174516-b2e6-4279-9e0f-9dd9b35599d3" type="Verb">
+          <Vi>thông báo, kể, nói</Vi>
+          <En>to communicate information or news to someone; to narrate or describe something</En>
+          <Example>She told me about the meeting that was canceled.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9566f71a-09ec-449d-9d27-509b6646a3a6">
+              <Vi>Người nói truyền đạt thông tin cho người nghe một cách trực tiếp.</Vi>
+              <En>The speaker directly conveys information to the listener.</En>
+            </Situation>
+            <Situation id="69f0bd02-3a6c-4aba-a6e2-ec7474e12719">
+              <Vi>Kể lại một câu chuyện hoặc sự kiện cho người khác.</Vi>
+              <En>To recount a story or event to someone else.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d23198e3-1fe8-43c9-9767-bc8ee70f4dc0" type="Verb">
+          <Vi>phân biệt, nhận ra</Vi>
+          <En>to be able to recognize or distinguish something, often used in negative or interrogative forms</En>
+          <Example>I couldn’t tell if he was serious or joking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab13708f-a0ab-497f-8dd8-85385134a158">
+              <Vi>Không chắc chắn về sự khác biệt hoặc bản chất của điều gì đó.</Vi>
+              <En>Uncertainty about the difference or nature of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bc7fb895-74ef-45d1-9df8-13f9d2810599" type="Verb">
+          <Vi>tiết lộ (bí mật), bộc lộ</Vi>
+          <En>to reveal or disclose something private or secret</En>
+          <Example>He told his friend the truth about the surprise party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ab3a0ba-b584-4e81-b3aa-7e74c7d57748">
+              <Vi>Chia sẻ điều mà người khác không biết hoặc chưa được tiết lộ.</Vi>
+              <En>Sharing something that others do not know or have not yet been told.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
