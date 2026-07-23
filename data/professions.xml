@@ -558,4 +558,7 @@
   <Profession id="b65f8485-e4cb-41b4-b6aa-2e9aef8ba570" slug="strategic-planner" value="Strategic Planner" />
   <Profession id="b5a86c3e-8fa7-4bf2-a8d1-5445a7067272" slug="advertising-executive" value="Advertising Executive" />
   <Profession id="24148d70-1ba2-4ecd-a877-f8d3ef09dd83" slug="astrophysicist" value="Astrophysicist" />
+  <Profession id="b8937b14-385b-414f-9461-8268d5f21b56" slug="casino-worker" value="Casino Worker" />
+  <Profession id="72d2fce5-1b70-409a-8117-c4cdea581d0d" slug="car-salesperson" value="Car Salesperson" />
+  <Profession id="b02a7582-08b1-4523-b2be-bbe64caf97e6" slug="drug-trafficker" value="Drug Trafficker" />
 </Professions>
