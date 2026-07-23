@@ -1,0 +1,53 @@
+<Vocab id="c791e509-0237-4551-b39c-12dba0810a4c" word="mail" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="c406d9d0-d049-4a4e-907c-3b533e6b2d5c" value="Postal Worker" />
+    <Profession id="cf2b131e-ca9d-45c7-85b5-bb0f24aba238" value="Office Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="155e7e07-addd-4aea-a79c-fc461af1c812" ipa="/meɪl/" vi_ipa="mê-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="88823f31-f027-4ac8-aac5-afd897caac59" type="Noun">
+          <Vi>thư tín; bưu phẩm; thư (gửi qua dịch vụ bưu điện)</Vi>
+          <En>letters, packages, and other items sent through the postal system</En>
+          <Example>I checked my mailbox and found three letters and a package in the mail.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a59de312-e51e-43f8-baa5-dc7f15ce2fc5">
+              <Vi>Người nhận thư tại nhà hoặc văn phòng</Vi>
+              <En>Receiving physical letters or parcels delivered by the postal service</En>
+            </Situation>
+            <Situation id="c2e50e76-b5dd-45a7-b88f-243921065461">
+              <Vi>Gửi thư hoặc bưu phẩm qua bưu điện</Vi>
+              <En>Sending physical correspondence or parcels via postal services</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="05fbdeed-e7dc-4716-965d-e09dbae990ef" type="Verb">
+          <Vi>gửi thư; gửi bưu phẩm</Vi>
+          <En>to send letters or packages through the postal system</En>
+          <Example>She mailed the invitation three days before the event.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="750af7f3-0b7a-4ce7-8897-e66cb05c0c00">
+              <Vi>Gửi thư bằng cách dán tem và bỏ vào hộp thư công cộng</Vi>
+              <En>Posting a letter by affixing a stamp and placing it in a public mailbox</En>
+            </Situation>
+            <Situation id="00525d43-605a-49dc-9b46-29b56f60b48c">
+              <Vi>Giao thư hoặc hàng hóa cho công ty vận chuyển bưu phẩm</Vi>
+              <En>Handing over items to a postal or courier service for delivery</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
