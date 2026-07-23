@@ -1,0 +1,64 @@
+<Vocab id="12568a20-d70a-453e-841e-a41bda65fe1b" word="feeling" type="short" status="done">
+  <Topics>
+    <Topic id="2bd71022-ac06-4a28-8875-be9fac56de1f" value="Emotions &amp; Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="47992a88-46d8-4d3b-a876-14c75c551029" ipa="/ˈfiː.lɪŋ/" vi_ipa="phì-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2b8b527-855d-442e-80af-658c116b39d9" type="Noun">
+          <Vi>Cảm giác; cảm xúc</Vi>
+          <En>An emotional state or reaction; a physical sensation or intuition.</En>
+          <Example>I had a strange feeling that I was being watched.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e09ddec7-90b1-4df5-986a-4a2d81f86f4b">
+              <Vi>Mô tả trạng thái nội tâm hoặc phản ứng cảm xúc.</Vi>
+              <En>Describing an internal emotional state or reaction.</En>
+            </Situation>
+            <Situation id="68315543-1392-4bfc-914a-d2ae9d1a7d26">
+              <Vi>Mô tả cảm giác thể chất như đau, ngứa, run rẩy.</Vi>
+              <En>Describing a physical sensation such as pain, itch, or trembling.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a4913441-07ce-463b-811b-2438457fa155" ipa="/ˈfiː.lɪŋ/" vi_ipa="phì-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e17fc1eb-a857-45c4-ab1c-bb8f3c9285f3" type="Verb">
+          <Vi>Cảm nhận; cảm thấy</Vi>
+          <En>To be aware of a sensation or emotion through physical or mental perception.</En>
+          <Example>I can feel the warmth of the sun on my skin.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc4318b6-cbd0-44e6-9c16-27d359e7637c">
+              <Vi>Mô tả việc nhận biết một cảm giác thể chất.</Vi>
+              <En>Describing awareness of a physical sensation.</En>
+            </Situation>
+            <Situation id="e8e3896c-9681-4b34-bab2-8496ac3b6793">
+              <Vi>Mô tả việc nhận thức hoặc trải nghiệm cảm xúc.</Vi>
+              <En>Describing awareness or experience of an emotion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
