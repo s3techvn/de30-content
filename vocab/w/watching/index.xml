@@ -1,0 +1,37 @@
+<Vocab id="627fff90-61a7-4182-8358-f50aca53d6f4" word="watching" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="35a2c003-2223-4e12-bc05-8959f38b378f" value="Media Analyst" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5812f2b-8c38-4a39-9b46-674f4d30bae9" ipa="/ˈwɑːtʃ.ɪŋ/" vi_ipa="át-chí-nh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a0144404-2cd5-4c6a-880b-93b3a09bffa6" type="Verb">
+          <Vi>đang xem, đang theo dõi</Vi>
+          <En>to look at or observe something or someone carefully, especially over a period of time</En>
+          <Example>I’ve been watching that new series on Netflix all week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68299fa8-51d5-485d-8298-aa63e80e54b0">
+              <Vi>Ngồi trước màn hình TV hoặc máy tính để theo dõi nội dung đang phát.</Vi>
+              <En>Sitting in front of a TV or computer screen to follow a program or video.</En>
+            </Situation>
+            <Situation id="78b880c0-3868-45eb-af68-1ec7db28bdf9">
+              <Vi>Theo dõi hành động hoặc sự kiện xảy ra trong thời gian thực.</Vi>
+              <En>Observing an action or event as it happens in real time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
