@@ -1,0 +1,32 @@
+<Vocab id="0c0c527d-90ab-489b-93b2-6ed57e32a117" word="stewart" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="58370a85-afa3-4631-b139-0f2ccd02570f" value="Historical Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a3764e1e-be1e-445b-9d99-f0014c5af53f" ipa="/ˈstuː.ət/" vi_ipa="x-tiu-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="15f4edb8-39ca-4002-bd53-81a7cbde966f" type="Noun">
+          <Vi>viên quan phụ trách quản lý tài sản và ngân sách của vua hoặc hoàng gia ở Anh thời trung cổ</Vi>
+          <En>a royal official in medieval England responsible for managing the king’s household, finances, and estates</En>
+          <Example>The stewart oversaw the distribution of food and supplies to the castle’s inhabitants during the winter.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="119d6a86-1ffb-45cd-89b2-b8c70e7cfcbc">
+              <Vi>Một chức quan trong triều đình Anh thời phong kiến, tương đương chức quản lý cung đình.</Vi>
+              <En>A medieval English royal office, equivalent to a lord high steward or major-domo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
