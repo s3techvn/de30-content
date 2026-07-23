@@ -1,0 +1,56 @@
+<Vocab id="67f11d36-bc06-46f7-9b65-ac46bb045a3a" word="size" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+    <Topic id="8dda0897-4bed-4eb4-aca8-d2a92b7bb011" value="Manufacturing" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c3dffd1-0314-4cf5-a687-17adb747fdee" ipa="/saɪz/" vi_ipa="sai-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="def23e74-eeac-4767-b512-abd0a8516e75" type="Noun">
+          <Vi>Kích thước; cỡ (dùng để chỉ độ lớn của một vật)</Vi>
+          <En>The relative dimensions of something; a measure of how big or small something is.</En>
+          <Example>The shirt is too small for me—I need a larger size.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5064fb9-a991-41b3-b6ad-07ed4b406e5f">
+              <Vi>Mua quần áo online và tra cứu bảng cỡ size.</Vi>
+              <En>Checking size charts when buying clothes online.</En>
+            </Situation>
+            <Situation id="c69e042e-b232-4d8e-a93c-3f6969001596">
+              <Vi>So sánh kích thước của hai sản phẩm.</Vi>
+              <En>Comparing the sizes of two products.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b307c3d2-4cfb-46dd-9b63-827c68e2bee0" type="Verb">
+          <Vi>Điều chỉnh kích thước; vừa với (một vật)</Vi>
+          <En>To adjust something to a particular size or to fit a particular size.</En>
+          <Example>The photo was automatically resized to fit the frame.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e07dd1b5-ee7c-483b-b3f0-a26a92996685">
+              <Vi>Thợ may đo và điều chỉnh kích thước quần áo cho khách.</Vi>
+              <En>A tailor measures and adjusts clothing to fit a customer.</En>
+            </Situation>
+            <Situation id="8fae6393-8896-4474-a2b5-6e2d61daccf5">
+              <Vi>Chỉnh kích thước ảnh trước khi in.</Vi>
+              <En>Resizing an image before printing it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
