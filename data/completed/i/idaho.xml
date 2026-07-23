@@ -1,0 +1,33 @@
+<Vocab id="1a9a9eb7-9a3e-4157-9ac4-417f1d2f9ec9" word="idaho" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="50214f48-ddf4-45c0-8e8e-b54efd7c6224" ipa="/ɪˈdɑːhoʊ/" vi_ipa="i-dao-hơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bfaadd12-cbc8-4074-94b5-fcc0b278d4d0" type="Noun">
+          <Vi>Idaho (tên một bang ở Hoa Kỳ)</Vi>
+          <En>A state in the northwestern United States, known for its mountains, forests, and potato production.</En>
+          <Example>Many tourists visit Yellowstone National Park, which extends into Idaho, Montana, and Wyoming.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="901beded-2f63-45a8-9d2c-85e0b3384ebc">
+              <Vi>Trong ngữ cảnh nói về địa lý, du lịch, hoặc nông nghiệp của Mỹ.</Vi>
+              <En>Used when discussing U.S. geography, tourism, or agriculture (especially potatoes).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

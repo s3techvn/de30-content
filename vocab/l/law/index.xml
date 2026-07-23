@@ -1,0 +1,63 @@
+<Vocab id="90b3e0b8-2b29-4d2b-b507-8652929a5cc2" word="law" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="8bddaac3-70cd-427f-95db-d62040e7a310" value="Legislator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a6ba960-895c-4cf8-8607-322e1a6d7533" ipa="/lɔː/" vi_ipa="lao">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ef105bf-75e0-4506-abe5-3ecf4f1dd112" type="Noun">
+          <Vi>Luật pháp; quy định bắt buộc do nhà nước ban hành</Vi>
+          <En>Rules and regulations established by a government, enforced through institutions to regulate behavior</En>
+          <Example>Everyone must obey the law, regardless of their social status.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a260d642-5cc0-4365-9b0c-b9f77a7158fd">
+              <Vi>Một người bị cảnh sát dừng lại vì vượt đèn đỏ.</Vi>
+              <En>A person is stopped by police for running a red light.</En>
+            </Situation>
+            <Situation id="bb2484f9-e38a-4f0d-85a0-b5133009cf8b">
+              <Vi>Các nghị sĩ đang thảo luận về một đạo luật mới về bảo vệ môi trường.</Vi>
+              <En>Lawmakers are debating a new environmental protection bill.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fc884ac4-d9f9-4d83-b047-67e5d6ee2c4e" type="Noun">
+          <Vi>Ngành luật; môn học về hệ thống luật pháp</Vi>
+          <En>The academic discipline or profession concerned with the system of rules and justice</En>
+          <Example>She is studying law at Harvard University.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="047340c8-56ad-4605-8dab-9c0e2a8d4d24">
+              <Vi>Sinh viên năm thứ ba đang ôn thi môn Luật Dân sự.</Vi>
+              <En>A third-year law student is preparing for the Civil Law exam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6db32e18-90a2-4971-ae40-ec7b52305c91" type="Noun">
+          <Vi>Nguyên tắc, quy luật (trong tự nhiên hoặc xã hội)</Vi>
+          <En>A general principle or regularity observed in nature or society</En>
+          <Example>The law of supply and demand determines prices in a market economy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e963e2a-415b-468d-9fcf-d0f4678c4a47">
+              <Vi>Trong vật lý, định luật vạn vật hấp dẫn mô tả lực hút giữa các vật thể.</Vi>
+              <En>In physics, the law of universal gravitation describes the attractive force between objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
