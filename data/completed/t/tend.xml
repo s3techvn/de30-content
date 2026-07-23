@@ -1,0 +1,58 @@
+<Vocab id="80d4b389-fa8c-435f-b6cf-3b1fb780ea88" word="tend" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" value="Parent" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e202cf55-b4ca-4c06-a3d4-c984cec2f2db" ipa="/tɛnd/" vi_ipa="ten">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0cc412e-6242-470b-b02c-debe75e52043" type="Verb">
+          <Vi>chăm sóc, lo cho</Vi>
+          <En>to care for or look after someone or something, especially someone who is ill, young, or in need</En>
+          <Example>She tends to her elderly parents every weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf94290f-6978-4f42-8a09-4cd241d47f0e">
+              <Vi>Cấp dưỡng, chăm sóc người già, bệnh tật hoặc trẻ em.</Vi>
+              <En>Caring for elderly, sick, or young individuals, often in a regular or dedicated manner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="815833d3-04c8-4e28-9cb5-645f7ae8cd68" type="Verb">
+          <Vi>có xu hướng, thường làm gì</Vi>
+          <En>to be likely to do something or to behave in a particular way; to have a tendency</En>
+          <Example>He tends to arrive late for meetings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cee2ef09-b0c1-4aa4-839e-e80c9644b106">
+              <Vi>Mô tả thói quen hoặc xu hướng hành vi thường xuyên của ai đó.</Vi>
+              <En>Describing a habitual or characteristic behavior or pattern in someone’s actions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b7e52928-8b7c-4f0d-bea0-d581b97d90cd" type="Verb">
+          <Vi>chăm nom, quản lý (công việc, công trình, v.v.)</Vi>
+          <En>to manage or be responsible for the operation or maintenance of something</En>
+          <Example>The engineer tends the machinery on the factory floor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="088e8639-c9b6-4b1d-87c5-4c37a29f505c">
+              <Vi>Điều khiển, giám sát hoặc bảo trì thiết bị, máy móc trong môi trường làm việc.</Vi>
+              <En>Operating, monitoring, or maintaining equipment or systems in a professional or technical setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
