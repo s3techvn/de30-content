@@ -1,0 +1,36 @@
+<Vocab id="051c4ecd-04de-4132-81c9-3e0016a37ac8" word="gardening" type="short" status="done">
+  <Topics>
+    <Topic id="eb51fd1d-f129-4011-ad63-f2dac9c731b4" value="Hobby" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="d4eac4cc-14b4-48c5-b363-dd1164a6e2d3" value="Landscape Architect" />
+    <Profession id="ef1b64c9-3e46-4178-aee1-357ae5c04df9" value="Horticulturist" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fb12932d-ea61-4475-94d5-671d6732dfab" ipa="/ˈɡɑːr.də.nɪŋ/" vi_ipa="gác-đờ-nin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e19e785a-5382-4b09-87c3-f03497a5a814" type="Noun">
+          <Vi>Trồng trọt; làm vườn</Vi>
+          <En>The activity of growing and cultivating plants, especially flowers, vegetables, or ornamental plants, typically in a garden.</En>
+          <Example>She spends her weekends gardening in her backyard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8a5f0d4a-3948-4ddc-8946-41a8ae871448">
+              <Vi>Công việc chăm sóc và trồng cây trong khu vườn nhà.</Vi>
+              <En>Performing tasks such as planting, weeding, pruning, and harvesting in a personal or community garden.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
