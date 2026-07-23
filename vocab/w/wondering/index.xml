@@ -1,0 +1,32 @@
+<Vocab id="82809a91-09c4-43e4-b8aa-9c92bbd985c6" word="wondering" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eb145b0c-b750-46c2-a681-67d3ce2cf7bf" ipa="/ˈwʌn.dər.ɪŋ/" vi_ipa="wan-đơ-rinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b5922448-6de6-4633-9525-fa09238d5aea" type="Adjective">
+          <Vi>đang băn khoăn, đang thắc mắc</Vi>
+          <En>Feeling or expressing curiosity or doubt about something; questioning in one's mind.</En>
+          <Example>I've been wondering whether we should move to a new city next year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4f37e60-6cbd-4f9e-8300-20c594069a45">
+              <Vi>Một người đang suy nghĩ về một quyết định quan trọng hoặc một điều chưa rõ ràng.</Vi>
+              <En>A person is contemplating or uncertain about an important decision or unclear matter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
