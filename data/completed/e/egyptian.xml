@@ -1,0 +1,48 @@
+<Vocab id="f6e12182-92dd-4ab1-8988-535146457a25" word="egyptian" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e12e52c3-0fc1-4b74-92cf-51a46fffabab" ipa="/ɪˈɡɪp.ʃən/" vi_ipa="i-gíp-xơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="739cdbb7-1cd1-4fdc-b6fb-e5ed1f114b98" type="Adjective">
+          <Vi>thuộc Ai Cập, kiểu Ai Cập</Vi>
+          <En>relating to Egypt, its people, culture, or language</En>
+          <Example>The Egyptian pyramids are among the most famous ancient structures in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bbdb9f7a-6f0b-4bcb-9267-599f8c5ae24c">
+              <Vi>Mô tả đặc điểm, con người, văn hóa hoặc ngôn ngữ của Ai Cập.</Vi>
+              <En>Used to describe characteristics, people, culture, or language associated with Egypt.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9b6cc88-57a8-429c-aca5-989f2a10d2e9" type="Noun">
+          <Vi>người Ai Cập (bản địa)</Vi>
+          <En>a native or inhabitant of Egypt</En>
+          <Example>Many Egyptian tourists visit the Sphinx every year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6fb25683-e788-493f-997f-f93b57227a2b">
+              <Vi>Dùng để chỉ người bản địa hoặc cư dân của Ai Cập.</Vi>
+              <En>Used to refer to native or indigenous people of Egypt.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
