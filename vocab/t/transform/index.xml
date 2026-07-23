@@ -1,0 +1,40 @@
+<Vocab id="6a8d83b3-250f-47cf-9b53-af908b44a895" word="transform" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fcf0ad35-a726-4541-9fe3-00edc48dcabc" ipa="/trænsˈfɔːrm/" vi_ipa="trân-xợ-mờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="30860151-2b6c-43cc-a5d1-34b1dc95c422" type="Verb">
+          <Vi>biến đổi, chuyển hóa</Vi>
+          <En>to change completely, especially in a way that improves or enhances something</En>
+          <Example>The new software update will transform how users interact with the app.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e4e9791-d48c-415d-8a30-d79db8065885">
+              <Vi>Thay đổi hình thức hoặc bản chất của một vật, hệ thống, hoặc quy trình để cải thiện hiệu quả hoặc chức năng.</Vi>
+              <En>Changing the form or nature of an object, system, or process to improve efficiency or functionality.</En>
+            </Situation>
+            <Situation id="52d0123c-d982-4894-8747-784e4847efeb">
+              <Vi>Quá trình phát triển cá nhân mạnh mẽ, ví dụ như thay đổi tư duy hoặc hành vi để đạt được tiềm năng tối đa.</Vi>
+              <En>A profound personal development process, such as changing mindset or behavior to reach full potential.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
