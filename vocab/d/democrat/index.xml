@@ -1,0 +1,38 @@
+<Vocab id="d9847b47-8319-4468-aa2e-3e37f7bfe5ae" word="democrat" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" value="Political Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="382c5cd9-a30b-4291-ab9f-52b42df232c8" ipa="/ˈdem.əˌkræt/" vi_ipa="đê-mơ-crát">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b0813c2f-752b-4e4d-a0a8-a6d53de62fe5" type="Noun">
+          <Vi>người dân chủ; thành viên Đảng Dân chủ (Mỹ)</Vi>
+          <En>a person who supports democracy; specifically, a member of the Democratic Party in the United States</En>
+          <Example>She identifies as a democrat and actively campaigns for progressive policies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="206c2419-ddc1-4620-9e53-fe29d65cbe14">
+              <Vi>Người ủng hộ nguyên tắc dân chủ trong chính trị.</Vi>
+              <En>A person who advocates for democratic governance and participation.</En>
+            </Situation>
+            <Situation id="45710f8d-b2c4-47c9-919e-b2c904fd981e">
+              <Vi>Thành viên hoặc ủng hộ viên của Đảng Dân chủ tại Hoa Kỳ.</Vi>
+              <En>A member or supporter of the Democratic Party in the United States.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
