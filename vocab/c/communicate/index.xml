@@ -1,0 +1,40 @@
+<Vocab id="e62c6969-94b7-4d6d-82dd-967b82732dfe" word="communicate" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="682966b1-c2e7-493f-97f5-bfd824096d1f" ipa="/kəˈmjuː.nɪ.keɪt/" vi_ipa="kơ-miu-ni-kết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6228a938-a725-4266-a4ea-28b62d609049" type="Verb">
+          <Vi>truyền đạt, giao tiếp, liên lạc</Vi>
+          <En>to share or exchange information, news, ideas, or feelings between people through writing, speaking, or using some other medium</En>
+          <Example>She communicates her ideas clearly during team meetings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9fdc1e3b-b277-416c-969d-5a16d2d55bb3">
+              <Vi>Giảng viên giải thích bài học cho sinh viên qua email và Zoom.</Vi>
+              <En>A lecturer explains lessons to students via email and Zoom.</En>
+            </Situation>
+            <Situation id="103a5f73-4715-4ce0-a819-27d98d3cc2d6">
+              <Vi>Hai người bạn trao đổi cảm xúc và suy nghĩ sau một cuộc cãi vã.</Vi>
+              <En>Two friends exchange feelings and thoughts after an argument.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
