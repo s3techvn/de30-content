@@ -1,0 +1,39 @@
+<Vocab id="fe7a1598-4b4a-41b5-843b-f798d715654c" word="erotica" type="short" status="done">
+  <Topics>
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+    <Topic id="779d3a86-1fb9-43a8-9a13-208138b6f5a2" value="Social &amp; Cultural" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" value="Literary Critic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7cadb7fb-489a-48a7-8791-2773898b0f6b" ipa="/ˌɛr.əˈtɪ.kə/" vi_ipa="e-rô-ti-cơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="586c3d6e-b9ee-46d3-926b-3852b4bf66d3" type="Noun">
+          <Vi>Tác phẩm khiêu dâm, văn học khiêu dâm</Vi>
+          <En>Artistic or literary works (such as novels, paintings, or films) that deal explicitly with sexual desire and activity, often intended to arouse sexual excitement</En>
+          <Example>She collected rare editions of 19th-century erotica, including banned works by authors like de Sade.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ec98dc13-a155-4d98-b7ea-b45f40ecf5ab">
+              <Vi>Thư viện hoặc bộ sưu tập sách văn học khiêu dâm cổ điển</Vi>
+              <En>A library or collection specializing in historically banned or controversial erotic literature</En>
+            </Situation>
+            <Situation id="d4d7767f-eebf-4958-9143-5ae8ae86dbf7">
+              <Vi>Phân tích học thuật về vai trò của văn học khiêu dâm trong văn hóa</Vi>
+              <En>An academic discussion on the role of erotic literature in shaping cultural attitudes toward sexuality</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

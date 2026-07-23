@@ -1,0 +1,60 @@
+<Vocab id="2267ea73-b4ff-4a57-9ba7-ef969f894753" word="harmony" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="87d2d85f-160f-4b58-beaf-6b653772ed97" ipa="/ˈhɑːr.mə.ni/" vi_ipa="ha-rơ-mơ-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="00e24497-01f6-40d8-b565-9b7e28b75a60" type="Noun">
+          <Vi>Sự hòa hợp, hòa âm</Vi>
+          <En>The combination of simultaneously sounded musical notes to produce a pleasing effect.</En>
+          <Example>The choir sang in perfect harmony, creating a beautiful and moving performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4792448b-e9a5-4ca3-b9bd-510c2cc959a4">
+              <Vi>Mô tả sự kết hợp các nốt nhạc tạo thành âm thanh dễ chịu trong âm nhạc.</Vi>
+              <En>Describes the blending of musical notes to create a pleasing sound.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0d8dbbbf-ccff-45d6-ae54-b0d4c2c80873" type="Noun">
+          <Vi>Sự hài hòa, thống nhất</Vi>
+          <En>A state of agreement or consistency between people or things; peaceful relations.</En>
+          <Example>The couple lived in harmony with their neighbors for over twenty years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="428be46f-eea0-4da1-997f-f929cc13bd26">
+              <Vi>Mô tả mối quan hệ tốt đẹp, không xung đột giữa các cá nhân hoặc nhóm.</Vi>
+              <En>Describes a peaceful, cooperative relationship among individuals or groups.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="777743f8-5e91-42d3-b26d-5c8423afe8f7" type="Noun">
+          <Vi>Sự cân bằng, hài hòa (trong triết học, tự nhiên)</Vi>
+          <En>A balanced and aesthetically pleasing arrangement of parts or elements.</En>
+          <Example>The garden was designed with harmony in mind, blending colors, textures, and shapes seamlessly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d5b3594-e81b-4ba3-887a-b5920a46302f">
+              <Vi>Mô tả sự cân đối, hài hòa trong thiết kế, nghệ thuật hoặc triết lý sống.</Vi>
+              <En>Describes balance and aesthetic coherence in design, art, or lifestyle philosophy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
