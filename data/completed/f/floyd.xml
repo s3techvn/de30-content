@@ -1,0 +1,33 @@
+<Vocab id="d5cce452-74a9-4dd7-b1bd-a9d3b0b1a025" word="floyd" type="short" status="done">
+  <Topics>
+    <Topic id="122cbe32-7956-45ff-a705-c80778e49ab4" value="People &amp; Names" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cc1ffc4a-4e58-47ec-b201-05058b8b39ef" ipa="/flɔɪd/" vi_ipa="ph-loi-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8db9c0f6-f761-4ec8-85eb-434f98f079cb" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường dùng trong tiếng Anh, nổi bật nhất là ca sĩ nhạc rock Syd Barrett và David Gilmour của ban Pink Floyd.</Vi>
+          <En>A proper noun, commonly used as a surname or given name in English; notably associated with Syd Barrett and David Gilmour of the rock band Pink Floyd.</En>
+          <Example>Pink Floyd is one of the most influential rock bands of all time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="769db057-a782-42c0-8a42-9fa22dea1d95">
+              <Vi>Thường xuất hiện trong bối cảnh âm nhạc, đặc biệt là nhạc rock tiến tửu (progressive rock).</Vi>
+              <En>Commonly encountered in the context of music, especially progressive rock.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
