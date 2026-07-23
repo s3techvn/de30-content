@@ -1,0 +1,38 @@
+<Vocab id="56507365-c9c9-416f-bddb-897c38954453" word="sending" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b18a7832-436d-4459-b5bd-fb8a29cb2541" ipa="/ˈsen.dɪŋ/" vi_ipa="xên-đinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1daa8502-5ebf-480c-98f4-8e7aa29a392c" type="Verb">
+          <Vi>gửi, chuyển (thư, tin nhắn, email, dữ liệu...)</Vi>
+          <En>to cause (something, such as a message, letter, or file) to go or be delivered to a recipient.</En>
+          <Example>She is sending a follow-up email after the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="216a1bc7-a95d-48aa-a766-a275b9f130dd">
+              <Vi>Gửi tin nhắn qua Zalo hoặc WhatsApp.</Vi>
+              <En>Sending a message via Zalo or WhatsApp.</En>
+            </Situation>
+            <Situation id="2221fe30-9774-4140-85fd-f7cb1edbd1e7">
+              <Vi>Gửi tệp đính kèm qua email.</Vi>
+              <En>Attaching and sending a file via email.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

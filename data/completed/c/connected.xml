@@ -1,0 +1,40 @@
+<Vocab id="1747b7f5-4485-45fe-9a5a-1c40eebe34a3" word="connected" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="6687dc97-be0f-4585-aa6b-099f6b09fc9c" value="Social Relationships" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bccd2514-6220-44a5-8368-9a423835b707" ipa="/kəˈnɛk.tɪd/" vi_ipa="kơ-néc-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1b95f6c-2c17-43bf-8258-0b3765ed3374" type="Adjective">
+          <Vi>được kết nối; có quan hệ gắn bó</Vi>
+          <En>Joined or linked together, especially by a physical connection such as a wire or cable, or by a relationship or shared interest.</En>
+          <Example>My phone is connected to the Wi-Fi network.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ede76f7-d739-49b5-b4e1-8cb6796a2069">
+              <Vi>Mô tả thiết bị điện tử đang hoạt động với mạng hoặc thiết bị khác.</Vi>
+              <En>Describing an electronic device that is linked to a network or another device.</En>
+            </Situation>
+            <Situation id="3d375b8c-993e-4e89-a0bc-167ff5d53eda">
+              <Vi>Mô tả người có mối quan hệ thân thiết hoặc ảnh hưởng trong xã hội.</Vi>
+              <En>Describing a person who has close or influential social relationships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
