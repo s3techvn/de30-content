@@ -1,0 +1,66 @@
+<Vocab id="686510cf-c859-4253-a51a-746234568033" word="plastic" type="short" status="done">
+  <Topics>
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fe8c1784-3046-42c1-aee4-8ba830815ad7" ipa="/ˈplæs.tɪk/" vi_ipa="plát-tích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b4cbc478-928e-421d-a0d9-fed0a1ff642d" type="Adjective">
+          <Vi>nhựa; dẻo, dễ uốn nắn</Vi>
+          <En>made of or relating to synthetic or semi-synthetic organic compounds that are malleable and can be molded into solid objects; also, (of a person or behavior) easily influenced or shaped.</En>
+          <Example>The children played with plastic toys in the sandbox.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0414a9e2-37f4-4fed-8b8c-d26baf5b1cb2">
+              <Vi>Mô tả vật liệu tổng hợp có thể tạo hình khi nóng, dùng để làm đồ dùng, bao bì, thiết bị điện tử...</Vi>
+              <En>Refers to synthetic materials that can be molded into shape, commonly used for packaging, construction, and manufacturing.</En>
+            </Situation>
+            <Situation id="47554713-f337-42d8-b15d-4ae48cd5a619">
+              <Vi>Mô tả tính cách dễ bị ảnh hưởng hoặc thay đổi theo hoàn cảnh (nghĩa bóng).</Vi>
+              <En>Used metaphorically to describe someone who is easily influenced or adaptable, sometimes in a negative sense.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0c03d4f7-4587-435e-8048-e5aaa2f22e1a" ipa="/ˈplæs.tɪk/" vi_ipa="plát-tích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9acc3b6-38e7-4c17-b771-f1cf853b007f" type="Noun">
+          <Vi>đồ nhựa; nhựa tổng hợp</Vi>
+          <En>a synthetic material made from polymers that can be molded into shape; often used in singular form to refer to plastic material collectively.</En>
+          <Example>Recycling plastic helps reduce ocean pollution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="160c2975-122a-4dd7-b35c-bce68927e62c">
+              <Vi>Mô tả vật liệu nhựa dùng trong sản xuất đồ dùng, bao bì, thiết bị...</Vi>
+              <En>Refers to the physical substance used to make molded products, especially in manufacturing and consumer goods.</En>
+            </Situation>
+            <Situation id="1061adeb-fd0f-4488-8180-0fbaee49d11b">
+              <Vi>Mô tả tình trạng ô nhiễm môi trường do rác nhựa.</Vi>
+              <En>Used in environmental contexts to highlight pollution caused by non-biodegradable plastic waste.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
