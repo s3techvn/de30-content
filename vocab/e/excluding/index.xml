@@ -1,0 +1,32 @@
+<Vocab id="8fcac4e4-bd3c-423b-babf-85c5c1dd70fd" word="excluding" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0441c38f-8e0f-4319-a292-ffa7d409498e" ipa="/ɪkˈskluː.dɪŋ/" vi_ipa="ích-xc-lu-đinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="62511bd8-71e4-48f8-b0f7-4e0f463d6f60" type="Preposition">
+          <Vi>ngoại trừ, không tính đến</Vi>
+          <En>not including; except for</En>
+          <Example>The total cost is $150, excluding tax and delivery fees.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80c63f6d-78e8-4f45-9581-70452fd72eea">
+              <Vi>Dùng khi liệt kê một tập hợp và muốn chỉ rõ một phần tử hoặc nhóm không được tính vào.</Vi>
+              <En>Used when listing a set and specifying that a particular item or group is not included.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
