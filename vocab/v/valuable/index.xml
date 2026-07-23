@@ -1,0 +1,40 @@
+<Vocab id="b22fa077-34f0-4336-b0c3-6eb286294406" word="valuable" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" value="Investor" />
+    <Profession id="4c7507a5-286c-45d1-8f0b-bc012adb0e44" value="Appraiser" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f5963f47-c101-4a80-af58-d797ff46fad7" ipa="/ˈvæl.ju.ə.bəl/" vi_ipa="vét-lờ-vi-ơ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b123e32f-1030-469d-85bf-e18a186f85b2" type="Adjective">
+          <Vi>giá trị cao; có giá trị lớn</Vi>
+          <En>having great worth or importance, especially in terms of money or usefulness</En>
+          <Example>This antique vase is extremely valuable to collectors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ea23b74-b1cc-422f-b3de-ee0207b05a72">
+              <Vi>Mô tả đồ vật, tài sản có giá trị cao trên thị trường.</Vi>
+              <En>Describing an object or asset that commands a high price in the market.</En>
+            </Situation>
+            <Situation id="6dca0257-f496-4a6f-b9f2-a44703792000">
+              <Vi>Dùng để nhấn mạnh sự hữu ích hoặc quan trọng của điều gì đó.</Vi>
+              <En>Used to emphasize the usefulness or importance of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
