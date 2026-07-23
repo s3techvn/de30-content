@@ -1,0 +1,32 @@
+<Vocab id="ec69c600-f742-4fed-8e3f-de3efff6f5b1" word="stuart" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6ab60b41-1904-4cd2-8c5b-a80f2ee3a19a" ipa="/ˈstjuː.ɑːt/" vi_ipa="s-tiu-át">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8751fe3-c71f-47d6-be56-346e0442224a" type="Noun">
+          <Vi>nhà vua hoặc hoàng hậu thuộc triều đại Stuart (danh xưng dùng trong lịch sử Anh và Scotland)</Vi>
+          <En>a member of the royal House of Stuart, which ruled England, Scotland, and Ireland from 1603 to 1714</En>
+          <Example>The Stuarts were restored to the throne in 1660 after the Commonwealth period.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eadd1237-20b2-4368-82ad-d16dba8fb920">
+              <Vi>Thời kỳ trị vì của các vua chúa nhà Stuart trong lịch sử Anh.</Vi>
+              <En>The period of rule by the Stuart monarchs in British history.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

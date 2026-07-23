@@ -1,0 +1,36 @@
+<Vocab id="6b081a02-3d1f-4cba-9005-b222a886701d" word="oh" type="short" status="done">
+  <Topics>
+    <Topic id="37d17a4b-f53c-44ea-a90b-63dc5705a712" value="Everyday Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="31969464-abc6-4c83-8300-25c0f13d3b63" ipa="/əʊ/" vi_ipa="ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="498f9553-5ff0-4f43-a6df-fabd1211112e" type="Interjection">
+          <Vi>Ồ! (biểu lộ sự bất ngờ, kinh ngạc, nhận ra điều gì đó, hoặc làm dịu tình huống)</Vi>
+          <En>Used to express surprise, realization, disappointment, or to soften a statement or request.</En>
+          <Example>Oh! I didn’t see you there.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9429200-f40b-430f-b096-87ae39038c8e">
+              <Vi>Người nói bỗng nhận ra điều gì đó bất ngờ hoặc quan trọng.</Vi>
+              <En>Used when someone suddenly realizes or notices something unexpected or important.</En>
+            </Situation>
+            <Situation id="cc670d96-2242-4227-85ae-32e0d0658a9a">
+              <Vi>Người nói dùng "oh" để làm dịu lời phản ứng tiêu cực hoặc xin lỗi nhẹ nhàng.</Vi>
+              <En>Used to soften a negative reaction or to apologize gently.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
