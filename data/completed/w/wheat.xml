@@ -1,0 +1,40 @@
+<Vocab id="89f394f8-6411-49bb-8ca5-e6318f7f3d3d" word="wheat" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="091596f8-fe2f-46f0-b326-e63dc3b11af6" value="Food &amp; Cooking" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="4505b9f7-0022-4255-bf6d-b006cdff3d80" value="Agricultural Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="900f5947-2af2-4f16-b2b0-8b0e427352a6" ipa="/wiːt/" vi_ipa="vi-ít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f060a236-c804-436c-9d48-d64df120ac0e" type="Noun">
+          <Vi>lúa mì</Vi>
+          <En>A cereal grass that is widely cultivated for its grain, which is ground into flour for bread, pasta, and other foods.</En>
+          <Example>Wheat is a staple crop in many countries and a key ingredient in bread production.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ebf53026-5361-43e5-91e3-aef918196f5e">
+              <Vi>Nông dân gặt lúa mì vào mùa hè.</Vi>
+              <En>Farmers harvest wheat in the summer.</En>
+            </Situation>
+            <Situation id="a5486090-afaf-434d-b5a9-00cffab467f4">
+              <Vi>Bánh mì làm từ bột lúa mì có độ dai đặc trưng.</Vi>
+              <En>Bread made from wheat flour has a characteristic chewy texture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

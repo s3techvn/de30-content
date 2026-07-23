@@ -1,0 +1,52 @@
+<Vocab id="329f44ff-c631-4dd6-aa1b-c89e314054ba" word="transmission" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+    <Topic id="d5b45c6e-2e3f-4292-9315-eb8b3d8c3993" value="Telecommunications" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" value="Automotive Technician" />
+    <Profession id="8d753d3a-b01a-41fc-b357-51ac9d5b5b2b" value="Telecommunications Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b5f1a095-0485-4df8-8816-b1037e2f176d" ipa="/trænzˈmɪʃ.ən/" vi_ipa="trăn-zmít-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8738695b-e5dc-4f2b-bca8-1383629da50b" type="Noun">
+          <Vi>hệ thống truyền động; sự truyền (tín hiệu, năng lượng, dữ liệu)</Vi>
+          <En>the process of transmitting something, especially power, signals, or data</En>
+          <Example>The car’s transmission allows the engine to transfer power to the wheels.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="05a59e6e-0af8-46a9-9dff-47a91bc2db62">
+              <Vi>Thay thế hộp số trên xe ô tô cũ.</Vi>
+              <En>Replacing the gear box in an old car.</En>
+            </Situation>
+            <Situation id="056b26eb-7c73-4b76-9c5b-6cd8b8881c17">
+              <Vi>Đảm bảo tín hiệu truyền qua cáp quang không bị suy giảm.</Vi>
+              <En>Ensuring the signal transmitted through fiber-optic cables is not degraded.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a5f19742-c014-4739-b72b-423a374c8c05" type="Noun">
+          <Vi>sự truyền phát (truyền hình, radio)</Vi>
+          <En>the broadcasting of radio or television signals</En>
+          <Example>The transmission of the live concert reached over 50 million viewers worldwide.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1098ee1-0c1d-43a1-b82e-f8d1965abb6a">
+              <Vi>Điều chỉnh anten để cải thiện chất lượng truyền hình.</Vi>
+              <En>Adjusting the antenna to improve TV signal quality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
