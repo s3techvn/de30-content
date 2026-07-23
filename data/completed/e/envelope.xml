@@ -1,0 +1,40 @@
+<Vocab id="025a3472-9b26-4a8f-8c22-7ada42cac97b" word="envelope" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="6a6f1693-07f8-476e-93db-7ff399e309a8" value="Office Clerk" />
+    <Profession id="c406d9d0-d049-4a4e-907c-3b533e6b2d5c" value="Postal Worker" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9c9fccc9-e011-4b93-9e12-8e532c66a0eb" ipa="/ˈɛn.və.loʊp/" vi_ipa="en-vơ-lốp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="394e2aea-8246-4a43-b456-0621e5037ecf" type="Noun">
+          <Vi>Bao thư</Vi>
+          <En>A flat paper container used to enclose a letter or document, typically sealed and addressed.</En>
+          <Example>She slipped the letter into the envelope and sealed it with a stamp.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="505101f3-a1e6-4c55-94b2-b0dd3b122f5f">
+              <Vi>Việc viết thư tay và cho vào bao thư để gửi qua bưu điện.</Vi>
+              <En>Writing a handwritten letter and placing it into an envelope for postal delivery.</En>
+            </Situation>
+            <Situation id="19b8eeb4-7be6-454c-94dd-eb491c175326">
+              <Vi>Hộp thư điện tử (trong phần mềm) có tên cũng là envelope, mang nghĩa ẩn dụ.</Vi>
+              <En>In email software, the term “envelope” refers metaphorically to the metadata (sender, recipient, subject), not the message body.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

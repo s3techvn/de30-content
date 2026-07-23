@@ -1094,3 +1094,4 @@ include
 flat
 generate
 position
+stunning
