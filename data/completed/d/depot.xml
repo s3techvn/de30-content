@@ -1,0 +1,40 @@
+<Vocab id="a22299da-5403-425c-aa56-c645abc8fc1c" word="depot" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+  </Topics>
+  <Professions>
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="e0cc6c42-fcf3-420e-be41-bd9c5ff0761a" value="Transportation Planner" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3164e808-777e-45b0-9af5-0f8c13190c83" ipa="/ˈdep.ɒt/" vi_ipa="đép-ốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1c8ebe92-d764-4473-b796-2ed357e0f7b5" type="Noun">
+          <Vi>Kho chứa, bến xe, trạm lưu giữ (xe, thiết bị, hàng hóa)</Vi>
+          <En>A building or place used for storing vehicles, equipment, or goods, especially buses, trains, or military supplies.</En>
+          <Example>The bus depot is located just outside the city center.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="126b3ac3-80ee-4296-bfa6-07fc912990d5">
+              <Vi>Chỗ đậu và bảo dưỡng xe buýt vào ban đêm hoặc giữa ca.</Vi>
+              <En>A facility where buses are parked, maintained, and dispatched during shifts.</En>
+            </Situation>
+            <Situation id="c20af3e1-fec8-4495-8a08-2f56964d6978">
+              <Vi>Kho chứa vũ khí và vật tư quân sự trong căn cứ.</Vi>
+              <En>A secure facility for storing weapons, ammunition, and military supplies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
