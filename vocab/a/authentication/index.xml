@@ -1,0 +1,40 @@
+<Vocab id="a2da9b40-bd50-484c-bd14-9e007192217b" word="authentication" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" value="IT Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1912ca18-55d9-40d9-982e-4c4852939074" ipa="/ˌɔː.θən.tɪˈkeɪ.ʃən/" vi_ipa="ô-tờ-nen-ti-kây-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c0f42ff-2169-4b8c-8aa9-2fc7069280aa" type="Noun">
+          <Vi>Xác thực</Vi>
+          <En>The action or process of proving or verifying that something is true, accurate, or authorized, especially by checking credentials, identity, or validity.</En>
+          <Example>The system requires two-factor authentication before granting access to sensitive data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ca3856c-3645-48e1-b57f-9dffada9287e">
+              <Vi>Người dùng nhập mật khẩu và mã OTP để xác thực danh tính khi đăng nhập vào tài khoản ngân hàng.</Vi>
+              <En>A user enters a password and an OTP to verify their identity when logging into a bank account.</En>
+            </Situation>
+            <Situation id="b0b357e4-8875-4d76-a563-4ef693dedd58">
+              <Vi>Trang web yêu cầu xác thực qua email sau khi đăng ký để đảm bảo địa chỉ email là hợp lệ.</Vi>
+              <En>The website requires email authentication after sign-up to ensure the email address is valid.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
