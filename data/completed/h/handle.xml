@@ -1,0 +1,75 @@
+<Vocab id="91d4b26c-9cb8-4d68-b503-e218808534bc" word="handle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="bfb95264-8928-4028-9ee4-01c50daae5aa" value="Tools &amp; Equipment" />
+    <Topic id="558f2ee8-c70a-4ae2-848a-038bdeb24f8a" value="Business &amp; Management" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="800af34d-6e7d-40cf-bdcc-f8f9dc525853" ipa="/ˈhæn.dəl/" vi_ipa="hờ-nen-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96da9797-3a5d-443d-9513-345228fbd0f7" type="Verb">
+          <Vi>Điều khiển, xử lý, quản lý</Vi>
+          <En>To manage or deal with something, especially a situation or responsibility</En>
+          <Example>She handled the crisis calmly and efficiently.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46fe42df-ec5a-4858-bb1f-b447bcdc58cb">
+              <Vi>Tình huống một người chịu trách nhiệm giải quyết một vấn đề khó khăn.</Vi>
+              <En>A person takes charge of resolving a difficult issue.</En>
+            </Situation>
+            <Situation id="714c3863-988f-4b60-8b84-124c296852b6">
+              <Vi>Tình huống một người điều khiển hoặc thao tác một công cụ, thiết bị.</Vi>
+              <En>A person operates or controls a tool or device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9b516d41-2ec5-4494-b441-5a0a3a9b3f68" type="Noun">
+          <Vi>Cầm, tay cầm</Vi>
+          <En>A part of an object designed to be held or grasped, such as a door handle or kettle handle</En>
+          <Example>He turned the handle to open the door.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea150a1b-8f4c-44ff-93b4-5b1d573630ec">
+              <Vi>Tình huống sử dụng tay cầm để mở cửa, bật công tắc, hoặc mang vác vật.</Vi>
+              <En>Using a handle to open a door, switch on a device, or carry an item.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="553b674e-735a-4dc8-9087-4ac8532dfdd5" ipa="/ˈhæn.dəl/" vi_ipa="hờ-nen-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c113f0c-498b-4b67-9974-d5c84bac4b22" type="Verb">
+          <Vi>Cầm, nắm, giữ (bằng tay)</Vi>
+          <En>To hold or grip something, especially with the hand</En>
+          <Example>Can you handle the pot with oven mitts?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6bd6eac-419f-4fcd-9038-33579d908cba">
+              <Vi>Tình huống cầm nắm vật nóng hoặc nặng một cách an toàn.</Vi>
+              <En>Grasping a hot or heavy object safely, e.g., while cooking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
