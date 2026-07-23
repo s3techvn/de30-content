@@ -1,0 +1,32 @@
+<Vocab id="4d00cf21-5b6d-479e-b3ae-0b998fdd2d07" word="elizabeth" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9a86d3ca-edf9-4249-af54-54dd899a15a6" ipa="/ˈel.ɪ.zə.bəθ/" vi_ipa="e-lí-zơ-bết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8b4685aa-981f-491a-b69a-013a8d1ea59f" type="Proper Noun">
+          <Vi>Tên riêng, thường là tên nữ (viết hoa: Elizabeth)</Vi>
+          <En>A female given name, of Hebrew origin, meaning "God is my oath".</En>
+          <Example>Queen Elizabeth II reigned for over 70 years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6833eff4-c236-49c0-8afb-9acb7ef40604">
+              <Vi>Dùng để gọi hoặc đề cập đến một người phụ nữ tên Elizabeth, hoặc trong các tên đầy đủ như Elizabeth II.</Vi>
+              <En>Used to refer to or address a woman named Elizabeth, or in full names such as Elizabeth II.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
