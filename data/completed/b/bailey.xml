@@ -1,0 +1,33 @@
+<Vocab id="90799247-8978-45ac-84d5-85303dc011ea" word="bailey" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6f830062-2923-4e8f-9a69-0d77c664230e" ipa="/ˈbeɪ.li/" vi_ipa="bê-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="be4b2bf1-4da2-413e-b988-66daa7187783" type="Noun">
+          <Vi>phần sân trong của lâu đài, thường là khu vực mở bao quanh tháp chính</Vi>
+          <En>an outer courtyard or yard of a castle, typically enclosed by a wall and surrounding the main keep</En>
+          <Example>The soldiers gathered in the bailey to prepare for the morning inspection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f89355bb-7f67-4d47-97dc-2e50dca7b47e">
+              <Vi>Mô tả cấu trúc phòng thủ của lâu đài thời trung cổ.</Vi>
+              <En>Describing the defensive layout of a medieval castle.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
