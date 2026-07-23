@@ -1,0 +1,40 @@
+<Vocab id="0b00b3b6-9665-42cf-971f-f22fa9aa5702" word="promptly" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d9c51134-e497-4bce-90b2-1da5f6b21ba4" ipa="/ˈprɑːmptli/" vi_ipa="prôm-p-t-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="28ae393a-c90f-406f-8556-a759c22dc427" type="Adverb">
+          <Vi>ngay lập tức; một cách nhanh chóng và đúng giờ</Vi>
+          <En>in a timely and efficient manner; without delay</En>
+          <Example>The manager asked the team to submit the report promptly by Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c5d2cf0-d383-4f8b-bb9f-419495ab0698">
+              <Vi>Yêu cầu hoặc nhắc nhở ai đó thực hiện việc gì ngay khi được yêu cầu.</Vi>
+              <En>Asking or reminding someone to do something immediately when requested.</En>
+            </Situation>
+            <Situation id="e34be23a-8d11-4f86-b3b2-343cddfeb994">
+              <Vi>Mô tả hành động được thực hiện đúng hạn, không trễ nải.</Vi>
+              <En>Describing an action carried out on time, without lateness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
