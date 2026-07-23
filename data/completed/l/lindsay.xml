@@ -1,0 +1,32 @@
+<Vocab id="465003c0-b205-4438-be1d-585d60f91d20" word="lindsay" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="06ff4c26-9c23-4bd4-a4b8-93d53e7b3532" ipa="/ˈlɪn.dzeɪ/" vi_ipa="lìn-dây">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="676d6be5-45a4-415c-b9c8-3f57993f4a43" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên người), thường là tên người Anh hoặc Mỹ</Vi>
+          <En>A proper noun, typically used as a surname or given name in English-speaking countries.</En>
+          <Example>She goes by Lindsay, not Lindsey.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8fde7b5-7733-491a-b0ef-ec11d3d48278">
+              <Vi>Dùng để chỉ một người có tên Lindsay, ví dụ trong giới giải trí, thể thao hoặc đời thường.</Vi>
+              <En>Used to refer to a person named Lindsay, e.g., in entertainment, sports, or everyday contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
