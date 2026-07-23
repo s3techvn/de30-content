@@ -1,0 +1,34 @@
+<Vocab id="fb75b03d-6154-44db-9a89-da4232a34a90" word="chef" type="short" status="done">
+  <Topics>
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="eb50cdd8-a6b5-4213-bc0f-6372a8c94388" value="Restaurant Manager" />
+    <Profession id="a5bbdccc-a983-4ce7-affe-1787dfe4c6d5" value="Culinary Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="330ad453-d47e-4341-b658-aaa14649ab48" ipa="/ʃɛf/" vi_ipa="sếp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3fce9c87-142f-4e36-8351-157184b7a2eb" type="Noun">
+          <Vi>đầu bếp</Vi>
+          <En>A professional cook who is trained in cooking and usually works in a restaurant or hotel.</En>
+          <Example>The head chef prepared a five-course tasting menu for the VIP guests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9ea271a-c68e-4c88-b692-c3de2289cfda">
+              <Vi>Một người làm việc trong nhà bếp, chịu trách nhiệm lên thực đơn, chuẩn bị và giám sát việc nấu ăn.</Vi>
+              <En>A person who works in a kitchen, responsible for designing menus, preparing food, and supervising kitchen staff.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

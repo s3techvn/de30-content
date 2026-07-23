@@ -1,0 +1,52 @@
+<Vocab id="87929e27-bc93-4569-9bcd-6311d60e8b81" word="artificial" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6a06dcc1-3096-4ebe-9757-677c0420e8a9" value="AI Researcher" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64bb7791-9158-4030-bf7f-788086861705" ipa="/ˌɑːr.tɪˈfɪʃ.əl/" vi_ipa="ác-ti-fờ-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad895a9b-8de4-4920-8363-f345f6ee2b4b" type="Adjective">
+          <Vi>giả tạo; nhân tạo</Vi>
+          <En>Made or produced by human beings rather than occurring naturally, especially as a copy or imitation of something natural.</En>
+          <Example>The restaurant uses artificial flavorings instead of fresh herbs.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e8205f39-7b01-41e3-bb8b-c2c56ba69f3d">
+              <Vi>Mô tả thứ không tự nhiên, được con người chế tạo ra để thay thế hoặc mô phỏng tự nhiên.</Vi>
+              <En>Describing something not occurring naturally, created by humans to replace or imitate natural things.</En>
+            </Situation>
+            <Situation id="af89a9f6-185a-4bf5-a69a-7a218b9c9a7c">
+              <Vi>Dùng trong bối cảnh công nghệ, như trí tuệ nhân tạo hoặc chất tạo hương.</Vi>
+              <En>Used in technological contexts, such as artificial intelligence or artificial sweeteners.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f542dc01-6ae7-4bbf-b2cf-8500cc9737aa" type="Adjective">
+          <Vi>không chân thành; giả tạo (về cảm xúc, hành vi)</Vi>
+          <En>Lacking authenticity or sincerity; insincere or simulated.</En>
+          <Example>She gave an artificial smile, though she was deeply upset.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b7ff208-cc7c-47bd-ae5c-97b515306db2">
+              <Vi>Mô tả biểu cảm, lời nói, hoặc hành vi không chân thành, chỉ để giữ thể diện.</Vi>
+              <En>Describing expressions, speech, or behavior that are not genuine, often to maintain appearances.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
