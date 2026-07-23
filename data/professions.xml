@@ -686,4 +686,5 @@
   <Profession id="fcadf7e5-af5f-4033-b853-55a6ac943b94" slug="restaurant-staff" value="Restaurant Staff" />
   <Profession id="ff7a5f19-aa68-499c-919a-08ab534d3407" slug="forensic-scientist" value="Forensic Scientist" />
   <Profession id="0fed7238-bc23-4f21-b1ea-8f5070f307b8" slug="private-investigator" value="Private Investigator" />
+  <Profession id="35a2c003-2223-4e12-bc05-8959f38b378f" slug="media-analyst" value="Media Analyst" />
 </Professions>
