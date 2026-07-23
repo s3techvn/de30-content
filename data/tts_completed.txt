@@ -892,3 +892,4 @@ width
 force
 armed
 regional
+bolt
