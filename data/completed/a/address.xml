@@ -1,0 +1,78 @@
+<Vocab id="696ff2bb-578d-406f-aa06-9863b0c45c64" word="address" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ce0a605f-323e-4fff-9c94-37747ec86db1" ipa="/əˈdres/" vi_ipa="ơ-đrét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="65782c33-2f3d-4104-a417-25b4af36288b" type="Verb">
+          <Vi>địa chỉ, đề cập đến, giải quyết, phát biểu</Vi>
+          <En>to speak to someone directly; to deal with or deal with something in a formal or official way</En>
+          <Example>She addressed the audience after the presentation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="826acf46-dcdc-45bb-a903-30904c0d6e9f">
+              <Vi>Nhà quản lý phát biểu trước toàn bộ nhân viên trong buổi họp.</Vi>
+              <En>The manager speaks directly to the entire staff during the meeting.</En>
+            </Situation>
+            <Situation id="7148994f-0106-4deb-9c78-e37246bbe80d">
+              <Vi>Chính phủ cam kết sẽ giải quyết vấn đề an ninh lương thực.</Vi>
+              <En>The government commits to addressing the food security issue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4aa4e613-3488-4a58-9a7d-859890651a6e" type="Noun">
+          <Vi>địa chỉ (nhà, email, URL), bài phát biểu</Vi>
+          <En>a physical location or digital identifier where someone or something can be found or contacted; a formal speech delivered to an audience</En>
+          <Example>Please provide your shipping address for delivery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a46533c-9f7c-43bf-b398-f988c81b016c">
+              <Vi>Tôi đã nhập sai địa chỉ email nên không nhận được mã xác nhận.</Vi>
+              <En>I entered the wrong email address, so I didn’t receive the verification code.</En>
+            </Situation>
+            <Situation id="ed1f2530-0db3-4f90-8d96-7c0ace6cb044">
+              <Vi>Tổng thống đã đọc bài diễn văn nhậm chức vào ngày hôm sau.</Vi>
+              <En>The president delivered the inaugural address the following day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="221cfb6a-3860-436e-a8bc-23f44625a1da" ipa="/ˈæd.res/" vi_ipa="ác-đrét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3bcfc461-a89b-4ea2-8da4-354b3b4c14d5" type="Noun">
+          <Vi>địa chỉ (nhà, thư tín, email, URL)</Vi>
+          <En>a set of details (street, city, postal code, etc.) used to locate a person or organization physically or digitally</En>
+          <Example>His home address is 123 Main Street, Springfield.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5bdcd14b-27ca-4a10-9a78-81b2b1a57d12">
+              <Vi>Trang web yêu cầu địa chỉ IP để xác định vị trí người dùng.</Vi>
+              <En>The website requires an IP address to determine the user’s location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
