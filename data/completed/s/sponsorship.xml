@@ -1,0 +1,40 @@
+<Vocab id="9245b233-3c36-40bd-90d9-27a03f2d6d61" word="sponsorship" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="2a0f8ef5-fae8-4b0b-b218-9966c324bd95" value="Marketing Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="6a832b82-f2e2-4aaf-ab49-1278260f1eed" value="Sports Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5854c2ac-580f-4119-994d-9352d0aea942" ipa="/ˈspɒn.sər.ʃɪp/" vi_ipa="xpon-xơ-rờ-síp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b6df8925-6807-4e39-98d8-4cfb3a42ee6e" type="Noun">
+          <Vi>Sự bảo trợ; quyền bảo trợ</Vi>
+          <En>The act of supporting an event, person, or organization financially or through promotion, typically in exchange for advertising or visibility.</En>
+          <Example>The company secured sponsorship for the marathon, providing $50,000 in exchange for logo placement on all race materials.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="29eed783-33d3-422e-a47e-6cab96caa736">
+              <Vi>Doanh nghiệp ký hợp đồng tài trợ cho sự kiện thể thao để tăng độ phủ sóng thương hiệu.</Vi>
+              <En>A business signs a sponsorship deal for a sporting event to increase brand exposure.</En>
+            </Situation>
+            <Situation id="c1dd18c0-4f31-450e-8bd0-87698b9588a5">
+              <Vi>Người hâm mộ nhận được quà tặng từ nhà tài trợ tại buổi hòa nhạc.</Vi>
+              <En>Fans receive promotional gifts from the event’s sponsor at a concert.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
