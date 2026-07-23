@@ -1,0 +1,44 @@
+<Vocab id="b03c83db-d120-4c88-a029-5482eab6af85" word="could" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e0ed94b0-d0a5-4a33-a7f1-6e57b0e3a1df" ipa="/kʊd/" vi_ipa="cút">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6549d328-41b1-4cfa-bd71-c6891069b0ff" type="Modal Verb">
+          <Vi>Có thể (dùng để diễn tả khả năng trong quá khứ hoặc để đưa ra lời đề nghị, lời yêu cầu lịch sự, hoặc giả định không chắc chắn)</Vi>
+          <En>Used to express past ability, make polite requests or offers, or indicate possibility or uncertainty.</En>
+          <Example>I could swim when I was five.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f59b82fb-753a-44b7-8f0f-cc60d4ddb196">
+              <Vi>Mô tả khả năng đã có trong quá khứ.</Vi>
+              <En>Describing an ability that existed in the past.</En>
+            </Situation>
+            <Situation id="d26e335b-0c75-4f27-8ac8-0602ff792556">
+              <Vi>Đưa ra lời đề nghị lịch sự.</Vi>
+              <En>Making a polite offer (e.g., “Could I help you?”).</En>
+            </Situation>
+            <Situation id="9978e1ad-3ff7-4016-ad6a-2b20dbe03583">
+              <Vi>Diễn tả khả năng hoặc giả định không chắc chắn.</Vi>
+              <En>Expressing possibility or hypothetical situations (e.g., “It could rain tomorrow.”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
