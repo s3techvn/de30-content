@@ -1,0 +1,46 @@
+<Vocab id="8febd218-37a2-4b6a-aa79-e27071b74c5d" word="cause" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9b726b27-1a19-4e07-9b7d-f2503fd8d04a" ipa="/kɔːz/" vi_ipa="cơ-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="432babfa-09b7-4fac-aaaa-31c2c8547f79" type="Noun">
+          <Vi>Nguyên nhân; lý do</Vi>
+          <En>The reason for an event or condition; something that produces an effect or result.</En>
+          <Example>Smoking is a leading cause of lung cancer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3674fb61-b18d-45d1-9e71-5dfaa18021ec">
+              <Vi>Mô tả điều gì làm cho một sự kiện xảy ra.</Vi>
+              <En>Describes what makes an event happen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="73ef0d10-4a5b-4360-8fbd-59abbdbcfc6c" type="Verb">
+          <Vi>Làm cho; gây ra</Vi>
+          <En>To make something happen; to be the reason for an event or condition.</En>
+          <Example>The heavy rain caused flooding in the city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="89700796-9328-45b0-8a2d-b7f3534c0d3c">
+              <Vi>Dùng khi nói về tác động hoặc hậu quả do một hành động hoặc sự kiện.</Vi>
+              <En>Used when describing an action or event that produces an effect or consequence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
