@@ -1,0 +1,40 @@
+<Vocab id="744797a0-b9a4-4d1a-aff0-538face9dd11" word="finite" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="458bb09d-02b9-4d55-8d75-6f94f91a178c" ipa="/ˈfaɪ.naɪt/" vi_ipa="fai-nai-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5618d08-5415-4c28-abc8-1ec139cd67af" type="Adjective">
+          <Vi>hữu hạn</Vi>
+          <En>Having limits or bounds; not infinite.</En>
+          <Example>The universe may be finite in size, though we have not yet determined its exact boundaries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d6f0fa6-28c0-42f0-bba5-8b175051de9a">
+              <Vi>Trong toán học, mô tả một tập hợp có số phần tử cụ thể, ví dụ như tập hợp các số nguyên từ 1 đến 10.</Vi>
+              <En>In mathematics, describing a set with a specific number of elements, e.g., the set of integers from 1 to 10.</En>
+            </Situation>
+            <Situation id="45c80c1b-e049-4903-879e-b70cc05fb48a">
+              <Vi>Trong triết học, dùng để chỉ những thực thể có giới hạn về thời gian hoặc không gian, trái ngược với vô cực.</Vi>
+              <En>In philosophy, used to describe entities with limits in time or space, as opposed to the infinite.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
