@@ -1,0 +1,52 @@
+<Vocab id="eac2d380-1956-48b5-90ae-b7abdeaeedfd" word="attention" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a444ce33-0728-4878-804d-351cfad1a8ac" ipa="/əˈten.ʃən/" vi_ipa="ơ-tên-shờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f31a7b72-c432-465b-b8d3-c4dcd3409952" type="Noun">
+          <Vi>Sự chú ý; sự tập trung (tâm trí)</Vi>
+          <En>The action of giving notice or notice to someone or something; mental focus or concentration</En>
+          <Example>She paid close attention to the teacher’s instructions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e32f08d7-9cfd-435e-8da0-c591084fa0ac">
+              <Vi>Trong lớp học, học sinh cần giữ sự chú ý để tiếp thu bài giảng.</Vi>
+              <En>In a classroom, students need to maintain attention to absorb the lesson.</En>
+            </Situation>
+            <Situation id="7200f370-29ea-450b-8751-e1f1657871f6">
+              <Vi>Công việc đòi hỏi sự chú ý cao để tránh sai lầm.</Vi>
+              <En>The job demands high attention to detail to avoid mistakes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9bde0c56-0e88-41ef-8742-a2cd6f40d3a5" type="Noun">
+          <Vi>Sự quan tâm, chăm sóc (đối với người khác)</Vi>
+          <En>Care, concern, or interest shown toward someone or something</En>
+          <Example>He gave her all his attention during their conversation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="704fde17-88d0-41e5-bc83-1abe225dfb81">
+              <Vi>Khi người khác đang chia sẻ, hãy lắng nghe với sự chú ý chân thành.</Vi>
+              <En>When others are sharing, listen with genuine attention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
