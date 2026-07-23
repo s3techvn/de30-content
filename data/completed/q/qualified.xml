@@ -1,0 +1,53 @@
+<Vocab id="40423c70-6a7c-4d44-8799-9773e96444a5" word="qualified" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="15fc4cbe-2431-4e2f-8a14-dc61f1578c31" value="Employment" />
+    <Topic id="aa945c95-d3b6-4183-9f69-46536818d752" value="Professional Development" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e1acea6f-75df-4531-b396-d2138a68839f" ipa="/ˈkwɑː.lɪ.faɪd/" vi_ipa="cờ-đờ-nhíp-fây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c52948e0-e25e-4aff-b40d-4ff5c2ad91f2" type="Adjective">
+          <Vi>Đủ điều kiện; có đủ năng lực, trình độ để làm gì</Vi>
+          <En>Having the necessary ability, knowledge, or skill to do something successfully</En>
+          <Example>She is a qualified teacher with over ten years of experience.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c187503a-6590-4397-8606-ab996a8e9a49">
+              <Vi>Mô tả người đã qua đào tạo và đạt tiêu chuẩn nghề nghiệp</Vi>
+              <En>Describing someone who has completed formal training and meets professional standards</En>
+            </Situation>
+            <Situation id="0bc8cc9f-cb35-4184-9986-44ca170c24fd">
+              <Vi>Điều kiện để được nhận vào một vị trí hoặc chương trình</Vi>
+              <En>The requirement for being accepted into a position or program</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="83613e9d-5b7e-4350-a575-251d653fc915" type="Adjective">
+          <Vi>Có điều kiện (thường kèm theo "for" hoặc "to" – chỉ khả năng cụ thể)</Vi>
+          <En>Having the specific ability or right to do something (often used with *for* or *to*)</En>
+          <Example>He is qualified to serve on the committee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69d3e804-0406-415f-8ade-0bb55bfd8716">
+              <Vi>Khi nói về khả năng cụ thể trong một vai trò hoặc nhiệm vụ</Vi>
+              <En>When referring to someone’s specific capability for a particular role or task</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
