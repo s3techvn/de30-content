@@ -1,0 +1,40 @@
+<Vocab id="2124ad6e-0a1f-4df3-8ece-a84c27ccda84" word="abandoned" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="d92e657f-ccc5-4667-896f-d142f238587d" value="Urban Exploration" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9d24b768-9508-49db-898c-ad6f7a3d540e" ipa="/ˈæb.ən.dənd/" vi_ipa="áp-bê-n-dơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef945935-ebe5-4a90-a982-1f7fad2547d8" type="Adjective">
+          <Vi>Bị bỏ rơi, bị bỏ mặc; hoang phế</Vi>
+          <En>Left behind or deserted, especially when unwanted or no longer useful; in a state of disrepair due to neglect.</En>
+          <Example>The old factory was abandoned after the company went bankrupt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b38d6c55-87fb-46ee-badc-ee8bdde37a23">
+              <Vi>Một ngôi nhà hoặc công trình bị bỏ hoang do chủ sở hữu không còn quan tâm hoặc không thể duy trì.</Vi>
+              <En>A building or property left unoccupied and unmaintained by its owner or users.</En>
+            </Situation>
+            <Situation id="6d3e2252-de79-4462-9cbe-13d0b449e462">
+              <Vi>Cảm giác bị người thân hoặc người yêu bỏ rơi, không còn được quan tâm.</Vi>
+              <En>Feeling deeply rejected or left alone by someone who was expected to care for or stay with you.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

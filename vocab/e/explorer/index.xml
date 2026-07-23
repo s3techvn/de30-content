@@ -1,0 +1,41 @@
+<Vocab id="8dd5493f-7646-4289-a9e7-9b0432f531d7" word="explorer" type="short" status="done">
+  <Topics>
+    <Topic id="1fd17b11-141e-4c8d-8c98-414193268a60" value="Travel &amp; Exploration" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="f8976ea2-08f1-455e-bbae-a3741a0ac6a9" value="Astronaut" />
+    <Profession id="4bfede02-f568-4e85-bbdd-02ffc16e5e16" value="Field Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f0bb372-a010-4ce0-a20c-92a7ccb7d13e" ipa="/ɪkˈsplɔː.ər/" vi_ipa="ích-xpờ-lô-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6f173ba-3236-4dc7-a387-6fb6257c9f0f" type="Noun">
+          <Vi>Người thám hiểm</Vi>
+          <En>A person who travels to unknown or unfamiliar places, especially to explore and discover new lands, cultures, or scientific information.</En>
+          <Example>Christopher Columbus was a famous explorer who crossed the Atlantic Ocean in 1492.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9817f609-792a-4917-9091-faa1642097b3">
+              <Vi>Người thám hiểm đặt chân đến vùng đất hoang vu chưa được khám phá.</Vi>
+              <En>A person ventures into uncharted rainforests or polar regions to map and study them.</En>
+            </Situation>
+            <Situation id="152fe990-df06-4d2c-8798-16dd5fbd438b">
+              <Vi>Trong công nghệ, phần mềm “explorer” giúp người dùng duyệt tập tin.</Vi>
+              <En>In computing, a file explorer helps users navigate directories and manage files.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

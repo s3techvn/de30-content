@@ -810,3 +810,4 @@ donated
 satellite
 fighter
 authorized
+explorer
