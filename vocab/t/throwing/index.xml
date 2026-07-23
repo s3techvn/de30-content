@@ -1,0 +1,54 @@
+<Vocab id="167d53e3-4c2a-4a46-8e63-9ee4ecba0fcb" word="throwing" type="short" status="done">
+  <Topics>
+    <Topic id="e8a3f541-d25c-4916-924f-c4a837781062" value="Sports &amp; Activities" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="28b33600-9fbe-4072-bd7a-7c44136bc1ef" ipa="/ˈθroʊ.ɪŋ/" vi_ipa="thrô-ín">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4b8b792f-89d1-42b1-a844-56b516be5eee" type="Verb">
+          <Vi>ném, vứt, quăng</Vi>
+          <En>to send (something) through the air by using the hand and arm</En>
+          <Example>She was throwing the baseball to her teammate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03027b41-f9ff-4854-a6a2-ad851ee963e6">
+              <Vi>Tình huống trong thể thao: một cầu thủ ném bóng</Vi>
+              <En>Sports context: a player hurls a ball</En>
+            </Situation>
+            <Situation id="e957eb93-516c-417e-ab02-2db9f3b33449">
+              <Vi>Ném rác vào thùng</Vi>
+              <En>Throwing trash into a bin</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9a7140b4-517e-4e78-9a13-8a6eaa8d4ea6" type="Verb">
+          <Vi>phóng, tung (ánh sáng, tia, ánh chớp…)</Vi>
+          <En>to emit or send out (light, a glance, etc.) suddenly or forcefully</En>
+          <Example>He threw a quick glance at the clock before leaving.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ad1fc73-47c4-4684-8d1d-c31a9141938a">
+              <Vi>Ném ánh nhìn nhanh</Vi>
+              <En>Throwing a quick glance</En>
+            </Situation>
+            <Situation id="3eac6983-c160-49f5-8840-8e992471b7d5">
+              <Vi>Tia chớp lóe lên trên bầu trời</Vi>
+              <En>A lightning bolt throwing bright light across the sky</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

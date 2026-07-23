@@ -1,0 +1,34 @@
+<Vocab id="81d928fd-d32d-4393-b79f-1a68f9436f6d" word="vermont" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="edd7bc95-3e06-40dc-a63e-5c2fcd8c76fc" ipa="/ˈvɜːr.mənt/" vi_ipa="vơ-mợn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="492beadd-3dbe-4205-9b79-f8182bc420ad" type="Noun">
+          <Vi>bang Vermont, một bang ở miền Đông Bắc Hoa Kỳ</Vi>
+          <En>a state in the northeastern United States, known for its green mountains, maple syrup, and ski resorts</En>
+          <Example>Many tourists visit Vermont in the fall to see the vibrant autumn foliage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ad5c434-11aa-4e32-bb5c-086ce2d154f7">
+              <Vi>Người dân hoặc du khách nói về đặc sản, cảnh quan, hoặc đời sống tại bang Vermont.</Vi>
+              <En>Discussions about local culture, nature, or travel in Vermont.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
