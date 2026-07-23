@@ -1,0 +1,37 @@
+<Vocab id="1d6db8f1-23ba-4294-9fe7-cebb7bcce78d" word="teeth" type="short" status="done">
+  <Topics>
+    <Topic id="b06d15af-0fa1-45a2-afc7-3be9ee305b3a" value="Health &amp; Body" />
+  </Topics>
+  <Professions>
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="87c3266f-33c8-45fe-8ea8-dc41aa2273e2" ipa="/tiːθ/" vi_ipa="tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2f36d503-55bf-430a-b9f9-bba98221c8ef" type="Noun">
+          <Vi>Răng (số nhiều)</Vi>
+          <En>The hard, white tissues in the mouth used for biting and chewing; plural of tooth.</En>
+          <Example>She brushed her teeth twice a day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4860674c-849a-44cf-80c2-e2aaf89aa7d9">
+              <Vi>Mô tả tình huống vệ sinh răng miệng hàng ngày.</Vi>
+              <En>Describes daily oral hygiene routines such as brushing or flossing.</En>
+            </Situation>
+            <Situation id="c31bca3a-cb20-434d-9563-6c2846e12849">
+              <Vi>Tình huống khi bị đau răng hoặc đi khám nha sĩ.</Vi>
+              <En>A context involving tooth pain or a dental check-up.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
