@@ -1,0 +1,40 @@
+<Vocab id="e1bf5b7b-4476-4ed2-a467-d2bd55e2e348" word="thanksgiving" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="4ccf17bc-2251-48dc-94d5-017eb038267e" value="Holidays" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7eec9f9-f95a-4f78-bc9e-eefde95485c9" ipa="/ˈθæŋkˌɡɪvɪŋ/" vi_ipa="thăng-khi-vin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3774537c-3c92-41d8-9fb1-608b08722b30" type="Noun">
+          <Vi>Lễ Tạ Ơn</Vi>
+          <En>A national holiday in the United States, celebrated on the fourth Thursday of November, commemorating the harvest and blessings of the past year, traditionally marked by a feast featuring turkey.</En>
+          <Example>Many families gather for Thanksgiving dinner, where gratitude is expressed and a turkey is the centerpiece of the meal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e597170-a8f8-4ef6-a54f-d22302dcb429">
+              <Vi>Lễ hội hàng năm vào cuối tháng 11 ở Mỹ, khi người dân tụ tập để ăn tối và bày tỏ lòng biết ơn.</Vi>
+              <En>An annual U.S. holiday in late November where families reunite for a festive meal and express gratitude.</En>
+            </Situation>
+            <Situation id="d155b139-f824-4143-9a16-588fc133bada">
+              <Vi>Các hoạt động chuẩn bị như mua gà tây, trang trí nhà cửa, và xem parade trước ngày Lễ Tạ Ơn.</Vi>
+              <En>Preparations such as buying a turkey, decorating homes, and watching parades before Thanksgiving Day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
