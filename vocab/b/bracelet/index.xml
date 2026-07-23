@@ -1,0 +1,38 @@
+<Vocab id="ab64f50c-9644-4b31-a45b-186ca5979cd3" word="bracelet" type="short" status="done">
+  <Topics>
+    <Topic id="33dd8324-d1ab-4c5d-b271-8e1f4e4f363b" value="Fashion &amp; Accessories" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0647ef60-0b78-470c-a62a-6cbe6034c86f" ipa="/ˈbreɪ.səl/" vi_ipa="brey-sờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="80416406-bdcb-4caf-b091-e2cf94d96ee4" type="Noun">
+          <Vi>Vòng tay</Vi>
+          <En>A piece of jewelry worn around the wrist, typically made of metal, beads, or leather, and often decorative or symbolic.</En>
+          <Example>She wore a silver bracelet engraved with her initials.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71968cbf-0dab-4e41-8d76-d30c18c57ec8">
+              <Vi>Một người phụ nữ đeo vòng tay trang trí trong buổi tiệc.</Vi>
+              <En>A woman wearing a decorative bracelet at a party.</En>
+            </Situation>
+            <Situation id="4b09050f-2d1d-4877-b2d4-0f75b6a69eef">
+              <Vi>Vòng tay như vật kỷ niệm từ chuyến du lịch.</Vi>
+              <En>A bracelet kept as a souvenir from a trip.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

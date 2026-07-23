@@ -1,0 +1,40 @@
+<Vocab id="0d3fb90a-20ef-4c37-bad3-5ea3cead6d5b" word="finding" type="short" status="done">
+  <Topics>
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ce468f8-d2b2-4806-9ab7-96f9f2347d53" ipa="/ˈfaɪn.dɪŋ/" vi_ipa="fây-nhíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="187ef661-33e7-41cf-a7b6-ef510d96e4aa" type="Noun">
+          <Vi>Kết luận; phát hiện; kết quả điều tra</Vi>
+          <En>A conclusion or result reached after investigation, research, or a trial.</En>
+          <Example>The jury's finding was that the defendant was not guilty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="368d74be-84dc-47c3-a513-f106f6128285">
+              <Vi>Trong phiên tòa, hội đồng xét xử đưa ra kết luận về trách nhiệm pháp lý.</Vi>
+              <En>In a court trial, the jury delivers a formal conclusion on legal liability.</En>
+            </Situation>
+            <Situation id="bb1263a8-b721-439d-b54a-c790628f7f6b">
+              <Vi>Nhà khoa học công bố phát hiện mới về biến đổi khí hậu.</Vi>
+              <En>A scientist announces a new finding on climate change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
