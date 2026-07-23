@@ -745,4 +745,5 @@
   <Profession id="82b90720-3dea-454b-9ffb-b7ab21c04d75" slug="debt-collector" value="Debt Collector" />
   <Profession id="b91687e7-155a-4c70-98b1-3841d4603011" slug="award-committee-member" value="Award Committee Member" />
   <Profession id="9c60c73f-b79d-4117-a2dc-413329c2a98b" slug="traditional-artisan" value="Traditional Artisan" />
+  <Profession id="e54a248a-e2ad-47ab-9962-4ca2e2a97c30" slug="diy-enthusiast" value="DIY Enthusiast" />
 </Professions>

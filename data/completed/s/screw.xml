@@ -1,0 +1,83 @@
+<Vocab id="4ed5c571-0343-426c-8016-d80d704d271d" word="screw" type="short" status="done">
+  <Topics>
+    <Topic id="cfc8f867-2cc1-47d8-a87e-b75f97f70d1a" value="Hardware" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="e54a248a-e2ad-47ab-9962-4ca2e2a97c30" value="DIY Enthusiast" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="792d2259-6d20-4dfa-9071-60b516f989d0" ipa="/skruː/" vi_ipa="sờ-rúp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="53043fd6-0d67-4bb8-a230-a25243ed9b14" type="Noun">
+          <Vi>con ốc vít; trục vít; cái kẹp (dạng vít)</Vi>
+          <En>A fastener with a helical ridge (thread) wrapped around a cylinder, used to hold objects together or to lift materials.</En>
+          <Example>He tightened the screw with a Phillips screwdriver.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="75575262-f953-4e43-af43-85c4518eb921">
+              <Vi>Thay ốc bị lỏng trong thiết bị điện tử.</Vi>
+              <En>Tightening a loose screw in an electronic device.</En>
+            </Situation>
+            <Situation id="4471bb0b-58b5-4286-a8a2-aab329eeb184">
+              <Vi>Chế tạo mô hình máy bay bằng gỗ, dùng ốc để lắp ráp.</Vi>
+              <En>Building a wooden model airplane using screws to assemble parts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8d3abfbb-d93f-4a4d-a562-0837b7ff6494" type="Verb">
+          <Vi>vặn ốc; siết ốc; quay (vít) vào/chốt lại</Vi>
+          <En>To fasten, attach, or secure something using a screw; to turn or rotate something tightly, often with force.</En>
+          <Example>She screwed the shelf to the wall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7a37bec-6c81-4f39-a136-5f15b1cce450">
+              <Vi>Vặn ốc để lắp ráp bàn ghế tự làm.</Vi>
+              <En>Turning screws to assemble DIY furniture.</En>
+            </Situation>
+            <Situation id="4542fe7e-26d2-4df6-a529-c7dd3ca581b0">
+              <Vi>Siết chặt ốc trong quá trình sửa ống nước.</Vi>
+              <En>Tightening a pipe fitting with a screw mechanism during plumbing repair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="66d1957c-f4a2-4ac0-a6d2-0d3869889ee7" ipa="/skruː/" vi_ipa="sờ-rúp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9910ab30-c1eb-4c26-a65a-5377e0586712" type="Verb (slang)">
+          <Vi>đùa (ai đó); lừa (ai đó); làm phiền (ai đó) một cách khó chịu</Vi>
+          <En>To tease, prank, or irritate someone, often playfully but sometimes mockingly.</En>
+          <Example>I was just screwing with you—don’t take it so seriously!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26b77a6b-cec7-4476-8c32-f119bd728031">
+              <Vi>Nhắn tin đùa vui với bạn, rồi nói “I was just screwing with you!”</Vi>
+              <En>Sending a playful teasing message to a friend and clarifying afterward.</En>
+            </Situation>
+            <Situation id="daeb3d09-ae37-4396-bda5-ecf915d15337">
+              <Vi>Đùa nghịch khi đang họp nhóm, khiến đồng nghiệp cười.</Vi>
+              <En>Teasing a teammate during a group meeting, prompting laughter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
