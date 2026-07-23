@@ -1,0 +1,54 @@
+<Vocab id="61ac2b30-1eb5-4128-997b-73fc9b57d22c" word="literacy" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="026fc1fd-4c0a-4e3b-a026-e135dfb80540" value="Policy Maker" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dda851b1-1363-4fe0-9c82-d8aac945388d" ipa="/ˈlɪt.ər.ə.si/" vi_ipa="lít-tơ-rơ-xì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="55928c44-4fd7-47ba-92ab-ac5fd3c0ca4c" type="Noun">
+          <Vi>Trình độ biết đọc biết viết; văn hóa đọc viết</Vi>
+          <En>The ability to read and write, typically measured by performance on standardized tests or by self-report.</En>
+          <Example>Universal literacy is a key goal of many international development programs.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcf6fa30-658e-4e96-b090-eb6270435b24">
+              <Vi>Chương trình xóa mù chữ cho người lớn tại các quốc gia đang phát triển.</Vi>
+              <En>A government initiative to teach adults basic reading and writing skills.</En>
+            </Situation>
+            <Situation id="cf6c8dc3-aa97-4a4a-8a8a-ca169494cb8b">
+              <Vi>Chỉ số trình độ biết đọc biết viết của một quốc gia.</Vi>
+              <En>The percentage of a population aged 15 and above who can read and write.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9adb5d31-ad85-4770-8a17-a8ace915ffdc" type="Noun">
+          <Vi>Hiểu biết chuyên sâu về một lĩnh vực cụ thể (tương tự như “literacy” trong các ngữ cảnh chuyên môn)</Vi>
+          <En>Competence or knowledge in a particular subject or field, such as digital literacy or financial literacy.</En>
+          <Example>Digital literacy is essential for navigating modern workplaces and educational environments.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="05bc80ec-3cfc-4e5b-8c58-3f638dfb064e">
+              <Vi>Đào tạo nhân viên về kỹ năng sử dụng phần mềm văn phòng cơ bản.</Vi>
+              <En>Providing training to staff on basic computer and office software skills.</En>
+            </Situation>
+            <Situation id="50a16ec9-3243-4dcd-ba07-12340a791e40">
+              <Vi>Học sinh được dạy cách đánh giá nguồn tin trên mạng.</Vi>
+              <En>Teaching students how to critically evaluate online information sources.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
