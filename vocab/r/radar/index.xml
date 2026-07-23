@@ -1,0 +1,40 @@
+<Vocab id="fdc39524-0555-4b3c-8f20-428bca9cc72a" word="radar" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+  </Topics>
+  <Professions>
+    <Profession id="0de0b21a-eb21-472d-bf71-ad123ccf2c13" value="Air Traffic Controller" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="3cf0b40f-5db4-4144-af77-e45f16902a30" value="Aviation Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ecd39397-53fd-4699-8924-52cb4bead226" ipa="/ˈreɪ.dɑːr/" vi_ipa="rây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="048d78fc-211c-48f3-8fa9-b505332c48b6" type="Noun">
+          <Vi>Máy radar</Vi>
+          <En>A system that uses radio waves to detect the presence, direction, distance, and speed of objects such as aircraft, ships, and weather formations.</En>
+          <Example>The air traffic controller used radar to guide the plane safely through the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba5ac82e-ab92-422a-8ef6-c876c5c7b628">
+              <Vi>Giám sát không lưu để tránh va chạm và điều hướng máy bay.</Vi>
+              <En>Monitoring air traffic to prevent collisions and guide aircraft.</En>
+            </Situation>
+            <Situation id="e747af9d-8884-4cc0-95c3-1ef2b2fff8c4">
+              <Vi>Phát hiện tàu ngầm hoặc máy bay địch trong quân sự.</Vi>
+              <En>Detecting enemy submarines or aircraft in military operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

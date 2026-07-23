@@ -1,0 +1,40 @@
+<Vocab id="6869f967-8518-4c5b-b084-2f1e85eee6d4" word="payroll" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="3722e6e5-d215-487b-b80d-2f7247cbce68" value="Human Resources" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="7c6bd72f-5eef-42b8-864c-6d87f4116111" value="HR Manager" />
+    <Profession id="9e4dbe28-9a11-42a4-bacf-9df04f953db7" value="Payroll Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bc090772-be44-4b79-9fcc-8591ca9b67c1" ipa="/ˈpeɪ.roʊl/" vi_ipa="pi-rô-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="26e33af2-ecb0-4449-bed6-36dada66f366" type="Noun">
+          <Vi>Danh sách tiền lương; bảng lương</Vi>
+          <En>A list of employees and the amounts of money owed to them by a company, typically including deductions and net pay.</En>
+          <Example>The HR department processed the monthly payroll before the end of the month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f4522342-d662-4768-931d-3d2f13ad5495">
+              <Vi>Quy trình tính và chi trả lương hàng tháng cho nhân viên.</Vi>
+              <En>The process of calculating and disbursing monthly salaries to employees.</En>
+            </Situation>
+            <Situation id="895b11cb-113e-43cb-8f6e-1070ad6a21a3">
+              <Vi>Phần mềm quản lý bảng lương tự động.</Vi>
+              <En>Software that automates payroll management.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

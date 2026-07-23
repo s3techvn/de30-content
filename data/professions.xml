@@ -755,4 +755,6 @@
   <Profession id="20bd377f-fdbb-423e-b9ff-04309730c391" slug="genealogist" value="Genealogist" />
   <Profession id="cf9b3d1f-a266-4eae-b1b4-55c8ac773bee" slug="sports-analyst" value="Sports Analyst" />
   <Profession id="0de0b21a-eb21-472d-bf71-ad123ccf2c13" slug="air-traffic-controller" value="Air Traffic Controller" />
+  <Profession id="7c6bd72f-5eef-42b8-864c-6d87f4116111" slug="hr-manager" value="HR Manager" />
+  <Profession id="9e4dbe28-9a11-42a4-bacf-9df04f953db7" slug="payroll-specialist" value="Payroll Specialist" />
 </Professions>
