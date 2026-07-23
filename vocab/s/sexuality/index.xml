@@ -1,0 +1,40 @@
+<Vocab id="a890b9b4-6f40-47da-bfbf-3d38796e0e39" word="sexuality" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+    <Topic id="1cda1243-aafb-45ca-8b30-6350f6de4a0a" value="Identity &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="cd43842b-2ecc-4e6c-b9f1-0e9da2204105" value="Sex Educator" />
+    <Profession id="2e62d299-7618-4cd0-9d59-e94222d1f812" value="Medical Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b111fdd-582d-4f92-9511-5b3f3dc196fc" ipa="/ˌsɛk.suˈæl.ə.ti/" vi_ipa="séc-xu-ô-lơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="facc71b4-94bb-4ae1-9354-2caa2482e2a3" type="Noun">
+          <Vi>Tính dục; bản chất tình dục; đời sống tình dục</Vi>
+          <En>The state or quality of being sexual; a person's sexual orientation, identity, or activity.</En>
+          <Example>Understanding one’s sexuality is an important part of personal development and mental health.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90f26eb1-c749-4890-a66c-d7de63eb3776">
+              <Vi>Trong tư vấn tâm lý, chuyên gia hỗ trợ khách hàng khám phá và chấp nhận bản sắc giới tính và tính dục của mình.</Vi>
+              <En>In counseling, a professional helps clients explore and accept their gender identity and sexual orientation.</En>
+            </Situation>
+            <Situation id="7e221758-54bc-4110-bfa2-1ddf6749a18d">
+              <Vi>Giáo dục giới tính thường đề cập đến sự đa dạng trong biểu hiện và định hướng tính dục.</Vi>
+              <En>Sex education often addresses the diversity in expression and sexual orientation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
