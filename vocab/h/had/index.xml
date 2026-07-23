@@ -1,0 +1,36 @@
+<Vocab id="b4248252-bc60-40be-b977-8e94cd05503e" word="had" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c86aeb1-1fa1-4b44-bf99-df62a377b98f" ipa="/hæd/" vi_ipa="hết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c4574ffe-baec-45f2-90ef-cdbf7be0b4d6" type="Verb">
+          <Vi>đã có (dạng quá khứ của have)</Vi>
+          <En>Used as the past tense and past participle of 'have', indicating possession, experience, or action completed in the past.</En>
+          <Example>I had a meeting yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e105fb29-105d-4634-964d-410f4d100a83">
+              <Vi>Mô tả việc sở hữu hoặc trải nghiệm trong quá khứ.</Vi>
+              <En>Describing possession or an experience that occurred in the past.</En>
+            </Situation>
+            <Situation id="79135287-d08c-4eae-a791-7da1e7f18ff6">
+              <Vi>Dùng trong câu điều kiện loại 3 để nói về giả định ngược lại với quá khứ.</Vi>
+              <En>Used in third conditional sentences to express hypothetical past situations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

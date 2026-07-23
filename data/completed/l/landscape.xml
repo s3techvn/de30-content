@@ -1,0 +1,58 @@
+<Vocab id="d10ce2d5-efa0-40ca-88a6-2c2a3b5dc4ef" word="landscape" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="dcee83b0-7319-4ce3-bb65-f58bd4ef64c6" value="Art" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="d4eac4cc-14b4-48c5-b363-dd1164a6e2d3" value="Landscape Architect" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0a2dcba9-eb5e-4462-8974-6c13fd292abc" ipa="/ˈlænd.skeɪp/" vi_ipa="lén-ds-kê-pp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2733122f-a58f-4d46-b21b-62b737a130d9" type="Noun">
+          <Vi>Cảnh quan; phong cảnh thiên nhiên</Vi>
+          <En>The natural features of a stretch of land, especially when considered in terms of its appearance.</En>
+          <Example>The photograph captures the rugged landscape of the Scottish Highlands.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f909b57-eb82-4d62-b888-13ca4aeaf4ff">
+              <Vi>Mô tả vẻ đẹp tự nhiên của vùng đất, thường trong nghệ thuật hoặc du lịch.</Vi>
+              <En>Describing the visual appearance of land, especially in art, photography, or travel contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="146e1237-4418-4baf-a44f-6b1748fca85f" ipa="/lænˈskeɪp/" vi_ipa="lén-skhê-pp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8def0917-53f7-408a-a024-786c9a9bc9d8" type="Verb">
+          <Vi>Thiết kế cảnh quan; cải tạo cảnh quan thiên nhiên</Vi>
+          <En>To design and create an attractive and functional outdoor area, typically involving planting, grading, and construction.</En>
+          <Example>The team will landscape the garden next month to include native plants and a small pond.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="24080ac8-4760-4b73-b79d-6267871f1cd3">
+              <Vi>Hoạt động cải tạo, thiết kế khu vườn hoặc công viên để đẹp và hữu ích.</Vi>
+              <En>The activity of modifying the visible features of an area of land for aesthetic or practical purposes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
