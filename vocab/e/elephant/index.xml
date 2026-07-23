@@ -1,0 +1,38 @@
+<Vocab id="fc53f9a3-470a-48b5-90cc-2c41ad149f27" word="elephant" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="e1a70219-3485-452f-8eb8-0bd241e2d752" value="Wildlife Conservationist" />
+    <Profession id="78d13aa6-f691-4779-a6f7-4daab8a7d32d" value="Tour Guide (Safari)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c5d74fc-ff88-4925-969a-d6c8bb7e60a4" ipa="/ˈel.ɪ.fənt/" vi_ipa="en-lí-fơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2c29fb51-c09b-4104-a6a1-0d0508797c9d" type="Noun">
+          <Vi>con voi</Vi>
+          <En>A large, heavy mammal with a long trunk, large ears, and long curved tusks; the largest living land animal.</En>
+          <Example>Elephants are highly intelligent and social animals that live in matriarchal herds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90970b63-61c5-479d-8f14-41be7a1df6e4">
+              <Vi>Mô tả loài động vật có vú lớn, sống thành đàn ở châu Phi và châu Á.</Vi>
+              <En>Describing the large, tusked, trunked mammal found in Africa and Asia.</En>
+            </Situation>
+            <Situation id="e74a6494-dd56-48a7-9595-b0ca239ffb41">
+              <Vi>Trong các công viên quốc gia, du khách thường chiêm ngưỡng đàn voi hoang dã.</Vi>
+              <En>In national parks, tourists often observe wild elephant herds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

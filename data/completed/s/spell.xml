@@ -1,0 +1,56 @@
+<Vocab id="7f54b83e-0cc3-4d2b-a204-cccfcb2ade6f" word="spell" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="92a1597a-f84f-4e5c-bea0-bce62190f883" ipa="/spɛl/" vi_ipa="s-p-e-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="14792906-e007-4628-83e4-97e95e2bc896" type="Verb">
+          <Vi>đánh vần</Vi>
+          <En>To say or write the letters of a word in the correct order.</En>
+          <Example>Can you spell your last name for me?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b8c0ead-21ee-4b8b-8834-1df9748aaab0">
+              <Vi>Giáo viên yêu cầu học sinh đánh vần một từ tiếng Anh trên bảng.</Vi>
+              <En>A teacher asks a student to spell a word aloud on the board.</En>
+            </Situation>
+            <Situation id="41e3efad-4288-45ce-8ed3-1a3610d1f064">
+              <Vi>Người gọi điện yêu cầu bạn đánh vần tên của mình để xác minh.</Vi>
+              <En>The caller asks you to spell your name to verify your identity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="072f09e1-72c5-4618-9902-974773586c00" type="Noun">
+          <Vi>sự đánh vần; thời kỳ ngắn (thường trong bùa chú)</Vi>
+          <En>A period of time, especially one of misfortune; also, the act of spelling a word, or a short sequence of letters.</En>
+          <Example>She had a run of bad luck—a real spell of misfortune.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f8dddd7-44b3-4ec4-afea-9c423e16e7fa">
+              <Vi>Sau một thời gian khó khăn, anh ấy cuối cùng cũng có một thời gian thảnh thơi.</Vi>
+              <En>After a difficult period, he finally had a spell of peace and quiet.</En>
+            </Situation>
+            <Situation id="ec2860d9-a797-442b-a38d-35848391b59c">
+              <Vi>Nhà giả kim nói rằng một lời thần chú ngắn sẽ bảo vệ ngôi nhà.</Vi>
+              <En>The wizard said a short spell would protect the house.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
