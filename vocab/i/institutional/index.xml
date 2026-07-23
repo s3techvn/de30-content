@@ -1,0 +1,40 @@
+<Vocab id="33de005e-9c8c-432b-b0a0-0f5aac3597b0" word="institutional" type="short" status="done">
+  <Topics>
+    <Topic id="f59c859c-a3ba-45ce-872b-3741d9eab3bf" value="Society" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4601abb6-c2ef-4fc6-becf-7be1d3ca7239" ipa="/ˌɪn.stɪˈtjuː.ʃən.əl/" vi_ipa="in-thih-tiu-shờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4088c355-284c-4e22-8a37-3ddacb42ccb6" type="Adjective">
+          <Vi>thuộc về tổ chức, thuộc về thể chế</Vi>
+          <En>relating to an institution or institutions; established and integrated into a system or structure</En>
+          <Example>The school implemented institutional reforms to improve student performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7738d9e1-af52-41c2-a0a9-f1311b9680d8">
+              <Vi>Mô tả các quy định, chính sách hoặc văn hóa được xây dựng lâu đời trong một tổ chức hoặc hệ thống.</Vi>
+              <En>Describing rules, policies, or culture that are long-established within an organization or system.</En>
+            </Situation>
+            <Situation id="b198659a-7876-487b-98f0-87bf948f1520">
+              <Vi>Chỉ những điều gì mang tính chất hệ thống, không phải cá nhân hay tạm thời.</Vi>
+              <En>Referring to something systemic rather than individual or temporary.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
