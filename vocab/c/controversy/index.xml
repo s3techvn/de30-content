@@ -1,0 +1,34 @@
+<Vocab id="cca5f48d-9e98-44ec-a1f2-466dcbd8d9a6" word="controversy" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e28a95c-6efd-4ed1-9d51-2373239a92db" ipa="/kənˈtrɒv.ə.si/" vi_ipa="cơn-trờ-vơ-xi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8cf9ab1e-6f2d-4d46-8e50-3824c94d19e8" type="Noun">
+          <Vi>Sự tranh cãi kịch liệt, đặc biệt về một vấn đề gây chia rẽ quan điểm</Vi>
+          <En>A prolonged and heated argument or debate, especially one involving a divisive issue</En>
+          <Example>The new policy sparked a controversy across the country.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e70e624-447c-4b72-bad9-8740d5b24859">
+              <Vi>Một nhóm người biểu tình phản đối một dự luật gây tranh cãi trong quốc hội</Vi>
+              <En>A group of protesters staging a demonstration against a controversial bill in parliament</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,40 @@
+<Vocab id="0bd3aa50-58d0-41e1-bb6d-4a4441d009e1" word="continue" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="42335f40-9e70-4c84-8533-cd629399b2d6" ipa="/kənˈtɪn.juː/" vi_ipa="cơn-ti-niu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1f978af7-4f98-4ea9-87d0-f384e4cd7a0d" type="Verb">
+          <Vi>tiếp tục</Vi>
+          <En>To carry on with an activity, process, or action without stopping.</En>
+          <Example>She decided to continue her studies despite the challenges.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="44296ced-cdde-46e2-945c-bfde576c04b3">
+              <Vi>Một người đang làm việc, học tập, hoặc tham gia hoạt động nào đó và không ngưng nghỉ.</Vi>
+              <En>A person is engaged in a task, study, or activity and does not pause or stop.</En>
+            </Situation>
+            <Situation id="001a7da5-2d71-4eae-97ed-dc60487ea011">
+              <Vi>Chương trình, kế hoạch, hoặc dự án được duy trì qua thời gian.</Vi>
+              <En>A program, plan, or project is maintained over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
