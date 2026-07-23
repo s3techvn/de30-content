@@ -1,0 +1,36 @@
+<Vocab id="23798f4e-7759-462f-92c3-7b6f868f7798" word="partially" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" value="Any" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="254bfc98-48d5-45cc-bf43-0309f88ba69a" ipa="/ˈpɑːr.ʃəl.ɪ/">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f953a3e4-469b-401d-b9cc-b0f2490a0b6d" type="Adverb">
+          <Vi>ở mức độ chưa đầy đủ, một phần nào đó</Vi>
+          <En>to some extent but not completely; in part</En>
+          <Example>The project was partially completed before the funding was cut.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c771ba8b-f818-43b2-82b6-bea632f52f3b">
+              <Vi>Mô tả tình trạng chưa hoàn tất 100%, còn thiếu một phần.</Vi>
+              <En>Describing something that is not fully finished or realized.</En>
+            </Situation>
+            <Situation id="1ca84168-9804-436b-9e81-d7b40bf071c2">
+              <Vi>Chỉ chấp nhận một phần lý do hoặc bằng chứng.</Vi>
+              <En>Accepting only a portion of a reason or evidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
