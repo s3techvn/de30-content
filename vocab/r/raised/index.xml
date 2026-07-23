@@ -1,0 +1,52 @@
+<Vocab id="dbc972da-57e8-483e-916f-2c92526355eb" word="raised" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2de7d9f0-bd84-445c-8b7a-495133e3d1e3" ipa="/ˈreɪzd/" vi_ipa="rê-dz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="71c5aab7-12e5-4427-8050-7bd7812041b4" type="Adjective">
+          <Vi>được nâng cao, được nâng lên</Vi>
+          <En>lifted or moved to a higher position; elevated</En>
+          <Example>The raised platform made it easier for everyone to see the speaker.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="946f85d4-691a-4394-82c4-7fb3c93c779a">
+              <Vi>Mặt đất hoặc nền nhà được nâng cao hơn mức bình thường để chống ngập.</Vi>
+              <En>The ground or floor is elevated above the normal level to prevent flooding.</En>
+            </Situation>
+            <Situation id="d32dfe43-d8e4-44bc-9b36-4199a11ec635">
+              <Vi>Một khu vực trong nhà bếp được nâng cao để phân biệt với khu vực nấu ăn.</Vi>
+              <En>An area in the kitchen is elevated to distinguish it from the cooking zone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8f4cbed1-bb29-4ba8-8ff8-c249559414bb" type="Adjective">
+          <Vi>được nuôi dưỡng, được chăm sóc (thường dùng trong ngữ cảnh gia đình)</Vi>
+          <En>brought up or reared (typically used in familial contexts)</En>
+          <Example>She was raised in a multilingual household.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="99df62a8-2fea-4464-a81c-e86018b97920">
+              <Vi>Nói về nơi hoặc cách một người được lớn lên và giáo dục.</Vi>
+              <En>Refers to where or how a person grew up and was educated.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

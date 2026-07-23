@@ -1,0 +1,32 @@
+<Vocab id="2dd90612-dd41-42d1-93fe-d67e27c583c3" word="colin" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="40f295dc-58cf-4aa2-a3a3-1a14cdc09767" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="43080c11-ec67-4d5d-bb3a-98a45f9f5530" ipa="/ˈkɒl.ɪn/" vi_ipa="cô-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="23b78023-1f2f-44a1-9e0f-d05f1465e233" type="Proper Noun">
+          <Vi>Tên riêng (thường là tên nam)</Vi>
+          <En>A male given name, of Scottish origin, meaning "little wolf" or "holy one".</En>
+          <Example>Colin Powell served as U.S. Secretary of State from 2001 to 2005.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2edaf711-bdc9-4813-84c0-fc5d6b9dc4a3">
+              <Vi>Dùng khi đề cập đến một người có tên Colin, ví dụ như trong giới giải trí, chính trị, hoặc bạn bè.</Vi>
+              <En>Used when referring to a person named Colin, e.g., in media, politics, or personal contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
