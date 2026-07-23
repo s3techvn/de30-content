@@ -621,4 +621,5 @@
   <Profession id="73577309-5ec5-42c8-81f6-a8e2d40e8d22" slug="urologist" value="Urologist" />
   <Profession id="68181d1e-fe9a-4207-a854-2ab2256f76b9" slug="general-practitioner" value="General Practitioner" />
   <Profession id="596322eb-5500-4e38-a26b-1a1d3789e12b" slug="oncologist" value="Oncologist" />
+  <Profession id="c7aa685f-6415-418f-be70-a85a96a29cb7" slug="election-officer" value="Election Officer" />
 </Professions>
