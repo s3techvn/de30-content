@@ -1885,3 +1885,4 @@ rat
 accounting
 vocational
 several
+daily

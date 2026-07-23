@@ -1,0 +1,44 @@
+<Vocab id="52d0a833-bb67-45c3-b2ce-b24dfda5e2e3" word="daily" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="999d6378-35ee-4f1d-b5b4-6e2accf61311" ipa="/ˈdeɪ.li/" vi_ipa="đê-i-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a356f92f-525e-4cfb-adf6-ad0745f174a0" type="Adjective">
+          <Vi>mỗi ngày; hằng ngày</Vi>
+          <En>occurring or done every day.</En>
+          <Example>She follows a strict daily exercise routine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e339cbb1-07fb-46c9-b77a-63788fc7fb4f">
+              <Vi>Mô tả các hoạt động hoặc sự kiện diễn ra đều đặn mỗi ngày.</Vi>
+              <En>Describes activities or events that happen regularly every day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1e966c04-b103-4667-bbef-f5807d48dd38" type="Adverb">
+          <Vi>mỗi ngày; hằng ngày</Vi>
+          <En>every day; on a daily basis.</En>
+          <Example>He checks his email daily.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6584f59-2c27-4c5d-9e58-17cf489fe178">
+              <Vi>Mô tả tần suất một hành động xảy ra: mỗi ngày.</Vi>
+              <En>Describes the frequency of an action: occurring every day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
