@@ -1,0 +1,38 @@
+<Vocab id="e7f1d20c-632a-47b8-9898-51943c0b7a84" word="clan" type="short" status="done">
+  <Topics>
+    <Topic id="de3eaca7-bc1d-40ab-87ec-115a06859e89" value="Culture &amp; Society" />
+  </Topics>
+  <Professions>
+    <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" value="Anthropologist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9a0d4702-e2e1-438b-8ed1-d531d46aea6a" ipa="/klæn/" vi_ipa="c-lan">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="80723f70-a98b-4d2c-b23c-79c953b553c6" type="Noun">
+          <Vi>họ, dòng họ, bộ tộc (nhóm người có chung tổ tiên, thường sống gần nhau và có quan hệ huyết thống chặt chẽ)</Vi>
+          <En>a group of people united by actual or perceived kinship and lineage, often sharing a common territory and culture</En>
+          <Example>Scottish clans, such as Clan MacDonald, have deep historical roots in the Highlands.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1aa4cb81-5fd9-4389-8ce0-00ba20608ac7">
+              <Vi>Mô tả các nhóm người có quan hệ huyết thống mạnh mẽ, thường gắn với truyền thống và lãnh thổ cụ thể.</Vi>
+              <En>Describes groups bound by kinship, often tied to tradition and specific geographic regions.</En>
+            </Situation>
+            <Situation id="99e45e6d-932d-42a0-a9f4-d65354aaf053">
+              <Vi>Dùng trong ngữ cảnh lịch sử, văn hóa dân gian, hoặc trong các trò chơi/văn học giả tưởng (ví dụ: Clan Wars, Clan system in Scotland).</Vi>
+              <En>Used in historical, folkloric, or fictional contexts (e.g., *Clan Wars*, the Scottish clan system).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
