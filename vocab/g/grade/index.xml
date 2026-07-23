@@ -1,0 +1,64 @@
+<Vocab id="e45b8785-fed7-48a0-b446-8ba8fcb4a5c5" word="grade" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e3590fc-cee2-4577-8620-1cccd1ad8eac" ipa="/ɡreɪd/" vi_ipa="gờ-rây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1697b443-bbc5-4a09-8d6d-32abeaf565a4" type="Noun">
+          <Vi>Điểm số; bậc; cấp độ; hạng</Vi>
+          <En>A level, rank, or position in a scale, especially a mark given for performance in a task or subject.</En>
+          <Example>She received an A grade in mathematics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4907099-aa13-4cdd-aeb1-6cdb6c66a38e">
+              <Vi>Học sinh nhận điểm bài kiểm tra từ giáo viên.</Vi>
+              <En>A student receives a test score from a teacher.</En>
+            </Situation>
+            <Situation id="dfb2c467-0b3a-4d6f-80d6-38ea8092e914">
+              <Vi>Hệ thống đánh giá theo bậc (ví dụ: bậc 1, bậc 2 trong giáo dục tiểu học).</Vi>
+              <En>A grading system with levels (e.g., Level 1, Level 2 in elementary education).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0bf8fe03-7e62-4e30-bfdc-9d1453925d0a" ipa="/ɡreɪd/" vi_ipa="gờ-rây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5ffe34f1-27ab-47e2-8ff8-71c1ea8bb9aa" type="Verb">
+          <Vi>Chấm điểm; xếp hạng; phân loại theo bậc</Vi>
+          <En>To assign a grade or rank to someone or something; to evaluate and classify according to quality or performance.</En>
+          <Example>The teacher will grade the essays this weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b45f560b-55cb-4fef-9f4a-d69dd6881bfe">
+              <Vi>Giáo viên chấm điểm bài thi cuối kỳ.</Vi>
+              <En>A teacher grades final exam papers.</En>
+            </Situation>
+            <Situation id="4d11fe47-46d6-4a7f-9640-240d286bb35f">
+              <Vi>Công ty xếp hạng hiệu suất nhân viên theo bậc.</Vi>
+              <En>A company ranks employee performance by grade.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
