@@ -1,0 +1,56 @@
+<Vocab id="8d69a583-e144-4a0c-88cb-cc9d991df42d" word="crowd" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c3b871cb-6066-40c3-8483-cbf9277279c3" value="Social Gatherings" />
+    <Topic id="db535851-d8f3-4e48-9024-2a9fcd22d4be" value="Urban Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dbdba35d-6af7-4156-92d5-2ff5b5eeaff1" ipa="/kraʊd/" vi_ipa="c-ra-út">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eebc31ee-20bf-441d-afa3-4b78b9e7d0ec" type="Noun">
+          <Vi>đám đông; quần chúng</Vi>
+          <En>a large group of people gathered together in one place, typically one that is not well organized or orderly</En>
+          <Example>The crowd cheered loudly when the band entered the stage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf73aa9b-02d8-47e8-9926-64c2024b8684">
+              <Vi>Một nhóm người đông đảo tụ tập tại một sự kiện công cộng.</Vi>
+              <En>A large group of people gathered at a public event.</En>
+            </Situation>
+            <Situation id="c2e78f86-fe4b-4433-8959-456e83ae7b36">
+              <Vi>Cảnh tượng người người chen chúc trong ga xe điện giờ cao điểm.</Vi>
+              <En>The scene of people jostling in a subway station during rush hour.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef33cf27-7177-492f-a3c8-ce4e8c8a2e32" type="Verb">
+          <Vi>đông kín; chen chúc; dồn nén</Vi>
+          <En>to gather or press together in a large number; to fill a space in a crowded way</En>
+          <Example>People crowded into the small room to hear the speaker.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ea2ae81-304a-45ce-88a2-daeaed38460a">
+              <Vi>Hàng trăm người chen nhau vào một phòng họp nhỏ.</Vi>
+              <En>Hundreds of people squeezed into a small meeting room.</En>
+            </Situation>
+            <Situation id="e9ec469f-3ca0-4197-9763-5fc966a41006">
+              <Vi>Khán giả dồn về phía sân khấu khi nghệ sĩ bước ra.</Vi>
+              <En>The audience surged toward the stage as the performer appeared.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
