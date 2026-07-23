@@ -1,0 +1,40 @@
+<Vocab id="cda00f22-cc97-41a5-bfd4-c8b1cc9945ee" word="eagle" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="302d457f-c9e2-4c42-8f44-fc138628d991" value="Symbols" />
+    <Topic id="dccc9cd9-7885-4a37-83b3-47cfa6519854" value="Wildlife" />
+  </Topics>
+  <Professions>
+    <Profession id="26b29674-4a5d-42f8-9c0b-f82116c2cf89" value="Birdwatcher" />
+    <Profession id="02c5f2d0-55c5-4ebc-adce-2be266b6a7aa" value="Conservationist" />
+    <Profession id="ce7e54c9-3d55-4947-8921-218f52789553" value="Heraldry Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d1322149-e4dc-480b-ab93-f8fd04104640" ipa="/ˈiː.ɡəl/" vi_ipa="i:-gờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="373a0323-b3f8-4278-85fb-d89606d22906" type="Noun">
+          <Vi>con chim ưng</Vi>
+          <En>A large bird of prey with a powerful build, sharp beak, and exceptional eyesight, known for its strength and soaring flight.</En>
+          <Example>The eagle soared high above the mountains, scanning the valley below for prey.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8b6623c-14bc-4c95-b0c5-c545679504e5">
+              <Vi>Mô tả loài chim săn mồi lớn, thường sống ở vùng núi hoặc rừng.</Vi>
+              <En>Describing a large predatory bird commonly found in mountainous or forested regions.</En>
+            </Situation>
+            <Situation id="32ff2536-496e-4777-aba7-1e400d29cec6">
+              <Vi>Biểu tượng của nước Mỹ, xuất hiện trên quốc huy và đồng tiền.</Vi>
+              <En>A national symbol of the United States, appearing on the Great Seal and currency.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

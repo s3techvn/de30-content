@@ -1,0 +1,50 @@
+<Vocab id="10d5e9b2-8b62-495a-932a-4113d6060f2f" word="rug" type="short" status="done">
+  <Topics>
+    <Topic id="4a7c3302-bc45-4c83-b9df-0d7892dc9466" value="Home &amp; Furniture" />
+  </Topics>
+  <Professions>
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="1598af48-571c-4c2b-a635-41fc94d99e1b" value="Carpet Installer" />
+    <Profession id="b66f4445-0ae3-4812-a4e2-ca6f5cb33209" value="Home Stager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ac80e2c9-ae0f-4cbd-a703-1abb74bb0656" ipa="/rʌɡ/" vi_ipa="rác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="880a7be7-a3c0-44ab-8303-32724c787a92" type="Noun">
+          <Vi>Cái thảm (đặt trên sàn nhà)</Vi>
+          <En>A piece of thick fabric or other material used to cover part of a floor, typically for warmth or decoration.</En>
+          <Example>She added a colorful rug to make the living room feel cozier.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ba061b2-43c4-4c6b-8ef9-7fb13e70b2a8">
+              <Vi>Thảm lót sàn trong phòng khách, phòng ngủ hoặc phòng trẻ em.</Vi>
+              <En>A floor covering placed in living rooms, bedrooms, or children’s rooms for comfort and aesthetics.</En>
+            </Situation>
+            <Situation id="fc28b30f-4f28-4fe3-84aa-075c51874900">
+              <Vi>Thảm trang trí hoặc thảm chống trượt trong nhà bếp hoặc phòng tắm.</Vi>
+              <En>A decorative or non-slip rug used in kitchens or bathrooms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="08cca074-7578-4cd2-a3d6-8b96774ece0d" type="Noun">
+          <Vi>Chiếc chăn nhỏ (thường dùng cho ngựa)</Vi>
+          <En>A small blanket, especially one used to cover a horse.</En>
+          <Example>The stable hand draped a woolen rug over the shivering horse.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7dcc677e-2a1f-4e55-86f0-b52b7f4de5df">
+              <Vi>Chăn phủ ngựa sau khi cưỡi hoặc trong thời tiết lạnh.</Vi>
+              <En>A blanket placed on a horse after riding or during cold weather to keep it warm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
