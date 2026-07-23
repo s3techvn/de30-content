@@ -1,0 +1,40 @@
+<Vocab id="9b16d666-409d-4826-bf7b-820cd2f88302" word="shipping" type="short" status="done">
+  <Topics>
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="fc64e660-2470-4dba-a715-3d3b737e3a37" value="E-commerce" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="e411117b-0985-4764-852d-4efc6da017d8" value="Freight Forwarder" />
+    <Profession id="df76d85f-843c-4c70-a7d2-c1a50cd90512" value="E-commerce Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08d280ef-ac7e-4c72-ab69-0c51b7c45b52" ipa="/ˈʃɪp.ɪŋ/" vi_ipa="síp-píng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="29f82992-3a65-4fc1-aa84-6f870d27e7cb" type="Noun">
+          <Vi>Vận chuyển (hàng hóa), đặc biệt bằng đường biển hoặc hàng không</Vi>
+          <En>The transportation of goods, especially by sea or air</En>
+          <Example>The company offers fast and reliable shipping to customers worldwide.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71d42195-90f7-4d53-b96e-7777598a3e69">
+              <Vi>Quy trình gửi hàng từ kho đến tay người mua qua các phương tiện vận tải</Vi>
+              <En>The process of sending goods from a warehouse to the buyer via transport vehicles</En>
+            </Situation>
+            <Situation id="fc6eab85-0945-4143-8055-fb48a4bc9742">
+              <Vi>Chi phí vận chuyển hàng quốc tế trong đơn hàng thương mại điện tử</Vi>
+              <En>Shipping costs for international orders in e-commerce</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
