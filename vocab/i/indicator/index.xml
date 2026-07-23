@@ -1,0 +1,52 @@
+<Vocab id="84104cfa-a0cc-4733-9ae3-d14e6cdea8b0" word="indicator" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="3cf971d9-1243-4a91-89dc-856ccc578e1b" value="Business &amp; Finance" />
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="fc1bcb8f-804c-4668-80a6-6076571d674a" value="Financial Trader" />
+    <Profession id="a20cec2e-0225-48e3-898f-67b26cf629b2" value="Medical Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df449dad-a12c-44dd-9bab-1ef38960386b" ipa="/ˈɪn.dɪ.keɪ.tər/" vi_ipa="in-đi-cây-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45061e56-4706-4460-a1b3-2f299ffb0c89" type="Noun">
+          <Vi>Chỉ số; Dấu hiệu; Dụng cụ đo lường</Vi>
+          <En>A sign, measure, or device that provides information about a condition or progress, often used to assess performance, health, or trends.</En>
+          <Example>The stock market indicator signaled a potential downturn in the economy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa336ac6-e926-4783-95c1-e2edaf25d8ad">
+              <Vi>Trong phân tích kỹ thuật, nhà đầu tư theo dõi chỉ số như RSI hoặc MACD để đưa ra quyết định giao dịch.</Vi>
+              <En>In technical analysis, traders monitor indicators such as RSI or MACD to make trading decisions.</En>
+            </Situation>
+            <Situation id="589d0f56-843d-4d32-a3fa-6dec805e9a98">
+              <Vi>Bác sĩ sử dụng chỉ số sinh hiệu như nhịp tim và huyết áp để đánh giá tình trạng sức khỏe của bệnh nhân.</Vi>
+              <En>A doctor uses vital signs such as heart rate and blood pressure as health indicators.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3d867df3-6baa-4428-a943-b8b524737aa4" type="Noun">
+          <Vi>Dụng cụ chỉ thị (trong hóa học)</Vi>
+          <En>A substance, such as litmus paper, that changes color in response to a chemical condition (e.g., pH level).</En>
+          <Example>Phenolphthalein is a common pH indicator that turns pink in basic solutions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="461c41c9-e5b8-4a57-bb4c-40845d1ad197">
+              <Vi>Trong thí nghiệm hóa học, chỉ số pH giúp xác định tính axit hoặc bazơ của dung dịch.</Vi>
+              <En>In chemistry labs, pH indicators help determine whether a solution is acidic or basic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
