@@ -1,0 +1,40 @@
+<Vocab id="7ef16e0d-7781-4060-8dba-6783d20742f7" word="temporary" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="81ef7ae3-d5ca-456e-b70f-45404aee2fb0" value="Work &amp; Business" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="cb626b57-17ad-4c73-95f9-486c8db10f8b" value="Human Resources" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0793c62d-e7f0-4415-9795-345e509ce4c6" ipa="/ˈtem.pər.ər.i/" vi_ipa="tem-pơ-rơ-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9c286a9e-111c-400b-8bd8-4d6932dd4b77" type="Adjective">
+          <Vi>tạm thời, trong thời gian ngắn, không lâu dài</Vi>
+          <En>lasting for only a limited period of time; not permanent.</En>
+          <Example>They moved into a temporary apartment while their house was being renovated.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="351e3a5e-31b5-418a-bfe2-4e70e6504cc8">
+              <Vi>Mô tả một giải pháp hoặc vị trí chỉ tồn tại trong một thời gian ngắn trước khi có giải pháp lâu dài.</Vi>
+              <En>Describing a solution or position that exists only for a short time before a permanent one is found.</En>
+            </Situation>
+            <Situation id="720b7364-81b9-4557-ac29-fb00f2b16e4e">
+              <Vi>Chỉ tính chất không bền vững, có thể thay đổi hoặc chấm dứt bất kỳ lúc nào.</Vi>
+              <En>Indicating something unstable or changeable, subject to change or termination at any time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

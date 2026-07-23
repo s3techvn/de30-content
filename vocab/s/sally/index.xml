@@ -1,0 +1,72 @@
+<Vocab id="253e3764-5226-4439-89f2-4e01745f594e" word="sally" type="short" status="done">
+  <Topics>
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="ac5a15ab-7391-4ad7-94b5-971edae27ba4" value="Everyday Language" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5fed5903-854e-45c6-b33d-5ca15370c94f" ipa="/ˈsæl.i/" vi_ipa="xờ-lây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="249706ef-dc94-4f6d-a710-08eda2fea316" type="Noun">
+          <Vi>Cuộc xuất kích; cuộc đột kích (để tấn công hoặc gây bất ngờ)</Vi>
+          <En>A sudden, violent, or unexpected attack, especially by a military force.</En>
+          <Example>The soldiers launched a sally from the fortress to break the siege.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a0c63c3e-74a1-4c06-a0a9-80abca7fb145">
+              <Vi>Mô tả hành động quân đội bất ngờ xông ra từ thành trì để tấn công quân bao vây.</Vi>
+              <En>Describes soldiers unexpectedly rushing out from a fortress to attack besieging forces.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="39d4b5bf-55d8-4c9c-a6ba-90030d70ff37" type="Noun">
+          <Vi>Cuộc đi chơi ngắn; chuyến đi bất ngờ (thường để thư giãn hoặc giải trí)</Vi>
+          <En>A short trip or outing, especially one taken for pleasure or entertainment.</En>
+          <Example>We went on a sally to the countryside for a weekend getaway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b106211-15f0-4f72-96f9-ebffe55d9d2c">
+              <Vi>Mô tả việc đi chơi ngắn ngày, ví dụ như đi picnic hoặc du lịch cuối tuần.</Vi>
+              <En>Describes a short recreational trip, such as a picnic or weekend getaway.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9d8d80dc-bf62-4cd0-ad6d-5268b3443059" type="Verb">
+          <Vi>Bất ngờ xuất kích; đột ngột tấn công</Vi>
+          <En>To make a sudden attack, especially from a defensive position.</En>
+          <Example>The defenders sallied out to drive back the attackers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67472ea7-1219-465e-87c0-ea5b60b5d096">
+              <Vi>Mô tả hành động phòng thủ bất ngờ xông ra tấn công quân địch.</Vi>
+              <En>Describes defenders unexpectedly rushing out to attack enemy forces.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aa70dafe-ff20-4709-aaff-fae554370c35" type="Verb">
+          <Vi>Bất ngờ đi chơi; xuất hiện bất ngờ (để giải trí)</Vi>
+          <En>To go out suddenly, especially for amusement or recreation.</En>
+          <Example>They sallied forth to explore the local markets and cafés.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53e55df9-beb2-4983-a13d-d8ebb63b49c6">
+              <Vi>Mô tả việc bất ngờ rủ nhau đi dạo, khám phá nơi mới.</Vi>
+              <En>Describes suddenly going out together to explore new places.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
