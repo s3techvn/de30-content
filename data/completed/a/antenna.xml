@@ -1,0 +1,50 @@
+<Vocab id="37594744-f19c-47f3-869a-2406b97f40a6" word="antenna" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="af22be43-b537-4e72-84ec-3d8613c011f7" value="Telecommunications Technician" />
+    <Profession id="33a257d4-52c7-497e-ab42-bb99502f29cb" value="Radio Operator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a3a72afa-b30f-435d-be5e-0605d10dadf6" ipa="/ˈæn.tə.nə/" vi_ipa="an-tê-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="99953598-3036-4627-9c96-c7fdb1c2a65a" type="Noun">
+          <Vi>Cái ăng-ten</Vi>
+          <En>A device consisting of a conductor, typically metal, used to transmit or receive radio waves.</En>
+          <Example>The satellite dish and antenna work together to capture the signal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0917bb87-19bf-42bc-8b3a-877bebb010d4">
+              <Vi>Người dùng gắn ăng-ten trên mái nhà để cải thiện tín hiệu TV.</Vi>
+              <En>Mounting an antenna on the roof to improve TV signal reception.</En>
+            </Situation>
+            <Situation id="837049f5-adff-48be-a100-6526800a2063">
+              <Vi>Kỹ sư điều chỉnh độ cao và hướng của ăng-ten để đạt phạm vi phủ sóng tối đa.</Vi>
+              <En>An engineer adjusts the height and direction of the antenna to maximize coverage range.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d225aadc-b326-46d6-a6cb-1787f812cdde" type="Noun">
+          <Vi>(Hình học) Một trong hai nhánh của một hyperbola</Vi>
+          <En>One of the two symmetrical branches of a hyperbola.</En>
+          <Example>In conic sections, each branch of the hyperbola is called an antenna.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8d56183-5f63-4d2e-bbfc-2728c1a3a6ab">
+              <Vi>Giáo viên toán sử dụng mô hình hyperbola để minh họa các nhánh (ăng-ten) của đường bậc hai.</Vi>
+              <En>A math teacher uses a hyperbola model to illustrate its two branches (antennae).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
