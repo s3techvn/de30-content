@@ -1,0 +1,46 @@
+<Vocab id="4eda50de-9bd7-49b7-a126-ed9be354e094" word="dying" type="short" status="done">
+  <Topics>
+    <Topic id="e4b0ea3b-b699-4a7b-9c98-b6b7cae9fae8" value="Life &amp; Death" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="e5c741ef-91e3-4a77-a81c-4d8c884f8d97" value="Palliative Care Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dc18c0d8-743d-42f9-8d97-3b93b72e325c" ipa="/ˈdaɪ.ɪŋ/" vi_ipa="đai-ín">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="02b3730e-6661-4e5d-a9f2-8bc2cc2735d0" type="Adjective">
+          <Vi>đang chết; cận kề cái chết</Vi>
+          <En>Being in the process of dying; approaching death.</En>
+          <Example>She held her grandmother’s hand as she was dying peacefully in her sleep.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c47e5989-df41-4bf3-b029-104f1af0a7fa">
+              <Vi>Tình huống mô tả một người đang trong giai đoạn cuối của cuộc sống, sắp qua đời.</Vi>
+              <En>A situation describing a person in the final stage of life, approaching death.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="50a241fb-199c-4975-b2a2-f8ba7808bcbe" type="Adjective">
+          <Vi>đang suy tàn; sắp biến mất</Vi>
+          <En>Approaching extinction or decline; no longer active or popular.</En>
+          <Example>The industry was dying due to rapid technological advances.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="538b6fa7-57e1-4ea2-a949-f1fda459d95d">
+              <Vi>Tình huống nói về một ngành nghề, phong trào, hoặc hiện tượng đang mất dần sức sống hoặc sự quan tâm.</Vi>
+              <En>A situation describing a profession, movement, or phenomenon that is losing vitality or public interest.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

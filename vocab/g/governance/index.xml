@@ -1,0 +1,38 @@
+<Vocab id="707fbff6-37b4-49e7-ae66-d4cc8f341a5a" word="governance" type="short" status="done">
+  <Topics>
+    <Topic id="274651e6-a996-43d9-ad36-2c0dfb9237be" value="Politics and Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="ad54d9c6-7efc-4934-bc1e-2601de68cdaa" value="Public Administrator" />
+    <Profession id="2495fdc8-db22-477e-88ee-07c88610cf64" value="Corporate Executive" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="955444bf-845a-4df1-9766-d05ed3340cbb" ipa="/ˈɡʌv.ər.nəns/" vi_ipa="gáp-vơ-nơ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="84764190-5342-471d-8238-4c51eb4ae191" type="Noun">
+          <Vi>Quản trị; quản lý; sự điều hành</Vi>
+          <En>The process or activity of ruling or managing a country, organization, or community; the system by which a group or entity is governed.</En>
+          <Example>The company improved its corporate governance to increase transparency and accountability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="750a8842-a48b-468e-a591-e8372156b69e">
+              <Vi>Thảo luận về cách một chính phủ hoặc công ty được điều hành và kiểm soát.</Vi>
+              <En>Discussion about how a government or corporation is directed and controlled.</En>
+            </Situation>
+            <Situation id="b19936c0-c094-4a66-8a44-4a48db3806d2">
+              <Vi>Đánh giá hiệu quả của hệ thống quản trị trong một tổ chức phi lợi nhuận.</Vi>
+              <En>Evaluating the effectiveness of the governance system in a nonprofit organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
