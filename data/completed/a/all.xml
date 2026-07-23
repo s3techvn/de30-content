@@ -1,0 +1,56 @@
+<Vocab id="fd0fbf7d-d81e-4a97-aa49-c81a7d7450f9" word="all" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a44c42f9-184c-472a-99bb-bd8665d554da" ipa="/ɔːl/" vi_ipa="ao-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="caf79f46-522b-4776-baf5-8ff939483007" type="Determiner">
+          <Vi>toàn bộ, tất cả</Vi>
+          <En>the whole quantity or number of; every</En>
+          <Example>All the students passed the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf7d1092-4c01-44bc-9a26-d7985cd85001">
+              <Vi>Dùng trước danh từ đếm được số nhiều hoặc danh từ không đếm được để chỉ toàn bộ.</Vi>
+              <En>Used before a plural countable noun or uncountable noun to refer to the entire group or amount.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2bf9ddf4-168d-4774-94f8-4864af73a9dc" type="Pronoun">
+          <Vi>tất cả (những người/vật đã được nhắc đến)</Vi>
+          <En>every one of a group; everyone or everything</En>
+          <Example>All are welcome to attend the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e381dcf-8d3d-48f4-823c-f1907cd49f7f">
+              <Vi>Dùng thay thế cho một nhóm người hoặc vật đã được đề cập trước đó.</Vi>
+              <En>Used to replace a previously mentioned group of people or things.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="23e3da0b-5185-4c28-ba1d-3a39ec5433c8" type="Adverb">
+          <Vi>hoàn toàn, hết mức</Vi>
+          <En>completely; to the greatest extent</En>
+          <Example>I all but forgot about the appointment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6a1726c-b74c-4a25-a4de-a632a131b3ad">
+              <Vi>Dùng trong cấu trúc "all but" để nhấn mạnh gần như hoàn toàn.</Vi>
+              <En>Used in the construction "all but" to emphasize near-completion or near-identity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
