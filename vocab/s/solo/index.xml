@@ -1,0 +1,52 @@
+<Vocab id="fb99b32e-cf93-44e5-8086-f571ff5805b7" word="solo" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="94c3e3e2-4bd3-4f82-953d-f59b0ad69086" value="Traveler" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0dfa881e-c7a7-4bb0-80da-288f45fb2ac0" ipa="/ˈsoʊ.loʊ/" vi_ipa="xô-lô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c77e5b03-f2d0-4acf-aa9f-842e3425e406" type="Adjective">
+          <Vi>độc diễn; một mình, đơn độc</Vi>
+          <En>performed or done by one person alone; solitary</En>
+          <Example>She gave a stunning solo performance at the concert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="092fb6b8-a4e5-41b3-9d99-08133ccd9f64">
+              <Vi>Một nghệ sĩ biểu diễn một mình trên sân khấu.</Vi>
+              <En>An artist performs alone on stage.</En>
+            </Situation>
+            <Situation id="df2df2ca-5c4d-4931-9567-4151a1ce9e0f">
+              <Vi>Một chuyến đi không có bạn đồng hành.</Vi>
+              <En>A trip taken without any companions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="db474528-aec2-410d-83d9-9a972d7c449e" type="Noun">
+          <Vi>bản độc diễn; người biểu diễn độc diễn</Vi>
+          <En>a musical piece performed by a single performer, or the performer themselves</En>
+          <Example>The violinist’s solo was met with thunderous applause.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07bc9135-6ad6-495e-af57-0efb61ef5eac">
+              <Vi>Nghệ sĩ piano được mời biểu diễn một bản solo.</Vi>
+              <En>The pianist was invited to perform a solo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,50 @@
+<Vocab id="f30c6a00-d15d-4e23-a384-4beffc63b9dd" word="verse" type="short" status="done">
+  <Topics>
+    <Topic id="09ca7842-aaf4-4780-b48f-909a91eaba39" value="Literature &amp; Poetry" />
+  </Topics>
+  <Professions>
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="22d97db6-3d7e-4a6d-ae9e-a8672e06316c" ipa="/vɜːrs/" vi_ipa="vơ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2c2cfe99-b3dd-421d-8b52-929950559625" type="Noun">
+          <Vi>Câu thơ; đoạn thơ; bài thơ (trong thơ ca truyền thống hoặc tôn giáo)</Vi>
+          <En>A single metrical line in a poem; a stanza or section of a poem; a passage from scripture, especially the Bible.</En>
+          <Example>She read the first verse of the poem aloud to the class.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="913ee9e3-5220-4de7-a180-98f990d67743">
+              <Vi>Người đọc thơ hoặc học sinh phân tích từng dòng thơ trong một bài thơ cổ.</Vi>
+              <En>A reader or student analyzing individual lines of a classical poem.</En>
+            </Situation>
+            <Situation id="39ee1b72-2a27-4a3e-8028-dd45d92b586b">
+              <Vi>Giáo sĩ đọc từng câu trong Kinh Thánh (ví dụ: "verse 3 of Chapter 1").</Vi>
+              <En>A clergyman quoting a specific line from the Bible (e.g., "verse 3 of Chapter 1").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="76f02082-6cc3-417f-8d09-af1718d06c08" type="Noun">
+          <Vi>Phần nhạc trong bài hát (thường là phần có lời, khác với điệp khúc)</Vi>
+          <En>The part of a song that contains the lyrics and typically changes with each repetition, as opposed to the chorus.</En>
+          <Example>The singer paused before the second verse to take a breath.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47dd7326-4fbb-402a-8add-1341821da059">
+              <Vi>Nhạc sĩ chỉ dẫn phần verse trong bản nhạc để ca sĩ hát.</Vi>
+              <En>A musician pointing out the verse section in a song for the vocalist to sing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

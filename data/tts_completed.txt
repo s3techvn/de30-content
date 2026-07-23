@@ -1205,3 +1205,4 @@ medieval
 safari
 tony
 assure
+solo
