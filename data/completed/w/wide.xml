@@ -1,0 +1,66 @@
+<Vocab id="c786b6c1-1451-435a-9a42-e86fd63981e1" word="wide" type="short" status="done">
+  <Topics>
+    <Topic id="1a68931c-9bd2-47dc-b2c4-2cc1f09e8979" value="Descriptive Language" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="00261d5f-8a61-4973-a517-e6703c9ed082" ipa="/waɪd/" vi_ipa="hai-đao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bc3be618-65d6-4fc2-adad-d0a65c455f9f" type="Adjective">
+          <Vi>rộng, rộng lớn</Vi>
+          <En>having a large extent from side to side; having a broad measure of width.</En>
+          <Example>The river is wide at this point, making it difficult to cross.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17e19150-530b-4172-84be-1ba20a25f3bb">
+              <Vi>Mô tả kích thước ngang của một vật hoặc không gian.</Vi>
+              <En>Describing the horizontal measurement of an object or space.</En>
+            </Situation>
+            <Situation id="09cb25bd-2112-448f-bfd8-566342e8ff45">
+              <Vi>So sánh độ rộng giữa hai đối tượng.</Vi>
+              <En>Comparing the width between two objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3a36aaac-4c87-4edb-ad36-6859de8ccc52" type="Adjective">
+          <Vi>rộng rãi, khoan dung, bao quát</Vi>
+          <En>open, not restricted or limited; broad in scope or range.</En>
+          <Example>She has a wide range of interests, from astronomy to cooking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="550d43d9-b249-48da-bf04-c86708d5394b">
+              <Vi>Mô tả sự đa dạng hoặc phạm vi rộng của kiến thức, sở thích, hoặc khả năng.</Vi>
+              <En>Describing the diversity or broad scope of knowledge, interests, or abilities.</En>
+            </Situation>
+            <Situation id="fb71865e-e399-42bf-aaff-00f00a753c2a">
+              <Vi>Chỉ mức độ linh hoạt hoặc cởi mở trong tư duy hoặc hành vi.</Vi>
+              <En>Indicating flexibility or openness in thinking or behavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6ab5ac2b-67e4-42b1-b600-d3633d3ef966" type="Adverb">
+          <Vi>rộng rãi, rộng lớn (trạng thái)</Vi>
+          <En>in a wide manner; to a great extent or degree.</En>
+          <Example>The door opened wide, revealing the entire room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61860e3c-71a1-491c-bcfc-b8f9a54c621c">
+              <Vi>Mô tả mức độ mở rộng tối đa của một hành động hoặc trạng thái.</Vi>
+              <En>Describing the maximum extent of an action or state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
