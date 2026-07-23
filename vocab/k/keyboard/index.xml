@@ -1,0 +1,38 @@
+<Vocab id="23234888-fd11-4ae1-b3d1-c09e076c179b" word="keyboard" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="33f3a3d1-aa7f-4ab1-9815-9cfa07f7a612" value="Typist" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="175559c9-c4d7-49ca-8ff1-da353ee3baa8" ipa="/ˈkiː.bɔːrd/" vi_ipa="ki-bọt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d95dc13d-1d9d-4b56-ae5a-34396686ff46" type="Noun">
+          <Vi>Bàn phím (dùng để gõ chữ trên máy tính hoặc điện thoại)</Vi>
+          <En>A panel with keys that are pressed to enter data or commands into a computer or other electronic device.</En>
+          <Example>She cleaned the keyboard before starting her online exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="694f82bd-8db9-4e73-9193-8de803b1c802">
+              <Vi>Mô tả việc gõ văn bản hoặc lập trình trên máy tính.</Vi>
+              <En>Used when typing, coding, or entering data on a computer.</En>
+            </Situation>
+            <Situation id="670d3080-ee80-453c-ad76-9e2dd51194bc">
+              <Vi>Mô tả bàn phím của đàn piano điện hoặc synthesizer.</Vi>
+              <En>Refers to the key layout on digital pianos or synthesizers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
