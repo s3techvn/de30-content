@@ -561,4 +561,5 @@
   <Profession id="b8937b14-385b-414f-9461-8268d5f21b56" slug="casino-worker" value="Casino Worker" />
   <Profession id="72d2fce5-1b70-409a-8117-c4cdea581d0d" slug="car-salesperson" value="Car Salesperson" />
   <Profession id="b02a7582-08b1-4523-b2be-bbe64caf97e6" slug="drug-trafficker" value="Drug Trafficker" />
+  <Profession id="afbc6c46-b288-4603-91a1-ce797b57768f" slug="maple-syrup-producer" value="Maple Syrup Producer" />
 </Professions>

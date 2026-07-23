@@ -1,0 +1,50 @@
+<Vocab id="bd21b98f-056b-4d91-8599-57b79eed94a7" word="joy" type="short" status="done">
+  <Topics>
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="750a1d38-a7f7-48ff-a2ce-884f2b780162" ipa="/dʒɔɪ/" vi_ipa="gi-ôi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a454cdfd-0343-43a6-970f-8c9db16ad4b7" type="Noun">
+          <Vi>Nỗi vui mừng, niềm hạnh phúc</Vi>
+          <En>A strong feeling of happiness, pleasure, or delight</En>
+          <Example>She felt a surge of joy when she heard the good news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66eb2d14-fcaf-4cd1-9892-48aba9e1c64a">
+              <Vi>Cảm giác vui sướng tột độ khi đạt được điều mong muốn.</Vi>
+              <En>The intense happiness experienced upon achieving a desired goal.</En>
+            </Situation>
+            <Situation id="65f0965b-401c-417a-a54e-b1ab1004473d">
+              <Vi>Nụ cười rạng rỡ và tiếng cười vang lên trong buổi tiệc vui.</Vi>
+              <En>Smiling broadly and laughing heartily at a joyful celebration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5f84fed1-f814-4b5b-a62c-0ace25a16998" type="Noun">
+          <Vi>Người (hoặc vật) mang lại niềm vui</Vi>
+          <En>A person or thing that gives great pleasure or happiness</En>
+          <Example>Her grandchildren are her greatest joy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="450e8291-a72a-43c8-afb6-bde74e58349b">
+              <Vi>Cha mẹ thường nói con cái là niềm vui của đời họ.</Vi>
+              <En>Parents often say their children are the joy of their lives.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
