@@ -1727,3 +1727,4 @@ strategy
 mighty
 protecting
 cricket
+scotia
