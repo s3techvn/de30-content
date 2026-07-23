@@ -1,0 +1,45 @@
+<Vocab id="94a5e582-13fe-4683-9ca3-6889af4208ea" word="trinity" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="decbc985-1544-4503-a15d-6f6585b8c815" value="Religious Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5c34671-1ea6-4deb-84b2-bb3571e9e57c" ipa="/ˈtrɪn.ə.ti/" vi_ipa="tơ-ni-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="570ba878-58ee-496c-9065-ec9fe04303e0" type="Noun">
+          <Vi>Chúa Ba Ngôi</Vi>
+          <En>The Christian doctrine that God exists as three persons—Father, Son (Jesus Christ), and Holy Spirit—but is one God.</En>
+          <Example>The doctrine of the Trinity is central to most Christian denominations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4758fab7-5014-4dc4-9de4-4e0618974df4">
+              <Vi>Giáo lý Kitô giáo về một Thiên Chúa gồm ba ngôi vị: Cha, Con, và Thánh Thần.</Vi>
+              <En>A core theological concept in Christianity describing God as three co-eternal persons in one essence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d4aec4de-4e43-4e63-acbe-b6f3f3b41b17" type="Noun">
+          <Vi>nhóm ba người/vật gắn bó chặt chẽ, thường được xem như một đơn vị thống nhất</Vi>
+          <En>A group of three closely associated people or things, especially when regarded as a single unit.</En>
+          <Example>The band’s lineup included a trio of guitarists, sometimes called the “trinity” of rock.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb933bc9-7940-4bbb-bd56-bca3063285ad">
+              <Vi>Sử dụng để chỉ một bộ ba người hoặc vật hoạt động như một thể thống nhất (thường trong văn nói, văn chương).</Vi>
+              <En>A colloquial or figurative term for a trio functioning as a cohesive unit, often in creative or professional contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
