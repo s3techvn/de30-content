@@ -1,0 +1,70 @@
+<Vocab id="c49f97c0-2ccb-4e01-adf7-2f5e3bb6e175" word="number" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff06cbe7-be5a-4149-9da4-d8ed1830abe5" ipa="/ˈnʌm.bɚ/" vi_ipa="năm-bờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="539103ce-90e5-4a21-a7f9-afbdc437ae61" type="Noun">
+          <Vi>số</Vi>
+          <En>A mathematical object used to count, measure, and label.</En>
+          <Example>The number of students in the class is twenty-five.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1329abf-5467-463b-8111-077cfb00b98a">
+              <Vi>Mô tả một lượng đếm được hoặc giá trị đo lường.</Vi>
+              <En>Describing a countable quantity or measurable value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="34497316-2e0e-40fd-9c31-fa2aedc929f3" type="Noun">
+          <Vi>số (trong danh sách, thứ tự)</Vi>
+          <En>A distinct item in a sequence or list, often used for identification (e.g., phone number, room number).</En>
+          <Example>Her phone number is 555-1234.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="511cb57e-537c-4f95-bb6a-67a9f843197c">
+              <Vi>Dùng để chỉ mã định danh như số điện thoại, số nhà, số thứ tự.</Vi>
+              <En>Used to refer to identifiers such as phone numbers, house numbers, or serial numbers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="86d44dcb-be1e-4976-9c92-2cf5a5f39f34" ipa="/ˈnʌm.bɚ/" vi_ipa="năm-bờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="83dc0302-08e8-42d0-b3b4-9928f1fd8b73" type="Verb">
+          <Vi>đánh số; tính thành số; tương đương với một số lượng nhất định</Vi>
+          <En>To assign a number to; to count or amount to a particular figure.</En>
+          <Example>The final tally numbers 1,200 attendees.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dba1d0e3-f385-4796-ad20-13e2a0ec2c34">
+              <Vi>Xác định số lượng hoặc gán mã số cho đối tượng.</Vi>
+              <En>Determining quantity or assigning a numerical identifier to an item.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
