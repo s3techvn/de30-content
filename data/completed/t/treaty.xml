@@ -1,0 +1,38 @@
+<Vocab id="f21e4888-10e9-4f59-8800-7b0a80b0f5d3" word="treaty" type="short" status="done">
+  <Topics>
+    <Topic id="cce73659-acdf-42f4-8eb1-4e967e37ad84" value="Law &amp; Diplomacy" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9c9cbc39-65fd-4a1d-90e9-3899f17d1bef" value="International Relations Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c4918dce-7fca-422f-85f2-a30b8238ded8" ipa="/ˈtriː.tər/">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ce1ef4f-3274-461c-9d3e-7d5ea47990ec" type="Noun">
+          <Vi>hiệp ước</Vi>
+          <En>A formal agreement between two or more sovereign states, typically concerning peace, alliance, trade, or other international matters.</En>
+          <Example>The two countries signed a treaty to reduce nuclear weapons stockpiles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fece7fd2-0a12-4e6b-a6d8-0f19237390cd">
+              <Vi>Quan hệ quốc tế, đàm phán ngoại giao</Vi>
+              <En>International relations and diplomatic negotiations</En>
+            </Situation>
+            <Situation id="38690588-1bf7-4166-b7da-5257ac6fc677">
+              <Vi>Ký kết sau chiến tranh hoặc xung đột</Vi>
+              <En>Signing after war or conflict to establish terms of peace</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
