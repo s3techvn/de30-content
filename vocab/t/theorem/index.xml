@@ -1,0 +1,38 @@
+<Vocab id="1063420b-24f3-4e9a-8804-70c303501fc1" word="theorem" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9d871c55-050a-4559-bd5d-43610fa03341" ipa="/ˈθɪər.əm/" vi_ipa="thi-ơ-mơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ac6a8f37-a338-49a7-bf75-ae0cff7f05eb" type="Noun">
+          <Vi>định lý</Vi>
+          <En>A mathematical statement that has been proven to be true based on previously established statements, such as other theorems and axioms.</En>
+          <Example>Pythagoras's theorem states that in a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ef2d6dad-b60c-4250-ba0a-49683b709080">
+              <Vi>Giảng dạy hoặc chứng minh một kết quả toán học đã được chứng minh trước đó.</Vi>
+              <En>Teaching or proving a mathematical result that has been rigorously established.</En>
+            </Situation>
+            <Situation id="395dae92-7e5c-4cc2-8ee8-7afe09154b7f">
+              <Vi>Sử dụng định lý để giải bài toán hình học hoặc đại số.</Vi>
+              <En>Applying a theorem to solve problems in geometry or algebra.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

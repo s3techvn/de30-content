@@ -1,0 +1,40 @@
+<Vocab id="b89ab60b-ecdd-4e6b-a52e-c223b25b0bdb" word="crucial" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="168b8327-502f-49c1-be1b-219332192f1d" ipa="/ˈkruː.ʃəl/" vi_ipa="crú-sờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="770b5b66-21c9-43c9-ab13-3d2e3897d36a" type="Adjective">
+          <Vi>Quyết định, quan trọng, then chốt</Vi>
+          <En>Extremely important or necessary, especially in relation to a successful outcome.</En>
+          <Example>The final decision is crucial to the project’s success.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a1b5952-0085-48bd-9064-ce35b3dca8f8">
+              <Vi>Trong bối cảnh ra quyết định quan trọng, ví dụ như chọn nhà cung cấp hoặc thời điểm ra mắt sản phẩm.</Vi>
+              <En>In contexts where a decision significantly affects the outcome, such as selecting a vendor or launching a product.</En>
+            </Situation>
+            <Situation id="c4acab71-23b2-4217-90ee-c1dfa736d782">
+              <Vi>Khi một yếu tố là điều kiện tiên quyết để đạt được mục tiêu.</Vi>
+              <En>When a factor is a prerequisite for achieving a goal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
