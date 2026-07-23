@@ -1,0 +1,51 @@
+<Vocab id="3b9777a7-84be-411d-b344-413cbaac5151" word="cowboy" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="3c144f24-a729-4fa2-9707-7193f9b6fb00" value="Occupations" />
+  </Topics>
+  <Professions>
+    <Profession id="421e7572-29c3-43a5-87df-19050e2efbe0" value="Rancher" />
+    <Profession id="7a76ba76-8c86-4358-8c08-cb1a4508967d" value="Cowhand" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2218a609-45d2-4946-a921-7144e322593e" ipa="/ˈkaʊ.bɔɪ/" vi_ipa="cào-bói">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b9036b0e-9bdb-4ee2-87d7-72d07db6e3db" type="Noun">
+          <Vi>Người chăn bò, cao bồi</Vi>
+          <En>A man who tends cattle on a ranch, especially in the western United States, often associated with cowboy culture, hats, boots, and horses.</En>
+          <Example>He wore a wide-brimmed hat and leather chaps as he rode across the open range, just like a classic cowboy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34bcc203-5dbc-4253-9d2f-00bc1250e8be">
+              <Vi>Mô tả người làm nghề chăn bò truyền thống ở vùng Tây Hoa Kỳ.</Vi>
+              <En>Describes a person working as a cattle herder in the traditional American Old West.</En>
+            </Situation>
+            <Situation id="23fd5798-305d-483e-bb06-c52ee15ca888">
+              <Vi>Người tham gia các buổi biểu diễn xiếc cao bồi hoặc phim hành động西部.</Vi>
+              <En>A person participating in rodeo performances or Western films.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f36929ff-739a-4627-a8eb-a85fad9705a9" type="Noun">
+          <Vi>Người hành động liều lĩnh, không tính toán kỹ lưỡng (nghĩa bóng)</Vi>
+          <En>A person who acts recklessly or without regard for consequences; a risk-taker.</En>
+          <Example>She’s a real cowboy when it comes to investing—she dives in without doing any research.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d95e7cb-58de-4f9f-951e-952a2150042d">
+              <Vi>Dùng để chỉ người làm việc thiếu kế hoạch, liều lĩnh trong công việc hoặc tài chính.</Vi>
+              <En>Used to describe someone who makes impulsive, high-risk decisions in business or finance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

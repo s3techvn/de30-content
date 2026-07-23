@@ -1,0 +1,40 @@
+<Vocab id="cbe807c7-b212-4c40-b29b-ad12d8f74434" word="connectivity" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="d5b45c6e-2e3f-4292-9315-eb8b3d8c3993" value="Telecommunications" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="33c8c6eb-d672-461a-a30f-3e0e1246c47f" value="Network Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="af22be43-b537-4e72-84ec-3d8613c011f7" value="Telecommunications Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f2b5554a-f635-430a-94d7-c79381d7ce8a" ipa="/kəˌnɛk.tɪˈvɪ.ti/" vi_ipa="kơ-nết-tí-vi-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f64b4146-93cc-493e-b071-ff8d08ac8f47" type="Noun">
+          <Vi>Khả năng kết nối; mức độ kết nối</Vi>
+          <En>The ability of devices, systems, or people to connect to and communicate with each other, especially via digital networks.</En>
+          <Example>The new router improved the connectivity in our office, allowing all devices to stay online without drops.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7583df5-72c1-4227-a91a-d445f62d6ab0">
+              <Vi>Mô tả tình huống khi thiết bị không thể kết nối mạng hoặc kết nối không ổn định.</Vi>
+              <En>Describes a situation where devices struggle to maintain a stable internet or network connection.</En>
+            </Situation>
+            <Situation id="d0f458c2-bd57-4a67-80c0-276c87fc373b">
+              <Vi>Mô tả tình huống khi các thiết bị IoT trong nhà được kết nối liền mạch với nhau.</Vi>
+              <En>Describes a scenario where IoT devices in a home are seamlessly connected and interact with each other.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
