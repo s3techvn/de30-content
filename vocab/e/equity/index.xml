@@ -1,0 +1,41 @@
+<Vocab id="00d75f12-cf4b-4a26-84b4-f0753b537631" word="equity" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" value="Investor" />
+    <Profession id="7c6eae79-b9df-4dbd-87a9-85fa4d95f8de" value="Human Rights Advocate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="176535f8-e451-4295-991c-3e27156a0da7" ipa="/ˈiː.kwə.ti/" vi_ipa="i-cờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="449f1770-40ba-4182-9ed7-5b6d303361f0" type="Noun">
+          <Vi>Sự công bằng; vốn cổ phần; giá trị tài sản ròng</Vi>
+          <En>The quality of being fair and impartial; in finance, the value of shares in a company or the value of assets after debts are paid.</En>
+          <Example>The company increased shareholder equity by repurchasing its own stock.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6f827ea-567c-4e7b-b297-1389601a4b79">
+              <Vi>Trong bối cảnh phân tích tài chính, nói về giá trị sở hữu của cổ đông.</Vi>
+              <En>In financial analysis, referring to shareholders’ ownership interest in a company.</En>
+            </Situation>
+            <Situation id="02863945-aa43-42d7-9eb5-1f6d5facc2a7">
+              <Vi>Trong bối cảnh pháp lý hoặc xã hội, nói về sự công bằng và công lý.</Vi>
+              <En>In legal or social contexts, referring to fairness and justice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
