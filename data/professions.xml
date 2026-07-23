@@ -533,4 +533,6 @@
   <Profession id="ea99cf92-8a09-47da-9cef-548ea15d98f8" slug="laboratory-technician" value="Laboratory Technician" />
   <Profession id="892e1ea8-7006-4c46-93c4-2eac259cb784" slug="artist-/-illustrator" value="Artist / Illustrator" />
   <Profession id="2cda9903-8aa3-4698-a281-a55860fdc9f9" slug="transportation-engineer" value="Transportation Engineer" />
+  <Profession id="09f812ac-617f-4a9d-bc5a-316fd0fc714c" slug="ophthalmologist" value="Ophthalmologist" />
+  <Profession id="44817e93-f60f-4dcc-9e49-31b732af2d11" slug="optometrist" value="Optometrist" />
 </Professions>
