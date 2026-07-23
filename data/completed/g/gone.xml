@@ -1,0 +1,49 @@
+<Vocab id="a19106b0-bd37-4717-8085-55aa74ce1e36" word="gone" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af84321f-8c8b-4fe1-844d-ea028e0f6f3f" ipa="/ɡɒn/" vi_ipa="gôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45d6f87d-6bc1-41aa-a27e-427f9231ebda" type="Adjective">
+          <Vi>đã đi, đã mất, không còn ở đây</Vi>
+          <En>no longer present or existing; departed or lost.</En>
+          <Example>She was gone before I even realized she had left.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8884937-ff76-4981-9e97-dfd1d7834eb6">
+              <Vi>Mô tả một người hoặc vật đã rời khỏi nơi nào đó và không còn quay lại.</Vi>
+              <En>Describing a person or object that has left a place and is no longer there.</En>
+            </Situation>
+            <Situation id="ae340076-062f-442d-8c6f-316f8e4b29a5">
+              <Vi>Dùng trong ngữ cảnh nói về sự biến mất đột ngột hoặc không thể phục hồi (ví dụ: thời gian, cơ hội).</Vi>
+              <En>Used when describing something that has disappeared suddenly or irreversibly (e.g., time, opportunity).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2707c84f-27a7-4507-a9c0-1a47b7025e59" type="Adjective">
+          <Vi>đã qua, đã kết thúc (thời gian, kỳ hạn)</Vi>
+          <En>no longer remaining in time; elapsed or finished.</En>
+          <Example>The deadline is gone—we missed it by three days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a23fe62a-ac06-4c9d-b1b5-c65bcb928ba2">
+              <Vi>Dùng khi nói về một thời điểm hoặc kỳ hạn đã trôi qua.</Vi>
+              <En>Used when referring to a time or deadline that has passed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
