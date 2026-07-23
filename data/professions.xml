@@ -722,4 +722,5 @@
   <Profession id="1af82273-32ec-44e7-833a-99df516dc53b" slug="anesthesiologist" value="Anesthesiologist" />
   <Profession id="9edcfea1-7bac-4cf3-a706-f584e4ec1698" slug="computer-graphics-engineer" value="Computer Graphics Engineer" />
   <Profession id="3352db08-d403-4cf4-80e0-65557b89a3ea" slug="production-assistant" value="Production Assistant" />
+  <Profession id="7a77b78e-876a-4b0d-b241-5e6c3d0abef1" slug="developer" value="Developer" />
 </Professions>
