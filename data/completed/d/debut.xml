@@ -1,0 +1,58 @@
+<Vocab id="2b859696-425f-41b3-8b58-bb1b7f1dd52f" word="debut" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+    <Topic id="f9dd002a-c5b4-4ac6-b937-89f07d80846b" value="Performance" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="56cdbf7a-da63-4ef6-b61f-57c3038be03e" ipa="/ˈdeɪ.bʌt/" vi_ipa="đê-i-bát">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f40ab17c-db84-4143-9bc7-e74766cad6d2" type="Noun">
+          <Vi>lần đầu ra mắt, màn trình diễn đầu tiên</Vi>
+          <En>the first public performance or appearance of a performer, especially in a particular role or profession</En>
+          <Example>Her Broadway debut was in the musical *Hamilton*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87d8ba76-b907-4d6a-a857-4939b6576464">
+              <Vi>Diễn viên lần đầu登场 trên sân khấu lớn với vai chính.</Vi>
+              <En>An actor makes their first appearance on a major stage in a leading role.</En>
+            </Situation>
+            <Situation id="1df978cf-6e24-49ab-b56a-196687203e51">
+              <Vi>Thời trang ra mắt bộ sưu tập đầu tiên của nhà thiết kế trẻ.</Vi>
+              <En>Fashion world debuts a young designer’s first collection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4f37d7d1-8709-4b5d-8826-d9e7de64e0ff" type="Verb">
+          <Vi>ra mắt lần đầu, trình diễn lần đầu</Vi>
+          <En>to make one’s first appearance or performance in a particular role or context</En>
+          <Example>The new singer debuted her first single at the music festival.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9bc86473-1d43-4107-b671-a70abbae5667">
+              <Vi>Nhóm nhạc nam ra mắt công chúng với ca khúc đầu tay.</Vi>
+              <En>The boy band debuted to the public with their first single.</En>
+            </Situation>
+            <Situation id="78a2d858-cae9-444b-adf4-a41fe803396a">
+              <Vi>Sản phẩm công nghệ mới được ra mắt tại hội chợ triển lãm.</Vi>
+              <En>The new tech product debuted at the trade show.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
