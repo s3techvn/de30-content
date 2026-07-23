@@ -1,0 +1,68 @@
+<Vocab id="ac690c6b-c639-4db7-8bbe-02a0254f43e1" word="suit" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="7d3b2690-b1bc-4a07-9a4c-ae5afd9949a7" value="Business Executive" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="27f78e7a-cf40-4184-9fb3-f0eef67487e2" ipa="/suːt/" vi_ipa="xít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c12403ba-c975-4dd1-8a4b-4cfd49796bf8" type="Noun">
+          <Vi>Bộ đồ (thường gồm áo khoác và quần) hoặc bộ đồ vest; bộ đồ phù hợp, hợp lý</Vi>
+          <En>A set of clothes consisting of a jacket and trousers or a skirt, typically made of the same fabric; a set of things that go together or are appropriate in a particular context</En>
+          <Example>He wore a dark blue suit to the job interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79112bb9-9e46-45f1-9bb0-e4e44a345e2b">
+              <Vi>Một người đàn ông mặc bộ vest lịch sự khi đi phỏng vấn xin việc.</Vi>
+              <En>A man wears a smart suit for a job interview.</En>
+            </Situation>
+            <Situation id="a1a56efd-0851-4190-abc0-ebccdff79e78">
+              <Vi>Bộ đồ này không hợp với tôi về kích cỡ và màu sắc.</Vi>
+              <En>This suit doesn’t suit me in terms of size and color.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a2b2fbb0-fad8-46f2-9720-7ab90305cc84" type="Verb">
+          <Vi>Phù hợp, hợp với; làm phù hợp, điều chỉnh cho phù hợp</Vi>
+          <En>To be appropriate or suitable for someone or something; to make something suitable or appropriate</En>
+          <Example>The color of her dress suits her perfectly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d532cf0f-24fc-4571-aa1f-a7ecfac99fb3">
+              <Vi>Màu đỏ này rất hợp với làn da của cô ấy.</Vi>
+              <En>This red color suits her skin tone very well.</En>
+            </Situation>
+            <Situation id="8590dc95-9142-414c-8af5-3f5f7387e755">
+              <Vi>Hãy điều chỉnh thời gian họp cho phù hợp với lịch trình của bạn.</Vi>
+              <En>Please adjust the meeting time to suit your schedule.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f09a6bfc-7cff-40c2-bc61-6fdcd1579f44" type="Noun">
+          <Vi>Đơn kiện (trong pháp lý)</Vi>
+          <En>A formal legal action or lawsuit</En>
+          <Example>They filed a lawsuit, but the case was dismissed due to lack of evidence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="640a664b-bed2-4d0e-92f8-1a7a2d41d58b">
+              <Vi>Công ty khởi kiện đối thủ vì vi phạm bản quyền.</Vi>
+              <En>The company filed a suit against its competitor for copyright infringement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
