@@ -1,0 +1,38 @@
+<Vocab id="2f3708f1-e447-4e38-b915-a27d2afe01c6" word="protecting" type="short" status="done">
+  <Topics>
+    <Topic id="c453decf-c164-4f25-8e91-451d63d0475d" value="Safety &amp; Security" />
+  </Topics>
+  <Professions>
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" value="Law Enforcement" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bba0a18f-6347-4fa9-b011-fae5be5958f4" ipa="/prəˈtek.tɪŋ/" vi_ipa="prơ-téc-tíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0035e7e2-cdbb-4367-bff6-6db4fb1839f9" type="Verb">
+          <Vi>bảo vệ, che chở, bảo hộ</Vi>
+          <En>to keep safe from harm, danger, or damage</En>
+          <Example>She is protecting her younger brother from the rain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68ed6f47-f890-429c-974d-93f4afdd95e8">
+              <Vi>Ngăn chặn nguy hiểm hoặc tổn hại cho người hoặc vật.</Vi>
+              <En>Preventing harm or danger to a person or object.</En>
+            </Situation>
+            <Situation id="5e0b5086-fbe5-4322-ab35-3d8990f0aec5">
+              <Vi>Hành động giữ gìn tài sản, môi trường hoặc quyền lợi.</Vi>
+              <En>Acting to preserve property, the environment, or rights.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
