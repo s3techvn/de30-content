@@ -1,0 +1,64 @@
+<Vocab id="a6edffaa-2d65-4d49-b176-45153fb0b34e" word="ball" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="53fee924-dbe6-4519-98c3-120031af617b" ipa="/bɔːl/" vi_ipa="bô-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eb6ad580-077b-4774-8f71-d63b06f118fe" type="Noun">
+          <Vi>Quả bóng</Vi>
+          <En>A round or spherical object, typically used in games or sports.</En>
+          <Example>The child kicked the ball across the park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7a65cb3-9f92-44a5-88b6-045051dc06b6">
+              <Vi>Mô tả vật hình cầu dùng trong thể thao như bóng đá, bóng rổ.</Vi>
+              <En>Describes a spherical object used in sports such as soccer or basketball.</En>
+            </Situation>
+            <Situation id="7a5c7b55-ecb1-40d3-92c2-2dcd1d68f1e1">
+              <Vi>Trong vật lý, dùng để mô tả vật thể có dạng hình cầu.</Vi>
+              <En>In physics, used to describe a spherical object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="986d4b23-7b7a-46d3-9153-0630ed5f4b4d" type="Noun">
+          <Vi>Đám đông, nhóm người (trong một sự kiện)</Vi>
+          <En>A large crowd or group of people gathered together, especially at a formal event.</En>
+          <Example>She danced at the ball with many other guests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de3086de-8185-462a-98e6-f5e1f4b97207">
+              <Vi>Chỉ một buổi tiệc trang trọng, thường có khiêu vũ.</Vi>
+              <En>Refers to a formal party, often involving dancing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="39bc3dca-6821-434a-8335-70978354a811" type="Noun">
+          <Vi>Quả trứng (thường dùng trong ẩn dụ)</Vi>
+          <En>An egg, especially when used metaphorically.</En>
+          <Example>The chicken laid a single, large ball.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="00208223-7e16-4aaf-a2ec-720af0d64814">
+              <Vi>Ẩn dụ cho quả trứng, đặc biệt trong văn nói hoặc văn học.</Vi>
+              <En>Metaphorical use for an egg, especially in informal or literary contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
