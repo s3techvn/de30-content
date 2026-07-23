@@ -1,0 +1,56 @@
+<Vocab id="a96d975a-0877-48ba-89c3-70e4a54b2f5a" word="legend" type="short" status="done">
+  <Topics>
+    <Topic id="b80d3ce6-78d5-42f2-82a4-610c7f87057e" value="Literature &amp; Culture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="fbd30c7e-1934-415b-8bf3-a42fa4022e14" value="Folklore" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fe42019e-d1d4-4e80-9b10-51918662b639" ipa="/ˈledʒ.ənd/" vi_ipa="lếch-gơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af3eba27-636a-4801-b829-7c350764f103" type="Noun">
+          <Vi>Câu chuyện dân gian hoặc truyền thuyết, thường kể về các nhân vật và sự kiện kỳ lạ, có thể không hoàn toàn đúng sự thật.</Vi>
+          <En>A traditional story, often involving supernatural beings or events, that is widely accepted as historical but may not be verifiable.</En>
+          <Example>The legend of King Arthur and the Knights of the Round Table has inspired countless books and films.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4576b703-503e-432a-9bf6-11a0f7a95790">
+              <Vi>Người dân kể lại câu chuyện về một vị anh hùng dân tộc có phép thuật, bảo vệ làng khỏi quái vật.</Vi>
+              <En>A community shares a tale of a legendary hero who used magic to protect the village from a monster.</En>
+            </Situation>
+            <Situation id="436fd81f-0fdd-4f3b-8fc2-a1ff979bb2e2">
+              <Vi>Trong lớp học lịch sử, giáo viên phân biệt giữa lịch sử thực tế và những truyền thuyết được thêu dệt qua thời gian.</Vi>
+              <En>In a history class, the teacher distinguishes between actual history and stories that have become legendary over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0ef6d8a9-db61-44b7-b061-3e04ed5452bd" type="Noun">
+          <Vi>Nhân vật nổi tiếng, được ngưỡng mộ và được nhắc đến như một chuẩn mực trong một lĩnh vực.</Vi>
+          <En>A person who is famous and highly admired, especially in a particular field, and whose achievements are considered exemplary.</En>
+          <Example>Maria Callas was considered a legend in the world of opera.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="05b741b0-7d9c-4012-9d7d-a7f51ae1b868">
+              <Vi>Sau khi giải nghệ, cầu thủ bóng đá được người hâm mộ gọi là "huyền thoại" vì những bàn thắng quyết định.</Vi>
+              <En>After retiring, the football player was hailed as a "legend" by fans for his match-winning goals.</En>
+            </Situation>
+            <Situation id="5cebf372-8f4b-4a0c-a410-d2c0b11c198b">
+              <Vi>Trong buổi lễ tưởng niệm, người ta nhắc đến ông như một huyền thoại của nền văn học Việt Nam thế kỷ XX.</Vi>
+              <En>At the memorial ceremony, he was referred to as a legend of 20th-century Vietnamese literature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -728,4 +728,5 @@
   <Profession id="151e0cbd-27cb-4f19-b648-a3108a965a85" slug="radiologist" value="Radiologist" />
   <Profession id="ebbf464e-8b28-437e-a6df-60676ba4be10" slug="property-manager" value="Property Manager" />
   <Profession id="7c6eae79-b9df-4dbd-87a9-85fa4d95f8de" slug="human-rights-advocate" value="Human Rights Advocate" />
+  <Profession id="c706ea61-17ea-49db-a920-c920b74fe5c4" slug="nuclear-engineer" value="Nuclear Engineer" />
 </Professions>
