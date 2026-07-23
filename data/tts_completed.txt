@@ -1147,3 +1147,4 @@ writer
 stroke
 dover
 dump
+roulette

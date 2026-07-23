@@ -1,0 +1,40 @@
+<Vocab id="735760f6-6633-4afc-808d-5a57ff33bb5d" word="roulette" type="short" status="done">
+  <Topics>
+    <Topic id="29248cfe-d0ab-423f-8567-69c63077f235" value="Gambling" />
+    <Topic id="40494e98-a560-44a6-af6e-a7c4135c3e44" value="Casino" />
+    <Topic id="496feb83-4d04-4480-acb3-252bb8d534fb" value="Games" />
+  </Topics>
+  <Professions>
+    <Profession id="6fabb7a5-5fe0-401b-be4c-26dd0d7b82a2" value="Croupier" />
+    <Profession id="dcee8947-a7ce-4130-8a75-d43d26085bf4" value="Casino Manager" />
+    <Profession id="af062394-937e-4fff-a434-341e5c32c035" value="Gambler" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ed0980a1-a270-40d1-b3c5-d9b074a3cedb" ipa="/ˌrɒl.əˈteɪl/" vi_ipa="rồ-lờ-tê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d844da92-cac1-45bc-96ad-ecea2360cb9b" type="Noun">
+          <Vi>Trò quay số (trong sòng bạc), bánh xe roulette</Vi>
+          <En>A gambling game in which a small ball is spun around a wheel with numbered and colored compartments, and players bet on where the ball will land.</En>
+          <Example>He placed a bet on red at the roulette table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b79e681-af86-4e76-b9b5-d013e876e91f">
+              <Vi>Một người chơi đặt cược vào các ô màu đỏ hoặc đen trên bánh xe quay.</Vi>
+              <En>A player places bets on red or black numbers before the wheel is spun.</En>
+            </Situation>
+            <Situation id="62447cd4-8538-4459-a71d-5564b73a39f6">
+              <Vi>Các sòng bạc thường đặt roulette ở vị trí trung tâm để thu hút khách.</Vi>
+              <En>Roulette tables are often placed in prominent locations in casinos to attract players.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
