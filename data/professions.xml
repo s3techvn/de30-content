@@ -517,4 +517,6 @@
   <Profession id="df6c3054-4616-4090-b5de-876f526ba4dc" slug="manufacturer" value="Manufacturer" />
   <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" slug="dentist" value="Dentist" />
   <Profession id="57e54a16-5364-4eae-b964-f2379412d4c4" slug="telecommunications-specialist" value="Telecommunications Specialist" />
+  <Profession id="c7a5f576-e21c-481f-87b0-36b06942494b" slug="boxer" value="Boxer" />
+  <Profession id="1f8d1509-def2-4d98-b98e-52c809eb3307" slug="mixed-martial-artist" value="Mixed Martial Artist" />
 </Professions>
