@@ -1,0 +1,33 @@
+<Vocab id="274e835e-5099-4b66-9d14-90800f6b6437" word="damages" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="43a547d5-8a3f-4d77-ad3e-9bc82a9aad2e" value="Insurance Adjuster" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="138a3786-5e9f-40ec-842a-85f0ae9c2354" ipa="/ˈdæm.ɪdʒ.ɪz/" vi_ipa="đăm-i-gi-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0b2072e3-73b2-4b74-bb1a-08ad7092c484" type="Noun">
+          <Vi>tiền bồi thường; thiệt hại (về vật chất hoặc tinh thần)</Vi>
+          <En>money awarded by a court to compensate for loss, injury, or damage suffered</En>
+          <Example>The court ordered the defendant to pay $50,000 in damages for the breach of contract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc5230a2-45fb-44f7-8b9a-84378b63567a">
+              <Vi>Trong một vụ kiện dân sự, nguyên đơn được tòa án phán quyết nhận tiền bồi thường vì bị thiệt hại.</Vi>
+              <En>In a civil lawsuit, the plaintiff is awarded compensation by the court for harm suffered.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
