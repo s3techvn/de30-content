@@ -1,0 +1,60 @@
+<Vocab id="e736c34a-5ca0-40be-b672-1080df860bc0" word="in" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14aaed9e-c7fa-4cb0-a8b4-46f20924125f" ipa="/ɪn/" vi_ipa="in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="55a30675-14f8-4610-9b1a-d4901332c9cc" type="Preposition">
+          <Vi>vào, trong</Vi>
+          <En>expressing the location or position of something within a space or area.</En>
+          <Example>She put the keys in her pocket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d8da0f3-4ea1-405e-b6e1-9e82df573070">
+              <Vi>Mô tả vị trí vật nằm bên trong một không gian kín hoặc bao quanh.</Vi>
+              <En>Used to indicate that something is enclosed or surrounded by something else.</En>
+            </Situation>
+            <Situation id="9863220f-756f-4c89-be6a-b48a5f3b810a">
+              <Vi>Mô tả thời gian diễn ra sự việc trong một khoảng thời gian cụ thể.</Vi>
+              <En>Used to indicate a period of time during which something happens (e.g., in the morning).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f16cd47e-4d4e-4dd8-b01e-d1574b3eccbe" type="Adverb">
+          <Vi>vào trong, bên trong</Vi>
+          <En>used to indicate movement or direction toward the inside of a place or container.</En>
+          <Example>Come in and make yourself comfortable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79f61363-40db-4f5b-befe-a4a3dcc2cf31">
+              <Vi>Mô tả hành động di chuyển từ bên ngoài vào bên trong.</Vi>
+              <En>Used when entering a building, room, or vehicle.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d2ac4330-bd36-4a25-8599-8903f4810cfb" type="Adverb">
+          <Vi>đang ở trong (trạng thái, tình trạng)</Vi>
+          <En>used to indicate being inside something, or being in a particular condition or state.</En>
+          <Example>The door was in, but the window was out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b3073d31-4794-4fff-b3e0-6b3fd82203c7">
+              <Vi>Mô tả trạng thái đang hoạt động, đang có mặt, hoặc đang xảy ra.</Vi>
+              <En>Used to indicate being active, present, or in power (e.g., The new manager is in).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
