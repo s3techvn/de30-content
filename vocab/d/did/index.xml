@@ -1,0 +1,32 @@
+<Vocab id="06059b1d-4720-4c6b-933a-8d2abe436b4d" word="did" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="32d2a753-0030-4d14-aba4-6aee1e255be2" ipa="/dɪd/" vi_ipa="đít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="84da7baa-15a8-43b7-842f-8b57860f8a99" type="Verb">
+          <Vi>làm (hành động trong quá khứ)</Vi>
+          <En>past tense of 'do'; used to indicate an action that happened in the past</En>
+          <Example>I did my homework yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f49b6458-c621-4d55-9df3-b481c58d25f5">
+              <Vi>Mô tả một hành động đã hoàn thành trong quá khứ.</Vi>
+              <En>Describing a completed action in the past.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
