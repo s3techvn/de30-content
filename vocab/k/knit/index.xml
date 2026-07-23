@@ -1,0 +1,56 @@
+<Vocab id="52cfa2a5-f5bf-4667-b106-9b06527592ad" word="knit" type="short" status="done">
+  <Topics>
+    <Topic id="c859dbc9-b086-4e1f-af80-db9529a79909" value="Crafts" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="14d79e08-b5b1-44d5-b2bb-daef1af587b0" value="Textile Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="90fb19c3-f0b3-4177-8b5a-0aff1c5eab1d" ipa="/nɪt/" vi_ipa="nít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d76c6446-389c-4066-afca-2378a424afda" type="Verb">
+          <Vi>thêu, đan (sợi chỉ, len thành vải hoặc đồ đan)</Vi>
+          <En>to make fabric or garments by interlocking loops of yarn or thread using needles</En>
+          <Example>She knitted a warm sweater for her grandson.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f91b4ff9-7835-42ff-afc3-7bb79bf34d47">
+              <Vi>Một người dùng hai chiếc kim và sợi len để tạo thành một chiếc áo len.</Vi>
+              <En>A person uses two knitting needles and yarn to create a sweater.</En>
+            </Situation>
+            <Situation id="bcbd9ddc-1c4d-4224-8733-2a527658078c">
+              <Vi>Hành động nối các vòng sợi lại với nhau để tạo thành vải đan.</Vi>
+              <En>The action of interlocking loops of yarn to form a knitted fabric.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9f053b22-db30-4b99-8ec0-ccb55748e0b6" type="Verb">
+          <Vi>đan chặt, gắn kết chặt chẽ (các bộ phận, mối quan hệ)</Vi>
+          <En>to join or connect things closely and firmly, especially abstractly or emotionally</En>
+          <Example>The shared experience knitted the team together.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b6ead57-3fe5-4c0e-a8b8-a81bae75240f">
+              <Vi>Hai người trở nên gắn bó chặt chẽ sau khi cùng vượt qua khó khăn.</Vi>
+              <En>Two people became closely bonded after going through a difficult experience together.</En>
+            </Situation>
+            <Situation id="bc5ad444-e6a2-47ec-b783-941f59faa7d0">
+              <Vi>Các cộng đồng được gắn kết nhờ các hoạt động chung.</Vi>
+              <En>Communities are knitted together through shared activities and traditions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

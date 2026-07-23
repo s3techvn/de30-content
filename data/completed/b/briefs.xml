@@ -1,0 +1,33 @@
+<Vocab id="0ac0c631-8fda-494e-a04a-272c8d134720" word="briefs" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="31363a4d-e0a0-4afe-8f69-873b75b55c44" ipa="/brifz/" vi_ipa="bri-fz">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="16d796fb-6def-4f72-a5eb-a4e67f99cf6d" type="Noun">
+          <Vi>quần lót nam (thường ngắn, ôm sát)</Vi>
+          <En>men’s close-fitting underpants, typically ending at the thigh</En>
+          <Example>He prefers cotton briefs for everyday comfort.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6c1d558-bed3-4333-bdbf-024d39739fb9">
+              <Vi>Mua quần lót nam tại cửa hàng thời trang.</Vi>
+              <En>Shopping for men’s underwear in a clothing store.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
