@@ -1,0 +1,57 @@
+<Vocab id="b0fe4e1a-f180-4f0c-9052-f76b35eeac51" word="navigate" type="short" status="done">
+  <Topics>
+    <Topic id="b0a6c86b-eda7-46a8-a2e9-b5f6b7a50a04" value="Travel &amp; Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="353bbf80-89f5-4208-b05d-0bb075d85269" value="Aviation &amp; Maritime" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8f7f228b-dd98-450d-a007-c975dd73e69a" ipa="/ˈnæv.ɪ.ɡeɪt/" vi_ipa="nê-vi-gây-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e71ba86b-982f-4a54-87cf-4c69435fc8eb" type="Verb">
+          <Vi>điều hướng, định hướng đường đi; điều khiển phương tiện di chuyển đến một nơi</Vi>
+          <En>to find one's way around or through a place, especially using a map, compass, or electronic device</En>
+          <Example>She used her phone's GPS to navigate the winding mountain roads.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4843e0c-410f-40ba-b950-0d64640dd739">
+              <Vi>Đang lái xe qua khu vực unfamiliar và dùng Google Maps để định hướng.</Vi>
+              <En>Driving through an unfamiliar city and using Google Maps to find the correct route.</En>
+            </Situation>
+            <Situation id="7f51a732-8c2c-4b84-a41a-9b43831ae249">
+              <Vi>Một phi công điều khiển máy bay theo lộ trình đã lập trình sẵn.</Vi>
+              <En>A pilot steering the aircraft along a pre-programmed flight path.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5f309b1b-94ab-46e6-a264-befc89d3cf5f" type="Verb">
+          <Vi>điều khiển, thao tác (một hệ thống, giao diện, hoặc quy trình phức tạp)</Vi>
+          <En>to deal with or manage a complex system, procedure, or situation successfully</En>
+          <Example>It took me a while to navigate the university’s online registration system.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9d035ef-5f4c-4fe3-af6b-adbc234a5011">
+              <Vi>Người mới bắt đầu tìm cách hiểu và sử dụng phần mềm kế toán chuyên dụng.</Vi>
+              <En>A beginner trying to understand and use specialized accounting software.</En>
+            </Situation>
+            <Situation id="38eafa26-fbab-4952-b66c-f41dc86f1847">
+              <Vi>Đang xử lý các thủ tục hành chính phức tạp để xin visa.</Vi>
+              <En>Handling complex administrative procedures to apply for a visa.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
