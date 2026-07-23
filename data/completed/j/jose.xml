@@ -1,0 +1,32 @@
+<Vocab id="231183e8-d337-4e9a-9c35-86e4b01194e5" word="jose" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="9b35c8c9-7767-4085-8459-0c598fac09e6" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e89c1b4c-9971-4926-a57c-59c543a32795" ipa="/ˈhoʊ.seɪ/" vi_ipa="hô-xê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7eabf6b-d3c7-4376-9baf-38405d11c5a9" type="Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm phổ biến trong các nước nói tiếng Tây Ban Nha, Bồ Đào Nha, và các nước Latinh)</Vi>
+          <En>A masculine given name or surname of Spanish, Portuguese, and Latin American origin.</En>
+          <Example>Jose Martinez is a software engineer at a tech startup in San Diego.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87d16e72-362b-4e78-9f8c-48aae85558f2">
+              <Vi>Trong các cộng đồng nói tiếng Tây Ban Nha, "José" thường được viết với dấu ngã (~) trên chữ e.</Vi>
+              <En>In Spanish-speaking communities, "José" is typically spelled with a tilde (~) over the 'e'.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
