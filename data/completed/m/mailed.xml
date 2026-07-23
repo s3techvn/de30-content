@@ -1,0 +1,37 @@
+<Vocab id="eadbbfb8-66b4-4366-b7e2-0c10567e2af3" word="mailed" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="18286525-3c3a-466c-9c74-ee80cf0db02f" value="Administrative Assistant" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="705d1692-8a2d-4412-9a5d-213285a2d759" ipa="/meɪld/" vi_ipa="mê-ld">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="69bb1226-4ce5-45d0-a0a6-e685c1afbcd9" type="Verb">
+          <Vi>gửi thư (qua bưu điện)</Vi>
+          <En>to send a letter or package through the postal system</En>
+          <Example>She mailed the application form before the deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="711b46aa-41b8-485b-b022-63ba8b99321e">
+              <Vi>Gửi đơn xin việc qua đường bưu điện trước hạn chót.</Vi>
+              <En>Sending a job application by post before the deadline.</En>
+            </Situation>
+            <Situation id="ade4d90f-ff3c-42bb-a28d-4a144ae5d8a9">
+              <Vi>Ông ấy đã gửi quà Giáng Sinh cho con cháu qua dịch vụ bưu điện.</Vi>
+              <En>He mailed Christmas gifts to his grandchildren via postal service.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
