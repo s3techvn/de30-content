@@ -1,0 +1,46 @@
+<Vocab id="876d5c99-3dfd-4fd2-aa7e-a965505f2817" word="improving" type="short" status="done">
+  <Topics>
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fab03ccc-5593-491f-b0f9-5b61fbeb543c" ipa="/ɪmˈpruː.ɪŋ/" vi_ipa="im-pru-íng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3cac2953-dd52-4c5c-8834-44d298b112e6" type="Adjective">
+          <Vi>đang được cải thiện; ngày càng tốt hơn</Vi>
+          <En>becoming better or more effective over time; undergoing improvement</En>
+          <Example>Her health is improving steadily after the surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0f09ca08-3e81-43db-b526-bf0e54168534">
+              <Vi>Mô tả tình trạng sức khỏe, hiệu suất, hoặc chất lượng đang dần nâng cao.</Vi>
+              <En>Describing a condition, performance, or quality that is gradually getting better.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="367a2605-f7df-4f47-93c5-9213293b4622" type="Verb (present participle/gerund)">
+          <Vi>đang cải thiện; làm tốt hơn</Vi>
+          <En>making something better; the act of enhancing or advancing quality, performance, or condition</En>
+          <Example>Improving communication skills can greatly boost team productivity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="782eb74e-6e08-49f3-b358-75536757b53b">
+              <Vi>Dùng trong ngữ cảnh học tập, phát triển cá nhân, hoặc làm việc nhóm để chỉ hành động nỗ lực nâng cao.</Vi>
+              <En>Used in learning, personal development, or teamwork contexts to refer to the effort of making something better.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
