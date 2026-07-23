@@ -1,0 +1,40 @@
+<Vocab id="06af7817-24b1-4ce3-90d8-3a7c8b1ca8a4" word="endorsement" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="23c8f626-3388-47aa-acba-aea5fe5f5a0d" value="Insurance Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d4f78121-352d-4394-a378-3617a74cb8b8" ipa="/ɪnˈdɔːrsmənt/" vi_ipa="in-dơ-rờ-smơnt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7a198c81-8bec-4209-b83c-f147b851ff01" type="Noun">
+          <Vi>Sự hậu thuẫn; sự phê chuẩn; chữ ký hậu thuẫn</Vi>
+          <En>The act of publicly supporting or recommending a person, product, or cause; or a signature on the back of a negotiable instrument (e.g., a check) transferring ownership.</En>
+          <Example>The celebrity’s endorsement helped boost the brand’s sales significantly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c66f43fe-659d-42cd-95c3-77cee9b7e3db">
+              <Vi>Người nổi tiếng công khai ủng hộ sản phẩm trong quảng cáo.</Vi>
+              <En>A celebrity publicly supports a product in a commercial.</En>
+            </Situation>
+            <Situation id="6823969c-bc16-4a3c-a729-ddb005d91619">
+              <Vi>Ký tên vào mặt sau của séc để chuyển quyền sở hữu.</Vi>
+              <En>Signing the back of a check to transfer ownership to another party.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
