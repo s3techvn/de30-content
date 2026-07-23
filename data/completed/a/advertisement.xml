@@ -1,0 +1,40 @@
+<Vocab id="e4f83df6-86f5-4395-bed2-53d7f27fc921" word="advertisement" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="d85a04fb-365f-4011-928c-eb0afcb15faa" value="Copywriter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e6f91f01-5e9c-4317-94a8-69aabece1471" ipa="/ˈæd.ər.taɪz.mənt/" vi_ipa="ác-đờ-rây-zơ-mént">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="95ba1e46-c2b8-494c-880c-4090bb8e6a5e" type="Noun">
+          <Vi>Quảng cáo; bản quảng cáo</Vi>
+          <En>A public announcement designed to promote a product, service, or cause, typically broadcast on TV, radio, or online.</En>
+          <Example>The company launched a new advertisement campaign to boost sales.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="98512231-39d9-4de3-850e-c0013f65eebd">
+              <Vi>Chương trình truyền hình phát sóng một quảng cáo sản phẩm mới.</Vi>
+              <En>A TV commercial airs during a break in a television show.</En>
+            </Situation>
+            <Situation id="17bff715-5fc2-427d-9800-d7c2814b78e7">
+              <Vi>Một tờ rơi phát tại cửa hàng giới thiệu khuyến mãi.</Vi>
+              <En>A flyer distributed at a store promoting a limited-time discount.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
