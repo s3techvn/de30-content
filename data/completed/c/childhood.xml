@@ -1,0 +1,40 @@
+<Vocab id="2b399bc9-1c92-4802-b036-4fc86e5a656d" word="childhood" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="4efc63d0-90e4-4341-bed5-e92958869ccd" value="Family" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f9e5035-7893-42bf-b898-e71ff19435ac" ipa="/ˈtʃɪl.drʊd/" vi_ipa="chí-lđrúp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="210deec5-29ee-4af6-b83e-209e7924e87e" type="Noun">
+          <Vi>Thời thơ ấu</Vi>
+          <En>The period of life from birth to adolescence, typically characterized by dependence, play, and learning.</En>
+          <Example>She often reflects on the innocence and joy of her childhood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c3533b0-5166-40cc-98a2-63230cf35e82">
+              <Vi>Mô tả giai đoạn đầu đời trước khi trưởng thành.</Vi>
+              <En>Refers to the early stage of human development before puberty.</En>
+            </Situation>
+            <Situation id="c2969add-ff1d-4058-a8a1-c7bf5489b200">
+              <Vi>Dùng trong ngữ cảnh hoài niệm hoặc phân tích tâm lý.</Vi>
+              <En>Used in nostalgic or psychological contexts to describe early experiences shaping personality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

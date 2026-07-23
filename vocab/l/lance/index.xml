@@ -1,0 +1,48 @@
+<Vocab id="5ca47711-0d36-4e23-8167-138592ed22d1" word="lance" type="short" status="done">
+  <Topics>
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="4d23f63e-c3ef-416a-8071-5b295783aa81" value="Medical Practitioner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0f792264-fe36-4951-918e-5afa029ff821" ipa="/lɑːns/" vi_ipa="lân-xơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e3250e8-1e1e-4433-be14-aff9bf8326b6" type="Noun">
+          <Vi>Cây giáo (dùng trong chiến đấu hoặc lễ nghi)</Vi>
+          <En>A long, pointed weapon used for thrusting, typically made of metal and wood, historically used by cavalry.</En>
+          <Example>The knight raised his lance and charged at full gallop.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="a3bc7bb4-ffac-4b48-ad65-2702f22fb088">
+              <Vi>Mô tả vũ khí cổ dùng trong trận chiến hoặc lễ hội quân đội.</Vi>
+              <En>Describes a historical weapon used in battles or ceremonial parades.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="71fa8f06-0699-4b0a-bf7c-bd862efa1d06" type="Noun">
+          <Vi>Cây lao y tế (dùng để mở vết thương hoặc gây chảy máu trong điều trị)</Vi>
+          <En>A slender, pointed medical instrument used for making small incisions or punctures, especially to release blood or pus.</En>
+          <Example>The physician used a sterile lance to drain the abscess.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="798f8267-c525-4825-a816-23d47ecfdb0f">
+              <Vi>Thời xưa, y tá hoặc bác sĩ dùng lao y tế để rạch da trong các thủ thuật cắt mủ hoặc xả máu.</Vi>
+              <En>In the past, medical practitioners used a lance to make small cuts for draining pus or blood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
