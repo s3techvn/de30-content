@@ -1,0 +1,61 @@
+<Vocab id="be00f129-6c2f-48f8-8714-a886ec4ac246" word="organ" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="b85f27ac-538e-4a94-956f-3cc54ef7a1a0" value="Organist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c188d5c1-b765-4a3e-a8b1-03e310d3db4f" ipa="/ˈɔːr.ɡən/" vi_ipa="o-r-gan">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7e3e9e6b-0ee8-4202-a1d6-7f50f024bbd5" type="Noun">
+          <Vi>Cơ quan (trong cơ thể người hoặc động vật)</Vi>
+          <En>A part of the body of a person or animal that performs a particular function, such as the heart, liver, or kidney.</En>
+          <Example>The surgeon carefully transplanted the donor’s liver into the patient.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37d3ba68-5f2c-4e51-8a85-90177f2b029c">
+              <Vi>Mô tả cấu trúc sinh học trong cơ thể sống.</Vi>
+              <En>Describing biological structures within living organisms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="74f50850-3dbc-4be6-a8fc-8e38ee1a7a0c" type="Noun">
+          <Vi>Cơ quan (như cơ quan lập pháp, hành pháp, tư pháp)</Vi>
+          <En>A department or division of a government or organization, especially one responsible for a particular function.</En>
+          <Example>The Central Bank is an independent organ of the national economy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40d7d08e-a17e-41c5-9e6b-cac143c59b2c">
+              <Vi>Sử dụng trong văn cảnh hành chính, pháp lý hoặc chính trị.</Vi>
+              <En>Used in administrative, legal, or political contexts to refer to institutional bodies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="379e27df-a4f5-4df8-b56c-859e4bc2cfee" type="Noun">
+          <Vi>Cơ quan (dụng cụ nhạc khí)</Vi>
+          <En>A large musical instrument with pipes operated by keys, typically found in churches or concert halls.</En>
+          <Example>The organist played a majestic fugue during the wedding ceremony.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ae4d3df8-d7fa-4d9a-8e55-7d99478d9763">
+              <Vi>Mô tả nhạc cụ trong nhà thờ hoặc phòng hòa nhạc.</Vi>
+              <En>Referring to the pipe organ used in religious or classical music performances.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

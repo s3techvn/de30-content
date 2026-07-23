@@ -1,0 +1,41 @@
+<Vocab id="70bf695f-99de-4933-8247-67cd5680e4c3" word="dramatically" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="6ae6a41b-dc7f-42f2-aea8-0a8b38b80788" value="Media &amp; Arts" />
+    <Topic id="0c91429e-ba6a-4a2f-ad93-2de527a8b1f3" value="Change &amp; Transformation" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="cc6202a8-494e-454c-bcec-ae2f56ec9746" value="Director" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a64d868e-ba7a-4fc5-a728-f317d42c7066" ipa="/ˈdræm.ət.ɪk.li/" vi_ipa="đờ-răm-mê-tíc-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a97435a4-e859-48d8-8e56-d9e46512e968" type="Adverb">
+          <Vi>một cách kịch tính; một cách đầy kịch tính; một cách ấn tượng mạnh</Vi>
+          <En>in a way that is striking, sudden, or emotionally intense; with a pronounced effect or change</En>
+          <Example>The actor’s performance changed dramatically after the director’s feedback.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34ff9de4-7436-4310-b269-7ff04e5679a2">
+              <Vi>Mô tả sự thay đổi mạnh mẽ, dễ nhận thấy trong một tình huống hoặc biểu hiện.</Vi>
+              <En>Describing a noticeable, often sudden or emotionally powerful change.</En>
+            </Situation>
+            <Situation id="e1243eca-ddf4-438c-ae9b-f35cccc69bf5">
+              <Vi>Dùng để nhấn mạnh mức độ của một hành động hoặc trạng thái (thường mang tính cường điệu).</Vi>
+              <En>Used to emphasize the intensity or extremity of an action or state (often hyperbolic).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
