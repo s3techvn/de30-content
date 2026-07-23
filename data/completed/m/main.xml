@@ -1,0 +1,36 @@
+<Vocab id="94d5825a-4cfb-4094-8113-e8108c0d46b4" word="main" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" value="Any" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cf97f024-6a04-45cd-85f3-c021e48d4e54" ipa="/meɪn/" vi_ipa="mê-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bfed67e9-25ab-4588-9acb-b2305aabc8b3" type="Adjective">
+          <Vi>chính, quan trọng nhất, chủ yếu</Vi>
+          <En>being the most important or significant; primary.</En>
+          <Example>She is the main reason I decided to move here.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07e71685-4af4-4dc7-8a64-2f4c00bef204">
+              <Vi>Mô tả điều quan trọng nhất trong một tập hợp hoặc hệ thống.</Vi>
+              <En>Used to describe the most important or central element in a set or system.</En>
+            </Situation>
+            <Situation id="06eafc3f-3cca-49ba-b235-cbc657fc0425">
+              <Vi>Chỉ nguồn cung cấp chính (như nước, điện).</Vi>
+              <En>Refers to the primary source of supply, such as water or electricity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

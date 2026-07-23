@@ -1,0 +1,60 @@
+<Vocab id="084d64d6-cd87-423e-a2dd-f7fc43842b85" word="gate" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="38c61806-3bb6-4880-a426-a2b7cc7d926e" value="Airport Security Officer" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c4dd908d-b6d6-4947-935d-cf3d51974529" ipa="/ɡeɪt/" vi_ipa="gết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f30a4909-32dc-41ad-975b-cdcab5e60193" type="Noun">
+          <Vi>Cổng (đóng/mở để kiểm soát ra vào)</Vi>
+          <En>A barrier, door, or opening in a fence or wall, typically one that can be opened or closed to control access.</En>
+          <Example>The security guard opened the gate to let the delivery truck enter the compound.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2497b93a-aff1-49d8-8823-bb9c8c998ed4">
+              <Vi>Cổng nhà, cổng khu vực được kiểm soát ra vào.</Vi>
+              <En>A physical gate at a property boundary or secured area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="02fb11c0-b744-4acb-83fb-6a8850e832de" type="Noun">
+          <Vi>Cổng lên máy bay (ở sân bay)</Vi>
+          <En>A designated entrance or exit point at an airport where passengers board or disembark from aircraft.</En>
+          <Example>Passengers for Flight 402 should proceed to Gate B7.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a547c558-fe59-4564-8d55-a0ffaf4da565">
+              <Vi>Cổng lên máy bay trong sân bay.</Vi>
+              <En>The area in an airport where passengers wait to board their plane.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="660d7f02-e0aa-4855-8c16-bdad2fc60087" type="Noun">
+          <Vi>Cổng điện tử (trong mạch điện)</Vi>
+          <En>A device in an electronic circuit that performs a logical operation on one or more binary inputs and produces a single output.</En>
+          <Example>An AND gate outputs high only when all its inputs are high.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90ff3ca4-4eeb-4dfb-8a62-18d844978147">
+              <Vi>Cổng logic trong vi mạch điện tử.</Vi>
+              <En>A fundamental building block in digital electronics and computer architecture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
