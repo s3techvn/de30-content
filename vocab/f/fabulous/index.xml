@@ -1,0 +1,40 @@
+<Vocab id="d1947385-2b18-4d73-a4e8-40b829fa123d" word="fabulous" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="818bb40f-f22a-4279-8480-9f5494616442" value="Opinion &amp; Evaluation" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7fef3c3-7bd0-4ba3-bacf-c38e313b1722" ipa="/ˈfæb.jə.ləs/" vi_ipa="phà-bhi-lơ-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c836608d-8898-4a3c-93fd-d54b2177c27d" type="Adjective">
+          <Vi>thú vị, tuyệt vời, đáng kinh ngạc (thường mang sắc thái tích cực, thường dùng trong văn nói)</Vi>
+          <En>extremely good, enjoyable, or impressive; wonderful or delightful</En>
+          <Example>That concert was absolutely fabulous!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="50cf4222-7cef-48db-8ac1-161918626e8f">
+              <Vi>Mô tả một trải nghiệm vui vẻ, ấn tượng mạnh (ví dụ: tiệc tùng, sự kiện, chuyến đi).</Vi>
+              <En>Used to describe an experience that is exceptionally enjoyable or exciting (e.g., a party, event, or trip).</En>
+            </Situation>
+            <Situation id="81ffe07a-a72f-4550-a847-de363bfa8361">
+              <Vi>Thể hiện sự khen ngợi mạnh mẽ, mang tính hài hước hoặc phóng đại.</Vi>
+              <En>Expresses strong praise, often with a touch of humor or exaggeration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
