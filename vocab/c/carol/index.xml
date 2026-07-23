@@ -1,0 +1,56 @@
+<Vocab id="a7a9f418-083a-456b-9137-64baaf5dc10d" word="carol" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="4ccf17bc-2251-48dc-94d5-017eb038267e" value="Holidays" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="c70ed570-d4d6-47ae-b84c-8052609ecb87" value="Choir Member" />
+    <Profession id="310378f4-4f76-4520-b112-4fc97c2cbd9a" value="Music Teacher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c540178f-7a0b-4627-a3e8-612a29db03e9" ipa="/ˈkær.əl/" vi_ipa="cà-rờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4bd5b0db-c8a5-4cd8-beb1-e2709a74e203" type="Noun">
+          <Vi>Bài hát lễ Giáng Sinh; bài hát vui mừng, thường có điệu nhảy vòng tròn</Vi>
+          <En>A song of praise or joy, especially one associated with Christmas; also historically, a circle dance accompanied by singing.</En>
+          <Example>They gathered in the town square to sing traditional carols on Christmas Eve.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5baaf555-7614-4acd-9661-df854fc29ad7">
+              <Vi>Người dân tụ tập hát các bài hát Giáng Sinh ngoài trời vào đêm Giao thừa.</Vi>
+              <En>People gather outdoors to sing Christmas carols on Christmas Eve.</En>
+            </Situation>
+            <Situation id="6fc23915-dd25-4899-a3ab-562a4ee660df">
+              <Vi>Một bài hát truyền thống với giai điệu vui tươi, thường được hát trong các buổi lễ hoặc lễ hội mùa đông.</Vi>
+              <En>A traditional song with a cheerful melody, often sung during winter festivals or religious services.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7d1e163c-3343-4f42-bc0b-df1fadd398db" type="Verb">
+          <Vi>Hát bài hát Giáng Sinh; hát vui mừng (đặc biệt trong dịp lễ hội)</Vi>
+          <En>To sing Christmas carols; to sing joyfully, especially during festive occasions.</En>
+          <Example>The children caroled door-to-door, collecting donations for charity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="724b9638-67e7-403a-a241-5833fe98656b">
+              <Vi>Nhóm học sinh đi từng nhà hát nhạc Giáng Sinh để gây quỹ từ thiện.</Vi>
+              <En>A group of students goes door-to-door singing Christmas carols to raise charity funds.</En>
+            </Situation>
+            <Situation id="54004c6b-bacf-4c26-aacf-9faeadd4e4c0">
+              <Vi>Mọi người cùng hát vui trong buổi tiệc cuối năm, vừa hát vừa vỗ tay.</Vi>
+              <En>Everyone joins in singing joyfully at the year-end party, clapping along to the rhythm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
