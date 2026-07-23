@@ -1,0 +1,33 @@
+<Vocab id="21d15007-78d0-4aa7-ac62-562e746b581e" word="pst" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="18286525-3c3a-466c-9c74-ee80cf0db02f" value="Administrative Assistant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="16a249eb-27e3-4ad3-ac7e-ae568910c2c3" ipa="/ˌpiːɛsˈtiː/" vi_ipa="pi-ét-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b446cae6-28fa-48d6-a907-2b9988ae5081" type="Noun">
+          <Vi>viết tắt của "postscript", nghĩa là phần ghi thêm ở cuối thư hoặc văn bản</Vi>
+          <En>an addition to a letter or book, written after the signature and usually beginning with “P.S.”</En>
+          <Example>P.S. I’ll call you tomorrow—forgot to mention it earlier!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58d6dcf0-7330-4be1-9134-c6f2b2069056">
+              <Vi>Người viết thêm một thông tin ngắn sau khi đã ký tên trong email hoặc thư tay</Vi>
+              <En>Adding a brief note after signing off in an email or handwritten letter</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

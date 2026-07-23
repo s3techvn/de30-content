@@ -1,0 +1,39 @@
+<Vocab id="bc5b1388-afbc-4b16-b850-45e4a0197cb5" word="helpful" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f51f2080-23db-40d9-a058-9f3b6b35dc0f" ipa="/ˈhel.pfəl/" vi_ipa="he-lợp-phờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3d692cf-9781-4b66-a35b-6dbcdb387872" type="Adjective">
+          <Vi>hữu ích; giúp được; sẵn sàng giúp đỡ</Vi>
+          <En>Useful; providing help or assistance; willing to help others.</En>
+          <Example>Her advice was extremely helpful during my job search.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9274d259-eaf9-4f41-958c-b12a468cdb65">
+              <Vi>Một người hoặc điều gì đó mang lại lợi ích thực tế hoặc hỗ trợ hiệu quả.</Vi>
+              <En>A person or thing that provides practical benefit or effective support.</En>
+            </Situation>
+            <Situation id="df071a9c-79d5-4daf-b733-e3092bd0fb95">
+              <Vi>Một người luôn sẵn sàng hỗ trợ người khác trong công việc hoặc cuộc sống.</Vi>
+              <En>A person who is always ready to assist others in work or daily life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
