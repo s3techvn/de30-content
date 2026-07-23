@@ -1,0 +1,34 @@
+<Vocab id="e19a15c5-03fc-4aad-9dec-88a2f5f3d503" word="tamil" type="short" status="done">
+  <Topics>
+    <Topic id="d6a5ffd9-24d4-4650-b50c-67b8b59992d1" value="Languages and Cultures" />
+  </Topics>
+  <Professions>
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" value="Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9def4cfb-73a3-408c-a88e-9c57e4a65614" ipa="/ˈtæm.ɪl/" vi_ipa="tăm-mi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ebd94e31-86ed-44e9-960b-10cd35e585ce" type="Adjective">
+          <Vi>thuộc về người Tamil, ngôn ngữ Tamil hoặc văn hóa Tamil</Vi>
+          <En>relating to the Tamil people, their language, or their culture</En>
+          <Example>The Tamil film industry, known as Kollywood, produces hundreds of movies each year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2828d478-f9a8-4cb7-af08-8b49ceaa4069">
+              <Vi>Mô tả đặc điểm, nguồn gốc, hoặc đặc trưng của cộng đồng Tamil ở Nam Ấn Độ và Sri Lanka.</Vi>
+              <En>Used to describe characteristics, origins, or features of the Tamil community in southern India and Sri Lanka.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
