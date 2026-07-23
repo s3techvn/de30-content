@@ -622,4 +622,5 @@
   <Profession id="68181d1e-fe9a-4207-a854-2ab2256f76b9" slug="general-practitioner" value="General Practitioner" />
   <Profession id="596322eb-5500-4e38-a26b-1a1d3789e12b" slug="oncologist" value="Oncologist" />
   <Profession id="c7aa685f-6415-418f-be70-a85a96a29cb7" slug="election-officer" value="Election Officer" />
+  <Profession id="329b9afc-10f9-402e-ac2d-f1436a8ca5a8" slug="airlines-staff" value="Airlines Staff" />
 </Professions>
