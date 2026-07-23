@@ -1,0 +1,44 @@
+<Vocab id="cc85afdd-b5fe-4f0c-9b0b-a817f66a8b88" word="dealer" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="9637e361-1510-45c9-9401-1612a015c195" value="Gaming" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="b8937b14-385b-414f-9461-8268d5f21b56" value="Casino Worker" />
+    <Profession id="72d2fce5-1b70-409a-8117-c4cdea581d0d" value="Car Salesperson" />
+    <Profession id="b02a7582-08b1-4523-b2be-bbe64caf97e6" value="Drug Trafficker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4a420f95-c110-4971-a7b7-06ffbe89b617" ipa="/ˈdiː.lər/" vi_ipa="đi-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ced87edf-6cd7-415c-8b2d-4f31c24259ce" type="Noun">
+          <Vi>người bán (xe hơi, đồ cổ, v.v.); người chia bài (ở sòng bạc)</Vi>
+          <En>a person who sells cars, antiques, or other goods, especially in an unregulated or illegal context; also, a person who shuffles and deals cards in a casino</En>
+          <Example>The car dealer negotiated a lower price after I pointed out the scratches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b246d80-fd9c-4419-8de5-80b96ffab16c">
+              <Vi>Người bán xe ô tô tại showroom</Vi>
+              <En>A person selling automobiles at a dealership lot</En>
+            </Situation>
+            <Situation id="e3802a3b-efcc-4101-93e1-1f7508dabfbf">
+              <Vi>Người chia bài trong sòng bạc</Vi>
+              <En>A person responsible for dealing cards in a casino game like poker or blackjack</En>
+            </Situation>
+            <Situation id="85d4aa7f-2253-4d22-991f-5dcfcb212815">
+              <Vi>Người buôn bán ma túy bất hợp pháp</Vi>
+              <En>A person involved in the illegal sale of drugs</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
