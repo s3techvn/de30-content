@@ -1,0 +1,50 @@
+<Vocab id="2600f351-02f5-4e5d-b569-2f0e51bbcc63" word="winner" type="short" status="done">
+  <Topics>
+    <Topic id="7cdd348f-cd8c-4698-99bc-ad5c6e383cbd" value="Competition" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af5f7aca-4928-4903-9c26-12053d07dc1b" ipa="/ˈwɪn.ər/" vi_ipa="uyn-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1188133-bd40-4717-9039-7f0336007429" type="Noun">
+          <Vi>người chiến thắng; người thắng cuộc</Vi>
+          <En>a person who wins a competition, game, or contest</En>
+          <Example>She was the winner of the marathon and received a gold medal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ecd7df3-0d0f-4a92-8223-02f635815200">
+              <Vi>Trong một giải thi đấu thể thao, người về đích đầu tiên hoặc có thành tích tốt nhất.</Vi>
+              <En>In a sporting event, the person who finishes first or achieves the best result.</En>
+            </Situation>
+            <Situation id="9ff50762-ec36-421e-ba2e-1a5cdf443054">
+              <Vi>Người đạt giải trong một cuộc thi sáng tạo, học thuật, hoặc tuyển dụng.</Vi>
+              <En>The person who receives an award in a creative, academic, or hiring competition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aaec9351-1d73-4057-82f3-5a65f906f9a3" type="Noun">
+          <Vi>người (hoặc thứ) có kết quả tốt, hiệu quả cao (trong một tình huống cụ thể)</Vi>
+          <En>something or someone that proves successful or effective in a particular context</En>
+          <Example>This new marketing strategy turned out to be a real winner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f0c2ea4-2a44-42ef-a175-ed073005b9d4">
+              <Vi>Dùng để khen một sản phẩm, ý tưởng, hoặc kế hoạch mang lại kết quả tích cực.</Vi>
+              <En>Used to praise a product, idea, or plan that yields positive results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
