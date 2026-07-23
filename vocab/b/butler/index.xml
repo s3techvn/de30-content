@@ -1,0 +1,39 @@
+<Vocab id="ce8cdea2-d173-47ca-9348-e2f558288e21" word="butler" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ef4eac5c-f42d-4374-9da3-a240f95a85d2" value="Professions" />
+    <Topic id="c425e533-6d12-49ff-94c8-3baa8a4a6ab5" value="Wealth &amp; Status" />
+  </Topics>
+  <Professions>
+    <Profession id="2135917f-c236-4e53-9d85-789ad4769ab3" value="Household Staff" />
+    <Profession id="d7876cc0-8c7b-41ed-8485-d1a6e7886390" value="Hospitality" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a21197ee-142d-444e-a847-3b6c25e8341e" ipa="/ˈbʌt.lər/" vi_ipa="bát-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="951d1d25-871e-440c-94a1-6d6c9f14d6f4" type="Noun">
+          <Vi>đầu bếp trưởng (trong gia đình quý tộc hoặc giàu có), người quản lý nhà cửa và phục vụ đồ ăn uống</Vi>
+          <En>a man who is the chief domestic servant in a large private house, especially one who manages the wine and serves the master’s orders</En>
+          <Example>The butler greeted the guests at the front door with impeccable etiquette.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e17ec0a-5db8-4765-b72d-b00d7b7d6dae">
+              <Vi>Trong các biệt thự sang trọng hoặc cung điện, butler thường mặc vest đen, đeo găng tay trắng và điều phối các buổi tiệc.</Vi>
+              <En>In grand mansions or palaces, the butler typically wears a black suit, white gloves, and oversees formal events.</En>
+            </Situation>
+            <Situation id="c7706341-f274-40d2-92e5-4f530bb9417d">
+              <Vi>Butler phục vụ rượu vang đúng cách, biết cách mở nút chai mà không làm vỡ nút hoặc làm rò rỉ rượu.</Vi>
+              <En>The butler serves wine properly, knowing how to open a bottle without breaking the cork or spilling the wine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
