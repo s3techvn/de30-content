@@ -1,0 +1,58 @@
+<Vocab id="edddcac0-cf38-4e3b-b4bd-335c41d4edfe" word="three" type="short" status="done">
+  <Topics>
+    <Topic id="73714b91-0ef4-43a3-a6ed-c523c52ee22b" value="Numbers and Counting" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="61be4184-f19d-48a5-b0fc-ae3fde65d541" ipa="/θriː/" vi_ipa="thri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1b31b24-655b-4fa8-99c0-c27b941524c3" type="Numeral">
+          <Vi>Ba</Vi>
+          <En>The cardinal number occurring after two and before four.</En>
+          <Example>There are three apples on the table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47a724c0-c7c1-422a-9a6c-b12dc8a0a58e">
+              <Vi>Mô tả số lượng cụ thể của đồ vật hoặc người.</Vi>
+              <En>Used to indicate an exact quantity of 3 items or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6f28c33e-1278-4601-ae99-8abbcf31ab76" type="Noun">
+          <Vi>Số ba</Vi>
+          <En>The numeral 3, especially when written or spoken as part of a sequence or code.</En>
+          <Example>My phone number ends in three, three, three.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c8e3249-0b35-4ab8-a075-066c97d105d7">
+              <Vi>Dùng khi nhắc đến chữ số hoặc số cụ thể trong mã, số điện thoại, v.v.</Vi>
+              <En>Used when referring to the digit or number '3' in isolation, e.g., in codes or addresses.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5090f400-6f37-4d86-bb30-fc770c601ff5" type="Adjective">
+          <Vi>Ba (dùng để chỉ số lượng)</Vi>
+          <En>Used to denote a group or set of three items.</En>
+          <Example>We need three chairs for the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8c9606b-c5b3-4917-9608-d50504088b69">
+              <Vi>Mô tả một nhóm gồm đúng ba thành phần.</Vi>
+              <En>Used before a noun to specify exactly three of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

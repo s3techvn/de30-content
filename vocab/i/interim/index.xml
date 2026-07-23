@@ -1,0 +1,40 @@
+<Vocab id="fd40eb0e-7473-4901-a9c1-6789211ffd79" word="interim" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" value="Administrator" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f4db5c2-15df-4959-905e-f23582eb58bd" ipa="/ˈɪn.tər.ɪm/" vi_ipa="in-tơ-rim">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="840ac2b9-3b5d-4015-8094-ee650fd7315c" type="Adjective">
+          <Vi>giữa kỳ, tạm thời, trong thời gian chờ</Vi>
+          <En>occurring or existing between two events or periods; temporary.</En>
+          <Example>The school appointed an interim principal while the board searches for a permanent one.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2fbcbeb-5040-4487-9bac-adcfe756dc52">
+              <Vi>Thời gian giữa hai sự kiện, đặc biệt khi một vị trí hoặc chức vụ chưa được bổ nhiệm chính thức.</Vi>
+              <En>The period between two events, especially when a position or role has not yet been permanently filled.</En>
+            </Situation>
+            <Situation id="6ba3722e-f537-4568-b3a1-ecfb2879fa5e">
+              <Vi>Một người được bổ nhiệm tạm thời để đảm nhiệm vai trò trước khi có người chính thức.</Vi>
+              <En>A person appointed temporarily to fill a role until a permanent replacement is chosen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
