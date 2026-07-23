@@ -1,0 +1,66 @@
+<Vocab id="94834615-248e-4f54-842e-849e994f784b" word="harvest" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" value="Agricultural Engineer" />
+    <Profession id="56c56fe0-da50-43b7-b59a-c8f5823e641e" value="Food Industry Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a8ede0a-851a-4639-a2c7-c7a324fd86ad" ipa="/ˈhɑːr.vɪst/" vi_ipa="ha-ri-vết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2cceffe-4202-4177-b08c-1985a614316c" type="Noun">
+          <Vi>Thu hoạch; mùa màng; sản lượng thu được</Vi>
+          <En>The gathering of a crop; the season when crops are gathered; the total amount of a crop gathered</En>
+          <Example>The harvest this year was the best in a decade.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f134791-38e0-4acb-8a1a-71b04e4963c4">
+              <Vi>Nông dân đang thu hoạch lúa mì trên cánh đồng vàng ươm.</Vi>
+              <En>Farmers are harvesting wheat in a golden field.</En>
+            </Situation>
+            <Situation id="86be5e2f-2c51-46c2-b640-7829923b311a">
+              <Vi>Hội chợ mùa màng diễn ra sau khi thu hoạch xong.</Vi>
+              <En>The harvest festival is held after the harvest is complete.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="69dd9326-ccad-444e-bfa7-765af59944c0" ipa="/hɑːrˈvɛst/" vi_ipa="ha-ri-vết-tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="155b7ca3-5380-468b-a26d-16f00c330e48" type="Verb">
+          <Vi>Thu hoạch; gặt hái; thu thập (cây cối, hoa màu)</Vi>
+          <En>To gather or collect a crop from the fields; to collect or gather something valuable or abundant</En>
+          <Example>They harvest rice twice a year in this region.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43dd7d2d-4d35-4a62-95ff-5e557c947396">
+              <Vi>Nông dân bắt đầu thu hoạch lúa vào tháng mười.</Vi>
+              <En>Farmers begin harvesting rice in October.</En>
+            </Situation>
+            <Situation id="189297b5-317a-4ca1-b33d-a87bebcd0c72">
+              <Vi>Chúng tôi đã thu hoạch được hơn 10 tấn ngô trên mảnh đất này.</Vi>
+              <En>We harvested over 10 tons of corn from this plot.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
