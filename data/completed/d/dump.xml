@@ -1,0 +1,64 @@
+<Vocab id="4c205d55-8036-4bc8-a309-4017b6da7925" word="dump" type="short" status="done">
+  <Topics>
+    <Topic id="b53c221c-d7f2-4eaa-a397-22a9187a5ad4" value="Waste &amp; Environment" />
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="4efedf75-5888-453e-93b1-588758b65917" value="Environmental Engineer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="bf4be272-eb73-4035-98fc-485a99e34ecc" value="Waste Management Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8b6a4368-7cbc-4da0-bfe3-7b8daf559cc8" ipa="/dʌmp/" vi_ipa="đăm-pơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72c82447-6809-4b43-bad6-d12272a63b86" type="Verb">
+          <Vi>đổ (rác, chất thải) vào nơi quy định; xả (dữ liệu) ra; buông thõng (xuống); bán giá rẻ để dọn hàng</Vi>
+          <En>to throw away (waste or garbage) in a large quantity or without care; to release (data) suddenly and completely; to let something fall heavily or loosely; to sell goods at a reduced price to clear stock</En>
+          <Example>The city dumps its trash in the landfill every night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9357d3aa-fdf3-4652-a63d-6a11533fc54d">
+              <Vi>Quy trình xử lý rác thải sinh hoạt tại bãi chôn lấp.</Vi>
+              <En>The process of disposing of household waste at a landfill site.</En>
+            </Situation>
+            <Situation id="12caa212-6077-4cec-9107-a38d351e1025">
+              <Vi>Chương trình sao lưu dữ liệu tự động xóa bản sao cũ sau khi sao lưu mới.</Vi>
+              <En>An automated backup program that dumps old backups after creating a new one.</En>
+            </Situation>
+            <Situation id="b78ba97c-d922-4c29-91f1-7fa0f77e27a2">
+              <Vi>Cửa hàng giảm giá cuối mùa để bán hết hàng tồn kho.</Vi>
+              <En>A store holds a clearance sale to dump leftover seasonal inventory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6b91877c-01e3-49cd-8bda-bb9df62fdadf" type="Noun">
+          <Vi>sự đổ rác; bãi chứa rác; bản sao dữ liệu (để kiểm tra hoặc khôi phục); người (hoặc thứ gì đó) bị bỏ rơi, loại bỏ</Vi>
+          <En>a place where waste is dumped; a large amount of something dumped at once; a copy of data (e.g., from a computer system) for inspection or recovery; a person or thing that is discarded or rejected</En>
+          <Example>The dump outside the city smells terrible in summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4024b35-313a-4c4a-aa55-1553eb3ed537">
+              <Vi>Người dân mang rác đến bãi tập kết vào sáng sớm.</Vi>
+              <En>Residents bring their trash to the dump early in the morning.</En>
+            </Situation>
+            <Situation id="f19c7221-84f4-4ada-ad7b-c30501c9ca7c">
+              <Vi>Lập trình viên dùng lệnh 'db dump' để sao lưu cơ sở dữ liệu.</Vi>
+              <En>The developer uses the 'db dump' command to back up the database.</En>
+            </Situation>
+            <Situation id="516f3986-0f41-4367-bb95-48c104532d53">
+              <Vi>Anh ấy bị bạn gái 'dump' sau ba tháng hẹn hò.</Vi>
+              <En>He was dumped by his girlfriend after three months of dating.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -631,4 +631,5 @@
   <Profession id="4fde2ef3-ab77-4056-a32f-06f650cf002f" slug="physiotherapist" value="Physiotherapist" />
   <Profession id="f516e8a0-1023-4ec1-a6c5-3fe8aedea956" slug="swimming-coach" value="Swimming Coach" />
   <Profession id="a8b5a186-cd3a-452e-ab20-22c6ee9bf546" slug="maritime-pilot" value="Maritime Pilot" />
+  <Profession id="bf4be272-eb73-4035-98fc-485a99e34ecc" slug="waste-management-worker" value="Waste Management Worker" />
 </Professions>
