@@ -1,0 +1,40 @@
+<Vocab id="e9c07d1a-c7cf-4226-8aa8-09535cce2489" word="organized" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="cf2b131e-ca9d-45c7-85b5-bb0f24aba238" value="Office Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b57f1546-ddb8-4ac0-89e9-cca0d92e5208" ipa="/ˈɔːr.ɡən.aɪzd/" vi_ipa="o-gơ-nai-d">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed2b89f3-0529-46ce-9c63-e14b0b4f5188" type="Adjective">
+          <Vi>được tổ chức tốt; có hệ thống; ngăn nắp</Vi>
+          <En>arranged or done in a systematic, efficient, or orderly way</En>
+          <Example>She is an organized person who always keeps her desk tidy and her schedule up to date.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61db258d-0938-4bb5-aeac-ee369b3e92a8">
+              <Vi>Mô tả một người hoặc môi trường có kế hoạch rõ ràng, vật dụng sắp xếp gọn gàng.</Vi>
+              <En>Describing a person or environment with clear plans and neatly arranged items.</En>
+            </Situation>
+            <Situation id="5a42e65b-1ff1-4e3c-835b-9950cc47b9a8">
+              <Vi>Một sự kiện hoặc hoạt động được lên kế hoạch kỹ lưỡng và diễn ra suôn sẻ.</Vi>
+              <En>An event or activity that is well-planned and runs smoothly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
