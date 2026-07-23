@@ -1,0 +1,40 @@
+<Vocab id="3e1d19fa-4824-40f1-948c-e61a27fdf49d" word="guilty" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fe720f01-d51a-455a-9ea5-71e4c3f0a329" ipa="/ˈɡɪl.ti/" vi_ipa="gí-l-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d63a7222-25b9-4423-932a-167a69f39608" type="Adjective">
+          <Vi>có lỗi, phạm tội, cảm thấy ăn năn vì đã làm điều sai</Vi>
+          <En>responsible for a wrongful act or crime; feeling remorse or regret for having done something wrong</En>
+          <Example>The defendant was found guilty of theft after the trial.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4e3c098-d480-4037-8a46-93ca72b663d1">
+              <Vi>Người bị kết án đã nhận trách nhiệm về hành vi phạm tội.</Vi>
+              <En>The person was held legally responsible for committing the crime.</En>
+            </Situation>
+            <Situation id="178deae3-5905-4f49-aebc-96c25876b35c">
+              <Vi>Cô ấy cảm thấy ăn năn vì đã nói dối bạn thân.</Vi>
+              <En>She felt guilty for lying to her best friend.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
