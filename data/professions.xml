@@ -648,4 +648,5 @@
   <Profession id="f740bf76-88e4-4b4e-ad57-fbd10995030e" slug="goldsmith" value="Goldsmith" />
   <Profession id="5b85c3f2-299a-46f6-9324-517c5759cf56" slug="silversmith" value="Silversmith" />
   <Profession id="7afbef82-fc17-429d-a167-cd9816da9e40" slug="entertainer" value="Entertainer" />
+  <Profession id="87dcb61c-f0a9-4318-8b84-a09dcadad2f7" slug="sewer" value="Sewer" />
 </Professions>
