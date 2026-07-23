@@ -1,0 +1,40 @@
+<Vocab id="50a13ba4-3d4b-4ee8-bcd3-9b7ff4b46964" word="optimization" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="f59390e8-22f3-4309-ae6d-79f62382379a" value="Operations Research Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="358a3423-5a36-4c1f-a96c-0c95552e737b" ipa="/ˌɒp.tɪ.maɪˈzeɪ.ʃən/" vi_ipa="ốp-tih-mai-zê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e5a17815-a7a6-4cd4-809e-e6f53d83fb1d" type="Noun">
+          <Vi>Tối ưu hóa</Vi>
+          <En>The process of making something as effective or functional as possible.</En>
+          <Example>The optimization of the algorithm reduced processing time by 40%.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa860822-9332-4454-a5ab-70c2ad6b7429">
+              <Vi>Quá trình cải tiến mã nguồn để tăng hiệu suất chạy chương trình.</Vi>
+              <En>Improving source code to enhance program execution speed.</En>
+            </Situation>
+            <Situation id="dcef3df0-a433-4f83-960e-35127fb9f23a">
+              <Vi>Điều chỉnh lịch trình giao hàng để giảm chi phí vận chuyển.</Vi>
+              <En>Adjusting delivery schedules to minimize shipping costs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
