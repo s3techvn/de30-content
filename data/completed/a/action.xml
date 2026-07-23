@@ -1,0 +1,60 @@
+<Vocab id="59171d22-aaee-4c47-b03e-0041eca3353c" word="action" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="1c0ecef3-34ce-4cc6-9ce1-29830c922e74" value="Film &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ccb10aff-6e54-40d2-a11a-07885eda554f" ipa="/ˈæk.ʃən/" vi_ipa="ác-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a689faf-1bdf-4902-80b5-5df1b49aa147" type="Noun">
+          <Vi>Hành động</Vi>
+          <En>A thing done; an act or deed.</En>
+          <Example>She took quick action to resolve the issue.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="115448fb-eb06-4dd7-a6e2-75b411259a9a">
+              <Vi>Mô tả một việc cụ thể được thực hiện bởi một người hoặc tổ chức.</Vi>
+              <En>Describes a specific deed or activity carried out by a person or group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9a0e0036-5b28-491d-8a1b-08d88c6bf1d4" type="Noun">
+          <Vi>Hành động (trong phim, kịch)</Vi>
+          <En>The part of a film, play, or story involving events and activities, especially physical or dramatic sequences.</En>
+          <Example>The action in the movie intensifies during the final act.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58925cb4-9cd4-48b3-ae64-d8e70b4928ea">
+              <Vi>Mô tả các cảnh quay hoặc phân đoạn kịch tính trong phim hoặc vở kịch.</Vi>
+              <En>Refers to dramatic or physically intense scenes in film or theater.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="62efc665-da32-48cc-be49-415ef5874f93" type="Noun">
+          <Vi>Luật: Khiếu nại hoặc vụ kiện</Vi>
+          <En>A legal proceeding or lawsuit.</En>
+          <Example>He filed an action against the company for breach of contract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="321cece2-8d32-48b8-bc01-970ff5539d44">
+              <Vi>Mô tả việc khởi kiện hoặc vụ việc pháp lý đang được xử lý.</Vi>
+              <En>Refers to a formal legal case or lawsuit initiated in court.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

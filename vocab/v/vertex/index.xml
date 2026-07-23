@@ -1,0 +1,40 @@
+<Vocab id="8d204f3f-f601-4ae8-b0f8-2e11f440b8d2" word="vertex" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="f588eb85-00e0-47af-bba4-e0739bc38666" value="3D Modeling" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="9edcfea1-7bac-4cf3-a706-f584e4ec1698" value="Computer Graphics Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4b85b581-fa91-41f2-bff7-47e9624f3f85" ipa="/ˈvɜːr.teks/" vi_ipa="vơ-đéc-xơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4f15722a-5e60-470b-b865-b1bb67836643" type="Noun">
+          <Vi>Đỉnh (của một hình học, đa giác, đa diện, hoặc đồ thị)</Vi>
+          <En>The point where two or more lines, edges, or curves meet, especially the top point of a polygon, polyhedron, or graph.</En>
+          <Example>In an isosceles triangle, the vertex is the point where the two equal sides meet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2f329ae-a479-4554-be43-e55b18256115">
+              <Vi>Trong hình học phẳng, đỉnh là điểm giao nhau của hai cạnh kề nhau.</Vi>
+              <En>In plane geometry, a vertex is the point where two adjacent sides intersect.</En>
+            </Situation>
+            <Situation id="a3b0747a-1d41-4435-90f1-a8dca8f00a7c">
+              <Vi>Trong đồ thị, đỉnh (node) đại diện cho một thực thể trong mạng.</Vi>
+              <En>In graph theory, a vertex (or node) represents an entity within a network.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
