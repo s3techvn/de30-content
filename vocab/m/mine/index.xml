@@ -1,0 +1,127 @@
+<Vocab id="c1ff864e-445b-4853-84f9-855e85cf83eb" word="mine" type="short" status="done">
+  <Topics>
+    <Topic id="55bf88ec-dd92-4bc0-8ded-9025ac917f83" value="Mining &amp; Resources" />
+    <Topic id="71fedb27-79a3-4346-bc0a-03b9cd76473f" value="Pronouns" />
+  </Topics>
+  <Professions>
+    <Profession id="287eb6b3-d4e3-47e4-91b6-f63f2cf3bd7c" value="Miner" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="c97ecc2f-7770-4964-b989-d98c7d8fd397" value="Military Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f04645bb-ed4c-4323-b18d-7443c1b55bf7" ipa="/maɪn/" vi_ipa="ma-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96128c3e-0124-4eb2-98bc-4f57c2266374" type="Pronoun">
+          <Vi>đồ của tôi</Vi>
+          <En>The things that belong to me; my possessions.</En>
+          <Example>These shoes are mine, not yours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1540732c-ab9c-4d91-9434-6be274a91287">
+              <Vi>Trong tranh cãi về quyền sở hữu một vật.</Vi>
+              <En>When clarifying ownership in a dispute.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="34e7f77c-5c79-4870-819a-c19439ded073" type="Possessive Adjective">
+          <Vi>thuộc về tôi</Vi>
+          <En>Belonging to me; my (used before a noun).</En>
+          <Example>This is my book, and that one is mine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fb0e268-dadd-4688-be35-76916a54fd76">
+              <Vi>Khi nhấn mạnh quyền sở hữu trước danh từ.</Vi>
+              <En>When emphasizing possession before a noun (note: "mine" is used *without* a noun, unlike "my").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="bc09139f-90c9-48ee-b8de-68c423215393" ipa="/maɪn/" vi_ipa="ma-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1b97b98a-ff93-4748-84fe-d50b35c2e559" type="Noun">
+          <Vi>mỏ (khoáng sản)</Vi>
+          <En>A place where minerals or other geological materials are extracted from the earth.</En>
+          <Example>The gold mine closed after ten years of operation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8a78e00c-ecd5-4f09-9b96-270b5a8dc65f">
+              <Vi>Trong ngành khai thác khoáng sản.</Vi>
+              <En>In mining industry discussions or reports.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bca1821d-b04c-43c6-9ebc-1269b678e178" type="Noun">
+          <Vi>quân sự: mìn (vũ khí nổ)</Vi>
+          <En>A explosive device placed underground or underwater, designed to destroy enemy personnel or equipment.</En>
+          <Example>Soldiers cleared the minefield before advancing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3222e786-6016-4578-b7aa-51c6d7e32649">
+              <Vi>Trong bối cảnh chiến tranh hoặc gỡ mìn sau xung đột.</Vi>
+              <En>In military or post-conflict demining operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="ab7f8c16-1c55-4092-9392-1d4dd836af1a" ipa="/maɪn/" vi_ipa="ma-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="998cbea2-bece-4d0e-b5dd-e59d7b9078be" type="Verb">
+          <Vi>khai thác (khoáng sản)</Vi>
+          <En>To extract minerals, coal, or other materials from the earth.</En>
+          <Example>The company mines copper in Chile.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="95652ef9-839b-4494-95d6-3715bc06c71b">
+              <Vi>Trong báo cáo kinh tế hoặc môi trường về khai thác mỏ.</Vi>
+              <En>In discussions about resource extraction and environmental impact.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="afd48fe6-1573-446d-9095-44ea5d12f787" type="Verb">
+          <Vi>đặt mìn (quân sự)</Vi>
+          <En>To place mines in a location, typically as a military tactic.</En>
+          <Example>They mined the harbor to prevent enemy ships from entering.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57171f4d-958e-45ba-861d-ba44cd9056c5">
+              <Vi>Trong chiến thuật quân sự phòng thủ hoặc tấn công.</Vi>
+              <En>In military strategy involving defensive or offensive mine-laying.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e6a1fb67-d4e9-4cc1-85b2-6b5f31119a28" type="Verb">
+          <Vi>đào sâu (tìm kiếm thông tin, dữ liệu)</Vi>
+          <En>To investigate or extract information thoroughly, especially from data or records.</En>
+          <Example>The journalist mined old documents for clues about the scandal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ca59da8-8fc9-41c1-96d9-be7ec43c84eb">
+              <Vi>Trong nghiên cứu, phân tích dữ liệu hoặc điều tra.</Vi>
+              <En>In data analysis, journalism, or academic research contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
