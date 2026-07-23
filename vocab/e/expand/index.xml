@@ -1,0 +1,60 @@
+<Vocab id="1f324333-c78b-443f-903f-b30dbd3160f2" word="expand" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30fa8b00-1a10-42b4-b3c8-97cf98ccfaa8" ipa="/ɪkˈspænd/" vi_ipa="ích-x-pên">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="52e55fd2-0d64-4a35-951f-057d562b11a0" type="Verb">
+          <Vi>Mở rộng, mở rộng quy mô, làm to hơn</Vi>
+          <En>To increase in size, volume, quantity, or scope.</En>
+          <Example>The company plans to expand its operations into Southeast Asia next year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa69101a-4cb7-4fd8-b5b0-2ac81c667603">
+              <Vi>Doanh nghiệp mở thêm chi nhánh hoặc dịch vụ mới.</Vi>
+              <En>A business opens new branches or adds new services.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c32b2eb3-a6a4-4a22-bcf8-df04246fbc20" type="Verb">
+          <Vi>Mở rộng, phát triển chi tiết (trong lời nói hay văn bản)</Vi>
+          <En>To give more details or elaboration on a topic or idea.</En>
+          <Example>Could you please expand on your suggestion during the meeting?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6dc1791a-def2-4963-be13-8e126b82431e">
+              <Vi>Nhắc lại ý kiến và giải thích thêm trong thảo luận.</Vi>
+              <En>Reiterating an idea and providing further explanation in a discussion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d89d440e-e8f6-4c3f-83d6-fe8e5a34a69c" type="Verb">
+          <Vi>Mở rộng (vòng tay, cánh tay) ra</Vi>
+          <En>To stretch out (arms, wings, etc.) fully.</En>
+          <Example>She expanded her arms to hug her child.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8476d925-e54c-4b4a-9238-725714203553">
+              <Vi>Hành động dang tay để ôm hoặc đón ai đó.</Vi>
+              <En>The physical act of stretching arms outward to embrace someone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,32 @@
+<Vocab id="61ecd256-8bc2-4a52-b4cc-eef6376f7753" word="ross" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="586f5f0c-5f41-4554-9855-290afac302d3" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="258bce67-bc0a-4f33-aaf5-d10dd9f82796" ipa="/rɒs/" vi_ipa="rốt-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9b76d29-88e0-4b29-8248-82fec30a14a1" type="Noun">
+          <Vi>Tên họ (họ Ross, thường dùng như tên riêng hoặc họ trong tiếng Anh)</Vi>
+          <En>A surname or given name of English origin, commonly used as a family name (e.g., Ross Geller from *Friends*)</En>
+          <Example>He introduced himself as Ross, and later shared that his full name is Ross Wilson.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="212ba8ca-b695-4e6f-b063-b6ab73f40775">
+              <Vi>Trong giao tiếp, giới thiệu bản thân hoặc người khác mang họ hoặc tên Ross.</Vi>
+              <En>When introducing oneself or someone else with the name Ross in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
