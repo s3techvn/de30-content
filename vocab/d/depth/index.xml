@@ -1,0 +1,60 @@
+<Vocab id="11d996e1-eb24-4df8-961c-3616174d8b27" word="depth" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="6bad4e1a-e05c-4823-9f07-fc9e39bee3eb" value="Metaphor" />
+  </Topics>
+  <Professions>
+    <Profession id="075a0f16-d7ee-4542-87ae-3fff663b583c" value="Oceanographer" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="032551f1-080c-4e52-b75c-a95cf2efc6b1" ipa="/depθ/" vi_ipa="đép-th">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d56d05f5-9d13-403d-898f-d9f392bf10dc" type="Noun">
+          <Vi>Độ sâu</Vi>
+          <En>The distance from the top or surface to the bottom of something, especially a body of water or a hole.</En>
+          <Example>The depth of the ocean in this region can exceed 10,000 meters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b75c719b-168c-451e-94bd-aa1d4687dc84">
+              <Vi>Đo lường khoảng cách từ mặt nước đến đáy biển.</Vi>
+              <En>Measuring the distance from the water surface to the seabed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0c909eb0-b2c4-4f73-bea0-99a481968c41" type="Noun">
+          <Vi>Độ sâu (về mặt trí tuệ, cảm xúc, hoặc nội dung)</Vi>
+          <En>The quality of being profound or complex in thought, emotion, or meaning.</En>
+          <Example>The novel is praised for its psychological depth and emotional resonance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="920050bb-40a8-463a-bb4b-4f7be11cfcfa">
+              <Vi>Mô tả sự sâu sắc trong suy nghĩ, cảm xúc, hoặc nghệ thuật.</Vi>
+              <En>Describing profundity in thought, emotion, or artistic expression.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ae3f2c5c-f651-49d2-958d-c4645d5c88c9" type="Noun">
+          <Vi>Chiều sâu (trong không gian hoặc hình ảnh)</Vi>
+          <En>The measurement of an object or space from front to back, especially in visual representation.</En>
+          <Example>Artists use perspective to create the illusion of depth on a flat canvas.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b36ae50-93d3-4534-9655-28f33bb2c4af">
+              <Vi>Trong hội họa hoặc nhiếp ảnh, tạo cảm giác ba chiều.</Vi>
+              <En>In painting or photography, creating a three-dimensional effect.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

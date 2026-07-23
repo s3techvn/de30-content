@@ -1,0 +1,52 @@
+<Vocab id="d575c319-7765-40e5-bc91-35dbcfbdb61f" word="fatal" type="short" status="done">
+  <Topics>
+    <Topic id="d378d72c-a798-4501-b0c2-b2db6bf64185" value="Health &amp; Safety" />
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7faa25d-374e-4791-bf5d-7886fd7f1787" ipa="/ˈfeɪ.təl/" vi_ipa="phê-tờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd97ed16-5df1-42e8-9457-e193648b02d8" type="Adjective">
+          <Vi>chết người; tử vong; chí mạng</Vi>
+          <En>Causing or resulting in death; deadly.</En>
+          <Example>The accident was fatal for all four passengers in the car.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1668d63e-38b7-4597-88d9-c2c1d0173808">
+              <Vi>Mô tả một tai nạn hoặc bệnh tật dẫn đến cái chết.</Vi>
+              <En>Describing an accident or illness that results in death.</En>
+            </Situation>
+            <Situation id="80100dd5-e18c-4318-b6fa-8a3e58c64cb5">
+              <Vi>Chỉ một sai lầm nghiêm trọng dẫn đến hậu quả không thể đảo ngược.</Vi>
+              <En>Referring to a serious mistake that leads to irreversible consequences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d88a0f1c-c361-4916-b0e3-9f5ee5bb30cd" type="Adjective">
+          <Vi>thật sự, hoàn toàn (dùng để nhấn mạnh tính chất tiêu cực)</Vi>
+          <En>Used to emphasize the negative or undesirable nature of something.</En>
+          <Example>The delay was fatal to our chances of winning the contract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="12f6665c-6b24-4d59-84a5-379c06a4dfd5">
+              <Vi>Dùng trong kinh doanh hoặc thể thao để chỉ một yếu tố khiến kế hoạch thất bại hoàn toàn.</Vi>
+              <En>Used in business or sports to describe a factor that completely ruins a plan or chance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
