@@ -1,0 +1,40 @@
+<Vocab id="6e2b2172-d755-4c59-85f6-5edb3e22c89d" word="mandatory" type="short" status="done">
+  <Topics>
+    <Topic id="ec835eac-b3a2-45b5-ac4a-b51fc2f1d451" value="Law &amp; Policy" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="ec07a7d1-768d-425f-b10e-b9f86222f57c" value="Compliance Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2fa5b80f-9221-463a-b0d6-a9c3c11671cc" ipa="/ˈmæn.də.tɔː.ri/" vi_ipa="menn-dơ-tô-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="354e7f74-7317-4f93-bf22-a1d26a3ace9b" type="Adjective">
+          <Vi>Bắt buộc, bắt buộc phải làm hoặc tuân theo</Vi>
+          <En>Required by law, rule, or agreement; compulsory.</En>
+          <Example>All employees must attend the safety training, as it is mandatory.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcd2b961-a9e3-46aa-9dd6-a69e623b7831">
+              <Vi>Trong văn bản pháp lý hoặc nội quy công ty, yêu cầu phải thực hiện.</Vi>
+              <En>In legal documents or company policies, an action that must be performed.</En>
+            </Situation>
+            <Situation id="5785294d-0555-4c94-a177-097e34f9f60a">
+              <Vi>Trong giáo dục, học sinh phải tham gia các hoạt động ngoại khóa theo quy định.</Vi>
+              <En>In education, students must participate in extracurricular activities as required by school policy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
