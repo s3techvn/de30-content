@@ -1,0 +1,46 @@
+<Vocab id="faf63adb-4687-4616-8e3b-a00fd9a42b33" word="miles" type="short" status="done">
+  <Topics>
+    <Topic id="6a34ee54-3fd8-4646-8e97-d4b779c0cae9" value="Travel and Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55331d6e-6e8e-4948-87e8-556168381033" ipa="/maɪlz/" vi_ipa="mai-lơ-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d8a5b86-81a2-435b-91a3-92dc94eb05dc" type="Noun">
+          <Vi>dặm (đơn vị độ dài, bằng 1.60934 km)</Vi>
+          <En>A unit of length equal to 1,609.344 meters, commonly used in the United States and the United Kingdom for measuring distances.</En>
+          <Example>The city is about 50 miles west of here.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ccdded4e-4abd-4c6d-921a-b0c966700bfb">
+              <Vi>Thường dùng trong chỉ khoảng cách giữa các thành phố, thị trấn hoặc điểm đến.</Vi>
+              <En>Used when stating distances between cities, towns, or destinations in countries that use the imperial system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0c9c53b4-06f3-4325-9ea4-1a924a2a5a34" type="Noun">
+          <Vi>số dặm (số lượng dặm, thường trong ngữ cảnh đi lại hoặc thể thao)</Vi>
+          <En>A numerical count of miles traveled, especially in running, driving, or flying.</En>
+          <Example>She logged 200 miles on her bike ride last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="900f3fa2-0fea-4e54-9f58-73bbaa3be4c4">
+              <Vi>Dùng khi nói về quãng đường đã đi được trong thể thao hoặc công việc (ví dụ: tài xế, phi công).</Vi>
+              <En>Used when reporting accumulated distance in sports (e.g., running, cycling) or professions involving travel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
