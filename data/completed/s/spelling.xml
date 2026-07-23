@@ -1,0 +1,38 @@
+<Vocab id="e062c762-2930-4301-aa85-d94b514537b3" word="spelling" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48a3493d-2cb1-46cb-ae29-d4e6f8620a34" ipa="/ˈspel.ɪŋ/" vi_ipa="sờ-pen-linh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b0e8f546-5aeb-4836-9fbd-0b8f31977462" type="Noun">
+          <Vi>Cách viết đúng chính tả của một từ</Vi>
+          <En>The way a word is written, especially with respect to correct use of letters and spelling rules.</En>
+          <Example>She has poor spelling and often confuses "receive" and "believe".</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fde5984-484a-4817-b13e-5822c489914d">
+              <Vi>Học sinh đang học cách ghi đúng các từ tiếng Anh.</Vi>
+              <En>A student is practicing correct English word formation.</En>
+            </Situation>
+            <Situation id="b2d07f59-aa96-4afd-b852-709b2d3a387c">
+              <Vi>Giáo viên chấm điểm bài kiểm tra dựa trên chính tả và ngữ pháp.</Vi>
+              <En>The teacher grades a test based on spelling and grammar.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
