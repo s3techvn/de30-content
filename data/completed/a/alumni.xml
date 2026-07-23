@@ -1,0 +1,60 @@
+<Vocab id="98f5b839-2e60-4675-a41f-612ecd89265b" word="alumni" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="67369275-c0c2-4c6a-9fa4-e6671d7bade0" value="Career Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a90c471-f5a8-49a7-98c4-4b5a2aa18b74" ipa="/əˈluːm.naɪ/" vi_ipa="ơ-lu-mnai">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6f1e35a1-4829-4039-af96-af02a6a083ac" type="Noun">
+          <Vi>Cựu sinh viên (nam hoặc hỗn hợp giới tính)</Vi>
+          <En>Graduates of a school, college, or university, especially when considered as a group.</En>
+          <Example>Our university’s alumni association organizes annual reunions and networking events.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd89e08d-dd59-43bf-af9f-007051c08a34">
+              <Vi>Tình huống nói về những người từng học tại một trường đại học và đã tốt nghiệp.</Vi>
+              <En>Scenario referring to individuals who have graduated from a particular educational institution.</En>
+            </Situation>
+            <Situation id="1a3ba07f-eb01-4efa-8772-9225865131e6">
+              <Vi>Tình huống nói về cựu sinh viên quyên góp hoặc tham gia sự kiện của trường.</Vi>
+              <En>Scenario involving alumni donating to or attending school-sponsored events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="3e5dcda6-3409-46ac-a82b-4ea75e47367f" ipa="/əˈluːm.nəz/" vi_ipa="ơ-lu-mnơ-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8bb326ee-6a02-41ce-937f-43c5091ecc30" type="Noun">
+          <Vi>Cựu sinh viên (nhiều người, danh từ số nhiều)</Vi>
+          <En>Plural form of *alumnus*; refers to multiple graduates of an institution.</En>
+          <Example>The alumni of Harvard are known for their strong loyalty and generous donations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb207670-2b21-4d6e-a990-98978e96a4a3">
+              <Vi>Tình huống nói về nhóm cựu sinh viên (nhiều người) trong một sự kiện tập thể.</Vi>
+              <En>Scenario describing a group of multiple graduates gathered for a reunion or ceremony.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
