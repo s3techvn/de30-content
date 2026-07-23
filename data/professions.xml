@@ -793,4 +793,5 @@
   <Profession id="5b778dd5-4fe8-4049-9a7f-39365dc58fd4" slug="cabinetmaker" value="Cabinetmaker" />
   <Profession id="760f9181-f2d6-4252-b465-7c68a7bf6043" slug="tourism-officer" value="Tourism Officer" />
   <Profession id="ed573ea1-6827-45e9-9d53-a85653abebee" slug="carpet-layer" value="Carpet Layer" />
+  <Profession id="7c66641e-88a0-40a6-808d-1501b1835a50" slug="laboratory-researcher" value="Laboratory Researcher" />
 </Professions>

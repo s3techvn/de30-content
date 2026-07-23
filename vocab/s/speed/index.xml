@@ -1,0 +1,56 @@
+<Vocab id="d22083a6-0ac2-42ac-b9c7-358b184c278a" word="speed" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1544c8e7-c058-4535-9965-df71f22e01fb" ipa="/spid/" vi_ipa="xpi-đíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9aad83bf-3811-491c-b797-3b0745408e29" type="Noun">
+          <Vi>Tốc độ</Vi>
+          <En>The rate at which someone or something moves or operates.</En>
+          <Example>She increased the speed of the car as she entered the highway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4b68069-89ff-416b-857c-227f14dafb68">
+              <Vi>Mô tả mức độ nhanh hoặc chậm của chuyển động.</Vi>
+              <En>Describing how fast or slow something moves.</En>
+            </Situation>
+            <Situation id="83533a69-fb25-4d2c-bbd5-3e8b60ebde12">
+              <Vi>Tốc độ xử lý trong công nghệ (ví dụ: tốc độ internet).</Vi>
+              <En>Processing rate in technology (e.g., internet speed).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="665fe653-524e-4f23-ac56-dc3e7bbe13b0" type="Verb">
+          <Vi>Tăng tốc, làm nhanh lên</Vi>
+          <En>To move or cause to move faster than usual.</En>
+          <Example>The cheetah sped away as soon as it spotted its prey.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ac357c1-1008-4557-b298-c6aeebcd5e6f">
+              <Vi>Hành động tăng vận tốc khi di chuyển.</Vi>
+              <En>The action of increasing movement velocity.</En>
+            </Situation>
+            <Situation id="ed1bf91a-1190-4a96-9734-6b36c3a928f3">
+              <Vi>Làm cho một quá trình diễn ra nhanh hơn (ẩn dụ).</Vi>
+              <En>To make a process happen more quickly (figuratively).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
