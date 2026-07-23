@@ -1,0 +1,56 @@
+<Vocab id="1799ad7b-0b0a-4598-bba0-406ae46ce7f3" word="tar" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+  </Topics>
+  <Professions>
+    <Profession id="83b1205d-d904-4d88-acd2-e7010d7e3a70" value="Road Worker" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dcba2645-ebcf-4382-a3b7-b558e564a105" ipa="/tɑːr/" vi_ipa="tác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c194ff05-881a-4894-86a7-39260a227c27" type="Noun">
+          <Vi>hắc ín; nhựa đường</Vi>
+          <En>A thick, black, viscous liquid obtained from coal tar or petroleum, used for road surfacing and waterproofing.</En>
+          <Example>The road crew spread hot tar to seal the cracks in the pavement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e07c545b-9104-4a78-a3f2-21badf2bb2d3">
+              <Vi>Công nhân làm đường đổ nhựa đường lên mặt đường để bịt kín các khe nứt.</Vi>
+              <En>Construction workers apply hot tar to seal cracks in roads.</En>
+            </Situation>
+            <Situation id="aee40272-64e1-4fad-b630-6a4b1fe8710b">
+              <Vi>Hắc ín được dùng để làm kín mái nhà truyền thống.</Vi>
+              <En>Tar was traditionally used to waterproof rooftops and ships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fb82d7ab-5ea3-4758-8392-36857e9a5f37" type="Verb">
+          <Vi>đổ nhựa đường; làm dính bết (như hắc ín)</Vi>
+          <En>To coat or cover something, especially a road or surface, with tar; also, to make something sticky or messy.</En>
+          <Example>The workers tarred the road before laying the final layer of asphalt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c700d26-0d46-47ca-a1c1-c871d6404963">
+              <Vi>Công nhân đổ nhựa đường lên mặt đường trước khi lát gạch.</Vi>
+              <En>Workers tar the road surface before applying the final asphalt layer.</En>
+            </Situation>
+            <Situation id="64432ec8-26cf-4c5f-abf9-265fe137e08c">
+              <Vi>Anh ấy bị dính đầy nhựa đường khi làm việc ngoài trời nắng.</Vi>
+              <En>He got tar all over his boots while working outside on a hot day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

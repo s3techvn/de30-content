@@ -1,0 +1,40 @@
+<Vocab id="6d6bef32-980b-4c4a-b3d9-c8c666b2e275" word="accuracy" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="01d35f2e-ace4-49f6-b05a-e86936ec72a2" ipa="/ˈæk.jər.ə.si/" vi_ipa="ác-cơ-rơ-si">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="773232c7-cfff-4073-bfee-a43b1e085565" type="Noun">
+          <Vi>Độ chính xác</Vi>
+          <En>The quality or state of being correct or precise, especially in measurement, calculation, or statement.</En>
+          <Example>The accuracy of the weather forecast improved with more data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d214a27-ef89-4236-bf46-595acddc92a5">
+              <Vi>Trong thí nghiệm khoa học, độ chính xác của kết quả đo lường rất quan trọng.</Vi>
+              <En>In scientific experiments, the accuracy of measurements is crucial.</En>
+            </Situation>
+            <Situation id="af70aab6-747b-4730-b0a5-985bdb363d41">
+              <Vi>Trong thể thao, bắn súng yêu cầu độ chính xác cao để trúng đích.</Vi>
+              <En>In shooting sports, high accuracy is required to hit the target.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
