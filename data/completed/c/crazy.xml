@@ -1,0 +1,60 @@
+<Vocab id="88ee35f3-7134-4ffb-96f8-438b060d4faf" word="crazy" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9bc4935c-9b64-4f23-83e1-912a21e66b85" ipa="/ˈkreɪ.zi/" vi_ipa="cờ-rây-zây">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aca80c3e-853e-4857-9e0f-b8394365be5c" type="Adjective">
+          <Vi>điên, điên rồ, mất trí</Vi>
+          <En>having or showing a mental illness; unable to think clearly or behave rationally</En>
+          <Example>He was acting crazy after hearing the bad news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d5ab2df-598a-45cb-b37e-1a0ddada831a">
+              <Vi>Mô tả hành vi bất thường, không kiểm soát do căng thẳng hoặc bệnh tâm thần.</Vi>
+              <En>Describing unusual, uncontrollable behavior due to stress or mental illness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c476ea00-7663-438b-a809-012c665dddc1" type="Adjective">
+          <Vi>hoang đường, phi lý, điên khùng (theo nghĩa cường điệu)</Vi>
+          <En>extremely unusual, improbable, or irrational—often used for emphasis or humor</En>
+          <Example>That’s a crazy idea—no one would ever pay that much for a coffee!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="640f76a7-d5f7-4530-97c6-0f625f325b37">
+              <Vi>Dùng để thể hiện sự kinh ngạc hoặc hài hước trước điều gì quá mức.</Vi>
+              <En>Used to express surprise or humor about something exaggerated or absurd.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="82061088-83d3-4118-9ac9-d98e013edaf0" type="Adjective">
+          <Vi>cuồng nhiệt, say mê (một cách không kiềm chế)</Vi>
+          <En>filled with intense enthusiasm or excitement</En>
+          <Example>The crowd went crazy when the band walked on stage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f56761a0-bdaf-4ec8-967a-d26a2827c6d8">
+              <Vi>Mô tả phản ứng mãnh liệt, phấn khích trong các tình huống vui vẻ hoặc kịch tính.</Vi>
+              <En>Describing an intense, excited reaction in joyful or dramatic situations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
