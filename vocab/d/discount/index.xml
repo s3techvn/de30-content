@@ -1,0 +1,62 @@
+<Vocab id="61b0a55d-3e33-4fc4-9783-c1696d774a02" word="discount" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="638c2f69-bf9d-4402-8105-d36e784bbb0e" ipa="/ˈdɪs.kaʊnt/" vi_ipa="đít-cơ-un-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="73f2eb24-1e14-4e9b-8791-a8982bf30a96" type="Noun">
+          <Vi>Giảm giá; chiết khấu</Vi>
+          <En>A reduction in the usual price of something.</En>
+          <Example>The store offered a 20% discount on all summer clothing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f1fa4cf2-e451-410c-8fb8-f634b870765b">
+              <Vi>Khách hàng được giảm giá khi mua hàng vào dịp khuyến mãi.</Vi>
+              <En>A customer receives a price reduction during a promotional sale.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f3b1b328-994b-48ba-90a6-e20dec13649a" ipa="/dɪsˈkaʊnt/" vi_ipa="đít-cơ-un-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c7a25e2e-92ba-4e92-859a-2f6a68494bb8" type="Verb">
+          <Vi>Giảm giá; loại trừ; xem nhẹ</Vi>
+          <En>To reduce the price of something; to disregard or dismiss something as unimportant.</En>
+          <Example>The shopkeeper discounted the damaged item by 30%.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e384e90c-8b6e-47a9-b5d4-845eee7f7838">
+              <Vi>Nhân viên bán hàng giảm giá cho khách thân thiết.</Vi>
+              <En>A sales clerk gives a price reduction to a loyal customer.</En>
+            </Situation>
+            <Situation id="abc26ac0-9475-428a-8b3a-ecb8aef440a0">
+              <Vi>Anh ấy luôn loại trừ những ý kiến trái chiều mà không cân nhắc kỹ.</Vi>
+              <En>He always dismisses opposing opinions without careful consideration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
