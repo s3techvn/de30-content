@@ -1,0 +1,40 @@
+<Vocab id="84a7ffec-e4cd-4df5-9dcf-2ee8d1b480c2" word="founder" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="4d315299-7940-49e1-8216-77ae513db957" value="Leadership" />
+    <Topic id="1a3ab233-3355-4d25-a5d1-adcafe91d71b" value="Startups" />
+  </Topics>
+  <Professions>
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="ec104ec7-35ce-4720-a33b-e90df9d7348b" value="Startup Founder" />
+    <Profession id="ad9f3193-4a3b-4ba7-a1f5-9afeae595f34" value="CEO" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ad99932d-fd01-4056-8c1f-84913b404618" ipa="/ˈfaʊn.dər/" vi_ipa="fà-un-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67a2305d-8d7a-4aa2-91b6-b9a203a6b3a2" type="Noun">
+          <Vi>người sáng lập</Vi>
+          <En>A person who establishes an organization, business, or institution, especially a company.</En>
+          <Example>She is the founder of a successful tech startup based in Silicon Valley.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6755cf2d-683b-46cf-ab60-169a29785b75">
+              <Vi>Người khởi xướng và thành lập một công ty hoặc tổ chức.</Vi>
+              <En>Someone who initiates and establishes a company or organization.</En>
+            </Situation>
+            <Situation id="231ba9cf-65e1-4e27-b67b-557630c3f823">
+              <Vi>Người đóng vai trò lãnh đạo ban đầu trong một dự án hoặc tổ chức phi lợi nhuận.</Vi>
+              <En>Someone who leads the initial phase of a project or nonprofit organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

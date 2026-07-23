@@ -657,4 +657,6 @@
   <Profession id="a055c397-6332-4e2e-aa63-5891066d47c9" slug="marine-pilot" value="Marine Pilot" />
   <Profession id="766d6208-4c73-44da-8fb6-e5dab776f4be" slug="obstetrician" value="Obstetrician" />
   <Profession id="a3c47b02-799f-4b01-820d-501263bd7c83" slug="midwife" value="Midwife" />
+  <Profession id="ec104ec7-35ce-4720-a33b-e90df9d7348b" slug="startup-founder" value="Startup Founder" />
+  <Profession id="ad9f3193-4a3b-4ba7-a1f5-9afeae595f34" slug="ceo" value="CEO" />
 </Professions>
