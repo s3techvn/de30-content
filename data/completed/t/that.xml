@@ -1,0 +1,80 @@
+<Vocab id="fe9883a4-965a-41f5-9c1a-19348a73e92c" word="that" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="debde8cc-6ea0-41cb-b923-90ff83d6ed1d" ipa="/ðæt/" vi_ipa="đờ-rết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9543999e-779f-433a-ae7a-49724b6257fd" type="Pronoun">
+          <Vi>đó, ấy, cái đó</Vi>
+          <En>Used to identify a specific person or thing that is distant in space or time, or has already been mentioned.</En>
+          <Example>That book on the shelf is mine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ce7e7b24-9c23-4075-805b-0e710677a05c">
+              <Vi>Chỉ một vật hoặc người ở xa người nói hoặc đã được nhắc đến trước đó.</Vi>
+              <En>Referring to a person or thing that is far away or was mentioned earlier.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="004c811e-2d8e-44c7-a7b8-830ea9bd6fc0" type="Determiner">
+          <Vi>đó, ấy (dùng trước danh từ số ít hoặc danh từ không đếm được)</Vi>
+          <En>Used before a noun to refer to a specific person or thing that is distant in space or time.</En>
+          <Example>That idea sounds interesting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7e655c6c-ac48-49ce-a778-700916749179">
+              <Vi>Dùng để chỉ một danh từ cụ thể ở xa hoặc đã được nhắc đến.</Vi>
+              <En>Used to specify a noun that is not near the speaker or was previously mentioned.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="01db2d28-ddf0-4d5a-a6ba-4f5907161a59" type="Conjunction">
+          <Vi>rằng, là</Vi>
+          <En>Used to introduce a clause that provides more information about a noun or a situation.</En>
+          <Example>I believe that he will succeed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93920dbf-ecfa-4740-af8d-a5229b27dbd0">
+              <Vi>Dẫn mệnh đề bổ nghĩa cho danh từ hoặc mệnh đề chính.</Vi>
+              <En>Introducing a subordinate clause that explains or clarifies the main clause.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="4b560de7-eaeb-45af-ba73-709b3faf2009" ipa="/ðət/" vi_ipa="đờ-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="97ccb023-17f7-44d5-aa85-f0858e44d262" type="Pronoun">
+          <Vi>đó (dạng yếu, thường dùng trong văn nói)</Vi>
+          <En>Weak form of 'that', commonly used in informal speech and before consonants.</En>
+          <Example>Is that all you have?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f604d454-456b-421f-ab54-0b0df671ceb9">
+              <Vi>Dùng trong hội thoại tự nhiên khi từ không được nhấn âm.</Vi>
+              <En>Used in natural conversation when the word is unstressed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

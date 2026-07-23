@@ -1,0 +1,56 @@
+<Vocab id="cfb27fda-7a0a-4149-8555-089edd670983" word="energy" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="391eda84-c02f-4e03-9a2e-c41c23e55236" value="Personal Trainer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fbffe1a8-b920-41f4-b268-daf1dcef3abc" ipa="/ˈɛn.ər.dʒi/" vi_ipa="en-nơ-rơ-dgi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf7a2fe5-aa36-48dd-b770-4ec554d07c0a" type="Noun">
+          <Vi>Năng lượng</Vi>
+          <En>The capacity to do work, such as the power derived from physical or chemical sources.</En>
+          <Example>Renewable energy sources like solar and wind power are becoming more common.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4055597c-fae8-4cf6-b998-bfd688f6291f">
+              <Vi>Một khái niệm trong vật lý mô tả khả năng sinh công.</Vi>
+              <En>A physics concept describing the ability to perform work.</En>
+            </Situation>
+            <Situation id="b9dc65aa-1e28-4980-8023-f1f9e7efb563">
+              <Vi>Nguồn năng lượng dùng để vận hành thiết bị hoặc phương tiện.</Vi>
+              <En>A source used to operate devices or vehicles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dbb66bf5-2a96-4119-9f1c-db5b634f2417" type="Noun">
+          <Vi>Sự tràn đầy năng lượng; sức sống</Vi>
+          <En>Strong feelings of enthusiasm or physical activity; vitality.</En>
+          <Example>She has so much energy that she can work late into the night without getting tired.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6612826-0017-4095-a514-6fecb93a195b">
+              <Vi>Mô tả một người luôn hăng hái, hoạt bát trong công việc và sinh hoạt.</Vi>
+              <En>Describes a person who is always enthusiastic and lively in work and daily life.</En>
+            </Situation>
+            <Situation id="74c1b306-08d0-4d36-ac62-10a8a5feae44">
+              <Vi>Cảm giác hưng phấn, sẵn sàng hành động sau khi nghỉ ngơi.</Vi>
+              <En>A feeling of excitement and readiness to act after resting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

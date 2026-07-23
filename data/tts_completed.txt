@@ -1655,3 +1655,4 @@ blank
 bronze
 sprint
 chain
+energy
