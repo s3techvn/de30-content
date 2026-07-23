@@ -1,0 +1,40 @@
+<Vocab id="fd642e39-ff00-4f64-9535-2782aeecf09c" word="server" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="899c236c-45d0-4e42-b26a-8fb871dc0c9e" value="Internet" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+    <Profession id="33c8c6eb-d672-461a-a30f-3e0e1246c47f" value="Network Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a961c5bf-4ddb-4512-8a76-33d444339285" ipa="/ˈsɜːr.vər/" vi_ipa="xờ-va">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8056b0b-b255-44e1-9331-c1341252881a" type="Noun">
+          <Vi>Máy chủ</Vi>
+          <En>A computer or system that provides resources, data, services, or programs to other computers or devices (clients) over a network.</En>
+          <Example>The web server hosts the company’s online store and handles thousands of daily customer requests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf4e9499-e7d9-48fd-ab5e-cd7ffb7ab73c">
+              <Vi>Một máy tính trung tâm xử lý yêu cầu từ các máy khách trong mạng nội bộ hoặc Internet.</Vi>
+              <En>A central computer that responds to requests from client devices on a local network or the internet.</En>
+            </Situation>
+            <Situation id="fcc37672-c5c6-4e12-99c7-e5787b0b6cc9">
+              <Vi>Trong phát triển web, máy chủ (server) lưu trữ mã nguồn và cơ sở dữ liệu để phục vụ trang web.</Vi>
+              <En>In web development, the server stores the source code and database to serve the website to users.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
