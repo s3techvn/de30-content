@@ -1,0 +1,63 @@
+<Vocab id="01bc0695-d5c0-47c8-a668-a4ac7205d69d" word="bent" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="445d2392-8309-47a6-8fb2-31ad746dd6f9" value="Materials &amp; Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8c4f8553-24c0-498b-a17b-fa566addddf5" ipa="/bɛnt/" vi_ipa="bent">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cd7612c1-5e1e-4332-929b-c36d7fd8160a" type="Adjective">
+          <Vi>cong, uốn cong, bị biến dạng do lực tác động</Vi>
+          <En>physically curved or twisted out of shape, especially so as to be no longer straight</En>
+          <Example>The metal rod was bent after the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b334fc9-39e6-4ecb-b4c6-3a66ed03b6d1">
+              <Vi>Mô tả một vật kim loại, gỗ, hoặc ống dẫn bị cong do va chạm hoặc uốn nắn.</Vi>
+              <En>Describing a metal, wood, or pipe object that is curved due to impact or forced manipulation.</En>
+            </Situation>
+            <Situation id="e066bbc6-fc31-466b-bcfa-28f32e61a7ae">
+              <Vi>Dùng trong ngữ cảnh so sánh hình dạng: "straight" vs "bent".</Vi>
+              <En>Used in contrastive contexts: "straight" vs "bent".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="43f7a336-fa6a-4bd0-9a9d-c05947d5900d" type="Adjective">
+          <Vi>đã được uốn nắn (theo ý muốn), đã được định hình</Vi>
+          <En>shaped or formed in a particular way, often through deliberate effort</En>
+          <Example>She’s got her mind bent on becoming a doctor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ff5be675-0c9f-4bab-b3f9-d4125c5870a1">
+              <Vi>Dùng trong cụm "bent on/upon something" để diễn đạt quyết tâm cao.</Vi>
+              <En>Used in the phrase "bent on/upon something" to express strong determination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c48e07e4-8111-474c-a9f8-88aaf236ede3" type="Adjective">
+          <Vi>(thường mang nghĩa tiêu cực) có xu hướng gian lận, không trung thực</Vi>
+          <En>(often derogatory) dishonest or inclined to break rules or laws</En>
+          <Example>The inspector suspected the accountant was bent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a4c9c7d-f4d8-4175-b020-d2fc7f96bde2">
+              <Vi>Mô tả một người có hành vi gian lận, tham nhũng trong công việc hoặc đời sống.</Vi>
+              <En>Describing a person who engages in fraud or corruption in work or daily life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
