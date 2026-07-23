@@ -1,0 +1,38 @@
+<Vocab id="ddb4b007-3727-433b-a360-a0cd696ea0e6" word="surgical" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="1af82273-32ec-44e7-833a-99df516dc53b" value="Anesthesiologist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd3b8b75-5f4b-47b0-ab06-f53682bdee72" ipa="/ˈsɜːr.dʒɪ.kəl/" vi_ipa="xờ-sờ-rích-gờ-kờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72780e81-8eb4-4991-a1be-211e4d548931" type="Adjective">
+          <Vi>thuộc phẫu thuật; liên quan đến phẫu thuật</Vi>
+          <En>relating to or performed by surgery; involving or suitable for surgery</En>
+          <Example>The surgical team entered the operating room at 8 a.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2da6fe1-f2e7-4e1d-bc92-3aabab1ea2ee">
+              <Vi>Mô tả các thủ tục, dụng cụ, hoặc tình huống trong phòng mổ.</Vi>
+              <En>Describing procedures, instruments, or scenarios in an operating room.</En>
+            </Situation>
+            <Situation id="653fe2ed-5e04-4d6d-b967-bd665fef0a4c">
+              <Vi>Chỉ phương pháp điều trị bằng cách can thiệp phẫu thuật.</Vi>
+              <En>Refers to a treatment method involving surgical intervention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
