@@ -1,0 +1,76 @@
+<Vocab id="199b11eb-6a4f-4101-9539-41091ff61a0f" word="case" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a02e95e-0719-41c5-a020-b5b3838ea8be" ipa="/keɪs/" vi_ipa="kê-xờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a5891d67-8910-42b0-ad51-12245e400341" type="Noun">
+          <Vi>trường hợp; vụ việc; bênh nhân; hộp, bao bọc</Vi>
+          <En>a particular situation or instance; a legal proceeding; a patient’s medical condition; a container for holding items</En>
+          <Example>The judge ruled in favor of the plaintiff in this case.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="24ae0e61-b021-42e8-ae80-c5fdc0e29df8">
+              <Vi>Một tình huống cụ thể cần được xem xét hoặc giải quyết.</Vi>
+              <En>A specific situation that requires attention or resolution.</En>
+            </Situation>
+            <Situation id="2d37b594-22ce-4236-a811-6e4c6c3699e2">
+              <Vi>Vụ án đang được xét xử trong tòa án.</Vi>
+              <En>A legal matter being heard in court.</En>
+            </Situation>
+            <Situation id="a038533e-c324-4ad9-b420-3266b0337445">
+              <Vi>Bệnh nhân đang được theo dõi y khoa.</Vi>
+              <En>A patient under medical observation or treatment.</En>
+            </Situation>
+            <Situation id="5cffd1ae-c6a0-46f8-9390-2d25c2814f02">
+              <Vi>Hộp đựng điện thoại di động hoặc máy tính xách tay.</Vi>
+              <En>A protective container for a device such as a phone or laptop.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0e855c83-7176-43c0-92aa-0ebd793f04d6" ipa="/keɪs/" vi_ipa="kê-xờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="caa2eb91-3e16-4022-9f40-3f5617f4e883" type="Verb">
+          <Vi>đóng hộp; bao bọc; đề cập đến (trong văn viết/lập luận)</Vi>
+          <En>to enclose in a case or container; to mention or refer to something in argument or writing</En>
+          <Example>The package was carefully case-d before shipping.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e555669-813a-48d0-b40a-961301e41dbe">
+              <Vi>Hành động đặt đồ vật vào hộp hoặc bao bọc bảo vệ.</Vi>
+              <En>The act of placing an item into a protective container.</En>
+            </Situation>
+            <Situation id="847a2842-9abe-431c-b215-ae8f5ad843ea">
+              <Vi>Trích dẫn một ví dụ hoặc tình huống để minh họa lập luận.</Vi>
+              <En>Citing an example or scenario to support an argument.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
