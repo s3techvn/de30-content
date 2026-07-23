@@ -1,0 +1,39 @@
+<Vocab id="22edba9d-1274-4f3a-8997-e1dd43623f08" word="surprising" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df0b244b-1b96-4cc0-981e-b5879d94c276" ipa="/sərˈpraɪ.zɪŋ/" vi_ipa="xơ-rơ-prây-zing">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="16b52196-f846-41ca-9078-4a55bc4f297d" type="Adjective">
+          <Vi>thú vị, gây kinh ngạc, bất ngờ</Vi>
+          <En>causing surprise or wonder; unexpected and remarkable</En>
+          <Example>She gave a surprising performance that left the audience in awe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7abbac5-c8a7-4b34-95be-12470dee1ee2">
+              <Vi>Một sự kiện hoặc hành động khiến người nghe cảm thấy bất ngờ và thích thú.</Vi>
+              <En>An event or action that causes the listener to feel both surprised and intrigued.</En>
+            </Situation>
+            <Situation id="1500ad08-5361-4889-82a4-441ec03f34b5">
+              <Vi>Trong báo chí, mô tả một phát hiện hoặc kết quả không như dự kiến.</Vi>
+              <En>In journalism, describing a discovery or outcome that defies expectations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
