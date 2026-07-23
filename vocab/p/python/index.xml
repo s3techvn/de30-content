@@ -1,0 +1,46 @@
+<Vocab id="b1a24427-6b51-47c7-9c4e-23a4bb558db7" word="python" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d2e78b3-08ed-4bfa-9893-320ca149a002" ipa="/ˈpɪθ.ən/" vi_ipa="pít-hơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f4c622d-00f9-435b-8d88-a5d25e5bb06a" type="Noun">
+          <Vi>con rắn hổ mây (loài rắn lớn, không độc, thường được nuôi làm thú cưng hoặc dùng trong nghiên cứu)</Vi>
+          <En>a large, non-venomous snake of the genus Python, found in Africa, Asia, and Australia, often kept as a pet or used in scientific research</En>
+          <Example>The zoo introduced a new African rock python exhibit last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dee42d02-273f-4171-9b8f-45cf7f7c72b8">
+              <Vi>Mô tả loài rắn trong sở thú hoặc trong sách giáo khoa sinh học.</Vi>
+              <En>Describing the snake in a zoo, biology textbook, or wildlife documentary.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d0fc7448-be52-4222-bc80-11bea891d6be" type="Noun">
+          <Vi>ngôn ngữ lập trình Python (một ngôn ngữ lập trình phổ biến, dễ học, hướng đối tượng)</Vi>
+          <En>Python: a high-level, interpreted, general-purpose programming language known for its simplicity and readability</En>
+          <Example>She learned Python to automate data analysis tasks at work.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04bb1510-80a3-488f-a2f0-c17c5ab70adb">
+              <Vi>Ngữ cảnh lập trình, học mã hóa, hoặc phát triển phần mềm.</Vi>
+              <En>Contexts involving coding, software development, or learning programming.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
