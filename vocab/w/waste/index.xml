@@ -1,0 +1,56 @@
+<Vocab id="f7e423ed-f154-4054-9e18-f41da25c6247" word="waste" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="b7406776-c470-42e0-95b5-7647c2ceb73b" value="Waste Management Specialist" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55d23d9a-13d6-46f5-b1a1-776e71177164" ipa="/weɪst/" vi_ipa="vê-xt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="232abb37-1a66-49c0-a796-0af119b88e49" type="Noun">
+          <Vi>Chất thải; sự lãng phí</Vi>
+          <En>Unwanted or unusable material, substance, or byproduct; also, the act of using something carelessly or inefficiently</En>
+          <Example>The city has improved its recycling programs to reduce landfill waste.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f4c74171-39bc-43df-85ff-95397ae88f26">
+              <Vi>Mô tả rác thải sinh hoạt hoặc công nghiệp</Vi>
+              <En>Referring to discarded materials such as plastic, food scraps, or industrial byproducts</En>
+            </Situation>
+            <Situation id="5e76de22-a875-43f4-9e56-adb1ef2a9971">
+              <Vi>Mô tả hành vi tiêu dùng hoặc sử dụng tài nguyên không hiệu quả</Vi>
+              <En>Referring to inefficient or excessive use of resources like time, energy, or money</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0b88f589-2388-4984-b37f-46df52022819" type="Verb">
+          <Vi>Lãng phí; làm hao hụt (thời gian, tiền bạc, năng lượng…)</Vi>
+          <En>To use or expend something wastefully or unnecessarily</En>
+          <Example>Don’t waste your time arguing with someone who refuses to listen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0890ce5d-7b64-4cc6-9054-4308806d504c">
+              <Vi>Chỉ hành vi tiêu tốn không cần thiết (tiền, thời gian, công sức)</Vi>
+              <En>Describing the act of expending resources without productive result</En>
+            </Situation>
+            <Situation id="484fe91a-876e-445f-9591-7831235134cb">
+              <Vi>Chỉ việc làm cho một thứ không còn hữu ích (ví dụ: làm hỏng thiết bị)</Vi>
+              <En>Describing the act of rendering something useless or ineffective</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
