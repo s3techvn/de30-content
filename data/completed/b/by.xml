@@ -1,0 +1,48 @@
+<Vocab id="63f280ad-20a1-457a-9cca-7fa2e17dfeb5" word="by" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+    <Topic id="a0af87ab-6cf7-4d27-930d-3df280156942" value="Navigation" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49e98400-6aec-4195-96f6-7357e9d9b34c" ipa="/baɪ/" vi_ipa="bài">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9bbd6929-2324-4973-8d19-385309a233d6" type="Preposition">
+          <Vi>bởi, do, gần, qua, theo</Vi>
+          <En>used to indicate the agent or cause of an action; near; according to; via</En>
+          <Example>The book was written by Jane Austen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6cca03e-0dce-4adf-966a-565194240ebd">
+              <Vi>Chỉ người tạo ra hoặc nguyên nhân gây ra một hành động (bởi, do).</Vi>
+              <En>Indicates the agent or cause of an action (e.g., authorship or responsibility).</En>
+            </Situation>
+            <Situation id="2105f3f8-4285-496f-8ba5-9a38ec92b39c">
+              <Vi>Chỉ vị trí gần hoặc thời điểm gần (gần, sát).</Vi>
+              <En>Indicates proximity in space or time (e.g., "by the window", "by tomorrow").</En>
+            </Situation>
+            <Situation id="6632140d-ad5c-41ef-91c9-2bfa815af16b">
+              <Vi>Chỉ phương tiện hoặc lộ trình (qua, theo).</Vi>
+              <En>Indicates means or route (e.g., "by car", "by way of London").</En>
+            </Situation>
+            <Situation id="436e8672-3f1f-4e4c-a2fe-114662b84da0">
+              <Vi>Chỉ tiêu chuẩn, quy định, hoặc nguồn tham khảo (theo, theo như).</Vi>
+              <En>Indicates standard, rule, or source (e.g., "by law", "by my calculations").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
