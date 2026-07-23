@@ -1,0 +1,33 @@
+<Vocab id="7d061777-461b-4289-b44c-01bb368c6315" word="ist" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="fbe0905a-3244-43a8-b4f5-0debf3cfb215" value="Activist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bdca4d04-ed6b-4a9d-a293-78b1e8857b3b" ipa="/ɪst/" vi_ipa="ít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b0194b97-b9d0-4deb-a2bd-8afd9e7a2caf" type="Noun">
+          <Vi>người theo chủ nghĩa (thường dùng trong tên các nhóm chính trị, xã hội, hoặc tư tưởng)</Vi>
+          <En>a person who follows or advocates a particular ideology, movement, or set of principles, typically forming a suffix in compound terms (e.g., capitalist, feminist)</En>
+          <Example>She is a committed environmentalist and advocate for climate action.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54e16c52-cd83-4fa1-9f49-dbb662034b75">
+              <Vi>Dùng để chỉ thành viên hoặc người ủng hộ một phong trào, học thuyết, hoặc hệ tư tưởng cụ thể.</Vi>
+              <En>Used to denote a member or supporter of a specific movement, doctrine, or ideology.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
