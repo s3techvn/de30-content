@@ -1,0 +1,79 @@
+<Vocab id="f6991e36-0161-48ca-b622-f8af8e9b3872" word="partition" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="2cd5969a-e19b-43ca-9ad4-5502eec89a33" value="IT Administrator" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="54cd5276-6b62-4451-9dd6-ee0b5bd865e2" ipa="/pɑːrˈtɪʃ.ən/" vi_ipa="pờ-rờ-tí-sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5803fd2a-e6ae-4f49-a572-72a81214c298" type="Noun">
+          <Vi>Phân vùng; vách ngăn; bản phân vùng (trong máy tính)</Vi>
+          <En>A division or separation into parts, especially a physical barrier or a logical division in computing.</En>
+          <Example>The hard drive was divided into three partitions to organize data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5278c0a-f327-4424-8ae2-f038f4e959a0">
+              <Vi>Cài đặt hệ điều hành và chia ổ cứng thành các phân vùng riêng biệt.</Vi>
+              <En>Installing an operating system and dividing a hard drive into separate storage volumes.</En>
+            </Situation>
+            <Situation id="0efb4ca1-5edf-42a0-bc44-16d7405b15f9">
+              <Vi>Sử dụng vách ngăn trong văn phòng để tạo không gian riêng tư.</Vi>
+              <En>Using a partition wall in an office to create private workspaces.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f4c46e3a-b80c-46a7-9ddd-691cd6a09552" type="Verb">
+          <Vi>Chia thành các phần; ngăn cách; phân vùng</Vi>
+          <En>To divide something into parts, especially by creating physical or logical boundaries.</En>
+          <Example>The software allows users to partition their drives without losing data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9561340d-46fb-4f79-9ccd-ee47554a8212">
+              <Vi>Chia ổ đĩa thành nhiều phân vùng trước khi cài Windows.</Vi>
+              <En>Dividing a hard drive into multiple partitions before installing Windows.</En>
+            </Situation>
+            <Situation id="4b585995-5a04-4f60-b452-a4c60dd86a48">
+              <Vi>Các phòng làm việc được ngăn cách bằng vách kính.</Vi>
+              <En>The offices are partitioned by glass walls.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="1a41488a-637a-467e-9fce-e41e176060c3" ipa="/ˈpɑːr.tɪ.ʃən/" vi_ipa="pờ-rờ-ti-sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="488aa224-59f4-44cb-a440-e8582680053e" type="Noun">
+          <Vi>Bản phân vùng (trong toán học, thống kê)</Vi>
+          <En>A subset that divides a set into non-overlapping parts, such as in set theory or data partitioning.</En>
+          <Example>In database design, data partitioning improves query performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8aec190-863b-4697-a652-ffe8752b95e8">
+              <Vi>Phân chia dữ liệu lớn thành các partition để xử lý song song.</Vi>
+              <En>Splitting large datasets into partitions to enable parallel processing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
