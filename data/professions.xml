@@ -715,4 +715,5 @@
   <Profession id="034e3a08-253d-4a2a-8312-b0ed0be33f96" slug="basketball-player" value="Basketball Player" />
   <Profession id="01805994-69d9-4cdb-b75a-8bc17b7bbbc4" slug="carriage-enthusiast" value="Carriage Enthusiast" />
   <Profession id="0c4707e6-8c71-435e-8b99-291fcc26488b" slug="security-analyst" value="Security Analyst" />
+  <Profession id="075a0f16-d7ee-4542-87ae-3fff663b583c" slug="oceanographer" value="Oceanographer" />
 </Professions>
