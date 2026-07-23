@@ -1,0 +1,39 @@
+<Vocab id="aa060434-02af-4dbc-aa41-9efb8075f8d8" word="thereby" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="67a04c9e-5613-4643-aaba-1f1626908fbf" value="Formal Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f707ded3-a2f6-474a-8587-6a53eb291e5e" ipa="/ˌðerˈbaɪ/" vi_ipa="đờ-đơ-đây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1bff64ff-1555-4a0f-9726-e1278264cbcf" type="Adverb">
+          <Vi>do đó, bởi vì thế, như vậy là</Vi>
+          <En>as a result of that; by that means</En>
+          <Example>The new policy was implemented, thereby reducing emissions significantly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d86235c-4611-4b7b-a945-7f20c40a3ad4">
+              <Vi>Mô tả kết quả logic hoặc hệ quả của một hành động hoặc sự kiện đã nêu trước đó.</Vi>
+              <En>Used to indicate a consequence or result of a previously mentioned action or event.</En>
+            </Situation>
+            <Situation id="759e8601-1c40-4322-b661-385581263a57">
+              <Vi>Thường xuất hiện trong văn viết học thuật, pháp lý hoặc báo cáo chính thức.</Vi>
+              <En>Commonly used in academic, legal, or formal written contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
