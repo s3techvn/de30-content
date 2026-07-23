@@ -1,0 +1,45 @@
+<Vocab id="b52f771a-089d-49ed-a77d-6aef09b3f53a" word="examine" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6f7cf740-0030-47e2-ae28-6e2e46c84258" ipa="/ɪɡˈzæm.ɪn/" vi_ipa="i-gzam-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3ee81e9d-8a48-4ec6-9a1a-aadcf9dc2a83" type="Verb">
+          <Vi>kiểm tra, xét nghiệm, phỏng vấn</Vi>
+          <En>to inspect, analyze, or study something in detail, especially to assess its condition, quality, or nature</En>
+          <Example>The doctor examined the patient for signs of infection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9793316d-63e2-45e1-8e11-996f27d5d7a0">
+              <Vi>Bác sĩ kiểm tra cơ thể bệnh nhân để chẩn đoán bệnh.</Vi>
+              <En>A doctor inspects a patient’s body to diagnose an illness.</En>
+            </Situation>
+            <Situation id="143d9f07-b44d-4e22-b08e-e2bb51090730">
+              <Vi>Giáo viên chấm bài và kiểm tra kỹ lưỡng bài làm của học sinh.</Vi>
+              <En>The teacher grades and carefully reviews students’ work.</En>
+            </Situation>
+            <Situation id="76236f94-f7a7-4d71-9f88-8ab05e21808a">
+              <Vi>Cảnh sát điều tra hiện trường và hỏi cung nhân chứng.</Vi>
+              <En>The police investigate the scene and interview witnesses.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
