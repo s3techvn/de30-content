@@ -1,0 +1,40 @@
+<Vocab id="dabf07dc-3bf3-4922-8d3c-4a993dd46f2e" word="adaptive" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30757a3e-a28e-4e11-be4e-dccb37b1ce50" ipa="/əˈdæp.tɪv/" vi_ipa="ơ-đáp-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a109b07-33e8-42a0-981d-85c7248a9131" type="Adjective">
+          <Vi>thích nghi, linh hoạt, có khả năng điều chỉnh theo hoàn cảnh</Vi>
+          <En>able to adjust to new conditions or environments; flexible and responsive to change</En>
+          <Example>The software features an adaptive interface that changes based on user behavior.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9bb1808f-e236-44fe-9d6e-0a4b2cb725f9">
+              <Vi>Một hệ thống học máy điều chỉnh thuật toán dựa trên dữ liệu mới.</Vi>
+              <En>A machine learning system that updates its algorithms based on new data.</En>
+            </Situation>
+            <Situation id="480990d7-988d-481e-b696-1c4ab8530e40">
+              <Vi>Giáo viên sử dụng phương pháp dạy học thích nghi với nhu cầu của từng học sinh.</Vi>
+              <En>A teacher uses adaptive teaching methods tailored to each student’s needs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
