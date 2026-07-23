@@ -1,0 +1,54 @@
+<Vocab id="ba76e5a7-5d3d-4d77-93b9-e8191e0fa2a5" word="wanting" type="short" status="done">
+  <Topics>
+    <Topic id="752048c1-a74b-4010-a086-eb0c0782f636" value="Emotions and Desires" />
+  </Topics>
+  <Professions>
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6c073936-d722-4696-b2ed-ea55eb2a08a6" ipa="/ˈwɑːn.tɪŋ/" vi_ipa="oán-tíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f13d806d-04da-467a-b0e0-ee8130e8adf9" type="Adjective">
+          <Vi>khao khát, thèm muốn, còn đang khao khát</Vi>
+          <En>Having a strong desire for something; still in a state of wanting.</En>
+          <Example>She looked at the cake with wanting eyes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47205070-92cd-46dd-b360-cd5a5b2540b2">
+              <Vi>Mô tả trạng thái khao khát mãnh liệt của ai đó trước điều gì đó hấp dẫn.</Vi>
+              <En>Describing someone’s intense desire toward something appealing.</En>
+            </Situation>
+            <Situation id="28b6a01d-6c29-46b8-a2b7-2ece235ba503">
+              <Vi>Dùng trong văn học để diễn tả cảm xúc nhân vật đang khao khát điều gì đó chưa đạt được.</Vi>
+              <En>Used in literature to convey a character’s unfulfilled desire.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="732ba2cf-3388-4050-b6c0-4eddb8f1d7f8" type="Verb (present participle/gerund)">
+          <Vi>đang muốn, đang khao khát (hành động đang diễn ra)</Vi>
+          <En>Form of the verb 'want' used as a present participle or gerund, indicating an ongoing desire.</En>
+          <Example>He was caught wanting the last cookie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a23c34c-22d1-46ac-8100-babc80d9f927">
+              <Vi>Mô tả hành động đang diễn ra trong quá khứ tiếp diễn (past continuous).</Vi>
+              <En>Describing an ongoing desire in past continuous tense.</En>
+            </Situation>
+            <Situation id="b9c676e6-42ee-4031-bff8-9faf1bd55ebc">
+              <Vi>Dùng trong cấu trúc bị động không phổ biến (ví dụ: "He was wanting help" – lỗi ngữ pháp trong tiếng Anh chuẩn, nhưng đôi khi gặp trong tiếng Anh không trang trọng).</Vi>
+              <En>Used in non-standard passive constructions (e.g., "He was wanting help" – grammatically nonstandard in formal English, but occurs in informal usage).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
