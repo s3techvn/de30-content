@@ -1897,3 +1897,4 @@ seen
 interference
 residence
 operational
+czech

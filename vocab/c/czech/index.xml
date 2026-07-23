@@ -1,0 +1,47 @@
+<Vocab id="f1f846a4-601a-4e6f-9a59-0e3fc8870153" word="czech" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f32439ba-b09c-4645-82a6-665a3fbb9324" ipa="/tʃɛk/" vi_ipa="chéc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="675ee11e-e00a-498c-901a-253062401971" type="Adjective">
+          <Vi>thuộc Cộng hòa Séc; thuộc người Séc</Vi>
+          <En>Relating to the Czech Republic, its people, or their language.</En>
+          <Example>She studied Czech literature during her semester abroad in Prague.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fe1a40a2-92dc-4242-a45a-62eeb24e4698">
+              <Vi>Mô tả điều gì đó liên quan đến quốc gia, con người, hoặc ngôn ngữ của Cộng hòa Séc.</Vi>
+              <En>Describing something related to the country, people, or language of the Czech Republic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9fa3da45-cfa7-46bf-a04a-d8af9a1add84" type="Noun">
+          <Vi>người Séc; tiếng Séc</Vi>
+          <En>A native or inhabitant of the Czech Republic; also, the Slavic language spoken in the Czech Republic.</En>
+          <Example>He met a Czech at the international conference who spoke fluent English.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7586f107-8fd2-48d3-a883-a0c9db3a4415">
+              <Vi>Dùng để chỉ một người bản địa Séc hoặc ngôn ngữ Séc.</Vi>
+              <En>Used to refer to a native Czech person or the Czech language.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
