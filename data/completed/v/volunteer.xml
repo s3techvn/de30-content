@@ -1,0 +1,80 @@
+<Vocab id="1701bed9-db20-44ed-8873-1a1c0658933c" word="volunteer" type="short" status="done">
+  <Topics>
+    <Topic id="0fe910ff-7ecf-44d1-b6e4-cfca673ebde9" value="Community &amp; Social" />
+  </Topics>
+  <Professions>
+    <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" value="Nonprofit Worker" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="45ff68f5-77f7-4e4a-aa56-2aa39bcc0caf" value="Event Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="db068502-99e3-4f96-ba6f-34a5beba161b" ipa="/vəˈlʌn.t̬ɚ/" vi_ipa="vơ-lăng-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4c9755ac-3c9d-488c-9705-a6aeec722262" type="Noun">
+          <Vi>người tình nguyện</Vi>
+          <En>A person who freely offers to take part in an enterprise or undertake a task, typically for the benefit of others or a cause.</En>
+          <Example>She has been a volunteer at the local food bank for over two years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02b329ce-75eb-4863-bd13-6db6427384c6">
+              <Vi>Một cá nhân tham gia giúp đỡ mà không nhận tiền lương.</Vi>
+              <En>An individual who helps without receiving payment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a7a2d285-711c-4a78-b366-aa33eca14992" type="Verb">
+          <Vi>tình nguyện (làm gì đó)</Vi>
+          <En>To offer to do something without being forced or paid to do it.</En>
+          <Example>He volunteered to lead the cleanup effort after the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f34d2e65-563b-406c-a951-a8dd8aeb1625">
+              <Vi>Cung cấp dịch vụ hoặc hỗ trợ một cách tự nguyện trong một hoàn cảnh cụ thể.</Vi>
+              <En>Offering help or services of one’s own accord in a specific situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5cce5b16-2336-4d26-a7dd-82137cbd5217" ipa="/ˈvɒl.ən.tɪər/" vi_ipa="vồ-lăn-ti-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="381c66e4-8a6c-40d8-9457-57aa17079156" type="Noun">
+          <Vi>người tình nguyện (phiên bản Anh-Anh)</Vi>
+          <En>A person who freely offers to take part in an enterprise or undertake a task, typically for the benefit of others or a cause.</En>
+          <Example>The charity relies heavily on volunteers to run its community programs.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="facfdb9f-1dbd-46e1-9ea5-e7451076b806">
+              <Vi>Mô tả người tham gia hoạt động cộng đồng không hưởng lương theo cách nói phổ biến ở Anh.</Vi>
+              <En>Describing someone participating in community work without pay, common in British English.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="22a8eed4-2713-4c03-8845-3e2631ae68fa" type="Verb">
+          <Vi>tình nguyện (làm gì đó) (phiên bản Anh-Anh)</Vi>
+          <En>To offer to do something without being forced or paid to do it.</En>
+          <Example>She volunteered to help organize the school fair.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd2d4dfd-f390-46b5-bf64-d333af71bc3e">
+              <Vi>Cung cấp hỗ trợ hoặc dịch vụ một cách tự nguyện trong bối cảnh Anh-Anh.</Vi>
+              <En>Offering support or services voluntarily in a British English context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
