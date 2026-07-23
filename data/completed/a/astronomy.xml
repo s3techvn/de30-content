@@ -1,0 +1,36 @@
+<Vocab id="a20b082e-7219-4571-a339-c692b2b9486d" word="astronomy" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b041c0f5-0d2f-44d4-9cf0-6312703557bf" ipa="/əˈstrɒn.ə.mi/" vi_ipa="ơ-strô-nơ-mi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07796682-643e-4291-b86c-1d96963146ac" type="Noun">
+          <Vi>Khoa học nghiên cứu về các thiên thể, vũ trụ và các hiện tượng ngoài Trái Đất</Vi>
+          <En>The scientific study of celestial objects, such as stars, planets, comets, and galaxies, and phenomena that originate outside the Earth's atmosphere.</En>
+          <Example>Modern astronomy relies heavily on data from space-based telescopes like the James Webb Space Telescope.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c1f9e84-8ba0-4810-8db7-ae56c7043286">
+              <Vi>Sinh viên đại học theo học ngành thiên văn học tại khoa Vật lý.</Vi>
+              <En>A university student majoring in astronomy within the Physics department.</En>
+            </Situation>
+            <Situation id="20dcfca4-119a-454d-a5f5-505d86b2ac8c">
+              <Vi>Công chúng tham gia quan sát sao vào tối thứ Bảy tại đài thiên văn.</Vi>
+              <En>The public participates in stargazing on Saturday evenings at an observatory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

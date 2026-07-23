@@ -1,0 +1,50 @@
+<Vocab id="79fa9c81-4f9a-4de9-a670-1c1c88da0967" word="bread" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="fa3f3ac0-190e-4ce3-944f-6f9a417015a2" value="Food Service Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd31359d-8904-4288-b9e5-fcb3f0debfae" ipa="/bred/" vi_ipa="bờ-rét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08363926-bc7c-4dc1-85e0-866cfb0d1930" type="Noun">
+          <Vi>Bánh mì</Vi>
+          <En>Food made of flour, water, and yeast, usually baked.</En>
+          <Example>She bought a fresh loaf of bread from the bakery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34fa3339-157a-429e-9490-0fcfa17931b9">
+              <Vi>Mua hoặc ăn bánh mì tươi từ tiệm bánh.</Vi>
+              <En>Buying or eating fresh bread from a bakery.</En>
+            </Situation>
+            <Situation id="5bd8a50d-df4a-4233-a190-0fa1e49e58f1">
+              <Vi>Dùng bánh mì làm món ăn chính hoặc phụ.</Vi>
+              <En>Using bread as a main or side dish, e.g., sandwiches or toast.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b38625db-20d0-4763-8e6e-9ce304781b6d" type="Noun">
+          <Vi>Tiền lương (ngắn hạn)</Vi>
+          <En>Slang for money, especially as a means of livelihood.</En>
+          <Example>He’s struggling to put bread on the table for his family.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61673221-93fd-4475-8483-4678511acf19">
+              <Vi>Nói về khó khăn trong việc kiếm tiền nuôi sống bản thân hoặc gia đình.</Vi>
+              <En>Talking about financial hardship in earning a living.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
