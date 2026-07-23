@@ -1,0 +1,36 @@
+<Vocab id="01740491-3e36-42e8-87b7-890a9ec4c96d" word="complex" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f4fe0f21-2a8f-434e-867c-57a983c317d1" ipa="/ˈkɒm.pleks/" vi_ipa="côm-plécs">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d4d94773-5e7c-4141-9162-ead6ab4b47e1" type="Adjective">
+          <Vi>phức tạp, rắc rối</Vi>
+          <En>consisting of many different and connected parts; not simple.</En>
+          <Example>The city's public transportation system is complex and difficult for tourists to navigate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f130d4d-d72b-4efb-8d13-5aad6d01c2fe">
+              <Vi>Mô tả một hệ thống, cấu trúc, hoặc tình huống có nhiều yếu tố đan xen, khó hiểu hoặc khó quản lý.</Vi>
+              <En>Describing a system, structure, or situation with many interwoven elements that are hard to understand or manage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

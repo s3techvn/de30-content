@@ -1,0 +1,53 @@
+<Vocab id="9c7f7df3-680a-443a-a2a6-db1b1e259ec2" word="trial" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" value="Medical Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0f91bc83-c0e9-462c-b726-57ea36604b22" ipa="/ˈtraɪ.əl/" vi_ipa="tơ-rây-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db15cc01-81e9-4137-b1aa-dd5ab0b099de" type="Noun">
+          <Vi>Phiên tòa; cuộc thử nghiệm; sự thử thách</Vi>
+          <En>A formal judicial examination of evidence and determination of legal claims; or a test or experiment, especially to evaluate effectiveness or safety.</En>
+          <Example>The defendant was found not guilty after a two-week trial.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="706a9675-5823-4c19-a94f-213523a9fb35">
+              <Vi>Cảnh sát đưa bị cáo ra tòa để xét xử.</Vi>
+              <En>The police brought the defendant to court for trial.</En>
+            </Situation>
+            <Situation id="8c9d909b-97ea-4696-ad7e-810d7206943c">
+              <Vi>Nhóm nghiên cứu đang tiến hành thử nghiệm lâm sàng giai đoạn ba.</Vi>
+              <En>The research team is conducting a Phase III clinical trial.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e6c25a9f-6c6a-4d42-861a-23d082fe29b2" type="Adjective">
+          <Vi>Dùng để thử; thử nghiệm</Vi>
+          <En>Used or intended for testing or experimentation; not yet approved for general use.</En>
+          <Example>The trial version of the software expires in 30 days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c2ce631d-42c4-47af-9e8f-e09265be2c60">
+              <Vi>Công ty phát hành bản dùng thử miễn phí của ứng dụng.</Vi>
+              <En>The company released a free trial version of the app.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
