@@ -1233,3 +1233,4 @@ fortune
 ruby
 hurricane
 percentage
+isolation
