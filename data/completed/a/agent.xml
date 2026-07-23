@@ -1,0 +1,53 @@
+<Vocab id="a8b2fb34-d637-4497-8316-61df8b4dce30" word="agent" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="23c8f626-3388-47aa-acba-aea5fe5f5a0d" value="Insurance Agent" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2e404b34-8187-40c8-bea7-fc242283b22c" ipa="/ˈeɪ.dʒənt/" vi_ipa="ê-gi-ơt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44159ca3-7df8-461d-92ff-4d158f48f0ae" type="Noun">
+          <Vi>đại lý; người đại diện; tác nhân</Vi>
+          <En>a person or thing that acts on behalf of another, especially a person authorized to act for another in business or legal matters</En>
+          <Example>The real estate agent helped us find a suitable apartment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc235cae-d8ba-4e94-a878-2be73415fd1c">
+              <Vi>Người làm việc trung gian giữa khách hàng và công ty, ví dụ như môi giới bất động sản hoặc bảo hiểm.</Vi>
+              <En>A person who represents a company or individual in transactions, such as in real estate or insurance.</En>
+            </Situation>
+            <Situation id="0c128703-cf9a-4d81-a917-883fecca8d0d">
+              <Vi>Trong công nghệ, một chương trình tự động thực hiện tác vụ thay mặt người dùng.</Vi>
+              <En>In technology, an autonomous software entity that performs tasks on behalf of a user.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5d22c993-a021-47cc-ba12-7cd4ea7fe580" type="Noun">
+          <Vi>chất tác nhân (hóa học, sinh học)</Vi>
+          <En>a substance or entity that produces a specific effect, especially in chemistry or biology (e.g., a pathogen, catalyst, or active ingredient)</En>
+          <Example>The active agent in the medication reduces inflammation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7098ec2-e422-47be-9063-e13dcfabe1ff">
+              <Vi>Trong y học, chất có khả năng gây ra hoặc điều trị một hiệu ứng sinh học.</Vi>
+              <En>In medicine, a substance capable of producing a biological effect, such as a drug or pathogen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

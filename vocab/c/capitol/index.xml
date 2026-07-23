@@ -1,0 +1,50 @@
+<Vocab id="3a27cdee-969e-4180-8d90-43d474303ef8" word="capitol" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e7058d98-31ce-44ee-894a-ed53abfc026d" ipa="/ˈkæp.ə.təl/" vi_ipa="cáp-pơ-tờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="487036d4-e46a-4b67-9250-ae9454889699" type="Noun">
+          <Vi>Điện Capitol (tòa nhà nghị viện, đặc biệt là của chính phủ liên bang Hoa Kỳ ở Washington, D.C.)</Vi>
+          <En>The building in Washington, D.C., where the United States Congress meets; the seat of the U.S. federal legislature.</En>
+          <Example>The dome of the U.S. Capitol is illuminated at night during national holidays.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68790b57-11eb-479b-bd03-ccdb9872ec36">
+              <Vi>Người dân tham gia biểu tình trước Tòa nhà Quốc hội.</Vi>
+              <En>Citizens protest outside the Capitol building.</En>
+            </Situation>
+            <Situation id="449a7193-c744-409d-80aa-4601bfa0a0f7">
+              <Vi>Bản vẽ kiến trúc của Tòa nhà Quốc hội được trưng bày tại bảo tàng.</Vi>
+              <En>The architectural blueprints of the Capitol are displayed at the museum.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f21042f1-d590-4b6d-867a-ffce44606a24" type="Noun">
+          <Vi>Tòa nhà nghị viện cấp bang (ở Hoa Kỳ)</Vi>
+          <En>The state legislature building in any U.S. state capital.</En>
+          <Example>They toured the Massachusetts Capitol and learned about local history.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60160e49-ada5-4ebc-867f-82be1f1ee876">
+              <Vi>Nhà lập pháp bang đang họp tại Capitol.</Vi>
+              <En>The state legislators are convening at the Capitol.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
