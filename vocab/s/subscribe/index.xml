@@ -1,0 +1,40 @@
+<Vocab id="208ee807-d2c0-41eb-8810-b56d32b69a88" word="subscribe" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be8163c0-ad40-4458-9b58-0aef188a1b05" ipa="/səbˈskraɪb/" vi_ipa="xơ-bơ-s kra-i-b">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e820f6d9-383c-4117-bf80-ee3e85576064" type="Verb">
+          <Vi>Ký kết để nhận (dịch vụ, tạp chí, nội dung…)</Vi>
+          <En>To agree to receive or pay for a product, service, or content regularly, typically in exchange for a fee.</En>
+          <Example>She subscribed to the monthly magazine and receives it every first Monday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5e9e629-e6aa-4d16-b45b-48ade773de29">
+              <Vi>Đăng ký nhận bản tin, nội dung trực tuyến, hoặc dịch vụ trả phí.</Vi>
+              <En>Signing up to receive newsletters, online content, or paid services.</En>
+            </Situation>
+            <Situation id="7c92a16b-1615-4fff-9b26-d85a6123ad19">
+              <Vi>Đặt mua định kỳ một ấn phẩm (như báo, tạp chí).</Vi>
+              <En>Ordering a publication (e.g., newspaper, magazine) on a recurring basis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
