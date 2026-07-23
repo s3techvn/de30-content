@@ -1,0 +1,40 @@
+<Vocab id="5f9dbbf4-0814-481d-b831-99c9d1212be6" word="deer" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="87fdd431-9e15-4285-8f27-97b5afaf025b" value="Hunting" />
+    <Topic id="dccc9cd9-7885-4a37-83b3-47cfa6519854" value="Wildlife" />
+  </Topics>
+  <Professions>
+    <Profession id="552f237b-f6bf-4508-a6b8-a5d9b51ef3a2" value="Wildlife Biologist" />
+    <Profession id="90facd59-f44c-408f-b97c-4baf423b9198" value="Hunter" />
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e4f438c1-e7c1-4627-a11b-ef28aa55834f" ipa="/dɪər/" vi_ipa="đia">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6b2f4f68-764a-4939-8fb1-837786351966" type="Noun">
+          <Vi>con nai</Vi>
+          <En>A hoofed mammal of the family Cervidae, typically having branched antlers shed annually (in males of most species), and feeding mainly on grass, leaves, and shoots.</En>
+          <Example>She spotted a young deer grazing in the forest clearing at dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f2fd3a6-cd71-45a8-b0a6-0d7485c30361">
+              <Vi>Mô tả một con nai hoang dã trong rừng.</Vi>
+              <En>Describing a wild deer in its natural habitat.</En>
+            </Situation>
+            <Situation id="e306bfaa-3f37-43cb-bcfd-fe6ec05c68c8">
+              <Vi>Người săn bắn theo dấu nai trong mùa săn.</Vi>
+              <En>A hunter tracking deer during hunting season.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
