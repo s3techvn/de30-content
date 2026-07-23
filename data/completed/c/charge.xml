@@ -1,0 +1,132 @@
+<Vocab id="70fa6c19-540b-40f4-9bc1-8f70642d1b4b" word="charge" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="e83b53c8-a8ee-4642-9a31-c9c1a4de5bc3" value="Electronics &amp; Physics" />
+    <Topic id="3cf971d9-1243-4a91-89dc-856ccc578e1b" value="Business &amp; Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d76b3a2-417f-4fc6-93f2-8fb210ba4bfd" ipa="/tʃɑːrdʒ/" vi_ipa="chác-gi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd03e9fb-833a-4f74-8fc1-6cc6c0c1f008" type="Verb">
+          <Vi>truy tố; buộc tội</Vi>
+          <En>To formally accuse someone of a crime or wrongdoing.</En>
+          <Example>The prosecutor decided to charge him with theft after reviewing the evidence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6fd4b126-2e43-48db-9bad-e0e477356f4d">
+              <Vi>Cơ quan chức năng quyết định buộc tội một người sau khi thu thập đủ bằng chứng.</Vi>
+              <En>Authorities formally accuse someone after gathering sufficient evidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bb439cc9-b79e-418c-885f-4ce28b0394ce" type="Noun">
+          <Vi>sự buộc tội; bản cáo trạng</Vi>
+          <En>A formal accusation of a crime.</En>
+          <Example>He faced multiple charges of fraud and embezzlement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ca4563f1-7fc7-462b-b473-9aa8c116ccaa">
+              <Vi>Sau khi bị bắt, anh ấy phải đối mặt với 5 tội danh liên quan đến lừa đảo.</Vi>
+              <En>After being arrested, he faced five charges related to fraud.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a7302f63-adf6-4c70-92e0-a4f281e0a1b5" type="Verb">
+          <Vi>trao quyền/ trách nhiệm cho ai đó</Vi>
+          <En>To give someone responsibility for a task or area.</En>
+          <Example>The manager charged her with organizing the team’s training session.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="25085a12-8e25-4862-9daf-271d7f1e5f06">
+              <Vi>Sếp giao cho tôi phụ trách dự án mới vào thứ Hai.</Vi>
+              <En>The boss assigned me to lead the new project on Monday.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a749ad0e-92d0-4499-bb70-45a2a3de56a9" type="Noun">
+          <Vi>phí, cước, lệ phí</Vi>
+          <En>The price demanded for a service or product.</En>
+          <Example>The restaurant added a 10% service charge to the bill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4cbe1531-48f9-42ec-a521-4bc83b58eebb">
+              <Vi>Khi ăn tại nhà hàng, bạn thường phải trả thêm phí phục vụ.</Vi>
+              <En>When dining at a restaurant, you usually have to pay an additional service fee.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="31c4ec5a-69f2-48ff-ada2-9c3e5a2d4188" type="Noun">
+          <Vi>điện tích; điện lượng</Vi>
+          <En>A physical property of matter that causes it to experience a force in an electromagnetic field.</En>
+          <Example>The battery stores electrical charge for later use.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a89ba45-c56a-45c8-ac8e-347b6cead79d">
+              <Vi>Mọi thiết bị điện tử đều cần điện tích để hoạt động.</Vi>
+              <En>All electronic devices require electrical charge to operate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4906fdb0-5e94-4ff0-a602-95ce8e1436ae" type="Verb">
+          <Vi>đổ đầy (năng lượng); làm đầy (pin)</Vi>
+          <En>To fill or load something with energy, especially electrical energy.</En>
+          <Example>Make sure to charge your phone before the trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="29109f8d-8c2b-48db-8559-15e5b8a9252a">
+              <Vi>Tôi luôn sạc điện thoại đầy trước khi đi làm về muộn.</Vi>
+              <En>I always fully charge my phone before heading home late from work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="daba2dc3-7a84-4fce-81af-b6546cb16630" type="Verb">
+          <Vi>lao vào; xông lên tấn công</Vi>
+          <En>To move forward quickly and aggressively, especially in attack.</En>
+          <Example>The dog charged at the mail carrier.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f19f0e7-7edb-4e54-b497-dd978818046e">
+              <Vi>Con chó dữ lao thẳng về phía người đi đường.</Vi>
+              <En>The aggressive dog lunged toward the passerby.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d2962b49-11ce-42dc-91ad-03f6aaf5c472" ipa="/tʃɑːrdʒ/" vi_ipa="chác-gi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44a3a2de-3c57-42cb-afad-0d4065a169b6" type="Phrase">
+          <Vi>chịu trách nhiệm; làm người phụ trách</Vi>
+          <En>Responsible for a task, group, or area; in command.</En>
+          <Example>Sarah is in charge of the marketing department.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9338e62e-ff37-409b-a9a6-c1baec8206c7">
+              <Vi>Khi sếp vắng mặt, tôi sẽ là người chịu trách nhiệm chính.</Vi>
+              <En>When the boss is away, I will be the person in charge.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
