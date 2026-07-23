@@ -1,0 +1,37 @@
+<Vocab id="d383836e-e57c-42a4-b2b2-ff4753b9db5b" word="orleans" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" value="Travel Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1e312226-0f70-4c32-a8c5-6d67dea20612" ipa="/ˈɔːr.lənz/" vi_ipa="ớc-lờ-nhơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3321a532-b569-4535-bb7a-4d3d6e932eb3" type="Noun">
+          <Vi>Thành phố Orleans, một thành phố ở miền trung nước Pháp, nằm trên sông Loire.</Vi>
+          <En>A city in central France, located on the Loire River.</En>
+          <Example>Orleans is known for its historic architecture and its role in the Hundred Years' War.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bdc250f3-bb06-4e84-a9e1-abbfb6762959">
+              <Vi>Tham quan di tích lịch sử liên quan đến Jeanne d'Arc.</Vi>
+              <En>Visiting historical sites related to Joan of Arc.</En>
+            </Situation>
+            <Situation id="6ce50b05-1e35-46e0-9875-e9528938e900">
+              <Vi>Nói về địa lý hoặc du lịch tại Pháp.</Vi>
+              <En>Talking about geography or travel in France.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

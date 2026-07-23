@@ -1,0 +1,66 @@
+<Vocab id="e3f34de2-a110-4f9a-8e10-672da8582bbe" word="north" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71606e76-3850-42e8-861b-91e3852ab930" ipa="/nɔːrθ/" vi_ipa="nóc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6ef873b8-54df-436c-b0bd-9e1c29b642b6" type="Noun">
+          <Vi>phương bắc</Vi>
+          <En>The direction or point on the horizon where the sun never appears at noon; one of the four cardinal directions.</En>
+          <Example>She faced north as the sun rose behind her.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="138dbf8f-6204-42b0-8142-e32ad4ef8ebc">
+              <Vi>Chỉ hướng chỉ đường khi định vị hoặc điều hướng.</Vi>
+              <En>Used when giving or following directions, especially in navigation or map reading.</En>
+            </Situation>
+            <Situation id="0b834cb4-a29d-48df-9418-07eb909e33f4">
+              <Vi>Chỉ vị trí địa lý về phía cực Bắc Trái Đất.</Vi>
+              <En>Referring to a location situated toward the Earth’s North Pole.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="176af2ef-2516-4bb3-b4c8-ec5e1e217c8e" type="Adjective">
+          <Vi>thuộc phương bắc; ở phía bắc</Vi>
+          <En>Located in or coming from the north; situated toward the north direction.</En>
+          <Example>The northern hemisphere receives more sunlight in June.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="993fc773-4481-4c00-b133-94f7c5605f87">
+              <Vi>Mô tả vị trí của một quốc gia, vùng đất, hoặc khu vực.</Vi>
+              <En>Describing the location of a country, region, or area relative to others.</En>
+            </Situation>
+            <Situation id="34316874-8919-4c0e-b8e7-8faaa517d22e">
+              <Vi>Chỉ hướng gió hoặc dòng chảy (gió bắc, dòng chảy về phía bắc).</Vi>
+              <En>Referring to wind or current direction (e.g., a north wind).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ad8e3ec9-feb8-4220-a01d-03fc9f34a5a4" type="Adverb">
+          <Vi>về phía bắc</Vi>
+          <En>Toward the north; in a northerly direction.</En>
+          <Example>We drove north for three hours before stopping for gas.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a4e8099-4831-43ee-a217-62947897d93d">
+              <Vi>Dùng trong chỉ dẫn di chuyển hoặc định hướng.</Vi>
+              <En>Used in travel instructions or when describing movement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
