@@ -1,0 +1,38 @@
+<Vocab id="02ca79b2-4308-4d86-9330-5fed5d694de0" word="functionality" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+    <Profession id="610bf2ce-0fcb-480a-b125-e0e2d2ad45a9" value="UX Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d00bca89-f07d-4ada-865d-75cd4ad67b2b" ipa="/ˌfʌŋkʃəˈnæl.ə.ti/" vi_ipa="fan-kshuh-nal-i-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e1f124ce-b03b-42a9-9dd5-585d6422f910" type="Noun">
+          <Vi>Tính năng; chức năng; khả năng thực hiện một nhiệm vụ cụ thể</Vi>
+          <En>The features and capabilities of a system, device, or software that enable it to perform a particular function or set of functions.</En>
+          <Example>The new smartphone offers advanced functionality, including facial recognition and wireless charging.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="392fbacd-cdf3-4bd8-8397-510c351ee379">
+              <Vi>Mô tả các khả năng mà một phần mềm hoặc thiết bị có thể thực hiện.</Vi>
+              <En>Describing the capabilities a software or device can perform.</En>
+            </Situation>
+            <Situation id="5262ac48-fda7-41ed-92e0-ec9073b82438">
+              <Vi>So sánh mức độ phong phú về tính năng giữa hai sản phẩm công nghệ.</Vi>
+              <En>Comparing the richness of features between two tech products.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
