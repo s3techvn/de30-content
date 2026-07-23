@@ -1,0 +1,62 @@
+<Vocab id="42479d3c-28f7-4864-bff7-67fd9d3ca224" word="maximum" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="130379ab-83c2-4664-a373-19197b5d3283" ipa="/ˈmæks.ɪ.məm/" vi_ipa="mác-xi-mơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c08f0f25-552c-4fdd-b4cf-dda6a1853185" type="Adjective">
+          <Vi>cao nhất, tối đa</Vi>
+          <En>the greatest or highest amount, degree, or level possible</En>
+          <Example>The maximum speed limit on this highway is 65 miles per hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07e034df-012a-4b1a-97c0-e293c7a39144">
+              <Vi>Giới hạn tối đa được đặt ra cho một đại lượng nào đó.</Vi>
+              <En>The upper limit set for a particular quantity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="70f8b561-d917-49f6-a7e5-81fa445fbd12" ipa="/ˈmæks.ɪ.məm/" vi_ipa="mác-xi-mơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8bf84f8c-fca0-4a2f-a2ca-537b4792020e" type="Noun">
+          <Vi>giá trị lớn nhất, mức tối đa</Vi>
+          <En>the greatest quantity, degree, or amount possible</En>
+          <Example>The maximum of the function occurs at x = 3.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7f4e6842-d12c-4a21-8ee2-728112629266">
+              <Vi>Trong toán học, điểm hoặc giá trị mà hàm đạt mức cao nhất.</Vi>
+              <En>In mathematics, the point or value where a function reaches its highest value.</En>
+            </Situation>
+            <Situation id="ca32efb9-b0ef-48fe-9a49-56d3b202793e">
+              <Vi>Trong kinh doanh, mức doanh thu hoặc lợi nhuận cao nhất đạt được.</Vi>
+              <En>In business, the highest revenue or profit achieved.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

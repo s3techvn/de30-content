@@ -1,0 +1,36 @@
+<Vocab id="21791f27-003e-4674-a39c-a4a051aef4fd" word="absolutely" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b432f20-06ef-4557-8259-8e36e979da1a" ipa="/ˈæb.sə.luːt.li/" vi_ipa="áp-sờ-lu-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f4493a56-2e37-4963-8d48-7b126048a755" type="Adverb">
+          <Vi>hoàn toàn, tuyệt đối, chắc chắn</Vi>
+          <En>in every way; completely; without any doubt</En>
+          <Example>She was absolutely right about the project timeline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6e3c594-de50-483d-be6d-a2d5f49f075c">
+              <Vi>Để nhấn mạnh sự chắc chắn hoặc tính hoàn toàn của một điều gì đó.</Vi>
+              <En>Used to emphasize complete certainty or totality of something.</En>
+            </Situation>
+            <Situation id="67067580-b9e7-45c9-b40c-f91ac4bc567e">
+              <Vi>Trong phản hồi tích cực hoặc đồng tình mạnh mẽ.</Vi>
+              <En>In strong agreement or positive affirmation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
