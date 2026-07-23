@@ -1,0 +1,61 @@
+<Vocab id="0474bd50-1cd1-4eee-a0e0-3b6f3af937d9" word="angle" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae0b1e9e-8c6f-45fb-996e-ff262900b5fe" ipa="/ˈæŋɡəl/" vi_ipa="ăng-gờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a4cb6478-032f-4cd5-8dbd-1eb8a03a0ffc" type="Noun">
+          <Vi>Góc (hình học); góc nhìn, quan điểm; góc chiếu (trong điện ảnh, truyền hình)</Vi>
+          <En>The space between two lines or planes, or between two edges of a solid, measured in degrees; a particular perspective or point of view on an issue.</En>
+          <Example>They discussed the problem from different angles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="412db567-3770-4bda-92bd-1e3a819d986b">
+              <Vi>Một học sinh vẽ một góc 45 độ bằng thước đo góc.</Vi>
+              <En>A student draws a 45-degree angle using a protractor.</En>
+            </Situation>
+            <Situation id="7751bcf0-9dd4-42bb-ba96-4404bc073405">
+              <Vi>Nhà báo đưa ra góc nhìn độc đáo về một sự kiện chính trị.</Vi>
+              <En>The journalist offered a unique angle on a political event.</En>
+            </Situation>
+            <Situation id="3f12bae0-6b50-4423-9d26-86966b448da4">
+              <Vi>Đạo diễn chọn góc quay thấp để làm cho nhân vật trông oai phong hơn.</Vi>
+              <En>The director chose a low-angle shot to make the character appear more imposing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aee47230-032c-4617-a871-c197d328dcec" type="Verb">
+          <Vi>Đặt ở một góc; ngó nghiêng, liếc (mắt); đưa ra góc nhìn (vấn đề)</Vi>
+          <En>To turn or position something at an angle; to look at something from a particular perspective, especially to gain an advantage or to mislead.</En>
+          <Example>She angled her body toward the speaker to show interest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd278fb4-afbd-4439-946f-4c45d95c9475">
+              <Vi>Người chụp ảnh nghiêng máy ảnh để tạo hiệu ứng nghệ thuật.</Vi>
+              <En>The photographer angled the camera to create a dramatic effect.</En>
+            </Situation>
+            <Situation id="4b906535-0629-430e-9e3b-4cbbb62ae626">
+              <Vi>Chính trị gia luôn biết cách "góc" phát biểu để thu hút sự chú ý.</Vi>
+              <En>The politician knows how to angle his remarks to draw attention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

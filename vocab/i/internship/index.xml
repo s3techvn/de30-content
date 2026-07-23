@@ -1,0 +1,39 @@
+<Vocab id="7cef9be5-be2c-46c5-a1dc-07a344c78d3f" word="internship" type="short" status="done">
+  <Topics>
+    <Topic id="39c8d1ce-1a9f-434d-968b-8e96a71f5d8a" value="Education &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5204dd5f-1f96-40c2-84b4-e9a9bb8052fd" ipa="/ˈɪn.tɜːnʃɪp/" vi_ipa="in-tơ-nháp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf06e6c2-cc1e-4533-b537-5a2fc351b76c" type="Noun">
+          <Vi>Khóa thực tập</Vi>
+          <En>A period of time when a student or trainee works in a professional setting to gain experience and skills, often as part of their education.</En>
+          <Example>She completed a three-month internship at a tech startup in San Francisco.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1dc5582b-c5f2-4478-b2e7-203fbd0c48bf">
+              <Vi>Sinh viên làm việc bán thời gian hoặc toàn thời gian tại công ty để học hỏi thực tế.</Vi>
+              <En>A student works full-time or part-time at a company to gain hands-on experience.</En>
+            </Situation>
+            <Situation id="4fe03460-f312-4bf0-9ba4-3347b84e1c30">
+              <Vi>Chương trình thực tập không lương hoặc lương thấp, thường kéo dài từ 3–6 tháng.</Vi>
+              <En>A low- or unpaid program lasting 3–6 months, often required for academic credit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
