@@ -1,0 +1,40 @@
+<Vocab id="01e0cb02-a5d3-4b6a-93bd-e56fbbd4232e" word="thoroughly" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="4def9226-bd9c-4b2b-9364-0d0ce31685f5" value="Work &amp; Productivity" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="969757a1-c8a3-4594-89ce-92a7db48e297" ipa="/ˈθɜː.roʊ.lɪ/" vi_ipa="tho-rơ-lì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="53937678-92f1-4d34-805c-8b3032ed85a7" type="Adverb">
+          <Vi>một cách kỹ lưỡng, triệt để, cẩn thận đến từng chi tiết</Vi>
+          <En>in a detailed and careful way; completely and thoroughly</En>
+          <Example>The inspector thoroughly checked every corner of the building for safety hazards.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5971ee14-b5bf-4f17-9f72-9e8b8b1475dd">
+              <Vi>Liệt kê và kiểm tra từng điểm nhỏ trong một quy trình hoặc công việc để đảm bảo không bỏ sót chi tiết nào.</Vi>
+              <En>Checking or examining every small detail in a process or task to ensure nothing is missed.</En>
+            </Situation>
+            <Situation id="9f05d775-0bed-42a6-8594-356e2d8b2d55">
+              <Vi>Thực hiện một công việc với mức độ tập trung và nỗ lực cao nhất để đạt kết quả tối ưu.</Vi>
+              <En>Carrying out a task with maximum focus and effort to achieve optimal results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
