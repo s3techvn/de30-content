@@ -811,3 +811,4 @@ satellite
 fighter
 authorized
 explorer
+abandoned
