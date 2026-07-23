@@ -1,0 +1,38 @@
+<Vocab id="1f597b3b-fa14-431b-8266-3638c42e2bf0" word="bedroom" type="short" status="done">
+  <Topics>
+    <Topic id="46c7e475-80f6-496e-8da4-52e8dad91aed" value="Home &amp; Living" />
+  </Topics>
+  <Professions>
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0b60c2f7-2c8f-4223-8373-ba5b14de5567" ipa="/ˈbed.rʊm/" vi_ipa="bét-rum">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67885c86-8d86-420c-8307-be8922482082" type="Noun">
+          <Vi>phòng ngủ</Vi>
+          <En>A room used primarily for sleeping, typically containing a bed, wardrobe, and other furniture.</En>
+          <Example>She decorated her bedroom with soft pastel colors and fairy lights.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="70e654d9-47fb-4e0b-a50d-42bcbb87fbbd">
+              <Vi>Mô tả không gian cá nhân trong nhà dành để nghỉ ngơi và ngủ.</Vi>
+              <En>Describes a personal space in a home designated for rest and sleep.</En>
+            </Situation>
+            <Situation id="4a4cc942-e22b-4159-8f58-39dcf9f8ee0e">
+              <Vi>Thương lượng giá thuê khi xem phòng ngủ trong căn hộ chung cư.</Vi>
+              <En>Negotiating rent while viewing a bedroom in an apartment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
