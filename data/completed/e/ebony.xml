@@ -1,0 +1,38 @@
+<Vocab id="a82e2a94-71fb-46f4-9f48-9de173053b26" word="ebony" type="short" status="done">
+  <Topics>
+    <Topic id="1ea9ebcb-40de-4e8b-b502-5079b77670c8" value="Materials &amp; Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="47b6e1cf-93e4-4cda-abb1-4aa13c18f637" value="Woodworker" />
+    <Profession id="a86fcb76-f813-45be-8ef9-469d98fd2201" value="Furniture Designer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38d44cdd-4833-4877-a649-1db6c0760f60" ipa="/ˈiːbəni/" vi_ipa="i-bơ-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96f23f90-9aa2-4211-b64f-45adf5763f64" type="Noun">
+          <Vi>Gỗ trắc đen, gỗ mun (loại gỗ cứng, màu đen tuyền, từ cây ebony)</Vi>
+          <En>A dense, dark black hardwood from the genus *Diospyros*, especially *Diospyros ebenum*, used for fine furniture, musical instruments, and carvings.</En>
+          <Example>The violinist polished the ebony fingerboard with a soft cloth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6b6d5be-2cc8-486a-a920-7858a4f4039b">
+              <Vi>Mô tả vật liệu làm đồ nội thất cao cấp hoặc nhạc cụ.</Vi>
+              <En>Used to describe high-end furniture or musical instrument components.</En>
+            </Situation>
+            <Situation id="18efa54d-42ec-4438-af26-14c1c58b4057">
+              <Vi>Chỉ màu đen rất đậm, gần như hoàn toàn không phản chiếu ánh sáng.</Vi>
+              <En>Refers to an extremely deep, lustrous black color.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
