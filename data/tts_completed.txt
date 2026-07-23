@@ -1197,3 +1197,4 @@ fair
 skating
 weird
 yield
+smith
