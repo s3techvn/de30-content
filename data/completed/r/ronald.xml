@@ -1,0 +1,32 @@
+<Vocab id="c7006959-0c1a-43ee-a29a-bcc1cf593a85" word="ronald" type="short" status="done">
+  <Topics>
+    <Topic id="122cbe32-7956-45ff-a705-c80778e49ab4" value="People &amp; Names" />
+  </Topics>
+  <Professions>
+    <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" value="Historical Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dc1f09cf-af2f-4f0e-be92-43622f0511ee" ipa="/ˈrɑːn.əld/" vi_ipa="rờ-nan-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3cd84889-bcc8-4ddc-98e4-f16d39050bc2" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng cho nam (ví dụ: Ronald Reagan, tổng thống Hoa Kỳ)</Vi>
+          <En>A male given name, notably borne by U.S. President Ronald Reagan.</En>
+          <Example>Ronald Reagan served as the 40th president of the United States.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="92e396c0-8601-481a-9bb3-e07cd794de53">
+              <Vi>Dùng khi nhắc đến cá nhân mang tên Ronald, đặc biệt trong bối cảnh lịch sử hoặc văn hóa đại chúng.</Vi>
+              <En>Used when referring to individuals named Ronald, especially in historical or pop-culture contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

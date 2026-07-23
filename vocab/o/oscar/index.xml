@@ -1,0 +1,50 @@
+<Vocab id="18cc7754-29f4-40a2-ab43-59f33927318b" word="oscar" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="d004051e-491e-4197-b7a8-429bc9b22265" value="Screenwriter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5413fcdc-1f0b-4462-9580-e165e81b18c4" ipa="/ˈɑː.skər/" vi_ipa="ác-sca">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="118ec8c2-2249-4635-985e-9f6ef3a0b054" type="Noun">
+          <Vi>Giải Oscar; tượng vàng (giải thưởng điện ảnh Hoa Kỳ)</Vi>
+          <En>The Academy Award, especially for excellence in film; a golden statuette awarded annually by the Academy of Motion Picture Arts and Sciences.</En>
+          <Example>She won an Oscar for Best Actress for her performance in the drama.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="86137b3a-e3a3-4dab-b8b6-ed27264cf01c">
+              <Vi>Sự kiện trao giải Oscar được truyền hình trực tiếp hàng năm, quy tụ nhiều ngôi sao Hollywood.</Vi>
+              <En>The annual Oscar ceremony, broadcast live, brings together top Hollywood stars and filmmakers.</En>
+            </Situation>
+            <Situation id="ba5d6300-7c05-4d77-b734-934fbe357354">
+              <Vi>Nhà sản xuất hy vọng bộ phim của họ sẽ được đề cử và giành Oscar.</Vi>
+              <En>The producer hopes their film will be nominated and win an Oscar.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="48a35342-4b8c-4356-bbaa-bbf6163bfd73" type="Noun">
+          <Vi>Con sò khổng lồ (tên khoa học: Placopecten magellanicus)</Vi>
+          <En>A large edible scallop, especially the species Placopecten magellanicus, found in the North Atlantic.</En>
+          <Example>The restaurant serves fresh oscar with garlic butter sauce.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80d8b1e9-808f-464c-b010-181726de0b20">
+              <Vi>Nhà hàng chuyên phục vụ hải sản thường có món sò khổng lồ nướng.</Vi>
+              <En>The seafood restaurant often features grilled oscar on its menu.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
