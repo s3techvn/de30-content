@@ -1,0 +1,38 @@
+<Vocab id="315c7e35-ef5e-4e9e-a67a-9a2811ca71c0" word="merry" type="short" status="done">
+  <Topics>
+    <Topic id="68319244-13aa-4e8c-9877-c347b6864187" value="Emotions &amp; Feelings" />
+    <Topic id="3efa25bb-a339-4ed2-9b26-7e69d7a33747" value="Holidays &amp; Celebrations" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="daf61ac6-bb51-405f-9113-1e534dddf143" ipa="/ˈmer.i/" vi_ipa="mơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6b0a60d1-123a-4ded-ae15-e58475474323" type="Adjective">
+          <Vi>vui vẻ, hân hoan, rộn ràng</Vi>
+          <En>feeling or causing happiness and enjoyment; cheerful and lively.</En>
+          <Example>She was in a merry mood and started singing and dancing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd9fb3ab-5956-4a84-8df1-4cb9d6d7a4fb">
+              <Vi>Mô tả trạng thái tinh thần vui vẻ, phấn chấn trong một buổi tiệc hoặc dịp lễ hội.</Vi>
+              <En>Describing a cheerful and joyful emotional state, especially during a party or festive occasion.</En>
+            </Situation>
+            <Situation id="6acfba82-9c6a-429a-acc9-ecfc5722a098">
+              <Vi>Dùng trong cụm từ “Merry Christmas” để chúc mừng Giáng sinh.</Vi>
+              <En>Used in the phrase “Merry Christmas” to wish someone a joyful holiday.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
