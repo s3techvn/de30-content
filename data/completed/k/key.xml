@@ -1,0 +1,96 @@
+<Vocab id="b49e2a1a-b935-49b7-a7a2-1ab5359f3325" word="key" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="d2ff93bb-c143-41b7-8359-c58c8fa9a33e" value="Locksmith" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5921e0f7-ce38-49b6-9cc5-414ca6a0a543" ipa="/ki/" vi_ipa="ki">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="756f181e-b8ec-4d76-852a-ca65168eb0a0" type="Noun">
+          <Vi>Chìa khóa</Vi>
+          <En>A small metal device used to operate locks.</En>
+          <Example>She turned the key in the lock and opened the door.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="192e0f95-a4fb-40f5-b21d-c7e1c172251d">
+              <Vi>Mở cửa nhà, xe máy, hoặc két sắt bằng chìa.</Vi>
+              <En>Using a physical key to unlock doors, motorcycles, or safes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2ac9ef1f-b2b3-4a17-aebc-ca1f05864f94" type="Noun">
+          <Vi>Phím (trên bàn phím)</Vi>
+          <En>A button on a keyboard or musical instrument that triggers a specific action or sound.</En>
+          <Example>Press the 'Enter' key to submit the form.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8b6e19a-3092-4c08-a128-22f583447de2">
+              <Vi>Nhấn phím để nhập dữ liệu hoặc điều khiển máy tính.</Vi>
+              <En>Pressing a key on a keyboard to input data or control a computer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ae237ff5-05be-4dd7-8484-b19c57e198ff" type="Noun">
+          <Vi>Khóa (trong âm nhạc)</Vi>
+          <En>A symbol at the beginning of a musical staff that indicates the pitch of the notes.</En>
+          <Example>The treble clef is a G key, and the bass clef is an F key.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3523cf23-c0c8-43ba-8f07-e1922bf6eff9">
+              <Vi>Biểu tượng khóa nhạc xác định cao độ của nốt nhạc trên pentagram.</Vi>
+              <En>A musical symbol (e.g., treble or bass clef) that determines the pitch range of written notes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8b736278-9fae-46aa-88eb-e5722f52ee94" type="Adjective">
+          <Vi>Quan trọng, then chốt</Vi>
+          <En>Crucial or essential to achieving a desired result.</En>
+          <Example>Communication is the key to a successful relationship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b6b441b-f34c-4e1b-a868-7ba0619f7c24">
+              <Vi>Mô tả yếu tố thiết yếu trong một tình huống hoặc kế hoạch.</Vi>
+              <En>Describing something indispensable or central to success or function.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f7d4438b-edfe-48d3-a17d-aa6907e8aa41" type="Verb">
+          <Vi>Khóa, cài khóa</Vi>
+          <En>To fasten or secure something with a lock or key.</En>
+          <Example>He keyed the door before leaving the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cff257a9-8765-468f-9c69-2bbe075fc2fc">
+              <Vi>Khóa cửa, khóa xe, hoặc khóa thiết bị điện tử.</Vi>
+              <En>Securing a door, vehicle, or electronic device by locking it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="65604f46-a07c-4b31-889d-05682efaf609" type="Verb">
+          <Vi>Gõ phím (máy tính)</Vi>
+          <En>To press keys on a keyboard to enter text or commands.</En>
+          <Example>She keyed in her password and logged in quickly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67418024-0b8d-4d67-bbf6-685aa05f1884">
+              <Vi>Nhập dữ liệu bằng cách gõ phím trên bàn phím.</Vi>
+              <En>Typing information into a computer or device using a keyboard.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
