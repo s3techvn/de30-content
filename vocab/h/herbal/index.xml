@@ -1,0 +1,41 @@
+<Vocab id="ab6cae24-acb6-49fa-a2d8-56d3bf9493bb" word="herbal" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+    <Topic id="37902ff5-42c1-420f-91b2-3c4163566fdc" value="Cooking &amp; Food" />
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+  </Topics>
+  <Professions>
+    <Profession id="84490b98-b0a5-4bfe-8ec5-9b6ebb1efa2c" value="Herbalist" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6d66a9ad-dd9d-452f-a43c-d7c3039d6968" ipa="/ˈhɜːr.bəl/" vi_ipa="hờ-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9d52bf45-9f67-49f6-8c11-6a539e9453e3" type="Adjective">
+          <Vi>thuộc về thảo dược; làm từ thảo dược</Vi>
+          <En>relating to or derived from herbs, especially used in medicine or cooking.</En>
+          <Example>The herbal tea helped soothe her upset stomach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d28eec1-6457-4556-8233-0bf351d51346">
+              <Vi>Mô tả các sản phẩm chứa chiết xuất từ cây cỏ như trà thảo dược, viên nang, hoặc tinh dầu.</Vi>
+              <En>Used when describing products such as herbal teas, capsules, or essential oils made from plants.</En>
+            </Situation>
+            <Situation id="8a68ffff-88fd-4937-8fd5-033bc9803b01">
+              <Vi>Mô tả phương pháp điều trị không dùng hóa dược mà dùng thực vật (ví dụ: y học cổ truyền).</Vi>
+              <En>Used in contexts referring to natural, plant-based remedies, especially in alternative medicine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
