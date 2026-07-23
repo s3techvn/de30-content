@@ -677,4 +677,6 @@
   <Profession id="c6dcfbfc-54b3-4d97-bea0-7f9a4a95396a" slug="food-producer" value="Food Producer" />
   <Profession id="56c56fe0-da50-43b7-b59a-c8f5823e641e" slug="food-industry-worker" value="Food Industry Worker" />
   <Profession id="dcb5eac5-3607-4c3a-b27b-0373898cbf3f" slug="aviation-staff" value="Aviation Staff" />
+  <Profession id="e1a70219-3485-452f-8eb8-0bd241e2d752" slug="wildlife-conservationist" value="Wildlife Conservationist" />
+  <Profession id="78d13aa6-f691-4779-a6f7-4daab8a7d32d" slug="tour-guide-(safari)" value="Tour Guide (Safari)" />
 </Professions>
