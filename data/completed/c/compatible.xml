@@ -1,0 +1,56 @@
+<Vocab id="c515dcd0-4205-47db-86e0-1b964301f460" word="compatible" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e5832307-eb49-4ca9-8790-fc4b97dae0c2" ipa="/kəmˈpæt.ə.bəl/" vi_ipa="cờ-m-pát-tờ-bờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b8e6360d-c4af-4ba8-a2ff-e323e30c28f3" type="Adjective">
+          <Vi>kom-pát, tương thích</Vi>
+          <En>able to exist or function together without conflict; able to work with different systems, devices, or software.</En>
+          <Example>Is this printer compatible with Windows 11?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eec8dfc6-c381-4809-8519-daa9ad60def8">
+              <Vi>Máy in và phần mềm đều hoạt động tốt với hệ điều hành mới.</Vi>
+              <En>The printer and software both work well with the new operating system.</En>
+            </Situation>
+            <Situation id="7ea4a450-5906-4413-88a4-64d3b9ff3c55">
+              <Vi>Hai ứng dụng có thể cài đặt và chạy song song mà không xung đột.</Vi>
+              <En>Two applications can be installed and run simultaneously without conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f7d6959-cf4a-4ec6-9c6f-dc6fc3defa1b" type="Adjective">
+          <Vi>hài hòa, phù hợp (về tính cách, quan điểm)</Vi>
+          <En>in harmony or agreement with someone or something; well-matched in personality or views.</En>
+          <Example>They seem very compatible—same sense of humor and interests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6336985-1f7d-4588-8c88-38410b06cd44">
+              <Vi>Hai người bạn có cùng sở thích và quan điểm sống.</Vi>
+              <En>Two friends share the same hobbies and life perspectives.</En>
+            </Situation>
+            <Situation id="e4f9b414-ecae-472a-95c8-e8db62dd0d9b">
+              <Vi>Cặp đôi được đánh giá là rất hòa hợp về mặt tính cách.</Vi>
+              <En>The couple is considered highly compatible in terms of personality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,34 @@
+<Vocab id="8c33f1db-c848-4980-bb63-efcd896bff80" word="told" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cc484f2d-87fa-43e5-a0cb-63a71c95d18e" ipa="/təʊld/" vi_ipa="tơ-ốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ab4db03d-6e49-4c45-b0ca-5485743abeb8" type="Verb">
+          <Vi>đã nói (quá khứ của tell)</Vi>
+          <En>past tense of 'tell'; to have informed or communicated something to someone</En>
+          <Example>She told me the news yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60c6973f-5f7e-4bef-9c62-23ac22d41e66">
+              <Vi>Một người chia sẻ thông tin hoặc sự thật với người khác.</Vi>
+              <En>A person shares information or a truth with another person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
