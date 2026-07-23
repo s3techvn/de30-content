@@ -1,0 +1,52 @@
+<Vocab id="692897b3-572d-4112-b1ce-5313f610e977" word="warrior" type="short" status="done">
+  <Topics>
+    <Topic id="63bd0914-a3fe-41fa-9f88-91f8531537b0" value="History &amp; Culture" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="eb27a1c7-410d-4da2-9291-63c04a9b268d" value="Fiction &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="da367c8f-a53c-40a6-9383-e566e4b08174" value="Martial Artist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4ab6a754-ca53-46d9-adc4-4f1182dd0c82" ipa="/ˈwɔː.ri.ər/" vi_ipa="oa-ri-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8241e0c5-12ab-4b01-bd03-7cfd7cde8615" type="Noun">
+          <Vi>chiến binh</Vi>
+          <En>A fighter, especially a brave or experienced one; a person engaged or experienced in warfare.</En>
+          <Example>The samurai were legendary warriors of feudal Japan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3edc03f9-aa18-447c-b88d-b80114e59448">
+              <Vi>Mô tả một người dũng cảm, có kinh nghiệm chiến đấu trong các xung đột vũ trang.</Vi>
+              <En>Describes a courageous, experienced fighter in armed conflicts.</En>
+            </Situation>
+            <Situation id="56f4d5e4-c5fb-41d3-9a0b-c7887763cd1f">
+              <Vi>Dùng trong văn học, phim ảnh để chỉ nhân vật chính có kỹ năng chiến đấu cao.</Vi>
+              <En>Used in literature and film to describe a protagonist with high combat skills.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3395ed93-054b-4bbe-aed2-83687601dd3d" type="Noun">
+          <Vi>người đấu tranh kiên cường (cho một lý tưởng)</Vi>
+          <En>A person who fights or struggles vigorously for a cause, belief, or goal.</En>
+          <Example>She is a warrior for environmental justice and has led many protests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="879bb464-b17a-446b-8232-e710ffc89b75">
+              <Vi>Dùng ẩn dụ để ca ngợi người đấu tranh không mệt mỏi cho một mục tiêu cao cả.</Vi>
+              <En>Used metaphorically to praise someone who persistently fights for a noble cause.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
