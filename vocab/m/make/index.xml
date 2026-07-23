@@ -1,0 +1,76 @@
+<Vocab id="5ea8fc3d-8af0-4e38-8843-ce9cde4525a3" word="make" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a42a86a5-b8bd-4ea8-935a-94163c6ff37f" ipa="/meɪk/" vi_ipa="mê-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e4d39f56-a6eb-41df-8422-348ed83237cd" type="Verb">
+          <Vi>làm, tạo ra, chế tạo</Vi>
+          <En>to produce or create something, typically by putting parts together or shaping material</En>
+          <Example>She made a cake for her friend's birthday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21f01235-857d-4bfe-acfd-c5fa26ab1917">
+              <Vi>Chế tạo hoặc tạo ra một vật cụ thể từ các nguyên liệu hoặc bộ phận.</Vi>
+              <En>Producing or constructing a tangible object from materials or components.</En>
+            </Situation>
+            <Situation id="6f47e395-8fea-4a0e-918c-b9b0eacbf3d5">
+              <Vi>Tạo ra một kết quả hoặc hiệu ứng (ví dụ: tiếng ồn, ấn tượng).</Vi>
+              <En>Producing a result or effect (e.g., noise, impression).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8ef35733-f5ce-4d13-a7d1-b4785fce7da6" type="Verb">
+          <Vi>điều khiển, quyết định, gây ra</Vi>
+          <En>to cause something to happen or to determine the course of events</En>
+          <Example>Their decision made all the difference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79050a0a-5755-4741-968d-87c63cf53905">
+              <Vi>Ảnh hưởng hoặc quyết định kết quả của một tình huống.</Vi>
+              <En>Influencing or determining the outcome of a situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d4d496b2-766a-408a-a62f-d591072f69ce" type="Verb">
+          <Vi>đi đến, đạt được (với nỗ lực)</Vi>
+          <En>to reach or arrive at a place, especially after effort or difficulty</En>
+          <Example>We made it to the airport just in time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9daefdcf-98d0-428b-8aaa-37ab2cb81f08">
+              <Vi>Đi đến một địa điểm sau một hành trình hoặc nỗ lực.</Vi>
+              <En>Arriving at a destination after a journey or effort.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a1dc69e4-090c-4ed8-9d0b-847dc753668d" type="Verb">
+          <Vi>đặt (lời nói, lời hứa, v.v.)</Vi>
+          <En>to say or utter something, especially formally or deliberately</En>
+          <Example>He made a promise to help her.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cb96381e-c723-4f45-9b69-378eb288c1e5">
+              <Vi>Nói ra một lời hứa, tuyên bố, hoặc nhận xét.</Vi>
+              <En>Uttering a promise, statement, or remark.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
