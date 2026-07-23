@@ -1,0 +1,52 @@
+<Vocab id="4d61f873-9017-4d0f-91c0-79fc438f0aa3" word="consultation" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="61ab78ec-4ba9-415e-80e6-6d09a553ccb4" ipa="/ˌkɒn.səlˈteɪ.ʃən/" vi_ipa="cơn-sờ-lây-tê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="856eb652-7e73-4d57-b220-1a728a1ad6b0" type="Noun">
+          <Vi>cuộc tham vấn; cuộc tư vấn</Vi>
+          <En>A formal meeting or discussion in which someone seeks advice or expert opinion, especially from a professional such as a doctor, lawyer, or teacher.</En>
+          <Example>The patient had a consultation with the specialist to discuss treatment options.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="22cec7f3-3325-4ce1-8512-3a194dc1f7ce">
+              <Vi>Bác sĩ gặp bệnh nhân để thảo luận về chẩn đoán và phương pháp điều trị.</Vi>
+              <En>A doctor meets with a patient to discuss diagnosis and treatment options.</En>
+            </Situation>
+            <Situation id="af5507b8-03dd-4990-a8b6-d039548578e4">
+              <Vi>Nhà luật tư vấn cho khách hàng về quyền lợi và nghĩa vụ pháp lý.</Vi>
+              <En>A lawyer advises a client on legal rights and obligations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2ce26b35-a3d5-4d44-b0c2-db85c714cf4a" type="Noun">
+          <Vi>sự tham khảo ý kiến; sự tham khảo</Vi>
+          <En>The action of seeking information or advice from a source, such as a reference book or expert.</En>
+          <Example>Before making the final decision, the committee carried out a consultation with stakeholders.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57a528ba-b34a-434c-b070-8f3c7e335e3b">
+              <Vi>Doanh nghiệp tham khảo ý kiến nhân viên trước khi triển khai chính sách mới.</Vi>
+              <En>The company consulted employees before implementing the new policy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
