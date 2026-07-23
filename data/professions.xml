@@ -535,4 +535,5 @@
   <Profession id="2cda9903-8aa3-4698-a281-a55860fdc9f9" slug="transportation-engineer" value="Transportation Engineer" />
   <Profession id="09f812ac-617f-4a9d-bc5a-316fd0fc714c" slug="ophthalmologist" value="Ophthalmologist" />
   <Profession id="44817e93-f60f-4dcc-9e49-31b732af2d11" slug="optometrist" value="Optometrist" />
+  <Profession id="386d74fa-9ac0-46f3-9fd9-04ed8211c629" slug="nonprofit-manager" value="Nonprofit Manager" />
 </Professions>
