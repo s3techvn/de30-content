@@ -1,0 +1,50 @@
+<Vocab id="7ee44df4-8c49-4182-98d5-a58a52a0e05a" word="following" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5926d137-ada5-4f31-8bd4-064ac3718e35" ipa="/ˈfɑː.loʊ.ɪŋ/" vi_ipa="phờ-lô-íng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="22dcbe66-299b-43e5-91cc-e79d2879f861" type="Adjective">
+          <Vi>tiếp theo, sau đây, kế tiếp</Vi>
+          <En>Coming next in time, order, or importance; next in a sequence.</En>
+          <Example>Please read the following instructions carefully before starting the test.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2fd5402-2a63-46c9-ba3c-f5dcc3dd59e8">
+              <Vi>Trong hướng dẫn hoặc bài viết, chỉ phần sẽ xuất hiện ngay sau phần hiện tại.</Vi>
+              <En>In instructions or writing, referring to the section that comes immediately after the current one.</En>
+            </Situation>
+            <Situation id="e64c62f4-9bad-44e8-8571-0f3f7c2291bc">
+              <Vi>Chỉ người hoặc vật đứng ngay sau trong hàng hoặc danh sách.</Vi>
+              <En>Referring to the person or thing that comes immediately after in a line or list.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="83436fa6-e957-4d85-832c-d8da7c96d56e" type="Noun">
+          <Vi>những người sau, những người tiếp theo</Vi>
+          <En>The people who come after someone else, especially in a list, sequence, or group.</En>
+          <Example>The following were present at the meeting: Dr. Lee, Ms. Tran, and Mr. Johnson.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b02158ad-1af8-4d33-a99e-9bc50a6e5b99">
+              <Vi>Danh sách tên được đưa ra sau cụm từ “the following” trong báo cáo hoặc thư từ.</Vi>
+              <En>A list of names introduced by the phrase “the following” in reports or formal correspondence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

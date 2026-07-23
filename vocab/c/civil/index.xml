@@ -1,0 +1,52 @@
+<Vocab id="f6a65dd7-2f08-4825-9057-6d4368ffc7f6" word="civil" type="short" status="done">
+  <Topics>
+    <Topic id="6833da5e-0c9d-4166-adf4-9c639bc08157" value="Law and Society" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" value="Civil Servant" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6fbb70f5-c250-44cb-9235-ba33b93c211c" ipa="/ˈsɪv.əl/" vi_ipa="xí-vờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91d70e6e-26c1-45a8-923b-18de8176e919" type="Adjective">
+          <Vi>thuộc về công chúng, dân sự, không liên quan đến tôn giáo hay quân sự</Vi>
+          <En>relating to ordinary citizens and their concerns, especially as distinct from military or religious matters</En>
+          <Example>The civil authorities coordinated with emergency services during the flood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="555b9bb3-286c-4402-be2f-41466aa2e975">
+              <Vi>Mô tả các cơ quan quản lý nhà nước phục vụ dân chúng, như chính quyền địa phương hay bộ máy hành chính.</Vi>
+              <En>Refers to governmental bodies serving the public, such as local administration or civil service agencies.</En>
+            </Situation>
+            <Situation id="f14549f5-fdc8-4d98-8c57-1877c8f3d953">
+              <Vi>Chỉ các hoạt động hoặc pháp luật liên quan đến quyền công dân, hôn nhân, hợp đồng—không phải hình sự hay tôn giáo.</Vi>
+              <En>Refers to activities or laws concerning civil rights, marriage, contracts—distinct from criminal or religious matters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6c68044f-5a93-4d31-bd14-57c7b88d7ce2" type="Adjective">
+          <Vi>(cũ, ít dùng) lịch sự, tế nhị, lịch lãm</Vi>
+          <En>(archaic) polite, courteous, or refined in manner</En>
+          <Example>He offered a civil reply despite the rude tone of the question.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="a0ea1db9-d460-43be-89c8-0813133a8ae9">
+              <Vi>Mô tả cách ứng xử lịch sự, nhã nhặn trong giao tiếp, thường dùng trong văn chương cổ.</Vi>
+              <En>Describes polite and refined conduct in communication, commonly found in classical literature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
