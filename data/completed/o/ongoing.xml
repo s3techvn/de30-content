@@ -1,0 +1,40 @@
+<Vocab id="e36d35ba-90d6-4289-8e14-871a707c82fe" word="ongoing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e8a8b436-374f-465a-b1c7-f91c218ef7da" ipa="/ˈɑːn.goʊ.ɪŋ/" vi_ipa="ao-n-gơ-úy">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eaed63a1-db05-4dde-9c70-d144f4791c3e" type="Adjective">
+          <Vi>đang diễn ra; đang tiếp diễn; chưa kết thúc</Vi>
+          <En>happening, developing, or being done now and continuing for some time</En>
+          <Example>The company is reviewing its ongoing projects to improve efficiency.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2dbc988f-6b0e-4fe6-822e-50c969ee6ac0">
+              <Vi>Mô tả một sự kiện, dự án, hoặc quá trình vẫn chưa kết thúc và vẫn đang diễn ra.</Vi>
+              <En>Describing an event, project, or process that has not yet finished and is still in progress.</En>
+            </Situation>
+            <Situation id="1fc3b7c9-4a86-417b-bfe0-f4dc38d8ec17">
+              <Vi>Dùng trong báo chí hoặc báo cáo để cập nhật tình hình hiện tại.</Vi>
+              <En>Used in news reports or updates to describe the current status of a situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

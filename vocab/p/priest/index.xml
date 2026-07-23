@@ -1,0 +1,32 @@
+<Vocab id="ceef8c2f-171a-44e9-b680-cd731fdae4e5" word="priest" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="36da7999-4fe6-4985-820a-0c4876004030" ipa="/priːst/" vi_ipa="pơ-rí-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6d5f7c5b-62d1-414f-822b-e3285ee9d4c1" type="Noun">
+          <Vi>linh mục</Vi>
+          <En>A religious leader authorized to perform sacred rituals and administer sacraments, especially in Christian churches such as the Catholic, Orthodox, or Anglican traditions.</En>
+          <Example>The priest delivered a moving sermon during Sunday Mass.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d210e950-700d-44e5-8e34-954be778d893">
+              <Vi>Người đàn ông mặc áo lễ chủ trì thánh lễ và ban phép bí tích.</Vi>
+              <En>A man in liturgical vestments presiding over Mass and administering sacraments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
