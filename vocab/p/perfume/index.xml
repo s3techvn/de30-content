@@ -1,0 +1,54 @@
+<Vocab id="b9ccd8db-6105-4a7a-8933-c963e3c1b963" word="perfume" type="short" status="done">
+  <Topics>
+    <Topic id="eff27404-e6c0-4320-b24d-d66188e7d32e" value="Beauty &amp; Personal Care" />
+  </Topics>
+  <Professions>
+    <Profession id="c107c5ed-a284-406d-8632-b5ebbfd7374a" value="Cosmetologist" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="c70628da-aeb0-4960-a405-b0de919fc9e4" value="Marketing Specialist (Fragrance)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="59c4993a-55e3-4fce-a930-bf8ba250eec6" ipa="/ˈpɜːr.fjuːm/" vi_ipa="pờ-rờ-fiu-mờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad4b8b39-fade-4220-9b93-2e191e101053" type="Noun">
+          <Vi>Nước hoa</Vi>
+          <En>A liquid containing essential oils or other aromatic substances, used to give the body or clothing a pleasant smell.</En>
+          <Example>She sprayed a light mist of jasmine perfume on her wrists before the interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14f8d0ea-3d7d-4048-b043-8d12c4842e16">
+              <Vi>Một người dùng nước hoa để tạo hương thơm cá nhân trong các dịp đặc biệt hoặc hàng ngày.</Vi>
+              <En>A person applying perfume to enhance personal scent for special occasions or daily wear.</En>
+            </Situation>
+            <Situation id="d62c56c0-ad80-4837-a6d2-ce7d43d2e51b">
+              <Vi>Ngành công nghiệp sản xuất và phân phối nước hoa cao cấp.</Vi>
+              <En>The industry involved in manufacturing and distributing high-end fragrances.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="664bc186-f064-4b92-95ed-93ab805dbe5b" type="Verb">
+          <Vi>Thoa nước hoa; làm thơm (vật gì)</Vi>
+          <En>To cover or scent something with perfume.</En>
+          <Example>The florist perfumed the bouquet with a few drops of rose oil.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d86b337-56c9-4997-bf8b-a1bbc40bf6aa">
+              <Vi>Thoa nước hoa lên cổ tay hoặc cổ trước khi ra ngoài.</Vi>
+              <En>Applying perfume to pulse points before going out.</En>
+            </Situation>
+            <Situation id="b44cc9fa-a960-4ff6-a212-351c5f66bda2">
+              <Vi>Làm thơm phòng bằng cách xịt nước hoa lên rèm hoặc thảm.</Vi>
+              <En>Spraying perfume on curtains or carpets to freshen up a room.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
