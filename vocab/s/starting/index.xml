@@ -1,0 +1,44 @@
+<Vocab id="bbab9ba8-35f6-4397-90db-9eb1bcf7c3ce" word="starting" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" value="Any" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="72cb380d-b78b-4cf7-bbaf-dba8af30cf24" ipa="/ˈstɑːr.tɪŋ/" vi_ipa="sờ-ta-ting">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="031198ce-ddc5-4d3a-a0dc-6c3bbb21af93" type="Adjective">
+          <Vi>đang bắt đầu; mới bắt đầu</Vi>
+          <En>beginning or commencing; having just begun</En>
+          <Example>The starting signal was given at precisely 9:00 a.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eda1a920-6aed-43bd-bf51-eef92e4db2fe">
+              <Vi>Mô tả trạng thái mới khởi động, thường dùng để chỉ thời điểm đầu tiên của một hoạt động.</Vi>
+              <En>Describes the state of having just begun, often used to indicate the first moment of an activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="20e5ee8d-9079-4a7b-ad85-71542a3521da" type="Noun">
+          <Vi>sự khởi đầu; điểm xuất phát</Vi>
+          <En>the beginning or point at which something begins</En>
+          <Example>He missed the starting of the race due to traffic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="31563c23-c1d0-47e5-b2ad-47c1e9833042">
+              <Vi>Dùng khi nói về thời điểm hoặc vị trí đầu tiên trong một sự kiện hoặc quá trình.</Vi>
+              <En>Used when referring to the time or location where an event or process begins.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

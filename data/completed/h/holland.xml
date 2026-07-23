@@ -1,0 +1,38 @@
+<Vocab id="ae0e8cd7-c6a0-42a2-afda-04f7d62ab4c0" word="holland" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="46ac2a38-229a-4dd8-a241-7a2e2c5a417e" ipa="/ˈhɒl.ənd/" vi_ipa="hồ-lân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d783f5af-0945-4e21-aa78-3e525c1f6212" type="Noun">
+          <Vi>Hà Lan (tên gọi phổ biến ở Việt Nam cho nước Cộng hòa Hà Lan)</Vi>
+          <En>A country in Northwestern Europe, officially known as the Netherlands; commonly used to refer to the Netherlands, especially in historical or informal contexts.</En>
+          <Example>Many people mistakenly use “Holland” to refer to the entire Netherlands, though it technically only comprises two provinces: North Holland and South Holland.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3fa51e5-bd2d-4c8c-806e-ec34993aa120">
+              <Vi>Người Việt gọi nước Hà Lan khi nói về du lịch, hoa tulip, hoặc pho mát Gouda.</Vi>
+              <En>Used by Vietnamese speakers when discussing travel, tulips, or Gouda cheese associated with the Netherlands.</En>
+            </Situation>
+            <Situation id="2175b6b0-56d4-4747-aebe-2d9ce60bf9be">
+              <Vi>Trong văn cảnh lịch sử, “Holland” thường được dùng để chỉ Cộng hòa Hà Lan thế kỷ 17 – thời kỳ vàng son về thương mại và nghệ thuật.</Vi>
+              <En>In historical contexts, “Holland” often refers to the Dutch Republic of the 17th century—the Golden Age of trade and art.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
