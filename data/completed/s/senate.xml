@@ -1,0 +1,38 @@
+<Vocab id="eefe0b0f-2554-43f0-bd6f-52ac7a6e5317" word="senate" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9db33b4e-951a-490b-a978-756371917de8" ipa="/ˈsen.ət/" vi_ipa="xên-ê-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fabd9664-94fa-4b27-864a-c734844d70f1" type="Noun">
+          <Vi>Thượng viện (ở các quốc gia như Hoa Kỳ, Pháp, Ý...)</Vi>
+          <En>The upper house of a bicameral legislature, especially in countries such as the United States, France, or Italy.</En>
+          <Example>The Senate passed the bill after weeks of debate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f0224ce-f5d4-43bd-b6de-8d76b7c70576">
+              <Vi>Quy trình lập pháp tại quốc hội, nơi các dự luật được thảo luận và bỏ phiếu.</Vi>
+              <En>The legislative process in Congress, where bills are debated and voted on.</En>
+            </Situation>
+            <Situation id="116c5704-fb06-4d42-ba88-c8e52c49bb54">
+              <Vi>Vai trò xác nhận các ứng viên chức vụ cao cấp của tổng thống (ví dụ: bộ trưởng, thẩm phán Tòa án Tối cao).</Vi>
+              <En>The role of confirming presidential appointments to high-level positions, such as cabinet secretaries or Supreme Court justices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

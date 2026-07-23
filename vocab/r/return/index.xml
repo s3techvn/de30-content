@@ -1,0 +1,94 @@
+<Vocab id="383f0f95-5fa4-42cf-9bb3-a4a0d249a611" word="return" type="short" status="done">
+  <Topics>
+    <Topic id="b0a6c86b-eda7-46a8-a2e9-b5f6b7a50a04" value="Travel &amp; Transportation" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="610c64b6-83a1-47b6-b8ba-b46dbd0e43da" value="Airline Staff" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f06c7b2d-330f-4205-a24f-88bd2835ea23" ipa="/rɪˈtɜːrn/" vi_ipa="rị-tờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="591ad564-5bd1-4e71-8de8-fdd57fb6473d" type="Verb">
+          <Vi>trở về, quay lại</Vi>
+          <En>to go or come back to a place, person, or condition</En>
+          <Example>She will return to her hometown next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df4d7e37-532b-4d0e-a14c-6eb0a9640894">
+              <Vi>Di chuyển trở lại nơi đã từng ở hoặc từng đến.</Vi>
+              <En>Moving back to a place one previously lived in or visited.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="67605de2-0bed-4136-a65c-5a68f8285a12" type="Noun">
+          <Vi>sự trở về, vé khứ hồi</Vi>
+          <En>the act of going back; also, a ticket for a journey that includes both going to and returning from a destination</En>
+          <Example>We booked a round-trip ticket with a return flight in two weeks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d939a9d-f60c-4ecb-804d-70181bfcc4f5">
+              <Vi>Trong đặt vé máy bay, chỉ hành trình đi và về.</Vi>
+              <En>In flight booking, refers to a journey that includes both outbound and inbound legs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="15dab840-6654-45ce-bd20-a2607a6ecc56" type="Verb">
+          <Vi>trả lại, hoàn lại</Vi>
+          <En>to give something back to its owner or original place</En>
+          <Example>Please return the book to the library by Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5bc6628-b5f4-4c93-a1a0-71b4b2b42ab7">
+              <Vi>Khi không còn cần dùng, đưa vật lại cho người cho mượn hoặc nơi gốc.</Vi>
+              <En>Giving an item back to its lender or original location when no longer needed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d09d5ea2-78fc-4427-a898-103d98c23d17" type="Noun">
+          <Vi>lợi nhuận, kết quả thu được</Vi>
+          <En>profit or gain, especially from an investment or business activity</En>
+          <Example>The stock offered a high return on investment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f72e246b-e67b-4252-8b3f-afa5f3aba9a3">
+              <Vi>Trong đầu tư, chỉ lợi nhuận đạt được từ vốn bỏ ra.</Vi>
+              <En>In finance, refers to the profit earned from an investment relative to its cost.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5b213ebb-fa2d-4fe1-bf96-fc484b2dc99a" ipa="/ˈrɛtɜːrn/" vi_ipa="rết-tờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d6b3725b-1d3d-44aa-98ef-6db4975ad1bd" type="Noun">
+          <Vi>sự trả lại (hàng hóa, tiền)</Vi>
+          <En>the act of sending goods back to a seller, often for a refund or exchange</En>
+          <Example>The store has a 30-day return policy for unworn clothing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b3af1b81-5d14-448a-be96-68c0968c8f6e">
+              <Vi>Khi mua hàng không ưng ý, mang hàng trả lại cửa hàng.</Vi>
+              <En>When a customer brings purchased items back to the store, usually for refund or replacement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
