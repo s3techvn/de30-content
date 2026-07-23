@@ -1,0 +1,33 @@
+<Vocab id="ccea9ed1-ccfc-4438-97a8-e5d52c6638d0" word="scotia" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a2d72baa-94ef-4a0d-a958-64f3f95f8e1e" ipa="/ˈskoʊ.ʃə/" vi_ipa="sco-ti-a">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e6a7a659-c8b1-49fc-93ec-073f94354d8b" type="Noun">
+          <Vi>Scotia (tên cổ của Scotland)</Vi>
+          <En>The Latin name for Scotland, historically used in scholarly and ecclesiastical contexts.</En>
+          <Example>The medieval manuscript refers to the region as Scotia, long before the modern name Scotland came into common use.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="b84f197b-58ef-4c73-8492-c4e584622e83">
+              <Vi>Sử dụng trong văn bản lịch sử hoặc học thuật để chỉ Scotland thời Trung cổ.</Vi>
+              <En>Used in historical or academic texts to refer to medieval Scotland.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

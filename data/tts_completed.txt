@@ -1726,3 +1726,4 @@ country
 strategy
 mighty
 protecting
+cricket
