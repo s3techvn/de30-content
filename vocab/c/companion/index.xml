@@ -1,0 +1,60 @@
+<Vocab id="00b6b8fb-b23e-46bc-b826-7d10046bcc71" word="companion" type="short" status="done">
+  <Topics>
+    <Topic id="6687dc97-be0f-4585-aa6b-099f6b09fc9c" value="Social Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="6ed9c814-7bc3-4d2b-97b4-e74c5975fdc5" value="Travel Industry" />
+    <Profession id="d851c777-703f-4343-9fd8-9c6359223e9c" value="Healthcare (e.g., caregivers)" />
+    <Profession id="6c78e5ae-4618-4d1a-9aef-4838f7e80f98" value="Military" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4d3e065e-dbe8-46f5-9a76-40ac9af6725f" ipa="/kəmˈpæn.ɪən/" vi_ipa="cơm-pen-ni-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fdd892b6-aa47-4e8c-a29d-9f64b1c8f066" type="Noun">
+          <Vi>đồng hành; bạn đồng hành; bạn đường; bạn thân</Vi>
+          <En>a person who accompanies or spends time with another, especially as a friend or helper</En>
+          <Example>She traveled across Japan with a loyal companion — her childhood friend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e9a01ca3-8f59-46e2-8617-19e5271ed4fe">
+              <Vi>Tình huống: Một người bạn hoặc người giúp việc đồng hành trong chuyến đi hoặc công việc.</Vi>
+              <En>Scenario: A friend or assistant who joins someone on a journey or during work.</En>
+            </Situation>
+            <Situation id="5982fe18-a9f0-412d-a0ef-9cc201b68f2d">
+              <Vi>Tình huống: Động vật nuôi được xem như bạn đồng hành của chủ.</Vi>
+              <En>Scenario: A pet seen as a loyal companion to its owner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d0d70572-c18b-42da-a26a-744cb9514419" ipa="/kəmˈpæn.ɪən/" vi_ipa="cơm-pen-ni-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9d5a6c37-7781-4734-8223-6195c6604668" type="Verb">
+          <Vi>đi cùng; đồng hành với; làm bạn với</Vi>
+          <En>to accompany or spend time with someone, especially in a supportive or friendly way</En>
+          <Example>Could you companion her to the doctor’s appointment tomorrow?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fef6a56d-c75a-452e-8197-5120f1294f25">
+              <Vi>Tình huống: Giúp đỡ người khác bằng cách đi cùng họ trong một hoàn cảnh cụ thể (ví dụ: bệnh viện, sự kiện).</Vi>
+              <En>Scenario: Accompanying someone to provide emotional or practical support, e.g., during a medical visit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

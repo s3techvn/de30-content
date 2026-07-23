@@ -1,0 +1,51 @@
+<Vocab id="c51f04ef-cfe3-45fa-8f7c-d4c9715d3b29" word="loud" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf6f9d66-a37b-4f06-96d7-351b4264d725" ipa="/laʊd/" vi_ipa="lao-đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf12ea37-3263-4186-a538-65a043f70d1f" type="Adjective">
+          <Vi>Ồn ào, to, lớn (âm thanh)</Vi>
+          <En>Producing or capable of producing a high volume of sound; noisy or startlingly loud.</En>
+          <Example>The concert was so loud that my ears rang for hours afterward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eed11839-876d-4b3e-b7a0-f0d9243a7f4a">
+              <Vi>Mô tả âm thanh quá to, gây khó chịu hoặc làm gián đoạn.</Vi>
+              <En>Describing a sound that is excessively loud, causing discomfort or disruption.</En>
+            </Situation>
+            <Situation id="67b03aed-a4ad-4124-bfbb-043d003e1a99">
+              <Vi>Người nói to để được nghe rõ trong môi trường ồn.</Vi>
+              <En>Someone speaking loudly to be heard over background noise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c50d1ced-c877-4cdf-8bea-182daad33c07" type="Adjective">
+          <Vi>Nổi bật, chói mắt (màu sắc, phong cách)</Vi>
+          <En>Strikingly vivid or bright; garish or showy in appearance or style.</En>
+          <Example>She wore a loud shirt with neon stripes and polka dots.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed0b26c6-a652-46b4-b004-4f8b9b55e681">
+              <Vi>Mô tả trang phục hoặc đồ vật có màu sắc quá chói, gây chú ý.</Vi>
+              <En>Describing clothing or objects with overly bright, attention-grabbing colors.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
