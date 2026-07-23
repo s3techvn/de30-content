@@ -1,0 +1,36 @@
+<Vocab id="b3061d7b-3be3-44d4-ba01-325bce7b7c28" word="certificate" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="104adb2a-02a1-4b8b-9474-59866324459a" value="Legal" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f4652da3-e698-4421-9378-54ab02d247cd" ipa="/ˈsɜːr.tə.fət/" vi_ipa="xờ-rờ-tờ-phờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91f1568b-e0af-420f-b04b-2c6412b7b87c" type="Noun">
+          <Vi>giấy chứng nhận, chứng chỉ</Vi>
+          <En>A document that attests to the truth of a fact, qualification, or status.</En>
+          <Example>She received a certificate of completion after finishing the online course.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7e15ce4-7dae-4c21-a91d-2a87dc365be3">
+              <Vi>Giấy do tổ chức có thẩm quyền cấp để xác nhận đã hoàn thành khóa học, đạt tiêu chuẩn kỹ năng, hoặc xác nhận một sự kiện pháp lý.</Vi>
+              <En>A document issued by an authorized body to confirm completion of a course, achievement of a standard, or verification of a legal fact.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
