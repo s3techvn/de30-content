@@ -1,0 +1,40 @@
+<Vocab id="2bb693eb-91c4-4a73-8485-6529faeaab93" word="dominant" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a4d11aa5-d831-4c57-9884-d175aab14e9c" ipa="/ˈdɑː.mɪ.nənt/" vi_ipa="đô-min-ănt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed642e40-2cce-4f3f-b851-e19f0145dc9f" type="Adjective">
+          <Vi>chiếm ưu thế; thống trị; trội hơn</Vi>
+          <En>having or showing a position of power, influence, or control over others; prevailing or most significant in a particular context</En>
+          <Example>The dominant species in the ecosystem is the wolf.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b11d4a8e-6783-46bb-8460-53817ce66aed">
+              <Vi>Mô tả một cá thể, nhóm, hoặc yếu tố vượt trội về quyền lực hoặc ảnh hưởng trong một hệ thống.</Vi>
+              <En>Describes an individual, group, or factor that holds superior power or influence within a system.</En>
+            </Situation>
+            <Situation id="d9fde61c-20bb-4841-a86d-9b418f4d9931">
+              <Vi>Dùng trong sinh học để chỉ alen hoặc đặc điểm biểu hiện mạnh hơn trong cặp gen.</Vi>
+              <En>Used in biology to describe an allele or trait that is expressed over another in a gene pair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
