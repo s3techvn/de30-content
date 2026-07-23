@@ -1,0 +1,32 @@
+<Vocab id="a4f5e952-f0b6-4315-a1d7-19d851e05237" word="yesterday" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d46dc1ef-ca78-43b0-8f9a-03310533da5a" ipa="/ˈjes.tə.deɪ/" vi_ipa="yét-tơ-đê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e799ad6b-230f-4308-a9f2-1fa169cf98a2" type="Adverb">
+          <Vi>hôm qua</Vi>
+          <En>The day before today.</En>
+          <Example>I finished all my homework yesterday evening.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85c74d34-8bf9-4698-aa5a-0532eb51aacd">
+              <Vi>Trong cuộc trò chuyện hàng ngày để nhắc đến sự kiện đã xảy ra vào ngày trước.</Vi>
+              <En>In everyday conversation to refer to an event that occurred the day before today.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
