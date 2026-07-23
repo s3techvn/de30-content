@@ -1,0 +1,48 @@
+<Vocab id="2e6b0391-22a5-4839-bb26-0f65de2a2c86" word="corn" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9ca29cae-b894-45bf-a589-21026f1c5932" ipa="/kɔːrn/" vi_ipa="cọrn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ed199c8-1851-4aec-b9bb-cf0aad7c0520" type="Noun">
+          <Vi>Ngô (ngô ngọt, bắp ngô)</Vi>
+          <En>A cereal plant that produces large grains, or cobs, usually yellow or white, used as food for humans and animals.</En>
+          <Example>She boiled a few ears of corn for dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd2cbe11-33d1-45b1-8507-c30ac4592a03">
+              <Vi>Mô tả việc trồng, thu hoạch, hoặc ăn ngô (bắp).</Vi>
+              <En>Contexts involving growing, harvesting, or eating corn (e.g., at a barbecue or in a soup).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="049c7f1c-8b00-4bd1-a553-54880daafd21" type="Noun">
+          <Vi>Ngô (dạng bột hoặc bột ngô – Mỹ)</Vi>
+          <En>Finely ground dried corn kernels, used in cooking or as animal feed.</En>
+          <Example>He added a spoonful of cornmeal to the batter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fdba795-aa21-437b-89aa-3c9b46c3d138">
+              <Vi>Sử dụng bột ngô trong nấu ăn hoặc chăn nuôi.</Vi>
+              <En>Contexts involving cornmeal in recipes or livestock feed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
