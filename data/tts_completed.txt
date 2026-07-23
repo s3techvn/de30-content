@@ -1859,3 +1859,4 @@ nose
 defence
 perhaps
 cabinet
+control

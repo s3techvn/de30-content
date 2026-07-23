@@ -1,0 +1,92 @@
+<Vocab id="01f9551f-b042-47a8-9dad-76b14560c4e5" word="control" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fa8693c2-25d3-43b8-b217-a143e84d073c" ipa="/kənˈtroʊl/" vi_ipa="cơn-trô-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="119e0968-c049-41f8-b25c-a15d0aee84e6" type="Verb">
+          <Vi>kiểm soát, điều khiển</Vi>
+          <En>to manage or direct the actions, behavior, or operation of something or someone</En>
+          <Example>She controls the robot remotely using a joystick.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ef76d8b-b3d5-4cef-ae34-693ed9b4af67">
+              <Vi>Tình huống một người điều khiển thiết bị hoặc hệ thống từ xa.</Vi>
+              <En>A person operates a device or system from a distance.</En>
+            </Situation>
+            <Situation id="64f4d8a9-3158-42e4-a599-08fd9ea229b0">
+              <Vi>Tình huống một nhà quản lý giám sát và điều chỉnh hoạt động của nhân viên.</Vi>
+              <En>A manager monitors and adjusts employees’ work activities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f51b14b-ddc6-48ad-9e1d-8c42f44d4074" type="Noun">
+          <Vi>sự kiểm soát, sự điều khiển; bộ điều khiển</Vi>
+          <En>the power to influence or direct people’s behavior or the course of events</En>
+          <Example>He lost control of the car during the sudden downpour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="86a4f1bc-eb20-40c7-8f88-6185bb7f3d85">
+              <Vi>Tình huống một người mất khả năng điều khiển phương tiện giao thông.</Vi>
+              <En>A person is unable to steer or stop a vehicle safely.</En>
+            </Situation>
+            <Situation id="a627e2e7-3fd1-4827-a089-7cfe5bcaeb5e">
+              <Vi>Tình huống một tổ chức thiết lập hệ thống kiểm soát chất lượng.</Vi>
+              <En>An organization implements quality assurance procedures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a3f98d92-f120-46f2-a811-566d73c327a8" ipa="/ˈkɑːn.troʊl/" vi_ipa="côn-trô-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f6fe43e6-a2f1-4fda-8c21-e6750a1e56ee" type="Noun">
+          <Vi>bộ điều khiển, thiết bị điều khiển</Vi>
+          <En>a device used to operate or manage a machine or system</En>
+          <Example>The remote control for the TV is missing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="644a5fe7-b76e-4ac6-8b3a-8451b60c91b0">
+              <Vi>Tình huống người dùng dùng bộ điều khiển từ xa để thay đổi kênh TV.</Vi>
+              <En>A user presses buttons on a remote to change the television channel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="91ec3abb-f448-43b7-a625-2eaa47d9be5c" type="Noun">
+          <Vi>mẫu đối chứng (trong thí nghiệm)</Vi>
+          <En>a standard condition or group in an experiment used for comparison</En>
+          <Example>The scientists tested the drug on both the experimental group and the control group.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4bd0c3e-9fd4-4046-9acb-507386a55905">
+              <Vi>Tình huống nhà khoa học so sánh kết quả giữa nhóm dùng thuốc và nhóm dùng giả dược.</Vi>
+              <En>A researcher compares outcomes between a treatment group and a placebo group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
