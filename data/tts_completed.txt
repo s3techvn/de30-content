@@ -1168,3 +1168,4 @@ minimize
 determine
 across
 dow
+french
