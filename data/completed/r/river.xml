@@ -1,0 +1,40 @@
+<Vocab id="6f51d394-d19c-414e-be3d-f03d7406f1cc" word="river" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" value="Hydrologist" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="37507dbc-de4b-4fa5-b397-626934e8f624" ipa="/ˈrɪv.ɚ/" vi_ipa="rít-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="024f63c1-2dae-4737-91e4-b925ccdc0622" type="Noun">
+          <Vi>Sông</Vi>
+          <En>A large natural stream of water flowing in a channel to the sea, a lake, or another river.</En>
+          <Example>The Amazon River is the second-longest river in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bff93689-9c5d-49c2-a106-c497239eb91a">
+              <Vi>Mô tả dòng nước chảy liên tục qua đồng bằng hoặc thung lũng.</Vi>
+              <En>Describes a continuous flow of water through plains or valleys.</En>
+            </Situation>
+            <Situation id="087d2140-6e6e-409c-8dea-b3765e5e377a">
+              <Vi>Cảnh sông uốn lượn giữa núi non hoặc thành phố.</Vi>
+              <En>Depicts a winding river through mountains or a cityscape.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
