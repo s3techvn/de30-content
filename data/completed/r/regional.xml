@@ -1,0 +1,40 @@
+<Vocab id="f6739a85-d6a7-4fce-a215-c089b832518f" word="regional" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="16c64913-53df-4cb1-9d05-71e7a6cb9cf8" ipa="/ˈriː.ʒə.nəl/" vi_ipa="ri-dư-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="61bfa9be-12d6-4a2a-bf15-2f8dea95970c" type="Adjective">
+          <Vi>thuộc về một khu vực; mang tính khu vực</Vi>
+          <En>Relating to or characteristic of a particular region or area.</En>
+          <Example>The regional government approved new infrastructure projects to boost local economies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c16ae7c9-c4f0-4a6a-8a20-195631b44677">
+              <Vi>Mô tả đặc điểm, chính sách, hoặc hoạt động liên quan đến một vùng địa lý cụ thể.</Vi>
+              <En>Describing features, policies, or activities specific to a defined geographical area.</En>
+            </Situation>
+            <Situation id="27a87d7f-d9dd-4026-9208-60f045a3f03b">
+              <Vi>So sánh sự khác biệt giữa các khu vực trong một quốc gia.</Vi>
+              <En>Highlighting differences between different areas within a country.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

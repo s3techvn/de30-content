@@ -1,0 +1,52 @@
+<Vocab id="2cd0590f-d419-4547-80dd-638ac8b17855" word="armed" type="short" status="done">
+  <Topics>
+    <Topic id="460c0182-fe67-4d41-b787-5d1c52de31d4" value="Military &amp; Defense" />
+    <Topic id="c453decf-c164-4f25-8e91-451d63d0475d" value="Safety &amp; Security" />
+    <Topic id="eaa6dce3-1387-4e69-be42-c0d84922cc99" value="Law Enforcement" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="c7b130a2-e9e1-43ff-aed3-b83a5cc55c7b" value="Security Guard" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ac7aa815-2b5b-4483-b4f7-0269b2522857" ipa="/ˈɑːrmd/" vi_ipa="ác-mẹđ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="03de1122-c41b-4785-9d89-54a64f0b26f4" type="Adjective">
+          <Vi>được trang bị vũ khí; mang theo vũ khí</Vi>
+          <En>carrying or equipped with weapons, especially firearms.</En>
+          <Example>The armed police arrived at the scene within minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1cbd45e1-5389-4c77-95a5-a1fabf1b9096">
+              <Vi>Mô tả lực lượng an ninh hoặc binh sĩ đang mang theo súng hoặc vũ khí.</Vi>
+              <En>Describes military or security personnel carrying weapons.</En>
+            </Situation>
+            <Situation id="cae1e4f3-bb9c-4c80-9e42-94be98b85fb3">
+              <Vi>Mô tả tình huống có vũ lực đe dọa hoặc sử dụng vũ khí (ví dụ: cướp có mang súng).</Vi>
+              <En>Describes a situation involving threat or use of weapons (e.g., armed robbery).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="738cf18f-ef6f-494d-abd3-86ae32c8a1fc" type="Adjective">
+          <Vi>được chuẩn bị sẵn sàng (cho hành động, chiến đấu, v.v.)</Vi>
+          <En>prepared or equipped for a particular activity or conflict.</En>
+          <Example>The team was fully armed with the latest technology.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d85748d8-4e75-407d-954a-2985cdf7eb40">
+              <Vi>Mô tả một nhóm hoặc cá nhân đã chuẩn bị kỹ lưỡng cho một nhiệm vụ hoặc thách thức.</Vi>
+              <En>Describes a group or individual fully prepared for a mission or challenge.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
