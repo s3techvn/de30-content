@@ -1,0 +1,58 @@
+<Vocab id="ce041d4a-fda7-4145-8318-77dbd70feff5" word="gospel" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="bd82d7c3-8783-431c-9bec-3d77ec3d2b3b" value="Musician (Gospel Singer)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9c5e04eb-9e08-434e-a3ab-a097d4ec3308" ipa="/ˈɡɑː.spəl/" vi_ipa="gốt-spờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c435cdb6-6ec0-4d3e-9e22-ed9ac6f050f4" type="Noun">
+          <Vi>Tin Mừng (một trong bốn sách đầu của Tân Ước, ghi lại cuộc đời và giáo huấn của Chúa Giêsu)</Vi>
+          <En>The life, teachings, death, and resurrection of Jesus Christ, especially as recorded in the first four books of the New Testament (Matthew, Mark, Luke, and John).</En>
+          <Example>Each of the four Gospels presents a unique perspective on the life of Jesus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9fd9b3c-0dc1-471c-8630-34145fa1b7b3">
+              <Vi>Trong một bài giảng, linh mục trích dẫn đoạn Tin Mừng theo Thánh Luca.</Vi>
+              <En>In a sermon, the priest quotes a passage from the Gospel of Luke.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c0e45234-5129-42df-a469-1b33a4ca28d6" type="Noun">
+          <Vi>Tin mừng (điều gì đó rất quan trọng, đáng tin cậy và được truyền đạt với lòng nhiệt thành)</Vi>
+          <En>A message or belief that someone considers to be fundamentally true and important; a guiding principle or doctrine.</En>
+          <Example>She treats her grandmother’s advice as gospel truth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1f990836-5900-473e-b917-5667dd5525ab">
+              <Vi>Người ta thường nói “gospel truth” để nhấn mạnh sự tin cậy tuyệt đối vào một điều gì đó.</Vi>
+              <En>The phrase “gospel truth” is used to emphasize that something is absolutely trustworthy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="437773e0-45b7-4810-825c-65be57a5cfec" type="Noun">
+          <Vi>Thể loại nhạc Tin Mừng (gospel music)</Vi>
+          <En>A genre of Christian music characterized by dominant vocals, strong rhythms, and themes of faith, redemption, and salvation.</En>
+          <Example>She grew up singing in the church gospel choir.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e14cb47d-0a28-4cf9-88a1-7fe7a9e0f4c7">
+              <Vi>Trong nhà thờ, cộng đồng tín đồ hát những bài hát gospel để thể hiện đức tin.</Vi>
+              <En>In church, the congregation sings gospel songs to express their faith.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
