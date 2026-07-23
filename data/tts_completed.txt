@@ -1295,3 +1295,4 @@ town
 host
 permitted
 ash
+fairly
