@@ -1,0 +1,82 @@
+<Vocab id="2c81915e-461c-4429-a71c-5db638e4ac85" word="abstract" type="short" status="done">
+  <Topics>
+    <Topic id="22a011fe-01a6-4463-840f-30e44c0e6be7" value="Academia" />
+    <Topic id="dcee83b0-7319-4ce3-bb65-f58bd4ef64c6" value="Art" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f30da1a-b85a-4f8e-9708-12a95dd21cb9" ipa="/ˈæb.strækt/" vi_ipa="áp-trắc-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2ca961e4-3a87-412a-8eff-68909b488a9d" type="Adjective">
+          <Vi>trừu tượng</Vi>
+          <En>Existing in thought or as an idea but not having a physical or concrete existence.</En>
+          <Example>The concept of justice is abstract and varies across cultures.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="763e714b-0e99-476c-9e48-0a6e30c25f41">
+              <Vi>Mô tả những khái niệm không thể sờ mó, chỉ tồn tại trong tư duy.</Vi>
+              <En>Describing concepts that cannot be touched and exist only in the mind.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="44b1673f-3b3a-48c7-94c2-043ce8cd36af" type="Adjective">
+          <Vi>khó hiểu, trừu tượng (nói về nghệ thuật)</Vi>
+          <En>(of art) Not representing realistic forms or images; abstract art does not depict objects found in the physical world.</En>
+          <Example>She prefers abstract paintings over realistic portraits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2349c21d-c7d3-4de2-9730-085441a49102">
+              <Vi>Mô tả tranh, tác phẩm nghệ thuật không mô phỏng hình ảnh cụ thể.</Vi>
+              <En>Describing art that does not imitate or represent physical reality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="adba2e4a-549a-45fb-b827-2dd07f4b394e" ipa="/əbˈstrækt/" vi_ipa="ơ-bớt-trắc-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="14a6426d-4b45-4be3-9147-52d0d8669853" type="Verb">
+          <Vi>tóm tắt, khái quát</Vi>
+          <En>To consider something in a general or abstract way, without reference to specific instances.</En>
+          <Example>The professor asked students to abstract the main themes from the novel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37c6b943-1716-49d5-bad0-7086f2842619">
+              <Vi>Trích xuất ý chính hoặc bản chất chung từ một tài liệu hoặc tình huống cụ thể.</Vi>
+              <En>Extracting the essential or general features from a specific case or text.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ebdb12ba-75e1-4adc-9812-6f9451d0d7ef" type="Verb">
+          <Vi>trích xuất, rút ra (thông tin)</Vi>
+          <En>To extract or take something, especially information, from a source.</En>
+          <Example>The software can abstract key data from large databases.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="82fe488a-c43f-4ec8-982b-42adcb1c8ed1">
+              <Vi>Chương trình tự động trích xuất dữ liệu quan trọng từ tập tin lớn.</Vi>
+              <En>A program automatically extracts important data from large files.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
