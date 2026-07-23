@@ -1,0 +1,49 @@
+<Vocab id="626ee426-e528-467f-9dc4-853217c86a7f" word="thrown" type="short" status="done">
+  <Topics>
+    <Topic id="bf96561e-0cf2-4ac0-b067-901fec36d3dd" value="Movement &amp; Action" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3bef4d1d-cb04-4a0f-a62f-938a815b5f33" ipa="/θroʊn/" vi_ipa="thờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35b04434-3589-4983-ad9e-add17335d185" type="Verb">
+          <Vi>quăng, ném (quá khứ và phân từ quá khứ của throw)</Vi>
+          <En>past tense and past participle of "throw"; to propulse something through the air with force using the hand and arm</En>
+          <Example>He threw the ball across the field.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ceedfd1e-63ff-47da-a6b5-ffd5edc3efff">
+              <Vi>Mô tả hành động ném một vật (như bóng, đá, giấy) bằng tay.</Vi>
+              <En>Describes the action of propelling an object (e.g., ball, stone, paper) through the air using the hand.</En>
+            </Situation>
+            <Situation id="ec8f3dda-5748-4e5f-82ff-ce1d245f1428">
+              <Vi>Dùng trong thể thao như ném bóng chày, bóng rổ, hoặc trong xây dựng khi ném gạch, cát.</Vi>
+              <En>Used in sports (e.g., baseball, basketball) or construction (e.g., tossing bricks or sand).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f17f5a82-5f5d-40d3-9137-f048affb9910" type="Adjective">
+          <Vi>bị ném ra, bị vứt bỏ, bị đánh rơi (thường dùng trong cụm "thrown off balance", "thrown into disarray")</Vi>
+          <En>displaced, disrupted, or destabilized unexpectedly; often used in idiomatic expressions</En>
+          <Example>The sudden noise threw her off balance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c349a72e-3eb0-466f-b424-bb3b1041cb03">
+              <Vi>Mô tả trạng thái bị làm mất thăng bằng, bối rối, hoặc gián đoạn (về thể chất hoặc tinh thần).</Vi>
+              <En>Describes a state of physical or mental disruption, confusion, or loss of equilibrium.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

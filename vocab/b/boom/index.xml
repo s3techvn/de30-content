@@ -1,0 +1,56 @@
+<Vocab id="42ab3b7a-8776-4787-b15c-3e8aa255f27e" word="boom" type="short" status="done">
+  <Topics>
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2af49664-e0fe-493f-8bd1-2e405c06711b" ipa="/buːm/" vi_ipa="bùm">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="54bafdc8-a1f6-4948-8b4f-548c1d8c2900" type="Noun">
+          <Vi>Sự bùng nổ; tiếng nổ lớn; giai đoạn tăng trưởng mạnh (kinh tế)</Vi>
+          <En>A loud explosion; a rapid and dramatic increase in activity or prosperity, especially economically</En>
+          <Example>The fireworks boom lit up the night sky.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ff18cea1-d592-4e62-a7f1-a57e35ea1715">
+              <Vi>Mô tả tiếng nổ lớn từ pháo hoa hoặc bom.</Vi>
+              <En>Describing the loud sound of an explosion, such as from fireworks or a bomb.</En>
+            </Situation>
+            <Situation id="e3766ec0-843e-4a2e-b126-76d4a49b9029">
+              <Vi>Giai đoạn bùng nổ kinh tế, ví dụ như "cơn sốt nhà đất".</Vi>
+              <En>A period of rapid economic growth, such as a "housing boom".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b5773cec-2f0a-4701-8189-06516f19d818" type="Verb">
+          <Vi>Bùng nổ; phát ra tiếng nổ lớn; tăng trưởng mạnh (kinh tế)</Vi>
+          <En>To make a loud explosion sound; to grow or develop rapidly, especially in an economic context</En>
+          <Example>The city’s population boomed after the new highway was built.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="909ab329-72bf-4a0e-8654-9df80ea4e346">
+              <Vi>Mô tả âm thanh nổ lớn (giống tiếng sấm hoặc pháo).</Vi>
+              <En>Describing the act of making a loud booming sound, like thunder or a cannon.</En>
+            </Situation>
+            <Situation id="093f8fc7-0bec-4be7-8bbc-dc7cea8abb49">
+              <Vi>Kinh tế tăng trưởng mạnh trong một thời gian ngắn.</Vi>
+              <En>Referring to rapid economic expansion, e.g., "Sales boomed during the holiday season."</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
