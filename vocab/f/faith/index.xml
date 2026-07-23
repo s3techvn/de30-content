@@ -1,0 +1,52 @@
+<Vocab id="a650e47a-bca1-4c30-b9ba-3d78bf717787" word="faith" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="deb86227-66cc-43a0-a79e-09433bd57644" ipa="/feɪθ/" vi_ipa="phây-th">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1f7eb70-f1ec-4677-b5ed-6f939607c2e3" type="Noun">
+          <Vi>niềm tin</Vi>
+          <En>complete trust or confidence in someone or something, especially in a religious or spiritual context</En>
+          <Example>Her faith in humanity was restored after seeing so many volunteers help during the disaster.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="86f94691-1859-4b82-822a-faba661d65f8">
+              <Vi>Tình huống khi một người tin tưởng mạnh mẽ vào một giá trị, lý tưởng, hoặc một đấng thiêng liêng.</Vi>
+              <En>A situation where a person holds strong belief in a value, ideal, or divine being.</En>
+            </Situation>
+            <Situation id="1cc91c3d-3588-4f11-ae70-0994980de4f2">
+              <Vi>Tình huống thể hiện sự tin tưởng không lay chuyển vào khả năng hoặc lời hứa của người khác.</Vi>
+              <En>A situation demonstrating unwavering trust in someone else’s ability or promise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b1489a90-29b3-43ab-a054-317e0b724ca1" type="Noun">
+          <Vi>sự tín ngưỡng; tôn giáo</Vi>
+          <En>a system of religious belief or a specific religious system</En>
+          <Example>He converted to Christianity and embraced the Christian faith.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de3b828b-a3d8-4b21-808e-e5d8d4496608">
+              <Vi>Tình huống nói về một hệ thống tôn giáo hoặc niềm tin tôn giáo cụ thể.</Vi>
+              <En>A situation referring to a specific religious system or belief.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
