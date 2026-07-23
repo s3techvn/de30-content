@@ -1,0 +1,39 @@
+<Vocab id="2180d224-ca86-446a-aee1-c3d13b114ef6" word="nights" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="62b51469-e3ab-4f7f-954f-38ad6667928a" value="Time &amp; Dates" />
+  </Topics>
+  <Professions>
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="20291a6c-da28-4c29-8909-55e1832320a6" value="Shift Worker" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5998d66b-6d8d-47c5-8957-7fe80a6a707d" ipa="/naɪts/" vi_ipa="nái-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c04d062f-f871-423a-a643-45df74a489d1" type="Noun">
+          <Vi>đêm (số nhiều của night)</Vi>
+          <En>plural of night; multiple periods of darkness between sunrise and sunrise</En>
+          <Example>We spent several nights camping under the stars.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c470c5fd-3015-42ae-a2a0-eeaf7ef53f8c">
+              <Vi>Mô tả nhiều đêm liên tiếp, thường trong bối cảnh trải nghiệm, du lịch, hoặc công việc.</Vi>
+              <En>Refers to multiple consecutive or non-consecutive nights, often in travel, work, or personal experiences.</En>
+            </Situation>
+            <Situation id="cbe541b1-b822-4714-a945-f5dfe94603b5">
+              <Vi>Chỉ thời gian làm việc ban đêm (ví dụ: ca đêm kéo dài nhiều đêm).</Vi>
+              <En>Used when referring to multiple night shifts or overnight work periods.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

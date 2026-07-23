@@ -577,4 +577,5 @@
   <Profession id="eb14aa35-6b83-4d49-833c-c77fdeb752bd" slug="space-scientist" value="Space Scientist" />
   <Profession id="8e361acb-0a6c-472a-bec7-6bd2a47870e2" slug="mining-engineer" value="Mining Engineer" />
   <Profession id="c97ecc2f-7770-4964-b989-d98c7d8fd397" slug="military-engineer" value="Military Engineer" />
+  <Profession id="20291a6c-da28-4c29-8909-55e1832320a6" slug="shift-worker" value="Shift Worker" />
 </Professions>
