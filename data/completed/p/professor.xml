@@ -1,0 +1,32 @@
+<Vocab id="19a75d13-581e-4da5-ab64-37a17d931052" word="professor" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8826db85-b8c2-483b-8836-e0b398b2bf15" ipa="/prəˈfɛs.ɚ/" vi_ipa="pờ-rô-fét-xờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c6b48c00-2ffc-4938-89ad-4014f92bbea3" type="Noun">
+          <Vi>giáo sư</Vi>
+          <En>A senior academic who teaches at a university and conducts research.</En>
+          <Example>She was promoted to full professor after publishing several influential papers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71a7aaee-8e13-4b4a-8ff7-746986bf5aa7">
+              <Vi>Người dạy đại học có học vị cao nhất, thường phụ trách nghiên cứu và hướng dẫn sinh viên sau đại học.</Vi>
+              <En>A university academic holding the highest teaching rank, often involved in research and supervising graduate students.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,34 @@
+<Vocab id="de3f6216-ceda-4ad3-9991-8d7ba7c02bcf" word="theology" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="decbc985-1544-4503-a15d-6f6585b8c815" value="Religious Educator" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b0afb849-893a-4b3d-a0ca-fd4cb0852a6f" ipa="/θiˈɒl.ə.dʒi/" vi_ipa="thê-ô-lô-gi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d036809c-3d4d-40c8-9093-1b92b8ea899a" type="Noun">
+          <Vi>Thần học</Vi>
+          <En>The study of religious belief, especially the nature of God and divine beings, and the interpretation of sacred texts and doctrines.</En>
+          <Example>She pursued a PhD in theology after completing her master’s in philosophy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1b5f6989-119b-4396-ae0c-3aefb6fca0d0">
+              <Vi>Môn học chuyên sâu về tôn giáo, thường được giảng dạy tại các trường thần học hoặc đại học có khoa thần học.</Vi>
+              <En>An academic discipline focused on understanding God, religious doctrines, and sacred scriptures through critical and systematic analysis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
