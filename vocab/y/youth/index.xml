@@ -1,0 +1,52 @@
+<Vocab id="c0c1424b-a4c8-46b6-9157-5747e11c90cb" word="youth" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fd3a6298-73c6-4acd-a5e3-455894bae901" ipa="/juːθ/" vi_ipa="giu-th">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9588f0d5-cda1-47e9-8e61-534b158f24b0" type="Noun">
+          <Vi>thanh niên; tuổi trẻ</Vi>
+          <En>The period of life between childhood and adulthood, typically involving physical, emotional, and social development.</En>
+          <Example>Many teenagers struggle with identity during their youth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ea59b44-5402-4b3f-a568-ffadc2943829">
+              <Vi>Giai đoạn từ 13 đến 19 tuổi, khi cơ thể và tâm lý phát triển nhanh chóng.</Vi>
+              <En>The stage from ages 13 to 19, when physical and psychological development occurs rapidly.</En>
+            </Situation>
+            <Situation id="29e92677-1330-404e-aba5-0d2b67f5522c">
+              <Vi>Các hoạt động dành cho thanh thiếu niên do trường học hoặc tổ chức xã hội tổ chức.</Vi>
+              <En>Activities for teenagers organized by schools or social organizations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8381a384-c054-4b43-96e5-0306945afbee" type="Noun">
+          <Vi>nhóm thanh niên (như một cộng đồng hoặc tập thể)</Vi>
+          <En>A group of young people, especially considered collectively or as a social category.</En>
+          <Example>The youth of the city participated in the volunteer clean-up day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4d2f6ae3-5244-42b5-97b4-8a374a89fb7f">
+              <Vi>Chính quyền tổ chức hội nghị để lắng nghe ý kiến của giới trẻ.</Vi>
+              <En>The authorities held a conference to hear the views of the youth.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

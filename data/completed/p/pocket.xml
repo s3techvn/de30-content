@@ -1,0 +1,102 @@
+<Vocab id="482886f1-e170-43e6-b89d-412fb5cf998b" word="pocket" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0fcfd7a2-a43d-443b-965c-a4c26c196fda" ipa="/ˈpɑː.kɪt/" vi_ipa="pốc-két">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6abdb34-cb55-48f8-800d-57952e1870ca" type="Noun">
+          <Vi> túi nhỏ may vào quần áo để đựng đồ cá nhân</Vi>
+          <En> a small bag sewn into or onto clothing, used for carrying small items such as money, keys, or a handkerchief</En>
+          <Example> She pulled her keys from her pocket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8885d427-be1e-496a-b5a4-66dc52191729">
+              <Vi> Người mặc quần áo lấy đồ từ túi áo hoặc túi quần.</Vi>
+              <En> A person retrieves an item from a garment’s pocket.</En>
+            </Situation>
+            <Situation id="0f8ff6f9-893d-451b-a23e-5660a650631d">
+              <Vi> Người may thêm túi vào áo khoác mới.</Vi>
+              <En> A tailor adds pockets to a newly designed jacket.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3f7b62df-7f8b-4d6d-b605-527dc3b00d66" type="Noun">
+          <Vi> (nghĩa bóng) khả năng chi trả, nguồn tiền nhỏ</Vi>
+          <En> (figurative) one’s financial resources or ability to pay; a small fund</En>
+          <Example> The repairs cost more than he had in his pocket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="689325fd-e54c-487f-a6fa-4fe917b63f0d">
+              <Vi> Người mua hàng kiểm tra ví xem có đủ tiền không.</Vi>
+              <En> A customer checks whether they have enough cash on hand.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d69e7d3-911a-4fe1-be82-3af1bb727901" type="Noun">
+          <Vi> (đùa) người được bảo vệ hoặc hỗ trợ đặc biệt</Vi>
+          <En> (humorous) a person who is protected or supported, especially by a powerful individual or group</En>
+          <Example> He’s in the mayor’s pocket—nothing happens without his approval.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="267d464f-4b5b-4515-b081-262ac55f4f1c">
+              <Vi> Báo chí nói rằng doanh nhân có quan hệ thân thiết với quan chức.</Vi>
+              <En> The press claims the businessman is closely aligned with a government official.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="bcc59620-8ee2-4825-8a5d-901399731679" ipa="/pəˈkɛt/" vi_ipa="pờ-két">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d1f0fd14-d853-49ca-9aad-fe32d52e4e20" type="Verb">
+          <Vi> bỏ vào túi (quần áo)</Vi>
+          <En> to put something into a pocket, especially quickly or secretly</En>
+          <Example> He pocketed the change and walked away without saying goodbye.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1cbff58-ba2c-4b81-ac9c-35e554f7fc2d">
+              <Vi> Người bán hàng trả lại tiền thừa và khách hàng bỏ vào túi.</Vi>
+              <En> The shop assistant gives change, and the customer pockets it.</En>
+            </Situation>
+            <Situation id="093e1758-253c-4448-a11d-250eb0e2048f">
+              <Vi> Nhân viên lén bỏ tài liệu vào túi áo.</Vi>
+              <En> An employee secretly slips a document into his jacket pocket.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ddf39a17-9095-4737-ab02-aad931e07e43" type="Verb">
+          <Vi> (nghĩa bóng) giữ riêng, chiếm đoạt (tiền, lợi ích)</Vi>
+          <En> (figurative) to keep something for oneself, especially money or a benefit, often dishonestly</En>
+          <Example> The manager pocketed the extra cash instead of reporting it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39080101-974f-4390-86e2-afd5fd34c528">
+              <Vi> Nhân viên kế toán giữ lại tiền thu hộ công ty.</Vi>
+              <En> An accountant retains funds collected on behalf of the company.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
