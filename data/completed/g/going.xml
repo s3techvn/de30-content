@@ -1,0 +1,56 @@
+<Vocab id="13e527ea-0ff2-4839-9a74-47a74724d67c" word="going" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5946661-c049-4df0-ab58-e16801c9e5d7" ipa="/ˈɡəʊ.ɪŋ/" vi_ipa="gơ-ou-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="005d4225-c3ac-482e-98ef-ef9ac5e2b0ad" type="Verb">
+          <Vi>đi, đến, tiến tới</Vi>
+          <En>to move or travel from one place to another; to proceed toward a destination or goal</En>
+          <Example>She is going to the market this afternoon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6e947fe-3f1b-476d-aa96-1b7b9a42cba2">
+              <Vi>Mô tả hành động di chuyển từ nơi này sang nơi khác.</Vi>
+              <En>Describing physical movement from one location to another.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="490df045-5b34-427c-a660-ad2b871e4329" type="Verb">
+          <Vi>đang xảy ra, đang diễn ra</Vi>
+          <En>used to describe what is happening or existing at the present time</En>
+          <Example>There is a lot of construction going on downtown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3ba40fb-e096-425d-84e9-339de7422584">
+              <Vi>Dùng để nói về tình huống, sự kiện đang diễn ra.</Vi>
+              <En>Used to refer to current events or ongoing processes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fe4d3d08-7da5-4b8b-98ee-87c49515a573" type="Noun">
+          <Vi>sự đi, sự đến; sự tiến triển</Vi>
+          <En>the act of moving toward a place or goal; the process of progressing</En>
+          <Example>His going to the conference was a big opportunity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e445e6c-32d3-4433-8a3d-bb053779f0fd">
+              <Vi>Dùng khi nói về việc một người thực hiện chuyến đi hoặc hành động tiến tới mục tiêu.</Vi>
+              <En>Used when referring to someone’s travel or progress toward a goal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
