@@ -1,0 +1,54 @@
+<Vocab id="4bbf2eb7-ea9a-45e1-af29-727b0ae7bc50" word="sleep" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e21c1a0b-b3bc-4fe4-bff9-96d272d77023" ipa="/sliːp/" vi_ipa="xliːp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1bcf5f41-8230-468d-821e-efc436b18375" type="Noun">
+          <Vi>giấc ngủ</Vi>
+          <En>A state of rest in which the eyes are closed, consciousness is reduced, and the body is inactive.</En>
+          <Example>I need at least seven hours of sleep to feel rested.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e0117b4-002f-4ba9-8d43-2821b8d3e2d5">
+              <Vi>Mô tả thời gian nghỉ ngơi của cơ thể mỗi ngày.</Vi>
+              <En>Describing the daily period of bodily rest.</En>
+            </Situation>
+            <Situation id="1254cb0a-c48d-4f28-bb47-cb39bdb34269">
+              <Vi>Khi một người bị thiếu ngủ do làm việc khuya.</Vi>
+              <En>When someone is sleep-deprived due to late-night work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2bc4e041-e08a-4a21-8ed5-98269bc204d4" type="Verb">
+          <Vi>ngủ</Vi>
+          <En>To rest in a state of reduced consciousness, typically with eyes closed and body inactive.</En>
+          <Example>She slept through the entire movie without realizing it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bc9f455-02c1-434e-af35-371596694c08">
+              <Vi>Hành động đi vào trạng thái nghỉ ngơi ban đêm.</Vi>
+              <En>The act of entering a nocturnal rest state.</En>
+            </Situation>
+            <Situation id="db4727a9-ada9-4859-afc7-02f7228d70c1">
+              <Vi>Ngủ gật trong lớp học hoặc cuộc họp.</Vi>
+              <En>Falling asleep during class or a meeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

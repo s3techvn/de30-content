@@ -1,0 +1,56 @@
+<Vocab id="15417839-d1f4-41e7-bc5f-d02ae701eaf1" word="divide" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7eb77900-e93e-4c4a-b369-2a76992bb77e" ipa="/dɪˈvaɪd/" vi_ipa="đi-vây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3df6ac1f-7407-4dac-b7fa-73317eeb8a7a" type="Verb">
+          <Vi>Chia, phân chia</Vi>
+          <En>To separate something into parts, especially by cutting, splitting, or using arithmetic.</En>
+          <Example>She divided the cake into eight equal slices.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0d9858e4-10c5-42ff-87e9-a4f45ae39b79">
+              <Vi>Phân chia một vật thể vật lý thành nhiều phần.</Vi>
+              <En>Splitting a physical object into multiple parts.</En>
+            </Situation>
+            <Situation id="870c7f43-faa7-45d2-8bb5-488d011959ce">
+              <Vi>Thực hiện phép chia trong toán học.</Vi>
+              <En>Performing division in arithmetic (e.g., 12 ÷ 3 = 4).</En>
+            </Situation>
+            <Situation id="f1c28eab-6d7b-43ee-89c4-884379f4d3ab">
+              <Vi>Phân chia công việc hoặc trách nhiệm giữa các thành viên.</Vi>
+              <En>Distributing tasks or responsibilities among team members.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ddbc11a1-88b2-4686-b86e-c618f96b6069" type="Verb">
+          <Vi>Làm chia rẽ, gây chia cắt</Vi>
+          <En>To cause disagreement or separation between people or groups.</En>
+          <Example>Policies on taxation continue to divide public opinion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fde64b96-2ffc-4710-85af-29c246a61f9c">
+              <Vi>Một vấn đề gây ra bất đồng trong một nhóm hoặc xã hội.</Vi>
+              <En>An issue that creates disagreement or conflict within a group or society.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
