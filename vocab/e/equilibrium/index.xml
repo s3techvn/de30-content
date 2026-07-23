@@ -1,0 +1,42 @@
+<Vocab id="a15fe02f-0a41-49ab-8b7d-bc1369b9f321" word="equilibrium" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="0020764d-94e5-43da-a39c-0289e2af9ef4" value="Economics" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7b45155-bb35-4e9f-8228-7cbc65ae12a0" ipa="/ˌiː.kwɪˈlɪb.ri.əm/" vi_ipa="i-cu-i-lí-bơ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3cfcb21e-b285-4bdb-98a9-30efa8e591ef" type="Noun">
+          <Vi>Cân bằng</Vi>
+          <En>A state in which opposing forces or influences are balanced, resulting in no net change; stability.</En>
+          <Example>The chemical reaction reached equilibrium when the forward and reverse rates became equal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01373779-889c-46c1-acd3-daaaf776312b">
+              <Vi>Một hệ thống vật lý hoặc hóa học không thay đổi theo thời gian do các lực hoặc quá trình cân bằng nhau.</Vi>
+              <En>A physical or chemical system that shows no net change over time because opposing processes are balanced.</En>
+            </Situation>
+            <Situation id="441ae295-981e-4116-9ed3-8cdb62bc7d21">
+              <Vi>Tình trạng ổn định trong kinh tế khi tổng cung bằng tổng cầu.</Vi>
+              <En>A state of economic stability when aggregate supply equals aggregate demand.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
