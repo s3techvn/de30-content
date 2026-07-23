@@ -1,0 +1,40 @@
+<Vocab id="a6da179d-10fa-4687-af39-7dd5766d977f" word="criteria" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08be65dc-ac08-4dac-8b75-f48f4c35aa77" ipa="/ˈkrɪt.ər.i.əz/" vi_ipa="cơ-tê-ri-ơ-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3297ccb7-4a71-44d2-9d20-f371fee070cf" type="Noun">
+          <Vi>Các tiêu chuẩn (dùng để đánh giá hoặc so sánh)</Vi>
+          <En>Plural of criterion; standards or principles used to judge, evaluate, or make decisions</En>
+          <Example>The selection committee will use strict criteria to review all applications.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c7ff66c-1737-4fb9-bbd5-3447c513d36a">
+              <Vi>Quyết định tuyển sinh dựa trên các tiêu chuẩn rõ ràng.</Vi>
+              <En>Deciding admissions based on clearly defined criteria.</En>
+            </Situation>
+            <Situation id="a8adafca-65bc-433e-a49b-542a6ee523a0">
+              <Vi>Nhà nghiên cứu xây dựng các tiêu chuẩn đánh giá hiệu quả của thuốc.</Vi>
+              <En>The researcher established criteria to evaluate the drug’s effectiveness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
