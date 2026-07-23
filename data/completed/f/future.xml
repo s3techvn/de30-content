@@ -1,0 +1,56 @@
+<Vocab id="fe86b5ca-6220-4cd8-aa8a-ef2abfc81bce" word="future" type="short" status="done">
+  <Topics>
+    <Topic id="b66887d3-a1fd-49c6-9db2-42e1ac2dd225" value="Time and Events" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="b65f8485-e4cb-41b4-b6aa-2e9aef8ba570" value="Strategic Planner" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee726096-44c0-4d5a-b316-352255bb5e5b" ipa="/ˈfjuː.tʃɚ/" vi_ipa="phì-u-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="361055a0-203c-4c74-a641-85ebc08abc43" type="Noun">
+          <Vi>Tương lai</Vi>
+          <En>The time that is yet to come; events or conditions that will exist or occur after the present.</En>
+          <Example>We are making plans for the future.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="00daba4a-780f-4aa4-aeaf-3670050568e3">
+              <Vi>Câu chuyện về dự báo thời tiết, kế hoạch tài chính, hoặc mục tiêu cá nhân.</Vi>
+              <En>Discussions about weather forecasts, financial planning, or personal goals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="abdd782d-4a84-4124-977a-f5a88f82c924" ipa="/ˈfjuː.tʃɚ/" vi_ipa="phì-u-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3895af38-bdca-40f8-ac3f-2477c6b7e34c" type="Adjective">
+          <Vi>Tương lai</Vi>
+          <En>Relating to or occurring in the time to come; not yet present or developed.</En>
+          <Example>She enrolled in a future studies program.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c01f827-50fc-4ae8-9d60-2df4023144e5">
+              <Vi>Mô tả một sự kiện, công nghệ, hoặc xu hướng chưa xảy ra nhưng được dự đoán.</Vi>
+              <En>Describing an event, technology, or trend that has not yet happened but is anticipated.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

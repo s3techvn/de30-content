@@ -555,4 +555,5 @@
   <Profession id="82574671-f387-484a-b342-e00c5923501e" slug="mortician" value="Mortician" />
   <Profession id="8448d274-ee36-4c64-bcdc-c4bc3bdc2107" slug="potter" value="Potter" />
   <Profession id="9686b4e0-0ba5-4f78-a870-3c6333625767" slug="sculptor" value="Sculptor" />
+  <Profession id="b65f8485-e4cb-41b4-b6aa-2e9aef8ba570" slug="strategic-planner" value="Strategic Planner" />
 </Professions>
