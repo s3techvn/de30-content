@@ -786,4 +786,5 @@
   <Profession id="4c441d82-d4c8-46b2-b8e0-1d4baba3668e" slug="geriatric-caregiver" value="Geriatric Caregiver" />
   <Profession id="f00f03f5-34ba-4594-8670-b3a331160b23" slug="orthopedic-surgeon" value="Orthopedic Surgeon" />
   <Profession id="f0d23590-2eb2-414e-b599-edfcbaa91a5f" slug="cognitive-psychologist" value="Cognitive Psychologist" />
+  <Profession id="1370b29e-6726-4c54-b1c8-dd25172397c9" slug="selection-committee-member" value="Selection Committee Member" />
 </Professions>
