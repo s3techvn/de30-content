@@ -1,0 +1,57 @@
+<Vocab id="f9154789-a4b1-4143-b643-9a583bb5de4e" word="aid" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="14180251-57bc-478b-8b8c-e907239ceedf" value="Emergency" />
+    <Topic id="f8618328-c944-4fe6-841e-4518d9d0bdde" value="International Relations" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="20ee581e-e02a-43b5-b693-1e0c5b8c353b" value="Humanitarian Worker" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d454b751-5659-4444-80ff-3e1d0e00bd41" ipa="/eɪd/" vi_ipa="ê-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8b205cc8-9def-4803-97b4-09f57f3a9fc1" type="Noun">
+          <Vi>hỗ trợ; sự cứu giúp; cứu trợ</Vi>
+          <En>Assistance or support, especially of a practical or financial nature, given to someone in need.</En>
+          <Example>The government sent medical aid to the disaster-stricken region.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8d48cef-72b4-4255-800d-a587bb6e2606">
+              <Vi>Tình huống cung cấp cứu trợ y tế sau thiên tai.</Vi>
+              <En>Scenario of providing medical assistance after a natural disaster.</En>
+            </Situation>
+            <Situation id="b63fbc61-2ed5-4b30-98b5-6c5c08dff04e">
+              <Vi>Tình huống một tổ chức phi chính phủ gửi viện trợ nhân đạo.</Vi>
+              <En>Scenario of a non-governmental organization sending humanitarian aid.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6e94326b-4273-4cca-90a5-1f2af0538ae0" type="Verb">
+          <Vi>giúp đỡ; cứu giúp; hỗ trợ</Vi>
+          <En>To help or support someone, especially in a difficult situation.</En>
+          <Example>She aided the injured hiker by calling for emergency services.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ecd2071-2dce-4bfe-b5bf-0f6af4b4818c">
+              <Vi>Tình huống giúp đỡ người bị thương trong tai nạn.</Vi>
+              <En>Scenario of assisting an injured person after an accident.</En>
+            </Situation>
+            <Situation id="2f433cd1-f435-4e4e-a5a3-01f8ed05b5bb">
+              <Vi>Tình huống hỗ trợ đồng nghiệp hoàn thành dự án khẩn cấp.</Vi>
+              <En>Scenario of helping a colleague complete an urgent project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
