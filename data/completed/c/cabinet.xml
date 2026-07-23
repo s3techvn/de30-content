@@ -1,0 +1,47 @@
+<Vocab id="7781f34f-45d6-4137-81af-d3db873d8741" word="cabinet" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="e8a54817-5982-4255-b668-45b8342255e6" value="Furniture" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="5b778dd5-4fe8-4049-9a7f-39365dc58fd4" value="Cabinetmaker" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cd45bc7f-cb10-4be1-b8d2-efc5a5d99bd7" ipa="/ˈkæb.ɪ.nət/" vi_ipa="cáp-bi-nết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad77c189-4c97-4f23-aaee-c7a6af52afc3" type="Noun">
+          <Vi>Bộ trưởng (trong nội các)</Vi>
+          <En>A group of senior government ministers, typically headed by a prime minister or president, who collectively make key policy decisions.</En>
+          <Example>The cabinet met behind closed doors to discuss the new economic policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a12536ac-1755-40e4-b901-27bcfacf4181">
+              <Vi>Các bộ trưởng họp nội các để thông qua quyết định quan trọng.</Vi>
+              <En>Senior ministers gather to deliberate and approve major national policies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e0aa5261-7a4d-444d-a9f7-4278d53d9582" type="Noun">
+          <Vi>Tủ (đựng đồ, sách, đồ dùng…)</Vi>
+          <En>A piece of furniture with shelves, drawers, or compartments for storing or displaying items.</En>
+          <Example>She kept her spices in a small cabinet near the stove.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a3e3678a-3c02-406e-aae7-ecf0094a2d23">
+              <Vi>Tủ chứa đồ dùng trong nhà bếp hoặc phòng khách.</Vi>
+              <En>A storage unit used in kitchens or living rooms to hold everyday items.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
