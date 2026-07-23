@@ -1,0 +1,32 @@
+<Vocab id="1c9b29bb-d231-44ba-b11e-a1d5af0780e0" word="goes" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1f7f0efe-7fc8-4959-a453-909e1c14f566" ipa="/ɡəʊz/" vi_ipa="gơ-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9fcdad6e-9806-483b-910f-1535c1630bed" type="Verb">
+          <Vi>đi (ngôi thứ ba số ít hiện tại đơn của "go")</Vi>
+          <En>third-person singular present tense of "go"; used to indicate movement from one place to another by the subject (he/she/it)</En>
+          <Example>She goes to school by bus every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ece94c81-b90e-4173-ae87-8a66149b3d60">
+              <Vi>Mô tả hành động di chuyển thường xuyên hoặc có kế hoạch của một người (chủ ngữ là ngôi thứ ba số ít).</Vi>
+              <En>Describes a habitual or planned movement of a third-person singular subject (he/she/it).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
