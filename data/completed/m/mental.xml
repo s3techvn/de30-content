@@ -1,0 +1,53 @@
+<Vocab id="6af1f151-c8ad-40b6-a136-37210f35ea4d" word="mental" type="short" status="done">
+  <Topics>
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="9d5ccbec-274a-4c14-a0a4-8722f30fd634" value="Psychiatrist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="ba3ae16d-5822-45c9-b795-22d059b32f28" value="Neurologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ef19cd18-0dcc-4bb6-9628-c8eb91b3f438" ipa="/ˈmen.təl/" vi_ipa="mên-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9ea495fb-7a9c-40a5-ae0c-897771493af9" type="Adjective">
+          <Vi>thuộc về trí tuệ, tinh thần, tâm trí</Vi>
+          <En>relating to the mind, especially in contrast to the body</En>
+          <Example>She struggled with mental health issues during her final year of university.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ca916788-00ee-4981-9d6f-83d15c1e95fa">
+              <Vi>Mô tả các vấn đề liên quan đến tâm lý, cảm xúc, hoặc chức năng nhận thức.</Vi>
+              <En>Used when discussing psychological well-being, cognitive function, or emotional states.</En>
+            </Situation>
+            <Situation id="69ba9efc-d6de-4a9b-b6db-aa88ab3a1068">
+              <Vi>Mô tả khả năng tư duy, trí thông minh, hoặc hoạt động trí óc.</Vi>
+              <En>Used to describe intellectual abilities, reasoning, or mental performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5bbb140d-9cf4-45bd-8386-723b9151b824" type="Adjective">
+          <Vi>điên, bất thường (thường dùng trong ngữ cảnh không trang trọng, đôi khi mang tính xúc phạm)</Vi>
+          <En>informal and often offensive: mentally ill or irrational</En>
+          <Example>Don’t be so mental—just listen to reason!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f42eb4e3-1000-467e-b0dc-067e0514dd19">
+              <Vi>Ngữ cảnh nói chuyện thân mật, châm biếm (thường ở Anh, Úc), dùng để chỉ ai đó hành xử kỳ lạ.</Vi>
+              <En>Used colloquially (especially in British/Australian English) to describe someone acting strangely or irrationally.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
