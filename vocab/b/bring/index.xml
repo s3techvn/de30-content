@@ -1,0 +1,64 @@
+<Vocab id="cb2926cf-bfec-479a-a09e-b957d4dfdee7" word="bring" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="82748ee3-5c9f-4545-90ea-19d0604f89f2" ipa="/brɪŋ/" vi_ipa="bơ-ríng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5ad41db2-7303-449e-b335-3c1120f8767e" type="Verb">
+          <Vi>mang, đưa, dẫn</Vi>
+          <En>to carry or take something or someone to a place or person, especially from a distance</En>
+          <Example>Can you bring your laptop to the meeting tomorrow?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4fd41e77-bc70-4573-a482-0db3f0278fec">
+              <Vi>Tình huống khi bạn mang theo đồ vật từ nơi này sang nơi khác, thường từ xa đến gần.</Vi>
+              <En>Scenario where you carry or transport an item from one location to another, typically from a farther to a closer place.</En>
+            </Situation>
+            <Situation id="6d08f8c9-67f2-427e-9b89-71609b1f3d32">
+              <Vi>Tình huống dẫn người khác đến một địa điểm cụ thể.</Vi>
+              <En>Scenario where you accompany or escort someone to a specific location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2f6be638-c302-4a07-aed6-8adae0095a50" type="Verb">
+          <Vi>gây ra, dẫn đến (một cảm xúc, tình huống)</Vi>
+          <En>to cause something to happen or exist; to produce a particular result or effect</En>
+          <Example>The new policy brought about significant changes in the company.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7eeea33c-6ce2-4513-a8a8-e98d2258231a">
+              <Vi>Tình huống mô tả việc một hành động hoặc sự kiện gây ra kết quả hoặc cảm xúc cụ thể.</Vi>
+              <En>Scenario where an action or event triggers a specific outcome or emotion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="903d8c0d-fd42-4fcc-90bd-8f37f00e8a75" type="Verb">
+          <Vi>đề cập, nêu ra (vấn đề, ý tưởng)</Vi>
+          <En>to mention or introduce a topic or issue in conversation or discussion</En>
+          <Example>She brought up the issue of climate change during the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a306bb92-64d4-42da-8cac-5842563a1c66">
+              <Vi>Tình huống khi bạn nêu một chủ đề hoặc vấn đề trong cuộc trao đổi.</Vi>
+              <En>Scenario where you introduce or raise a topic during a conversation or discussion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
