@@ -1,0 +1,40 @@
+<Vocab id="b8d408dd-067f-4fba-b716-2f162c0a552c" word="frequently" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="16d7ee6b-a66f-4d4d-bb7a-2e010b9ab0dd" ipa="/ˈfrek.wənt.li/" vi_ipa="phrê-cu-ên-t-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="69411f3c-c53f-49a9-86b6-a74f279a3846" type="Adverb">
+          <Vi>thường xuyên, thường xuyên xảy ra, thường xuyên làm</Vi>
+          <En>Happening or done often; repeatedly or many times.</En>
+          <Example>She frequently visits her grandparents on weekends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e9f0547-0600-47c2-8ee5-90a1edb199ab">
+              <Vi>Mô tả hành động xảy ra nhiều lần trong một khoảng thời gian ngắn hoặc định kỳ.</Vi>
+              <En>Describes an action that occurs many times over a short period or at regular intervals.</En>
+            </Situation>
+            <Situation id="a2ad32b9-7d3c-4fbe-be21-bcb80b0d5507">
+              <Vi>Dùng để nhấn mạnh tần suất cao hơn mức trung bình trong giao tiếp hoặc làm việc.</Vi>
+              <En>Used to emphasize a higher-than-average frequency in communication or work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
