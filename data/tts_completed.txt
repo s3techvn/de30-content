@@ -1236,3 +1236,4 @@ percentage
 isolation
 edge
 cry
+thin

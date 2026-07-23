@@ -1,0 +1,72 @@
+<Vocab id="1726ba29-42e4-44b7-a94d-e9ed52c5b378" word="thin" type="short" status="done">
+  <Topics>
+    <Topic id="7e88c57c-ebc0-4170-a3cb-2eace7c10764" value="Appearance &amp; Body" />
+    <Topic id="091596f8-fe2f-46f0-b326-e63dc3b11af6" value="Food &amp; Cooking" />
+    <Topic id="445d2392-8309-47a6-8fb2-31ad746dd6f9" value="Materials &amp; Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="58c6442f-55fe-4941-9b19-5e01a822d5ab" ipa="/θɪn/" vi_ipa="thin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3b95dcdc-9b87-4327-9739-11092c79865f" type="Adjective">
+          <Vi>mỏng</Vi>
+          <En>having a small distance between two opposite surfaces or sides; not thick.</En>
+          <Example>The paper is so thin that you can see through it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46dbbcd9-0f30-42d9-8a31-d4bc7df4d407">
+              <Vi>Mô tả vật có độ dày nhỏ (giấy, vải, kính, bánh tráng).</Vi>
+              <En>Describing an object with minimal thickness (paper, fabric, glass, rice paper).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3882ad63-522c-44c1-8537-6f2c45d56957" type="Adjective">
+          <Vi>gầy (người)</Vi>
+          <En>(of a person) having little body fat or flesh; slim.</En>
+          <Example>She’s very thin—she needs to eat more to gain some weight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cdf651dc-90be-4fec-b1a4-6681aac3b994">
+              <Vi>Mô tả người có thân hình gầy, thiếu mỡ.</Vi>
+              <En>Describing a person with little body fat or muscle mass.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b42b1cf3-4d48-4c22-b1b1-e9041ecbad43" type="Adjective">
+          <Vi>thưa thớt, ít (sự hiện diện, mật độ dân số, v.v.)</Vi>
+          <En>(of people or things) sparse or scattered; not dense.</En>
+          <Example>There was a thin crowd at the event.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="653d6ddf-6dda-4db8-8e1e-f5515c9d4665">
+              <Vi>Mô tả số lượng người hoặc vật ít ỏi, không đông.</Vi>
+              <En>Describing a small or sparse number of people or objects present.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b9e2890f-cf2f-4c5a-bb30-98a29624a617" type="Adjective">
+          <Vi>nhạt (nước soup, nước canh, nước sốt)</Vi>
+          <En>(of a liquid, especially soup or sauce) lacking richness or strength of flavor; watery.</En>
+          <Example>The soup was too thin—add more vegetables or a thickener.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a42c784-4b8b-42d4-87bb-1e155bc09429">
+              <Vi>Mô tả món ăn lỏng, thiếu độ sánh và hương vị đậm đà.</Vi>
+              <En>Describing a soup or sauce that lacks body and flavor intensity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
