@@ -1,0 +1,38 @@
+<Vocab id="163b4f56-c76f-4048-bd43-bf6f22672dc4" word="maiden" type="short" status="done">
+  <Topics>
+    <Topic id="0a7c3adf-0442-42ea-9e7b-6141b9b9aa36" value="Social &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="8426b177-e9ff-4cdc-86ef-a2ebde8e75f2" value="Wedding Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ec6138db-5dfe-418a-b779-4b869439acc0" ipa="/ˈmeɪ.dɪn/" vi_ipa="mê-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="68d50d6a-74f3-4461-9d06-8e1bffdf7683" type="Adjective">
+          <Vi>trinh nữ; chưa từng kết hôn; lần đầu tiên</Vi>
+          <En>never having been married; first-time, especially in a formal or traditional context.</En>
+          <Example>She wore a white gown as the bride, and her bouquet was made of maiden’s blush roses.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="50cd7059-228c-4649-8022-7ab3e7afe31b">
+              <Vi>Mô tả một cô dâu chưa từng kết hôn trong lễ cưới truyền thống.</Vi>
+              <En>Describing a bride who has never been married in a traditional wedding ceremony.</En>
+            </Situation>
+            <Situation id="5979dfae-a71f-43a7-8502-ad3f2e09530d">
+              <Vi>Dùng trong tên gọi các sự kiện, địa danh hoặc vật phẩm lần đầu tiên (ví dụ: maiden voyage).</Vi>
+              <En>Used in names of first-time events, locations, or objects (e.g., maiden voyage).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
