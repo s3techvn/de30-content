@@ -1,0 +1,41 @@
+<Vocab id="809dc68e-cd71-4412-9537-a44a366747fc" word="precise" type="short" status="done">
+  <Topics>
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+    <Topic id="f33fb4ac-e3a7-4ec1-89ab-a7aed895e5c4" value="Science &amp; Engineering" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6f031d3d-342b-4c56-a62a-cc9de4fda17a" ipa="/prɪˈsaɪs/" vi_ipa="pơ-rây-sây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="11fba5a7-ff5a-4075-96fe-a72a7c52a006" type="Adjective">
+          <Vi>chính xác; đúng đắn, không sai lệch chút nào</Vi>
+          <En>exact, accurate, and careful, especially in details or measurements</En>
+          <Example>The scientist recorded the data with precise measurements to ensure reproducibility.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dca12732-3c0c-4bc2-b399-67d2c3b59f54">
+              <Vi>Mô tả một kết quả đo đạc hoặc báo cáo có độ chính xác cao, không sai lệch.</Vi>
+              <En>Describing a measurement, report, or instruction that is exact and free from error.</En>
+            </Situation>
+            <Situation id="7eb4bedc-26eb-490a-999d-12e5f9d907fb">
+              <Vi>Dùng khi yêu cầu hoặc đánh giá sự rõ ràng, rõ ràng đến từng chi tiết nhỏ.</Vi>
+              <En>Used when describing or requesting clarity and detail in instructions, descriptions, or definitions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

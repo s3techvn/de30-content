@@ -1,0 +1,52 @@
+<Vocab id="fbdeba12-298b-4f46-bbac-99eb3583cc03" word="brilliant" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25a810af-f902-4515-b142-a4b0b386fedf" ipa="/ˈbrɪl.jənt/" vi_ipa="bờ-rờ-lí-ân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eb1a844a-6b8b-4ed8-9a36-3d55c7f4eb86" type="Adjective">
+          <Vi>giỏi giang, xuất sắc, thiên tài</Vi>
+          <En>exceptionally clever, talented, or impressive; showing great intelligence or skill.</En>
+          <Example>She gave a brilliant presentation that impressed everyone in the room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="085cef25-a287-4ccc-94e1-2c39bbb04ccf">
+              <Vi>Mô tả một người có tư duy nhanh nhạy và giải quyết vấn đề một cách xuất sắc.</Vi>
+              <En>Describing a person who thinks quickly and solves problems with exceptional skill.</En>
+            </Situation>
+            <Situation id="7df54f74-4c5d-4c76-9c8f-2e1b682c8294">
+              <Vi>Dùng để khen ngợi một ý tưởng, sản phẩm, hoặc thành tựu nổi bật.</Vi>
+              <En>Used to praise an idea, product, or achievement that stands out as outstanding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="165ccbf5-150f-4fa4-b504-c315e5dc77a4" type="Adjective">
+          <Vi>sáng chói, rực rỡ (ánh sáng)</Vi>
+          <En>shining brightly; radiant or dazzling (of light or color).</En>
+          <Example>The diamond sparkled with a brilliant white light.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b7f0a850-21c9-4419-8674-c7b948499880">
+              <Vi>Mô tả ánh sáng mặt trời, đèn, hoặc vật phát sáng mạnh.</Vi>
+              <En>Describing intense, dazzling light from the sun, lamps, or luminous objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
