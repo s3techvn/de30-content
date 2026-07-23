@@ -1,0 +1,32 @@
+<Vocab id="977fa65e-f0d9-4c6a-98e0-1ce823a734d1" word="nat" type="short" status="done">
+  <Topics>
+    <Topic id="dfed52f7-5c85-4b1d-bd4c-076ed3a06285" value="Slang &amp; Informal" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e1735f5-84fe-49b6-ade4-44ecf4960eb9" ipa="/næt/" vi_ipa="nát">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff0a4c2e-397e-445b-a50f-b07366db9b70" type="Noun">
+          <Vi>việc gì đó rất nhỏ, không đáng kể; điều nhỏ nhặt</Vi>
+          <En>a trivial or insignificant thing; a tiny amount</En>
+          <Example>He didn’t give it a nat of thought.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="215941d7-f25f-46c0-8fdd-5c36827e9e1d">
+              <Vi>Dùng trong văn nói để nhấn mạnh sự vô giá trị hoặc không quan trọng của điều gì đó.</Vi>
+              <En>Used in informal speech to emphasize how insignificant or trivial something is.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
