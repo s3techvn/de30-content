@@ -1,0 +1,36 @@
+<Vocab id="5f1e15bb-0cca-44a2-a656-f7ffc98c3771" word="sister" type="short" status="done">
+  <Topics>
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="1036f2f2-076f-4026-922f-5a87eea7973b" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c56149f2-8b58-46da-939c-0d9ad1dfc521" ipa="/ˈsɪs.tər/" vi_ipa="sít-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b47cac97-af88-470e-a6f4-7f677e05784e" type="Noun">
+          <Vi>chị, em gái (con gái cùng cha mẹ hoặc cùng cha hoặc cùng mẹ)</Vi>
+          <En>a female who has the same parents as another person; a female sibling</En>
+          <Example>My sister and I share the same birthday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b435b00-bd82-4239-be8e-9805f4f4aab1">
+              <Vi>Gọi người cùng cha mẹ hoặc cùng cha/mẹ với mình là chị hoặc em gái.</Vi>
+              <En>Referring to a female sibling, either older or younger.</En>
+            </Situation>
+            <Situation id="559a379e-9f53-44bc-99e6-2e0d1ee06bd2">
+              <Vi>Dùng trong nghĩa bóng để chỉ người cùng tổ chức, nhóm, hoặc có mối quan hệ thân thiết như anh chị em.</Vi>
+              <En>Used figuratively to refer to a close female friend or fellow member of a group (e.g., "sisterhood").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
