@@ -1,0 +1,38 @@
+<Vocab id="b2ef7113-a543-477e-bf95-1caf0d1754ef" word="poem" type="short" status="done">
+  <Topics>
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="2058a1eb-4d99-4a77-8d78-b63cfe742d92" value="Teacher (Literature)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b240e8e4-41df-47df-b908-b4ee834348a6" ipa="/ˈpoʊ.ɪm/" vi_ipa="pô-ím">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96a9f4e3-e3de-4933-acf3-ef56b91889c3" type="Noun">
+          <Vi>Bài thơ</Vi>
+          <En>A piece of writing in which language is used for its aesthetic and evocative qualities, often with rhythm, rhyme, and imagery.</En>
+          <Example>She recited her favorite poem at the school talent show.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bafb10c9-270c-425d-82cb-2aca98b9b6a9">
+              <Vi>Một người sáng tạo hoặc trình bày văn chương ngắn, giàu hình ảnh và cảm xúc.</Vi>
+              <En>A literary work expressing feelings or ideas through condensed, rhythmic language.</En>
+            </Situation>
+            <Situation id="0383ce58-d6a1-4c09-9be4-7b50f640e2d5">
+              <Vi>Được dùng trong giảng dạy văn học hoặc thi ca.</Vi>
+              <En>Commonly studied in literature classes and recited at poetry readings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
