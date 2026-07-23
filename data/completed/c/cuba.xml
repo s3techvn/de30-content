@@ -1,0 +1,38 @@
+<Vocab id="237880de-6666-4a3f-a951-e15df31a51cd" word="cuba" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b8ac67b-c429-4a23-9c3e-09517364d063" ipa="/ˈkuː.bə/" vi_ipa="cú-ba">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="11f0d622-1026-4306-9fc7-27518b4a1ea1" type="Noun">
+          <Vi>Cuba</Vi>
+          <En>A country located in the Caribbean, consisting of the main island of Cuba and several smaller islands; the largest island in the Caribbean.</En>
+          <Example>Cuba is known for its rich history, vibrant music, and famous cigars.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3f32def-a0ab-480f-81db-549ed41df28c">
+              <Vi>Đất nước Caribbean nổi tiếng với rượu rum, điếu xì gà, và điệu nhảy salsa.</Vi>
+              <En>A Caribbean nation famous for rum, cigars, and salsa dancing.</En>
+            </Situation>
+            <Situation id="e3ea891c-7ca9-423a-959a-6d09d8ab2224">
+              <Vi>Đi du lịch đến Havana, thủ đô của Cuba.</Vi>
+              <En>Traveling to Havana, the capital city of Cuba.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
