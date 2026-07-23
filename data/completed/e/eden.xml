@@ -1,0 +1,40 @@
+<Vocab id="519dc08d-5258-4d11-8285-35bf97dc1d32" word="eden" type="short" status="done">
+  <Topics>
+    <Topic id="2bbdd041-0917-4f53-a2e0-faee56525cc4" value="Religion &amp; Mythology" />
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+    <Topic id="92ed484f-1a79-49f6-baa8-abe2390ace99" value="Nature &amp; Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" value="Literary Critic" />
+    <Profession id="892e1ea8-7006-4c46-93c4-2eac259cb784" value="Artist / Illustrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5e107a27-59cb-4297-941e-9bf31f72af74" ipa="/ˈiː.dən/" vi_ipa="i-dơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf22ba62-fbdd-4380-87ec-696c74c43d05" type="Noun">
+          <Vi>Thiên Đàng, Vườn Địa Đàng</Vi>
+          <En>The biblical garden where Adam and Eve lived before their expulsion; a place of idyllic beauty, peace, and happiness.</En>
+          <Example>According to the Book of Genesis, God placed Adam and Eve in the Garden of Eden.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d97403b5-ad70-4d31-90de-944975f49c61">
+              <Vi>Tham khảo trong Kinh Thánh, mô tả nơi sống ban đầu của loài người trước khi phạm tội.</Vi>
+              <En>Referenced in the Bible, describing the original dwelling place of humanity before the Fall.</En>
+            </Situation>
+            <Situation id="855a7aa2-aba5-4b0d-bca7-af94aa94accd">
+              <Vi>Dùng ẩn dụ để chỉ một nơi hoàn hảo, yên bình như thiên đường trên trần gian.</Vi>
+              <En>Used metaphorically to describe a place of perfect peace and beauty, like paradise on earth.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -531,4 +531,5 @@
   <Profession id="d851c777-703f-4343-9fd8-9c6359223e9c" slug="healthcare-(e_g_,-caregivers)" value="Healthcare (e.g., caregivers)" />
   <Profession id="6c78e5ae-4618-4d1a-9aef-4838f7e80f98" slug="military" value="Military" />
   <Profession id="ea99cf92-8a09-47da-9cef-548ea15d98f8" slug="laboratory-technician" value="Laboratory Technician" />
+  <Profession id="892e1ea8-7006-4c46-93c4-2eac259cb784" slug="artist-/-illustrator" value="Artist / Illustrator" />
 </Professions>
