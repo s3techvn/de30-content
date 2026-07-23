@@ -1,0 +1,40 @@
+<Vocab id="881eea69-07b5-4146-964f-c2a2011a67b4" word="deferred" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9a7753de-a816-4f49-a18c-ffa3fe11d350" ipa="/dɪˈfɜːrd/" vi_ipa="đi-phờ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af0f863d-3f27-4116-a2ab-1321da536ab0" type="Adjective">
+          <Vi>Bị hoãn lại, bị dời lại</Vi>
+          <En>Postponed or delayed until a later time or date.</En>
+          <Example>The exam has been deferred until next month due to the holiday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08babf1d-b33f-4337-8b5b-e9530fd9e8a3">
+              <Vi>Thời điểm ban đầu được lên kế hoạch nhưng bị hoãn vì lý do khách quan.</Vi>
+              <En>A scheduled event or action is postponed due to unforeseen circumstances.</En>
+            </Situation>
+            <Situation id="75067e85-f8b3-4312-9c40-af5dd242c46d">
+              <Vi>Trong tài chính: nghĩa vụ thanh toán được dời sang một ngày sau.</Vi>
+              <En>In finance: a payment obligation is scheduled for a later date.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
