@@ -1,0 +1,38 @@
+<Vocab id="636b6d6e-dd8f-4261-86ea-842e472248e5" word="medieval" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="403f1f04-973c-4aef-aa7a-48c69fa59265" ipa="/ˌmiː.diˈiː.vəl/" vi_ipa="mi-đi-í-ven">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3404c09-af29-4ab7-a153-9682dcd19507" type="Adjective">
+          <Vi>thuộc thời Trung cổ (khoảng thế kỷ V đến thế kỷ XV ở châu Âu)</Vi>
+          <En>relating to the Middle Ages, the period in European history from the 5th to the late 15th century</En>
+          <Example>The castle features medieval architecture with thick stone walls and narrow windows.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4865d3b4-b592-4ce8-af2c-9aa11de34cf2">
+              <Vi>Mô tả kiến trúc, văn hóa, hoặc xã hội châu Âu trong thời kỳ Trung cổ.</Vi>
+              <En>Describing architecture, culture, or society in Europe during the Middle Ages.</En>
+            </Situation>
+            <Situation id="187bde1c-024f-4336-8dbc-f2954b252f1c">
+              <Vi>Dùng trong bối cảnh học thuật hoặc văn học để chỉ các yếu tố lịch sử từ thời Trung cổ.</Vi>
+              <En>Used in academic or literary contexts to refer to historical elements from the Middle Ages.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
