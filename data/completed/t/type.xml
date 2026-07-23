@@ -1,0 +1,48 @@
+<Vocab id="ca74bcc2-0a06-490e-929d-8bb1f87cabcf" word="type" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="fb30e8db-0172-47a7-bd2e-12e0546e66e7" value="Secretary" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6f19ffdc-9ed4-4cf5-b209-851651b3eebd" ipa="/taɪp/" vi_ipa="tái-p">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="87e1e459-cc16-49f4-b5cc-8469508d9b50" type="Noun">
+          <Vi>kiểu, loại, mẫu</Vi>
+          <En>a kind, variety, or category of something</En>
+          <Example>This car is a rare type of vintage model.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc2b2709-4940-49f1-9102-8485794b19a4">
+              <Vi>Mô tả sự khác biệt giữa các nhóm đối tượng.</Vi>
+              <En>Describing differences among groups of objects or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="781dc092-30aa-41d2-8e89-4047101b8130" type="Verb">
+          <Vi>gõ (máy), nhập liệu</Vi>
+          <En>to enter text on a keyboard or typewriter</En>
+          <Example>She typed the report in under an hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee626a2e-9936-43ba-89be-7e3d687800e9">
+              <Vi>Hành động sử dụng bàn phím để ghi lại nội dung văn bản.</Vi>
+              <En>The action of using a keyboard to record text.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

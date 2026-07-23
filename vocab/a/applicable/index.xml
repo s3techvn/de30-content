@@ -1,0 +1,40 @@
+<Vocab id="f18eadd8-aeec-48d3-a7b0-77a6113b1601" word="applicable" type="short" status="done">
+  <Topics>
+    <Topic id="f1a31a36-0586-4ac1-aab7-ccffeac85d1c" value="Law and Regulations" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6f195da5-d853-4b59-a839-145c88f6cf3f" ipa="/əˈplɪ.kə.bəl/" vi_ipa="ơ-đờ-pli-cơ-bờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06a9121d-3c51-4aab-b800-84e273c81a46" type="Adjective">
+          <Vi>Áp dụng được; có thể áp dụng (vào một tình huống, quy định, v.v.)</Vi>
+          <En>Relevant or applicable in a particular situation; capable of being applied.</En>
+          <Example>The new safety regulations are applicable to all employees, including contractors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd4a5963-715c-450a-a6f4-5b5d6011a225">
+              <Vi>Một quy định, chính sách, hoặc điều khoản có thể được áp dụng vào một trường hợp cụ thể.</Vi>
+              <En>A rule, policy, or clause that can be applied to a specific case or context.</En>
+            </Situation>
+            <Situation id="d78bf66d-ddf3-4d31-8442-148f8a28d6d5">
+              <Vi>Trong tranh luận hoặc phân tích, khi một lập luận hoặc bằng chứng có liên quan và có thể sử dụng được.</Vi>
+              <En>In an argument or analysis, when a point or evidence is relevant and usable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
