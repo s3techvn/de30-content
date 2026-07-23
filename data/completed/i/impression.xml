@@ -1,0 +1,52 @@
+<Vocab id="0080134e-ad0c-4ef6-90d0-0cd2c856b71e" word="impression" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d1eb01e-efc7-45a5-82c8-51999169a792" ipa="/ɪmˈpreʃ.ən/" vi_ipa="im-prê-xi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1728cbf-88c6-4833-9b45-715b25a96576" type="Noun">
+          <Vi>Ấn tượng (cảm giác, nhận thức ban đầu về ai/cái gì)</Vi>
+          <En>A feeling or opinion about someone or something, especially one formed on the basis of limited information or initial experience.</En>
+          <Example>She made a strong impression on the interview panel with her confidence and preparation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02a94d02-fd74-4e67-9e97-3b9639916426">
+              <Vi>Mô tả cảm giác đầu tiên khi gặp người mới hoặc trải nghiệm mới.</Vi>
+              <En>Describing the initial feeling or perception formed during first encounters or experiences.</En>
+            </Situation>
+            <Situation id="e743ea71-cd66-4e6a-964c-2c11d2285b12">
+              <Vi>Trong nghệ thuật, chỉ hiệu ứng thị giác hoặc cảm xúc mà một tác phẩm gây ra.</Vi>
+              <En>In art, refers to the visual or emotional effect a work evokes in the viewer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="345a8ff4-2314-404a-81ee-6d32e4d62a78" type="Noun">
+          <Vi>Dấu ấn, vết in (vật lý)</Vi>
+          <En>A mark or shape left on a surface by pressure; a physical imprint.</En>
+          <Example>The mud left an impression on the clean floor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d95b72b-5e05-4579-976f-c9d3c7d504df">
+              <Vi>Khi bàn tay ấn xuống bột mì hoặc đất sét để lại hình dạng.</Vi>
+              <En>When a hand presses into flour or clay and leaves a shape.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
