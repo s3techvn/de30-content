@@ -1,0 +1,40 @@
+<Vocab id="72a80630-f35f-4294-a0ff-19d1be93e817" word="accordingly" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="a37eac3c-5e22-419c-bf51-db77dc668a99" value="Business Communication" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b657fd52-f30e-469a-af36-9bcc4f18d7f3" ipa="/əˈkɔːr.dɪŋ.li/" vi_ipa="ơ-ka-đờ-in-đờ-li">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fafc3210-375a-44ca-8b87-acde0654164d" type="Adverb">
+          <Vi>theo đó, một cách tương ứng, một cách phù hợp</Vi>
+          <En>In a manner that is appropriate or logical in relation to something else; as a consequence or result.</En>
+          <Example>She adjusted her schedule accordingly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4372574-e64b-469c-95a2-a10e0af59bb2">
+              <Vi>Điều chỉnh hành động hoặc quyết định dựa trên thông tin hoặc điều kiện đã nêu.</Vi>
+              <En>Modifying one’s actions or decisions based on previously stated information or conditions.</En>
+            </Situation>
+            <Situation id="4470c924-fd7b-4991-b2cd-94cf172bc210">
+              <Vi>Phản ứng phù hợp với một tình huống hoặc yêu cầu cụ thể.</Vi>
+              <En>Responding in a way that is appropriate to a specific situation or request.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
