@@ -1,0 +1,34 @@
+<Vocab id="26bef11a-e251-40d2-87d2-c2306dccd1f0" word="acre" type="short" status="done">
+  <Topics>
+    <Topic id="73a99193-91e0-4533-a216-58f58a7ee514" value="Land and Property" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0eee60ae-3bb4-44d6-ab19-745603b53229" ipa="/ˈeɪ.kɚ/" vi_ipa="ê-ke-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4403d6f6-7dc4-470c-80f3-84be3d99d5b8" type="Noun">
+          <Vi>ac (đơn vị diện tích)</Vi>
+          <En>A unit of area equal to 43,560 square feet or 4,840 square yards, commonly used for measuring land, especially in the United States and the United Kingdom.</En>
+          <Example>The farm spans 50 acres of fertile farmland.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b12584cc-b951-4dac-b2a9-77164b456cef">
+              <Vi>Mô tả diện tích đất nông nghiệp, đất xây dựng, hoặc khu dân cư.</Vi>
+              <En>Used when describing the size of agricultural land, residential plots, or commercial developments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
