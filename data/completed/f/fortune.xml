@@ -1,0 +1,52 @@
+<Vocab id="5e5fbfd5-0a51-436d-b4cc-34632ece728d" word="fortune" type="short" status="done">
+  <Topics>
+    <Topic id="a8fff98c-89da-4e20-aa53-31a40ea4e85a" value="Life &amp; Events" />
+    <Topic id="3cf971d9-1243-4a91-89dc-856ccc578e1b" value="Business &amp; Finance" />
+    <Topic id="50c233b1-3c7c-4e69-8a0d-11d4102c01d3" value="Superstition &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" value="Investor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="37a26ac6-2422-433d-b21e-19b277613a4d" ipa="/ˈfɔːr.tʃuːn/" vi_ipa="pho-tchuyn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a33116cb-d643-466f-a193-6908cf73a094" type="Noun">
+          <Vi>Số phận may mắn; tiền bạc, của cải lớn (thường là do may mắn)</Vi>
+          <En>Good luck or success, especially as determined by chance; a large amount of money, especially one acquired unexpectedly or through luck.</En>
+          <Example>She inherited a small fortune from her grandfather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ae4ed4e-fa9f-441a-8c5c-4f841d54e62b">
+              <Vi>Mô tả một người may mắn nhận được tiền bạc hoặc thành công bất ngờ.</Vi>
+              <En>Describes someone who unexpectedly receives wealth or achieves great success.</En>
+            </Situation>
+            <Situation id="b6ca173c-4535-42a9-a061-fb182cdaefe6">
+              <Vi>Dùng trong thành ngữ “make a fortune” hoặc “lose a fortune”.</Vi>
+              <En>Used in idioms such as “make a fortune” or “lose a fortune”.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a4a84867-01bf-4db0-873b-baea2fc9d2fd" type="Noun">
+          <Vi>Tương lai, vận mệnh (thường trong ngữ cảnh bói toán)</Vi>
+          <En>Future events or destiny, especially as revealed by fortune-telling.</En>
+          <Example>The fortune teller predicted a bright future for him.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b18ee80-2851-4c16-900c-577f0b7f6f6f">
+              <Vi>Cảnh cảnh bói toán, xem tử vi, dự đoán tương lai.</Vi>
+              <En>Context of fortune-telling, astrology, or divination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
