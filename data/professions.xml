@@ -562,4 +562,6 @@
   <Profession id="72d2fce5-1b70-409a-8117-c4cdea581d0d" slug="car-salesperson" value="Car Salesperson" />
   <Profession id="b02a7582-08b1-4523-b2be-bbe64caf97e6" slug="drug-trafficker" value="Drug Trafficker" />
   <Profession id="afbc6c46-b288-4603-91a1-ce797b57768f" slug="maple-syrup-producer" value="Maple Syrup Producer" />
+  <Profession id="3c4cc1d5-00d7-4630-8424-c2758b816232" slug="immigration-officer" value="Immigration Officer" />
+  <Profession id="c759fe86-ba95-47bf-b9fb-ce6450fccfd0" slug="customs-agent" value="Customs Agent" />
 </Professions>

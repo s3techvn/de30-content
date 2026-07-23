@@ -1,0 +1,54 @@
+<Vocab id="3ff64869-2fe8-4f2d-ba38-cc8ba90ffc6c" word="sap" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="0aa381a1-0fa1-4bcc-823b-b40031ccb362" value="Forester" />
+    <Profession id="afbc6c46-b288-4603-91a1-ce797b57768f" value="Maple Syrup Producer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="657eeb71-082f-45ed-acde-f8eda3c12b9d" ipa="/sæp/" vi_ipa="sép">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d082d0a8-1620-49a1-9add-f034d0b31974" type="Noun">
+          <Vi> nhựa cây</Vi>
+          <En>the fluid, often viscous, that circulates in the vascular system of a plant, especially xylem or phloem sap</En>
+          <Example>Maple syrup is made by boiling down maple sap.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e91d630e-31f9-499e-8046-9ef4524354be">
+              <Vi>Cây tiết ra nhựa để chữa lành vết thương.</Vi>
+              <En>A tree exudes sap to heal a wound.</En>
+            </Situation>
+            <Situation id="8c8cd587-0011-488e-8b67-316bfd54b6fa">
+              <Vi>Nhựa thông được thu hoạch để sản xuất turpentine.</Vi>
+              <En>Pine sap is harvested to produce turpentine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d51eac2d-f1d9-425b-ba8e-48d790adcaa4" type="Verb">
+          <Vi> làm cạn kiệt, làm suy yếu (người hoặc sức lực)</Vi>
+          <En>to drain the strength, energy, or vitality of someone or something; to weaken gradually</En>
+          <Example>The illness began to sap his strength over several weeks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7bb281b-a63e-4f70-b09a-1c75a8dfc1e3">
+              <Vi>Căng thẳng kéo dài có thể làm cạn kiệt tinh thần.</Vi>
+              <En>Chronic stress can sap one’s mental energy.</En>
+            </Situation>
+            <Situation id="ce004c7a-9aab-46ac-bd58-44ca87db871e">
+              <Vi>Những cuộc họp vô bổ làm cạn kiệt thời gian và sự tập trung của nhóm.</Vi>
+              <En>Unproductive meetings sap the team’s time and focus.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,34 @@
+<Vocab id="f15f97aa-d849-492a-a7b0-9531d6256ce1" word="illegal" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="3c4cc1d5-00d7-4630-8424-c2758b816232" value="Immigration Officer" />
+    <Profession id="c759fe86-ba95-47bf-b9fb-ce6450fccfd0" value="Customs Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="67f1017e-f765-4b1b-9650-b78bf6d5d635" ipa="/ɪˈliː.ɡəl/" vi_ipa="i-lì-lơ-gờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="05455e38-a8ca-4249-bc77-cf248e1474d1" type="Adjective">
+          <Vi>pháp lý; bất hợp pháp; bất hợp lệ</Vi>
+          <En>not authorized by law; unlawful.</En>
+          <Example>They were arrested for entering the country with illegal documents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="538fcc29-c201-4148-97d5-4424a5130474">
+              <Vi>Hoạt động hoặc vật phẩm vi phạm luật pháp, bị pháp luật cấm.</Vi>
+              <En>An activity or item that violates the law and is prohibited by legal authorities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
