@@ -1,0 +1,86 @@
+<Vocab id="8292e20e-dd16-4c16-8b7e-fcf4b4804fa7" word="fair" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c84ddb19-5a82-4b78-bb35-4443af43f581" ipa="/fer/" vi_ipa="phờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08262eac-9a06-40c6-8cca-870ffde5619e" type="Adjective">
+          <Vi>Công bằng; hợp lý; không thiên vị</Vi>
+          <En>Treating people equally without bias or discrimination; just and impartial.</En>
+          <Example>The judge ensured a fair trial for the defendant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4dcb7766-97c4-4f8e-b6ef-52647b67281b">
+              <Vi>Một quyết định được đưa ra dựa trên bằng chứng và không bị ảnh hưởng bởi cảm xúc hay lợi ích cá nhân.</Vi>
+              <En>A decision made based on evidence and not influenced by personal feelings or interests.</En>
+            </Situation>
+            <Situation id="241b6244-925b-41a3-994f-ef6c01383de2">
+              <Vi>Một cơ hội được cung cấp cho tất cả mọi người một cách bình đẳng.</Vi>
+              <En>An opportunity provided equally to everyone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fab9ccc7-31c5-4161-a5ba-fd0e7b636e83" type="Adjective">
+          <Vi>Tốt về ngoại hình (thường nói về người có da trắng, tóc vàng, mắt xanh)</Vi>
+          <En>(of a person, especially a woman or child) having light skin and hair, typically with blue eyes.</En>
+          <Example>She had fair skin and long blonde hair.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="62e98414-1810-489b-a9c9-87ad573129de">
+              <Vi>Mô tả ngoại hình người có làn da sáng và tóc màu nhạt.</Vi>
+              <En>Describing someone with light skin and light-colored hair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9b2ddf0-d9cb-4faf-9da4-2562166aa860" type="Adjective">
+          <Vi>Sáng (trời); trong xanh (màu sắc)</Vi>
+          <En>(of the weather) clear and bright; not cloudy or rainy.</En>
+          <Example>We hope for fair weather during our vacation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb7ba7a8-fd60-4c97-822e-085b4a5b77e5">
+              <Vi>Tình trạng thời tiết nắng đẹp, không mưa.</Vi>
+              <En>Weather conditions with sunshine and no precipitation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9b9e65f1-4f94-45d7-82db-291110c40c4c" ipa="/fer/" vi_ipa="phờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ae8bb9f6-9057-495f-a8df-1861758121f2" type="Noun">
+          <Vi>Hội chợ; triển lãm; ngày hội</Vi>
+          <En>A large annual event featuring rides, games, and exhibitions; a fairground or exhibition.</En>
+          <Example>They visited the county fair and rode the Ferris wheel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5353d8f5-2d0a-4f8b-8217-352f2abd8d7b">
+              <Vi>Một sự kiện cộng đồng với các trò chơi, gian hàng ẩm thực và trình diễn kỹ thuật.</Vi>
+              <En>A community event with games, food stalls, and technical demonstrations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,37 @@
+<Vocab id="bccdfa96-8f2c-4187-838d-5f12da3d3a25" word="skating" type="short" status="done">
+  <Topics>
+    <Topic id="70e0c39b-5d53-489b-8eb4-71344671b917" value="Sports &amp; Recreation" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="c9a2b1f7-7f82-4530-b041-50c1cc105ad7" value="Physical Education Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89cb1845-2396-457b-93be-7e3cdecb6a5f" ipa="/ˈskeɪ.tɪŋ/" vi_ipa="skei-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b27721ec-f6f9-4410-9513-ebfcdd667426" type="Noun">
+          <Vi>Trượt patin, trượt băng (hoạt động)</Vi>
+          <En>The activity or sport of moving on wheels or ice skates</En>
+          <Example>She has been practicing skating every weekend for the past three months.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf1c7431-f0e4-4829-b1a5-4fafced1daf0">
+              <Vi>Hoạt động giải trí ngoài trời trên mặt phẳng (vỉa hè, sân trượt)</Vi>
+              <En>Recreational activity outdoors on pavement or an ice rink</En>
+            </Situation>
+            <Situation id="3f8859bd-eca2-4534-a5d5-3024015f7340">
+              <Vi>Trượt băng nghệ thuật hoặc thể thao chuyên nghiệp</Vi>
+              <En>Figure skating or speed skating as a competitive sport</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
