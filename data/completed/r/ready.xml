@@ -1,0 +1,60 @@
+<Vocab id="573486b4-6582-4343-a29d-329a6e7badf5" word="ready" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7838bc4c-f92d-42ac-b085-b82398e79c85" ipa="/ˈredi/" vi_ipa="ri-đi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7340ac84-6ca7-4c57-9d62-b7edf8a6e1f9" type="Adjective">
+          <Vi>Sẵn sàng, sẵn có, sẵn để làm gì đó</Vi>
+          <En>Being in a state of being all set to do or use something; prepared.</En>
+          <Example>Are you ready to order?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15857933-80dc-4641-afa7-cb0ce44aa3f4">
+              <Vi>Một người đã chuẩn bị xong trước khi bắt đầu một hoạt động.</Vi>
+              <En>A person who has completed all necessary preparations before starting an activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cbb63716-f8ba-4fef-8a6f-b8885f8961b5" type="Adjective">
+          <Vi>Sẵn sàng (trong tình trạng tốt, sẵn để sử dụng)</Vi>
+          <En>In a condition that is immediately usable or available.</En>
+          <Example>The document is ready for signing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4433ae46-87aa-48da-9cdf-bb71f40f4c78">
+              <Vi>Tài liệu đã được hoàn tất và sẵn để ký.</Vi>
+              <En>A document that has been finalized and is ready to be signed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="35fbac78-350d-47d7-8b6e-dc0e88fefa8f" type="Adjective">
+          <Vi>Sẵn sàng (nhanh chóng, không do dự)</Vi>
+          <En>Willing and prepared to do something immediately or without hesitation.</En>
+          <Example>She was ready to help at a moment’s notice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67d35741-fb3c-459b-a9ae-203bd7cff7b2">
+              <Vi>Một người luôn sẵn sàng hỗ trợ khi được yêu cầu.</Vi>
+              <En>A person who always offers help immediately when asked.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
