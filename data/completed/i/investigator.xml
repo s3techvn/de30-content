@@ -1,0 +1,38 @@
+<Vocab id="5c4f0ff5-6515-401c-a8c3-063dbc4c16af" word="investigator" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="73557f49-4f53-49de-861d-46d819311cd4" value="Detective" />
+    <Profession id="ff7a5f19-aa68-499c-919a-08ab534d3407" value="Forensic Scientist" />
+    <Profession id="0fed7238-bc23-4f21-b1ea-8f5070f307b8" value="Private Investigator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="36756341-32b3-4766-8bfa-501109a2d185" ipa="/ɪnˈvɛs.tə.ɡeɪ.tər/" vi_ipa="in-vét-tơ-gây-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a029080-8445-4098-a226-1fb8605cd7a9" type="Noun">
+          <Vi>điều tra viên; nhà điều tra</Vi>
+          <En>a person whose job is to investigate crimes or other problems, especially by collecting and examining evidence</En>
+          <Example>The investigator reviewed surveillance footage to identify the suspect.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="72165e6e-3ca9-45a6-b6dd-372c1a95bae8">
+              <Vi>Cảnh sát phái một điều tra viên đến hiện trường vụ tai nạn.</Vi>
+              <En>The police dispatched an investigator to the accident scene.</En>
+            </Situation>
+            <Situation id="b00b8603-0cb8-413b-b465-c2d6ca120475">
+              <Vi>Nhà điều tra hỏi lại nhân chứng để làm rõ chi tiết vụ án.</Vi>
+              <En>The investigator re-interviewed the witness to clarify details of the case.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

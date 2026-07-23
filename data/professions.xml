@@ -684,4 +684,6 @@
   <Profession id="253571d7-9e06-42a3-80b3-dca896556db8" slug="travel-guide-writer" value="Travel Guide Writer" />
   <Profession id="58370a85-afa3-4631-b139-0f2ccd02570f" slug="historical-official" value="Historical Official" />
   <Profession id="fcadf7e5-af5f-4033-b853-55a6ac943b94" slug="restaurant-staff" value="Restaurant Staff" />
+  <Profession id="ff7a5f19-aa68-499c-919a-08ab534d3407" slug="forensic-scientist" value="Forensic Scientist" />
+  <Profession id="0fed7238-bc23-4f21-b1ea-8f5070f307b8" slug="private-investigator" value="Private Investigator" />
 </Professions>
