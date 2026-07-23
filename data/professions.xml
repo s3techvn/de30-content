@@ -748,4 +748,6 @@
   <Profession id="e54a248a-e2ad-47ab-9962-4ca2e2a97c30" slug="diy-enthusiast" value="DIY Enthusiast" />
   <Profession id="cc58fa05-a664-41bb-94e6-681bcc20e27b" slug="management-consultant" value="Management Consultant" />
   <Profession id="8fa42319-796b-4ebe-9251-4a9b8c3f2495" slug="legal-advisor" value="Legal Advisor" />
+  <Profession id="7e812115-8583-42b6-916b-75d838d646a3" slug="customer-service" value="Customer Service" />
+  <Profession id="c8592b1a-18ef-4f78-a77d-9cd238390fe9" slug="hospitality-staff" value="Hospitality Staff" />
 </Professions>

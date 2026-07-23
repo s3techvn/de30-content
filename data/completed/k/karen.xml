@@ -1,0 +1,38 @@
+<Vocab id="224dae76-5add-4a6d-9501-dcf19f058f5b" word="karen" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="7e812115-8583-42b6-916b-75d838d646a3" value="Customer Service" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="c8592b1a-18ef-4f78-a77d-9cd238390fe9" value="Hospitality Staff" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7079bc8f-d025-46d4-a533-a3f70ce16bcc" ipa="/ˈkær.ən/" vi_ipa="cà-ren">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a91f57d-2870-4efb-a81b-fba0f9a68147" type="Noun">
+          <Vi>người phụ nữ (thường là da trắng) có hành vi đòi hỏi thái quá, coi thường nhân viên phục vụ, thường gọi quản lý để khiếu nại vô lý</Vi>
+          <En>a stereotypical entitled, demanding, and often racially biased woman—typically white—who makes unreasonable demands, especially in customer service settings, and escalates complaints inappropriately</En>
+          <Example>She demanded to speak to the manager over a minor delay, behaving like a total karen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7691f5c3-fe01-4068-8140-f295451a4454">
+              <Vi>Một khách hàng nữ lớn tuổi, cau có, yêu cầu gặp quản lý chỉ vì không được giảm giá thêm 5% khi thanh toán</Vi>
+              <En>A middle-aged woman loudly demands to speak to the manager over a small billing discrepancy, ignoring staff attempts to resolve the issue.</En>
+            </Situation>
+            <Situation id="f4642b43-2971-4412-b776-287afcbe598b">
+              <Vi>Người phụ nữ gọi cảnh sát để báo cáo hàng xóm đang tổ chức tiệc nhỏ trong sân, dù không có tiếng ồn hay vi phạm quy định</Vi>
+              <En>A woman calls the police on neighbors hosting a quiet backyard barbecue, citing noise complaints despite no actual violation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
