@@ -1232,3 +1232,4 @@ handled
 fortune
 ruby
 hurricane
+percentage

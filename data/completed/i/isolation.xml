@@ -1,0 +1,52 @@
+<Vocab id="1e52b411-7e99-47b0-b7e9-b89ef0565ea4" word="isolation" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3fafb931-d64e-442f-9b8e-7deb817e8274" ipa="/ˌaɪ.səˈleɪ.ʃən/" vi_ipa="ai-xơ-lây-xơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="86937ec9-c9db-48a4-ab8d-e6d306ddf030" type="Noun">
+          <Vi>Sự cô lập, sự tách biệt</Vi>
+          <En>The state of being separated from others, especially socially or physically.</En>
+          <Example>He was sent to prison in isolation for his own safety.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57983103-96da-41f3-a87d-6522228129e0">
+              <Vi>Tình trạng bị cách ly trong bệnh viện để tránh lây nhiễm.</Vi>
+              <En>A patient kept in a separate room to prevent infection spread.</En>
+            </Situation>
+            <Situation id="2d1303e6-da7c-4f47-8db6-15d264f0c86b">
+              <Vi>Cảm giác bị cô đơn do không có liên hệ xã hội.</Vi>
+              <En>A feeling of loneliness due to lack of social contact.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f24e0a49-8547-420e-8f32-72eaec645b3e" type="Noun">
+          <Vi>Sự cô lập (vật lý), sự tách riêng (về mặt hóa học hoặc vật lý)</Vi>
+          <En>The action or process of separating something from others, especially to study or purify it.</En>
+          <Example>The scientist succeeded in the isolation of the active compound from the plant extract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf06d205-c2fb-45bd-8bdd-af27bfbad3b2">
+              <Vi>Trong phòng thí nghiệm, tách riêng một chất để nghiên cứu.</Vi>
+              <En>In the lab, chemists isolate a specific compound for analysis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
