@@ -1,0 +1,48 @@
+<Vocab id="7150a95b-d27e-45d7-bdb1-07564a89cb90" word="bath" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2b110b7a-9039-4854-8682-d3e9c04a8e23" ipa="/bæθ/" vi_ipa="bết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df684888-815f-49b1-8879-b97aeb5523a6" type="Noun">
+          <Vi>Chậu tắm; cuộc tắm; nước tắm</Vi>
+          <En>A container in which one bathes; the act of bathing; the water used for bathing.</En>
+          <Example>I ran a hot bath before starting my evening routine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7f7ca221-36f9-46f0-8a59-abe223fcae02">
+              <Vi>Mô tả việc chuẩn bị hoặc sử dụng chậu tắm để ngâm mình thư giãn.</Vi>
+              <En>Describing preparing or using a bathtub for relaxation.</En>
+            </Situation>
+            <Situation id="6da3992a-8213-400c-9e69-29eab745ecfd">
+              <Vi>Tình huống khi nói về việc tắm cho trẻ sơ sinh hoặc người già.</Vi>
+              <En>Context when describing bathing a newborn or an elderly person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b87a2298-8f4f-4c10-b9b7-4ebcf4536a8b" type="Noun">
+          <Vi>Đám đông, nhóm người (từ lóng)</Vi>
+          <En>A large crowd or gathering of people (slang).</En>
+          <Example>The concert turned into a bath of people once the doors opened.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01a7c83c-6c6f-4334-a35c-a836809e411c">
+              <Vi>Sử dụng trong văn nói để mô tả tình trạng đông người chen chúc.</Vi>
+              <En>Used in informal speech to describe a crowded, packed scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

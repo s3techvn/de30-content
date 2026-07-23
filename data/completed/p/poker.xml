@@ -1,0 +1,37 @@
+<Vocab id="80fd4e12-e866-44d0-bef5-7e49c880c83c" word="poker" type="short" status="done">
+  <Topics>
+    <Topic id="c929b71a-456e-4c2b-8d4c-2e3e3ac284d9" value="Games &amp; Recreation" />
+  </Topics>
+  <Professions>
+    <Profession id="b8937b14-385b-414f-9461-8268d5f21b56" value="Casino Worker" />
+    <Profession id="5a88c980-c0dc-4618-8b57-e01d67002aff" value="Professional Gambler" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb1828f4-be29-4c70-b44a-2911c5a910fc" ipa="/ˈpoʊ.kər/" vi_ipa="pô-kơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="287f4765-a5c0-4c47-b1c4-aa35b6dd0e83" type="Noun">
+          <Vi>Trò bài poker; cây chọc lửa</Vi>
+          <En>A card game played with a standard deck of 52 cards, typically involving betting; or a long, thin metal rod used for stoking a fire.</En>
+          <Example>He folded his hand after realizing he had a weak poker face.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc346349-4a59-4af8-be75-e0bc9237d6ae">
+              <Vi>Người chơi tham gia ván bài poker trong sòng bạc.</Vi>
+              <En>Players participate in a poker game at a casino.</En>
+            </Situation>
+            <Situation id="2aceea9e-b0fa-4cd4-a795-a79c0cf00c37">
+              <Vi>Nhân viên nhà bếp dùng cây chọc lửa để điều chỉnh ngọn lửa lò sưởi.</Vi>
+              <En>The chef used a poker to adjust the fireplace flame.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
