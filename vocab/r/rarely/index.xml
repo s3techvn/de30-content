@@ -1,0 +1,39 @@
+<Vocab id="18acf61e-0275-438c-96c3-a1e7990c3b3d" word="rarely" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="905caf1b-ba4b-43af-a9b3-6f3aefdf89bf" ipa="/ˈrer.əl.i/" vi_ipa="rờ-rờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cc16072d-27de-4315-9ed3-0cdea67351f5" type="Adverb">
+          <Vi>hiếm khi, gần như không bao giờ</Vi>
+          <En>not often; on very few occasions</En>
+          <Example>She rarely eats out, preferring to cook at home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="045f7f94-048d-406c-b201-534b471df6d9">
+              <Vi>Mô tả tần suất hành động rất thấp trong đời sống hàng ngày.</Vi>
+              <En>Describing an action that happens very infrequently in daily life.</En>
+            </Situation>
+            <Situation id="812c9527-46ce-41df-b0f2-f5b8797b5230">
+              <Vi>Dùng để nhấn mạnh sự kiện bất thường hoặc không phổ biến.</Vi>
+              <En>Used to emphasize an unusual or uncommon event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
