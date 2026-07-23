@@ -1,0 +1,37 @@
+<Vocab id="7b3eb0b7-cd31-48a0-8b91-83b1d7b1079e" word="advertise" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="b5a86c3e-8fa7-4bf2-a8d1-5445a7067272" value="Advertising Executive" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="99bb881a-9293-49a1-9f3f-114777f5d290" ipa="/ˈæd.ər.taɪz/" vi_ipa="ác-đờ-rai-z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="49ebbe7a-2533-48b6-87c2-a762dd55dcf1" type="Verb">
+          <Vi>quảng cáo, rao bán</Vi>
+          <En>to promote or draw attention to a product, service, or business, typically through paid announcements in media</En>
+          <Example>The company advertised its new smartphone on social media and television.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="98550125-89b3-4b2e-b377-478878cdb90a">
+              <Vi>Doanh nghiệp trả tiền để đưa thông tin sản phẩm lên truyền hình, mạng xã hội nhằm thu hút khách hàng.</Vi>
+              <En>A business pays to display product information on TV or social media to attract customers.</En>
+            </Situation>
+            <Situation id="88dff2d1-4ac0-42e0-b297-37997096411c">
+              <Vi>Cá nhân hoặc tổ chức đăng tin rao vặt để bán đồ cũ, tìm người, hoặc giới thiệu dịch vụ.</Vi>
+              <En>An individual or organization posts classified ads to sell used items, seek services, or promote offerings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
