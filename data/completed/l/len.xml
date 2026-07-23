@@ -1,0 +1,34 @@
+<Vocab id="67b33706-2f17-4bd7-8569-612c5e4c1a6b" word="len" type="short" status="done">
+  <Topics>
+    <Topic id="602275b5-a7fd-4eaa-8188-f24051b5cad7" value="Tools &amp; Hardware" />
+  </Topics>
+  <Professions>
+    <Profession id="0e8e05e0-67c4-43b1-ab74-38596a71adff" value="Carpenter" />
+    <Profession id="ecf69b14-0d8f-4211-bb8a-29450207841e" value="Blacksmith" />
+    <Profession id="6c130b41-9ddd-44e6-be3e-e38e8a3155c2" value="Metalworker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a49e4a68-d190-466d-9624-4ab6ca15e48f" ipa="/lɛn/" vi_ipa="lên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0705f0c1-c98b-4f4f-b3f3-b064a9075aad" type="Noun">
+          <Vi>Cái đe (dụng cụ kim loại có hình khối, dùng để đặt vật cần rèn lên khi đánh đập)</Vi>
+          <En>A heavy block of metal, typically with a flat top, on which metal is placed to be shaped by hammering.</En>
+          <Example>The blacksmith placed the hot iron on the anvil and began to hammer it into shape.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f4bca953-a7fb-48da-a339-eb46eed74adb">
+              <Vi>Một thợ rèn đặt thanh sắt đang nóng lên trên cái đe để tạo hình.</Vi>
+              <En>A blacksmith places a hot iron bar on the anvil to shape it by hammering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
