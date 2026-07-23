@@ -1,0 +1,38 @@
+<Vocab id="66093cad-492b-4a9b-8f48-3b657048cc8c" word="diagnosis" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" value="Medical Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23233697-3742-4618-a44d-d3165e61e008" ipa="/ˌdaɪ.əɡˈnəʊ.sɪs/" vi_ipa="đai-ơ-gờ-nô-xì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7b512510-5a6d-4bb1-abd6-f741f0822a8d" type="Noun">
+          <Vi>Chẩn đoán; chẩn bệnh</Vi>
+          <En>The identification of the nature of an illness or other problem by examination of the symptoms.</En>
+          <Example>The doctor made a final diagnosis after reviewing all the test results.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a3c7438a-34a9-44e2-9c14-02ae9d1eacf3">
+              <Vi>Bác sĩ đưa ra chẩn đoán cuối cùng sau khi xem xét kết quả xét nghiệm.</Vi>
+              <En>The doctor gives the final diagnosis after reviewing test results.</En>
+            </Situation>
+            <Situation id="99214e4e-49ed-44bc-8eb0-3c6b36b98c24">
+              <Vi>Chẩn đoán sớm giúp điều trị hiệu quả hơn.</Vi>
+              <En>Early diagnosis helps enable more effective treatment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
