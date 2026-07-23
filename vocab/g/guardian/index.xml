@@ -1,0 +1,39 @@
+<Vocab id="febc0804-1907-4700-9d17-fa0b6e616aa7" word="guardian" type="short" status="done">
+  <Topics>
+    <Topic id="894a06d9-21b0-4fb0-9b05-0cc2f6fd776d" value="Family &amp; Social" />
+    <Topic id="daad041f-f9ed-4c81-9ffd-7120fd9fb8cc" value="Law &amp; Rights" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8524289e-deee-45e3-8b7f-066f78292894" ipa="/ˈɡwɑːr.di.ən/" vi_ipa="guác-đi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cec412d1-f36f-4f20-9021-5cb036661ae2" type="Noun">
+          <Vi>Người bảo vệ; người giám hộ</Vi>
+          <En>A person who guards, protects, or is legally responsible for another person, especially a child.</En>
+          <Example>The child’s grandparents were appointed as legal guardians after the parents passed away.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd8f2d4e-572e-41ab-a1c8-b26ddda432c7">
+              <Vi>Trong trường hợp cha mẹ qua đời hoặc không đủ điều kiện nuôi con, một người thân hoặc người được chỉ định sẽ trở thành người giám hộ hợp pháp.</Vi>
+              <En>In cases where parents die or are unfit, a relative or designated person becomes the legal guardian of the child.</En>
+            </Situation>
+            <Situation id="b4d9ff19-906f-4263-9840-7874548fb937">
+              <Vi>Người bảo vệ một khu vực, tài sản, hoặc một cá nhân yếu thế khỏi nguy hiểm hoặc xâm hại.</Vi>
+              <En>Someone who protects a place, property, or a vulnerable individual from harm or threats.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
