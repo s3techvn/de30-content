@@ -1,0 +1,38 @@
+<Vocab id="7412bd2a-72cc-46c7-a97d-87db8ed495e3" word="especially" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="657bd458-20e7-4efe-9312-ccf9ccc2f75b" ipa="/ɪˈspeʃ.əl.i/" vi_ipa="i-pê-sờ-nhờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="942fc89b-051a-41f9-8640-463c6da5b7a9" type="Adverb">
+          <Vi>đặc biệt, đặc biệt là, nhất là</Vi>
+          <En>Used to emphasize that something applies to one person, thing, or situation more than others.</En>
+          <Example>She enjoys hiking, especially in the mountains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21f480c3-b524-4ff8-a63c-37b6b71f0e85">
+              <Vi>Dùng để nhấn mạnh một yếu tố nổi bật trong số nhiều lựa chọn hoặc trường hợp.</Vi>
+              <En>Used to highlight a preferred or most significant option among several.</En>
+            </Situation>
+            <Situation id="22e88a09-f1ed-4b52-b4c4-b7496046bb59">
+              <Vi>Dùng trong văn viết hoặc nói để làm rõ điểm nhấn trong một danh sách hoặc mô tả.</Vi>
+              <En>Used in writing or speech to clarify emphasis on a specific item in a list or description.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
