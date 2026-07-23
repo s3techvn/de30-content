@@ -1,0 +1,33 @@
+<Vocab id="7c32ce09-a9d2-4a3a-83fa-580a550dea8c" word="tony" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="7afbef82-fc17-429d-a167-cd9816da9e40" value="Entertainer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b1900536-36ae-418c-8ac6-ca3c78332094" ipa="/ˈtɒn.i/" vi_ipa="tô-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06ed4e21-f105-4125-aaa6-54068e70e001" type="Proper Noun">
+          <Vi>Tên riêng (thường là tên nam), thường dùng trong văn hóa Anh-Mỹ</Vi>
+          <En>A masculine given name, commonly used in British and American English.</En>
+          <Example>Tony Stark is a fictional superhero in the Marvel Cinematic Universe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e33b4000-d977-4b5b-a8c9-f7fe9bc10c98">
+              <Vi>Dùng để gọi một người tên Tony trong giao tiếp hàng ngày hoặc trong phim ảnh, sách báo.</Vi>
+              <En>Used when referring to or addressing a person named Tony in everyday conversation, media, or literature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

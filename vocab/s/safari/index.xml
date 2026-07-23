@@ -1,0 +1,48 @@
+<Vocab id="3f4f137c-ac41-4997-b251-49172ddaf4a9" word="safari" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="dccc9cd9-7885-4a37-83b3-47cfa6519854" value="Wildlife" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="aeaedc5c-09dc-45f7-a3bc-b053e80c0ba1" value="Wildlife Photographer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cf4b4701-1ffa-44c4-95d4-a6620ad6c2b5" ipa="/səˈfɑː.ri/" vi_ipa="xơ-fa-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="65ef27c8-17e5-48f9-9c6e-86c5403b1fb0" type="Noun">
+          <Vi>Chuyến đi tham quan thiên nhiên hoang dã, đặc biệt là ở châu Phi, để quan sát động vật hoang dã.</Vi>
+          <En>A journey to observe or hunt wild animals, especially in Africa.</En>
+          <Example>We went on a safari in Kenya and saw lions, elephants, and giraffes in their natural habitat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b7a97efa-2b80-47dd-9b23-80b6a02d5f53">
+              <Vi>Chuyến đi du lịch khám phá rừng savanna với xe địa hình và hướng dẫn viên bản địa.</Vi>
+              <En>A guided tour in a vehicle through savanna landscapes to observe wildlife.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b6e134fd-147d-4be8-bb9f-1fa4ed23d5dd" type="Noun">
+          <Vi>Một ứng dụng hoặc trình duyệt web dùng để tìm kiếm thông tin (tên gọi lấy cảm hứng từ hành trình khám phá).</Vi>
+          <En>A web browser or application used for searching information (named metaphorically after the idea of exploration).</En>
+          <Example>I use Safari as my default browser on my iPhone because it’s fast and integrates well with Apple services.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c560bed-6993-4e17-bc7a-a597a71f0d25">
+              <Vi>Sử dụng Safari để lướt web, tra cứu thông tin, hoặc mở nhiều tab làm việc.</Vi>
+              <En>Using Safari to browse the web, look up information, or manage multiple work tabs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
