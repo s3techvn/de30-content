@@ -1,0 +1,40 @@
+<Vocab id="99fded2d-42bd-4e23-953d-d9a05e1fc3e2" word="coated" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="8dda0897-4bed-4eb4-aca8-d2a92b7bb011" value="Manufacturing" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5228079c-cf20-4fa1-b28e-ffb71b8c8750" ipa="/ˈkoʊ.tɪd/" vi_ipa="cô-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf650503-e0bc-4c0c-ae44-2343bca90ea0" type="Adjective">
+          <Vi>được phủ một lớp mỏng (bằng chất gì đó)</Vi>
+          <En>covered with a thin layer of a substance, typically for protection, decoration, or functional purposes</En>
+          <Example>The pill was coated with a sugar shell to make it easier to swallow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bd7ec37-a966-4e17-b9be-f88cd8ebf311">
+              <Vi>Mô tả thực phẩm hoặc vật thể có lớp phủ bên ngoài (ví dụ: kẹo dừa, giấy sơn, thiết bị chống ăn mòn).</Vi>
+              <En>Describing food items or objects with a surface layer (e.g., candy-coated nuts, painted paper, corrosion-resistant metal).</En>
+            </Situation>
+            <Situation id="8d841030-c2da-4298-b0df-2256814f52a9">
+              <Vi>Ngụ ý bị che giấu hoặc không chân thành (trong ngữ cảnh ẩn dụ).</Vi>
+              <En>Used metaphorically to imply something is superficially pleasing but lacks authenticity (e.g., “coated with false charm”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

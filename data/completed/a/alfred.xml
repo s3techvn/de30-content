@@ -1,0 +1,32 @@
+<Vocab id="a2806ed6-b219-4976-88ef-f849f1bb9f77" word="alfred" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="8d1933c8-5ccc-4308-bfad-ac6ef71e727c" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a037bee9-f313-401f-b53e-e7e87da0d521" ipa="/ˈæl.fɹɪd/" vi_ipa="an-friđ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5baa1ded-2be5-403f-9d44-c70e49e6843f" type="Proper Noun">
+          <Vi>Alfred (tên riêng, thường là tên nam)</Vi>
+          <En>A male given name of Old English origin, meaning "elf counsel" or "wise counselor".</En>
+          <Example>Alfred the Great was a 9th-century King of Wessex who defended England against Viking invasions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a89c568-b5d6-4c9a-b730-1afd76316f89">
+              <Vi>Dùng để gọi một người đàn ông có tên Alfred, thường gặp trong văn hóa phương Tây.</Vi>
+              <En>Used to refer to a man named Alfred, commonly found in Western contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
