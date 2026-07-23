@@ -901,3 +901,4 @@ victim
 sol
 please
 stable
+striking
