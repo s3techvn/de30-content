@@ -1,0 +1,37 @@
+<Vocab id="2837d95d-23a5-4707-bfd8-4536a37c2e6c" word="licking" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="88dcaca6-95e1-4a36-a697-052b393e074b" ipa="/ˈlɪk.ɪŋ/" vi_ipa="lích-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="98371620-2857-4c13-8136-613de4554af5" type="Verb">
+          <Vi>liếm, liếm nhanh</Vi>
+          <En>to pass the tongue over (a surface or substance), typically quickly or repeatedly</En>
+          <Example>She gave the ice cream cone a quick licking before it melted.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f85f8a5e-f73b-4f3a-b1c7-31f8b47e464f">
+              <Vi>Mô tả hành động động vật (như chó, mèo) hoặc người liếm đồ vật, thức ăn, hoặc da.</Vi>
+              <En>Describes the action of an animal (e.g., dog, cat) or person licking an object, food, or skin.</En>
+            </Situation>
+            <Situation id="37e0fa13-ca2e-4584-9beb-b835bacd7374">
+              <Vi>Trong nấu ăn: liếm muỗng hoặc nếm thử món ăn đang chế biến.</Vi>
+              <En>In cooking: tasting a dish by licking a spoon while preparing it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
