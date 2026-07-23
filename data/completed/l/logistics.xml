@@ -1,0 +1,40 @@
+<Vocab id="3d9d66f8-dc7f-42ae-bcc8-6862c24b7230" word="logistics" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="5958b265-ebe9-447c-accf-625a29999b30" value="Supply Chain" />
+  </Topics>
+  <Professions>
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="d7366a7c-807b-4230-bd3e-9c52efd48767" value="Supply Chain Analyst" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="01598962-8de2-4208-a495-87e03f1f6ad9" ipa="/ləˈdʒɪs.tɪks/" vi_ipa="lơ-gít-tích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0d903be9-2255-4daf-a90e-647b3444f188" type="Noun">
+          <Vi>Logistics (quản lý chuỗi cung ứng; hoạt động hậu cần)</Vi>
+          <En>The detailed organization and implementation of a complex operation, especially the maintenance and movement of troops and supplies in military contexts, or the coordination of resources, goods, and services in business and supply chains.</En>
+          <Example>In modern e-commerce, efficient logistics ensures products reach customers within two days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="008579d3-3d3b-44d5-9dec-e6a562a9174c">
+              <Vi>Quân đội điều động xe tải, nhân sự và nhiên liệu để hỗ trợ chiến dịch.</Vi>
+              <En>The military coordinates trucks, personnel, and fuel to support a campaign.</En>
+            </Situation>
+            <Situation id="cde5b36c-1aad-4fc3-bf43-b9b3139b0900">
+              <Vi>Công ty tối ưu hóa logistics để giảm chi phí vận chuyển và lưu kho.</Vi>
+              <En>The company optimizes logistics to reduce shipping and warehousing costs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

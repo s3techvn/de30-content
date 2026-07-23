@@ -1,0 +1,39 @@
+<Vocab id="cde7ce6c-540e-4053-bde2-54f9a37dee2f" word="informal" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5cb1adf-c8bf-4d62-b1bd-7d8094eabb86" ipa="/ɪnˈfɔːr.məl/" vi_ipa="in-fɔː-mờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c05a7294-e8c1-4345-884e-3da140f96b79" type="Adjective">
+          <Vi>thân mật; không trang trọng; không chính thức</Vi>
+          <En>Not formal or official; relaxed and casual in style or manner.</En>
+          <Example>We had an informal chat over coffee instead of a formal meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="304f4f7d-6d85-4f6d-aa67-c7d9775efb2d">
+              <Vi>Mô tả một cuộc trò chuyện thoải mái, không cần mặc vest hay dùng ngôn ngữ trang trọng.</Vi>
+              <En>Describes a relaxed conversation where formal dress and language are not required.</En>
+            </Situation>
+            <Situation id="34d94414-29bd-43d6-b9d2-00f96bcf1940">
+              <Vi>Phong cách viết hoặc giao tiếp trong nhóm bạn thân, không cần tuân theo quy tắc học thuật hay hành chính.</Vi>
+              <En>A writing or speaking style used among close friends, without adhering to academic or bureaucratic rules.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
