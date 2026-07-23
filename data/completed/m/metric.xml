@@ -1,0 +1,38 @@
+<Vocab id="8dc20722-8f5b-4481-ad26-5c6128ff62b7" word="metric" type="short" status="done">
+  <Topics>
+    <Topic id="99046287-877d-4cae-9645-05b68d893aef" value="Science &amp; Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9474d38a-ccd7-42de-87c3-ec445030ab10" ipa="/ˈmet.rɪk/" vi_ipa="mét-rik">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c02b111b-822f-452d-be41-2b4d8b625053" type="Adjective">
+          <Vi>thuộc hệ mét; theo hệ đo lường thập phân</Vi>
+          <En>relating to the metric system of measurement, which uses metres, grams, and litres as base units</En>
+          <Example>The country officially adopted the metric system for all commercial and scientific purposes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e39cf5c-6d84-4bc4-b157-31176f5088c7">
+              <Vi>Trong giáo dục khoa học và kỹ thuật, học sinh được dạy sử dụng đơn vị mét, kilogram, lít.</Vi>
+              <En>In science and engineering education, students are taught to use units such as metres, kilograms, and litres.</En>
+            </Situation>
+            <Situation id="fca51f6f-0441-4023-ba97-c2b431aa83d0">
+              <Vi>Các sản phẩm nhập khẩu tại Việt Nam thường ghi rõ kích thước theo hệ mét.</Vi>
+              <En>Imported products in Vietnam usually specify dimensions in metric units.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
