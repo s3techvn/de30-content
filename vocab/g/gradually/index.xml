@@ -1,0 +1,40 @@
+<Vocab id="6bd4b8a2-dddb-4864-bf08-b3633a1376bc" word="gradually" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cb4dc05e-a487-48f0-99a8-72c4604adbfe" ipa="/ˈɡrædʒ.u.əl.i/" vi_ipa="grát-chi-u-ơ-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7370a718-ea0c-49bf-8f1a-2f7abdcc6321" type="Adverb">
+          <Vi>dần dần, từng bước một</Vi>
+          <En>in a gradual manner; by small degrees over time</En>
+          <Example>The company is gradually introducing the new software to avoid overwhelming employees.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1b78bf43-6daa-4a86-bc1f-d886cbacdfa5">
+              <Vi>Mô tả quá trình thay đổi hoặc phát triển không nhanh chóng mà diễn ra qua thời gian.</Vi>
+              <En>Describing a process of change or development that occurs slowly and steadily over time.</En>
+            </Situation>
+            <Situation id="a08a87e7-c88b-4207-9ab5-314e3b1366fc">
+              <Vi>Dùng khi hướng dẫn hoặc mô tả cách học tập, thích nghi, hoặc cải thiện kỹ năng một cách từ từ.</Vi>
+              <En>Used when guiding or describing how to learn, adapt, or improve a skill step by step.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

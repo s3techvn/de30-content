@@ -1,0 +1,33 @@
+<Vocab id="a6fc765d-35f7-4d0a-90a9-7ce2a4705969" word="marilyn" type="short" status="done">
+  <Topics>
+    <Topic id="c3e4a882-3345-4161-92a2-ec2a82a170e7" value="Celebrity &amp; Pop Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e9131e0a-9f1f-43b8-95cb-6a3d444dbe02" ipa="/ˈmær.ə.lɪn/" vi_ipa="mê-rin-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72b16628-a51b-4366-8c3c-b63203ef0f58" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng để chỉ diễn viên và người mẫu người Mỹ Marilyn Monroe</Vi>
+          <En>A proper noun, commonly referring to the American actress and model Marilyn Monroe</En>
+          <Example>She was often compared to Marilyn in her early Hollywood days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="76c9059b-0e09-4c50-8b27-2d2046666ec6">
+              <Vi>Trong các bài viết, phim tài liệu, hoặc hội thoại về điện ảnh Hollywood những năm 1950</Vi>
+              <En>In articles, documentaries, or conversations about 1950s Hollywood cinema</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
