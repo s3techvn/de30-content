@@ -536,4 +536,6 @@
   <Profession id="09f812ac-617f-4a9d-bc5a-316fd0fc714c" slug="ophthalmologist" value="Ophthalmologist" />
   <Profession id="44817e93-f60f-4dcc-9e49-31b732af2d11" slug="optometrist" value="Optometrist" />
   <Profession id="386d74fa-9ac0-46f3-9fd9-04ed8211c629" slug="nonprofit-manager" value="Nonprofit Manager" />
+  <Profession id="f6a81836-bb63-4535-82f4-7af50cc0553d" slug="bookseller" value="Bookseller" />
+  <Profession id="45ca1827-9d93-491c-ab68-014e25aaaf13" slug="author" value="Author" />
 </Professions>

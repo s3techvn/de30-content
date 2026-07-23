@@ -1,0 +1,55 @@
+<Vocab id="7377cc15-e3a3-4606-9e9a-c1aef8e5397a" word="recorder" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="85ccac38-91de-4ce4-a1d7-e2cbd7a795e7" value="Audio Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e8bb184-785c-474b-8185-a441ce0c90e5" ipa="/rɪˈkɔːr.dər/" vi_ipa="rì-cợt-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d673b93-dbdb-4216-aa87-5f80556c97f7" type="Noun">
+          <Vi>Cây sáo recorder (dụng cụ nhạc hơi hình ống, thường bằng gỗ hoặc nhựa)</Vi>
+          <En>A musical instrument in the woodwind family, typically made of plastic or wood, with a fipple mouthpiece and finger holes, used especially in music education.</En>
+          <Example>The children played simple melodies on their plastic recorders in music class.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e921ea13-a2ce-4a82-923a-0764f1aa66ba">
+              <Vi>Học sinh tiểu học học chơi nhạc cụ recorder trong tiết âm nhạc.</Vi>
+              <En>Elementary school students learning to play the recorder in music class.</En>
+            </Situation>
+            <Situation id="f3c8c2d7-fff3-4e05-ad95-d79c864ac262">
+              <Vi>Nhà sưu tập cổ vật trưng bày một cây recorder cổ từ thế kỷ 16.</Vi>
+              <En>A collector displays a 16th-century recorder in a museum exhibit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b8b0f142-c23c-4b84-8ce1-2bef354b030f" type="Noun">
+          <Vi>Máy ghi âm (thiết bị ghi lại âm thanh)</Vi>
+          <En>A device used to capture and store audio recordings, such as a digital voice recorder or tape recorder.</En>
+          <Example>She used a digital recorder to capture her lecture notes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80cee682-ce30-493d-b75f-ee12eed86064">
+              <Vi>Nhà báo dùng máy ghi âm để thu lại cuộc phỏng vấn.</Vi>
+              <En>The journalist used a recorder to capture the interview.</En>
+            </Situation>
+            <Situation id="01ba98c1-c7d6-45b8-8a46-8c1341e9720d">
+              <Vi>Giám đốc nhân sự lưu trữ cuộc họp bằng máy ghi âm nhỏ gọn.</Vi>
+              <En>The HR manager recorded the meeting using a compact voice recorder.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
