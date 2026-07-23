@@ -1,0 +1,34 @@
+<Vocab id="217d881b-3332-446a-b7d7-9835bc545867" word="ago" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="434d5f31-88e2-46db-8321-b6490d536cf0" ipa="/əˈɡoʊ/" vi_ipa="ơ-gô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f804bc0a-754a-4bd5-8b33-74c9e69d1779" type="Adverb">
+          <Vi>trước đây, đã qua</Vi>
+          <En>Used to indicate how long before the present time something happened.</En>
+          <Example>Three years ago, I moved to Hanoi.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f019ef1c-789c-4f98-adea-5fa71b78ac4c">
+              <Vi>Thường dùng trong kể lại sự kiện trong quá khứ.</Vi>
+              <En>Commonly used when recounting past events or historical timelines.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
