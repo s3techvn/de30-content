@@ -1,0 +1,84 @@
+<Vocab id="f1b819f5-b84e-43b7-bdbd-59a2f81d3198" word="fly" type="short" status="done">
+  <Topics>
+    <Topic id="b0c8d34a-0224-4019-9e82-0c733fd3f2eb" value="Nature &amp; Animals" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="48f564d3-d65c-49c6-b512-580bd3aa174f" value="Entomologist" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3ced199a-4685-4cc7-99e5-0de131f8ce37" ipa="/flaɪ/" vi_ipa="ph-lai">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b8bc2748-30cc-4aaf-b2b7-e23e14948d14" type="Verb">
+          <Vi>Bay (bằng cánh)</Vi>
+          <En>Move through the air using wings, typically referring to birds, insects, or aircraft.</En>
+          <Example>The bird flew south for the winter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4989031a-bb33-4c92-bb2f-394a61b8ecec">
+              <Vi>Mô tả hành động chim, côn trùng, hoặc máy bay di chuyển trên không.</Vi>
+              <En>Describes the action of birds, insects, or aircraft moving through the air.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="35d16d75-4792-4df7-ac64-3e7fd0da1403" type="Verb">
+          <Vi>Bay (nhanh, vọt lên)</Vi>
+          <En>Move or travel very quickly or suddenly.</En>
+          <Example>The car flew past us on the highway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1f0e4284-ebdf-4947-bf59-85e00bc51cf8">
+              <Vi>Mô tả chuyển động nhanh, vọt qua một cách đột ngột.</Vi>
+              <En>Describes sudden, rapid movement past something or someone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c75794a9-006b-4253-a003-3466703f559c" type="Noun">
+          <Vi>Côn trùng cánh cứng (côn trùng bay)</Vi>
+          <En>An insect of the order Diptera, typically having a single pair of wings and large eyes.</En>
+          <Example>A housefly landed on the food.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="023f83d4-abc1-43c0-ad8f-bcb52d3a1916">
+              <Vi>Mô tả loài côn trùng nhỏ, thường gặp trong nhà, có khả năng bay.</Vi>
+              <En>Describes a small, common household insect capable of flight.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="47ee7b03-82f1-45d8-8884-f43ad9d6256f" type="Noun">
+          <Vi>Khóa kéo (trên quần áo)</Vi>
+          <En>A fastening device consisting of two rows of metal or plastic teeth, opened and closed by a slider.</En>
+          <Example>She fixed the zipper on her jacket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4dac1c5c-d110-421a-89b4-d3fc060e0dd0">
+              <Vi>Mô tả bộ phận đóng/mở trên quần áo để cố định.</Vi>
+              <En>Describes the opening/closing mechanism on clothing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="62bdc732-9244-4de6-be75-de91cd42c15b" type="Verb">
+          <Vi>Bay (máy bay)</Vi>
+          <En>Operate or travel in an aircraft.</En>
+          <Example>We’re flying to Tokyo next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59c21b39-7353-4b2c-bd1f-310a59c8a182">
+              <Vi>Mô tả việc đi lại bằng máy bay.</Vi>
+              <En>Describes traveling by airplane.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
