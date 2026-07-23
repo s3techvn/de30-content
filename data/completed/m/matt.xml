@@ -1,0 +1,38 @@
+<Vocab id="df25a5ae-43b5-4efa-bf82-8b3021777286" word="matt" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c9373e69-b5c5-4c5e-9fdf-e3ab946e5da7" ipa="/mæt/" vi_ipa="mết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f92d97ba-5abb-4d51-9bf0-d9eb14239155" type="Adjective">
+          <Vi>không bóng, mờ, không phản xạ ánh sáng</Vi>
+          <En>having a surface with little or no shine; not shiny or glossy.</En>
+          <Example>The wall was painted in a matt white to reduce glare.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="45c059a0-4958-47a4-9249-29ca615091f5">
+              <Vi>Mô tả bề mặt sơn, giấy, hoặc vải không bóng.</Vi>
+              <En>Describing surfaces such as paint, paper, or fabric that lack shine.</En>
+            </Situation>
+            <Situation id="c8b88235-83ba-47b0-81be-5bfbe941df71">
+              <Vi>So sánh với bề mặt bóng (glossy) trong thiết kế đồ họa.</Vi>
+              <En>Contrasting with glossy finishes in graphic design or printing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,41 @@
+<Vocab id="fc8fda2e-8485-4efd-b650-56b8fa9fea12" word="flooring" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="319ea5d0-427a-4ba8-9cb9-38151678efb0" value="Home &amp; Interior Design" />
+    <Topic id="73cbbfb3-0158-4678-bca6-6382bc26f922" value="Renovation" />
+  </Topics>
+  <Professions>
+    <Profession id="16c53e48-f4b9-4616-a1d6-879bc6b6c868" value="Contractor" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="ed573ea1-6827-45e9-9d53-a85653abebee" value="Carpet Layer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bdf28d12-ff04-4985-90c3-fe9a8b780ccc" ipa="/ˈflɔː.ɪŋ/" vi_ipa="phlo-ting">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6665cc4f-4be8-4758-ac1d-1c52a01b9efc" type="Noun">
+          <Vi>Vật liệu lát sàn / Hệ thống lát sàn</Vi>
+          <En>Material used to cover the floor of a room or building; the process or act of covering a floor with such material.</En>
+          <Example>We chose oak flooring for its durability and natural beauty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79437638-ca58-4c16-990d-341f283a42f7">
+              <Vi>Chọn loại vật liệu phù hợp cho sàn nhà khi xây dựng hoặc cải tạo.</Vi>
+              <En>Selecting appropriate materials for floor covering during construction or renovation.</En>
+            </Situation>
+            <Situation id="2b8f75cb-1829-42b6-8867-3f089715913e">
+              <Vi>Chi phí và loại vật liệu lát sàn ảnh hưởng lớn đến ngân sách và phong cách nội thất.</Vi>
+              <En>Flooring cost and material choice significantly affect budget and interior design style.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
