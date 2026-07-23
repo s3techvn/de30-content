@@ -750,4 +750,5 @@
   <Profession id="8fa42319-796b-4ebe-9251-4a9b8c3f2495" slug="legal-advisor" value="Legal Advisor" />
   <Profession id="7e812115-8583-42b6-916b-75d838d646a3" slug="customer-service" value="Customer Service" />
   <Profession id="c8592b1a-18ef-4f78-a77d-9cd238390fe9" slug="hospitality-staff" value="Hospitality Staff" />
+  <Profession id="0b564cfa-a4f6-4388-b6d1-161ceacfd116" slug="team-captain" value="Team Captain" />
 </Professions>
