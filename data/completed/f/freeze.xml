@@ -1,0 +1,94 @@
+<Vocab id="93c823ab-e397-457f-b076-01f2561cee12" word="freeze" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1161e6cf-83fa-4432-9617-56ed877283fe" ipa="/friːz/" vi_ipa="phri-i:z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a7b8ade-3067-4c92-8e57-82f68317ba35" type="Verb">
+          <Vi>đóng băng; làm đông lạnh; đóng băng (lại)</Vi>
+          <En>to become or cause to become solid due to cold; to stop functioning or developing suddenly</En>
+          <Example>The water froze overnight when the temperature dropped below zero.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3769c996-aa66-4460-810f-737a2e6eac62">
+              <Vi>Nhiệt độ giảm mạnh khiến nước trong bình bị đóng băng.</Vi>
+              <En>The temperature dropped sharply, causing the water in the bottle to freeze.</En>
+            </Situation>
+            <Situation id="bf957616-d10d-4bd4-b0d0-9a2f51bfe0a2">
+              <Vi>Chúng tôi đóng băng thực phẩm để bảo quản lâu hơn.</Vi>
+              <En>We froze the food to preserve it for a longer time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b872dbcc-8a5e-465a-8930-b2b0fd47a51f" type="Verb">
+          <Vi>đóng băng (hoạt động, tiến trình); ngừng hoạt động tạm thời</Vi>
+          <En>to stop or suspend normal activity, especially temporarily</En>
+          <Example>The company decided to freeze hiring until the budget is reviewed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01cc255f-9117-430b-9ac5-48f8134f6235">
+              <Vi>Chính phủ ra lệnh đóng băng tiền lương để kiểm soát lạm phát.</Vi>
+              <En>The government ordered a wage freeze to control inflation.</En>
+            </Situation>
+            <Situation id="9d6f9a3a-a980-4100-a3e2-d011044e87bf">
+              <Vi>Dự án bị đóng băng do thiếu vốn đầu tư.</Vi>
+              <En>The project was frozen due to lack of investment funding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0dc562ff-038c-4ce1-9561-b32dc98eabe1" type="Noun">
+          <Vi>sự đóng băng; tình trạng đóng băng</Vi>
+          <En>a state of being frozen, especially due to cold weather or a deliberate suspension of activity</En>
+          <Example>A deep freeze hit the region, causing roads to become icy and dangerous.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6f78629-d6d4-4f23-8fc1-94d96f91fd86">
+              <Vi>Mùa đông năm nay có một đợt đóng băng nghiêm trọng kéo dài nhiều ngày.</Vi>
+              <En>This winter experienced a severe freeze lasting several days.</En>
+            </Situation>
+            <Situation id="0d3d1ffb-801a-4c05-9edd-383c68b6f55d">
+              <Vi>Chính sách đóng băng tiền lương gây nhiều bất mãn trong nội bộ.</Vi>
+              <En>The wage freeze caused widespread dissatisfaction among staff.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0563f6ed-5ee5-474c-81b3-dbbb5f14ab52" ipa="/friːz/" vi_ipa="phri-i:z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eec372f3-cf18-4b8c-aad3-34c18602775c" type="Noun">
+          <Vi>giải pháp đóng băng (trong tài chính): biện pháp tạm ngưng tăng lương, chi tiêu, hoặc lãi suất</Vi>
+          <En>a temporary halt in increases, especially of wages, prices, or interest rates</En>
+          <Example>The central bank announced a rate freeze to stabilize the currency.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="028d1ac7-79b2-4de4-b3d8-203514f9c4fd">
+              <Vi>Ngân hàng Trung ương áp dụng đóng băng lãi suất trong 6 tháng.</Vi>
+              <En>The central bank imposed a rate freeze for six months.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
