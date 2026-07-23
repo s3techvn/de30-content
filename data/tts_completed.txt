@@ -1067,3 +1067,4 @@ rose
 communicate
 hospitality
 archive
+diploma

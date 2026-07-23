@@ -1,0 +1,38 @@
+<Vocab id="1f0f0726-1866-47b7-bda2-0429edd2a0dd" word="diploma" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c1e9cd4-6a26-47ab-aea4-f441a9622454" ipa="/dɪˈpləʊ.mə.ə/" vi_ipa="đi-plô-mơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="73f07a5c-9c51-4b79-bed3-9dfc5c8b8a2f" type="Noun">
+          <Vi>Giấy chứng nhận tốt nghiệp; văn bằng</Vi>
+          <En>A document awarded by a college or university, stating that the recipient has successfully completed a course of study or passed an examination.</En>
+          <Example>She received her diploma at the graduation ceremony last June.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b239b407-765f-4e67-9ddb-1894a93de315">
+              <Vi>Học sinh nhận giấy chứng nhận sau khi hoàn thành bậc trung học.</Vi>
+              <En>A student receives a diploma after completing high school.</En>
+            </Situation>
+            <Situation id="c960630e-0c82-4dcb-b4a5-749d5d8281a6">
+              <Vi>Sinh viên đại học treo văn bằng trên tường như một biểu tượng thành tựu.</Vi>
+              <En>A university graduate hangs their diploma on the wall as a symbol of achievement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

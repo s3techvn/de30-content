@@ -1,0 +1,33 @@
+<Vocab id="aa59c15d-b7c4-4d7d-aae3-7fb8baf189ea" word="iowa" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="94c3e3e2-4bd3-4f82-953d-f59b0ad69086" value="Traveler" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="996e321f-7034-4b7e-bedd-a809ce1644d4" ipa="/aɪˈoʊ.ə/" vi_ipa="ai-ô-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b7d54c76-b222-45ba-a961-197a687c804d" type="Noun">
+          <Vi>bang Iowa (một bang ở Trung Tây Hoa Kỳ)</Vi>
+          <En>the 29th state of the United States, located in the Midwestern region, known for agriculture and manufacturing</En>
+          <Example>The cornfields of Iowa stretch endlessly across the flat landscape.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="119f48b2-f95e-4110-bd3b-2516d7259f93">
+              <Vi>Trong bối cảnh địa lý hoặc chính trị Hoa Kỳ, đề cập đến bang có thủ phủ là Des Moines.</Vi>
+              <En>In U.S. geography or politics, refers to the state whose capital is Des Moines.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
