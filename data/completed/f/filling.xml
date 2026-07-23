@@ -1,0 +1,60 @@
+<Vocab id="e7404520-edf7-4626-97be-15889c8bfc17" word="filling" type="short" status="done">
+  <Topics>
+    <Topic id="091596f8-fe2f-46f0-b326-e63dc3b11af6" value="Food &amp; Cooking" />
+    <Topic id="7433b02f-1bcf-4d2a-b2e9-6be60acb184e" value="Dentistry" />
+    <Topic id="ea4d6a6d-c400-4258-9562-0016d3d0d603" value="Manufacturing &amp; Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="17bb9c94-dd97-42b9-a3ea-d1d67cee97f5" ipa="/ˈfɪl.ɪŋ/" vi_ipa="phí-líng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="237ce332-a110-48ac-b342-f972fb648445" type="Noun">
+          <Vi>Đồ nhồi, phần nhân (trong món ăn)</Vi>
+          <En>The substance used to fill a cavity, hollow space, or gap, especially in food (e.g., inside a pastry) or a container.</En>
+          <Example>The apple pie had a sweet cinnamon filling.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51682ae6-4695-44ad-b22f-01a3edead0fe">
+              <Vi>Bếp trưởng đang đổ nhân sô cô la vào lớp bánh trước khi nướng.</Vi>
+              <En>The chef is pouring chocolate filling into the pastry shell before baking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7e9d8c5d-4d96-4491-9e63-b7e90735b564" type="Noun">
+          <Vi>Vật nhồi, chất độn (trong nha khoa)</Vi>
+          <En>A material used to fill a cavity in a tooth after decay has been removed.</En>
+          <Example>The dentist placed a white composite filling in the molar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9997e807-1479-45c8-b8ee-80e7e99a5e2e">
+              <Vi>Sau khi lấy sâu, nha sĩ đặt miếng trám vào răng.</Vi>
+              <En>After removing the decay, the dentist placed a filling in the tooth.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b6ff6ed9-209a-4c80-8fe0-73bfa9a617d1" type="Noun">
+          <Vi>Chất lấp đầy, vật liệu độn (trong kỹ thuật)</Vi>
+          <En>A material used to fill gaps, cracks, or voids in structures, machinery, or containers to provide support, seal, or stability.</En>
+          <Example>They used epoxy filler to smooth out the dent in the car panel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64d84dc8-1156-47d0-b11e-024dc065c50d">
+              <Vi>Kỹ sư dùng keo độn để bịt kín khe hở trong hệ thống ống dẫn.</Vi>
+              <En>The engineer used sealant filler to close gaps in the pipeline system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
