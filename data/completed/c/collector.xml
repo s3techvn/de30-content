@@ -1,0 +1,52 @@
+<Vocab id="98608bca-b8b5-4051-acea-921afbbbbaaf" word="collector" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a82aed41-543a-417f-9a02-dfaee0fd2cca" value="Hobbies" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="52e96840-b40d-4899-acca-455cc3161b5e" value="Antique Dealer" />
+    <Profession id="82b90720-3dea-454b-9ffb-b7ab21c04d75" value="Debt Collector" />
+    <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" value="Museum Curator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1c9f5d76-07cb-4a36-8534-420e42d3270d" ipa="/ˈkɒl.ɪk.tər/" vi_ipa="côn-tơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="568ee6f2-f5c2-464e-bd61-2abee720c15a" type="Noun">
+          <Vi>Người thu thập (vật phẩm)</Vi>
+          <En>A person who collects items of a particular type, especially as a hobby or profession.</En>
+          <Example>She is an avid collector of vintage postcards.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a2bbba0-f47d-4382-a843-78e4a0ac39b4">
+              <Vi>Người sưu tầm tem, tiền cổ, đồ gốm sứ, v.v.</Vi>
+              <En>Someone who gathers stamps, antiques, coins, or other collectibles regularly.</En>
+            </Situation>
+            <Situation id="1159f29a-a098-4668-8982-4fc2f0544ddb">
+              <Vi>Người thu tiền nợ thay cho tổ chức tài chính.</Vi>
+              <En>A person employed to collect debts or overdue payments on behalf of a company.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d8bd72da-104f-4dab-82a6-3cc4884a42f8" type="Noun">
+          <Vi>Bộ phận thu (trong thiết bị điện tử)</Vi>
+          <En>A component in an electrical device that collects charge or current, such as the collector in a transistor.</En>
+          <Example>In a bipolar junction transistor, the collector draws in the charge carriers emitted by the emitter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c48016b-e03f-47b3-be50-42212fb69c27">
+              <Vi>Người kỹ sư điện tử phân tích vai trò của cực thu trong mạch khuếch đại.</Vi>
+              <En>An electronics engineer explaining how the collector functions in a transistor circuit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
