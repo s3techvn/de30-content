@@ -1,0 +1,40 @@
+<Vocab id="faa2eeed-cd82-4953-830f-95fa527baff8" word="cigarette" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a6ca9210-d340-4678-9ae3-7a5c7cdd9291" value="Smoking" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+    <Profession id="4a93b435-9262-4004-a025-0ebd387378a9" value="Tobacco Industry Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f189c195-5a8f-46d7-872a-489115d89bfd" ipa="/ˈsɪɡ.ər.ət/" vi_ipa="xì-gờ-rét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3894a38-1cb2-486b-a529-0bb927cc34c1" type="Noun">
+          <Vi>thuốc lá cuộn sẵn, thường có lọc, dùng để hút</Vi>
+          <En>a thin cylinder of paper filled with tobacco, typically with a filter, that is smoked</En>
+          <Example>He lit a cigarette and leaned against the wall, exhaling slowly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c44a23e1-b363-4a93-96bc-debcabe17bd3">
+              <Vi>Một người đang hút thuốc sau khi ăn hoặc trong lúc nghỉ ngơi.</Vi>
+              <En>A person smoking a cigarette after a meal or during a break.</En>
+            </Situation>
+            <Situation id="89e5a264-874a-4c5b-864b-fa04b5741492">
+              <Vi>Hình ảnh quảng cáo hoặc cảnh phim cũ có nhân vật hút thuốc.</Vi>
+              <En>Depictions in old advertisements or films showing characters smoking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

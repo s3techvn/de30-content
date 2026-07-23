@@ -1,0 +1,40 @@
+<Vocab id="7492ffe5-ec01-4b1d-86ab-d30e3cc5eafb" word="authentic" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="295a3ec5-db10-4f9d-b614-35b6b8d68cd9" value="Tourism Professional" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="00eb7c6d-e470-41ed-86bb-242b901a2756" ipa="/ɔːˈθen.tɪk/" vi_ipa="ao-then-tíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6f2994e9-45ed-4899-9059-3228afc0c58e" type="Adjective">
+          <Vi>thực sự, chính gốc, không giả tạo</Vi>
+          <En>Not false or copied; genuine, real, or original.</En>
+          <Example>The restaurant serves authentic Thai cuisine made with traditional recipes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e678c9c2-81c7-419e-b0d1-161b40fba4f8">
+              <Vi>Mô tả đồ ăn, văn hóa, hoặc vật phẩm đúng như bản gốc, không pha trộn hay làm giả.</Vi>
+              <En>Used to describe food, cultural practices, or artifacts that are true to their origin and not imitation or modified.</En>
+            </Situation>
+            <Situation id="bc277fc4-076c-4f59-a978-f7bc6ab3e580">
+              <Vi>Khi khẳng định tính xác thực của tài liệu, lời khai, hoặc tác phẩm nghệ thuật.</Vi>
+              <En>Used when affirming the authenticity of documents, testimonies, or artworks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
