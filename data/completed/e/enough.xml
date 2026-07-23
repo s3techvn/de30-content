@@ -1,0 +1,60 @@
+<Vocab id="9cde761a-9899-437c-840e-70c961e65fb8" word="enough" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b113d7bc-0db3-4f90-802b-c2f062b4ebe9" ipa="/ɪˈnʌf/" vi_ipa="i-năp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9707a2da-780c-47b4-8dbe-a58e4ff53e81" type="Adjective">
+          <Vi>đủ, đủ dùng, đủ điều kiện</Vi>
+          <En>as much or as many as is needed or required</En>
+          <Example>We have enough food for everyone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a8ff444-9672-40c4-a9df-d5aa10b947f0">
+              <Vi>Mô tả tình huống khi lượng tài nguyên, thời gian, hoặc nỗ lực đạt mức yêu cầu tối thiểu.</Vi>
+              <En>Describing a situation where resources, time, or effort meet the minimum required level.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="93979dc4-659f-4239-a62f-bf14216907cb" type="Adverb">
+          <Vi>đến mức cần thiết, đủ để</Vi>
+          <En>to a sufficient or satisfactory degree or extent</En>
+          <Example>She didn’t run fast enough to win the race.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="23b7fafe-7543-4ea4-920a-84d48645daeb">
+              <Vi>Dùng để nhấn mạnh mức độ cần thiết trong hành động hoặc trạng thái.</Vi>
+              <En>Used to emphasize the required degree in an action or state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fc6f41eb-4a26-427d-a5e8-4baa15d562cf" type="Noun">
+          <Vi>sự vừa đủ, phần đủ</Vi>
+          <En>an adequate amount, especially of food or money</En>
+          <Example>He ate his fill and then some — he always orders more than enough.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ada726fb-7ee5-4ab2-b883-7132a0b6654b">
+              <Vi>Tình huống khi nói về lượng thực phẩm hoặc tiền bạc được cung cấp hoặc tiêu dùng.</Vi>
+              <En>Situation where food or money supply is discussed in terms of adequacy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1925,3 +1925,4 @@ deadline
 tar
 accuracy
 session
+shade
