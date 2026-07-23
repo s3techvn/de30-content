@@ -1,0 +1,48 @@
+<Vocab id="c9d83378-3ed9-4914-b792-3787d2353774" word="organizer" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="279535e1-a068-4634-8bbb-bfef68ecbf8c" value="Executive Assistant" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="28296e50-d553-4400-be2b-d42678c4adf3" ipa="/ˈɔːr.ɡən.aɪ.zər/" vi_ipa="o-gơ-nai-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8759b3d2-111c-4aed-97bb-4642bd7ebbfc" type="Noun">
+          <Vi>người tổ chức; người điều phối</Vi>
+          <En>a person who plans and manages events, activities, or tasks</En>
+          <Example>She hired a professional wedding organizer to handle all the details.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d7d4277-278d-4e3b-a054-ceec669c811c">
+              <Vi>Người được thuê để lên kế hoạch và điều phối sự kiện như hội nghị, tiệc cưới, hoặc chuyến đi công tác.</Vi>
+              <En>A person hired to plan and coordinate events such as conferences, weddings, or business trips.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="34e2a87f-3233-4fee-8aac-57507e16c380" type="Noun">
+          <Vi>ổ chứa đồ; hộp đựng giấy tờ; sổ tay tổ chức công việc</Vi>
+          <En>a physical or digital tool used to store, sort, and manage documents, appointments, or tasks</En>
+          <Example>He keeps his business cards and notes in a sleek desk organizer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="449f1800-300e-4dcc-8b2a-fe340b5816e6">
+              <Vi>Sử dụng để sắp xếp tài liệu, lịch hẹn, hoặc vật dụng cá nhân trên bàn làm việc hoặc trong điện thoại.</Vi>
+              <En>Used to organize documents, appointments, or personal items on a desk or in a digital device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
