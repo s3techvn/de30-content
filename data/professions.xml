@@ -660,4 +660,5 @@
   <Profession id="ec104ec7-35ce-4720-a33b-e90df9d7348b" slug="startup-founder" value="Startup Founder" />
   <Profession id="ad9f3193-4a3b-4ba7-a1f5-9afeae595f34" slug="ceo" value="CEO" />
   <Profession id="733dbaa2-d796-4eb8-8120-965934feab00" slug="remote-worker" value="Remote Worker" />
+  <Profession id="bba33354-152e-4c85-8544-c839ee711f14" slug="systems-administrator" value="Systems Administrator" />
 </Professions>

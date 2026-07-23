@@ -1,0 +1,40 @@
+<Vocab id="34429c08-5db9-4eb7-ba97-8e729ca6ef41" word="murphy" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="29f35f2c-5886-4eac-bcc2-911301011fd1" value="Everyday Expressions" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="bba33354-152e-4c85-8544-c839ee711f14" value="Systems Administrator" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="91d89fb8-1312-4a51-8384-3b02afc02282" ipa="/ˈmɜːr.fi/" vi_ipa="mơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6a577d31-eecc-470f-bb76-727d5ecbb3fb" type="Noun">
+          <Vi>Hiện tượng lỗi xảy ra đúng lúc quan trọng nhất, hoặc lỗi luôn xuất hiện khi hệ thống đang thử nghiệm hoặc bị giám sát; thường gắn với định luật Murphy</Vi>
+          <En>A situation in which something goes wrong at the worst possible moment, especially during critical operation or testing; often associated with Murphy's Law</En>
+          <Example>When the presentation crashed right after the CEO walked in, it was a classic Murphy moment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="051c8d67-98a1-4d84-9b0e-ee538dfc19f0">
+              <Vi>Tình huống hệ thống tự động tắt khi đang trình diễn trước khách hàng quan trọng</Vi>
+              <En>A scenario where an automated system fails precisely during a live demo for key stakeholders</En>
+            </Situation>
+            <Situation id="5d30cede-9d9a-4683-8939-4bd19ba4c806">
+              <Vi>Lỗi phần mềm chỉ xuất hiện khi đang kiểm tra chất lượng, nhưng biến mất khi kỹ thuật viên kiểm tra lại</Vi>
+              <En>A software bug that appears only during quality assurance testing but disappears when engineers try to reproduce it</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
