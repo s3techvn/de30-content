@@ -1,0 +1,54 @@
+<Vocab id="4646cb6f-9a24-4bc6-819e-582cea84d1da" word="petition" type="short" status="done">
+  <Topics>
+    <Topic id="a7fb9478-e657-478f-9ed8-2f4f15e8ffe7" value="Law &amp; Government" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="fbe0905a-3244-43a8-b4f5-0debf3cfb215" value="Activist" />
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9a30d7ba-b9bb-494a-8e30-d1fec67e6019" ipa="/pəˈtɪʃ.ən/" vi_ipa="pờ-ti-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="431b615a-e4b0-4cb2-a99c-d30e020c71ec" type="Noun">
+          <Vi>Đơn kiến nghị; đơn xin</Vi>
+          <En>A formal written request, typically one signed by many people, addressing an authority or official body and requesting a particular action or change.</En>
+          <Example>The environmental group submitted a petition to the city council requesting stricter pollution controls.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68562d80-6ace-480f-9fcd-1534cf58a2ea">
+              <Vi>Một nhóm công dân tập hợp chữ ký để yêu cầu chính quyền xây dựng công viên trong khu dân cư.</Vi>
+              <En>A group of citizens collects signatures to request the local government build a park in their neighborhood.</En>
+            </Situation>
+            <Situation id="cb3b94a7-eb84-4f40-b0ec-ae22ced3ddf9">
+              <Vi>Nhà hoạt động xã hội trình đơn kiến nghị đòi cải cách luật lao động.</Vi>
+              <En>A social activist submits a petition demanding labor law reform.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d1ae09c8-d29c-4ebd-b211-d77a8a03a6d5" type="Verb">
+          <Vi>Kiến nghị; xin (thông qua đơn)</Vi>
+          <En>To make a formal request, especially by submitting a petition.</En>
+          <Example>They petitioned the mayor to restore funding for public libraries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="63cf8508-b147-4f2d-9987-44af0dee5bab">
+              <Vi>Học sinh kiến nghị hiệu trưởng cho phép tổ chức sự kiện ngoài trời.</Vi>
+              <En>Students petitioned the principal to allow an outdoor event.</En>
+            </Situation>
+            <Situation id="34f7c8d3-4861-48b9-8db9-a2b23f628c39">
+              <Vi>Cư dân khu phố kiến nghị chính quyền sửa chữa con đường bị hư hỏng.</Vi>
+              <En>Neighborhood residents petitioned the authorities to repair the damaged road.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
