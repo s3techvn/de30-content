@@ -1,0 +1,32 @@
+<Vocab id="4b81e298-5dd9-4f0f-81d0-3d9c8ae0b996" word="casey" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="193eff9c-5901-401c-8486-94dbb5daf251" ipa="/ˈkeɪ.si/" vi_ipa="kê-xây">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0763da9-9098-4b88-9acc-17e9227d9f37" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là họ người Mỹ</Vi>
+          <En>A proper noun, typically used as a surname or given name in the United States.</En>
+          <Example>Casey Smith won the regional science fair.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="12fad4b6-afe4-4597-9555-3f69ae8dadd5">
+              <Vi>Dùng để chỉ một cá nhân mang tên Casey, ví dụ trong giới giải trí, thể thao, hoặc học thuật.</Vi>
+              <En>Used to refer to an individual named Casey, e.g., in entertainment, sports, or academia.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
