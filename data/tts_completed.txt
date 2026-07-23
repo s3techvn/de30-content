@@ -1078,3 +1078,4 @@ python
 bean
 pix
 moderate
+opposed
