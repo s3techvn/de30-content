@@ -1,0 +1,53 @@
+<Vocab id="f08090ff-8973-4988-9fcf-9534dc207593" word="thing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" value="General Public" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="20b143cd-54b2-4712-ac52-c3efc07bb687" ipa="/θɪŋ/" vi_ipa="thíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4532b49f-f755-480b-85c0-bb3f2524b864" type="Noun">
+          <Vi>thứ, vật, đồ vật, sự vật</Vi>
+          <En>An object, person, or idea that can be perceived or thought about.</En>
+          <Example>I need to buy a new thing for the kitchen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38a34cc1-8fac-4cb0-a6d5-c00448d923a9">
+              <Vi>Người nói đang chỉ đến một vật cụ thể hoặc trừu tượng chưa được xác định rõ.</Vi>
+              <En>The speaker refers to a specific or abstract object not yet clearly identified.</En>
+            </Situation>
+            <Situation id="b532215e-b02d-4b6f-abbf-4486b65264fc">
+              <Vi>Dùng trong các cụm như "thing to do", "thing of beauty" để nói về một việc hoặc một đối tượng có giá trị.</Vi>
+              <En>Used in phrases like "thing to do" or "thing of beauty" to refer to an action or object of value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b520993a-6c4e-467e-8167-a83b75671236" type="Noun">
+          <Vi>việc, chuyện, tình huống</Vi>
+          <En>A matter, event, or situation, especially one that is notable or requires attention.</En>
+          <Example>That's not my thing—I prefer quiet evenings at home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79499848-bba3-4b3f-8804-7e7a86636c64">
+              <Vi>Dùng để chỉ một đặc điểm, sở thích hoặc khả năng đặc biệt của ai đó (thường trong cụm "it's not my thing").</Vi>
+              <En>Used to indicate a personal preference, interest, or aptitude (often in the phrase "it's not my thing").</En>
+            </Situation>
+            <Situation id="ab8e6ee8-4937-4ac1-9aae-3f6d25438473">
+              <Vi>Dùng để nói về một tình huống hoặc vấn đề đang được bàn luận.</Vi>
+              <En>Used to refer to a situation or issue currently under discussion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
