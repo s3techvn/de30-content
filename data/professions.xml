@@ -703,4 +703,6 @@
   <Profession id="799afa6b-0ebb-4d54-92a0-ba3e94cd49c4" slug="archivist" value="Archivist" />
   <Profession id="b7afe95f-b2ec-4dd7-b4b0-2b67dcab0fe5" slug="performing-artist" value="Performing Artist" />
   <Profession id="fc1bcb8f-804c-4668-80a6-6076571d674a" slug="financial-trader" value="Financial Trader" />
+  <Profession id="e2f93f85-dcaa-4bfb-89f7-712ad8d4a8ac" slug="massage-therapist" value="Massage Therapist" />
+  <Profession id="e13e0376-bad1-4f3b-a17a-0577439b6b16" slug="spa-technician" value="Spa Technician" />
 </Professions>
