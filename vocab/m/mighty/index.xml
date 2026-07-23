@@ -1,0 +1,38 @@
+<Vocab id="1ca32d0a-e3c8-47ca-a069-39af04f021a9" word="mighty" type="short" status="done">
+  <Topics>
+    <Topic id="1a68931c-9bd2-47dc-b2c4-2cc1f09e8979" value="Descriptive Language" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cd097fd1-1f9c-416a-8bb6-94562d4693c7" ipa="/ˈmaɪ.ti/" vi_ipa="mai-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5fa7a2da-5121-42c3-99bd-bfb693fbdffd" type="Adjective">
+          <Vi>hùng mạnh, oai phong, mạnh mẽ (nhấn mạnh về sức mạnh vượt trội hoặc uy lực đáng kinh ngạc)</Vi>
+          <En>having great power or strength; impressive in force or effect</En>
+          <Example>The mighty river carved a deep canyon over thousands of years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="327f056d-4e25-494c-b7aa-e24bdf24a922">
+              <Vi>Mô tả một lực lượng, thiên nhiên, hoặc cá nhân có sức mạnh phi thường.</Vi>
+              <En>Used to describe a force of nature, a powerful individual, or an overwhelming force.</En>
+            </Situation>
+            <Situation id="e8a082e1-c35f-4378-9e2a-b145551d414b">
+              <Vi>Trong văn học hoặc diễn thuyết, để tăng tính biểu cảm và nhấn mạnh.</Vi>
+              <En>In literature or speech, to add rhetorical emphasis and vivid imagery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
