@@ -1,0 +1,32 @@
+<Vocab id="c9e6c173-bc88-4c67-a00c-cb8981111835" word="phi" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a6e83264-eef1-4c14-bd20-9a81889b6bca" ipa="/fɪ/" vi_ipa="phi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2d1888e0-17dc-4229-bd3d-304d7f36fe95" type="Noun">
+          <Vi>Phật (viết tắt của "Phật Tổ" hoặc "Phật Đà", dùng trong ngữ cảnh tôn giáo Phật giáo)</Vi>
+          <En>Buddha (a shortened form of "Phật Tổ" or "Phật Đà", used in Buddhist religious contexts)</En>
+          <Example>Chúa nhật hàng tuần, ông ấy thường đến chùa để lễ phi.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2f73e86-7567-495b-8d34-7defdef8c162">
+              <Vi>Người Việt Nam dùng "phi" như một cách xưng hô trang trọng khi nói về Đức Phật trong các nghi lễ Phật giáo.</Vi>
+              <En>Vietnamese people use "phi" as a respectful term for the Buddha during Buddhist rituals and ceremonies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

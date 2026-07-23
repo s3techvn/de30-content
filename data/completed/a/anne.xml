@@ -1,0 +1,32 @@
+<Vocab id="dcdc63b8-3fa7-4957-a3e7-918de224e1cf" word="anne" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="475aa422-c55a-4071-b2cc-0a0858500ab6" ipa="/æn/" vi_ipa="an">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31e3b791-4e9f-4f3c-bc7f-7787b9d4738c" type="Proper Noun">
+          <Vi>Tên riêng, thường là tên nữ (viết tắt của Anne hoặc Ann)</Vi>
+          <En>A female given name, often a variant spelling of Anne or Ann.</En>
+          <Example>She introduced herself as Anne, but preferred to be called Anne.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d8479f0-2d9d-4d34-8f54-2d0455b4afdd">
+              <Vi>Dùng khi giới thiệu hoặc nhắc đến một người tên Anne, đặc biệt trong văn viết hoặc ngữ cảnh chính thức.</Vi>
+              <En>Used when introducing or referring to a person named Anne, especially in writing or formal contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
