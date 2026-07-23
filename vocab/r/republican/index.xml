@@ -1,0 +1,64 @@
+<Vocab id="37a6f6c1-30f5-4923-9635-60859510a943" word="republican" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="3f493be6-e848-4390-a6f4-3ff87e6d6ab5" value="Political Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cf65a148-f120-4d21-a67f-a1d90ef4d727" ipa="/rɪˈpʌb.lɪ.kən/" vi_ipa="rị-páp-líc-kơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7c431455-8d18-4c70-8556-32108c2b5c01" type="Adjective">
+          <Vi>thuộc về nền cộng hòa; theo chủ nghĩa cộng hòa</Vi>
+          <En>relating to a republic or its principles, especially characterized by representative government and the rule of law</En>
+          <Example>They debated the merits of a republican form of government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b2bd819-4a2c-45e3-91d2-f5c01db7e2e0">
+              <Vi>Mô tả hệ thống chính trị không có vua, do nhân dân bầu ra đại diện quản lý đất nước.</Vi>
+              <En>Describing a political system without a monarch, where representatives elected by the people govern the country.</En>
+            </Situation>
+            <Situation id="13e2a736-29cc-458c-83b6-fcc97ab09860">
+              <Vi>Thuộc về Đảng Cộng hòa (Republican Party) tại Hoa Kỳ.</Vi>
+              <En>Belonging to the Republican Party in the United States.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0823ee14-691e-4400-9d43-9372bcbeb003" ipa="/ˈrep.əb.lɪk.ən/" vi_ipa="rếp-báp-líc-kơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dbff87ac-f666-47f3-9478-4d5052202ce9" type="Noun">
+          <Vi>người theo chủ nghĩa cộng hòa; thành viên Đảng Cộng hòa (Mỹ)</Vi>
+          <En>a person who supports a republican form of government, or a member of the Republican Party in the United States</En>
+          <Example>She identifies as a republican and actively campaigns for party candidates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7231c83b-2db8-409f-8245-c6ab00f901f5">
+              <Vi>Người ủng hộ mô hình chính trị không có quân chủ, với quyền lực thuộc về dân.</Vi>
+              <En>A person who supports a non-monarchical political system where power resides with the people.</En>
+            </Situation>
+            <Situation id="3582b089-f02f-47ef-818f-b13a17a6007c">
+              <Vi>Người đăng ký hoặc bầu cử cho Đảng Cộng hòa tại Mỹ.</Vi>
+              <En>A person registered or voting for the Republican Party in the United States.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
