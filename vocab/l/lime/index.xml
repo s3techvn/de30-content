@@ -1,0 +1,66 @@
+<Vocab id="6aedb34e-ab9a-4b8c-9f8b-495c2bc441fb" word="lime" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+    <Topic id="688bf6df-fa7e-48df-a885-147015dc3191" value="Gardening" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="d8dc43b0-aebb-4507-a2b7-d458f92e7890" value="Mixologist" />
+    <Profession id="4505b9f7-0022-4255-bf6d-b006cdff3d80" value="Agricultural Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="16d89a1a-ff9f-41ea-97c5-a3a149f668e0" ipa="/laɪm/" vi_ipa="lai-mơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="178961b0-f654-4f12-ab61-c95972af23df" type="Noun">
+          <Vi>Quả chanh dây (chanh vàng); vôi sống (CaO)</Vi>
+          <En>A small, round, green citrus fruit with acidic juice, or a white, caustic, alkaline solid (calcium oxide) used in industry and agriculture.</En>
+          <Example>She squeezed a lime into her margarita for extra tang.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="303a3ba9-f883-483e-9c47-4ef7744539bf">
+              <Vi>Pha đồ uống hoặc làm nước chấm với nước cốt chanh dây</Vi>
+              <En>Using fresh lime juice to flavor drinks or dipping sauces in Southeast Asian cuisine.</En>
+            </Situation>
+            <Situation id="bd435236-eeff-4acb-b13c-fb7b7a53097c">
+              <Vi>Trộn vôi sống vào đất để khử chua</Vi>
+              <En>Applying agricultural lime (calcium oxide) to acidic soil to raise its pH.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="cab7e899-fe9d-4507-a16e-ab965359284e" ipa="/lɪm/" vi_ipa="lim">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf94fdf7-f36d-4b9f-9afd-8b884be1ded2" type="Noun">
+          <Vi>Quả chanh (chanh xanh), thường chỉ chanh Mỹ (Citrus aurantiifolia)</Vi>
+          <En>A specific type of small, seedless, green citrus fruit, commonly used in cocktails and cooking, especially in the Americas.</En>
+          <Example>He garnished the fish with a wedge of lime.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d79d9c60-03b8-43ae-8d26-e5247501bee2">
+              <Vi>Trang trí món ăn hoặc nước uống bằng miếng chanh xanh</Vi>
+              <En>Serving grilled shrimp with a lime wedge on the side for squeezing.</En>
+            </Situation>
+            <Situation id="a01068d3-e5bf-460a-a52b-f8cbdc7e014b">
+              <Vi>Chiết xuất tinh dầu từ vỏ chanh xanh trong công nghiệp mỹ phẩm</Vi>
+              <En>Extracting lime essential oil from the peel for use in perfumes and cleaning products.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

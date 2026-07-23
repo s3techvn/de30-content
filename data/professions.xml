@@ -614,4 +614,7 @@
   <Profession id="18286525-3c3a-466c-9c74-ee80cf0db02f" slug="administrative-assistant" value="Administrative Assistant" />
   <Profession id="d8dc43b0-aebb-4507-a2b7-d458f92e7890" slug="mixologist" value="Mixologist" />
   <Profession id="4505b9f7-0022-4255-bf6d-b006cdff3d80" slug="agricultural-scientist" value="Agricultural Scientist" />
+  <Profession id="528d8fba-e4bb-4c2e-bffd-58e85f7f4942" slug="automotive-mechanic" value="Automotive Mechanic" />
+  <Profession id="e4282717-a360-470c-912c-c442956e683a" slug="cyclist" value="Cyclist" />
+  <Profession id="41d3acbe-40b4-4196-b5c2-f1cdb824f883" slug="wheelwright" value="Wheelwright" />
 </Professions>
