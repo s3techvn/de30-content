@@ -1,0 +1,68 @@
+<Vocab id="6ce9480b-b432-4009-b576-de7104cd75be" word="off" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a371881c-4247-4a34-95f9-b73a44b5d0cb" ipa="/ɒf/" vi_ipa="ốp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="523fef08-6d4f-40fd-bdfa-89afdc668612" type="Adverb">
+          <Vi>tắt; ngắt; nghỉ; không còn hoạt động</Vi>
+          <En>Not in a state of operation, activity, or production; no longer on.</En>
+          <Example>The lights went off during the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="977b8a1c-63af-454a-9366-21da2b611302">
+              <Vi>Mô tả việc thiết bị điện ngừng hoạt động đột ngột.</Vi>
+              <En>Describing a device or appliance suddenly ceasing to function.</En>
+            </Situation>
+            <Situation id="c8d29d60-f13e-4b23-9c0c-b3023ccdea97">
+              <Vi>Mô tả việc nghỉ làm hoặc rời khỏi nơi làm việc.</Vi>
+              <En>Describing time away from work or leaving the workplace.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="27e45ecf-dff0-4687-a450-d2f534ef7390" type="Adverb">
+          <Vi>xa hơn; rời khỏi (vị trí, thời gian, v.v.)</Vi>
+          <En>Away from a place, person, or thing; no longer near or in contact.</En>
+          <Example>She drove off into the sunset.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e6bb901-3dca-4820-9e18-2bb2513b70a9">
+              <Vi>Mô tả việc một người hoặc phương tiện rời khỏi hiện trường.</Vi>
+              <En>Describing a person or vehicle leaving a location.</En>
+            </Situation>
+            <Situation id="52258710-bc16-479a-a811-42a34adb5a6e">
+              <Vi>Mô tả việc thời gian trôi qua sau một sự kiện.</Vi>
+              <En>Describing time passing after an event (e.g., "three days off").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="77f70193-0a8e-49d9-b541-8243ae57378d" type="Adverb">
+          <Vi>không đúng như dự kiến; không thành công</Vi>
+          <En>Not as expected or intended; failing to meet expectations.</En>
+          <Example>The plan went off track after the first meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="95c20a68-0785-4bc0-a748-99980f67b043">
+              <Vi>Mô tả kế hoạch hoặc sự kiện không diễn ra như mong muốn.</Vi>
+              <En>Describing a plan or event that did not go as intended.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

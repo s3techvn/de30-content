@@ -1,0 +1,56 @@
+<Vocab id="a5c14432-0df5-4d7a-a026-338e6fb6f04c" word="ship" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="deec797e-c7c4-4fee-b6c1-77c6f75714c1" value="Merchant Navy Officer" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="4bb43b6f-2f4e-4dbb-a6a5-36701d232680" value="Naval Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bacde147-11ac-42e2-943c-d7ef90b1f67f" ipa="/ʃɪp/" vi_ipa="síp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12de0956-2db7-4dcd-b31a-ad8a6c3c3a50" type="Noun">
+          <Vi>con tàu, tàu thủy</Vi>
+          <En>A large vessel for traveling on water, especially one used for commercial or military purposes.</En>
+          <Example>The cargo ship arrived at the port early this morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1b78eb8e-87f7-4ad7-b179-025eabf11267">
+              <Vi>Mô tả một phương tiện vận chuyển lớn trên biển, thường dùng để chở hàng hoặc hành khách.</Vi>
+              <En>Describing a large watercraft used for transporting goods or passengers across oceans.</En>
+            </Situation>
+            <Situation id="bb50db88-d1c0-41d5-9987-804ed0b11bb7">
+              <Vi>Trong ngữ cảnh quân sự, chỉ tàu chiến hoặc tàu ngầm.</Vi>
+              <En>In military contexts, refers to warships or submarines.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ee6c376-b2cb-4253-9bba-065ce8dbb55b" type="Verb">
+          <Vi>chở bằng tàu, gửi hàng bằng đường biển</Vi>
+          <En>To transport goods or people by ship, especially across seas or oceans.</En>
+          <Example>The company will ship the furniture to your new home next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02d9b2f9-05e7-420c-afcc-157d4e98cf14">
+              <Vi>Hành động vận chuyển hàng hóa từ nước này sang nước khác qua đường biển.</Vi>
+              <En>The act of moving goods internationally via maritime routes.</En>
+            </Situation>
+            <Situation id="ebc9650f-a4d7-4add-aa9e-9ed6689e6422">
+              <Vi>Trong thương mại điện tử, chỉ việc gửi hàng cho khách sau khi đặt mua online.</Vi>
+              <En>In e-commerce, refers to dispatching purchased items to customers after order confirmation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
