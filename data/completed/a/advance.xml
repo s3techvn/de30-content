@@ -1,0 +1,82 @@
+<Vocab id="4168069b-c673-49ce-a4a4-2d384fe46ba8" word="advance" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1dd0d65c-1082-42e1-a2f7-55219927fcbc" ipa="/ədˈvæns/" vi_ipa="a-dvăng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4cb6b08a-158c-444c-8022-30b5186824d4" type="Verb">
+          <Vi>tiến lên, phát triển, thúc đẩy</Vi>
+          <En>to move forward or make progress, especially toward a goal or objective</En>
+          <Example>They decided to advance the project deadline by two weeks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9690d37-f3f4-4369-936a-88c8bc6987b9">
+              <Vi>Thúc đẩy tiến độ công việc hoặc kế hoạch sớm hơn dự kiến.</Vi>
+              <En>Accelerating the schedule of a project or plan beyond the original timeline.</En>
+            </Situation>
+            <Situation id="0c89bb32-eeff-4e1b-8531-0a3a392f6665">
+              <Vi>Đưa ra tiền tệ hoặc tài sản trước khi được yêu cầu (trong tài chính).</Vi>
+              <En>Providing money or assets before they are due or requested (in finance).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8d717546-d729-49f1-8c35-a70fdb8a4e30" type="Noun">
+          <Vi>sự tiến bộ, sự tăng lương trước, khoản ứng trước</Vi>
+          <En>progress made toward a goal; or a sum of money paid or lent before it is due</En>
+          <Example>She received an advance on her salary for the holiday season.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5970f53-00b8-442c-9ec0-9defa7aaa774">
+              <Vi>Khoản tiền được trả trước cho công việc hoặc dịch vụ.</Vi>
+              <En>Money paid or lent before work or service is completed.</En>
+            </Situation>
+            <Situation id="b115dc41-24b2-43ad-b942-1841f43b9ba2">
+              <Vi>Mức độ tiến bộ trong một lĩnh vực khoa học hoặc công nghệ.</Vi>
+              <En>The degree of progress in a scientific or technological field.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="31bc6d46-7f11-4b09-872f-b1d8617ee951" ipa="/ədˈvɑːns/" vi_ipa="a-dvân-xơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d61f4175-fee8-4a1b-b2cb-a78664eb1433" type="Adjective">
+          <Vi>sớm hơn, trước, tiên phong</Vi>
+          <En>earlier than expected or scheduled; ahead of current time or stage</En>
+          <Example>We have received your advance notice of resignation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06e813aa-71da-48f2-a2d7-aaef25ab377b">
+              <Vi>Thông báo trước về một sự kiện hoặc hành động.</Vi>
+              <En>Notification given before an event or action takes place.</En>
+            </Situation>
+            <Situation id="2b2bfb9a-3212-4972-ac80-f9f31a70fc1d">
+              <Vi>Thiết bị hoặc công nghệ vượt trội hơn so với thời điểm hiện tại.</Vi>
+              <En>Equipment or technology that is significantly ahead of current standards.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
