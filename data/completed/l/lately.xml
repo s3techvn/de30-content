@@ -1,0 +1,32 @@
+<Vocab id="a4fa4402-9dec-4596-ab0a-71a21450a856" word="lately" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6abf7b4c-957a-43a8-8f6f-4f11746e14e9" ipa="/ˈleɪ.tli/" vi_ipa="lê-tli">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c83da557-5e53-402b-b7b0-2234518efcb0" type="Adverb">
+          <Vi>Gần đây, gần đây thôi</Vi>
+          <En>During the recent period; not long ago</En>
+          <Example>I haven’t seen her lately.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a03f111-7cda-433e-8a4d-c0634dd2b3d4">
+              <Vi>Mô tả những sự việc hoặc trạng thái xảy ra trong thời gian gần đây.</Vi>
+              <En>Used to describe events or states that have occurred or existed in the recent past.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
