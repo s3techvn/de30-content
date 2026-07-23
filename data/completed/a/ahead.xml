@@ -1,0 +1,64 @@
+<Vocab id="3ef8060d-c33d-4727-83e2-d76160b71eab" word="ahead" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a0af87ab-6cf7-4d27-930d-3df280156942" value="Navigation" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="915e98c5-77f1-412f-ae25-c793939b7d86" ipa="/əˈhed/" vi_ipa="ơ-hép">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="255b28be-641b-4721-bbc1-24b8f21f8fce" type="Adverb">
+          <Vi>Ở phía trước; trước (thời gian); trước (trong tương lai)</Vi>
+          <En>At or to a position further forward in space or time; in advance</En>
+          <Example>We need to move ahead to the next checkpoint.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4bb9431-cf05-4c45-95f8-5cb47cd32171">
+              <Vi>Chỉ vị trí hoặc hướng di chuyển về phía trước.</Vi>
+              <En>Indicates physical movement or positioning in front.</En>
+            </Situation>
+            <Situation id="dbf78e20-a7d3-4b7d-bc5c-4e08f8e75f75">
+              <Vi>Chỉ thời gian: trước, sớm hơn dự kiến.</Vi>
+              <En>Indicates time: earlier than expected or in advance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="02bc7443-6445-4623-90ca-51776e0b0008" type="Adverb">
+          <Vi>Trước (trong thứ tự, danh sách, kế hoạch)</Vi>
+          <En>In advance; prior to something else in a sequence or plan</En>
+          <Example>The first item on the agenda is set to be discussed ahead of the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1fac406-efde-4d5e-b6dc-494bc2cf10ba">
+              <Vi>Dùng trong kế hoạch, lịch trình để chỉ việc làm gì đó trước.</Vi>
+              <En>Used in planning or scheduling to indicate preparation or action in advance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03b205a4-cbc7-4386-be57-bb1f500edd0b" type="Adverb">
+          <Vi>Tốt hơn, vượt trội hơn (so sánh)</Vi>
+          <En>In a more favorable or superior position; leading</En>
+          <Example>She is ahead in the race by two seconds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bbb9807-9a87-42a7-b554-63227b517198">
+              <Vi>Chỉ sự vượt trội trong thi đấu, cạnh tranh, hoặc đánh giá.</Vi>
+              <En>Used to indicate being in the lead or superior position in competition or evaluation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
