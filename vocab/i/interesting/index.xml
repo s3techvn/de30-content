@@ -1,0 +1,40 @@
+<Vocab id="9abf1844-dca5-4730-8dc8-4f10c54d0d19" word="interesting" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="916b6d51-8b27-4ce0-9b3e-14aa31ed4ff3" ipa="/ˈɪn.trəs.tɪŋ/" vi_ipa="in-trờ-s-tíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c3a564d8-47d3-4818-9d03-9507d694462f" type="Adjective">
+          <Vi>thú vị, hấp dẫn, gây sự tò mò hoặc chú ý</Vi>
+          <En>arousing curiosity or interest; engaging or compelling</En>
+          <Example>The documentary was surprisingly interesting, even though it covered a technical topic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f08e25a5-1e35-4e0c-aafa-741af1dfd8f8">
+              <Vi>Mô tả một cuốn sách, bộ phim, hoặc cuộc trò chuyện khiến người nghe cảm thấy tò mò và muốn tiếp tục tìm hiểu.</Vi>
+              <En>Describing a book, movie, or conversation that makes the listener curious and wants to learn more.</En>
+            </Situation>
+            <Situation id="57838c6e-22b8-4bd8-8244-463cb38efa23">
+              <Vi>Dùng để khen một ý tưởng, thông tin, hoặc chủ đề có giá trị hoặc đáng chú ý.</Vi>
+              <En>Used to praise an idea, piece of information, or topic as valuable or noteworthy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
