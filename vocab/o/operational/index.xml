@@ -1,0 +1,52 @@
+<Vocab id="db3765cd-2fce-4487-a789-c1605e1e805e" word="operational" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ded2a707-654e-4f74-8649-4ae7c94624ad" ipa="/ˌɑː.pəˈreɪ.ʃən.əl/" vi_ipa="ác-pờ-rê-i-nờ-rờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2dc0ade2-7fa4-4426-8244-a42aa95cd525" type="Adjective">
+          <Vi>đang hoạt động; đang trong tình trạng sẵn sàng hoạt động; vận hành được</Vi>
+          <En>Being in a state of action or use; functioning or ready for action.</En>
+          <Example>The new software system is now fully operational after two weeks of testing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9ad1935-de60-4f67-bf04-b04f2c81eb54">
+              <Vi>Mô tả một thiết bị, hệ thống hoặc quy trình đang hoạt động bình thường.</Vi>
+              <En>Describing a device, system, or process that is functioning normally.</En>
+            </Situation>
+            <Situation id="d7b6d110-ba0e-4004-af60-0ceea2babeeb">
+              <Vi>Dùng trong hàng không để chỉ máy bay sẵn sàng cất cánh.</Vi>
+              <En>Used in aviation to indicate an aircraft is ready for takeoff.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1c978bf1-5722-40e4-9a28-806facf1fbdb" type="Adjective">
+          <Vi>liên quan đến việc vận hành hoặc thực hiện một công việc cụ thể</Vi>
+          <En>Relating to the actual performance or practical execution of a task or function.</En>
+          <Example>The operational costs of the factory include electricity, maintenance, and labor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf0865d8-3774-4025-9052-cab843ef9a3a">
+              <Vi>Dùng khi nói về chi phí, quy trình, hoặc điều kiện thực tế trong hoạt động thường ngày.</Vi>
+              <En>Used when referring to actual costs, processes, or conditions in day-to-day activities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
