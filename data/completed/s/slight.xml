@@ -1,0 +1,52 @@
+<Vocab id="790e4646-a56e-43a7-83c0-3aad3246013d" word="slight" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="99046287-877d-4cae-9645-05b68d893aef" value="Science &amp; Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4aaaf84d-ca82-4627-ac38-fd8fe8342ac1" ipa="/slaɪt/" vi_ipa="x-lai-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7c956b1-01e4-4ae0-b81a-aa965b5f7b50" type="Adjective">
+          <Vi>nhỏ, nhẹ, không đáng kể</Vi>
+          <En>small in degree or amount; not significant.</En>
+          <Example>The difference in their heights is only slight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9aee10ee-14a2-4f42-993d-171a0e937334">
+              <Vi>Mô tả sự khác biệt nhỏ, không rõ rệt.</Vi>
+              <En>Describing a small, barely noticeable difference.</En>
+            </Situation>
+            <Situation id="889dba0f-6344-4470-82a1-2bcfe9c2d34b">
+              <Vi>Dùng khi muốn làm nhẹ mức độ của một nhận xét.</Vi>
+              <En>Used to soften the intensity of a statement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cde2c46f-e37a-4e34-b50c-9a1c4cb8ff77" type="Verb">
+          <Vi>xem thường, khinh thường</Vi>
+          <En>to treat or consider as unimportant or unworthy of attention.</En>
+          <Example>She felt slighted when he didn’t invite her to the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d734ed24-ee06-41ef-a735-98928f6c7a6f">
+              <Vi>Cảm giác bị coi thường trong giao tiếp hoặc xã giao.</Vi>
+              <En>Feeling dismissed or ignored in a social or professional interaction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
