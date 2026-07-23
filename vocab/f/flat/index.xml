@@ -1,0 +1,96 @@
+<Vocab id="5d950211-4877-419d-9a03-5a93c47cc34e" word="flat" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="94fae3e5-88be-4e50-9c84-768595ee51e8" ipa="/flæt/" vi_ipa="ph-lép">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a7695670-70df-4938-868d-b47f37dbdbed" type="Adjective">
+          <Vi>phẳng, bằng phẳng</Vi>
+          <En>having a smooth, level surface; not curved or uneven.</En>
+          <Example>The table top is perfectly flat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ab08fac-3ad2-4854-8acc-1deb1ad1e907">
+              <Vi>Mô tả bề mặt không gồ ghề, không lồi lõm.</Vi>
+              <En>Describing a surface without bumps, curves, or irregularities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3ee67ccd-c0dd-4874-8815-91bf6b6d5167" type="Adjective">
+          <Vi>phẳng (dùng cho địa hình), đồng bằng</Vi>
+          <En>(of land) level and without hills or mountains.</En>
+          <Example>The Netherlands is famous for its flat landscape.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab565e29-8bf5-41c7-a510-edc3a20ae28d">
+              <Vi>Mô tả địa hình rộng, không có đồi núi.</Vi>
+              <En>Describing terrain that is wide, level, and lacks elevation changes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c39648c3-c186-4ac7-95b3-cff6fcf9f8a7" type="Adjective">
+          <Vi>phẳng (dùng cho lốp xe), xẹp (lốp)</Vi>
+          <En>(of a tire) deflated or burst; no longer holding air.</En>
+          <Example>We got a flat tire on the highway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="885986e8-294e-43e8-a05e-054f9744fffc">
+              <Vi>Tình huống lốp xe bị xẹp khi đang lái.</Vi>
+              <En>When a car tire loses air pressure and becomes unusable while driving.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f5565f05-3d6d-4f18-a33d-daf3e32dad4e" type="Adjective">
+          <Vi>phẳng (dùng cho âm thanh), không có âm điệu (nói về giọng nói)</Vi>
+          <En>(of a voice or sound) lacking variation in pitch; monotonous.</En>
+          <Example>He spoke in a flat, unemotional tone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a13a6c6-96bc-45c8-9e52-99b0915fe9ab">
+              <Vi>Mô tả giọng nói đơn điệu, không lên xuống.</Vi>
+              <En>Describing speech that lacks intonation or emotional inflection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2f6773eb-fd4c-4bc8-9343-1eab206c37ce" type="Adjective">
+          <Vi>phẳng (dùng cho giá cả), không có chiết khấu</Vi>
+          <En>(of a price) not reduced or discounted; fixed.</En>
+          <Example>We sell at flat rates—no hidden fees.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80f8a467-bbc1-461f-a4e2-bfac52ac8ef4">
+              <Vi>Giá cố định, không thương lượng hay giảm giá.</Vi>
+              <En>A pricing model where the cost is fixed and non-negotiable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ede57fbe-deb4-4ca2-9b52-c6ae82781f3f" type="Adjective">
+          <Vi>phẳng (dùng cho kết quả), không có sự thay đổi đáng kể</Vi>
+          <En>(of a result or trend) showing little or no change over time.</En>
+          <Example>The sales graph shows a flat trend this quarter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5bed59ba-82c7-462e-91bd-472456d78c77">
+              <Vi>Mô tả dữ liệu không tăng hoặc giảm (ví dụ: doanh số, nhiệt độ).</Vi>
+              <En>Describing data that remains stable or unchanged over a period.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
