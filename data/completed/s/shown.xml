@@ -1,0 +1,56 @@
+<Vocab id="924d1c50-981d-4980-9e16-9619bb2d592c" word="shown" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="103ff524-10dc-4351-ab73-e47fd94f9539" ipa="/ʃoʊn/" vi_ipa="sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="313d0956-3e5c-418c-9e34-708925a4e4b2" type="Adjective">
+          <Vi>được trình bày; được chỉ ra; được hiển thị</Vi>
+          <En>Displayed, presented, or revealed, especially in a visual or demonstrative context.</En>
+          <Example>The instructions were shown on the screen step by step.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6d09a31-e58e-4e33-ad1d-a934bc16f47e">
+              <Vi>Một bài giảng trực tuyến hiển thị các bước giải bài toán trên màn hình.</Vi>
+              <En>An online lecture displays the problem-solving steps visually on screen.</En>
+            </Situation>
+            <Situation id="fdb1350a-14e6-40cc-984e-c389f15ccd71">
+              <Vi>Trong phim, nhân vật chính được giới thiệu qua một cảnh hồi tưởng.</Vi>
+              <En>In the film, the main character is introduced through a flashback scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f35db484-ba04-4f66-bb91-203fc4c986e2" type="Verb (past participle of show)">
+          <Vi>đã cho thấy; đã trình bày; đã phơi bày</Vi>
+          <En>The past participle of 'show', used in passive constructions or perfect tenses to indicate something revealed or demonstrated.</En>
+          <Example>The evidence shown during the trial convinced the jury.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5cc54ed7-729c-491c-8fac-7ad001da133d">
+              <Vi>Trong báo cáo khoa học, dữ liệu được trình bày dưới dạng biểu đồ.</Vi>
+              <En>In the scientific report, the data was shown as charts.</En>
+            </Situation>
+            <Situation id="2c06bb3c-7ee3-4ec2-8fff-4117551e466e">
+              <Vi>Video an toàn lao động được chiếu trong buổi tập huấn.</Vi>
+              <En>The safety training video was shown during the orientation session.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
