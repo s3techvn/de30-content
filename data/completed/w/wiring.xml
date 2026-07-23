@@ -1,0 +1,40 @@
+<Vocab id="c6af5cb6-57e7-44c4-923e-db873ac624e1" word="wiring" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="f1c5c10b-6c62-4d44-a720-ded3e2133040" value="Electrical Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="432151cc-b07b-42af-872e-3fb8521188aa" value="ICT Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="72348db1-0c6e-4f7d-8d73-db57e45fad64" ipa="/ˈwaɪ.ər.ɪŋ/" vi_ipa="đuây-ơ-rinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ef36eeb-caed-4eb6-b3eb-3af171d7dfe6" type="Noun">
+          <Vi>Hệ thống dây dẫn điện; sự lắp đặt dây điện</Vi>
+          <En>The arrangement or system of wires in a building, device, or circuit for conducting electricity.</En>
+          <Example>The electrician checked the wiring in the old house for signs of damage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08a2315c-bc09-465c-9037-ddc4110ca441">
+              <Vi>Mô tả hệ thống dây điện trong nhà hoặc thiết bị điện tử.</Vi>
+              <En>Describing the electrical wiring in a building or electronic device.</En>
+            </Situation>
+            <Situation id="a3d4ff5f-deb4-47b0-a0f5-9cde6a29a3c3">
+              <Vi>Liên quan đến việc kiểm tra, sửa chữa hoặc lắp đặt dây điện.</Vi>
+              <En>Related to inspecting, repairing, or installing electrical wiring.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
