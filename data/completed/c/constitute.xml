@@ -1,0 +1,51 @@
+<Vocab id="1f7cf9a1-9e8d-4975-9f2f-2dd3987b82cf" word="constitute" type="short" status="done">
+  <Topics>
+    <Topic id="15c12b8e-f1b3-415b-9c66-e9e058239094" value="Law and Governance" />
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="26aea629-7692-4bd6-85fc-ca159a46c3a8" ipa="/ˈkɑːn.stə.tjuːt/" vi_ipa="cơn-stờ-tiu-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="71cd73bc-033c-4377-a836-bb6a496911af" type="Verb">
+          <Vi>chiếm, giữ (vị trí); tạo thành, cấu thành</Vi>
+          <En>to be the parts or members that make up (a whole); to hold (a position or office)</En>
+          <Example>The six members constitute the entire board.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="83a2aa35-3fbf-44bf-b5c2-3b4f074993b8">
+              <Vi>Mô tả một nhóm người hoặc vật tạo thành một thể thống nhất.</Vi>
+              <En>Describing a group of people or things forming a unified entity.</En>
+            </Situation>
+            <Situation id="1f5039b6-d8bb-4590-86e9-91a8ec761eb6">
+              <Vi>Mô tả việc một cá nhân giữ một chức vụ chính thức.</Vi>
+              <En>Describing an individual holding an official position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d45b88f0-3c84-4d2b-9d10-580172d20bb3" type="Verb">
+          <Vi>quy định, thiết lập (luật, hiến pháp)</Vi>
+          <En>to lay down or establish (laws, a constitution, or rules)</En>
+          <Example>The new constitution constitutes the framework of government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7294477-ac4d-4161-af96-1f5849b837d9">
+              <Vi>Sử dụng trong ngữ cảnh pháp lý hoặc hiến pháp để chỉ việc thiết lập quyền lực hoặc quy định.</Vi>
+              <En>Used in legal or constitutional contexts to refer to the establishment of authority or provisions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

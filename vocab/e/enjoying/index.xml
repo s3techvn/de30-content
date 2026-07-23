@@ -1,0 +1,32 @@
+<Vocab id="6ca5896b-6e30-4c0d-8a21-77f4dedc308e" word="enjoying" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="646084de-6134-4549-bba4-1d04aa9ed377" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2fc8a992-c5a5-4aa2-b1dc-acdcc4589f7d" ipa="/ɪnˈdʒɔɪ.ɪŋ/" vi_ipa="in-djôi-ing">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="30ba4000-b155-478d-b241-416cff8b8bb2" type="Verb (present participle/gerund)">
+          <Vi>đang tận hưởng; đang thích thú</Vi>
+          <En>the present participle and gerund form of 'enjoy', indicating an ongoing action or state of pleasure or satisfaction</En>
+          <Example>I am enjoying the beautiful sunset over the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53002538-b3f3-4243-9739-bdf9a5013f94">
+              <Vi>Mô tả hành động đang diễn ra trong hiện tại mà người nói cảm thấy vui vẻ, hài lòng.</Vi>
+              <En>Describes an action currently taking place where the speaker feels pleasure or satisfaction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
