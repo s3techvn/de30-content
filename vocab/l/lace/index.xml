@@ -1,0 +1,81 @@
+<Vocab id="701c7909-e62c-45a8-b19f-02b2b8d1f014" word="lace" type="short" status="done">
+  <Topics>
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="67668a79-8a07-44d3-874f-f8d3871ac3cc" value="Clothing &amp; Accessories" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="376dec68-df5c-4d4b-b021-7261955f00df" value="Shoemaker" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2693bf40-4482-48e0-a752-5f38185d25a4" ipa="/leɪs/" vi_ipa="lây-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40c10a21-4a01-433a-8087-38738f1a09d7" type="Noun">
+          <Vi>Dây buộc (thường bằng vải hoặc sợi, dùng để thắt lại quần áo, giày dép)</Vi>
+          <En>A thin string or cord, typically made of silk, cotton, or synthetic material, used for fastening shoes, corsets, or other garments.</En>
+          <Example>She tied her shoelaces tightly before going for a run.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ffcbc246-f448-4354-81ba-5641a38fbfeb">
+              <Vi>Tình huống khi buộc dây giày hoặc thắt dây corset.</Vi>
+              <En>When fastening shoes or tightening a corset.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7cc23adf-73a1-4c22-bf25-3420776e854e" type="Verb">
+          <Vi>Thắt dây, buộc dây (vào giày, áo, v.v.)</Vi>
+          <En>To fasten or secure something (especially shoes or clothing) with a lace.</En>
+          <Example>He laced his boots before hiking up the mountain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="701095ef-523e-499a-a87d-ac21320fdda5">
+              <Vi>Tình huống khi buộc dây giày, giày thể thao, hoặc áo ngực.</Vi>
+              <En>When tying up shoes, sneakers, or a corset.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5114bdb8-1e1f-41e0-b92e-264da6443dd3" ipa="/læs/" vi_ipa="lấc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="09c0e87d-26e3-4d8d-90af-564053ae0c20" type="Noun">
+          <Vi>Vải ren (vải có hoa văn thêu hoặc đan lát cầu kỳ)</Vi>
+          <En>A delicate fabric made of yarn or thread in an openwork pattern, often used for decorative trimmings on clothing.</En>
+          <Example>The bride’s dress featured intricate lace sleeves.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fe9fdf13-0967-4f3a-beea-e89462905452">
+              <Vi>Tình huống mô tả vải ren trong may mặc, đặc biệt trong trang phục cưới hoặc trang phục quý tộc.</Vi>
+              <En>When describing decorative fabric in wedding dresses, lingerie, or formal attire.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="005a33f3-00fc-4391-8781-32208640e48d" type="Verb">
+          <Vi>Đan ren, thêu ren (tạo hoa văn ren)</Vi>
+          <En>To make or decorate with lace; to insert lace into a garment.</En>
+          <Example>The designer laced the collar with white silk ribbon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57ddaf40-e741-4d0b-bbc0-75064c8b0f62">
+              <Vi>Tình huống khi thêm chi tiết ren vào trang phục.</Vi>
+              <En>When adding lace trim or embroidery to a garment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

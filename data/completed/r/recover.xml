@@ -1,0 +1,40 @@
+<Vocab id="293ed6b1-1409-4f0c-95a6-b94928c7f962" word="recover" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2dd0119b-2e4e-4965-afc1-a30b0051f63c" ipa="/rɪˈkʌv.ɚ/" vi_ipa="ri-cà-vơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8e2cb183-82c9-47e6-94d6-16e054423aa5" type="Verb">
+          <Vi>phục hồi, lấy lại, thu hồi</Vi>
+          <En>to get back or regain something lost, stolen, or missing; to return to a normal state after illness, injury, or loss</En>
+          <Example>She was able to recover her stolen phone after reporting it to the police.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6e68d8d-d922-43f7-a1f7-6c820bc3d3d0">
+              <Vi>Tình huống bệnh nhân sau khi phẫu thuật dần hồi phục sức khỏe.</Vi>
+              <En>A patient gradually regaining health after surgery.</En>
+            </Situation>
+            <Situation id="f1e6ff34-1a82-4116-97e4-6e5a240ce58b">
+              <Vi>Tình huống doanh nghiệp khôi phục dữ liệu sau sự cố rò rỉ thông tin.</Vi>
+              <En>A business restoring data after a data breach.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
