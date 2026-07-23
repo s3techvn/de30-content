@@ -1,0 +1,38 @@
+<Vocab id="2b14be11-f4ea-4325-b478-6f39ff72ea17" word="suggest" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c79255d-fe00-47d3-8d69-8161a91deb19" ipa="/səˈdʒest/" vi_ipa="xơ-gi-ét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e291989b-83bd-4904-a649-a438a9eb5755" type="Verb">
+          <Vi>đề xuất; gợi ý</Vi>
+          <En>to put forward a proposal or idea for consideration</En>
+          <Example>I suggest we meet at 3 p.m. tomorrow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d98df2cd-dde7-4c92-8732-ff2d51b3c56b">
+              <Vi>Trong một cuộc họp nhóm, bạn đưa ra ý kiến để cả nhóm thảo luận.</Vi>
+              <En>In a team meeting, you propose an idea for the group to discuss.</En>
+            </Situation>
+            <Situation id="9ef85c34-328e-49f2-867c-95758e8af40e">
+              <Vi>Người bạn gợi ý một nhà hàng để cả hai cùng đến ăn tối.</Vi>
+              <En>A friend recommends a restaurant for the two of you to have dinner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

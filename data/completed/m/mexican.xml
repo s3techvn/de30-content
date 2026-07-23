@@ -1,0 +1,52 @@
+<Vocab id="dd8935c4-4027-447d-a518-9e14f598c232" word="mexican" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" value="Travel Guide" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="535ce830-7708-4da0-be49-f18fcd6229fd" ipa="/mɛkˈsɪkən/" vi_ipa="méc-xícơ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0fddb027-df21-4cc1-8ec5-8d73ecb37d1d" type="Adjective">
+          <Vi>thuộc về Mexico, người hoặc điều gì của Mexico</Vi>
+          <En>relating to Mexico, its people, culture, or language</En>
+          <Example>She enjoys cooking authentic Mexican food.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="81b006a4-816c-44b3-ba2b-620ade914234">
+              <Vi>Mô tả đặc điểm văn hóa, ẩm thực, hoặc con người liên quan đến Mexico.</Vi>
+              <En>Used to describe cultural elements, cuisine, or people associated with Mexico.</En>
+            </Situation>
+            <Situation id="d1e4f456-91a3-44f8-ba7c-670cf0388c7d">
+              <Vi>Chỉ ngôn ngữ hoặc phong cách nói tiếng Anh có ảnh hưởng từ tiếng Tây Ban Nha tại vùng biên giới Mỹ-Mexico.</Vi>
+              <En>Refers to Spanglish or English with Spanish influence, especially in border regions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="555c6d79-0734-4947-b5d9-1efd10ea3836" type="Noun">
+          <Vi>người Mexico</Vi>
+          <En>a native or inhabitant of Mexico</En>
+          <Example>Many Mexican artists gained international recognition in the 20th century.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8748e8dc-9a2e-439c-b1a5-aa11b1a08ca1">
+              <Vi>Dùng để chỉ một cá nhân có quốc tịch hoặc nguồn gốc từ Mexico.</Vi>
+              <En>Used to refer to an individual with Mexican nationality or heritage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
