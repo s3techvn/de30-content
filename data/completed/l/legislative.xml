@@ -1,0 +1,38 @@
+<Vocab id="00ea3571-91bb-48a3-a815-6307c35b6b33" word="legislative" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="c87a3c29-674c-4f96-9da7-a311bd9ea187" value="Lawmaker" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b390cd42-70c6-41af-95c2-05041bd5a9b8" ipa="/ˈledʒ.ɪs.lə.tɪv/" vi_ipa="lê-gi-sơ-lơ-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="adbae221-856c-4e71-be71-2d8219c2c0f1" type="Adjective">
+          <Vi>thuộc về lập pháp; có liên quan đến việc ban hành luật</Vi>
+          <En>relating to the making of laws or the branch of government that makes laws</En>
+          <Example>The legislative branch of government is responsible for passing new laws.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e44805d8-9ac4-471f-95f4-add7a5a1bbaf">
+              <Vi>Mô tả cơ quan hoặc hoạt động liên quan đến việc soạn thảo và thông qua luật pháp.</Vi>
+              <En>Describing an institution or activity involved in drafting and enacting laws.</En>
+            </Situation>
+            <Situation id="fa54f7a7-f995-4df7-b9d3-fad088630582">
+              <Vi>Liên quan đến quốc hội, hội đồng lập pháp hoặc quá trình lập pháp.</Vi>
+              <En>Relating to a parliament, legislature, or the lawmaking process.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
