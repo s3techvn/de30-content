@@ -1,0 +1,38 @@
+<Vocab id="d828ac2d-22f0-4345-befa-4caab8a75edb" word="grave" type="short" status="done">
+  <Topics>
+    <Topic id="c912f4db-03c4-4afc-906f-140d44bbcb3c" value="Death &amp; Funerals" />
+  </Topics>
+  <Professions>
+    <Profession id="82574671-f387-484a-b342-e00c5923501e" value="Mortician" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f6cfb5f5-f361-4d32-a50a-b57844501e31" ipa="/ɡreɪv/" vi_ipa="grây-vơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb28140d-6f89-4f51-802d-6721b1622022" type="Adjective">
+          <Vi>trọng trọng, nghiêm trọng, khẩn cấp</Vi>
+          <En>extremely serious, significant, or important; demanding great attention or concern</En>
+          <Example>The situation has become grave after the sudden collapse of the bridge.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13ba2943-7012-44a5-9bac-e8e1edc91aad">
+              <Vi>Mô tả tình huống nguy kịch, cần hành động ngay lập tức.</Vi>
+              <En>Used to describe a critical or life-threatening medical condition.</En>
+            </Situation>
+            <Situation id="db6e1ff0-6877-4591-bcf9-1e654eb6bc85">
+              <Vi>Mô tả mức độ nghiêm trọng của một vấn đề chính trị hoặc xã hội.</Vi>
+              <En>Used when discussing the severity of a political crisis or social issue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
