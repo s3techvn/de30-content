@@ -1,0 +1,62 @@
+<Vocab id="ddc3ed23-2e67-451f-8e23-f203bb0ac92a" word="after" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ccbe1e1b-b9c9-4e50-a8a8-4b85c2acb90f" ipa="/ˈæf.tər/" vi_ipa="áp-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e6145cec-9324-4425-bf2e-531b19015ef5" type="Preposition">
+          <Vi>sau khi, sau</Vi>
+          <En>Following in time or order; later than a specified time or event.</En>
+          <Example>We’ll have dinner after the movie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="afc61b5a-924f-4d8c-aa3b-467dc426b32e">
+              <Vi>Chỉ thời điểm xảy ra sau một sự kiện đã nêu.</Vi>
+              <En>Indicates a time that comes later than a specified event or moment.</En>
+            </Situation>
+            <Situation id="f67e6e9c-e802-4ff1-bf29-bb880f1c1a87">
+              <Vi>Dùng trong lịch trình hoặc kế hoạch để sắp xếp thứ tự.</Vi>
+              <En>Used in schedules or plans to indicate sequence of events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="16dbb0f9-9c78-4a5b-80f8-964df7c02114" type="Conjunction">
+          <Vi>sau khi</Vi>
+          <En>Used to introduce a clause indicating an event that happens later than another.</En>
+          <Example>After she finished her homework, she went out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="950b02bb-2883-4c31-8374-9a1afd14ea73">
+              <Vi>Dùng để nối hai hành động theo trình tự thời gian.</Vi>
+              <En>Used to connect two actions in chronological order.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3d0269d7-da02-4389-9e86-a3b012104f17" type="Adverb">
+          <Vi>sau đó, về sau</Vi>
+          <En>In the time following; later.</En>
+          <Example>They left, and I stayed behind after.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01ae8dea-e310-4eea-a5e6-8460c786a921">
+              <Vi>Dùng trong hội thoại để chỉ thời điểm tiếp theo trong chuỗi sự việc.</Vi>
+              <En>Used in conversation to refer to the next point in a sequence of events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

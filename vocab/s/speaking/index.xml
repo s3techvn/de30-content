@@ -1,0 +1,38 @@
+<Vocab id="3c25a2e9-2311-479a-97b9-ca8f20166d97" word="speaking" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1ca23b35-4096-4921-bf18-33b59688d111" ipa="/ˈspiː.kɪŋ/" vi_ipa="xpi-inh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="100f23ef-6d63-4577-9c83-7761294c5277" type="Noun">
+          <Vi>hành động nói; sự nói chuyện; khả năng nói (trong giao tiếp)</Vi>
+          <En>the act of delivering spoken words; the ability to express oneself clearly and fluently in speech</En>
+          <Example>Her public speaking skills helped her win the debate competition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d789b785-4409-487e-ad27-8eb905044824">
+              <Vi>Tình huống một người trình bày ý kiến trước đám đông hoặc trong lớp học.</Vi>
+              <En>A situation where someone presents ideas in front of an audience or in a classroom setting.</En>
+            </Situation>
+            <Situation id="0859a8f8-6a4a-45f3-a4b7-ced4d33cde60">
+              <Vi>Tập luyện hoặc cải thiện kỹ năng nói trước công chúng.</Vi>
+              <En>Practicing or improving one's ability to speak confidently in front of others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
