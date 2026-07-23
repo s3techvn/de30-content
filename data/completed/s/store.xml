@@ -1,0 +1,56 @@
+<Vocab id="8fad6935-899f-4611-a2c6-a883ba1317dd" word="store" type="short" status="done">
+  <Topics>
+    <Topic id="3a7fbde1-ad73-4094-b652-9fe20fe3d7b5" value="Retail &amp; Commerce" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6db39a6-e5f7-4d09-a56b-9914f8f02076" ipa="/stɔːr/" vi_ipa="x-toó">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8495d2c4-9ec7-47e6-88c1-a423500d67fc" type="Noun">
+          <Vi>Cửa hàng; kho chứa</Vi>
+          <En>A building or part of a building where goods are sold; a place where something is kept or accumulated.</En>
+          <Example>We stopped at the store to buy milk and bread.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="77bb604d-e2dd-42c8-86a5-08792c904cdc">
+              <Vi>Mua sắm hàng hóa tại một địa điểm bán lẻ.</Vi>
+              <En>Shopping for groceries or other items at a retail location.</En>
+            </Situation>
+            <Situation id="53d12d81-0c32-4428-96e3-485c46707b13">
+              <Vi>Lưu trữ dữ liệu trong hệ thống máy tính.</Vi>
+              <En>Storing digital data on a hard drive or in the cloud.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b1f3501f-0891-4eb1-85b4-1da5840b4f59" type="Verb">
+          <Vi>Bán hàng; lưu trữ, cất giữ</Vi>
+          <En>To keep or place something in a store or storage area; to sell goods.</En>
+          <Example>The warehouse stores thousands of products for online delivery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d754aa34-3380-459f-a991-d9f67c312681">
+              <Vi>Lưu trữ dữ liệu hệ thống trước khi xử lý.</Vi>
+              <En>Saving data temporarily in memory before processing.</En>
+            </Situation>
+            <Situation id="4f8e4730-6874-4ce1-92d8-47c497976447">
+              <Vi>Cửa hàng trưng bày và bán sản phẩm cho khách hàng.</Vi>
+              <En>A shop displays and sells products to customers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
