@@ -1,0 +1,55 @@
+<Vocab id="b97dfcbe-496e-4a95-95cc-787e8df98da3" word="blonde" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="5f0d2f6d-e9aa-42f5-b25e-83efeee68158" value="Hair Stylist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee3ae9c7-c234-4ee6-91dc-f78fa1581619" ipa="/blɒnd/" vi_ipa="b-lon">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0a5337d8-cdd0-4853-90af-13e1b567f3e5" type="Adjective">
+          <Vi>người (hoặc tóc) có tóc vàng nhạt, thường nói về phụ nữ</Vi>
+          <En>having light yellow or golden hair; typically used to describe women</En>
+          <Example>She has long blonde hair and blue eyes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fdb70d02-b9d1-4f28-995b-4bfa22d4d4cb">
+              <Vi>Mô tả ngoại hình của một người phụ nữ có mái tóc màu vàng nhạt.</Vi>
+              <En>Describing the appearance of a woman with light yellow or golden hair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="b84fb06f-4a1d-4a22-b54a-a1eaa8ee45db" ipa="/blɒnd/" vi_ipa="b-lon">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e101417-2572-4fdc-81da-a2bf2f03751e" type="Noun">
+          <Vi>người phụ nữ có tóc vàng</Vi>
+          <En>a woman with blonde hair</En>
+          <Example>The actress was famously known as *the* blonde bombshell.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a6f0567-4fd9-4ae5-bfda-564496fcf939">
+              <Vi>Dùng để chỉ một người phụ nữ có mái tóc vàng, thường mang tính mô tả hoặc văn chương.</Vi>
+              <En>Used to refer to a woman with blonde hair, often in descriptive or literary contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
