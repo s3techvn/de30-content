@@ -1,0 +1,38 @@
+<Vocab id="e800ffed-942a-47da-b3cd-0c39ce31c80a" word="safely" type="short" status="done">
+  <Topics>
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c3560dc-55c4-4956-8d10-26508d470c6c" ipa="/ˈseɪf.li/" vi_ipa="xê-i-phờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b1ce0606-e569-46bc-8c15-c70319b28bb4" type="Adverb">
+          <Vi>một cách an toàn</Vi>
+          <En>in a way that avoids danger or risk</En>
+          <Example>Drivers must always wear seatbelts to ensure they are protected safely in case of a collision.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="175492bc-0130-43d4-a3f8-1bf0ccfad895">
+              <Vi>Tình huống khi thực hiện hành động mà không gây nguy hiểm cho bản thân hay người khác.</Vi>
+              <En>A situation where an action is performed without endangering oneself or others.</En>
+            </Situation>
+            <Situation id="ab109e3b-3858-48d9-8399-bfc4920d2301">
+              <Vi>Trong môi trường làm việc nguy hiểm như công trường hoặc nhà máy, việc tuân thủ quy trình là rất quan trọng để làm việc một cách an toàn.</Vi>
+              <En>In hazardous work environments such as construction sites or factories, following procedures is essential to work safely.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
