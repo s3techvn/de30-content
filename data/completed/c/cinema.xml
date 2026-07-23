@@ -1,0 +1,38 @@
+<Vocab id="83e7fb4d-bd44-469c-9e9f-6d89044fb857" word="cinema" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="d1ff3005-5176-4afb-827b-de469635c73e" value="Cinematographer" />
+    <Profession id="f7fbee4d-bb78-4bae-80ed-ad1f9c8acd24" value="Film Critic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65536abf-801c-44ca-9547-f6aa80cf7eba" ipa="/ˈsɪn.ə.mə/" vi_ipa="xì-nờ-ma">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="63e4ce8a-1744-419e-8260-fd89acfc9d7d" type="Noun">
+          <Vi>Rạp chiếu phim; điện ảnh</Vi>
+          <En>A building or venue where films are shown; the art, technology, or industry of making and showing films.</En>
+          <Example>We went to the cinema to watch the new superhero movie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bb63932-f26d-4bb0-bae4-65fb99fe09df">
+              <Vi>Một địa điểm công cộng nơi người xem xem phim trên màn hình lớn.</Vi>
+              <En>A public venue where audiences watch films on a large screen.</En>
+            </Situation>
+            <Situation id="e0714863-b32b-4690-976a-58328abf4a36">
+              <Vi>Nghệ thuật và công nghệ làm phim nói chung.</Vi>
+              <En>The art and technology of making films in general.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

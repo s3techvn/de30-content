@@ -586,4 +586,5 @@
   <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" slug="government-official" value="Government Official" />
   <Profession id="e9d171e9-6fed-4157-a628-ca905280cf6f" slug="corporate-manager" value="Corporate Manager" />
   <Profession id="fb30e8db-0172-47a7-bd2e-12e0546e66e7" slug="secretary" value="Secretary" />
+  <Profession id="d1ff3005-5176-4afb-827b-de469635c73e" slug="cinematographer" value="Cinematographer" />
 </Professions>
