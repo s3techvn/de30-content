@@ -1,0 +1,66 @@
+<Vocab id="3ded677a-b5d9-4385-b76f-f58db367e9ea" word="representative" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="18dcadad-e0fb-42dc-9380-959d9bcead0d" ipa="/ˌrep.rɪˈzen.tə.tɪv/" vi_ipa="rít-pri-zen-ta-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07f224a8-44ef-47a0-8bc7-17f94af99763" type="Adjective">
+          <Vi>đại diện; tiêu biểu; mang tính đại diện</Vi>
+          <En>Acting or done on behalf of another person or group; typical or characteristic of a particular group or thing.</En>
+          <Example>She was elected as a representative of the local community.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f95c5b6a-d5db-41e0-b2b7-5234fd0756ad">
+              <Vi>Một người được chọn để nói hoặc hành động thay mặt cho một nhóm người.</Vi>
+              <En>A person chosen to speak or act on behalf of a group of people.</En>
+            </Situation>
+            <Situation id="0485510d-e42a-44ca-9055-3355bd33d2fe">
+              <Vi>Một đặc điểm hoặc ví dụ tiêu biểu cho một nhóm hoặc loại hình.</Vi>
+              <En>A feature or example that is typical of a particular group or type.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c9fe3056-2738-4aa3-964d-42794d3bd7ba" ipa="/ˌrep.rɪˈzen.tə.tɪv/" vi_ipa="rít-pri-zen-ta-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df4b3e2d-fb4a-4c6d-8e47-39966fc09d70" type="Noun">
+          <Vi>người đại diện; đại biểu</Vi>
+          <En>A person who is officially authorized to represent another person, group, or organization.</En>
+          <Example>The union sent three representatives to the negotiation meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d8009ac-dc7c-47a6-9bba-7e7632516e40">
+              <Vi>Một người được bầu hoặc bổ nhiệm để nói thay cho cử tri hoặc thành viên trong một cơ quan lập pháp.</Vi>
+              <En>A person elected or appointed to speak for constituents or members in a legislative body.</En>
+            </Situation>
+            <Situation id="7f12f8ad-5a16-4d0a-9eef-597a1b77fdd3">
+              <Vi>Một nhân viên bán hàng hoặc hỗ trợ khách hàng của công ty.</Vi>
+              <En>An employee who interacts with clients or customers on behalf of a company.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
