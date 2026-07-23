@@ -1,0 +1,33 @@
+<Vocab id="a7a99d27-4172-4263-bb7e-bacd1301ebe3" word="illinois" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8dd762b4-8870-4fc9-b8b7-e05cd6834397" ipa="/ˌɪl.əˈnwɑː/" vi_ipa="i-lơ-nu-ou">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa687382-cb07-4001-bc1d-1d98ffcf5ae8" type="Noun">
+          <Vi>bang Illinois (ở Hoa Kỳ)</Vi>
+          <En>one of the 50 states in the United States, located in the Midwest region</En>
+          <Example>The city of Chicago is in Illinois.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b07d2f42-7e94-4803-9d06-6e3749817455">
+              <Vi>Tham quan thành phố Chicago hoặc làm việc tại một công ty ở bang Illinois.</Vi>
+              <En>Visiting Chicago or working for a company based in the state of Illinois.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

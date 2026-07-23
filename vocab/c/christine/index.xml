@@ -1,0 +1,32 @@
+<Vocab id="d800a089-7136-4101-be9c-7a48ad81d2a5" word="christine" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="7cc4dcfc-a0da-4638-ac76-45f959ad068a" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3bb384da-f342-4486-8afc-cc0fe2804f14" ipa="/ˈkrɪs.tɪn/" vi_ipa="crít-tin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07bb6340-02fb-44fa-8be6-36b534c99337" type="Proper Noun">
+          <Vi>Tên riêng (thường là tên nữ), phiên bản tiếng Anh của tên Christian hoặc Christine</Vi>
+          <En>A female given name, the English form of Christian or Christine, derived from Latin Christianus meaning "follower of Christ"</En>
+          <Example>Christine is a talented writer who recently published her first novel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7378d2ab-44cf-4d59-a327-8583aa28331f">
+              <Vi>Dùng để gọi một người phụ nữ mang tên Christine trong giao tiếp hàng ngày hoặc văn viết.</Vi>
+              <En>Used to refer to a woman named Christine in everyday conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
