@@ -1,0 +1,40 @@
+<Vocab id="127207ec-3b6f-4b00-9c7f-4e82ad25a1d1" word="simulation" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d55a417-5276-4d8e-a427-a18aaa4570b5" ipa="/ˌsɪm.əˈleɪ.ʃən/" vi_ipa="xim-mơ-lê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="350a1ef9-65cb-402e-a999-1e2da607f0f6" type="Noun">
+          <Vi>Sự mô phỏng; bản mô phỏng</Vi>
+          <En>An imitation of the operation of a real-world process or system, often using a computer model to study behavior or test hypotheses.</En>
+          <Example>The flight simulator provides a realistic experience of flying an aircraft.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7143631-4f41-41ba-b53b-0e0653ddc64b">
+              <Vi>Mô phỏng tình huống bay trong huấn luyện phi công.</Vi>
+              <En>Simulating flight scenarios for pilot training.</En>
+            </Situation>
+            <Situation id="d7a5b165-4fb9-4a67-85e1-910e775471f3">
+              <Vi>Sử dụng mô phỏng để dự đoán kết quả trong nghiên cứu khoa học.</Vi>
+              <En>Using simulation to predict outcomes in scientific research.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
