@@ -1,0 +1,55 @@
+<Vocab id="c63499ad-3290-4eb9-b8ec-410f4afc31ac" word="purchase" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="0f912e1c-2dc9-4255-9a8a-746fa0d2bdf5" value="Procurement Officer" />
+    <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" value="Consumer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="889b2caf-db25-4fba-aa9a-c85c0e092a1a" ipa="/ˈpɜːr.tʃəs/" vi_ipa="pơ-r-chờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c8f8430-b5a8-4152-8377-ee8b0185609b" type="Verb">
+          <Vi>mua, mua hàng</Vi>
+          <En>to buy something, especially something important or expensive</En>
+          <Example>She decided to purchase a new laptop for her online classes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a668e6d-cd03-4002-88ab-448af64d4b6b">
+              <Vi>Mua một món đồ đắt tiền hoặc quan trọng.</Vi>
+              <En>Buying an important or expensive item.</En>
+            </Situation>
+            <Situation id="25b213cf-c716-44e1-8b21-abf250ae7428">
+              <Vi>Hoàn tất giao dịch mua bán bằng tiền hoặc tín dụng.</Vi>
+              <En>Completing a transaction involving money or credit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bdfbb857-80ef-4899-b29f-032ae8d0d0cf" type="Noun">
+          <Vi>sự mua, hàng đã mua</Vi>
+          <En>something that has been bought, especially something valuable or expensive</En>
+          <Example>The antique vase was her most prized purchase.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0dfc37fd-9dcf-4773-86da-47c9c4ae8638">
+              <Vi>Nói về món đồ vừa mới mua, đặc biệt là món đắt tiền.</Vi>
+              <En>Referring to a newly acquired item, especially an expensive one.</En>
+            </Situation>
+            <Situation id="ffa40a0a-5b85-46f3-98fa-e5113cb43464">
+              <Vi>Trong ngữ cảnh kinh doanh: tài sản hoặc hàng hóa đã được mua về để bán lại.</Vi>
+              <En>In business: goods or assets acquired for resale or use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
