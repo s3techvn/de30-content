@@ -1,0 +1,61 @@
+<Vocab id="b8c944a7-df21-4cd4-a5cd-084d849afb7c" word="plane" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f84e71a3-d868-4c2d-bdae-847a5af51589" ipa="/pleɪn/" vi_ipa="p-lê-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e8f8e92-34fc-4757-baaf-595f714d5c29" type="Noun">
+          <Vi>Máy bay</Vi>
+          <En>A powered flying vehicle with fixed wings and a tailplane.</En>
+          <Example>The plane took off smoothly despite the strong crosswind.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="925ab9ad-4093-45d4-af8b-e9877b63d200">
+              <Vi>Tình huống khi một hành khách lên máy bay để đi du lịch.</Vi>
+              <En>A passenger boarding an airplane for a trip.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d5287a97-d57b-4423-b1fc-ef026a2ec5d7" type="Noun">
+          <Vi>Mặt phẳng (trong hình học)</Vi>
+          <En>A flat or level surface, especially one that is perfectly smooth and even.</En>
+          <Example>The carpenter used a level to ensure the shelf was perfectly plane.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69a4b945-c186-4766-b01c-1e706ed8676d">
+              <Vi>Tình huống khi một thợ mộc kiểm tra độ phẳng của bề mặt gỗ.</Vi>
+              <En>A carpenter checking the flatness of a wooden surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8fecdfba-78c7-4c58-83a2-c663b035ffa7" type="Verb">
+          <Vi>Làm phẳng (bề mặt)</Vi>
+          <En>To make a surface smooth and level, especially with a tool such as a plane.</En>
+          <Example>He planed the rough wood until it was smooth to the touch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21e20331-57df-4195-add5-ff0eff39e081">
+              <Vi>Tình huống khi thợ mộc dùng dụng cụ làm phẳng gỗ trước khi sơn.</Vi>
+              <En>A carpenter smoothing wood with a hand plane before painting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
