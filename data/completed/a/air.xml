@@ -1,0 +1,60 @@
+<Vocab id="8967e927-3b39-4dda-b888-a4cfb0a66b2d" word="air" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e842a6cf-0f9d-44cf-86c0-760ab9f1e7c8" ipa="/er/" vi_ipa="e-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2d909ea3-f7c5-4035-b316-d3cb4bb76143" type="Noun">
+          <Vi>không khí</Vi>
+          <En>The invisible gaseous substance surrounding the Earth, composed mainly of nitrogen and oxygen.</En>
+          <Example>The air was fresh and cool after the rain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="45264f60-a799-46b4-83f7-18adcef5867c">
+              <Vi>Mô tả trạng thái hoặc chất lượng của không khí trong môi trường.</Vi>
+              <En>Describing the state or quality of the atmospheric gas in the environment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8ee2829f-2ce8-4fde-b97f-6a054660fcc3" type="Noun">
+          <Vi>sự thổi gió (trong âm nhạc)</Vi>
+          <En>The stream of air blown into or out of a wind instrument to produce sound.</En>
+          <Example>The flutist took a deep breath to control her air flow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f896dc26-73cd-468f-85be-a2c1b1d4b58a">
+              <Vi>Ngữ cảnh khi chơi nhạc cụ hơi như sáo, kèn.</Vi>
+              <En>Context when playing wind instruments such as flute or trumpet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e3def7a1-5f95-422a-a986-7c806e3690ae" type="Noun">
+          <Vi>sự phô trương, khoe khoang (thường dùng trong cụm "put on airs")</Vi>
+          <En>An air of superiority or pretentiousness; a manner intended to impress others.</En>
+          <Example>She spoke with an air of confidence that impressed the interviewers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="194d7348-3149-4ebe-9eee-18968252ad46">
+              <Vi>Mô tả thái độ giả tạo, kiêu ngạo trong giao tiếp.</Vi>
+              <En>Describing a pretentious or overly confident manner in social interaction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
