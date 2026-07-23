@@ -1,0 +1,54 @@
+<Vocab id="31ad8d89-53e1-41ec-90c1-893e509cba58" word="gravity" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f27cd531-8053-4d50-a9c7-395c99307ae7" ipa="/ˈɡræv.ə.ti/" vi_ipa="grẹ-vi-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b9dee75c-4f8a-45ba-9d86-58510a61bc1a" type="Noun">
+          <Vi>Lực hấp dẫn; trọng lực</Vi>
+          <En>The natural force that attracts a body toward the center of the earth, or toward another physical body having mass.</En>
+          <Example>The gravity of the Earth keeps the Moon in orbit around it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1008b12e-2c5e-49a1-acce-9e97c793a829">
+              <Vi>Mô tả lực hút giữa các vật thể có khối lượng, đặc biệt giữa Trái Đất và các vật trên bề mặt nó.</Vi>
+              <En>Describes the attractive force between objects with mass, especially between Earth and objects on its surface.</En>
+            </Situation>
+            <Situation id="f0f0ecec-32b2-4309-a436-0d2d3ca4ea6f">
+              <Vi>Sử dụng trong ngữ cảnh vật lý, thiên văn học hoặc kỹ thuật hàng không.</Vi>
+              <En>Used in contexts of physics, astronomy, or aerospace engineering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="249bfc7c-25fa-4052-a8bc-f12690e7130a" type="Noun">
+          <Vi>Sự nghiêm trọng; tính trọng đại</Vi>
+          <En>The quality of being serious, important, or solemn, especially in terms of consequences or implications.</En>
+          <Example>The gravity of the situation demanded immediate action from all involved parties.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3a3eb4d-32de-48c1-8dbd-d93b7b107b22">
+              <Vi>Dùng khi nói về mức độ nghiêm trọng của một tình huống, quyết định hoặc vấn đề.</Vi>
+              <En>Used when describing how serious or consequential a situation, decision, or issue is.</En>
+            </Situation>
+            <Situation id="c6db890d-09d9-40eb-b2b1-46df9614054d">
+              <Vi>Xuất hiện trong văn phong trang trọng hoặc báo chí.</Vi>
+              <En>Commonly found in formal or journalistic writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

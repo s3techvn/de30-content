@@ -1,0 +1,40 @@
+<Vocab id="1e3c752f-d1c5-45f0-aec4-b72162686226" word="locally" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65153167-a9b4-4111-b91f-ee0596a004d7" ipa="/ˈloʊ.kəl.i/" vi_ipa="lô-kờ-lây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c55ec157-3f19-42fc-be62-f3a41f070be9" type="Adverb">
+          <Vi>một cách địa phương; tại địa phương</Vi>
+          <En>In a manner relating to a particular local area or community; at or in a local place.</En>
+          <Example>We decided to shop locally to support small businesses in our neighborhood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ca3a1b0d-e03c-4e0d-8256-9b14dbe596c7">
+              <Vi>Mua hàng từ các cửa hàng trong khu vực thay vì mua trực tuyến hoặc từ chuỗi lớn.</Vi>
+              <En>Choosing to buy goods from nearby stores instead of online or large chain retailers.</En>
+            </Situation>
+            <Situation id="56f9e5da-76d3-4e1b-84dc-2086ba1dcc0c">
+              <Vi>Giải quyết vấn đề trong phạm vi cộng đồng thay vì từ cấp quốc gia.</Vi>
+              <En>Addressing an issue at the community level rather than through national policies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
