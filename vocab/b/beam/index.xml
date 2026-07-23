@@ -1,0 +1,62 @@
+<Vocab id="d8311c93-978f-472b-ac88-0d09c47e0a35" word="beam" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="a9cf753f-661c-4771-8ca2-40826e82610b" value="Light &amp; Optics" />
+    <Topic id="acf85b01-ff71-49bb-89cb-772e645b788b" value="Everyday Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f954e90e-ec87-4c7f-b46c-9c71a9176c6d" ipa="/biːm/" vi_ipa="bi-im">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c12acedb-7752-443a-8a71-9d689df1264b" type="Noun">
+          <Vi>Cây dầm; tia sáng; tia (ánh sáng, radio, v.v.); nụ cười rạng rỡ</Vi>
+          <En>A long, straight piece of wood, metal, or concrete used to support a building or structure; a ray of light or other radiation; a radiant smile</En>
+          <Example>The construction crew installed steel beams to reinforce the floor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8eebbfd6-e095-40f7-9cac-67eec8e47b4e">
+              <Vi>Khi nói về cấu trúc xây dựng như nhà, cầu.</Vi>
+              <En>When referring to structural elements in buildings or bridges.</En>
+            </Situation>
+            <Situation id="50c38a5c-a524-4e1b-b468-33871fa951bb">
+              <Vi>Khi mô tả ánh sáng hoặc sóng phát ra từ một nguồn (mặt trời, laze, đài phát).</Vi>
+              <En>When describing light or electromagnetic waves emitted from a source (sun, laser, radio tower).</En>
+            </Situation>
+            <Situation id="994169aa-815c-4917-819c-5687c465e95a">
+              <Vi>Khi miêu tả nụ cười tỏa nắng, rạng rỡ.</Vi>
+              <En>When describing a bright, radiant smile.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="880e4124-30d9-4aca-89e0-763845f1af6c" type="Verb">
+          <Vi>Phát (tia); chiếu (ánh sáng); cười rạng rỡ</Vi>
+          <En>To send out (light, radio waves, etc.); to smile radiantly</En>
+          <Example>The satellite beams television signals across the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="160670c3-9855-4631-b47d-337b40e137b7">
+              <Vi>Khi nói về truyền tín hiệu vô tuyến, ánh sáng, dữ liệu qua không gian.</Vi>
+              <En>When talking about transmitting signals (radio, TV, data) through space.</En>
+            </Situation>
+            <Situation id="42f44840-b297-4082-87cb-3bade9860dd0">
+              <Vi>Khi mô tả ai đó cười rất tươi, tỏa nắng.</Vi>
+              <En>When describing someone smiling brightly and joyfully.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

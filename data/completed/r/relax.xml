@@ -1,0 +1,50 @@
+<Vocab id="5f3a6cd5-3c6d-41ac-984e-b1568c391cc8" word="relax" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="378ddb69-06d3-416b-9717-886f6f1ed4da" ipa="/rɪˈlæks/" vi_ipa="rị-lécs">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b6fd597c-f5d2-48ed-9b8a-1fc24678674a" type="Verb">
+          <Vi>thư giãn; làm dịu; nghỉ ngơi</Vi>
+          <En>to become less tense, anxious, or strict; to reduce physical or mental strain</En>
+          <Example>After a long day at work, she likes to relax by listening to music.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66a50fb8-51d3-49b6-a24f-1763b46b2e99">
+              <Vi>Sau một ngày làm việc căng thẳng, người ta nghe nhạc hoặc nằm nghỉ để thư giãn.</Vi>
+              <En>After a stressful workday, a person listens to music or lies down to unwind.</En>
+            </Situation>
+            <Situation id="dca13944-1ab5-4e5a-8b14-a0cfe05d0548">
+              <Vi>Giáo viên hướng dẫn học sinh thực hiện bài tập thở sâu để thư giãn trước kỳ thi.</Vi>
+              <En>The teacher guides students through deep-breathing exercises to relax before an exam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c562d0ff-e685-44db-a348-bd236abfcfd3" type="Verb">
+          <Vi>làm nới lỏng; nới lỏng (quy định, ràng buộc)</Vi>
+          <En>to make something less strict, rigid, or intense (e.g., rules, controls, or tension)</En>
+          <Example>The school decided to relax its dress code during the summer term.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c657881-6f91-4d90-bc66-0b729bb12586">
+              <Vi>Công ty nới lỏng quy định về giờ làm việc để tăng sự linh hoạt cho nhân viên.</Vi>
+              <En>The company relaxed its work-hour policy to increase flexibility for employees.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
