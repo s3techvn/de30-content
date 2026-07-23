@@ -1,0 +1,45 @@
+<Vocab id="6dab01bc-fb32-424e-969b-61afa4d24b9a" word="york" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="f41871cc-4f11-4a5c-b6cd-bb41a48352db" value="Tourism" />
+    <Profession id="41d88a36-fb1f-4fc7-bae4-415c5386f945" value="History" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c9a5c59-9c9f-4ba5-815c-92f9549bee2a" ipa="/jɔːrk/" vi_ipa="giốc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="04004b43-a0f2-47c4-8941-84d184aaa193" type="Noun">
+          <Vi>Thành phố York (ở Anh)</Vi>
+          <En>A historic city in North Yorkshire, England, known for its medieval architecture and Roman and Viking heritage.</En>
+          <Example>Many tourists visit York to see the famous York Minster and the preserved Viking-era streets of Jorvik.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="29de75fd-6652-4771-8ea4-b2b815fabb6a">
+              <Vi>Tham quan di tích lịch sử ở thành phố York, Anh.</Vi>
+              <En>Exploring historical sites in York, England.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0f282620-5a02-4c8b-8d74-4d9101f7f93d" type="Noun">
+          <Vi>Chủng chó Yorkshires (Yorkshire Terrier)</Vi>
+          <En>A small breed of dog originating from Yorkshire, England, known for its long, silky blue-and-tan coat.</En>
+          <Example>My friend’s York is very energetic and loves to bark at strangers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2bb5b1c9-4c87-4134-a4ec-ecaa43b7cbc5">
+              <Vi>Chăm sóc hoặc dắt chó York đi dạo.</Vi>
+              <En>Caring for or walking a Yorkshire Terrier.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
