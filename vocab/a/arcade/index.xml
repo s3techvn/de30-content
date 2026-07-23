@@ -1,0 +1,56 @@
+<Vocab id="6161d175-c62c-4889-8750-48973ffa3011" word="arcade" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="daf2979f-570c-47ea-ba14-cf49aaa2b6d1" value="Tourism" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" value="Game Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="18fe1e38-2e74-4956-ac69-3cb4383642f8" ipa="/ɑːrˈkeɪd/" vi_ipa="ác-kê-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72964b89-4fec-4a0d-89c7-4d5689b16ecb" type="Noun">
+          <Vi>Khu vực mua sắm hoặc giải trí có mái che, thường bao gồm nhiều cửa hàng và nhà hàng dọc theo lối đi có mái vòm.</Vi>
+          <En>A covered passageway with shops and restaurants along both sides, often with an arched roof.</En>
+          <Example>The shopping arcade in Tokyo is famous for its vintage toy stores and street food stalls.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9ed94f4-e8cf-4db2-8a78-7ff1f442c329">
+              <Vi>Mô tả một khu mua sắm hiện đại có mái che, thường nằm trong trung tâm thành phố.</Vi>
+              <En>Describing a modern, covered shopping area, typically located in a city center.</En>
+            </Situation>
+            <Situation id="66e13fe8-96af-417c-aad3-df1be6828cc2">
+              <Vi>Một khu vui chơi giải trí với các máy chơi game điện tử và trò chơi arcade truyền thống.</Vi>
+              <En>A venue featuring electronic gaming machines and classic arcade games.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="42189256-959f-4073-a235-5bc1831f9b7e" type="Noun">
+          <Vi>Khu vui chơi giải trí với các máy chơi game điện tử, thường đặt trong trung tâm thương mại hoặc khu vực công cộng.</Vi>
+          <En>A venue housing coin-operated amusement machines, especially video and pinball games.</En>
+          <Example>He spent hours at the arcade trying to beat his high score on Pac-Man.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6816f9ea-0c79-4342-9bcc-21015fab22b6">
+              <Vi>Học sinh sau giờ học chơi game tại khu arcade gần trường.</Vi>
+              <En>Students playing games at an arcade near their school after class.</En>
+            </Situation>
+            <Situation id="0f3152d2-2d56-461f-a070-48072797e330">
+              <Vi>Gia đình ghé thăm khu arcade vào cuối tuần để giải trí.</Vi>
+              <En>A family visits an arcade on the weekend for entertainment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
