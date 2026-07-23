@@ -1,0 +1,40 @@
+<Vocab id="bffe34f2-cf02-4c73-a470-237a5890428d" word="hormone" type="short" status="done">
+  <Topics>
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="2d65329c-8908-4afc-9ddb-14064c9c6f0a" value="Endocrinologist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71699480-aa61-47b0-9703-891204fc1d68" ipa="/ˈhɔːr.moʊn/" vi_ipa="hớ-môn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="835a7118-49d0-455a-9af1-cb792c626855" type="Noun">
+          <Vi>Một chất hóa học do tuyến nội tiết tiết ra, điều hòa chức năng cơ thể</Vi>
+          <En>A chemical substance produced by a gland in the body that controls and regulates the activity of certain cells or organs</En>
+          <Example>Insulin is a hormone that helps regulate blood sugar levels.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f834c4a1-72de-43dd-b68b-a41a57452eb5">
+              <Vi>Mô tả vai trò của hormone trong chu kỳ kinh nguyệt hoặc tăng trưởng</Vi>
+              <En>Describing the role of hormones in menstrual cycles or growth spurts</En>
+            </Situation>
+            <Situation id="700afade-6747-41ea-97dd-a747d81d018d">
+              <Vi>Chẩn đoán rối loạn nội tiết do mất cân bằng hormone</Vi>
+              <En>Diagnosing endocrine disorders caused by hormone imbalances</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

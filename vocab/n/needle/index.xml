@@ -1,0 +1,69 @@
+<Vocab id="88d391ae-9203-4519-84c7-a64b68a02739" word="needle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="5822cb90-f1ce-434d-94f1-64b474ade391" value="Textiles" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="87dcb61c-f0a9-4318-8b84-a09dcadad2f7" value="Sewer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="efb5dd9e-f2eb-44b6-80a0-27a8a289b4d5" ipa="/ˈniː.dəl/" vi_ipa="ni-dờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af2709d9-790a-4fa0-941f-f1bdc5f28998" type="Noun">
+          <Vi>kim (dùng để may, tiêm, hoặc trong la bàn)</Vi>
+          <En>A slender, pointed instrument, typically made of metal, used for sewing, medical injections, or in a compass.</En>
+          <Example>She threaded the needle carefully before starting to sew.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0836c24b-96e6-4943-8ed0-723fd287248d">
+              <Vi>May vải bằng kim</Vi>
+              <En>Using a needle to sew fabric</En>
+            </Situation>
+            <Situation id="4e693939-d6eb-46b2-944f-ed495c1d42fc">
+              <Vi>Bác sĩ tiêm thuốc bằng kim tiêm</Vi>
+              <En>A doctor administering an injection with a syringe needle</En>
+            </Situation>
+            <Situation id="519b0489-b600-4769-9bd7-ae4fd2d95fee">
+              <Vi>Kim la bàn chỉ hướng bắc</Vi>
+              <En>The needle of a compass pointing north</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f1449ab2-c080-4e8c-8733-8dfe887692b8" type="Noun">
+          <Vi>kim (trong máy dệt, máy may công nghiệp)</Vi>
+          <En>A component of a sewing machine or loom that pierces fabric to form stitches.</En>
+          <Example>The sewing machine jammed because the needle was bent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13aba486-10b8-4a7a-8923-955db2cf3729">
+              <Vi>Thợ may thay kim máy may khi kim bị cùn</Vi>
+              <En>A tailor replaces the sewing machine needle when it becomes dull</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="86523e72-6e69-441e-9466-1c45a904561d" type="Noun">
+          <Vi>kim (hình dạng kim, vật nhọn như kim)</Vi>
+          <En>A thin, sharp, pointed object resembling a sewing needle in shape.</En>
+          <Example>The cactus had long, needle-like spines.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fec05afc-bc9a-4259-af32-c0d9ae725736">
+              <Vi>Cây thông có lá dạng kim</Vi>
+              <En>Pine trees have needle-shaped leaves</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
