@@ -1,0 +1,36 @@
+<Vocab id="4623aced-910b-4729-9ac2-8c04c3209cb5" word="possibility" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5bf6fe33-1208-4745-a243-a2ba2861cb63" ipa="/ˌpɑː.səˈbɪl.ə.ti/" vi_ipa="pờ-sờ-bi-lờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="958b205d-93e8-4fb0-b6ad-6b3ec58815ee" type="Noun">
+          <Vi>khả năng, điều có thể xảy ra</Vi>
+          <En>something that may happen or be the case; a potential outcome or option</En>
+          <Example>We should consider all possibilities before making a decision.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e9f9e14a-fbe1-411b-82df-0fea82fad890">
+              <Vi>Tình huống đưa ra các lựa chọn hoặc dự đoán tương lai.</Vi>
+              <En>Scenario where options or future outcomes are being discussed or evaluated.</En>
+            </Situation>
+            <Situation id="dc9a3100-9284-4fe1-a834-0eda6fa8d461">
+              <Vi>Tình huống thể hiện sự không chắc chắn nhưng có cơ hội xảy ra.</Vi>
+              <En>Scenario expressing uncertainty but with a chance of occurrence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

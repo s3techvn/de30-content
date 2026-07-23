@@ -1,0 +1,45 @@
+<Vocab id="48697b9f-1842-4b67-a722-0b3f888cdaec" word="fired" type="short" status="done">
+  <Topics>
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d93c602c-c126-4e51-a370-2e6fa10e80e7" ipa="/faɪərd/" vi_ipa="fây-ơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7107e891-3795-4b4e-b3b5-982b84f2ae84" type="Verb">
+          <Vi>bị sa thải, bị đuổi việc</Vi>
+          <En>to dismiss someone from their job, typically for cause such as misconduct or poor performance</En>
+          <Example>She was fired after repeated violations of company policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66c400ac-5ad0-498f-b447-f25ca92872a4">
+              <Vi>Tình huống người lao động bị chấm dứt hợp đồng làm việc do vi phạm hoặc năng lực không đạt yêu cầu.</Vi>
+              <En>A situation where an employee’s contract is terminated due to misconduct or failure to meet performance standards.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="750ddc74-376d-4b7a-9c89-661caf4b8b86" type="Adjective">
+          <Vi>đã bị sa thải</Vi>
+          <En>no longer employed; dismissed from a job</En>
+          <Example>He’s been fired and is now looking for a new job.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cad26e97-c2d8-481a-ac73-01267698f4b7">
+              <Vi>Tình huống người nói đang mô tả trạng thái hiện tại sau khi bị sa thải.</Vi>
+              <En>A situation where someone describes their current unemployed status following termination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
