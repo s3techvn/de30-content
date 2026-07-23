@@ -1,0 +1,68 @@
+<Vocab id="999c5e5d-918e-4302-91ad-a24eac7f3a06" word="at" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1e719e8d-8a8d-4b71-8f15-48abd6594d96" ipa="/ət/" vi_ipa="át">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2661e4bf-69f3-47ef-9679-c7e13470f894" type="Preposition">
+          <Vi>tại, ở (chỉ nơi chốn cụ thể)</Vi>
+          <En>used to indicate a specific location or point in space or time</En>
+          <Example>She is waiting at the bus stop.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5c451ed-c942-46f9-89ae-66c5904aa69a">
+              <Vi>Chỉ vị trí cụ thể nơi một người hoặc vật đang đứng hoặc xảy ra sự việc.</Vi>
+              <En>Indicates a precise location where a person or object is located or where an event occurs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1f189b6d-d97d-48ba-89b2-1b53231be1be" type="Preposition">
+          <Vi>vào (chỉ thời điểm cụ thể)</Vi>
+          <En>used to indicate a precise point in time</En>
+          <Example>We’ll meet at 3 p.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb267acf-e0a3-478a-97de-f4ee22feb63d">
+              <Vi>Dùng trước giờ, ngày, hoặc thời điểm cụ thể trong lịch trình.</Vi>
+              <En>Used before a specific hour, date, or moment in a schedule.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="78e11e2c-74f7-47e3-bc5c-c2d376c3719d" type="Preposition">
+          <Vi>ở mức (chỉ mức độ, giá trị, tốc độ)</Vi>
+          <En>used to indicate a particular level, rate, or value</En>
+          <Example>The temperature is at 25 degrees Celsius.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55ea43b5-22f9-416b-8d7d-000b72e88ca3">
+              <Vi>Dùng để nói về mức độ, tốc độ, hoặc giá trị cụ thể.</Vi>
+              <En>Used to describe a specific level, speed, or value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ded7b206-e57d-417e-877a-3e8b98a3f79a" type="Preposition">
+          <Vi>gặp, tiếp xúc với (trong các cụm từ cố định)</Vi>
+          <En>used in fixed expressions to indicate interaction or reaction</En>
+          <Example>He got angry at the insult.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab7d4f98-9da4-4e98-8e48-6b46d2349888">
+              <Vi>Dùng trong các cụm từ biểu thị phản ứng cảm xúc hoặc tương tác xã hội.</Vi>
+              <En>Used in phrases expressing emotional reactions or social interactions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

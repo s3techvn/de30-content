@@ -1,0 +1,38 @@
+<Vocab id="36bcd5d8-9641-4299-b740-12f2ae58cf4b" word="healing" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b41d2652-5b17-4b8a-bfd5-22ab075470af" ipa="/ˈhiː.lɪŋ/" vi_ipa="hi-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="13055112-e549-4035-a177-0b05a284f849" type="Noun">
+          <Vi>Sự chữa lành; sự phục hồi</Vi>
+          <En>The process of being restored to health or normal function, especially after injury or illness.</En>
+          <Example>Her recovery was rapid thanks to the advanced healing techniques used in physical therapy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b90fd837-2563-43bd-abe3-6d099057bd93">
+              <Vi>Tình huống mô tả quá trình cơ thể phục hồi sau chấn thương hoặc bệnh tật.</Vi>
+              <En>A situation describing the body’s natural or medical-assisted recovery from injury or disease.</En>
+            </Situation>
+            <Situation id="f10be1a9-aa47-423b-96cf-27f299731844">
+              <Vi>Tình huống nói về hiệu quả của liệu pháp hỗ trợ chữa lành (ví dụ: yoga, thiền, trị liệu).</Vi>
+              <En>A situation referring to the effectiveness of complementary healing therapies such as yoga, meditation, or counseling.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
