@@ -1,0 +1,56 @@
+<Vocab id="580541f1-865b-4d93-8a44-2c902a2ab800" word="allowance" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="168c0d47-85da-49d6-8cb4-b2ee1cd927b0" value="Family &amp; Parenting" />
+  </Topics>
+  <Professions>
+    <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" value="Parent" />
+    <Profession id="e0cef8f2-0160-4d93-b05c-89e2d3c553cb" value="Financial Advisor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="251f4e53-7820-4faa-bd25-7e442e64d83f" ipa="/əˈlaʊ.əns/" vi_ipa="ơ-lao-ân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4b25e2c9-2281-4f1c-9cec-a391c02cf956" type="Noun">
+          <Vi>Tiền tiêu vặt; khoản chi trả định kỳ</Vi>
+          <En>A regular payment made by a parent to a child, or a fixed sum of money granted for a specific purpose.</En>
+          <Example>My parents give me a $20 allowance every week to cover my snacks and bus fare.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2317b79e-a96d-41db-8343-c66d1c115c2c">
+              <Vi>Cha mẹ trả tiền tiêu vặt hàng tuần cho con để con tự quản lý chi tiêu nhỏ.</Vi>
+              <En>Parents give children a weekly sum to manage small personal expenses.</En>
+            </Situation>
+            <Situation id="e7fcbe3c-a8b5-4f60-b09c-16604f2a7639">
+              <Vi>Chính phủ hoặc công ty chi trả khoản tiền hỗ trợ (ví dụ: tiền bồi thường, trợ cấp).</Vi>
+              <En>A government or company provides a fixed sum for a specific purpose, such as compensation or subsidies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="593b6c2c-d261-4cdd-a5bb-e4df3936977b" type="Noun">
+          <Vi>Sự cho phép; mức độ cho phép</Vi>
+          <En>A permitted amount, degree, or level of something; often used in phrases like "leeway" or "margin."</En>
+          <Example>The engineer added a small allowance for thermal expansion in the bridge design.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40283786-15cc-4e93-89aa-419d65e3269e">
+              <Vi>Kỹ sư tính toán trước một khoản chênh lệch an toàn cho sự giãn nở vì nhiệt.</Vi>
+              <En>An engineer includes a safety margin for expected physical changes, such as expansion or wear.</En>
+            </Situation>
+            <Situation id="f6de3da6-acec-4aed-81a5-d298fc397e58">
+              <Vi>Người quản lý cho phép nhân viên có mức độ linh hoạt nhất định về giờ làm việc.</Vi>
+              <En>A manager allows employees a degree of flexibility in their working hours.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

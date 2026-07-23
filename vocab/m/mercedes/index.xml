@@ -1,0 +1,38 @@
+<Vocab id="845b3a28-4cfb-40a6-a58a-b934a28dd4d1" word="mercedes" type="short" status="done">
+  <Topics>
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="452a63f0-5d0a-4ecf-bc54-51dcf224ac01" value="Automotive Engineer" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+    <Profession id="347781e5-4b95-4305-b18a-7b56844220a8" value="Luxury Travel Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c863b1a2-80e9-4392-9ca0-f185d72e3e9a" ipa="/ˈmɜːr.sɪ.dɪz/" vi_ipa="mờ-rờ-si-dít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1b77522-ecac-4d21-bc3b-7dafd2fb38c6" type="Noun">
+          <Vi>Thương hiệu ô tô cao cấp của Đức</Vi>
+          <En>A German luxury automobile brand founded in 1926, known for high-end vehicles and engineering excellence.</En>
+          <Example>She drove a sleek black Mercedes to the corporate gala.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01110bb7-f84b-4b3f-9fe7-cb7d7803a491">
+              <Vi>Người tiêu dùng cao cấp chọn Mercedes vì uy tín và chất lượng.</Vi>
+              <En>High-end consumers choose Mercedes for its reputation and quality.</En>
+            </Situation>
+            <Situation id="908d0996-70c8-4582-8e87-8d82e2dce2e1">
+              <Vi>Trong ngành xe sang, Mercedes cạnh tranh trực tiếp với BMW và Audi.</Vi>
+              <En>In the luxury car market, Mercedes competes directly with BMW and Audi.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
