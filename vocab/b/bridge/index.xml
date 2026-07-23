@@ -1,0 +1,76 @@
+<Vocab id="7403d2cf-f14f-44c1-9eb4-822deb0ce8c3" word="bridge" type="short" status="done">
+  <Topics>
+    <Topic id="6f46110d-3684-4149-8eb1-4b6c8148241d" value="Infrastructure" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="6bad4e1a-e05c-4823-9f07-fc9e39bee3eb" value="Metaphor" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="e0cc6c42-fcf3-420e-be41-bd9c5ff0761a" value="Transportation Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="167ac958-1e2b-4656-b090-ccabd59138ef" ipa="/brɪdʒ/" vi_ipa="bờ-rít-gi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1dc6c8f7-0e63-42e1-a24b-f64f26483d2b" type="Noun">
+          <Vi>Cây cầu</Vi>
+          <En>A structure built to span physical obstacles such as a body of water, valley, or road, for the purpose of providing passage over the obstacle.</En>
+          <Example>They walked across the ancient stone bridge at sunset.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="438094d6-f8c7-4a02-a62e-7ceb8455bcac">
+              <Vi>Mô tả công trình vượt sông, suối, hoặc đường bộ.</Vi>
+              <En>Describing a structure crossing a river, valley, or road.</En>
+            </Situation>
+            <Situation id="e272c3ab-11b9-41f9-9f1a-4003d826b62b">
+              <Vi>Trong bối cảnh giao thông và quy hoạch đô thị.</Vi>
+              <En>In the context of transportation and urban planning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e27bcae4-e98d-48be-a7eb-88ea9b82375b" type="Noun">
+          <Vi>Bộ phận kết nối (điện tử)</Vi>
+          <En>A device that connects two parts of an electrical circuit, especially one that bridges a gap in a circuit or compensates for impedance mismatch.</En>
+          <Example>The engineer installed a bridge circuit to calibrate the sensor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da512bd1-97f0-49eb-bfcd-790dc1f0db92">
+              <Vi>Trong kỹ thuật điện tử và đo lường.</Vi>
+              <En>In electrical engineering and measurement contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e8fcc19b-94d0-4421-9cb8-89fd67c3faa4" type="Noun">
+          <Vi>Sự kết nối, cầu nối (ẩn dụ)</Vi>
+          <En>A means of connection or communication between people, groups, or ideas.</En>
+          <Example>Her speech served as a bridge between the old traditions and modern values.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da41e0c9-6add-418a-8c27-73bd670a8ca2">
+              <Vi>Trong bối cảnh giao tiếp, văn hóa, hoặc hòa giải.</Vi>
+              <En>In communication, cultural, or reconciliation contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0a6e6388-cbaa-499b-99f8-30f199e99e6f" type="Verb">
+          <Vi>Kết nối, tạo cầu nối</Vi>
+          <En>To connect or link two things, especially to overcome a gap or difference.</En>
+          <Example>The mediator worked to bridge the gap between the two parties.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e895c67c-69b0-47bb-9d1f-f6e808d26391">
+              <Vi>Trong đàm phán, hòa giải, hoặc hợp tác.</Vi>
+              <En>In negotiation, mediation, or collaboration contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

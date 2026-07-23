@@ -1,0 +1,33 @@
+<Vocab id="960ca116-892b-4614-acf7-91820c0aba37" word="phil" type="short" status="done">
+  <Topics>
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2b4d96a8-f058-436e-8164-d01ae779c660" ipa="/fɪl/" vi_ipa="phí-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f3ffb2c-40f4-468c-8ae4-5c2d32fa5f1d" type="Noun">
+          <Vi>viết tắt của *philosophy*; môn triết học</Vi>
+          <En>short for *philosophy*; the study of fundamental questions about existence, knowledge, values, reason, mind, and language</En>
+          <Example>He minored in Phil during his undergraduate studies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d221e85-6e34-485c-804e-283a4b03ef28">
+              <Vi>Sử dụng trong tên môn học hoặc chương trình học tại đại học.</Vi>
+              <En>Used in course titles or academic programs at university.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
