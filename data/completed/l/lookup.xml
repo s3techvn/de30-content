@@ -1,0 +1,65 @@
+<Vocab id="2cf4fa45-d2a7-4ce6-b308-a887cca7a53c" word="lookup" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="62630fce-cdd6-471a-8e64-02b7c3e76358" ipa="/ˈlʊkˌʌp/" vi_ipa="lúc-ap">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4c27b8f6-adaa-4b19-b5f5-1328ae6a547f" type="Noun">
+          <Vi>tra cứu; tra cứu dữ liệu; tra cứu trực tuyến</Vi>
+          <En>A search or query, especially for information in a database or reference source.</En>
+          <Example>Can you do a quick lookup on the company’s headquarters?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d51fbae5-0563-4265-894a-1316581c01e1">
+              <Vi>Người dùng nhập từ khóa vào hệ thống để tìm thông tin về một sản phẩm.</Vi>
+              <En>The user enters a keyword into the system to retrieve product information.</En>
+            </Situation>
+            <Situation id="621f6a6a-416c-4edd-8af6-022c6ceda144">
+              <Vi>Trong ứng dụng từ điển, nhấn nút tra cứu để xem định nghĩa.</Vi>
+              <En>In a dictionary app, tap the lookup button to view the definition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fdeb9c66-5aa2-49f1-b75d-36c342196b2c" ipa="/ˈlʊkˌʌp/" vi_ipa="lúc-ap">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3ff37703-0f5d-4b4e-b7d5-8dd2ee3570cb" type="Verb">
+          <Vi>tra cứu; tra cứu thông tin; tra cứu dữ liệu</Vi>
+          <En>To search for and retrieve information, especially from a database, reference source, or online system.</En>
+          <Example>I’ll look up the meeting time in the calendar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4dcb8136-65ca-4726-b220-a7867d8d7a1c">
+              <Vi>Người dùng tra cứu định nghĩa từ trong từ điển điện tử.</Vi>
+              <En>The user looks up the definition of a word in an electronic dictionary.</En>
+            </Situation>
+            <Situation id="c2c98e51-ad15-4539-ba09-3935e2d24e4f">
+              <Vi>Để xác minh thông tin, tôi tra cứu lại số điện thoại trong danh bạ.</Vi>
+              <En>To verify the information, I looked up the phone number in the directory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
