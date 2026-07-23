@@ -1206,3 +1206,4 @@ safari
 tony
 assure
 solo
+verse
