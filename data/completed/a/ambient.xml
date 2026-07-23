@@ -1,0 +1,41 @@
+<Vocab id="b95274ea-21a9-4b9f-b245-0ef6d1adf108" word="ambient" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" value="Sound Engineer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="146df28a-ffd8-441b-8e21-a4be3c5f401d" ipa="/ˈæm.bi.ənt/" vi_ipa="ăm-bi-ên-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9dc8a14a-9b67-4f05-829a-59038d171388" type="Adjective">
+          <Vi>môi trường xung quanh; bao quanh</Vi>
+          <En>Present, surrounding, or existing in the environment; not specific or central.</En>
+          <Example>The ambient light in the room made it feel cozy and warm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf73c27b-bd85-4a20-86e2-9b4f37d411e6">
+              <Vi>Mô tả ánh sáng, âm thanh, hoặc không khí tự nhiên trong một không gian.</Vi>
+              <En>Describing natural light, sound, or atmosphere in a space.</En>
+            </Situation>
+            <Situation id="665f7ed6-2a4e-4482-9345-931859a4aa63">
+              <Vi>Trong công nghệ âm thanh, chỉ âm nền không có nguồn rõ ràng.</Vi>
+              <En>In audio technology, referring to background sound without a clear source.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

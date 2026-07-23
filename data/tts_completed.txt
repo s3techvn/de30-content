@@ -1806,3 +1806,4 @@ came
 proposition
 resident
 guide
+decide
