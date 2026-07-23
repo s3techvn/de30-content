@@ -1,0 +1,56 @@
+<Vocab id="7cad98fd-3878-4d2b-822c-e1e29c4301e4" word="rat" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="02ab471c-245c-46a6-ab55-eaab2df3f27d" value="Pest Control Technician" />
+    <Profession id="7c66641e-88a0-40a6-808d-1501b1835a50" value="Laboratory Researcher" />
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a238830f-bf9d-4cb8-8ad7-db52abf88db6" ipa="/ræt/" vi_ipa="rết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a5d2ab92-f798-49cf-8caa-6470aff27121" type="Noun">
+          <Vi>con chuột (động vật gặm nhấm, thường chỉ loài chuột cống)</Vi>
+          <En>a long, brownish-gray rodent with a pointed snout, small ears, and a long tail, typically living in human dwellings and associated with disease and contamination</En>
+          <Example>The city launched a campaign to reduce the rat population after several outbreaks of plague were reported.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ce3fc90-8c72-4ea6-b489-5971e7d1b177">
+              <Vi>Mô tả chuột chạy qua nhà hoặc trong cống rãnh.</Vi>
+              <En>Describing a rat scurrying through a kitchen or sewer.</En>
+            </Situation>
+            <Situation id="333b8d06-f621-47bb-b9f5-6a3e86e13b8c">
+              <Vi>Chuột được dùng làm vật thí nghiệm trong phòng thí nghiệm.</Vi>
+              <En>Rats used as laboratory animals in scientific research.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5e0a9e05-0594-4b64-8f14-7cdb7e004ccc" type="Noun">
+          <Vi>người phản bội, người tố giác (trong giới phạm pháp hoặc nhóm thân mật)</Vi>
+          <En>a person who betrays a group or organization by informing on its members, especially to the police</En>
+          <Example>The gang leader was arrested after his own lieutenant turned rat and gave evidence to the FBI.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e356dd4-c8c0-43db-9c98-040ed4579c32">
+              <Vi>Trong phim hình sự, nhân vật bị coi là "chuột" khi khai báo với công an.</Vi>
+              <En>In crime films, a character labeled "a rat" for cooperating with the police.</En>
+            </Situation>
+            <Situation id="61f1868b-af5c-4b20-a241-41a10a2ce9d2">
+              <Vi>Trong môi trường làm việc, đồng nghiệp tố cáo hành vi sai phạm.</Vi>
+              <En>In the workplace, a coworker reporting unethical behavior to management.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
