@@ -1,0 +1,38 @@
+<Vocab id="e4d8a2d4-a018-463f-aa02-20f3214cc534" word="sol" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="310378f4-4f76-4520-b112-4fc97c2cbd9a" value="Music Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dfbfdaac-052f-45d4-b236-d86d861238f1" ipa="/səl/" vi_ipa="xờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f08bf4d-a40a-4328-b6c2-a8014e5d977a" type="Noun">
+          <Vi>giải pháp; phương án (trong hệ thống âm nhạc sol-fa)</Vi>
+          <En>the fifth note of the solfège scale, corresponding to G in the C major scale</En>
+          <Example>In solfège, "sol" is sung when reaching the fifth degree of the major scale.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8128da0-0304-4481-8562-e6e3e18a6f5e">
+              <Vi>Giảng dạy nhạc lý cơ bản bằng hệ thống sol-fa (sol-fa-si).</Vi>
+              <En>Teaching basic music theory using the solfège system (do-re-mi-fa-sol-la-ti).</En>
+            </Situation>
+            <Situation id="21f10a36-71cc-4288-8269-93595098b813">
+              <Vi>Hát luyện thanh với các nốt nhạc sol-fa.</Vi>
+              <En>Practicing vocal exercises using solfège syllables.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

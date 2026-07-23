@@ -1,0 +1,47 @@
+<Vocab id="6f13d971-2343-4079-80d1-fdb3fbf22656" word="please" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f1ae2d22-94b6-4fb6-bcba-1da32402908c" value="Politeness &amp; Etiquette" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7f220b68-4516-4590-83af-ee7445fb8ff6" ipa="/pliːz/" vi_ipa="pli-dờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="38a10a65-730e-4b3f-8ca2-702bbff4702a" type="Verb">
+          <Vi>xin (điều gì đó một cách lịch sự)</Vi>
+          <En>To ask for something in a polite or courteous way.</En>
+          <Example>Please pass the salt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4b6e1095-6159-442e-bbcf-00119e71c945">
+              <Vi>Yêu cầu người khác làm điều gì đó một cách lịch sự trong giao tiếp hàng ngày.</Vi>
+              <En>Making a polite request in everyday conversation, such as asking for an item or favor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c5280750-39d6-480b-a443-6003e61deb79" type="Interjection">
+          <Vi>xin vui lòng (dùng để làm cho lời yêu cầu hoặc lời mời trở nên lịch sự hơn)</Vi>
+          <En>Used to make a request or invitation more polite; often placed at the beginning or end of a sentence.</En>
+          <Example>Could you help me, please?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e58fe40c-0258-41b3-8fe4-ada626d50076">
+              <Vi>Đặt ở cuối câu để thể hiện sự lịch sự khi đưa ra yêu cầu hoặc lời mời.</Vi>
+              <En>Placed at the end of a sentence to soften a request or invitation, especially in service or formal contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
