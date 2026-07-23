@@ -1,0 +1,60 @@
+<Vocab id="af86f3da-89b3-43be-9619-e9845902a753" word="adopt" type="short" status="done">
+  <Topics>
+    <Topic id="894a06d9-21b0-4fb0-9b05-0cc2f6fd776d" value="Family &amp; Social" />
+    <Topic id="daad041f-f9ed-4c81-9ffd-7120fd9fb8cc" value="Law &amp; Rights" />
+    <Topic id="834f244b-b2ed-4ed5-b87c-054c13461cca" value="Business &amp; Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="80fa4308-7f52-4e0b-b11d-33abb8a14308" ipa="/əˈdɑːpt/" vi_ipa="ơ-đốp-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="60591ef3-8f0c-40fa-909f-51d4ce7917c2" type="Verb">
+          <Vi>nhận nuôi (con nuôi)</Vi>
+          <En>to legally take another person’s child and raise it as one’s own</En>
+          <Example>They decided to adopt a child from Vietnam after years of trying to conceive.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0d296dc-ae21-49ce-bf4f-e0e4005bba43">
+              <Vi>Quy trình pháp lý để một cặp vợ chồng trở thành cha mẹ của một đứa trẻ không phải con ruột.</Vi>
+              <En>The legal process by which a person becomes the parent of a child not biologically theirs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="80553750-592f-4c38-a940-d3194a65a57c" type="Verb">
+          <Vi>thông qua, áp dụng (chính sách, phương pháp, ý tưởng)</Vi>
+          <En>to formally choose to use or follow a policy, method, or idea</En>
+          <Example>The company adopted a new sustainability strategy to reduce its carbon footprint.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="237236d7-c0f2-4db4-b6e8-9b4f372aa104">
+              <Vi>Công ty hoặc tổ chức quyết định áp dụng một cách tiếp cận mới trong hoạt động.</Vi>
+              <En>A company or organization decides to implement a new approach in its operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f9e9903d-2953-4e5d-8d11-f975e6eceb66" type="Verb">
+          <Vi>chấp nhận, tin theo (ý kiến, quan điểm)</Vi>
+          <En>to accept or believe an idea, opinion, or theory</En>
+          <Example>She adopted the view that climate change is primarily caused by human activity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2fb4796-6464-45c5-95ba-5cc9b5a46a6d">
+              <Vi>Một cá nhân đồng thuận với một lập trường hoặc lý thuyết cụ thể sau khi cân nhắc.</Vi>
+              <En>An individual agrees with a particular stance or theory after consideration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
