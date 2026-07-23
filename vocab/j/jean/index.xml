@@ -1,0 +1,33 @@
+<Vocab id="a4260512-e32e-4cd6-adf4-d228ce03a983" word="jean" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9be4aad3-b2c2-45f2-b475-b8119953c4d1" ipa="/dʒiːæn/" vi_ipa="gi-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="54153dc7-0bb7-4a64-8664-c8adead057f8" type="Noun">
+          <Vi>quần bò (vải denim), quần jeans</Vi>
+          <En>A type of trousers made from denim fabric, typically blue, originally designed for workwear but now common casual wear.</En>
+          <Example>She wore a white shirt and blue jeans for the picnic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e7b600b-cdcd-4b56-acc2-6d55f1c19f26">
+              <Vi>Mô tả trang phục thường ngày, đặc biệt khi đi chơi, đi học, hoặc làm việc nhẹ.</Vi>
+              <En>Describing everyday attire, especially for casual outings, school, or light work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

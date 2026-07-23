@@ -1,0 +1,40 @@
+<Vocab id="dfa0f1c1-f266-4e86-bbde-a4ba1b5830a6" word="vendor" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="dc4a2e22-693e-413d-8da2-9134cc853da5" value="Procurement Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2f9fb58-f1be-4081-b3ef-13b050188578" ipa="/ˈven.dər/" vi_ipa="ven-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="58cf2841-8ca3-47a3-8e30-3931f2ebeff7" type="Noun">
+          <Vi>người bán hàng rong; nhà cung cấp</Vi>
+          <En>a person or company that sells goods or services, especially in a market or as a supplier to businesses</En>
+          <Example>The street vendor sold fresh fruit and handmade crafts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="24e2b982-a0b5-4917-8108-013cbb77f416">
+              <Vi>Một người bán hàng rong tại chợ hoặc trên vỉa hè.</Vi>
+              <En>A person selling goods directly to customers in public places like markets or sidewalks.</En>
+            </Situation>
+            <Situation id="d746c2cc-1029-45d0-86e4-ff06df0927df">
+              <Vi>Một công ty cung cấp phần mềm cho doanh nghiệp.</Vi>
+              <En>A company that supplies software, hardware, or services to other businesses.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
