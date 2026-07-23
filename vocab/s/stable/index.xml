@@ -1,0 +1,62 @@
+<Vocab id="30ae9242-0eb1-44e7-8e87-16cc2696ebd3" word="stable" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="a015f0c7-3829-4651-9e64-c318f2018563" value="Equestrian" />
+    <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" value="Construction Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c3c4e78-e119-4048-a8d3-1da106f2d862" ipa="/ˈsteɪ.bəl/" vi_ipa="sờ-tây-bờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf11c84d-3a83-4305-b438-32ef298c5fca" type="Adjective">
+          <Vi>ổn định; vững chắc; bền vững</Vi>
+          <En>Not likely to change, move, or fail; firm and secure.</En>
+          <Example>The company has a stable financial position despite market fluctuations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c66b635c-d503-4d55-84c9-52309dff53a0">
+              <Vi>Mô tả một tình huống có tính ổn định, không thay đổi nhiều (ví dụ: công việc, giá cả, tâm lý).</Vi>
+              <En>Describing a situation that remains constant and reliable (e.g., job, prices, mental state).</En>
+            </Situation>
+            <Situation id="1207b96d-4e9f-4906-9f8f-f8a68cc0d2a5">
+              <Vi>Mô tả một vật thể không bị nghiêng, không rung lắc (ví dụ: cấu trúc, nền móng).</Vi>
+              <En>Describing an object that is not tilted or shaking (e.g., structure, foundation).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="96bf8822-4823-41ad-badb-12d6b51df147" ipa="/ˈsteɪ.bəl/" vi_ipa="sờ-tây-bờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f501584-a05d-4810-8979-fa54c1c93ce3" type="Noun">
+          <Vi>chuồng ngựa</Vi>
+          <En>A building or structure where horses are kept, fed, and cared for.</En>
+          <Example>The farmer cleaned the stable early every morning before feeding the horses.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aed4ee76-f037-44c5-9d93-89dabf54856c">
+              <Vi>Mô tả nơi chăn nuôi, chăm sóc ngựa trong trang trại hoặc câu lạc bộ cưỡi ngựa.</Vi>
+              <En>Describing a facility for housing and caring for horses at a farm or riding club.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

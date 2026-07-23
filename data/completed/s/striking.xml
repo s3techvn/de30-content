@@ -1,0 +1,41 @@
+<Vocab id="30a42b3b-42ca-45cd-ad36-bf2299c1d557" word="striking" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="3d59c556-ea05-4d9c-b76e-28d0df5d6dc6" value="Art &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd36337b-0ba1-45c4-9756-21dd94f322d5" ipa="/ˈstraɪ.kɪŋ/" vi_ipa="sây-king">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6cd4165e-bc9d-4fe2-bf8e-8b404e277f16" type="Adjective">
+          <Vi>ấn tượng mạnh; nổi bật; gây chú ý mạnh mẽ</Vi>
+          <En>very noticeable or impressive, especially in a way that is pleasing or attractive</En>
+          <Example>She has a striking resemblance to her mother.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee8c7e0b-77e7-448b-9fe7-3fcecf05fa8c">
+              <Vi>Mô tả ngoại hình hoặc đặc điểm gây ấn tượng mạnh, thường là do sự tương phản hoặc sự cân đối hoàn hảo.</Vi>
+              <En>Used to describe someone’s appearance, features, or qualities that stand out unusually and attract attention.</En>
+            </Situation>
+            <Situation id="36962d2e-7aa2-431e-8aad-bba2ab0f29bd">
+              <Vi>Mô tả một chi tiết, yếu tố hoặc hành động nổi bật trong một bối cảnh tổng thể.</Vi>
+              <En>Used for a detail, element, or action that stands out prominently within a scene, design, or performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
