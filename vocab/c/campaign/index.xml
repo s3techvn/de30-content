@@ -1,0 +1,60 @@
+<Vocab id="dc47a862-1420-4880-ac84-e51d706eab92" word="campaign" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c91a29d-736e-48ac-8899-750aad647da0" ipa="/kæmˈpeɪn/" vi_ipa="căm-pê-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9561b10c-5a02-4098-90a6-ce2c53612cb9" type="Noun">
+          <Vi>Chiến dịch (chính trị, quân sự, quảng cáo...)</Vi>
+          <En>A series of planned actions or operations designed to achieve a specific goal, especially in politics, military, or marketing.</En>
+          <Example>The presidential candidate launched a nationwide campaign to win voter support.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7478a16-fc8f-41b4-97dd-330a1f86cb0e">
+              <Vi>Một chiến dịch tranh cử chính trị kéo dài nhiều tháng.</Vi>
+              <En>A political campaign that spans several months before an election.</En>
+            </Situation>
+            <Situation id="f1267dae-d1b0-4902-96ad-cf74b9399a3b">
+              <Vi>Một chiến dịch quân sự nhằm chiếm lãnh thổ.</Vi>
+              <En>A military campaign to capture key territory.</En>
+            </Situation>
+            <Situation id="5e998ac3-73a3-4104-a06e-d7540ea65952">
+              <Vi>Một chiến dịch quảng cáo sản phẩm mới trên mạng xã hội.</Vi>
+              <En>A social media advertising campaign for a new product.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1cdb3b12-baf7-47dc-958b-3212d5f60dc4" type="Verb">
+          <Vi>Tham gia chiến dịch; vận động (tranh cử, quảng cáo...)</Vi>
+          <En>To engage in a campaign, especially to promote a cause, candidate, or product.</En>
+          <Example>They are campaigning for environmental protection laws.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="126f3756-5c69-441c-9220-72858d33438e">
+              <Vi>Các ứng cử viên đang vận động tranh cử tại các bang trọng yếu.</Vi>
+              <En>Candidates are campaigning in key swing states.</En>
+            </Situation>
+            <Situation id="aa61e054-da0d-43df-871a-aeb43f131949">
+              <Vi>Một tổ chức phi chính phủ đang vận động chống buôn bán động vật hoang dã.</Vi>
+              <En>An NGO is campaigning against wildlife trafficking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

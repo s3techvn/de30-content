@@ -1,0 +1,52 @@
+<Vocab id="2e9123b2-569f-495e-98c5-f6ef553546fa" word="conclusion" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="a37eac3c-5e22-419c-bf51-db77dc668a99" value="Business Communication" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fa09eef2-1b28-4c6b-ad18-0d88af0a363b" ipa="/kənˈkluː.ʒən/" vi_ipa="kơn-klu-ú-dơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d7fc8f2-afe5-4dd8-ab16-0246cc76439d" type="Noun">
+          <Vi>Kết luận</Vi>
+          <En>The final decision, statement, or opinion reached after considering all the facts or arguments.</En>
+          <Example>After reviewing all the evidence, the jury reached a conclusion of not guilty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96fca377-27cc-44e5-afb2-664199ef19df">
+              <Vi>Trong một báo cáo học thuật, phần kết luận tóm tắt các phát hiện chính và ý nghĩa của nghiên cứu.</Vi>
+              <En>In an academic report, the conclusion summarizes key findings and their significance.</En>
+            </Situation>
+            <Situation id="42acc5b2-fe2c-43bf-a496-2f6a95367772">
+              <Vi>Luật sư đưa ra kết luận cuối cùng trước khi陪审团 deliberation.</Vi>
+              <En>The lawyer presented the final conclusion before the jury began deliberations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c5635669-8e35-46f2-8626-19088a73d4c6" type="Noun">
+          <Vi>Sự chấm dứt; sự kết thúc</Vi>
+          <En>The act of ending something; the final part or termination of an event, process, or period.</En>
+          <Example>The conclusion of the meeting was marked by a vote of thanks to the organizers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="397d57e4-c389-42db-9ba7-69b5c5cf685f">
+              <Vi>Trong một sự kiện, phần kết luận thường là lời cảm ơn hoặc thông báo chính thức.</Vi>
+              <En>In an event, the conclusion often features a thank-you or formal announcement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
