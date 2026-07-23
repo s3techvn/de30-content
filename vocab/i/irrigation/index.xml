@@ -1,0 +1,38 @@
+<Vocab id="138d1d01-3a05-429b-ab68-cdd467d19f2c" word="irrigation" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" value="Agricultural Engineer" />
+    <Profession id="2ebbc573-fbb7-4f99-9625-3e9046614552" value="Farm Manager" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8af856d6-15c0-4641-97d8-69d699197dfc" ipa="/ˌɪr.ɪˈɡeɪ.ʃən/" vi_ipa="i-rị-gây-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="745fa4c9-6680-4a57-a535-8540ebf88b52" type="Noun">
+          <Vi>Sự tưới tiêu; hệ thống tưới tiêu</Vi>
+          <En>The action or process of watering land, especially crops, to promote growth; also refers to the system used for this purpose.</En>
+          <Example>The farmer installed a new irrigation system to conserve water during the drought.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03864c2b-c7d6-4f7e-a254-d709b8301792">
+              <Vi>Tình huống nông dân sử dụng hệ thống ống dẫn nước để tưới cho ruộng lúa trong mùa khô.</Vi>
+              <En>A farmer using a pipe-based irrigation system to water rice fields during the dry season.</En>
+            </Situation>
+            <Situation id="63353e4c-4a66-4866-bbf9-6afbda5962d4">
+              <Vi>Tình huống kỹ sư thiết kế hệ thống tưới tiết kiệm nước cho nông trại.</Vi>
+              <En>An engineer designing a water-efficient irrigation system for a farm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

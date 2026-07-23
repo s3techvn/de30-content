@@ -1,0 +1,50 @@
+<Vocab id="f9677802-3907-41ff-ba98-f04c38283375" word="cache" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+    <Profession id="f8877659-a423-4f73-8981-ad365bb3ab62" value="DevOps Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a91615f2-347a-4450-b85b-ff177f78d1dd" ipa="/kæʃ/" vi_ipa="cờ-rít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="537f4e71-ded4-4c4d-ad98-ed65c248265c" type="Noun">
+          <Vi>Bộ nhớ đệm</Vi>
+          <En>A hardware or software component that stores data so future requests for that data can be served faster.</En>
+          <Example>The web browser uses a cache to store images and scripts so pages load faster on revisits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1b824f2f-7080-4356-812e-49472e1d72c9">
+              <Vi>Trong lập trình hệ thống, bộ nhớ đệm giúp giảm độ trễ khi truy cập dữ liệu thường xuyên.</Vi>
+              <En>In system programming, caching reduces latency when accessing frequently used data.</En>
+            </Situation>
+            <Situation id="3f677f7f-5595-4b82-be7d-e53f77e72500">
+              <Vi>Người dùng có thể xóa bộ nhớ đệm trình duyệt để giải quyết lỗi tải trang.</Vi>
+              <En>Users can clear their browser cache to resolve page-loading issues.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4c35129f-627d-4835-a660-c5db5362267d" type="Verb">
+          <Vi>Lưu vào bộ nhớ đệm</Vi>
+          <En>To store data in a cache for rapid retrieval.</En>
+          <Example>The application caches API responses to avoid redundant network calls.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7646a44-8f79-454f-8a2d-d8d95f96807a">
+              <Vi>Trình biên dịch có thể tự động cache kết quả tính toán để tăng hiệu suất.</Vi>
+              <En>The compiler may automatically cache computed results to improve performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
