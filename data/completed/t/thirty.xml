@@ -1,0 +1,34 @@
+<Vocab id="903d289f-659f-481b-b227-357bcc15482f" word="thirty" type="short" status="done">
+  <Topics>
+    <Topic id="73714b91-0ef4-43a3-a6ed-c523c52ee22b" value="Numbers and Counting" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="3a10e35d-999e-4fc8-b596-1784cf9894e7" value="Demographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="222e3ca1-f404-425b-b7de-555f5ce2e988" ipa="/ˈθɜːr.ti/" vi_ipa="thơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e9810fea-1bf7-4960-ab8c-38ef90d94dce" type="Number">
+          <Vi>ba mươi</Vi>
+          <En>The cardinal number equal to 3 × 10; the number 30.</En>
+          <Example>She turned thirty last week and celebrated with a big party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9a58d16-ed63-4e7a-b95c-9b1097dc59b7">
+              <Vi>Chỉ số lượng hoặc thứ tự trong dãy số, đặc biệt khi nói về tuổi, ngày tháng, hoặc đếm.</Vi>
+              <En>Used to indicate quantity or position in a sequence, especially age, dates, or counting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

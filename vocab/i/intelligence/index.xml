@@ -1,0 +1,69 @@
+<Vocab id="84e192e9-539a-4ba5-a140-f78f0576d923" word="intelligence" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="8423e3dd-d07b-4309-a9c6-906d6646533d" value="Defense &amp; Security" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="064629a9-96c3-4e2d-987a-46be4eed0191" value="Military Analyst" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ace1dc1-093f-4cb6-9dc0-873d644b760d" ipa="/ɪnˈtɛl.ɪ.dʒəns/" vi_ipa="in-tờ-lơ-lơ-gờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a7f6b872-5290-49a6-84aa-c4e5ce9f6353" type="Noun">
+          <Vi>Sự thông minh; trí tuệ</Vi>
+          <En>The ability to learn, understand, and apply knowledge or reasoning</En>
+          <Example>She demonstrated remarkable intelligence in solving complex mathematical problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6d84a30-b53e-4e96-83ce-b57eda660338">
+              <Vi>Mô tả khả năng tư duy nhanh nhạy, học hỏi và giải quyết vấn đề hiệu quả.</Vi>
+              <En>Describes someone who quickly grasps new concepts, learns efficiently, and solves problems effectively.</En>
+            </Situation>
+            <Situation id="fb0bdbe7-f59a-4353-b19d-80f5207dd64c">
+              <Vi>Thường dùng trong bối cảnh giáo dục, tâm lý học, hoặc đánh giá năng lực cá nhân.</Vi>
+              <En>Commonly used in educational, psychological, or personal ability assessment contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="03b8fd8d-b172-41e4-9166-09fab44602d2" type="Noun">
+          <Vi>Thông tin tình báo; cơ quan tình báo</Vi>
+          <En>Classified information, especially concerning national security, or the agency that gathers it</En>
+          <Example>The intelligence community warned of potential cyber threats ahead of the election.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94f79058-f8eb-4a44-8007-1c3c855ac0fd">
+              <Vi>Liên quan đến thu thập, phân tích và sử dụng thông tin mật trong quốc phòng hoặc an ninh.</Vi>
+              <En>Relates to the collection, analysis, and use of classified information for defense or security purposes.</En>
+            </Situation>
+            <Situation id="c50317c3-f31b-4b06-8b8a-adff0fecfce3">
+              <Vi>Thường xuất hiện trong báo cáo chính phủ, phim gián điệp, hoặc phân tích chiến lược.</Vi>
+              <En>Commonly appears in government reports, spy films, or strategic analysis discussions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="869e32ed-32d6-4762-8c27-dad434ec0d51" type="Noun">
+          <Vi>Trí tuệ nhân tạo (AI)</Vi>
+          <En>The simulation of human intelligence in machines programmed to think and learn like humans</En>
+          <Example>Modern AI systems rely on machine learning to improve their intelligence over time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="769da119-dfca-488a-a6fa-4541f43cd15d">
+              <Vi>Dùng khi nói về các hệ thống máy tính có khả năng suy luận, học hỏi và ra quyết định.</Vi>
+              <En>Used when referring to computer systems capable of reasoning, learning, and decision-making.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
