@@ -581,4 +581,6 @@
   <Profession id="52e8abe6-0938-4a84-b0d1-9349781ed26d" slug="driving-instructor" value="Driving Instructor" />
   <Profession id="56f94a89-1229-46de-98d6-b28ebe217963" slug="charity-worker" value="Charity Worker" />
   <Profession id="4e6b9a91-5492-4733-accf-3aa0c8225571" slug="art-historian" value="Art Historian" />
+  <Profession id="cd43842b-2ecc-4e6c-b9f1-0e9da2204105" slug="sex-educator" value="Sex Educator" />
+  <Profession id="2e62d299-7618-4cd0-9d59-e94222d1f812" slug="medical-doctor" value="Medical Doctor" />
 </Professions>
