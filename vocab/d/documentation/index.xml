@@ -1,0 +1,52 @@
+<Vocab id="2e6a1ba2-b5e5-4ee1-b649-2a91789abc0c" word="documentation" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="53d4f061-1ef5-4efb-8033-2e0aeec96e78" ipa="/ˌdɑː.kjəˈmen.tər.ən/" vi_ipa="đờ-khi-ơ-men-tơ-rờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7fd5ac91-4321-442a-840a-2ed7df864016" type="Noun">
+          <Vi>Tài liệu; tài liệu hướng dẫn; tài liệu kỹ thuật</Vi>
+          <En>Written or printed information concerning a product, process, or system, especially instructions for its use or maintenance.</En>
+          <Example>The software comes with comprehensive documentation, including a user manual and API reference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea0839f4-a04c-4b7d-a20e-f019e2db9fba">
+              <Vi>Người dùng tra cứu tài liệu để cài đặt phần mềm đúng cách.</Vi>
+              <En>A user consults documentation to install software correctly.</En>
+            </Situation>
+            <Situation id="326f115c-2472-4e13-8aeb-33c765abb0ea">
+              <Vi>Nhóm phát triển cập nhật tài liệu kỹ thuật sau mỗi bản phát hành.</Vi>
+              <En>The development team updates technical documentation after each release.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="36a21633-fd22-4c58-b75b-9ec6f91cb20f" type="Noun">
+          <Vi>Hệ thống tài liệu (được chuẩn bị một cách có hệ thống)</Vi>
+          <En>The body of documents relating to a particular subject, activity, or period, especially those preserved as a record.</En>
+          <Example>The historian relied on archival documentation to support her thesis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5b135e0-b6e2-4039-b8cf-1816186cc661">
+              <Vi>Các nhà nghiên cứu cần tài liệu gốc để xác minh thông tin.</Vi>
+              <En>Researchers need original documentation to verify information.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
