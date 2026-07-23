@@ -1,0 +1,52 @@
+<Vocab id="d6874c01-3b3d-4c32-b826-60b43370267c" word="salt" type="short" status="done">
+  <Topics>
+    <Topic id="091596f8-fe2f-46f0-b326-e63dc3b11af6" value="Food &amp; Cooking" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="aaeec150-2cd4-42bc-a848-47e6db18e1a5" ipa="/sɔːlt/" vi_ipa="xốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e08f3a47-4cc5-4a42-acea-5e12a781578e" type="Noun">
+          <Vi>muối (chất hóa học NaCl, thường dùng để nêm gia vị)</Vi>
+          <En>A white crystalline compound, sodium chloride, used as a seasoning and preservative in food.</En>
+          <Example>She added a pinch of salt to the soup to enhance the flavor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18981b58-16ac-4b7e-ae9a-5fdb09c16791">
+              <Vi>Cho muối vào món ăn khi nấu hoặc ăn để tăng vị mặn.</Vi>
+              <En>Adding salt to food during cooking or at the table to season it.</En>
+            </Situation>
+            <Situation id="67522110-9108-4e62-8db2-9227f77f3c77">
+              <Vi>Sử dụng muối để bảo quản thực phẩm như cá muối, dưa muối.</Vi>
+              <En>Using salt to preserve foods, such as salted fish or pickled vegetables.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="385ad0e5-a1d5-4ebf-b9e0-dcf9d7d95e0e" type="Verb">
+          <Vi>rắc muối; làm mặn</Vi>
+          <En>To treat or season something with salt.</En>
+          <Example>The chef salted the steak before grilling it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fed25532-9144-470c-8975-8106afb5f639">
+              <Vi>Rắc muối lên món ăn trước khi nướng hoặc chiên.</Vi>
+              <En>Sprinkling salt on food before cooking to season it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

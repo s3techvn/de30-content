@@ -1,0 +1,32 @@
+<Vocab id="60fa6b19-4793-4830-85d2-2f0d79c72249" word="hon" type="short" status="done">
+  <Topics>
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="6094acfa-8ca9-4c6e-bc70-39c6bfe2a9a6" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d0f54da4-41dd-4113-afee-c1312ae637f8" ipa="/hɑːn/" vi_ipa="hôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9632dec0-e23c-41e6-9d67-e5cd97f49ba6" type="Noun">
+          <Vi>hôn (danh từ) – một hành động áp môi vào môi hoặc phần cơ thể khác của người khác để thể hiện tình cảm</Vi>
+          <En>a kiss, especially one expressing affection or love</En>
+          <Example>She gave him a quick hon on the cheek before leaving.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67436062-f43e-43cf-a0a5-4a8fb50ee6ce">
+              <Vi>Một người thân yêu hôn má bạn khi chia tay.</Vi>
+              <En>A loved one kisses your cheek when saying goodbye.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
