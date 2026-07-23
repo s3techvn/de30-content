@@ -1,0 +1,60 @@
+<Vocab id="004a716a-76f0-43ba-8c2a-5628206e486a" word="keen" type="short" status="done">
+  <Topics>
+    <Topic id="c51cfd20-18a2-4d1d-9b5a-4d3ac88d127b" value="Personality &amp; Traits" />
+    <Topic id="2e332f59-be75-4b9f-8603-e129b370e859" value="Education &amp; Learning" />
+    <Topic id="641296f4-7dd6-4e28-af63-2c8f8cb2b518" value="Business &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="62860836-4129-4269-b0e6-a5324da95dc6" ipa="/kiːn/" vi_ipa="ki-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9a6196e6-3385-46d2-9b67-f8ad85d059ee" type="Adjective">
+          <Vi>Nhiệt tình, hăng hái, say mê</Vi>
+          <En>Having or showing a strong interest or enthusiasm in something.</En>
+          <Example>She is keen on learning new languages.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5657395b-b3b8-407b-80d2-675dcb9f4576">
+              <Vi>Mô tả người có hứng thú mạnh mẽ với một hoạt động hoặc chủ đề.</Vi>
+              <En>Describes someone who shows strong interest or excitement about a subject or activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ee11e46a-c5f5-4c97-8e2d-8ae2fd2d157e" type="Adjective">
+          <Vi>Nhọn, sắc bén (dùng cho vật nhọn như dao, mũi tên)</Vi>
+          <En>Having a sharp point or edge; sharp or pointed.</En>
+          <Example>The knife had a keen edge after sharpening.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2e2e3e4-4156-4da9-b852-76ccc957951d">
+              <Vi>Mô tả công cụ hoặc vật nhọn có lưỡi hoặc đầu nhọn sắc bén.</Vi>
+              <En>Describes a tool or object with a sharp point or edge, often used in contexts like cutting or piercing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bc534672-a6d3-4733-8c98-5cc0c6bfcdcd" type="Adjective">
+          <Vi>Nhạy bén, nhanh nhẹn (về trí tuệ hoặc giác quan)</Vi>
+          <En>Having or showing an ability to understand things quickly; sharp or perceptive.</En>
+          <Example>He has a keen mind for solving complex problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="62716b93-7391-4ef4-916e-51bf5ead5458">
+              <Vi>Mô tả khả năng tư duy nhanh nhạy, quan sát tinh tế.</Vi>
+              <En>Describes someone with quick, sharp mental abilities or acute perception.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
