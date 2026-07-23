@@ -1,0 +1,108 @@
+<Vocab id="b7ba59d2-1917-4b55-8727-94b1e55f76ba" word="over" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+    <Topic id="097ff2b4-ff74-4a70-8a22-3bc314cdef0a" value="Movement &amp; Position" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="daa50eb1-4b19-4867-aa7b-9a14c2259b4c" ipa="/ˈoʊ.vɚ/" vi_ipa="ơ-vơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db5180e1-1619-4f44-bb14-a28c96ce6d4a" type="Preposition">
+          <Vi>trên, ở trên</Vi>
+          <En>At a higher level or position than; above.</En>
+          <Example>Put the book over the table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a48892b3-a1dd-40f5-be0b-c77fc40f34c2">
+              <Vi>Mô tả vị trí vật đặt cao hơn vật khác.</Vi>
+              <En>Describing a physical position where one object is placed above another.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="06767412-8f9a-4300-a262-eaacebd0c520" type="Preposition">
+          <Vi>qua, sang bên kia</Vi>
+          <En>From one side to the other side of; across.</En>
+          <Example>We walked over the bridge.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38824982-4194-4006-8571-2e896d8c8523">
+              <Vi>Mô tả chuyển động từ một bên sang bên kia một vật hoặc không gian.</Vi>
+              <En>Describing movement from one side to the other side of an object or space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="421759e3-3d37-468c-b339-3d5bdc6c9214" type="Preposition">
+          <Vi>trong thời gian, trong suốt</Vi>
+          <En>During or throughout a period of time.</En>
+          <Example>She worked over three months to finish the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6fb11507-42f5-4a05-888e-3688e00a7969">
+              <Vi>Mô tả hành động kéo dài trong một khoảng thời gian.</Vi>
+              <En>Describing an action that spans a period of time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="608d69c9-a3ad-4140-bc7f-0640e9413334" type="Preposition">
+          <Vi>vượt qua, hơn</Vi>
+          <En>More than; exceeding a limit or threshold.</En>
+          <Example>The temperature rose over 30°C.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46d8e926-38d4-4271-a22b-1d6be7303d2a">
+              <Vi>Mô tả mức độ vượt ngưỡng hoặc giới hạn.</Vi>
+              <En>Describing a quantity or degree that exceeds a specified limit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8ec7bde5-daba-44e2-af53-9add569f2452" type="Adverb">
+          <Vi>qua, lại, tiếp tục</Vi>
+          <En>From one side to the other; back and forth or repeatedly.</En>
+          <Example>He looked over his shoulder.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa7674ec-5d86-4374-883e-167e48a066b0">
+              <Vi>Mô tả hành động quay đầu hoặc nhìn lại.</Vi>
+              <En>Describing a physical movement such as turning or looking back.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0decdbfe-ff73-4e0c-b036-f3e886cccaf7" type="Adverb">
+          <Vi>đến nơi, hoàn tất</Vi>
+          <En>To a final or successful conclusion; finished.</En>
+          <Example>We finally got the car over the hill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="842852e8-79bc-4320-94b6-7940a4d35429">
+              <Vi>Mô tả việc hoàn thành một việc khó khăn hoặc vượt qua trở ngại.</Vi>
+              <En>Describing the successful completion of a difficult task or overcoming an obstacle.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fc2c67e1-3e4f-456d-a47b-9ca12c9dba58" type="Adverb">
+          <Vi>trên (dùng với động từ chỉ chuyển động)</Vi>
+          <En>Used with certain verbs to indicate movement to or from a place (e.g., come over, go over).</En>
+          <Example>Can you come over tomorrow?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5763ca18-0681-4de4-8225-af2c586677a5">
+              <Vi>Mô tả lời mời hoặc yêu cầu ai đó đến một địa điểm.</Vi>
+              <En>Describing an invitation or request for someone to visit a location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
