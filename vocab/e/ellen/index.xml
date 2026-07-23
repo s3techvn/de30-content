@@ -1,0 +1,32 @@
+<Vocab id="4b730263-58fc-41c8-b441-2ddf52bee3e3" word="ellen" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b852c6b6-a468-499c-b0d9-03e2fd20529f" ipa="/ˈɛl.ən/" vi_ipa="en-lơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1f89cc12-4cc2-4df2-975e-835511b08c7e" type="Noun">
+          <Vi>Tên riêng (đệm hoặc tên lót thường dùng cho nữ)</Vi>
+          <En>A feminine given name, often used as a standalone first name or as part of compound names (e.g., Eleanor, Ellen).</En>
+          <Example>Ellen DeGeneres is a well-known American comedian and television host.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4cb780a-ea0a-4bc7-a338-622ea1b5050f">
+              <Vi>Dùng khi giới thiệu hoặc nhắc đến một người tên Ellen trong giao tiếp hàng ngày hoặc văn viết.</Vi>
+              <En>Used when introducing or referring to a person named Ellen in everyday conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

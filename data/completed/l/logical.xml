@@ -1,0 +1,40 @@
+<Vocab id="6401ee29-32d8-4427-8f09-2b2635dc57b2" word="logical" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="426ae460-aa1e-4866-80ed-4501c09831cc" ipa="/ˈlɒdʒ.ɪ.kəl/" vi_ipa="lô-gích-kờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="46111eba-3c89-4590-aed7-479e703453c1" type="Adjective">
+          <Vi>hợp lý, logic</Vi>
+          <En>based on or in accordance with logic or reason; reasonable and sensible.</En>
+          <Example>Her argument was logical and well-supported by evidence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38d2917c-d09a-4b74-82fd-d9d7d942d0bb">
+              <Vi>Một lập luận hoặc quyết định dựa trên lý trí và bằng chứng rõ ràng.</Vi>
+              <En>A reasoning or decision that follows sound principles of reasoning and evidence.</En>
+            </Situation>
+            <Situation id="cc084a93-dce0-42a1-9923-88f898ef6f97">
+              <Vi>Trái ngược với cảm tính hoặc ngẫu nhiên.</Vi>
+              <En>Contrasted with emotional, random, or arbitrary choices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
