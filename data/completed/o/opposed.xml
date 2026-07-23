@@ -1,0 +1,38 @@
+<Vocab id="875902ee-da02-469f-aab6-56a904916c38" word="opposed" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cb3d161e-0b81-4192-bdc9-31cf29d97669" ipa="/əˈpoʊzd/" vi_ipa="ơ-pô-dzd">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91a1baa6-f8bf-41e0-b6c8-2fdcd41584af" type="Adjective">
+          <Vi>đối lập; phản đối; không đồng thuận</Vi>
+          <En>in opposition to something or someone; showing or expressing disagreement.</En>
+          <Example>She held an opposed view on climate policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8787ab50-2249-42d8-ba09-86c8216104e7">
+              <Vi>Mô tả một người hoặc quan điểm trái ngược với một lập trường chính thức hoặc phổ biến.</Vi>
+              <En>Describing a person or viewpoint that contradicts an official or prevailing stance.</En>
+            </Situation>
+            <Situation id="bb3fb9c7-2f40-4b45-bab8-a49f00339d7e">
+              <Vi>Trong một cuộc tranh luận, khi một bên không đồng ý với lập luận của bên kia.</Vi>
+              <En>In a debate, when one side disagrees with the other side’s argument.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,70 @@
+<Vocab id="496105a0-e8d6-42bf-81f9-698cf619dcc5" word="moderate" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c9085634-1b0e-43d1-be14-d3ce4e54123a" ipa="/ˈmɑː.dər.ət/" vi_ipa="mô-đờ-rít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82ba5457-1921-42cf-bbad-99f87bfeab01" type="Adjective">
+          <Vi>độ lượng, vừa phải, ôn hòa</Vi>
+          <En>Not extreme in any way; reasonable and balanced.</En>
+          <Example>She took a moderate approach to solving the conflict.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d25c049-e4c8-46db-ad7e-8cf0a256a50a">
+              <Vi>Mô tả thái độ hoặc hành vi không quá mạnh mẽ, không cực đoan.</Vi>
+              <En>Describing an attitude or behavior that avoids extremism and seeks balance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6ca6a440-39cf-40bd-b40b-17763fb3f3cc" ipa="/ˈmɑː.dər.eɪt/" vi_ipa="mô-đờ-rây-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d675990f-a6fc-4a5e-9b75-6f120c638bf1" type="Verb">
+          <Vi>điều tiết, kiểm soát, làm dịu bớt</Vi>
+          <En>To control or regulate something, especially to reduce its intensity or severity.</En>
+          <Example>The doctor prescribed medication to moderate the patient’s blood pressure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="687a6f74-2be5-4224-8ce2-e18b91343e8b">
+              <Vi>Dùng khi cần làm giảm hoặc kiểm soát mức độ của một hiện tượng (đau, nhiệt độ, phản ứng…).</Vi>
+              <En>Used when needing to reduce or control the intensity of a phenomenon (pain, temperature, reaction, etc.).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="06399458-f1d2-4693-a47e-1ccd51f996b2" type="Verb">
+          <Vi>chủ trì, điều hành (cuộc họp, cuộc thảo luận…)</Vi>
+          <En>To preside over a meeting or discussion, ensuring order and fairness.</En>
+          <Example>The chairperson moderated the debate between the two candidates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7a85c3e-b6b2-49c5-a8a9-5cf5db2db588">
+              <Vi>Dùng trong bối cảnh tổ chức hoặc điều phối một cuộc họp, hội thảo, tranh luận.</Vi>
+              <En>Used in the context of organizing or facilitating a meeting, panel, or debate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
