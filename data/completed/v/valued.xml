@@ -1,0 +1,36 @@
+<Vocab id="71dfbfe5-bfdf-4642-9208-e1a2ab76ea61" word="valued" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="cb626b57-17ad-4c73-95f9-486c8db10f8b" value="Human Resources" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="865c283f-9478-4c5b-96be-5e8e699dcb09" ipa="/ˈvæl.juːd/" vi_ipa="vét-lít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3e5cb224-60de-43cd-ab49-5d9ffd3090b0" type="Adjective">
+          <Vi>được đánh giá cao; quý giá; đáng trân trọng</Vi>
+          <En>Considered to be of great worth or importance; highly appreciated or respected.</En>
+          <Example>She is a valued member of our team.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7317e50f-1f66-47da-a13c-e999ea0585e7">
+              <Vi>Mô tả một người hoặc điều gì được coi là quan trọng và đáng trân trọng trong một bối cảnh cụ thể.</Vi>
+              <En>Describing a person or thing that is considered important and worthy of appreciation in a specific context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

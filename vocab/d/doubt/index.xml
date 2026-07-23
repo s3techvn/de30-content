@@ -1,0 +1,56 @@
+<Vocab id="b0ec15e9-d9eb-40d6-b0e8-858cca6fa8be" word="doubt" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7f269999-387e-4716-9525-4a5d86969380" ipa="/daʊt/" vi_ipa="đao-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="073818b5-56d8-40d4-afbd-b4dbd8c558be" type="Noun">
+          <Vi>Nghi ngờ, hoài nghi</Vi>
+          <En>A feeling of uncertainty or lack of confidence in something or someone.</En>
+          <Example>I have some doubts about the accuracy of this report.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06035067-fedd-4ab6-b986-4f70005f5bbb">
+              <Vi>Trong một cuộc họp, bạn cảm thấy chưa chắc chắn về dữ liệu được trình bày.</Vi>
+              <En>During a meeting, you feel uncertain about the data being presented.</En>
+            </Situation>
+            <Situation id="44a06f27-e2c5-4d08-91ea-7427d83e0d57">
+              <Vi>Khi quyết định đầu tư, bạn chưa tin tưởng hoàn toàn vào dự báo lợi nhuận.</Vi>
+              <En>When making an investment decision, you do not fully trust the profit forecast.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0889fd2e-3299-40db-95d0-994a2d0b802a" type="Verb">
+          <Vi>Nghi ngờ, hoài nghi</Vi>
+          <En>To feel uncertain about the truth, accuracy, or reliability of something.</En>
+          <Example>I doubt she’ll arrive on time—traffic is terrible today.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3d03ef69-d4ef-43f8-99a3-4abc9f0285e5">
+              <Vi>Bạn không tin vào lời giải thích của đồng nghiệp.</Vi>
+              <En>You do not believe your colleague’s explanation.</En>
+            </Situation>
+            <Situation id="daae8a19-df28-47c1-8cac-19ce91652247">
+              <Vi>Khi nghe tin đồn, bạn không tin ngay mà cần thêm bằng chứng.</Vi>
+              <En>When hearing a rumor, you do not believe it immediately and wait for more evidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
