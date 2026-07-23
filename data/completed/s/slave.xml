@@ -1,0 +1,56 @@
+<Vocab id="d45dec0c-c534-401a-a9ec-ef070f2e0c3e" word="slave" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="5a08c063-298d-4e30-a6c0-fad64e4c11f9" value="Labor" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="7c6eae79-b9df-4dbd-87a9-85fa4d95f8de" value="Human Rights Advocate" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76ae87b0-345a-4116-83d0-8aff4f904e5c" ipa="/sleɪv/" vi_ipa="xley-v">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d25e9124-2964-44d7-b27c-1273699711c2" type="Noun">
+          <Vi>nô lệ</Vi>
+          <En>A person who is the legal property of another and forced to obey them.</En>
+          <Example>Historical accounts describe the harsh conditions endured by slaves on plantations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb613d5d-176b-40bc-84a5-9a8b37c11ede">
+              <Vi>Bối cảnh lịch sử về chế độ nô lệ ở Mỹ trước Nội chiến.</Vi>
+              <En>Historical context of slavery in the United States before the Civil War.</En>
+            </Situation>
+            <Situation id="0d6f5164-006d-4663-b545-ff8ed5fc97a1">
+              <Vi>Mô tả tình trạng lao động cưỡng bức hiện đại.</Vi>
+              <En>Describing modern-day forced labor situations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="be22d502-9282-48dd-a473-a8108a38da7c" type="Noun">
+          <Vi>người làm việc cật lực, không mệt mỏi (ẩn dụ)</Vi>
+          <En>A person who works extremely hard, often to the point of exhaustion; used metaphorically.</En>
+          <Example>She’s a slave to her workload—she never takes a break.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea33d774-3376-42b6-b1ed-28173a71d4b0">
+              <Vi>Sử dụng khi nói về người làm việc quá sức trong môi trường văn phòng.</Vi>
+              <En>Used to describe someone overworking in a high-pressure office environment.</En>
+            </Situation>
+            <Situation id="f9d90e98-9691-4690-b8a5-bd94dd8731f0">
+              <Vi>Người nghiện công việc, không thể nghỉ ngơi.</Vi>
+              <En>A workaholic who cannot disconnect from job responsibilities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
