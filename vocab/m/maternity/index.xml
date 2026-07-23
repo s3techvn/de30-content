@@ -1,0 +1,55 @@
+<Vocab id="b707058a-07de-46fa-8346-16e89b35cc8b" word="maternity" type="short" status="done">
+  <Topics>
+    <Topic id="71d3dd6b-f69b-4714-8ee4-d6113512049a" value="Family &amp; Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="766d6208-4c73-44da-8fb6-e5dab776f4be" value="Obstetrician" />
+    <Profession id="a3c47b02-799f-4b01-820d-501263bd7c83" value="Midwife" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6aa15584-3389-45fa-9451-b524b8d2974f" ipa="/məˈtɜː.nə.ti/" vi_ipa="mơ-tờ-nờ-tờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="99caef79-91d0-4b1f-a0dc-b0821b709871" type="Noun">
+          <Vi>Sự làm mẹ; tình trạng mang thai và chăm sóc sau sinh</Vi>
+          <En>The state of being pregnant or having recently given birth; also refers to care provided to pregnant women and new mothers.</En>
+          <Example>She enrolled in a maternity leave program before her due date.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93b6a9e1-5763-4db8-a67b-588973125428">
+              <Vi>Chính sách nghỉ thai sản của công ty</Vi>
+              <En>Company policy regarding time off for pregnancy and childbirth.</En>
+            </Situation>
+            <Situation id="2d019719-d36e-4405-b8c7-1dd381f7fff1">
+              <Vi>Các sản phẩm dành cho mẹ và bé như quần áo, sữa, và dụng cụ cho con bú</Vi>
+              <En>Products designed for pregnant women and newborns, such as clothing, formula, and nursing supplies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="739b65b1-c2ae-4e96-9a75-2bf1839cd051" type="Adjective">
+          <Vi>Thuộc về thai sản; liên quan đến việc mang thai và sinh con</Vi>
+          <En>Relating to pregnancy, childbirth, and the postpartum period.</En>
+          <Example>The hospital has a dedicated maternity ward for expectant mothers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0faaa8f9-40bb-42ba-bdad-09a88bfcddda">
+              <Vi>Phòng sinh dành riêng cho phụ nữ đang mang thai và chuyển dạ</Vi>
+              <En>A hospital ward specially equipped for labor, delivery, and immediate postpartum care.</En>
+            </Situation>
+            <Situation id="5d7c58bb-8eb5-41df-b501-cb76dfa75c5d">
+              <Vi>Chương trình giáo dục tiền sản dành cho các cặp vợ chồng</Vi>
+              <En>Educational classes for expectant parents covering childbirth, breastfeeding, and newborn care.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

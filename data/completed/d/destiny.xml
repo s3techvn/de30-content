@@ -1,0 +1,40 @@
+<Vocab id="c1513e0b-9ba2-4b6c-bc55-3ba6f44882a2" word="destiny" type="short" status="done">
+  <Topics>
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8eaf1019-147c-4025-90d9-db04cc01440a" ipa="/ˈdes.tə.ni/" vi_ipa="đét-tơ-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="389a4bd7-985d-44df-8536-31afbef7d43c" type="Noun">
+          <Vi>định mệnh; số phận; vận mệnh</Vi>
+          <En>the events that will necessarily happen to a particular person or thing in the future, often thought to be predetermined by a higher power or cosmic force.</En>
+          <Example>She believed that meeting him was her destiny.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a50a3fec-632c-428c-a396-138c7fa6c0d2">
+              <Vi>Tình huống khi người nói tin rằng một sự kiện quan trọng trong đời mình là do số phận安排 (安排 → sắp đặt), không thể thay đổi.</Vi>
+              <En>A situation where someone believes a major life event is unchangeably predetermined, often in a romantic or pivotal context.</En>
+            </Situation>
+            <Situation id="1d0890f6-8936-416e-a277-52818c8d90e6">
+              <Vi>Tình huống trong văn học hoặc phim ảnh, nơi nhân vật đối mặt với số phận không thể tránh khỏi.</Vi>
+              <En>In literature or film, a scene where a character confronts an unavoidable fate, often with dramatic or tragic weight.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
