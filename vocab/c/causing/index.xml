@@ -1,0 +1,32 @@
+<Vocab id="102a93de-2df8-4aa3-8bfa-9e74ceb4715c" word="causing" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4e484f54-f0a4-4b38-a416-c824af61a539" ipa="/ˈkɔː.zɪŋ/" vi_ipa="cờ-zíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f831d4a7-9bc8-40d6-b795-9c69f73d1803" type="Verb">
+          <Vi>gây ra, làm cho xảy ra</Vi>
+          <En>to be the reason or cause of something, especially something negative</En>
+          <Example>Smoking is causing widespread health problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2da18d99-11ef-4ebd-b246-81969fc4b47d">
+              <Vi>Mô tả hành động làm phát sinh một kết quả hoặc sự kiện (thường là tiêu cực).</Vi>
+              <En>Describing an action that brings about a result or event, often undesirable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
