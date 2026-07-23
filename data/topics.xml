@@ -387,4 +387,6 @@
   <Topic id="b2f12474-066a-45be-9799-2c64f5f4e9c0" slug="household-&amp;-kitchen" value="Household &amp; Kitchen" />
   <Topic id="c453decf-c164-4f25-8e91-451d63d0475d" slug="safety-&amp;-security" value="Safety &amp; Security" />
   <Topic id="eaa6dce3-1387-4e69-be42-c0d84922cc99" slug="law-enforcement" value="Law Enforcement" />
+  <Topic id="cfc8f867-2cc1-47d8-a87e-b75f97f70d1a" slug="hardware" value="Hardware" />
+  <Topic id="122db23d-ef3a-4e22-a2fe-73832c54a2f3" slug="lightning" value="Lightning" />
 </Topics>

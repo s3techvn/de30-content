@@ -1,0 +1,110 @@
+<Vocab id="9e38765b-3a01-4c8e-a244-7f9639f878c1" word="bolt" type="short" status="done">
+  <Topics>
+    <Topic id="cfc8f867-2cc1-47d8-a87e-b75f97f70d1a" value="Hardware" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="122db23d-ef3a-4e22-a2fe-73832c54a2f3" value="Lightning" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="46ba193b-192f-4788-adc1-80ad6f2e3068" value="Security Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5809b02e-4ad8-4483-96a5-9ee37f17e778" ipa="/bəʊlt/" vi_ipa="bốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9ca9e92a-f7c2-4fe0-8d3d-edcdd6c574c7" type="Noun">
+          <Vi>Đinh ốc (loại có đầu vát và thân trơn, dùng với đai ốc để kẹp chặt các bộ phận)</Vi>
+          <En>A fastener consisting of a threaded shaft and a head, used with a nut to hold objects together.</En>
+          <Example>The mechanic tightened the bolt securing the engine mount.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2a6f0be-71cf-4f87-98af-ca06e9879ce4">
+              <Vi>Thợ cơ khí siết chặt bu-lông khi lắp ráp máy móc.</Vi>
+              <En>A mechanic tightening a bolt during machinery assembly.</En>
+            </Situation>
+            <Situation id="a760bd97-5552-413f-bf3b-b4ff61616508">
+              <Vi>Cửa được khóa bằng một thanh chốt ngang (còn gọi là bolt).</Vi>
+              <En>The door is locked with a horizontal bolt.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="394c6c88-c62a-4a08-a48d-d02a62702175" type="Noun">
+          <Vi>Tia sét</Vi>
+          <En>A sudden, bright flash of lightning during a thunderstorm.</En>
+          <Example>A bolt of lightning struck the tree, splitting it in two.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38f688f7-0f29-4005-8fac-6a1fc51c8702">
+              <Vi>Người dân hoảng loạn khi nghe tiếng sấm và thấy tia chớp.</Vi>
+              <En>People panicked upon hearing thunder and seeing a lightning bolt.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="45c44e8b-99bc-476a-abe3-f0c3479a10f9" type="Noun">
+          <Vi>Chốt cửa (thanh kim loại trượt vào vị trí để khóa cửa)</Vi>
+          <En>A metal bar that slides into a frame to lock a door or window.</En>
+          <Example>She pulled the bolt across the door to secure it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bfd8cc62-801e-425a-a84a-44fda22d8bd1">
+              <Vi>Khi ra khỏi nhà, tôi luôn kéo chốt cửa lại.</Vi>
+              <En>I always pull the bolt across the door when leaving the house.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="593eba7d-89aa-45fe-a387-da43425f4bc0" ipa="/bəʊlt/" vi_ipa="bốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89b7c8de-1f51-4222-9700-a921cdf92c7d" type="Verb">
+          <Vi>Kẹp chặt bằng bu-lông</Vi>
+          <En>To fasten or secure something with a bolt.</En>
+          <Example>The cabinet was bolted to the wall for stability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21bf379c-4d18-463c-a072-eef0e7350635">
+              <Vi>Thợ điện gắn bảng điện vào tường bằng bu-lông.</Vi>
+              <En>The electrician bolted the electrical panel to the wall.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ce4522f4-5151-4ee7-ba85-19cd52bdfdd1" type="Verb">
+          <Vi>Bỏ chạy nhanh (như tia chớp); rời khỏi nơi nào đó một cách đột ngột và nhanh chóng</Vi>
+          <En>To leave a place suddenly and quickly, often in a panic or hurry.</En>
+          <Example>When the dog barked, the cat bolted out the door.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0f6de4e-218f-484b-9ae3-e20bb8c52da2">
+              <Vi>Sau khi nghe tin dữ, anh ấy lập tức bỏ chạy.</Vi>
+              <En>After hearing the bad news, he bolted out of the room.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ff7c5748-6e50-45b2-850f-9ddc9df3c08d" type="Verb">
+          <Vi>Chạy nhanh (động vật)</Vi>
+          <En>To run away at high speed, especially referring to animals.</En>
+          <Example>The horse bolted as soon as the gate opened.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90659b0a-a45b-4354-a8de-c0be1be0be8b">
+              <Vi>Ngựa hoảng loạn và phóng vọt ra khỏi chuồng.</Vi>
+              <En>The horse panicked and bolted out of the stable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
