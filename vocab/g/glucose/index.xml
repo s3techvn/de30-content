@@ -1,0 +1,40 @@
+<Vocab id="ee4503db-4903-407e-8eea-c97b18daf760" word="glucose" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="eef8be4f-1355-48eb-b50a-eec18a596b97" value="Nutrition" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="cae4e92d-1eb2-4253-89fc-448c71bba575" value="Biochemist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="83e58645-f818-4663-9322-e5839aa5d129" ipa="/ˈɡluː.koʊs/" vi_ipa="glu-cơ-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="afb2ac45-6410-4993-8be0-da99d4ae1698" type="Noun">
+          <Vi>glucozơ</Vi>
+          <En>A simple sugar (monosaccharide) that is a primary source of energy for living cells, especially in the human body; blood sugar.</En>
+          <Example>People with diabetes must carefully monitor their blood glucose levels.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="acdae92a-aee3-4570-8055-066e97fdc107">
+              <Vi>Một chỉ số y tế quan trọng trong chẩn đoán và theo dõi bệnh tiểu đường.</Vi>
+              <En>An essential clinical marker used in diagnosing and managing diabetes.</En>
+            </Situation>
+            <Situation id="0cb5e62d-467e-46e1-933a-c5daba576358">
+              <Vi>Thức ăn chứa carbohydrate được cơ thể chuyển hóa thành glucose để cung cấp năng lượng.</Vi>
+              <En>Carbohydrate-rich foods are broken down into glucose to provide energy for the body.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
