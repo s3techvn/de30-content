@@ -1,0 +1,38 @@
+<Vocab id="a5863353-18f8-47f9-9923-6c6cc122dd4d" word="lancaster" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="20bd377f-fdbb-423e-b9ff-04309730c391" value="Genealogist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8beda543-eb9d-4435-be1b-8efbb7777d77" ipa="/ˈlæŋ.kə.stər/" vi_ipa="lăng-kơ-stơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="94e2a138-7c4a-453c-adb9-c141a61b6139" type="Proper Noun">
+          <Vi>Thành phố Lancaster ở Anh, hoặc tên họ (họ Lancaster)</Vi>
+          <En>A city in northwest England, or a surname (e.g., the House of Lancaster)</En>
+          <Example>The War of the Roses was fought between the Houses of York and Lancaster.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9f63378-bfe6-42de-b295-48a8b4cb2554">
+              <Vi>Tham quan di tích lịch sử ở Lancaster, Anh.</Vi>
+              <En>Visiting historical sites in Lancaster, England.</En>
+            </Situation>
+            <Situation id="9fb069bb-3002-4ff2-a51a-1c9fdb895c43">
+              <Vi>Nói về dòng họ Lancaster trong lịch sử nước Anh.</Vi>
+              <En>Discussing the House of Lancaster in English history.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
