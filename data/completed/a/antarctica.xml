@@ -1,0 +1,38 @@
+<Vocab id="f4306ed7-daec-4cdb-bd21-447d91c8e3d3" word="antarctica" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="260baef6-9cd8-4ba9-a4a4-b67152f222f5" value="Explorer" />
+    <Profession id="3812b25b-7f79-4c3d-a6e9-d608bd98e3b8" value="Climate Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86a03878-03ee-4911-b13a-d88ec1c15e21" ipa="/ænˈtɑːrktɪkə/" vi_ipa="an-ta-c-ti-cơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="481a97af-54e1-4f53-b0f5-895438d519a0" type="Noun">
+          <Vi>Châu Nam Cực</Vi>
+          <En>The southernmost continent, covering the geographic South Pole and surrounded by the Southern Ocean.</En>
+          <Example>Antarctica is the coldest, driest, and windiest continent on Earth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea7ff1cc-02fd-443e-bd9e-979d2378b6e0">
+              <Vi>Một khu vực hoang vu, băng tuyết bao phủ quanh năm, không có dân cư thường trú.</Vi>
+              <En>A frozen, uninhabited wilderness with no permanent residents, hosting scientific research stations.</En>
+            </Situation>
+            <Situation id="8ee41669-cd0e-492a-ad17-aa753aae15ff">
+              <Vi>Nơi diễn ra nhiều cuộc thám hiểm và nghiên cứu khoa học quốc tế.</Vi>
+              <En>A site for international scientific expeditions and climate/environmental research.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

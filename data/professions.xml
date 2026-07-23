@@ -666,4 +666,5 @@
   <Profession id="09df083c-1425-4bf2-a382-d6ec410adb6f" slug="agriculturist" value="Agriculturist" />
   <Profession id="347781e5-4b95-4305-b18a-7b56844220a8" slug="luxury-travel-planner" value="Luxury Travel Planner" />
   <Profession id="0c3abc06-cf6e-4853-a078-e08a309b1fe9" slug="rehabilitation-specialist" value="Rehabilitation Specialist" />
+  <Profession id="3812b25b-7f79-4c3d-a6e9-d608bd98e3b8" slug="climate-researcher" value="Climate Researcher" />
 </Professions>
