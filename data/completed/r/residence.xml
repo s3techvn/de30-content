@@ -1,0 +1,40 @@
+<Vocab id="c9bfe607-efa8-4165-b471-d8c4226f1926" word="residence" type="short" status="done">
+  <Topics>
+    <Topic id="936b70ae-4215-4967-880f-6da73dc51995" value="Law and Government" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ce22d063-6e76-4590-8c46-d2d7e3803c6f" ipa="/ˈrez.ɪ.dəns/" vi_ipa="rít-din">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2b127d6b-fbb8-4576-96e0-ccc8a04f64cd" type="Noun">
+          <Vi> residence; nơi cư trú; nơi ở chính thức</Vi>
+          <En> a place where someone lives, especially a large or official house or building</En>
+          <Example> The ambassador’s residence is located in the diplomatic quarter of the city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb96c816-4f6e-406d-a980-3a738b288525">
+              <Vi> Chỉ nơi ở chính thức của một cá nhân hoặc gia đình, đặc biệt là một dinh thự hoặc nhà lớn.</Vi>
+              <En> Refers to the official or principal place where a person or family lives, often implying formality or size.</En>
+            </Situation>
+            <Situation id="1b5142a2-e6ac-4a83-88d7-f6c0507829dc">
+              <Vi> Trong ngữ cảnh pháp lý hoặc hành chính, chỉ địa điểm đăng ký thường trú.</Vi>
+              <En> In legal or administrative contexts, refers to the officially registered place of permanent or primary residence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
