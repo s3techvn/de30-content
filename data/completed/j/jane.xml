@@ -1,0 +1,36 @@
+<Vocab id="d9acfe64-ae14-4d0a-ad7c-42a9e2e6452c" word="jane" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df4672ed-19e1-4804-9eb1-5735342445e5" ipa="/dʒeɪn/" vi_ipa="giên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d57c2395-9020-42f0-a6f8-eebcf603e4bb" type="Noun">
+          <Vi>Tên riêng (dùng cho nữ); (tên gọi chung để chỉ một người phụ nữ không rõ tên)</Vi>
+          <En>A female given name; also used generically to refer to an unspecified woman.</En>
+          <Example>Jane Doe is the name used for an unknown or unnamed woman in legal contexts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f602fe5-4196-4b7f-a2b1-044fb0031ac2">
+              <Vi>Dùng trong pháp lý để chỉ một người phụ nữ vô danh.</Vi>
+              <En>Used in legal contexts to refer to an unknown or anonymous woman.</En>
+            </Situation>
+            <Situation id="b3eff5cc-b56c-462f-8da8-e49f7e942dbb">
+              <Vi>Dùng trong văn học hoặc hội thoại để nói về một người phụ nữ điển hình.</Vi>
+              <En>Used in literature or conversation to refer to an average or typical woman.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
