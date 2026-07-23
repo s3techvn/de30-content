@@ -1,0 +1,52 @@
+<Vocab id="80c3917e-7578-47d4-ab26-cccd89999695" word="fatty" type="short" status="done">
+  <Topics>
+    <Topic id="2ad4cf8c-7c59-414d-a50d-c6e8e941328a" value="Food &amp; Nutrition" />
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1928a3e7-fce5-4cf1-b19f-517c3598a619" ipa="/ˈfæt.i/" vi_ipa="phết-tây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="26fd37fb-4233-4e0d-ad69-a7489fdbb173" type="Adjective">
+          <Vi>giàu chất béo; béo ngậy</Vi>
+          <En>containing a high amount of fat, especially in a way that is considered excessive or unhealthy.</En>
+          <Example>The burger was delicious but very fatty, leaving me feeling overly full.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a9dccd2-1916-4a27-945a-5e4deb0a8dd4">
+              <Vi>Mô tả thực phẩm có hàm lượng chất béo cao, thường không lành mạnh.</Vi>
+              <En>Describing food with a high fat content, often considered unhealthy.</En>
+            </Situation>
+            <Situation id="d5920304-7c44-48b1-b2f9-45a40a0c1720">
+              <Vi>Chỉ tính chất vật lý của mô hoặc chất béo trong cơ thể.</Vi>
+              <En>Referring to the physical property of tissue or fat in the body.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5aa0e2dc-aafd-49bc-aad3-0f4664c5c130" type="Noun">
+          <Vi>người béo phì (thường mang tính chê bai)</Vi>
+          <En>an informal and often offensive term for a very overweight person.</En>
+          <Example>He tried to ignore the teasing, but the nickname "Fatty" still stung.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90b58bdb-c2c8-4155-b8fe-73a166ddfcb9">
+              <Vi>Sử dụng trong văn nói không trang trọng, thường mang tính xúc phạm.</Vi>
+              <En>Used in informal speech, often as a derogatory or teasing term.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
