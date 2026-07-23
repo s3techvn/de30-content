@@ -1,0 +1,52 @@
+<Vocab id="42d20d5c-0fd0-48ff-ae3e-6f33fef4acbb" word="haven" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0b5b63a5-a56b-4ad6-8706-3febfb022602" ipa="/ˈheɪ.vən/" vi_ipa="hê-vơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="906f729f-2ce9-4616-973f-2bc3460ed3b5" type="Noun">
+          <Vi>Cảng an toàn; nơi nương náu; nơi an toàn, bình yên</Vi>
+          <En>A place of safety or refuge, especially for ships; a safe or peaceful place.</En>
+          <Example>The small island served as a haven for sailors during the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28c35c92-d581-4d1b-bc1c-69b131db64c8">
+              <Vi>Một cảng biển được sử dụng làm nơi trú ẩn an toàn cho tàu thuyền giữa cơn bão.</Vi>
+              <En>A harbor used as a safe shelter for ships during a storm.</En>
+            </Situation>
+            <Situation id="20eb81b3-85d0-4755-915a-3e07a023e103">
+              <Vi>Một nơi yên tĩnh, bình yên để nghỉ ngơi sau một ngày làm việc căng thẳng.</Vi>
+              <En>A quiet, peaceful place to rest after a stressful day at work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aade6839-e084-41c2-8c94-29ddef25c3de" type="Noun">
+          <Vi>Nơi ẩn náu (cho người bị truy nã); nơi bảo vệ (tín đồ trong tôn giáo)</Vi>
+          <En>A place offering protection or sanctuary, especially for people seeking refuge or religious freedom.</En>
+          <Example>The monastery was declared a haven for persecuted monks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f10dbd97-6263-483e-839d-8dba61e31bc5">
+              <Vi>Một nhà thờ cung cấp nơi ẩn náu cho người bị truy nã theo luật dân sự.</Vi>
+              <En>A church providing sanctuary to someone wanted by civil authorities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
