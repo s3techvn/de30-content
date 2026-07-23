@@ -1,0 +1,54 @@
+<Vocab id="375ce314-dbd6-4e75-87b4-49f4ed978e82" word="laugh" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="9de92dbb-8661-45a0-b822-56d1d3b0bdbe" value="Comedian" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b68db076-dbdb-4d31-bf29-d5343e3b5ae9" ipa="/læf/" vi_ipa="lép">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d33d65fc-79a6-4067-b924-d68bfb585f51" type="Verb">
+          <Vi>Cười</Vi>
+          <En>To express amusement or joy, typically with audible exhalations and facial expressions.</En>
+          <Example>She couldn’t help laughing at the funny joke.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a66fde68-588e-4074-9403-39405c1d3b68">
+              <Vi>Nghe một câu chuyện hài hước và phản ứng bằng tiếng cười.</Vi>
+              <En>Hearing a humorous story and responding with laughter.</En>
+            </Situation>
+            <Situation id="9c6e6af5-a9d3-4f4b-96cf-33311cd9d2f6">
+              <Vi>Cười vì thấy điều gì đó bất ngờ hoặc ngớ ngẩn.</Vi>
+              <En>Laughing because something surprising or absurd happens.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="51a46121-cf30-4332-9757-50660bba0909" type="Noun">
+          <Vi>tiếng cười</Vi>
+          <En>A sound made by laughing; an instance of laughing.</En>
+          <Example>His loud laugh filled the room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd46d4b0-52e8-46ef-83d0-b5fe705bf836">
+              <Vi>Một âm thanh vui vẻ và ngắn gọn phát ra khi cười.</Vi>
+              <En>A short, vocal sound produced during laughter.</En>
+            </Situation>
+            <Situation id="74356d34-5efa-4936-b697-a80283367054">
+              <Vi>Nghe một tiếng cười từ xa trong một buổi tiệc.</Vi>
+              <En>Hearing a distant laugh at a party.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
