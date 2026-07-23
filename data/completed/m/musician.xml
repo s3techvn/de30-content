@@ -1,0 +1,38 @@
+<Vocab id="eb9320e8-01f4-4cfb-8173-e685888d6982" word="musician" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="c835a8dd-adbd-4ddf-9d21-b8f692c6e80f" value="Composer" />
+    <Profession id="310378f4-4f76-4520-b112-4fc97c2cbd9a" value="Music Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="459ebc42-d23c-44e2-8f85-b739186f5544" ipa="/ˈmjuː.zɪ.ʃən/" vi_ipa="mju-zi-sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="38845313-4afd-49b5-a694-1f7a51ce9710" type="Noun">
+          <Vi>Nhạc sĩ; người chơi nhạc (chuyên nghiệp hoặc nghiệp dư)</Vi>
+          <En>A person who plays a musical instrument or is skilled in music; especially a person who composes, conducts, or performs music professionally.</En>
+          <Example>She’s a talented musician who has performed at major venues across the country.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4f0b55d-1939-4256-a453-5f4a36adcbc3">
+              <Vi>Một người được mời biểu diễn trong buổi hòa nhạc từ thiện.</Vi>
+              <En>A person invited to perform at a charity concert.</En>
+            </Situation>
+            <Situation id="d8ee81b5-95f0-48da-97bf-9d128c8230ca">
+              <Vi>Anh ấy là nhạc sĩ tự học và sáng tác nhạc indie.</Vi>
+              <En>He is a self-taught musician and indie songwriter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
