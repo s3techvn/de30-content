@@ -1,0 +1,34 @@
+<Vocab id="bf2f5fab-a9d5-464d-bf7c-1ce2d0092884" word="distinct" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="32cc43fb-225e-43ae-93c5-8bd114477273" value="Law" />
+    <Profession id="14781213-160d-428d-92fc-eb8d39256512" value="Science &amp; Research" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eee7bd23-ae9a-498c-8c89-950fe43b4fb7" ipa="/dɪˈstɪŋkt/" vi_ipa="đít-tíng-khít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="83ed1b23-8e00-4ebd-a191-cd4da030acbb" type="Adjective">
+          <Vi>phân biệt được; rõ ràng, khác biệt, không nhầm lẫn</Vi>
+          <En>clearly different or separate in kind or quality; easily perceived or recognized</En>
+          <Example>The two species have distinct physical characteristics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e056dc6-cf9a-4d59-b731-529f171bf0ff">
+              <Vi>Mô tả hai điều rõ ràng khác nhau, không chồng lấn.</Vi>
+              <En>Describing two things that are clearly different and do not overlap.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

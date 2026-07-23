@@ -539,4 +539,6 @@
   <Profession id="f6a81836-bb63-4535-82f4-7af50cc0553d" slug="bookseller" value="Bookseller" />
   <Profession id="45ca1827-9d93-491c-ab68-014e25aaaf13" slug="author" value="Author" />
   <Profession id="d4eac4cc-14b4-48c5-b363-dd1164a6e2d3" slug="landscape-architect" value="Landscape Architect" />
+  <Profession id="32cc43fb-225e-43ae-93c5-8bd114477273" slug="law" value="Law" />
+  <Profession id="14781213-160d-428d-92fc-eb8d39256512" slug="science-&amp;-research" value="Science &amp; Research" />
 </Professions>
