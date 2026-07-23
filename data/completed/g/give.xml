@@ -1,0 +1,80 @@
+<Vocab id="4444f9d1-a2c6-4a8a-9ac0-d8ee5d79a6e8" word="give" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ab6c91b-bfcf-466c-812d-03eb817ff9f3" ipa="/ɡɪv/" vi_ipa="gíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="71c07378-a58f-44ec-b4e2-06e755ed7740" type="Verb">
+          <Vi>cho, trao, biếu</Vi>
+          <En>To transfer possession of something to someone, typically voluntarily and without expecting immediate compensation.</En>
+          <Example>She gave her friend a book for his birthday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49c4b006-f6a3-42d4-b033-86ea2c5da39f">
+              <Vi>Trao một vật cụ thể cho người khác như một món quà hoặc để giúp đỡ.</Vi>
+              <En>Handing over a physical object to someone as a gift or to help them.</En>
+            </Situation>
+            <Situation id="5b3cbc91-c3c1-4edd-aae0-90f492fe245e">
+              <Vi>Cho phép ai đó sử dụng điều gì đó (ví dụ: thời gian, ý kiến).</Vi>
+              <En>Allowing someone to use something (e.g., time, opinion).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="25c199a9-f0f9-4080-94a0-25a7698a77a7" type="Verb">
+          <Vi>đưa ra, cung cấp (thông tin, phản ứng, v.v.)</Vi>
+          <En>To provide or offer something abstract, such as information, a reaction, or a statement.</En>
+          <Example>He gave a detailed explanation of the problem.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="620ba58a-1321-40bf-9096-f209e30dbf45">
+              <Vi>Cung cấp thông tin hoặc câu trả lời khi được hỏi.</Vi>
+              <En>Providing information or an answer when asked.</En>
+            </Situation>
+            <Situation id="1a956421-8c0e-4dd0-8349-2d6bfc677aa2">
+              <Vi>Biểu lộ cảm xúc hoặc phản ứng (ví dụ: cười, khóc, tức giận).</Vi>
+              <En>Expressing an emotion or reaction (e.g., laughing, crying, getting angry).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8b6fe3e9-a22b-4c09-9fe5-10a81990e21f" type="Verb">
+          <Vi>sinh (con), sinh con (động vật)</Vi>
+          <En>To produce offspring; to bear or deliver a child.</En>
+          <Example>She gave birth to twins last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e116977c-11ce-4e09-ab53-7e7a7dc290fc">
+              <Vi>Mô tả việc sinh con trong y tế hoặc đời sống gia đình.</Vi>
+              <En>Describing childbirth in medical or family contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0d8fb250-2119-485f-80ae-a89156bd06e1" type="Verb">
+          <Vi>cho phép, chấp nhận (điều gì đó là đúng hoặc hợp lý)</Vi>
+          <En>To acknowledge or accept something as true or reasonable.</En>
+          <Example>We must give that he’s been under a lot of stress lately.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bbeb406d-953e-46f7-b653-3448bc1fce18">
+              <Vi>Công nhận một thực tế hoặc lý do trước khi đưa ra lập luận phản biện.</Vi>
+              <En>Acknowledging a fact or reason before presenting a counter-argument.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
