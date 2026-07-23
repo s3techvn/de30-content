@@ -1,0 +1,46 @@
+<Vocab id="e90b7ba7-8616-45a8-9399-5bbba1f67d55" word="intimate" type="short" status="done">
+  <Topics>
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a982e754-f3a5-43db-8108-bc9c869fb003" ipa="/ˈɪn.tɪ.mət/" vi_ipa="in-ti-mết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="04c68110-7b5f-410f-9f8b-0e92b872ac1a" type="Adjective">
+          <Vi>thân mật, gần gũi, mật thiết</Vi>
+          <En>very close or familiar in relationship; showing or involving a close or warm friendship, affection, or understanding.</En>
+          <Example>They shared an intimate conversation late into the night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a737de48-3090-4325-bda8-71861de142ad">
+              <Vi>Mô tả mối quan hệ giữa hai người có sự tin tưởng, chia sẻ sâu sắc và gắn bó tình cảm.</Vi>
+              <En>Describes a relationship marked by deep trust, emotional sharing, and strong emotional bonds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="da5bfd2c-2ae7-434f-9aa8-a21fce09b2d0" type="Verb">
+          <Vi>tiết lộ, mách lẻo, rỉ tai</Vi>
+          <En>to tell someone something private or secret, often in a confidential or discreet manner.</En>
+          <Example>She intimated that she might resign soon, without saying it directly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="75f5d061-c6d1-44cf-ba74-502a688a581a">
+              <Vi>Dùng khi muốn ám chỉ điều gì đó một cách kín đáo, không nói thẳng ra.</Vi>
+              <En>Used when hinting or suggesting something indirectly, often to avoid direct confrontation or embarrassment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
