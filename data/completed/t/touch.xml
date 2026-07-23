@@ -1,0 +1,56 @@
+<Vocab id="4ac10577-8cb3-4b21-9315-e256fde767d1" word="touch" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="970993a0-dbf9-4f04-90f9-6d5c6c977021" ipa="/tʌtʃ/" vi_ipa="tát-ch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9948e9ff-a949-4e4c-9444-1ec4bd4777d2" type="Verb">
+          <Vi>chạm, sờ</Vi>
+          <En>to put or keep one's hand or another body part in contact with something</En>
+          <Example>She gently touched the baby’s cheek.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ad6ec79-001d-4284-b536-6565b4f4eb0f">
+              <Vi>Hành động tiếp xúc vật lý trực tiếp với một vật hoặc người.</Vi>
+              <En>The physical act of making contact with an object or person.</En>
+            </Situation>
+            <Situation id="aaf47b5d-fa60-40cc-a7c2-2a0f36574615">
+              <Vi>Trong công nghệ: chạm vào màn hình cảm ứng để điều khiển thiết bị.</Vi>
+              <En>In technology: tapping or pressing a touchscreen to operate a device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d73bf48f-acc4-4983-9c36-e0792112efe2" type="Noun">
+          <Vi>sự chạm, sự sờ; phong cách, chất liệu, cảm giác</Vi>
+          <En>the act of touching; also, a subtle quality or style in behavior, art, or design</En>
+          <Example>He has a delicate touch when playing the piano.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="16e7854d-8a3d-4150-9836-6463ec9dd9c9">
+              <Vi>Chỉ mức độ nhẹ nhàng hoặc khéo léo trong hành động.</Vi>
+              <En>Refers to the degree of gentleness or skillfulness in an action.</En>
+            </Situation>
+            <Situation id="3535685a-b6a7-4f62-9300-e3d41ebf0439">
+              <Vi>Trong nghệ thuật: phong cách thể hiện tinh tế, gợi cảm xúc.</Vi>
+              <En>In art: a subtle stylistic quality that evokes emotion or nuance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
