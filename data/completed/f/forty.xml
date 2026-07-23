@@ -1,0 +1,32 @@
+<Vocab id="ac1e3c6d-46f7-4525-afd7-00ca0e641665" word="forty" type="short" status="done">
+  <Topics>
+    <Topic id="6ff761f3-60da-4132-9b3d-84677d002936" value="Numbers and Quantities" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c2153f31-d02c-4c39-a9bc-2e15adc45c07" ipa="/ˈfɔːr.ti/" vi_ipa="pho-ri-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a3614b04-124b-43c1-8e3a-a9f9312f9168" type="Number">
+          <Vi>bốn mươi</Vi>
+          <En>The cardinal number equal to 4 × 10; the number 40.</En>
+          <Example>There are forty students in the class.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14656b2d-1ea3-42ae-bf89-0988428a8a29">
+              <Vi>Dùng để chỉ số lượng cụ thể là 40 người, vật, đơn vị.</Vi>
+              <En>Used to indicate a specific quantity of 40 people, objects, or units.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
