@@ -1014,3 +1014,4 @@ pin
 harris
 note
 mode
+cinema
