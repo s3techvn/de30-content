@@ -587,4 +587,5 @@
   <Profession id="e9d171e9-6fed-4157-a628-ca905280cf6f" slug="corporate-manager" value="Corporate Manager" />
   <Profession id="fb30e8db-0172-47a7-bd2e-12e0546e66e7" slug="secretary" value="Secretary" />
   <Profession id="d1ff3005-5176-4afb-827b-de469635c73e" slug="cinematographer" value="Cinematographer" />
+  <Profession id="8f2932f1-22a3-4e0d-b0a5-9c92dca49e43" slug="life-coach" value="Life Coach" />
 </Professions>
