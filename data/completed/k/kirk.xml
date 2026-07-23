@@ -1,0 +1,32 @@
+<Vocab id="c7a42e7c-3714-4fdf-95c1-7286780a2850" word="kirk" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="daf515c7-86ef-4091-8d26-c50acc60c364" ipa="/kɜːrk/" vi_ipa="cờ-rk">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9fecdfa-317d-4323-8e15-07f1abf3d64c" type="Noun">
+          <Vi>nhà thờ (đặc biệt là nhà thờ thuộc Giáo hội Scotland)</Vi>
+          <En>a church, especially one belonging to the Church of Scotland</En>
+          <Example>The villagers gathered at the kirk for Sunday service.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6f55034-cec0-49a4-807c-ba50e67eb228">
+              <Vi>Mô tả một nhà thờ truyền thống ở Scotland, nơi tổ chức các nghi lễ tôn giáo.</Vi>
+              <En>Describes a traditional church in Scotland where religious ceremonies are held.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="0d5b8da7-59bd-4b99-84ca-a2725122107b" word="serum" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="73be1298-80df-4359-a39c-b46d54d6afe3" ipa="/ˈsɪər.əm/" vi_ipa="xì-ơ-mơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="86735e8a-7154-4166-a5fc-9cd230c94490" type="Noun">
+          <Vi>huyết thanh</Vi>
+          <En>The clear, yellowish fluid portion of blood in which blood cells are suspended; often used to transfer antibodies or deliver medications.</En>
+          <Example>The doctor administered a tetanus antitoxin serum to the patient.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c2086886-c40e-40de-b7ce-1d4e92a75c6b">
+              <Vi>Trong y tế, huyết thanh được tiêm vào cơ thể để cung cấp kháng thể hoặc điều trị bệnh.</Vi>
+              <En>In medicine, serum is injected into the body to provide antibodies or treat disease.</En>
+            </Situation>
+            <Situation id="17f26b84-f9fd-4034-938f-5d859de71bf8">
+              <Vi>Huyết thanh được dùng trong xét nghiệm chẩn đoán bệnh truyền nhiễm.</Vi>
+              <En>Serum is used in diagnostic tests for infectious diseases.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
