@@ -1,0 +1,70 @@
+<Vocab id="0f99c243-fff1-4419-bda8-71c224d0d1c6" word="resident" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a7fb9478-e657-478f-9ed8-2f4f15e8ffe7" value="Law &amp; Government" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="40099e45-d929-4a98-8af2-9d26a9c74f7a" ipa="/ˈrez.ɪ.dənt/" vi_ipa="rì-dên-tớt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ebc67d0c-81bb-460f-9694-24c83e2a06e7" type="Noun">
+          <Vi>người cư trú; cư dân</Vi>
+          <En>a person who lives in a particular place</En>
+          <Example>She is a long-time resident of the neighborhood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b54b565c-c455-48bb-93fb-f20eb1c6b4c4">
+              <Vi>Mô tả người sống ổn định tại một địa điểm cụ thể, thường không phải là khách hoặc du khách.</Vi>
+              <En>Refers to someone who permanently or regularly lives in a specific location, as opposed to being a visitor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="76f00557-f1f1-46fd-b460-b15c3b348748" type="Adjective">
+          <Vi>thường trú; cư trú</Vi>
+          <En>living in a particular place, especially as a permanent or regular resident</En>
+          <Example>The building has a resident manager.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0be53556-da20-47ff-b0cd-6d9d4d817362">
+              <Vi>Dùng để mô tả người sống ngay tại nơi làm việc hoặc nơi được chỉ định (ví dụ: quản lý, bác sĩ).</Vi>
+              <En>Used to describe someone who lives on-site, such as a manager or doctor at a facility.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9cef7bfe-c474-4d3b-9a07-63f8304b374d" ipa="/rɪˈzɪd.ənt/" vi_ipa="rì-dí-dên-tớt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="386c7103-f0fd-407e-aed5-5bfe29510336" type="Noun">
+          <Vi>bác sĩ nội trú</Vi>
+          <En>a doctor who is receiving training in a hospital, living on-site during their residency</En>
+          <Example>The resident worked 80-hour weeks during the first year of training.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e519d17-c696-442e-b83d-0250b82feede">
+              <Vi>Dùng trong y khoa để chỉ bác sĩ đang thực tập tại bệnh viện.</Vi>
+              <En>Used in medical contexts to refer to a physician in postgraduate training, typically living at the hospital.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

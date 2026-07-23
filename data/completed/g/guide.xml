@@ -1,0 +1,56 @@
+<Vocab id="d461f973-e017-4580-ab4c-7fdd05886835" word="guide" type="short" status="done">
+  <Topics>
+    <Topic id="fbd211d7-dcb9-4689-893a-e8bbb74fa7f8" value="Travel &amp; Tourism" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="4d315299-7940-49e1-8216-77ae513db957" value="Leadership" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="fdee974f-89d8-4246-8313-cb27557258b0" value="Mentor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4e320eb1-247b-418c-bee7-0f872212b92f" ipa="/ɡaɪd/" vi_ipa="gái-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2b3b1ef-c6ac-4024-8a54-236a518db92f" type="Noun">
+          <Vi>người hướng dẫn; sách hướng dẫn</Vi>
+          <En>a person who shows the way or provides guidance, especially in a tourist area; a book or document giving instructions or advice</En>
+          <Example>The local guide led us through the ancient temples of Angkor Wat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ceed2f2f-8441-41ce-8270-52f59654aa88">
+              <Vi>Tình huống du khách cần người dẫn đường trong khu di tích lịch sử.</Vi>
+              <En>A tourist needs a local expert to navigate historical sites.</En>
+            </Situation>
+            <Situation id="81c6073b-2083-4f99-a089-47908d2bde9b">
+              <Vi>Tình huống học sinh sử dụng sách hướng dẫn ôn thi.</Vi>
+              <En>A student uses a study guide to prepare for an exam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="18479405-a592-40fd-b500-1c8489b5a3a8" type="Verb">
+          <Vi>hướng dẫn; dẫn đường; điều hành</Vi>
+          <En>to show the way to someone; to direct or manage the activities of a group or project</En>
+          <Example>She guided the team through the complex negotiation process.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9501da0-2ee1-4433-8e51-3acf4a42c16f">
+              <Vi>Tình huống một người lớn hướng dẫn trẻ em qua đường.</Vi>
+              <En>An adult helps children cross the street safely.</En>
+            </Situation>
+            <Situation id="b333ba99-3e21-4b58-866b-d91004823caf">
+              <Vi>Tình huống quản lý điều hành một dự án hoặc sự kiện.</Vi>
+              <En>A project manager guides the team toward completing the deliverables.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
