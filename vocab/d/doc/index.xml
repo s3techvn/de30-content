@@ -1,0 +1,33 @@
+<Vocab id="306bc366-3541-4acd-9f98-d039727a1f23" word="doc" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="7a77b78e-876a-4b0d-b241-5e6c3d0abef1" value="Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ecc398a5-ba7b-421d-9f4d-3da623550a0b" ipa="/dɑːk/" vi_ipa="đốc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de7ce7b8-229c-4009-9383-dcf2e7dc754d" type="Noun">
+          <Vi>file tài liệu (đặc biệt trong hệ thống Git)</Vi>
+          <En>a file containing documentation, especially in a Git repository</En>
+          <Example>Check the doc folder for the latest API specifications.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c03385d4-fb7e-48bd-ba39-833ba64764ca">
+              <Vi>Từ viết tắt của "document", thường dùng trong tên thư mục hoặc tên file để chứa tài liệu hướng dẫn.</Vi>
+              <En>Short for "document", commonly used in folder or file names to store documentation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
