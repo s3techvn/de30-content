@@ -1,0 +1,38 @@
+<Vocab id="f2fe6c35-5653-47f3-8441-74682bb14caf" word="happiness" type="short" status="done">
+  <Topics>
+    <Topic id="68319244-13aa-4e8c-9877-c347b6864187" value="Emotions &amp; Feelings" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="8f2932f1-22a3-4e0d-b0a5-9c92dca49e43" value="Life Coach" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c6809f31-0c85-4775-bd3d-6e3429ae2c5e" ipa="/ˈhæp.i.nəs/" vi_ipa="háp-nờ-nít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91062447-0622-4429-b5c1-ecbad65f5eea" type="Noun">
+          <Vi>Sự hạnh phúc</Vi>
+          <En>A state of well-being and contentment, characterized by positive emotions such as joy, satisfaction, and fulfillment.</En>
+          <Example>Her greatest happiness comes from spending time with her family.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7226e7f-4e9e-449f-b56c-b2f026985eca">
+              <Vi>Mô tả cảm xúc khi đạt được điều mong muốn hoặc sống trong môi trường yêu thương, an toàn.</Vi>
+              <En>Describing the emotion felt when achieving desired goals or living in a loving, safe environment.</En>
+            </Situation>
+            <Situation id="1163c43d-361b-4127-905a-827d30976268">
+              <Vi>Trạng thái tinh thần tích cực, không lo âu hay buồn bã kéo dài.</Vi>
+              <En>A positive mental state with little or no prolonged anxiety or sadness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
