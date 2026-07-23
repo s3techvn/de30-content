@@ -1,0 +1,84 @@
+<Vocab id="3cd7eb0e-a587-4705-bc95-4816527e4b8e" word="grace" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="e46a134a-a85b-4f5d-bdab-fbe618f1b19d" value="Etiquette" />
+    <Topic id="85bf7bb0-04e5-4c0a-8f29-c64f89012bd8" value="Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c30de0e-c92a-4827-8a87-a5104a0d2a53" ipa="/ɡreɪs/" vi_ipa="gờ-rây-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de83ab47-03b2-46b2-bf55-e1a5dab26dbc" type="Noun">
+          <Vi>Phước đức; ân sủng (đặc biệt trong tôn giáo)</Vi>
+          <En>Divine love or mercy, especially as given by God to sinners.</En>
+          <Example>She prayed for God's grace to guide her through the difficult time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1511e36-9126-4d59-b845-b93ece72912b">
+              <Vi>Tình huống xin ơn tha thứ hoặc giúp đỡ thiêng liêng trong cầu nguyện.</Vi>
+              <En>A situation where someone asks for divine help or forgiveness in prayer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="22849c47-631a-42db-96dd-fb76efa6c175" type="Noun">
+          <Vi>Sự duyên dáng; vẻ đẹp thanh thoát, tự nhiên</Vi>
+          <En>Poise, elegance, or beauty in movement or appearance.</En>
+          <Example>Her dance performance was full of grace and fluidity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3bf59b92-1818-48ec-a5d8-b72f198ec943">
+              <Vi>Mô tả một người di chuyển nhẹ nhàng, thanh thoát, ví dụ trong múa hoặc biểu diễn.</Vi>
+              <En>Describing someone moving with elegance and lightness, e.g., in dance or performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a410bdb0-8d9e-4b6b-9e1f-49225dba4466" type="Noun">
+          <Vi>Lời cảm tạ (trước khi ăn); lời chúc tụng</Vi>
+          <En>A short prayer of thanks said before or after a meal.</En>
+          <Example>They bowed their heads and said grace before eating.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="83d1c34f-b606-4b45-a67c-98fa2c6a848a">
+              <Vi>Tình huống cầu nguyện tạ ơn trước bữa ăn trong gia đình hoặc cộng đồng.</Vi>
+              <En>A situation where a group says a prayer of thanks before a meal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1b7dc1b7-6033-4aad-b82f-816c802f5dd2" type="Noun">
+          <Vi>Sự khoan dung; thời gian hoãn thi hành án</Vi>
+          <En>A period of time during which a punishment or deadline is delayed.</En>
+          <Example>The judge granted the defendant a 30-day grace period before sentencing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4fd38d56-80d4-4b56-b681-6a4213368d31">
+              <Vi>Tình huống được hoãn xử lý hoặc thực hiện nghĩa vụ (ví dụ: thanh toán, thi hành án).</Vi>
+              <En>A situation where someone is given extra time to fulfill an obligation or avoid immediate consequences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1615aa00-a630-4bda-a0f4-e2be0ae0017f" type="Verb">
+          <Vi>Tôn vinh; ban ân sủng; làm rạng rỡ</Vi>
+          <En>To honor or bless someone by being present or by bestowing favor.</En>
+          <Example>The ambassador graced the ceremony with his presence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49df51e2-a14d-457e-b899-be42c94bbb84">
+              <Vi>Tình huống một nhân vật quan trọng tham dự một sự kiện, làm tăng giá trị cho sự kiện đó.</Vi>
+              <En>A situation where a distinguished person attends an event, thereby enhancing its prestige.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
