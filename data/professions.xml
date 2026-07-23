@@ -564,4 +564,5 @@
   <Profession id="afbc6c46-b288-4603-91a1-ce797b57768f" slug="maple-syrup-producer" value="Maple Syrup Producer" />
   <Profession id="3c4cc1d5-00d7-4630-8424-c2758b816232" slug="immigration-officer" value="Immigration Officer" />
   <Profession id="c759fe86-ba95-47bf-b9fb-ce6450fccfd0" slug="customs-agent" value="Customs Agent" />
+  <Profession id="c1ab16c7-827a-48c9-9650-cca25e29f988" slug="butcher" value="Butcher" />
 </Professions>

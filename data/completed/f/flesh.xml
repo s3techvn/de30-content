@@ -1,0 +1,52 @@
+<Vocab id="73401d7a-27f5-4971-9884-74b83559f1f8" word="flesh" type="short" status="done">
+  <Topics>
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="c1ab16c7-827a-48c9-9650-cca25e29f988" value="Butcher" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf3b946a-d8e8-4d3e-bc68-40c3ae36f0c6" ipa="/fleʃ/" vi_ipa="phlết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="32208779-f1fc-42b8-b26a-518c87c46ee2" type="Noun">
+          <Vi>thịt (cơ thể sống, đặc biệt là thịt động vật hoặc cơ thể người)</Vi>
+          <En>The soft substance, such as muscle and fat, that covers the bones of a human or animal body.</En>
+          <Example>She trimmed the fat from the flesh before cooking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="82f55996-7c7d-4ece-8039-4581a1ea32cd">
+              <Vi>Mô tả phần mềm của cơ thể động vật hoặc người sau khi loại bỏ da và xương.</Vi>
+              <En>Describing the soft, edible part of a body after removing skin and bones.</En>
+            </Situation>
+            <Situation id="5019c67b-b326-4f3e-911c-fbd9e4802f14">
+              <Vi>Trong ngữ cảnh tôn giáo, chỉ sự yếu đuối hay bản năng xác thịt của con người.</Vi>
+              <En>In religious contexts, referring to human weakness or physical desires (e.g., "the flesh is weak").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="717e81f5-f7e5-48ae-ba07-c758efc4d683" type="Noun">
+          <Vi>thịt (theo nghĩa bóng, chỉ bản chất con người, đặc biệt là yếu đuối hoặc ham muốn xác thịt)</Vi>
+          <En>The physical or sensual nature of a person, especially as contrasted with the spiritual.</En>
+          <Example>He struggled between the spirit and the flesh.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf7cea32-8695-456e-a98c-37e7a7db1a97">
+              <Vi>Ngữ cảnh triết lý hoặc tôn giáo, nói về sự xung đột giữa lý trí/tâm linh và ham muốn xác thịt.</Vi>
+              <En>Philosophical or religious contexts, describing the conflict between spiritual aspirations and physical desires.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
