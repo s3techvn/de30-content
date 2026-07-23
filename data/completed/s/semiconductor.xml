@@ -1,0 +1,38 @@
+<Vocab id="5c4024b2-9a3e-4226-a8e1-24068d12b687" word="semiconductor" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="b56f2365-11c1-4564-9a45-a837f2ac28af" value="Electronics Technician" />
+    <Profession id="ca2013fc-828b-4893-9638-1ad277a870c4" value="Materials Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="69802e56-28c1-4e10-938b-a9b1fb742d9a" ipa="/ˌsem.iˈkɒn.dək.tər/" vi_ipa="xêm-i-kôn-dơ-c-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06d8aa27-de17-4a66-b9d7-de683b0c7631" type="Noun">
+          <Vi>Vật liệu bán dẫn</Vi>
+          <En>A solid material that has electrical conductivity between that of a conductor and an insulator, and whose conductivity can be controlled by adding impurities or applying electric fields.</En>
+          <Example>The silicon wafer used in computer chips is a semiconductor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e04a2351-73b5-46b1-8cdd-bd9b223e2938">
+              <Vi>Mô tả vật liệu có tính dẫn điện điều chỉnh được, dùng trong linh kiện điện tử.</Vi>
+              <En>Describes a material with controllable electrical conductivity, used in electronic components.</En>
+            </Situation>
+            <Situation id="e3f71192-199a-43c4-998c-879738881df0">
+              <Vi>Kỹ thuật chế tạo chip vi xử lý và đèn LED.</Vi>
+              <En>Technology involved in manufacturing microprocessors and LEDs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
