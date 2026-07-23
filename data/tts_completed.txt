@@ -1198,3 +1198,4 @@ skating
 weird
 yield
 smith
+proper

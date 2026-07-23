@@ -1,0 +1,39 @@
+<Vocab id="2db42241-830b-45dd-8691-f2d10af1bee4" word="proper" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e64e2943-5c30-4485-9423-29fe3187095b" value="Social Norms" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d3e097de-3fbf-4564-959c-9e98d575800e" ipa="/ˈprɑː.pɚ/" vi_ipa="prờ-pờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91d8a353-bfa4-4ccc-ac62-00882963d887" type="Adjective">
+          <Vi>phù hợp, đúng đắn, hợp lý</Vi>
+          <En>Being in accordance with established standards, rules, or conventions; appropriate or suitable in the circumstances.</En>
+          <Example>She wore a proper dress for the formal dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="909fd6df-39ae-4c4e-886e-57e1e11090c2">
+              <Vi>Mô tả hành vi, trang phục, hoặc cách ứng xử phù hợp với chuẩn mực xã hội hoặc yêu cầu của tình huống.</Vi>
+              <En>Describing behavior, attire, or conduct that meets social expectations or situational requirements.</En>
+            </Situation>
+            <Situation id="b74094cb-ff03-4a50-8a5d-30dc222b34a2">
+              <Vi>Dùng để nhấn mạnh điều gì đó là đúng theo nghĩa chính xác, không sai lệch.</Vi>
+              <En>Used to emphasize that something is exactly correct or accurate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
