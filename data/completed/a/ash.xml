@@ -1,0 +1,52 @@
+<Vocab id="2deb8439-4770-4637-b959-7042951eb96c" word="ash" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" value="Firefighter" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="580ecd27-e42e-41a8-a3b4-be7bb02454c0" ipa="/æʃ/" vi_ipa="ét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d133f934-96e5-4667-868d-a2c132348007" type="Noun">
+          <Vi>tro tàn; tro bụi</Vi>
+          <En>The powdery residue left after something is burned.</En>
+          <Example>The campfire had died down, leaving only a bed of ash.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1448782f-f56d-460e-8844-a2bd09e59282">
+              <Vi>Mô tả chất bột xám còn lại sau khi gỗ hoặc giấy bị đốt cháy.</Vi>
+              <En>Describes the gray, powdery residue remaining after wood or paper is burned.</En>
+            </Situation>
+            <Situation id="aa519d84-a6b2-4004-83e2-d9710e304782">
+              <Vi>Trong các vụ cháy lớn, tro có thể được phát tán vào không khí.</Vi>
+              <En>In large fires, ash can be dispersed into the air.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="24d46cac-2cdf-4ef1-980f-bc491f33c419" type="Noun">
+          <Vi>tro (trong tên người): Ash (họ tên)</Vi>
+          <En>A proper noun, commonly used as a surname or given name.</En>
+          <Example>Ash Ketchum is the protagonist of the Pokémon anime series.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="465e66ee-ecb2-4e82-9d63-dc165da36721">
+              <Vi>Dùng để chỉ một nhân vật trong truyện, phim, hoặc tên người thật.</Vi>
+              <En>Used to refer to a character in fiction or a real person’s name.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
