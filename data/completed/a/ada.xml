@@ -1,0 +1,32 @@
+<Vocab id="dea85241-f938-423d-9d2c-aeec307bff06" word="ada" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="46bd54fe-39fb-4c81-ab49-ad9309fd8e18" value="Religious Scholar" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d3d7c1d1-cff9-4ff9-a4ea-716d566d3d3e" ipa="/ˈɑː.də/" vi_ipa="ác-a">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9430e3fb-0d2b-4a9f-87d4-1e9b6e8ee0a1" type="Noun">
+          <Vi>Đức Chúa Trời (trong Kitô giáo và một số tôn giáo Abrahamic khác)</Vi>
+          <En>The Supreme Being in Christianity and some other Abrahamic religions; used as a title or name for God.</En>
+          <Example>Ada is mentioned in the Book of Genesis as one of the early figures in biblical genealogy.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="e6e5c542-ded7-4eee-a0c0-d699622ec9f7">
+              <Vi>Thường xuất hiện trong các bản dịch Kinh Thánh cổ hoặc trong văn học thần học.</Vi>
+              <En>Typically appears in older Bible translations or theological literature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
