@@ -1,0 +1,46 @@
+<Vocab id="f8b9aa7c-48da-4fc2-8efb-7bd9ddc6d3ba" word="northwest" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="168cf0e1-effe-4d3e-9682-85af4d1d330c" ipa="/ˌnɔːrθˈwɛst/" vi_ipa="nóc-đây-uéc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e2ad2893-7e44-4f9a-938a-f3b64323776e" type="Adjective">
+          <Vi>phía tây bắc</Vi>
+          <En>Located or moving toward the direction halfway between north and west.</En>
+          <Example>The storm is expected to move in a northwest direction over the next 24 hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0159144-ba7e-4962-9b56-e59b8dc53767">
+              <Vi>Mô tả vị trí hoặc hướng di chuyển giữa hướng bắc và tây.</Vi>
+              <En>Describing a position or direction lying between north and west on a compass.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2be3df05-0dcf-4a8b-99b1-cdc091ee8bcb" type="Noun">
+          <Vi>vùng tây bắc</Vi>
+          <En>The part of a country or region that lies toward the northwest.</En>
+          <Example>Many people have migrated from the northwest to the coastal cities for better opportunities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="180789ad-2bfc-4193-a9b5-8e48326ba5ea">
+              <Vi>Chỉ một khu vực địa lý cụ thể ở phía tây bắc của một quốc gia hoặc vùng.</Vi>
+              <En>Referring to a specific geographic region located in the northwest part of a country or area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
