@@ -1,0 +1,86 @@
+<Vocab id="5c0867f8-91af-47d4-abd5-910628b7d55f" word="space" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a9c93986-14a8-4bb7-9912-419ef965c3b7" ipa="/speɪs/" vi_ipa="s-pê-x">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96c27947-b947-4d43-afcb-d0e1c5bc2a89" type="Noun">
+          <Vi>Khoảng trống; không gian; quỹ đạo (trong vũ trụ)</Vi>
+          <En>A particular area or volume; the region outside Earth's atmosphere; a gap or empty area between objects.</En>
+          <Example>The spacecraft entered outer space after launch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7b1939a-37e5-407e-955d-edf85d6f4c21">
+              <Vi>Mô tả khoảng trống vật lý giữa các vật thể.</Vi>
+              <En>Describing physical emptiness or distance between objects.</En>
+            </Situation>
+            <Situation id="54641c42-a633-4d05-9b0c-dfa1b09d8c3b">
+              <Vi>Chỉ vùng vũ trụ bên ngoài khí quyển Trái Đất.</Vi>
+              <En>Referring to the region beyond Earth's atmosphere.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0ad568a7-cf4b-42b9-bf85-3b9524c4e896" type="Noun">
+          <Vi>Khoảng trống (trong văn bản, phông chữ)</Vi>
+          <En>An empty area or gap, especially in printed or typed text.</En>
+          <Example>Insert a space between the words to improve readability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="229a79f6-ca52-419d-9cf5-5793425d0df7">
+              <Vi>Khi soạn thảo văn bản, cần thêm khoảng trống giữa các từ.</Vi>
+              <En>When typing or formatting text, adding gaps between words.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d9cd2d51-ac09-4e4c-b056-1f10b715c7b6" type="Noun">
+          <Vi>Khoảng thời gian nghỉ ngơi (thường dùng trong cụm "take a space")</Vi>
+          <En>A short period of time away from work or routine, often used in phrases like "take some space".</En>
+          <Example>She asked for some space to think things through.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6810bac4-d458-4558-9eab-57b9f493a511">
+              <Vi>Cần thời gian riêng để suy ngẫm trong mối quan hệ.</Vi>
+              <En>Needing personal time to reflect, especially in interpersonal relationships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5ae59307-0f31-4c85-88a7-e4dab7a7375b" ipa="/speɪs/" vi_ipa="s-pê-x">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="150a591d-9522-42e6-991b-c35ac926f93e" type="Verb">
+          <Vi>Để khoảng trống; phân bố đều các khoảng trống</Vi>
+          <En>To leave or arrange gaps between things, especially at regular intervals.</En>
+          <Example>Please space the chairs evenly along the wall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ff785f5-f0d4-4e0a-8f2b-e308d7e702b5">
+              <Vi>Sắp xếp các vật cách đều nhau để tạo khoảng trống.</Vi>
+              <En>Arranging objects at regular intervals to create even gaps.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
