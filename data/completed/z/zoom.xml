@@ -1,0 +1,64 @@
+<Vocab id="312f69ba-9603-4f9d-8fa6-99f8e21fdc64" word="zoom" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="733dbaa2-d796-4eb8-8120-965934feab00" value="Remote Worker" />
+    <Profession id="82b1eb78-1bd9-4033-a34a-11ea1f3df32c" value="Video Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14cef5c0-2edf-4610-95d3-31fe95b254e0" ipa="/zʊm/" vi_ipa="zum">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d80322d1-7891-43c1-818e-eb16d4f42004" type="Verb">
+          <Vi>Phóng to / Thu nhỏ (hình ảnh, video, khung hình)</Vi>
+          <En>To increase or decrease the magnification of an image or video, especially on a screen or camera.</En>
+          <Example>She zoomed in to see the fine details of the painting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6083a09b-f687-432a-81f5-3bdbe8a46db8">
+              <Vi>Người dùng dùng chuột hoặc phím tắt để phóng to một khu vực trên màn hình trong phần mềm chỉnh sửa ảnh.</Vi>
+              <En>The user uses a mouse or keyboard shortcut to magnify a specific area on the screen in image-editing software.</En>
+            </Situation>
+            <Situation id="c6843880-3c8c-46b2-a89d-2632cf2ecc1c">
+              <Vi>Trong một cuộc họp trực tuyến, giáo viên phóng to bài giảng để học sinh thấy rõ bảng viết.</Vi>
+              <En>During an online meeting, the teacher zooms in on the slide so students can see the whiteboard clearly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="918a426c-418e-41d9-a549-7f49e7804af8" type="Verb">
+          <Vi>Di chuyển nhanh, lao vun vút (xe cộ, người)</Vi>
+          <En>To move very quickly, especially with a humming or whirring sound.</En>
+          <Example>The car zoomed past us on the highway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4e73dba7-ff25-4a36-a0b2-083f40cd10c0">
+              <Vi>Xe cứu hỏa lao vun vút qua các xe khác khi đến hiện trường.</Vi>
+              <En>The fire truck zoomed past other cars as it rushed to the scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a5989cc5-aff6-4d5e-8432-40b6d5e5828a" type="Noun">
+          <Vi>Sự phóng to / Thu nhỏ (trong ảnh/video)</Vi>
+          <En>The action or effect of magnifying or reducing the size of an image on a screen.</En>
+          <Example>Use the zoom feature to focus on the text.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="639459fb-4814-4ed3-a0b2-fa2b17a2f41c">
+              <Vi>Chức năng zoom giúp người dùng điều chỉnh mức độ phóng to màn hình.</Vi>
+              <En>The zoom feature allows users to adjust the magnification level of the screen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

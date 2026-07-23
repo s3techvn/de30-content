@@ -659,4 +659,5 @@
   <Profession id="a3c47b02-799f-4b01-820d-501263bd7c83" slug="midwife" value="Midwife" />
   <Profession id="ec104ec7-35ce-4720-a33b-e90df9d7348b" slug="startup-founder" value="Startup Founder" />
   <Profession id="ad9f3193-4a3b-4ba7-a1f5-9afeae595f34" slug="ceo" value="CEO" />
+  <Profession id="733dbaa2-d796-4eb8-8120-965934feab00" slug="remote-worker" value="Remote Worker" />
 </Professions>
