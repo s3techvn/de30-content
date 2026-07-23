@@ -1,0 +1,39 @@
+<Vocab id="c575adc0-646f-4968-a428-c68fba26e62c" word="cope" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="15cea1c4-5c13-4a84-a6ca-76b5c47363ce" ipa="/koʊp/" vi_ipa="cô-p">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5eec0409-29a1-45f5-bfdc-36df44a9458a" type="Verb">
+          <Vi>đối phó, xử lý (một tình huống khó khăn)</Vi>
+          <En>to deal effectively with a difficult situation or problem</En>
+          <Example>She managed to cope with the stress by practicing mindfulness daily.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b824c919-32cd-43ef-b343-9e61b6fb54d4">
+              <Vi>Tình huống khi một người phải tự điều chỉnh hành vi hoặc cảm xúc để vượt qua thử thách.</Vi>
+              <En>A situation where a person adjusts their behavior or emotions to overcome a challenge.</En>
+            </Situation>
+            <Situation id="1d544dd0-1924-46e6-a940-cd88ec4a98e9">
+              <Vi>Công việc đòi hỏi khả năng thích nghi nhanh với áp lực hoặc thay đổi bất ngờ.</Vi>
+              <En>A job that demands quick adaptation to pressure or unexpected changes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
