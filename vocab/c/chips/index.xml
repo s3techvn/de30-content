@@ -1,0 +1,77 @@
+<Vocab id="5ee3f57c-4624-47e1-b461-c1935ec5e09e" word="chips" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+    <Profession id="9af40ef2-68ab-43d2-a68d-b986f42844c2" value="Electronics Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="164f9abb-c6d4-448e-aea9-867f3f9f1872" ipa="/tʃɪps/" vi_ipa="chíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c9155402-d4d0-4ca2-809f-e7ab54bcba06" type="Noun">
+          <Vi> khoai tây chiên (dạng mỏng, giòn)</Vi>
+          <En> thin slices of potato fried in fat until crisp</En>
+          <Example> She ordered a large order of chips with her burger.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96d88a7c-ae6b-4ddd-93b6-a8c5b1e97e9e">
+              <Vi> Món ăn vặt phổ biến ở quán ăn đường phố hoặc nhà hàng phương Tây.</Vi>
+              <En> A popular snack served at street food stalls or Western restaurants.</En>
+            </Situation>
+            <Situation id="813f934f-fe9e-4073-a4d7-db1e1da0c212">
+              <Vi> Thường được phục vụ kèm nước chấm như mayonnaise hoặc ketchup.</Vi>
+              <En> Often served with condiments such as mayonnaise or ketchup.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5e11f95f-69b7-4a6b-bf76-1655355617d2" type="Noun">
+          <Vi> vi mạch điện tử (vi xử lý)</Vi>
+          <En> a small piece of semiconducting material (e.g., silicon) used in electronic circuits, especially as an integrated circuit</En>
+          <Example> The new smartphone features a faster processor chip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93ce2e76-b1a7-4e70-bb24-047b259ae08a">
+              <Vi> Thành phần cốt lõi trong các thiết bị điện tử như điện thoại, máy tính.</Vi>
+              <En> The core component in electronic devices such as phones and computers.</En>
+            </Situation>
+            <Situation id="f026ad1e-8ef1-4259-b1e6-cd4d47cac6a4">
+              <Vi> Được sản xuất hàng loạt trong các nhà máy bán dẫn.</Vi>
+              <En> Mass-produced in semiconductor fabrication plants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="8f6b4776-de79-4cf3-910f-38ab292bc6cf" ipa="/tʃɪp/" vi_ipa="chíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96623d59-ece8-4181-a2f2-a6014a8eb49f" type="Noun">
+          <Vi> miếng nhỏ bị gãy/vỡ ra (từ đồ gốm, kim loại, v.v.)</Vi>
+          <En> a small piece broken off from something hard, such as pottery, metal, or wood</En>
+          <Example> A chip of paint fell off the old table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2902ac32-0f57-4965-8b0b-935c4e492bde">
+              <Vi> Dấu hiệu của sự hao mòn hoặc hư hỏng trên bề mặt vật liệu.</Vi>
+              <En> A sign of wear or damage on a material’s surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
