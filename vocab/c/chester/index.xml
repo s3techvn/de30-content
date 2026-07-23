@@ -1,0 +1,32 @@
+<Vocab id="bb024d61-7404-42c2-8268-afe80dc3bdab" word="chester" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="f41871cc-4f11-4a5c-b6cd-bb41a48352db" value="Tourism" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="db1caeed-3405-4d3a-aa02-d8857a212129" ipa="/ˈtʃɛs.tər/" vi_ipa="chét-xờ-te">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="597e4ec4-9429-4c3c-a312-1849fbf137bf" type="Proper Noun">
+          <Vi>Thành phố Chester, một thành phố lịch sử ở miền tây bắc nước Anh, nổi tiếng với những bức tường thành La Mã và nhà thờ lớn.</Vi>
+          <En>A historic city in northwest England, renowned for its Roman city walls and Chester Cathedral.</En>
+          <Example>Chester is a popular destination for tourists interested in medieval history and architecture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ff57bead-9dde-4e74-a2e7-f3481f14b4b6">
+              <Vi>Người dân và du khách tham quan các di tích La Mã và thời Trung cổ tại thành phố này.</Vi>
+              <En>Locals and tourists explore Roman and medieval landmarks in the city.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
