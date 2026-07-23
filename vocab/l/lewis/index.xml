@@ -1,0 +1,32 @@
+<Vocab id="4c92a6fd-01e8-468f-b69c-1ac35f305bed" word="lewis" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="a06d844b-3cbf-48fa-8c8e-6e60205e9683" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7d6fe4d-c92a-4bfc-b853-87b32d410e57" ipa="/ˈluː.ɪs/" vi_ipa="lu-i-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8957771-b52d-428c-a8d7-c2aa04ae833c" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là họ (ví dụ: Lewis Hamilton)</Vi>
+          <En>A surname or given name, commonly used as a family name (e.g., Lewis Hamilton).</En>
+          <Example>Lewis Carroll wrote *Alice’s Adventures in Wonderland*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e63e6b19-127a-4b6b-b6ff-ac70bf442114">
+              <Vi>Dùng để chỉ cá nhân mang họ Lewis trong văn hóa phương Tây.</Vi>
+              <En>Used to refer to individuals bearing the surname Lewis in Western cultures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
