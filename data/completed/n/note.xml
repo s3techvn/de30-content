@@ -1,0 +1,85 @@
+<Vocab id="4cf456b5-bf5e-4895-9e46-0a97e3ea48eb" word="note" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="fb30e8db-0172-47a7-bd2e-12e0546e66e7" value="Secretary" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d174a5f3-2681-4e4b-824a-0be1677b7b85" ipa="/noʊt/" vi_ipa="nốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eae4031b-21ea-4e4c-979d-40eaa7983cdc" type="Noun">
+          <Vi>Ghi chú; ghi chép; ghi nhớ</Vi>
+          <En>A brief record of facts, events, or ideas, typically written as a reminder or for reference.</En>
+          <Example>I took detailed notes during the lecture to help me study for the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="53feb72e-1f68-4d91-b575-a9c2699952b7">
+              <Vi>Sinh viên ghi lại nội dung quan trọng trong giờ học.</Vi>
+              <En>A student writes down key points during a class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c8df49cd-69be-4688-b4b4-60466bc90bad" type="Noun">
+          <Vi>Nốt nhạc</Vi>
+          <En>A symbol representing a musical sound, indicating pitch and duration in written music.</En>
+          <Example>The pianist played the melody using a series of high and low notes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a684554-b450-4399-a915-cb7e6cea0116">
+              <Vi>Nhạc công đọc nốt nhạc trên bản nhạc để trình diễn.</Vi>
+              <En>A musician reads musical notes from a sheet to perform a piece.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="098cbe1a-7075-4c7f-8f77-e3a35f3c808d" type="Noun">
+          <Vi>Lời chú thích; ghi chú giải thích</Vi>
+          <En>A comment or annotation added to clarify or explain something, especially in a text or document.</En>
+          <Example>The editor added footnotes to help readers understand the historical references.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb817c1d-359a-467b-a72c-f85eec0c576d">
+              <Vi>Tác giả thêm lời chú thích bên lề để giải thích thuật ngữ chuyên ngành.</Vi>
+              <En>The author added marginal notes to explain technical terms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cff0f465-ed86-4ad5-8ff7-a47d4e332dae" type="Verb">
+          <Vi>Ghi chú; ghi lại</Vi>
+          <En>To write down information quickly for future reference or to remember it.</En>
+          <Example>She noted the important phone number in her notebook.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f94bfea-f83c-442d-bcb1-652316327ff2">
+              <Vi>Ghi lại ý tưởng bất chợt trước khi quên mất.</Vi>
+              <En>Writing down a sudden idea before forgetting it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bd7fc9e1-bb01-4ee2-a619-543267b9f7e9" type="Verb">
+          <Vi>Nhận thấy; để ý đến</Vi>
+          <En>To notice or become aware of something, especially something unusual or important.</En>
+          <Example>I noted that the meeting started ten minutes late today.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="396c7f63-4fdc-4ba8-a86f-6c303a55c793">
+              <Vi>Quan sát và ghi nhận một thay đổi trong hành vi của đồng nghiệp.</Vi>
+              <En>Observing and recording a change in a colleague’s behavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

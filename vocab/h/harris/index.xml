@@ -1,0 +1,38 @@
+<Vocab id="315a0fb1-c7b2-45ad-8df6-26f17b85fdee" word="harris" type="short" status="done">
+  <Topics>
+    <Topic id="122cbe32-7956-45ff-a705-c80778e49ab4" value="People &amp; Names" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1597c3f0-62cd-4059-897c-187df17902a2" ipa="/ˈhær.ɪs/" vi_ipa="hác-rít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8c753b50-d188-4072-a158-d4de9dad336f" type="Proper Noun">
+          <Vi>Harris (họ hoặc tên riêng, thường là họ người Anh/Mỹ)</Vi>
+          <En>A surname of English origin, commonly used as a last name; also used as a given name.</En>
+          <Example>Kamala Harris is the first female, first Black, and first South Asian Vice President of the United States.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1ee085d-663b-4a24-ab3a-d8356ed07e7f">
+              <Vi>Trong bối cảnh chính trị, đề cập đến Kamala Harris hoặc các nhân vật cùng họ.</Vi>
+              <En>In political contexts, referring to Kamala Harris or other individuals with the surname Harris.</En>
+            </Situation>
+            <Situation id="8e094b76-f4d6-4189-80c2-8079feddb7c1">
+              <Vi>Dùng khi nói về người bạn, đồng nghiệp, hoặc nhân vật công chúng mang tên Harris.</Vi>
+              <En>Used when referring to a friend, colleague, or public figure with the name Harris.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

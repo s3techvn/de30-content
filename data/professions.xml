@@ -585,4 +585,5 @@
   <Profession id="2e62d299-7618-4cd0-9d59-e94222d1f812" slug="medical-doctor" value="Medical Doctor" />
   <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" slug="government-official" value="Government Official" />
   <Profession id="e9d171e9-6fed-4157-a628-ca905280cf6f" slug="corporate-manager" value="Corporate Manager" />
+  <Profession id="fb30e8db-0172-47a7-bd2e-12e0546e66e7" slug="secretary" value="Secretary" />
 </Professions>
