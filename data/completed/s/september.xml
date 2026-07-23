@@ -1,0 +1,38 @@
+<Vocab id="e4b2b0b7-a530-4b4e-9592-1140aefc3cac" word="september" type="short" status="done">
+  <Topics>
+    <Topic id="ed5b9b3e-6612-43ac-9a40-54cd624035e6" value="Time and Dates" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fce80274-46c9-44b8-8391-f9c6e61ad216" ipa="/səˈp.temb.ər/" vi_ipa="xơ-p-te-m-bờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0a16bc8b-a025-4942-8f5d-677f2fa54da5" type="Noun">
+          <Vi>tháng Chín</Vi>
+          <En>The ninth month of the year in the Gregorian calendar, following August and preceding October.</En>
+          <Example>My birthday is in September.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea485997-4a02-430f-948b-9550ff329a38">
+              <Vi>Thời điểm bắt đầu năm học mới ở nhiều quốc gia.</Vi>
+              <En>The time when the new school year begins in many countries.</En>
+            </Situation>
+            <Situation id="a5025f31-5313-4798-9831-e95e23d72b83">
+              <Vi>Tháng có 30 ngày, thường mang lại thời tiết mát mẻ sau mùa hè.</Vi>
+              <En>A 30-day month that often brings cooler weather after summer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

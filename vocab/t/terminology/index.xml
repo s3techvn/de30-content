@@ -1,0 +1,40 @@
+<Vocab id="1ad88129-482f-42a7-acc8-a5d67a15b57f" word="terminology" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="19268d08-ba66-4a89-a2b1-0ef0a8cac272" ipa="/ˌtɜːr.məˈnɑː.lə.dʒi/" vi_ipa="tờ-mi-nô-lô-gi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="85d6ca40-1221-425e-81c2-1b51d4dda883" type="Noun">
+          <Vi>Từ chuyên ngành; hệ thống thuật ngữ</Vi>
+          <En>The system of terms used in a particular subject, field, or profession.</En>
+          <Example>The terminology of computer science includes words like *algorithm*, *variable*, and *loop*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="abaf87b9-e658-4bf0-b68e-f414426f942b">
+              <Vi>Giáo viên đang giải thích các thuật ngữ chuyên ngành cho sinh viên năm nhất.</Vi>
+              <En>A teacher explaining specialized terms to first-year students.</En>
+            </Situation>
+            <Situation id="1e6b9b7e-710f-431e-8a0a-50b11e18d95e">
+              <Vi>Một nhóm dịch giả đang thống nhất cách dịch các thuật ngữ kỹ thuật trong tài liệu.</Vi>
+              <En>A team of translators agreeing on standardized translations for technical terms in a document.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
