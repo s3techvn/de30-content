@@ -1,0 +1,45 @@
+<Vocab id="c8520ec7-b235-47cb-82d0-aa97652f8744" word="onto" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b9013171-e65e-4a65-a4a4-687faea72f9f" value="Movement &amp; Direction" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8239ef96-07fe-49ae-9481-fdcd0f8fc1f8" ipa="/ˈɒn.tə/" vi_ipa="on-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7392b852-f4a3-4376-b96c-c32b6f524f8c" type="Preposition">
+          <Vi>trên, lên (chuyển động đến vị trí trên bề mặt của vật gì đó)</Vi>
+          <En>to a position on the surface of something; moving or arriving at a place on something</En>
+          <Example>She climbed onto the roof to fix the antenna.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ccdcb5cf-3dc3-451b-b92a-f3c9c92e167e">
+              <Vi>Mô tả hành động nhảy, leo, hoặc đặt một vật lên bề mặt trên cùng của một đối tượng.</Vi>
+              <En>Describes the action of jumping, climbing, or placing an object onto the top surface of another object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="318da19f-dba5-450d-a3b8-5dfbad2f1383" type="Preposition">
+          <Vi>về (một chủ đề, vấn đề, hoặc đối tượng đang được thảo luận)</Vi>
+          <En>about or concerning a particular subject or issue</En>
+          <Example>We need to get back onto the topic of budget cuts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94f3b050-6ad7-4b49-8701-a05f6b07ae16">
+              <Vi>Dùng trong hội thoại để quay lại chủ đề đang được thảo luận.</Vi>
+              <En>Used in conversation to return to the main subject being discussed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

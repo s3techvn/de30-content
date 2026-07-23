@@ -1,0 +1,64 @@
+<Vocab id="29f1353e-ee9b-4b03-88bf-88fb46f6ea76" word="breast" type="short" status="done">
+  <Topics>
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b9976cae-cc85-4b9d-a2a8-ccf514b6bfe3" ipa="/brest/" vi_ipa="bờ-rét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12e2f8f6-23ea-41fc-9644-5190ab1f85a7" type="Noun">
+          <Vi>Ngực (phần cơ và mô trước ngực, đặc biệt ở phụ nữ)</Vi>
+          <En>The front part of the chest, especially when referring to the mammary gland in females; one of the two soft, rounded organs of milk production in women.</En>
+          <Example>She placed the baby on her breast to nurse.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="70f89e0d-1398-4527-8528-be41e64f3e7a">
+              <Vi>Mô tả cấu tạo cơ thể người hoặc động vật, đặc biệt trong y học và sinh học.</Vi>
+              <En>Referring to human or animal anatomy, especially in medical or biological contexts.</En>
+            </Situation>
+            <Situation id="34aef5b9-b76e-4c81-bf05-6f4a99fcd5ea">
+              <Vi>Từ ngữ thường dùng trong chăm sóc sức khỏe phụ nữ, nuôi con bằng sữa mẹ.</Vi>
+              <En>Commonly used in women’s health and breastfeeding contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d18c09c6-a936-49d8-92c0-53fe75a8b8d6" type="Noun">
+          <Vi>Phần thịt dày, nạc ở giữa ngực gà hoặc các loài chim (dùng trong ẩm thực)</Vi>
+          <En>The thick, lean meat from the breast of a chicken or other bird, commonly used in cooking.</En>
+          <Example>Grill the chicken breast until it reaches an internal temperature of 165°F.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4176ab3b-f8d8-41bf-9e54-961ac89819d4">
+              <Vi>Trong nấu ăn, đặc biệt khi chế biến thịt gia cầm.</Vi>
+              <En>In cooking, especially when preparing poultry dishes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="25d65068-45bc-43e1-b7ca-7d02b69445fe" type="Noun">
+          <Vi>Ngực (nghĩa bóng: nơi che chở, bảo vệ — thường trong thành ngữ)</Vi>
+          <En>The chest, metaphorically as a place of refuge, protection, or emotional comfort (often in idioms).</En>
+          <Example>He found solace in her breast during difficult times.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37b04b98-367e-47d1-95d0-5ab4cec9e066">
+              <Vi>Trong văn học, thơ ca, hoặc ngôn ngữ giàu hình ảnh để diễn tả sự an ủi, che chở.</Vi>
+              <En>In literature, poetry, or figurative language to express comfort or protection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
