@@ -1,0 +1,41 @@
+<Vocab id="69194d3e-70f7-40a9-a81f-2abb8f2fa6b2" word="sampling" type="short" status="done">
+  <Topics>
+    <Topic id="185efa23-a19e-4df6-b159-b38f8a40ecf6" value="Research &amp; Statistics" />
+    <Topic id="5a540252-5ea7-4fb1-8cab-3f19ee22e267" value="Audio Production" />
+    <Topic id="d1c3371a-7b7a-4c1b-9ade-fedff055a455" value="Data Science" />
+  </Topics>
+  <Professions>
+    <Profession id="af46a0b8-7093-49ea-943f-a0eb038d6045" value="Market Researcher" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="e1a7fc5e-b725-4d97-bbfd-80655491acb5" value="Music Producer" />
+    <Profession id="85ccac38-91de-4ce4-a1d7-e2cbd7a795e7" value="Audio Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="171993d8-7089-4410-9273-6daa1170bf53" ipa="/ˈsæm.plɪŋ/" vi_ipa="xém-p-linh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="73f4bf33-f2ed-4ceb-8e3f-7d46d603c710" type="Noun">
+          <Vi>Việc lấy mẫu; mẫu thử nghiệm; mẫu âm thanh</Vi>
+          <En>The act of selecting and analyzing a subset of individuals, data points, or sounds from a larger population or source for statistical inference or creative use.</En>
+          <Example>In market research, proper sampling ensures the results reflect the target population accurately.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5be82f22-11b3-431c-8b5f-7b6d1b77d98a">
+              <Vi>Nhà nghiên cứu chọn 500 người tham gia khảo sát từ tổng dân số thành phố.</Vi>
+              <En>A researcher selects 500 participants from a city’s population for a survey.</En>
+            </Situation>
+            <Situation id="94cc480d-1b79-4fd6-ad35-5a641ed6c857">
+              <Vi>Nhà sản xuất âm nhạc sử dụng một đoạn nhạc ngắn từ bản cũ để tạo beat mới.</Vi>
+              <En>A music producer uses a short segment from an old song to create a new beat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
