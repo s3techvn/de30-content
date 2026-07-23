@@ -1,0 +1,40 @@
+<Vocab id="c251841b-920b-433f-bb7d-1b02944a2e6f" word="reasoning" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ff85bc4-8151-4e8a-ad51-3c2518b466f3" ipa="/ˈriː.zən.ɪŋ/" vi_ipa="ri-zơn-ing">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd5ff4b6-108d-444d-9358-34c64f5bc37d" type="Noun">
+          <Vi>Suy luận; lý luận</Vi>
+          <En>The process of thinking about something in a logical way to form a conclusion or judgment.</En>
+          <Example>Her reasoning was sound, even though the conclusion turned out to be incorrect.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d529de5a-baa8-4193-ae48-12ebfd533ee9">
+              <Vi>Tình huống khi một người phân tích thông tin và đưa ra kết luận hợp lý.</Vi>
+              <En>A situation where a person analyzes information and draws a logical conclusion.</En>
+            </Situation>
+            <Situation id="52cd3164-c885-43e5-a672-f54b0fa0ba0f">
+              <Vi>Tình huống tranh luận pháp lý, nơi luật sư trình bày lập luận dựa trên luật và bằng chứng.</Vi>
+              <En>A legal argument where a lawyer presents a logical argument based on law and evidence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,67 @@
+<Vocab id="3fc0b970-535a-4199-969d-6cb7ab125f21" word="ferry" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5e8f8cba-7dfd-4435-9b5b-c26dd27f6d4a" ipa="/ˈfer.i/" vi_ipa="phờ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="608b3d92-8c26-4138-87c4-2ea65ce98ddb" type="Noun">
+          <Vi>phà (tàu chở người và phương tiện qua sông, biển)</Vi>
+          <En>A boat or ship designed to carry passengers and vehicles across a body of water, typically on a regular route.</En>
+          <Example>The ferry departed from the dock at 8:30 a.m., carrying 150 passengers and 40 cars.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a6b52e1-bcb7-428c-8dd5-22de1b0bed57">
+              <Vi>Đi qua sông hoặc vịnh bằng tàu chở khách và xe hơi.</Vi>
+              <En>Traveling across a river or bay using a passenger and vehicle transport vessel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="08442f37-934b-456c-8dc9-81eaf890bc97" type="Verb">
+          <Vi>chở (người, phương tiện) bằng phà</Vi>
+          <En>To transport people or goods across a body of water, typically using a ferry.</En>
+          <Example>The company ferries employees between the mainland and the island office every weekday morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c609c7de-06ac-487b-96f6-a7f8a56c9156">
+              <Vi>Doanh nghiệp sử dụng phà để đưa đón nhân viên giữa đất liền và đảo.</Vi>
+              <En>A business uses a ferry to shuttle employees between the mainland and an island location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fe1d0b72-e7a8-49b3-9185-c66b6dc6d66b" ipa="/ˈfɛr.i/" vi_ipa="phờ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0a9edee6-b839-497e-b8e2-ce90e3506f3e" type="Noun">
+          <Vi>phà (xe điện, tàu điện ngầm chở khách trong thành phố)</Vi>
+          <En>A vehicle, such as a tram or subway car, that shuttles passengers between two points, especially in urban transit systems.</En>
+          <Example>The airport shuttle is often called a “ferry bus” or simply a “ferry” in some cities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2b967e6-dfdb-4dbf-a1d1-d2743ce3d0af">
+              <Vi>Xe đưa đón khách giữa sân bay và trung tâm thành phố.</Vi>
+              <En>A shuttle vehicle transporting passengers between an airport and the city center.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
