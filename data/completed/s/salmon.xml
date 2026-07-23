@@ -1,0 +1,40 @@
+<Vocab id="b34c318b-80bc-47ff-8670-9ddc4fd626ec" word="salmon" type="short" status="done">
+  <Topics>
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="3c6e194b-4d96-46b3-8c2b-d3d068136636" value="Fishing &amp; Aquaculture" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d528b8d5-5fc6-48fe-b8ee-779e5833e612" ipa="/ˈsæm.ən/" vi_ipa="xăm-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e88b2e61-ac61-419e-a5f0-13dbcc585f21" type="Noun">
+          <Vi>Cá hồi</Vi>
+          <En>A large, silvery fish that lives in the sea but migrates up freshwater rivers to spawn; also the pinkish-orange flesh of this fish, commonly eaten.</En>
+          <Example>We grilled fresh salmon with lemon and dill for dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="72da6cea-a95d-442e-8632-0bf9a1202e40">
+              <Vi>Món ăn được làm từ cá hồi sống hoặc nấu chín, thường có thịt màu cam-hồng đặc trưng.</Vi>
+              <En>A dish or ingredient made from salmon, typically featuring its characteristic pink-orange flesh.</En>
+            </Situation>
+            <Situation id="6e34581b-7cc0-498c-95fc-d95fa5871fdb">
+              <Vi>Cá hồi sống ở đại dương nhưng bơi ngược dòng sông để đẻ trứng vào mùa xuân.</Vi>
+              <En>A fish that lives in the ocean but swims upstream in rivers to spawn in spring.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
