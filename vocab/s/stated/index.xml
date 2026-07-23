@@ -1,0 +1,38 @@
+<Vocab id="b3ae4431-d65f-40b3-95f0-0bd1d3222e4d" word="stated" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e4f21315-13ab-4849-a9b0-6a99a5681d53" ipa="/ˈsteɪ.tɪd/" vi_ipa="x-tei-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="59aad89c-8fd2-4d81-916f-9033655f7195" type="Adjective">
+          <Vi>được nêu rõ, được phát biểu chính xác</Vi>
+          <En>Expressed clearly and explicitly, often in writing or speech; not implied or vague.</En>
+          <Example>The contract stated that payment must be made within 30 days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7547634c-e546-427e-9902-27a8772cc9ee">
+              <Vi>Trong văn bản pháp lý hoặc báo chí, khi cần nhấn mạnh điều gì đó một cách rõ ràng.</Vi>
+              <En>In legal documents or news reports, when something must be expressed unambiguously.</En>
+            </Situation>
+            <Situation id="9770511f-f43f-40f5-a1b3-028c6bc7dc7d">
+              <Vi>Khi một người phát biểu một quan điểm hoặc lập trường một cách chính thức.</Vi>
+              <En>When someone officially expresses an opinion or position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
