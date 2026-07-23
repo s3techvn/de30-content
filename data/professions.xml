@@ -757,4 +757,5 @@
   <Profession id="0de0b21a-eb21-472d-bf71-ad123ccf2c13" slug="air-traffic-controller" value="Air Traffic Controller" />
   <Profession id="7c6bd72f-5eef-42b8-864c-6d87f4116111" slug="hr-manager" value="HR Manager" />
   <Profession id="9e4dbe28-9a11-42a4-bacf-9df04f953db7" slug="payroll-specialist" value="Payroll Specialist" />
+  <Profession id="610bf2ce-0fcb-480a-b125-e0e2d2ad45a9" slug="ux-designer" value="UX Designer" />
 </Professions>
