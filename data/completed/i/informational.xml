@@ -1,0 +1,40 @@
+<Vocab id="c720449e-e914-43ec-8332-4a94908549af" word="informational" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4074c4b0-6d27-4cd0-8bf5-ee506c1d4f1b" ipa="/ˌɪn.fəˈmeɪ.ʃən.əl/" vi_ipa="in-phơ-mê-i-shờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74e97338-a929-4122-93cb-a01f7c74de74" type="Adjective">
+          <Vi>cung cấp thông tin; mang tính chất thông tin</Vi>
+          <En>Providing or containing information, especially in a clear and useful way.</En>
+          <Example>The brochure is highly informational, with detailed maps and historical facts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4644d6bf-d241-4de4-b7c4-7399b746293d">
+              <Vi>Một tài liệu hoặc bài viết được thiết kế để truyền đạt kiến thức hoặc dữ liệu cụ thể.</Vi>
+              <En>A document or presentation designed to convey specific knowledge or data.</En>
+            </Situation>
+            <Situation id="6f7e005d-b9ca-4ac7-800f-fc0555fa2913">
+              <Vi>Trong giáo dục, bài giảng mang tính chất thông tin giúp học sinh hiểu rõ khái niệm.</Vi>
+              <En>In education, an informational lecture helps students grasp key concepts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
