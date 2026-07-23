@@ -1,0 +1,78 @@
+<Vocab id="a5c9e6f6-3c63-4c8d-b85b-21cd6db473eb" word="change" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ff96c28-f8f9-4b83-afd3-f0ded23f485c" ipa="/tʃeɪndʒ/" vi_ipa="chê-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff589252-e9ab-4b2d-bf41-eaa1cc9de655" type="Verb">
+          <Vi>thay đổi, đổi, thay thế</Vi>
+          <En>to make or become different in some way</En>
+          <Example>She decided to change her career path after graduation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a45ccd2-8470-4e96-98f4-61c2077a9c94">
+              <Vi>Thay đổi kế hoạch, quyết định, hoặc hành vi do hoàn cảnh hoặc suy nghĩ mới.</Vi>
+              <En>Altering a plan, decision, or behavior due to new circumstances or thoughts.</En>
+            </Situation>
+            <Situation id="595d06c3-f2c4-4494-a33d-577ee1c120a1">
+              <Vi>Hoán đổi vật này lấy vật khác (ví dụ: tiền lẻ, sản phẩm).</Vi>
+              <En>Exchanging one thing for another (e.g., coins, products).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a5dd158c-8f0c-4ef8-b476-17175070aee7" type="Noun">
+          <Vi>sự thay đổi, sự đổi, tiền lẻ</Vi>
+          <En>a difference in form, nature, or substance; also, coins or small bills given as remainder in payment</En>
+          <Example>The new policy brought about a major change in company culture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="851756fb-9886-439b-bf49-efc9bc8990b1">
+              <Vi>Mô tả một sự khác biệt rõ rệt về trạng thái, hình thức, hoặc nội dung.</Vi>
+              <En>Describing a noticeable difference in state, form, or content.</En>
+            </Situation>
+            <Situation id="51c47094-0f3c-4fd6-85c5-c92b74ccb8bf">
+              <Vi>Tiền thừa khi mua hàng (ví dụ: đưa 50k, mua 35k, nhận 15k tiền lẻ).</Vi>
+              <En>Coins or small bills returned as remainder when paying with a larger denomination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="59b933cd-20f5-4335-beac-7e8648278ad9" ipa="/tʃændʒ/" vi_ipa="chên-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ec3e079e-f561-4059-beec-82d85ce5e5d2" type="Noun">
+          <Vi>thay đổi (ít dùng, thường trong văn chương hoặc cổ văn)</Vi>
+          <En>an archaic or poetic term for change, mostly found in older literature</En>
+          <Example>He felt a change in the wind, signaling storm was near.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="f005b995-9d22-4891-9092-06afac43c964">
+              <Vi>Xuất hiện trong thơ ca hoặc văn học cổ điển để diễn tả sự biến chuyển tinh tế.</Vi>
+              <En>Used in poetry or classical literature to describe subtle transformations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
