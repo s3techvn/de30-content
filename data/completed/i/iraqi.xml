@@ -1,0 +1,34 @@
+<Vocab id="69bbd591-52b4-4eb4-a448-8872cf2efd1e" word="iraqi" type="short" status="done">
+  <Topics>
+    <Topic id="adca0931-53fb-4d0a-8c8b-7af7014e33a1" value="Geography &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" value="Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b136622-2b65-482f-b71f-ced6e3bea887" ipa="/ɪˈrɑː.ki/" vi_ipa="i-rá-kì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d3109dd-1fba-400c-a965-bbebf57e8ef0" type="Adjective">
+          <Vi>thuộc về Iraq, người Iraq</Vi>
+          <En>Relating to Iraq, its people, or its culture.</En>
+          <Example>She interviewed several Iraqi refugees who had recently settled in the city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="74b61eb4-dd2d-46b6-848a-85c5fba8f1b3">
+              <Vi>Mô tả điều gì đó liên quan đến quốc gia Iraq, như lịch sử, chính trị, hoặc con người.</Vi>
+              <En>Used to describe something related to the country of Iraq, such as its history, politics, or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
