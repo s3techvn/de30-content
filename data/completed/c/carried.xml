@@ -1,0 +1,36 @@
+<Vocab id="2cc1841a-d621-4012-8e63-234a2ef94476" word="carried" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4b56dc06-5ad5-4949-a75c-f5709751e9d1" ipa="/ˈkær.ɪd/" vi_ipa="cơ-ri-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="919c3d1a-a818-4dba-b071-588a397b58a2" type="Verb">
+          <Vi>đã mang; đã khiêng; đã vận chuyển</Vi>
+          <En>past tense and past participle of "carry"; to have moved something from one place to another, typically by holding or supporting it.</En>
+          <Example>She carried the groceries into the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ef742c1-09d8-474b-a733-20210b4054d6">
+              <Vi>Mô tả hành động đã thực hiện việc mang vác vật gì đó trong quá khứ.</Vi>
+              <En>Describes the action of moving or transporting something in the past.</En>
+            </Situation>
+            <Situation id="49f3d27f-6bb5-4add-995c-717142885bdb">
+              <Vi>Dùng trong ngữ cảnh kể lại một sự kiện đã xảy ra (ví dụ: báo cáo, kể chuyện).</Vi>
+              <En>Used when recounting a past event (e.g., in reports or storytelling).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
