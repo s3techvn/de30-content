@@ -1,0 +1,70 @@
+<Vocab id="e7180370-3b78-47dc-b9a6-de66ee8d1e9d" word="duplicate" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="cf2b131e-ca9d-45c7-85b5-bb0f24aba238" value="Office Administrator" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c4a9c1c-fd5e-4ef9-bbff-1a9a0fef8dac" ipa="/ˈduː.plɪ.keɪt/" vi_ipa="đúp-lích-cết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f56b5def-02ac-438e-9982-96910ffef200" type="Adjective">
+          <Vi>giống hệt, bản sao y hệt</Vi>
+          <En>Identical in every detail; an exact copy.</En>
+          <Example>The document was a duplicate of the original, with no differences.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1633f0bc-b7bc-4108-a616-2f1b8ba45318">
+              <Vi>Mô tả một bản sao hoàn toàn giống bản gốc, thường dùng khi kiểm tra tính xác thực hoặc lưu trữ.</Vi>
+              <En>Describing a copy that is identical to the original, often used when verifying authenticity or for archival purposes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="2cbf434b-134b-42b4-b58f-b48ddf329b72" ipa="/ˈduː.plɪ.kət/" vi_ipa="đúp-lích-kết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f467078-54a3-405f-a053-8445e773fd5b" type="Noun">
+          <Vi>bản sao, bản sao chép</Vi>
+          <En>A copy or reproduction of a document, file, or other item.</En>
+          <Example>Please send me a duplicate of the signed contract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c2dca30-12c7-4f93-94f2-b3687a2704d2">
+              <Vi>Yêu cầu hoặc cung cấp một bản sao của tài liệu quan trọng khi bản gốc không thể truy cập ngay.</Vi>
+              <En>Requesting or providing a copy of an important document when the original is not immediately accessible.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="536be2ec-e9e0-4a79-b4d6-2d36abcf2899" type="Verb">
+          <Vi>nhân bản, sao chép, tạo bản sao</Vi>
+          <En>To make an exact copy of something, especially a document or file.</En>
+          <Example>The software can duplicate an entire hard drive in minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0285339e-fd9f-4267-8632-31b072bd7e59">
+              <Vi>Hành động tạo bản sao dữ liệu trong công việc văn phòng hoặc quản lý hệ thống.</Vi>
+              <En>The action of copying data in office work or system administration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
