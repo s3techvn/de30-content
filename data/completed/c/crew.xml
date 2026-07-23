@@ -1,0 +1,63 @@
+<Vocab id="abc5e8ca-7db4-4ae2-8e6b-ddb1eebac22e" word="crew" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+    <Topic id="49089c05-47ad-4e7e-8403-f60bfd776d2b" value="Maritime" />
+    <Topic id="1c0ecef3-34ce-4cc6-9ce1-29830c922e74" value="Film &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+    <Profession id="3f4aaa3e-ac28-4f72-ac4d-ad3e6275e4f3" value="Ship Captain" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="3352db08-d403-4cf4-80e0-65557b89a3ea" value="Production Assistant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8b801ff1-93ba-49d9-bca7-3ed0f8449c12" ipa="/kruː/" vi_ipa="crú">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dcb05860-0ebb-4491-8148-bfa6fd1776fe" type="Noun">
+          <Vi>Đoàn phi hành, thủy thủ đoàn, phi hành đoàn, đoàn làm phim</Vi>
+          <En>A group of people who work together on a ship, aircraft, or film production, especially those responsible for operating or managing it.</En>
+          <Example>The airline crew greeted the passengers with warm smiles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c134644-681b-483f-8f3b-9904653513a4">
+              <Vi>Đoàn phi hành trên máy bay gồm phi công và tiếp viên.</Vi>
+              <En>The aircraft crew includes pilots and flight attendants.</En>
+            </Situation>
+            <Situation id="4b2ed465-6c22-4579-b41d-212091e8ede7">
+              <Vi>Thủy thủ đoàn của con tàu đang sửa chữa động cơ.</Vi>
+              <En>The ship's crew is repairing the engine.</En>
+            </Situation>
+            <Situation id="0ce379a4-829c-43e2-b17e-85a146528f56">
+              <Vi>Đoàn làm phim đang quay cảnh ngoài trời.</Vi>
+              <En>The film crew is shooting an outdoor scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f8558849-ba5b-4853-83fe-aaf5de3dcb93" type="Noun">
+          <Vi>Nhóm người làm việc cùng nhau trong một nhiệm vụ cụ thể</Vi>
+          <En>A team of people working together on a specific task or project, especially in a non-aviation/maritime context.</En>
+          <Example>The maintenance crew fixed the road after the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="474ae9f2-191b-4d3d-a062-92206767559e">
+              <Vi>Đội sửa chữa điện thoại công cộng đang làm việc.</Vi>
+              <En>The repair crew is fixing the public phone booth.</En>
+            </Situation>
+            <Situation id="692352b9-0486-43aa-9842-e0d354e865bc">
+              <Vi>Đoàn lao động được huy động dọn rác sau lũ.</Vi>
+              <En>The labor crew was deployed to clear debris after the flood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
