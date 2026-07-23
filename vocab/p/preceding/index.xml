@@ -1,0 +1,38 @@
+<Vocab id="4c33290f-3a95-42ba-8d3f-3935f957c876" word="preceding" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+    <Profession id="77de61cc-4e22-42e6-b269-ed6b89b6f489" value="Academic Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e56bcf2a-b875-493b-99b2-2d0571d2adf3" ipa="/ˈpriː.si.dɪŋ/" vi_ipa="p-hờ-rì-inh-dinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="93e6f302-3d53-4853-be3e-c9510debcd5c" type="Adjective">
+          <Vi>trước đó, đứng trước, liền trước</Vi>
+          <En>Coming before in time, order, or position; earlier or prior.</En>
+          <Example>The preceding chapter introduced the main characters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d418355a-862a-48f5-a92f-d63b0cffb3eb">
+              <Vi>Trong văn bản, chỉ phần hoặc mục đã nêu trước đó.</Vi>
+              <En>In a document or sequence, referring to the item or section mentioned earlier.</En>
+            </Situation>
+            <Situation id="5830a876-fef8-40fc-bc85-bfb44233df69">
+              <Vi>Chỉ thời gian hoặc sự kiện xảy ra ngay trước một mốc nhất định.</Vi>
+              <En>Referring to a time or event that occurred immediately before a specified point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
