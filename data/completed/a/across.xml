@@ -1,0 +1,49 @@
+<Vocab id="93a3f57d-e483-47c4-857e-fb3fc72b241c" word="across" type="short" status="done">
+  <Topics>
+    <Topic id="2d250b92-867d-4e0d-bac3-49c16feb3026" value="Movement &amp; Space" />
+  </Topics>
+  <Professions>
+    <Profession id="ed03f375-7f4c-4a82-b8d7-6b3da5e239d1" value="Travel &amp; Logistics" />
+    <Profession id="059085e8-a597-4864-bc7b-3c2dd5911fdb" value="Architecture &amp; Urban Planning" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6c898a80-7dfc-4437-9061-f0ba1bdf5f80" ipa="/əˈkrɒs/" vi_ipa="ơ-rờ-kốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="95bdd9cb-b62a-4fff-a0c9-1ab7c0a75cff" type="Preposition">
+          <Vi>qua, sang ngang, đối diện</Vi>
+          <En>From one side to the other side of (a physical space, object, or boundary).</En>
+          <Example>She swam across the river.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="516f4f87-3d59-49a7-a81f-3fe810cb5720">
+              <Vi>Mô tả chuyển động từ một bên sang bên kia của một vật hoặc không gian (sông, đường, phòng, v.v.).</Vi>
+              <En>Describes movement from one side to the other side of a physical object or space (river, road, room, etc.).</En>
+            </Situation>
+            <Situation id="b18833ff-d749-4364-a5c6-c67ac9423a23">
+              <Vi>Dùng để chỉ vị trí đối diện, ngang hàng (trong không gian hoặc thời gian).</Vi>
+              <En>Used to indicate a position directly opposite or aligned horizontally (in space or time).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="697ad554-6260-4c37-a08b-de652d1ee3d9" type="Adverb">
+          <Vi>qua bên kia, sang ngang</Vi>
+          <En>On or to the other side; extending or reaching from one side to the other.</En>
+          <Example>The store is just across the street.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87b5beaf-e716-4491-9acf-a2be40cc32fd">
+              <Vi>Mô tả vị trí hoặc hướng di chuyển sang phía đối diện (thường không cần động từ đi kèm).</Vi>
+              <En>Describes position or direction to the opposite side (often used without a main verb).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
