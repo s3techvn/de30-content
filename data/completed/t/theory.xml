@@ -1,0 +1,40 @@
+<Vocab id="d7cac98e-d644-43d5-a057-49943ef37823" word="theory" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0e56aa78-711e-4202-a30c-7415b4e26d28" ipa="/ˈθɪə.ri/" vi_ipa="thi-ơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="24cedbf3-6af2-4f82-a0c7-391ba272ed06" type="Noun">
+          <Vi>thuyết; lý thuyết</Vi>
+          <En>A system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.</En>
+          <Example>The theory of evolution explains how species change over time through natural selection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cdec14eb-b6ee-4afa-8b8b-e1eabf99a0f9">
+              <Vi>Trong học thuật, một hệ thống các giả thuyết và nguyên lý được kiểm chứng để giải thích hiện tượng tự nhiên.</Vi>
+              <En>In academia, a system of tested hypotheses and principles used to explain natural phenomena.</En>
+            </Situation>
+            <Situation id="abb655e3-2a24-4dcf-b4cd-c03e43cc5532">
+              <Vi>Khi nói đến điều gì đó chỉ là giả định chưa được chứng minh (thường dùng trong ngữ cảnh không chính xác): "Chỉ là một thuyết, chưa phải là sự thật."</Vi>
+              <En>When referring to something unproven or speculative: "It's just a theory, not a fact."</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
