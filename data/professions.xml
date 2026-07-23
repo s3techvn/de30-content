@@ -683,4 +683,5 @@
   <Profession id="bd73795d-91d9-42a6-9373-79cee8a8c013" slug="weather-analyst" value="Weather Analyst" />
   <Profession id="253571d7-9e06-42a3-80b3-dca896556db8" slug="travel-guide-writer" value="Travel Guide Writer" />
   <Profession id="58370a85-afa3-4631-b139-0f2ccd02570f" slug="historical-official" value="Historical Official" />
+  <Profession id="fcadf7e5-af5f-4033-b853-55a6ac943b94" slug="restaurant-staff" value="Restaurant Staff" />
 </Professions>
