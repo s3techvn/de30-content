@@ -1,0 +1,52 @@
+<Vocab id="5480f42b-7e60-4e9d-a217-92c146e9126e" word="practical" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3015ecd1-ce5c-4f74-9b3a-569402ce576b" ipa="/ˈpræk.tɪ.kəl/" vi_ipa="prắc-tích-kờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a54301e-ede7-4c56-b88d-4b308dd35974" type="Adjective">
+          <Vi>thiết thực; thực tiễn; có ích trong thực tế</Vi>
+          <En>dealing with things in a sensible and realistic way; useful and suitable for a particular purpose</En>
+          <Example>She has a practical approach to problem-solving.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="838adaa0-f01d-49bd-8a5e-8df849a6c983">
+              <Vi>Mô tả một người hoặc phương pháp ưu tiên hiệu quả và khả thi hơn lý thuyết.</Vi>
+              <En>Describing a person or method that prioritizes effectiveness and feasibility over theory.</En>
+            </Situation>
+            <Situation id="1f3236d7-f0d2-4fab-b0bb-9ef4aa9ae451">
+              <Vi>Chương trình đào tạo tập trung vào kỹ năng thực hành.</Vi>
+              <En>A training program focused on hands-on skills.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6c4d7905-0125-41d6-a0ba-58f83255e450" type="Adjective">
+          <Vi>khả thi; có thể thực hiện được trong thực tế</Vi>
+          <En>possible to do easily or conveniently; feasible</En>
+          <Example>A practical solution to the traffic problem is urgently needed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="76219f92-8427-4bf5-9605-2df0b8d93abc">
+              <Vi>Đánh giá mức độ khả thi của một kế hoạch hoặc giải pháp.</Vi>
+              <En>Evaluating the feasibility of a plan or solution.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
