@@ -1,0 +1,50 @@
+<Vocab id="058a5d7e-70d0-4303-bd03-aef5f246273f" word="jacket" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="0fef29e1-5ff6-4494-bc19-912bd36e1252" value="Outdoor Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="10512c6a-1e78-4bfe-9716-d6b024023b0d" ipa="/ˈdʒæk.ɪt/" vi_ipa="giắc-ít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="92441b9d-ff0a-4473-bae6-244b56877719" type="Noun">
+          <Vi>Cái áo khoác (ngắn, thường có tay, mặc ngoài áo sơ mi hoặc áo len)</Vi>
+          <En>A short, close-fitting coat, typically with sleeves, worn over other clothing, especially for warmth or protection.</En>
+          <Example>She pulled on a warm wool jacket before stepping out into the snow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c49c95c2-88a3-4782-aaf1-8c374cb63314">
+              <Vi>Người đi làm mặc áo khoác nhẹ khi thời tiết se lạnh vào buổi sáng.</Vi>
+              <En>A person wears a light jacket on a cool autumn morning.</En>
+            </Situation>
+            <Situation id="60b863e6-c4c2-4f6c-8e96-115dddc23482">
+              <Vi>Nhà thiết kế thời trang giới thiệu mẫu áo khoác da mới trong show diễn.</Vi>
+              <En>The fashion designer unveiled a new leather jacket in the runway show.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="00fa1f31-c6c3-4527-a6e7-d092f4b1cca6" type="Noun">
+          <Vi>Cái bao (nắp) che bên ngoài (đối với một số thiết bị điện tử, như máy tính, điện thoại)</Vi>
+          <En>A protective outer casing or cover for electronic devices, such as a laptop or smartphone.</En>
+          <Example>The laptop jacket helps prevent scratches during travel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0870a48d-e14a-44b7-b118-c5a0a7bd38f2">
+              <Vi>Sử dụng áo bao điện thoại để bảo vệ máy khỏi va đập.</Vi>
+              <En>Use a phone jacket to protect the device from drops and impacts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,33 @@
+<Vocab id="cc41a5fc-da16-45e9-b841-4a25ec11a31a" word="colorado" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e3089e3c-f4ed-4778-81c7-0a938ca342e8" ipa="/kəˈlɔːr.ə.doʊ/" vi_ipa="cơ-lô-rây-đô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a0aa4b61-b015-4d7d-95ec-3266166ac817" type="Proper Noun">
+          <Vi>Colorado (tên bang ở Hoa Kỳ)</Vi>
+          <En>A state in the western United States, known for its Rocky Mountains, skiing, and vibrant cities like Denver and Boulder.</En>
+          <Example>Many people visit Colorado in winter to go skiing in Aspen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c0a68f0-dff4-4b7e-9ef4-99ef815db12c">
+              <Vi>Tình huống nói về du lịch, địa lý hoặc thời tiết ở bang Colorado.</Vi>
+              <En>Contexts involving travel, geography, or weather in the U.S. state of Colorado.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
