@@ -1,0 +1,63 @@
+<Vocab id="d1fdbf35-5a2e-4cef-a3b4-ac4a6f9b42b6" word="working" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65c7f289-b516-4935-ae7b-b00dc689dbdc" ipa="/ˈwɜːr.kɪŋ/" vi_ipa="woó-cờ-ning">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7030bf1f-4cf6-4367-a099-afd0176d83dd" type="Adjective">
+          <Vi>đang hoạt động; đang làm việc; đang vận hành</Vi>
+          <En>Being in operation, functioning, or engaged in activity.</En>
+          <Example>The machine is in working order.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ddb90554-dcc4-4343-99ba-0e35c6290865">
+              <Vi>Mô tả thiết bị, hệ thống hoặc cơ quan đang hoạt động bình thường.</Vi>
+              <En>Describing a device, system, or organ functioning normally.</En>
+            </Situation>
+            <Situation id="6003ffe7-e6c5-4a5b-a767-9b6a818f8959">
+              <Vi>Mô tả người đang trong trạng thái làm việc (so với nghỉ ngơi).</Vi>
+              <En>Describing a person currently engaged in work (as opposed to resting).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a4305004-6879-4cb7-ad9f-9f946258999c" type="Adjective">
+          <Vi>đang được thực hiện; đang diễn ra</Vi>
+          <En>Currently in progress or under way.</En>
+          <Example>We are still in the working phase of the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf5f95b5-08ba-40aa-93b0-e3d59519efdc">
+              <Vi>Mô tả tiến trình đang diễn ra (ví dụ: đàm phán, nghiên cứu).</Vi>
+              <En>Describing an ongoing process (e.g., negotiations, research).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5eb9392d-fac3-4654-9703-07b9445665bf" type="Adjective">
+          <Vi>liên quan đến lao động; phục vụ mục đích lao động</Vi>
+          <En>Relating to or involving physical or mental labor.</En>
+          <Example>She wears working clothes to the factory.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f44af0be-091c-409a-b390-4c3afdc52fcf">
+              <Vi>Mô tả trang phục, dụng cụ hoặc môi trường dành cho công việc thực tế (so với trang phục trang trọng).</Vi>
+              <En>Describing clothing, tools, or environment intended for actual work (as opposed to formal attire).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
