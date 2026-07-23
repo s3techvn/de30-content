@@ -794,4 +794,5 @@
   <Profession id="760f9181-f2d6-4252-b465-7c68a7bf6043" slug="tourism-officer" value="Tourism Officer" />
   <Profession id="ed573ea1-6827-45e9-9d53-a85653abebee" slug="carpet-layer" value="Carpet Layer" />
   <Profession id="7c66641e-88a0-40a6-808d-1501b1835a50" slug="laboratory-researcher" value="Laboratory Researcher" />
+  <Profession id="d6ada186-fe7f-4ca6-a939-bbb326970338" slug="tradesperson" value="Tradesperson" />
 </Professions>

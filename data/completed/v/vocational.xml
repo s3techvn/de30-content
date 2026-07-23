@@ -1,0 +1,40 @@
+<Vocab id="95047853-7428-41c6-932a-a7bce5abf514" word="vocational" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d6ada186-fe7f-4ca6-a939-bbb326970338" value="Tradesperson" />
+    <Profession id="67369275-c0c2-4c6a-9fa4-e6671d7bade0" value="Career Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b5d2b9ef-8785-4f26-b86c-b6ff055fc23b" ipa="/voʊˈkeɪ.ʃən.əl/" vi_ipa="vô-kê-i-xờ-nờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f2e4ffa0-91de-4e9a-821d-2e1f36f39550" type="Adjective">
+          <Vi>thuộc về đào tạo nghề, chuyên môn kỹ thuật</Vi>
+          <En>relating to training in a particular trade, craft, or technical occupation, typically involving practical skills.</En>
+          <Example>She enrolled in a vocational program to become a certified electrician.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07a2b346-e5a7-4f6e-9b62-1b95ce024d4b">
+              <Vi>Mô tả các chương trình học tập tập trung vào kỹ năng thực hành thay vì lý thuyết học thuật.</Vi>
+              <En>Describes educational programs focused on hands-on skills rather than academic theory.</En>
+            </Situation>
+            <Situation id="3483dfa4-8773-42e4-b2b4-8ec7b5ec14c0">
+              <Vi>Dùng để chỉ công việc đòi hỏi tay nghề chuyên môn như thợ điện, thợ cơ khí, đầu bếp.</Vi>
+              <En>Used for jobs requiring specialized hands-on expertise, such as electricians, mechanics, or chefs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
