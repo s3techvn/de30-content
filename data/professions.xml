@@ -575,4 +575,6 @@
   <Profession id="587267fc-3e6f-4bba-9f13-35d519a61c05" slug="hiring-manager" value="Hiring Manager" />
   <Profession id="14d79e08-b5b1-44d5-b2bb-daef1af587b0" slug="textile-artist" value="Textile Artist" />
   <Profession id="eb14aa35-6b83-4d49-833c-c77fdeb752bd" slug="space-scientist" value="Space Scientist" />
+  <Profession id="8e361acb-0a6c-472a-bec7-6bd2a47870e2" slug="mining-engineer" value="Mining Engineer" />
+  <Profession id="c97ecc2f-7770-4964-b989-d98c7d8fd397" slug="military-engineer" value="Military Engineer" />
 </Professions>
