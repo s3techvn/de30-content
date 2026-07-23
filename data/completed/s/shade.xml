@@ -1,0 +1,56 @@
+<Vocab id="119d227e-0a9d-430a-9db9-bfbbf8b57976" word="shade" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5a6f80b-4566-4d22-8ecc-3c20d5be1fb9" ipa="/ʃeɪd/" vi_ipa="sê-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91f01ff7-059b-45c5-a548-b07f19d5f68b" type="Noun">
+          <Vi>Bóng râm; sắc độ (màu)</Vi>
+          <En>A dark area or shape produced by an object blocking light; a slight variation in color or tone.</En>
+          <Example>They sat in the shade of the oak tree to escape the midday heat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6de32456-18b8-4494-b8eb-5895a248ad71">
+              <Vi>Ngồi dưới bóng cây để tránh nắng.</Vi>
+              <En>Sitting under a tree to avoid direct sunlight.</En>
+            </Situation>
+            <Situation id="77aa7d86-e2a9-4b06-bf71-72550157c371">
+              <Vi>Phân biệt sắc độ giữa hai màu gần giống nhau.</Vi>
+              <En>Distinguishing subtle differences in color tones, e.g., in paint mixing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ee9d804-5497-4e1b-b3d9-03d1d12b6d74" type="Verb">
+          <Vi>Cho bóng râm; làm mờ; che khuất</Vi>
+          <En>To protect from direct sunlight by blocking light; to make something less visible or intense.</En>
+          <Example>The tall building shades the garden for most of the afternoon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8889fdf-67c8-4110-892e-0e05138bf4ae">
+              <Vi>Cây cối che bóng cho lối đi.</Vi>
+              <En>Trees casting shadow over a pathway, cooling the area.</En>
+            </Situation>
+            <Situation id="5fddcef5-21fb-4302-b5ea-63601b5339d4">
+              <Vi>Tránh đề cập trực tiếp đến một vấn đề nhạy cảm.</Vi>
+              <En>To avoid directly addressing a sensitive issue (figurative use).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
