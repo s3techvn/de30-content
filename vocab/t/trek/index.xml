@@ -1,0 +1,45 @@
+<Vocab id="b40440c3-c4b5-428f-9535-fd9dce8e66e2" word="trek" type="short" status="done">
+  <Topics>
+    <Topic id="1c2e6488-f5c7-4578-bd76-47247b69a9d8" value="Travel &amp; Outdoor Activities" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="87990485-c11f-4093-9065-8bc66de22607" value="Adventure Sports Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f2094a82-26c4-42e7-8bb8-788bf003c8c0" ipa="/trɛk/" vi_ipa="t-réc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="620005ce-e1da-4e41-96bb-0320edc14979" type="Noun">
+          <Vi>Chuyến đi bộ đường dài, đặc biệt qua vùng hoang dã hoặc địa hình khó khăn</Vi>
+          <En>A long, arduous journey, especially on foot through difficult or unfamiliar terrain</En>
+          <Example>We went on a three-day trek through the Himalayan foothills.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e3ff098-1e13-4cca-a563-e545226dbf72">
+              <Vi>Một nhóm du khách thực hiện chuyến đi bộ nhiều ngày qua núi non, rừng rậm để tham quan và trải nghiệm thiên nhiên.</Vi>
+              <En>A group of tourists embarks on a multi-day hiking journey through mountains and forests to experience nature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1fdcf51d-06d8-4e79-87d4-e4f67e8f9d66" type="Verb">
+          <Vi>Đi bộ đường dài (qua vùng địa hình khó khăn); đi bộ một cách vất vả, chậm chạp</Vi>
+          <En>To travel or move slowly and with difficulty, especially on foot over rough or steep terrain</En>
+          <Example>We trekked for six hours up the steep mountain path.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="025787e3-c595-4537-9b97-a5f2a019b04c">
+              <Vi>Một người du khách phải đi bộ hàng giờ trong điều kiện thời tiết xấu và địa hình dốc để đến điểm cắm trại.</Vi>
+              <En>A traveler walks for hours in poor weather and steep terrain to reach a campsite.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

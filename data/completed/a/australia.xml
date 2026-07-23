@@ -1,0 +1,38 @@
+<Vocab id="04f3af9c-83d7-4af8-8f87-9e0713ca208c" word="australia" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="3c4cc1d5-00d7-4630-8424-c2758b816232" value="Immigration Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="59d37450-9219-48e0-92e8-0fe5f07e9968" ipa="/əˈstreɪliə/" vi_ipa="ơ-strây-li-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2cd4ad43-5576-4495-b88e-97e5f1a305b0" type="Noun">
+          <Vi>Úc (tên gọi tắt của nước Úc)</Vi>
+          <En>The country located in Oceania, comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands.</En>
+          <Example>She moved to Australia to pursue her PhD in marine biology.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f71df5af-f97f-4642-847c-b6fbd41d504e">
+              <Vi>Thảo luận về du lịch, di cư, hoặc đặc điểm địa lý của nước Úc.</Vi>
+              <En>Discussing travel, immigration, or geographical features of Australia.</En>
+            </Situation>
+            <Situation id="69ffe05e-846f-4da4-aa82-8d3819dbcccf">
+              <Vi>So sánh văn hóa, kinh tế, hoặc hệ sinh thái giữa Úc và các quốc gia khác.</Vi>
+              <En>Comparing culture, economy, or ecosystems between Australia and other countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
