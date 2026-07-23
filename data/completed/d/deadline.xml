@@ -1,0 +1,38 @@
+<Vocab id="67d9cd21-efd8-4fac-b81c-3594621d6ce1" word="deadline" type="short" status="done">
+  <Topics>
+    <Topic id="1cb652e3-02f1-4ed5-b7f9-2517db44f313" value="Work &amp; Education" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48140f79-89b2-4f1d-9b2c-bd5e9fef66f0" ipa="/ˈded.laɪn/" vi_ipa="đét-lай-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6bccec97-a603-4d0a-a78a-671789f954c6" type="Noun">
+          <Vi>Hạn chót; thời hạn chung cuộc</Vi>
+          <En>The latest time or date by which something should be completed.</En>
+          <Example>The deadline for submitting the report is next Friday at 5 p.m.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f225850-d493-4668-b337-7b1e79f4b2d0">
+              <Vi>Công việc hoặc nghĩa vụ phải hoàn thành trước thời điểm quy định, nếu không sẽ bị xử lý hoặc mất cơ hội.</Vi>
+              <En>A time limit by which a task or assignment must be finished, often with consequences for missing it.</En>
+            </Situation>
+            <Situation id="932b10c9-7bcd-4850-b083-9d55c7c7ac55">
+              <Vi>Sự chậm trễ vượt quá hạn chót có thể dẫn đến mất hợp đồng, phạt tiền, hoặc hủy bỏ yêu cầu.</Vi>
+              <En>Missing the deadline may result in contract termination, penalties, or cancellation of the request.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
