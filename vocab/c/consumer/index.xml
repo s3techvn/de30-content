@@ -1,0 +1,36 @@
+<Vocab id="1280995d-0fc5-4e53-a55e-459e5d2f5f89" word="consumer" type="short" status="done">
+  <Topics>
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+  </Topics>
+  <Professions>
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0220ba47-192c-4007-bb08-8f5fd7142199" ipa="/kənˈsuː.mər/" vi_ipa="cơn-su-mơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd3f88e0-57f5-4f1d-bfcf-388df7603d01" type="Noun">
+          <Vi>Người tiêu dùng</Vi>
+          <En>A person who purchases goods or services for personal use.</En>
+          <Example>The company targets young consumers who prefer eco-friendly products.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ea40062-e796-4767-a5eb-058f83815116">
+              <Vi>Người mua hàng để sử dụng cá nhân, không phải để bán lại hay sản xuất.</Vi>
+              <En>A person who buys goods or services for personal, family, or household use rather than for resale or production.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
