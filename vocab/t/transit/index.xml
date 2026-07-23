@@ -1,0 +1,76 @@
+<Vocab id="738905db-50ec-459c-8114-faadce89ca86" word="transit" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="11db181c-309e-4287-a09d-e85d706a2b1e" ipa="/ˈtræn.zɪt/" vi_ipa="trân-dzít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="79e7c53f-3d75-41e6-9927-c2e7a356a48d" type="Verb">
+          <Vi>di chuyển qua (một khu vực), quá cảnh</Vi>
+          <En>to pass through a particular area or country, especially as part of a journey to another destination</En>
+          <Example>The cargo ship will transit the Panama Canal en route to the Pacific Ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="98626c6f-80e9-44d4-a08b-fec67a97fe4e">
+              <Vi>Hành trình qua một quốc gia hoặc khu vực mà không dừng lại lâu dài.</Vi>
+              <En>A journey through a country or region without staying there permanently.</En>
+            </Situation>
+            <Situation id="297b1409-599e-4d55-8979-ced68dbd0a6a">
+              <Vi>Chuyển hàng hóa hoặc hành khách qua một điểm trung gian.</Vi>
+              <En>Shipment or passengers passing through an intermediate point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="920f2e15-b797-4f64-beb2-8c166c23ed59" type="Verb">
+          <Vi>đưa (hành khách) qua trạm trung chuyển, chuyển tiếp</Vi>
+          <En>to transfer passengers or goods from one vehicle, route, or mode of transport to another</En>
+          <Example>Travelers must transit from the domestic terminal to the international terminal via shuttle bus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0dff3fe7-91f8-4989-bf2d-4cb7e56fd54c">
+              <Vi>Chuyển tiếp giữa các phương tiện hoặc tuyến đường trong hành trình.</Vi>
+              <En>Switching between vehicles or routes during a journey.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f285fc29-60c5-4901-992a-195e0e36fb48" ipa="/ˈtræn.zɪt/" vi_ipa="trân-dzít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8c6f442e-af93-47ad-a9d6-b8d95b679da3" type="Noun">
+          <Vi>sự quá cảnh; phương tiện vận chuyển công cộng (như xe buýt, tàu điện)</Vi>
+          <En>the passage of a person or thing across a place or region; also, public transport systems used for such movement</En>
+          <Example>The city is investing in improved transit infrastructure to reduce traffic congestion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="454ce11f-5af6-4565-a7c8-9baff6250910">
+              <Vi>Hệ thống giao thông công cộng trong đô thị.</Vi>
+              <En>Urban public transportation systems such as buses and subways.</En>
+            </Situation>
+            <Situation id="6ddda342-5d08-4f0d-b35e-3cd751a0ce59">
+              <Vi>Quá cảnh tại sân bay hoặc cảng.</Vi>
+              <En>Transit through an airport or port during international travel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

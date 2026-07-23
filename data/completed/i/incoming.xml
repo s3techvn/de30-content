@@ -1,0 +1,56 @@
+<Vocab id="9e47da6b-f932-4771-962b-5f7c982d319a" word="incoming" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="078094ff-7727-47ca-b4fc-8a89d2a1c320" ipa="/ɪnˈkʌm.ɪŋ/" vi_ipa="in-kà-ming">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a8b19e8e-390f-4ae5-a0ef-851e4209606e" type="Adjective">
+          <Vi>đang đến, sắp đến, mới nhận được</Vi>
+          <En>Arriving, approaching, or received at this time.</En>
+          <Example>The incoming shipment arrived two days ahead of schedule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e391bea2-3c7d-4a42-b0d7-31b890f72ba4">
+              <Vi>Mô tả hàng hóa, thư tín, hoặc thông tin vừa mới được gửi và đang trong quá trình tiếp nhận.</Vi>
+              <En>Describing goods, mail, or information that has just been sent and is being received.</En>
+            </Situation>
+            <Situation id="34089c86-2242-40e7-9df0-39ec2463c1fe">
+              <Vi>Dùng trong điện thoại hoặc hệ thống liên lạc để chỉ cuộc gọi hoặc tin nhắn vừa mới được nhận.</Vi>
+              <En>Used in phone or communication systems to refer to a call or message just received.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a430fd3c-588b-4bbf-9fff-b8fcb2d70d09" type="Noun">
+          <Vi>người hoặc vật đang đến; luồng vào (điện, dữ liệu)</Vi>
+          <En>A person or thing that is arriving; the flow entering a system (e.g., electricity, data).</En>
+          <Example>The incoming voltage must be stabilized before use.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d42fcb08-a38c-4a19-b7e4-48dc007e77f7">
+              <Vi>Trong kỹ thuật điện, chỉ dòng điện đang được truyền vào một thiết bị hoặc hệ thống.</Vi>
+              <En>In electrical engineering, refers to the electric current being supplied to a device or system.</En>
+            </Situation>
+            <Situation id="3dfd8a0a-1a77-426e-93bb-a5225d4ce81e">
+              <Vi>Trong mạng máy tính, chỉ dữ liệu đang được gửi đến máy chủ hoặc thiết bị nhận.</Vi>
+              <En>In computer networking, refers to data being transmitted to a server or receiving device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
