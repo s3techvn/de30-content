@@ -1,0 +1,49 @@
+<Vocab id="a80d35a4-b821-474f-9ebb-d9501e6a52b5" word="telescope" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="208780b8-b963-4ae6-a43e-0ebc08ce73c6" ipa="/ˈtel.ɪ.skəʊp/" vi_ipa="tê-lít-scóp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="94816f40-e597-4bac-99a6-505cf4a9e052" type="Noun">
+          <Vi>Công cụ quang học dùng để quan sát các vật ở xa, đặc biệt là các thiên thể</Vi>
+          <En>An optical instrument used to observe distant objects, especially celestial bodies</En>
+          <Example>The astronomer pointed the telescope toward the Moon to study its craters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c9d287d-5fc1-4ed6-9fb5-2605e2e735fa">
+              <Vi>Quan sát sao, hành tinh, hoặc thiên thể từ đài quan sát</Vi>
+              <En>Observing stars, planets, or celestial objects from an observatory</En>
+            </Situation>
+            <Situation id="288e55f3-8b24-4e61-af90-57bc0da6fcec">
+              <Vi>Sử dụng kính thiên văn để phóng to hình ảnh từ xa</Vi>
+              <En>Using a telescope to magnify distant images</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b733168a-23d0-4cf3-9404-013908cbbcc0" type="Verb">
+          <Vi>Làm cho (một điều gì đó) trông xa hơn hoặc lớn hơn bằng kính thiên văn</Vi>
+          <En>To make (something) appear larger or more detailed using a telescope</En>
+          <Example>We telescoped the distant mountain peak to get a clearer view.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="498274dc-0a82-4188-b147-35a3f8f0d32f">
+              <Vi>Quan sát chi tiết một vật ở xa bằng cách dùng kính thiên văn</Vi>
+              <En>Examining a distant object in detail by magnifying it with a telescope</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
