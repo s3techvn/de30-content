@@ -1,0 +1,50 @@
+<Vocab id="d34e67fb-b53c-4126-aa63-1ec7d986366b" word="lecture" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="eedd69e1-7978-43f4-98fe-7959e4fd1f1f" value="Professor" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63d913a6-fe31-477f-a581-78b2933a02c2" ipa="/ˈlektʃər/" vi_ipa="léc-chơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="422385b3-b005-411c-a99b-1b8a5f487f1f" type="Noun">
+          <Vi>Bài giảng</Vi>
+          <En>A talk or lesson given to a group of students, typically at a university.</En>
+          <Example>The professor delivered a fascinating lecture on climate change.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39f8e44b-c978-49d9-a443-26bdd2191b44">
+              <Vi>Sinh viên lắng nghe bài giảng trong giảng đường lớn.</Vi>
+              <En>Students listen to a lecture in a large lecture hall.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="060c0169-64a7-495a-81f1-5b8c441c3999" type="Verb">
+          <Vi>Giảng bài; chửi mắng (như một bài giảng dài)</Vi>
+          <En>To deliver a formal talk or lesson; or, informally, to scold someone at length.</En>
+          <Example>The teacher lectured the class on the importance of punctuality.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="357fd391-7ca0-449b-b8f8-db4d6c976d5d">
+              <Vi>Giáo viên giảng bài cho lớp về quy định mới.</Vi>
+              <En>The teacher lectured the class about the new rules.</En>
+            </Situation>
+            <Situation id="73f2054a-b16e-47ea-866d-f4e70990393c">
+              <Vi>Mẹ mắng con vì về muộn, dài dòng như một bài giảng.</Vi>
+              <En>The mother lectured her child for an hour about coming home late.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
