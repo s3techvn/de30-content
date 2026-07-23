@@ -1,0 +1,40 @@
+<Vocab id="24309a55-b121-4e97-b13c-ba26f018ba41" word="controversial" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="78c45ca2-9e15-4e51-9b29-bf1306b24348" ipa="/ˌkɒn.trəˈvɜː.ʃəl/" vi_ipa="côn-trô-vơ-xờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6d143362-2df8-4120-8264-57a8857c09c0" type="Adjective">
+          <Vi>gây tranh cãi; gây tranh luận gay gắt</Vi>
+          <En>causing or likely to cause public disagreement or debate, especially because of being morally or politically sensitive</En>
+          <Example>The proposed law change was controversial and sparked protests across the country.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1abef13b-55bc-421f-9591-f51647852c80">
+              <Vi>Một vấn đề bị chia rẽ trong dư luận, ví dụ như quyền堕胎, cải cách giáo dục, hoặc chính sách môi trường.</Vi>
+              <En>A topic that divides public opinion, such as abortion rights, education reform, or environmental policy.</En>
+            </Situation>
+            <Situation id="4bc7b467-68a7-4699-affa-c91e31b9ad71">
+              <Vi>Một phát biểu hoặc hành động gây phản ứng mạnh từ cả hai phe ủng hộ và phản đối.</Vi>
+              <En>A statement or action that provokes strong reactions from both supporters and critics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
