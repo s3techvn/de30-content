@@ -1,0 +1,57 @@
+<Vocab id="f7580a77-6577-444b-82a0-fcd0cdd89896" word="stocks" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="747718d8-82aa-4032-8551-a1c33b16479a" value="Investor" />
+    <Profession id="92fbca4b-ae74-401c-9892-462a658dc40f" value="Stockbroker" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d444fea-2e9b-4ea9-b917-21f523893294" ipa="/stɑːks/" vi_ipa="s-tốc-khơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af8f9a9e-bd6c-47eb-bd8a-76ecf44aa986" type="Noun">
+          <Vi>Cổ phiếu</Vi>
+          <En>Shares of ownership in a company, typically traded on a stock exchange.</En>
+          <Example>She bought 100 shares of Apple stocks last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2988467e-f8c2-42f0-8d56-548cbb8b9bfe">
+              <Vi>Mua bán cổ phiếu trên sàn chứng khoán.</Vi>
+              <En>Buying and selling shares on the stock market.</En>
+            </Situation>
+            <Situation id="df4005ac-24db-43e4-8eb0-6d86a75f5ef8">
+              <Vi>Theo dõi biến động giá cổ phiếu hàng ngày.</Vi>
+              <En>Monitoring daily fluctuations in stock prices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dbabf7ba-7703-4dc5-ac91-435f6c0a05b5" type="Noun">
+          <Vi>Hàng tồn kho; dự trữ</Vi>
+          <En>Goods or materials held by a business for sale or production.</En>
+          <Example>The supermarket ran out of stocks of fresh produce after the holiday rush.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34bc9a4d-301a-4667-b096-a44ae6f03cb7">
+              <Vi>Kiểm kê hàng tồn kho cuối tháng.</Vi>
+              <En>Conducting a month-end inventory check.</En>
+            </Situation>
+            <Situation id="7d3c5f56-c06e-406b-97bc-48fcb61ec852">
+              <Vi>Nhập thêm hàng vào kho khi dự trữ thấp.</Vi>
+              <En>Restocking shelves when inventory levels are low.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
