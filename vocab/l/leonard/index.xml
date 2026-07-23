@@ -1,0 +1,32 @@
+<Vocab id="52439507-3817-401f-9dca-cf3d93ad0d8c" word="leonard" type="short" status="done">
+  <Topics>
+    <Topic id="122cbe32-7956-45ff-a705-c80778e49ab4" value="People &amp; Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="db138bd1-6c08-4694-8dd1-95fdafb423d5" ipa="/ˈlɛər.nərd/" vi_ipa="lờ-nác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="631f1e90-5c48-4d54-9f9e-76b8a24338a9" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là tên đệm trong các tên như Leonard (ví dụ: Leonard Cohen, Leonardo da Vinci).</Vi>
+          <En>A masculine given name or surname, notably used in figures such as Leonard Cohen or Leonardo da Vinci.</En>
+          <Example>Leonard Bernstein was a renowned American composer and conductor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e7bbda9-c9bc-4655-8145-bf2bf707de76">
+              <Vi>Dùng khi đề cập đến cá nhân mang tên Leonard trong văn hóa phương Tây.</Vi>
+              <En>Used when referring to individuals bearing the name Leonard in Western contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
