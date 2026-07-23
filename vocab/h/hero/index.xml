@@ -1,0 +1,52 @@
+<Vocab id="d31e5f1c-2272-4ad3-b1c0-f37cfe1780ba" word="hero" type="short" status="done">
+  <Topics>
+    <Topic id="c90c1bb3-cdad-4496-aaae-e7b130b85740" value="People &amp; Character" />
+    <Topic id="422e67e6-4246-4cb2-8a07-f1ad9250d3cb" value="Literature &amp; Media" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dfc33d40-3ebf-4254-b638-e306dc30b8a7" ipa="/ˈhɪə.roʊ/" vi_ipa="hi-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82edb0a3-60df-4049-8302-08106ead75fa" type="Noun">
+          <Vi>anh hùng</Vi>
+          <En>A person who is admired for their courage, outstanding achievements, or noble qualities.</En>
+          <Example>Malala Yousafzai is a modern-day hero who advocates for girls' education.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac6429fc-5ca4-426f-bbd7-d53f01755173">
+              <Vi>Người được ca ngợi vì dũng cảm và đóng góp lớn cho xã hội.</Vi>
+              <En>A person celebrated for bravery and significant contributions to society.</En>
+            </Situation>
+            <Situation id="d80ffe13-d1fe-4cb3-ab17-18a47585e38f">
+              <Vi>Nhân vật chính trong truyện, phim, thường chiến thắng kẻ ác.</Vi>
+              <En>The main character in a story or film, typically overcoming adversity or defeating villains.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c41d1a16-b166-477b-88a7-dd449fcd538a" type="Noun">
+          <Vi>người hùng (trong văn hóa dân gian, thần thoại)</Vi>
+          <En>A legendary or mythological figure, often possessing superhuman abilities, who undertakes grand quests.</En>
+          <Example>Heracles (Hercules) is a hero from Greek mythology known for his twelve labors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b04a1ea-9d43-4212-9c33-bc6fe8a29777">
+              <Vi>Người trong truyền thuyết có sức mạnh phi thường và làm nên những kỳ tích.</Vi>
+              <En>A figure in folklore or myth possessing extraordinary strength and performing legendary feats.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

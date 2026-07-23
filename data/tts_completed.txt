@@ -1029,3 +1029,4 @@ make
 pump
 punk
 guinea
+hero
