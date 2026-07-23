@@ -1,0 +1,70 @@
+<Vocab id="a539fe47-9f7d-4341-81a5-3a8aa921b15d" word="compact" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ab2332cb-59fa-4dc3-b65e-26cacf40dd77" ipa="/ˈkɑːm.pækt/" vi_ipa="côm-pắc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc13488e-6558-4efc-9e85-2965d8008623" type="Adjective">
+          <Vi>nhỏ gọn, súc tích, nén chặt</Vi>
+          <En>small and efficient in size or structure; taking up little space or using few words.</En>
+          <Example>The new smartphone has a compact design that fits easily in one hand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="23065be4-9981-4bfb-9f40-02730e66f3b2">
+              <Vi>Mô tả thiết bị điện tử có kích thước nhỏ nhưng vẫn đầy đủ tính năng.</Vi>
+              <En>Describing electronic devices that are small yet feature-rich.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="21ba4dc3-f21d-4050-b868-8602897285f9" ipa="/kəmˈpækt/" vi_ipa="cơm-pắc-tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7bb6584-5f0e-413c-b9f7-e8c53740f677" type="Verb">
+          <Vi>làm cho gọn lại, nén chặt, rút gọn</Vi>
+          <En>to make something more concise or efficient, especially by reducing its size, length, or complexity.</En>
+          <Example>The editor compacted the article to fit the limited space in the magazine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="032749d2-030d-4e94-8839-62fb9a2942cc">
+              <Vi>Giảm độ dài văn bản mà vẫn giữ nguyên ý chính.</Vi>
+              <En>Reducing the length of a text while preserving its core meaning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3a0d73e4-59f6-45b7-a794-76fbff38a9f0" type="Noun">
+          <Vi>hợp đồng nhỏ, bảng hợp nhất (trong hóa học)</Vi>
+          <En>a small contract or agreement; in chemistry, a substance formed by the union of elements in fixed proportions.</En>
+          <Example>The two companies signed a compact to share research data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b0328a1-66ed-4a52-bcef-4f1bea3205fc">
+              <Vi>Sử dụng trong văn bản pháp lý hoặc hóa học để chỉ thỏa thuận hoặc hợp chất.</Vi>
+              <En>Used in legal or chemical contexts to denote an agreement or a chemical compound.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
