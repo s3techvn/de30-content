@@ -1,0 +1,41 @@
+<Vocab id="6c8e3831-5ccd-446d-9c88-ff6ab3fdaeeb" word="donor" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="3306c692-3b6d-49a2-b4cc-410ea41529c7" value="Philanthropy" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" value="Medical Researcher" />
+    <Profession id="56f94a89-1229-46de-98d6-b28ebe217963" value="Charity Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="827a3c03-73d1-4edd-ab68-75afbf2afaef" ipa="/ˈdoʊ.nər/" vi_ipa="đô-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c6d95de7-f7fd-4d0d-87ac-63ef5c805cdc" type="Noun">
+          <Vi>người hiến (máu, tạng, mô); người đóng góp (tiền, hiện vật)</Vi>
+          <En>A person who voluntarily gives or donates something, especially blood, an organ, or money to a cause or organization.</En>
+          <Example>The hospital is calling for blood donors to help patients undergoing surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02885d78-762c-46f2-8a38-0a11bbc1ddf3">
+              <Vi>Người đăng ký hiến máu tại một buổi hiến máu cộng đồng.</Vi>
+              <En>A person registering to donate blood at a community blood drive.</En>
+            </Situation>
+            <Situation id="f8127944-d5ca-494b-ab54-05c4c9dc9e5b">
+              <Vi>Người thân của bệnh nhân được xét nghiệm để xác định có phù hợp để hiến tạng hay không.</Vi>
+              <En>A relative of a patient undergoing testing to determine compatibility for organ donation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -978,3 +978,4 @@ tell
 knew
 northwest
 adaptive
+opposite

@@ -579,4 +579,5 @@
   <Profession id="c97ecc2f-7770-4964-b989-d98c7d8fd397" slug="military-engineer" value="Military Engineer" />
   <Profession id="20291a6c-da28-4c29-8909-55e1832320a6" slug="shift-worker" value="Shift Worker" />
   <Profession id="52e8abe6-0938-4a84-b0d1-9349781ed26d" slug="driving-instructor" value="Driving Instructor" />
+  <Profession id="56f94a89-1229-46de-98d6-b28ebe217963" slug="charity-worker" value="Charity Worker" />
 </Professions>
