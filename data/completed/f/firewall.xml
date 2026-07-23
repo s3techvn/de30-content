@@ -1,0 +1,52 @@
+<Vocab id="1894f6d8-97fb-4eb1-9e0d-19b86332c22e" word="firewall" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="ec505b76-7484-470a-b330-7219b961d53c" value="Cybersecurity" />
+    <Topic id="a597cd21-6234-419c-a682-abea5472f705" value="Networking" />
+  </Topics>
+  <Professions>
+    <Profession id="66bc87a9-3b3f-4c3a-8df4-d76ce73a76f5" value="Network Administrator" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="78d25407-b8e5-4f6f-9b32-9009b75e972c" ipa="/ˈfaɪər.wɔːl/" vi_ipa="fai-ơ-wo-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="11b53d13-3b3e-40fa-b3aa-f88697f67eff" type="Noun">
+          <Vi>Tường lửa</Vi>
+          <En>A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.</En>
+          <Example>Company policy requires all servers to be protected by a properly configured firewall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9063a20b-6146-48da-aafd-5e9b31123ccd">
+              <Vi>Một hệ thống phần mềm hoặc phần cứng ngăn chặn truy cập trái phép vào mạng nội bộ.</Vi>
+              <En>A software or hardware system that blocks unauthorized access to a private network.</En>
+            </Situation>
+            <Situation id="b8bf7e5c-c32f-4f57-8989-bfedaecd3fc4">
+              <Vi>Trong quản trị mạng, firewall được đặt giữa mạng nội bộ và Internet để lọc lưu lượng.</Vi>
+              <En>In network administration, the firewall is placed between the internal network and the Internet to filter traffic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c7b3a1ea-4a55-499e-bd42-a4211ef6ab89" type="Noun">
+          <Vi>Tường chống cháy (trong kiến trúc)</Vi>
+          <En>A fire-resistant wall designed to prevent the spread of fire between sections of a building.</En>
+          <Example>The building code mandates firewalls between adjacent residential units.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a027dde4-41ae-4c91-b401-d172e2a372c8">
+              <Vi>Tường bê tông dày được xây giữa các căn hộ để ngăn lửa lan khi xảy ra cháy.</Vi>
+              <En>A thick concrete wall built between apartments to prevent fire from spreading during a fire.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
