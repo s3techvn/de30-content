@@ -1,0 +1,40 @@
+<Vocab id="1a792623-2787-462b-8f95-fd34f0bfe306" word="handled" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="45ff68f5-77f7-4e4a-aa56-2aa39bcc0caf" value="Event Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="36d7be19-c318-4fa8-b136-b0f696b73b2d" ipa="/ˈhæn.dld/" vi_ipa="hén-dờ-lít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="730e7f5a-091a-4012-9c42-fb0b6d926b70" type="Verb">
+          <Vi>đã xử lý; đã giải quyết; đã chăm sóc; đã tiếp nhận và điều hành</Vi>
+          <En>past tense and past participle of *handle*; managed, dealt with, or controlled something or someone</En>
+          <Example>She handled the complaint professionally and resolved the issue quickly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0582c2c4-5fc7-4a79-9191-6f74f3e126a5">
+              <Vi>Tình huống nhân viên hỗ trợ khách hàng xử lý khiếu nại.</Vi>
+              <En>Scenario where a customer service agent manages and resolves a customer complaint.</En>
+            </Situation>
+            <Situation id="6ba6602f-65bb-4506-902e-d7769ba62508">
+              <Vi>Tình huống quản lý dự án khi đối mặt với rủi ro bất ngờ.</Vi>
+              <En>Scenario where a project manager deals with unexpected risks or setbacks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
