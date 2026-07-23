@@ -1,0 +1,44 @@
+<Vocab id="af3b2638-2bfd-46b2-80df-34a822a09d4f" word="solve" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="82dd38e3-64c9-4471-ab63-6507eadcdde9" value="Problem Solving" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eadac936-2d4b-434a-ae58-368af276a961" ipa="/səʊlv/" vi_ipa="xơ-líp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca2f36c3-6c63-4493-821d-7019699c7931" type="Verb">
+          <Vi>giải (bài toán, vấn đề, bí ẩn)</Vi>
+          <En>to find a solution or answer to (a problem, puzzle, or difficulty)</En>
+          <Example>She solved the math problem in just five minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc208933-402d-4b96-abfa-fdd3c6d441e5">
+              <Vi>Giải một bài toán khó hoặc một câu đố logic.</Vi>
+              <En>Solving a difficult math problem or a logic puzzle.</En>
+            </Situation>
+            <Situation id="b0e06751-5bf2-44cb-9c7d-b9f0bb1d2fe5">
+              <Vi>Khám phá nguyên nhân và cách khắc phục một sự cố kỹ thuật.</Vi>
+              <En>Discovering the cause and fixing a technical malfunction.</En>
+            </Situation>
+            <Situation id="8e926887-e41a-4d1b-a486-aa6087b2db8c">
+              <Vi>Tìm ra lời giải cho một bí ẩn hoặc tình huống phức tạp trong đời sống.</Vi>
+              <En>Figuring out the solution to a mystery or a complex real-life situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
