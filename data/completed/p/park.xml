@@ -1,0 +1,56 @@
+<Vocab id="3ccbef9a-d094-4f26-b3ee-17670ad21174" word="park" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="3dc7aad4-4f7c-4f3c-beb9-ac7fd44f3dee" value="Urban Planning" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="4f421813-c18f-4880-977a-250d2da85b59" value="Traffic Engineer" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="015389ce-973a-43c0-844c-c0bef433395b" ipa="/pɑːrk/" vi_ipa="pác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8d1f8d91-8dc9-4b6d-866f-e7b013c6ed25" type="Noun">
+          <Vi>Công viên; bãi đậu xe</Vi>
+          <En>A piece of land kept in a natural state, often for recreation, or a designated area for parking vehicles.</En>
+          <Example>We walked through the park to enjoy the cherry blossoms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d27b169e-e5f5-413d-9295-c5b560411715">
+              <Vi>Người dân dạo chơi, tổ chức picnic hoặc cho trẻ em chơi trong công viên.</Vi>
+              <En>People stroll, have picnics, or let children play in a public park.</En>
+            </Situation>
+            <Situation id="44e53f37-75a5-4e76-83d3-90d0dab3586f">
+              <Vi>Xe hơi được đậu trong bãi đậu xe công cộng hoặc trong khu vực được đánh dấu.</Vi>
+              <En>A car is placed and left in a marked area designated for vehicle parking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b7c9c8b3-3446-410f-89e7-27fb78251036" type="Verb">
+          <Vi>Đậu xe; đưa vào công viên</Vi>
+          <En>To place and leave a vehicle in a designated area; or to place (an animal) in a park for safekeeping.</En>
+          <Example>Please park your car in the designated spot.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e0217743-0feb-4a77-8f61-46146d807f37">
+              <Vi>Người lái xe tìm chỗ đậu xe hợp lệ trước khi vào cửa hàng.</Vi>
+              <En>A driver finds a legal parking spot before entering a store.</En>
+            </Situation>
+            <Situation id="d181be00-28ec-44ed-9aa8-7f79b533f472">
+              <Vi>Nhân viên sở thú đưa hổ con vào khu vực bán hoang dã trong công viên động vật.</Vi>
+              <En>A zookeeper places a tiger cub into a semi-wild enclosure in a wildlife park.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
