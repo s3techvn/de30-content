@@ -1,0 +1,56 @@
+<Vocab id="0ab3bdef-ae5f-4b62-ad83-f8ea6232fb7f" word="mess" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="43dd4f36-1e44-42f6-aa65-3adfc8009766" value="Home" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="3d59ad46-f8fe-40bf-b841-e03260c5ef5b" value="Housekeeper" />
+    <Profession id="812aa29c-85fb-4675-be93-76477fe20619" value="Office Manager" />
+    <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" value="Parent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="15f6052a-482a-4e26-8c8e-ab8a4acbf01d" ipa="/mes/" vi_ipa="mét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="edc36ab1-8832-4821-a60d-c42b00b75cbc" type="Noun">
+          <Vi>hỗn loạn; bừa bộn; tình trạng lộn xộn</Vi>
+          <En>A state of total disorder or confusion; a dirty or untidy condition.</En>
+          <Example>The children left the room in a complete mess after the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97dfcf9b-9b0e-49aa-aa02-71980941d980">
+              <Vi>Mô tả căn phòng đầy đồ chơi, giấy vụn, và đồ ăn vặt sau khi trẻ em tổ chức tiệc.</Vi>
+              <En>Describing a room filled with toys, trash, and snack wrappers after kids' party.</En>
+            </Situation>
+            <Situation id="0d3f9f5e-1e95-4f1a-b892-558362797c5a">
+              <Vi>Tình huống khi một dự án bị trì hoãn do thiếu tổ chức và quản lý kém.</Vi>
+              <En>A situation where a project is delayed due to poor organization and management.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="13af1023-6f24-43e7-abcb-7e9eeced286a" type="Verb">
+          <Vi>làm lộn xộn; làm bừa bộn; làm rối tung</Vi>
+          <En>To make something disorderly or untidy; to confuse or complicate a situation.</En>
+          <Example>Don’t mess up my desk—I need to find that report!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ad0fbff-7c7e-45ba-80d3-a1d93957c4c0">
+              <Vi>Nhắc nhở ai đó không làm bừa bãi trong không gian chung.</Vi>
+              <En>Telling someone not to clutter a shared space.</En>
+            </Situation>
+            <Situation id="f96b7cd8-5a4b-407f-80e0-57799685c9e5">
+              <Vi>Mô tả việc làm phức tạp hóa một vấn đề vốn đơn giản.</Vi>
+              <En>Describing the act of unnecessarily complicating a simple issue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
