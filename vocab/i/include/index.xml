@@ -1,0 +1,40 @@
+<Vocab id="5ce099f5-7a83-4c44-b025-9fee50b2cca6" word="include" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff442cb2-89fe-4de8-811f-436af7aaa9d7" ipa="/ɪnˈkluːd/" vi_ipa="in-c-lu-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89f7024b-e49e-4782-8a7c-ed273af0e268" type="Verb">
+          <Vi>bao gồm, bao hàm</Vi>
+          <En>to contain or hold as part of a whole; to have something as a component or feature</En>
+          <Example>The package includes a free T-shirt and a discount coupon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="190e0576-af5a-4462-8900-35342ef24e05">
+              <Vi>Mô tả một sản phẩm hoặc gói dịch vụ có những yếu tố đi kèm.</Vi>
+              <En>Describing a product or service package that contains additional items.</En>
+            </Situation>
+            <Situation id="a458b2e2-3612-45c4-a166-1798b94cb634">
+              <Vi>Khi liệt kê các thành viên trong nhóm hoặc nội dung trong tài liệu.</Vi>
+              <En>When listing members of a group or items in a document.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
