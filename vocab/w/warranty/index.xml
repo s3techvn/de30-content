@@ -1,0 +1,40 @@
+<Vocab id="eb44ea0b-3fc8-4a34-b589-a6d97281354f" word="warranty" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="88151c2c-6be7-4727-9377-c8e4941ff100" value="Consumer Rights" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1efe41df-c55c-4339-9d51-f6163d06bee8" ipa="/ˈwɔːr.ən.ti/" vi_ipa="wo-rơ-n-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c211e806-266b-4cea-b659-2bd18c6673a4" type="Noun">
+          <Vi>Bảo hành; bảo đảm</Vi>
+          <En>A written guarantee issued by a manufacturer or retailer to repair or replace a faulty product within a specified period.</En>
+          <Example>The smartphone comes with a one-year manufacturer’s warranty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="640ed19e-a152-4842-9f03-464d43ac0284">
+              <Vi>Khi mua thiết bị điện tử, nhân viên bán hàng thường giải thích điều khoản bảo hành.</Vi>
+              <En>When buying electronic devices, sales staff usually explain the warranty terms.</En>
+            </Situation>
+            <Situation id="0bc1f330-152c-44a2-a674-5b9d5fac1d4d">
+              <Vi>Chính sách bảo hành không bao gồm hư hỏng do va đập hoặc sử dụng sai cách.</Vi>
+              <En>The warranty does not cover damage caused by impact or misuse.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
