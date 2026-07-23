@@ -1,0 +1,52 @@
+<Vocab id="6cb4a145-5f89-427e-bc94-f162ef71d094" word="bean" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8667a760-f0bd-49b6-8a6a-b5de7040d78a" ipa="/biːn/" vi_ipa="bi-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8ca9f25-8c03-414f-8e80-b667d7bdd4af" type="Noun">
+          <Vi>hạt đậu (loại cây họ đậu, thường dùng làm thực phẩm)</Vi>
+          <En>the seed of a leguminous plant, especially one used as food, such as kidney bean, black bean, or soybean</En>
+          <Example>She added a cup of black beans to the chili.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1ac0027-f6a7-49ca-8134-029368473552">
+              <Vi>Mô tả loại hạt ăn được từ cây họ đậu, thường được dùng trong nấu ăn hoặc làm nguyên liệu chế biến.</Vi>
+              <En>Refers to edible seeds from leguminous plants commonly used in cooking or food production.</En>
+            </Situation>
+            <Situation id="fb30b2a9-45f1-499b-a591-d91e65602d33">
+              <Vi>Trong ngữ cảnh dinh dưỡng, chỉ nguồn protein thực vật dồi dào.</Vi>
+              <En>In nutrition contexts, refers to a rich plant-based protein source.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ae4807f6-0c73-4dc5-ad0a-f4466e954756" type="Noun">
+          <Vi>đậu (dùng trong cụm từ "full of beans" để chỉ người tràn đầy năng lượng)</Vi>
+          <En>used in the phrase "full of beans" to describe someone who is very energetic or lively</En>
+          <Example>The kids were full of beans after eating sugar-filled cereal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="76a777f2-51a6-493f-a1da-ec787d3c109a">
+              <Vi>Mô tả trạng thái hào hứng, tràn đầy năng lượng (thường nói về trẻ em hoặc người trẻ).</Vi>
+              <En>Describes a state of high energy and liveliness, often referring to children or young people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
