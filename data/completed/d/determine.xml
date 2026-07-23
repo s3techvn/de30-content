@@ -1,0 +1,38 @@
+<Vocab id="4cd2a7d5-49e1-4939-9614-f180b4ace513" word="determine" type="short" status="done">
+  <Topics>
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55d23bbe-9dcf-4567-9249-3697a4943365" ipa="/dɪˈtɜːr.mɪn/" vi_ipa="đi-tờ-mi-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0497fdbb-51e0-410f-a06c-901eed2f0892" type="Verb">
+          <Vi>quyết định; xác định; định đoạt</Vi>
+          <En>to settle, fix, or decide (something) after consideration or calculation</En>
+          <Example>The committee will determine the winner of the competition next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4452cdad-7d4c-4afd-b17b-69157a09b97c">
+              <Vi>Đưa ra quyết định cuối cùng sau khi xem xét các lựa chọn.</Vi>
+              <En>Making a final decision after reviewing all available options.</En>
+            </Situation>
+            <Situation id="fe9d71ce-59ca-4c08-a529-2c77c3821e65">
+              <Vi>Xác định giá trị, kết quả, hoặc yếu tố cần thiết trong một tình huống cụ thể.</Vi>
+              <En>Establishing a specific value, outcome, or necessary factor in a given context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
