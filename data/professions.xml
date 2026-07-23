@@ -627,4 +627,5 @@
   <Profession id="be7f5540-87e1-4e4c-800e-7d0e7a82727e" slug="novelist" value="Novelist" />
   <Profession id="433d4130-32b2-422e-a134-0a75c1643e55" slug="editor-(publishing)" value="Editor (Publishing)" />
   <Profession id="eedd69e1-7978-43f4-98fe-7959e4fd1f1f" slug="professor" value="Professor" />
+  <Profession id="d85a04fb-365f-4011-928c-eb0afcb15faa" slug="copywriter" value="Copywriter" />
 </Professions>
