@@ -1,0 +1,36 @@
+<Vocab id="4e19131d-b389-48c5-97fa-de8492cc7e82" word="silly" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eb7307a5-e4a3-4259-978a-7df1f4c7bbef" ipa="/ˈsɪl.i/" vi_ipa="xì-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1bc4769c-083b-453c-a102-9e1fecd51d78" type="Adjective">
+          <Vi>ngu ngốc; ngớ ngẩn; hài hước, vui nhộn (mang tính trẻ con)</Vi>
+          <En>having or showing a lack of common sense or judgment; foolish or absurd; also, playful and lighthearted in a childish way.</En>
+          <Example>He made a silly mistake and forgot his own password.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3587ed66-8758-4a42-8e00-84fcea3d69e5">
+              <Vi>Mô tả một hành động thiếu suy nghĩ, gây cười hoặc đáng cười.</Vi>
+              <En>Describing an action that shows poor judgment and is amusing or ridiculous.</En>
+            </Situation>
+            <Situation id="925883b4-1ccd-482e-af84-93994136d5cf">
+              <Vi>Dùng để chỉ một người hoặc điều gì đó vui nhộn, không nghiêm túc theo cách trẻ con.</Vi>
+              <En>Used to describe someone or something playful and lighthearted in a childish, non-serious way.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
