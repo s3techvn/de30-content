@@ -1,0 +1,90 @@
+<Vocab id="64db3733-4fef-436f-9c9c-e087afc3e665" word="pin" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bc0fa382-cd58-455a-9e34-e08d5cc3b17e" ipa="/pɪn/" vi_ipa="pin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c29dafd7-faad-460b-a9e0-a92bd98ceb78" type="Noun">
+          <Vi>ghim (nhỏ, thường bằng kim loại, dùng để cố định hoặc trang trí)</Vi>
+          <En>a small, sharp metal fastener with a pointed end and a head, used to fasten things together or for decoration</En>
+          <Example>She pinned the invitation to the corkboard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4d453bcb-4538-487b-a5cb-e7427303bcaa">
+              <Vi>Đính giấy ghi chú lên bảng mềm bằng ghim.</Vi>
+              <En>Attaching a note to a corkboard using a pin.</En>
+            </Situation>
+            <Situation id="4da2a4ef-17aa-42e9-8e42-a36a905f6f9d">
+              <Vi>Chỉ may dùng ghim để cố định vải trước khi may.</Vi>
+              <En>Using pins to hold fabric layers together before sewing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b6b9c16d-bb6f-449d-9661-3cfb2e5daa08" type="Verb">
+          <Vi>ghim, cố định bằng ghim</Vi>
+          <En>to fasten or attach something using a pin</En>
+          <Example>He pinned the badge to his lapel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1cd862de-9d9e-4733-9572-eeef4b25160a">
+              <Vi>Ghim hình ảnh vào bảng tin ảo trên mạng.</Vi>
+              <En>Uploading and attaching an image to a digital bulletin board (e.g., Pinterest).</En>
+            </Situation>
+            <Situation id="b2783d20-b92f-4664-b728-089671dabd8f">
+              <Vi>Ghim một vị trí cụ thể trên bản đồ kỹ thuật số.</Vi>
+              <En>Marking a specific location on a digital map (e.g., Google Maps).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="ae373a54-3018-443d-8901-c6078a8d7a29" ipa="/pɪn/" vi_ipa="pin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2e93f690-ebfd-4a3b-b87c-72078435f256" type="Noun">
+          <Vi>ghim (dùng trong thể thao, đặc biệt là cờ vua)</Vi>
+          <En>a tactical move in chess or other games where a piece is immobilized because moving it would expose a more valuable piece</En>
+          <Example>The knight pinned the opponent’s bishop to the king.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3c1578b-22b9-488a-889d-0f8f9ab64994">
+              <Vi>Thực hiện nước ghim trong ván cờ vua để hạn chế quân đối phương.</Vi>
+              <En>Executing a pin in chess to restrict the opponent’s piece movement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="94cdf366-424e-46bf-9a3f-eba5ea48eddc" type="Verb">
+          <Vi>ghim (trong cờ vua: buộc một quân đối phương không thể di chuyển vì sẽ làm lộ quân quan trọng hơn)</Vi>
+          <En>to restrict an opponent’s piece by threatening a more valuable piece behind it</En>
+          <Example>She pinned the rook with her bishop.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="660e9d51-f5f0-4c26-91a3-6702719377cc">
+              <Vi>Chiến thuật ghim thường được dùng trong giai đoạn giữa ván cờ.</Vi>
+              <En>The pin tactic is commonly used in the middlegame of a chess match.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
