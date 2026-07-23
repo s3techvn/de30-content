@@ -1,0 +1,40 @@
+<Vocab id="142dc237-8c6b-4cbd-8ab7-c0d2aaf089a3" word="doctrine" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c936cdf6-fd05-4145-9e5d-7fd1af2eeee6" ipa="/ˈdɒk.trɪn/" vi_ipa="đốc-tơ-rin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8056aa9b-ab79-439a-a706-2adfeb77aeb6" type="Noun">
+          <Vi>Giáo lý; học thuyết</Vi>
+          <En>A system of belief or doctrine, especially one based on religious or philosophical principles.</En>
+          <Example>The doctrine of original sin is central to many Christian denominations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a04917b4-d22d-438c-b265-5c2e2a64d1d7">
+              <Vi>Giáo hội công bố một giáo lý mới về đức tin.</Vi>
+              <En>The church announces a new doctrine on faith.</En>
+            </Situation>
+            <Situation id="22002dba-d785-46e1-aba3-3c5966f0556d">
+              <Vi>Chính phủ đưa ra một học thuyết về an ninh quốc gia.</Vi>
+              <En>The government introduces a doctrine on national security.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
