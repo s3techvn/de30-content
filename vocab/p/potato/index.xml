@@ -1,0 +1,37 @@
+<Vocab id="462e69fc-5dec-4ac8-849b-6d7e5ac98857" word="potato" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="40428df3-de39-498d-b628-8c68808c749f" ipa="/pəˈteɪ.toʊ/" vi_ipa="pơ-tê-tô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b24e262a-875a-4638-a693-5c7bc0b1785f" type="Noun">
+          <Vi>Củ khoai tây</Vi>
+          <En>A starchy tuberous crop that is a major food source worldwide, typically brown or red-skinned with white or yellow flesh.</En>
+          <Example>She baked a potato with butter and sour cream for dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06fee890-4c34-4048-ac7a-3f80392ab2d8">
+              <Vi>Món ăn chính được làm từ khoai tây nướng hoặc luộc.</Vi>
+              <En>A staple food prepared by baking, boiling, or frying the tuber.</En>
+            </Situation>
+            <Situation id="f06246ee-f88a-4667-9bd6-3cdf85612912">
+              <Vi>Cây trồng nông nghiệp quan trọng ở các vùng ôn đới.</Vi>
+              <En>An important agricultural crop grown in temperate climates.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
