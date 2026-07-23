@@ -1,0 +1,39 @@
+<Vocab id="62e7f650-bc38-4b3e-a86f-8798d64ae6b3" word="visible" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c9844e79-024b-4ca0-8748-3cb70ed39de5" ipa="/ˈvɪz.ə.bəl/" vi_ipa="vít-xờ-bờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="51058169-7749-493f-8648-9628f87ac150" type="Adjective">
+          <Vi>Có thể nhìn thấy được; hiện hữu rõ ràng</Vi>
+          <En>Capable of being seen with the naked eye; apparent or obvious.</En>
+          <Example>The stars were visible in the clear night sky.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2f84097-8a4a-40dc-a86e-ac6646e1c6e7">
+              <Vi>Mô tả một vật thể hoặc hiện tượng có thể quan sát bằng mắt thường.</Vi>
+              <En>Describing an object or phenomenon observable without magnification.</En>
+            </Situation>
+            <Situation id="7d514d6b-8cf0-435d-87ca-eda22a3c8da6">
+              <Vi>Dùng để chỉ sự thay đổi dễ dàng nhận ra trong hành vi hoặc tình huống.</Vi>
+              <En>Used to indicate a noticeable change in behavior or situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
