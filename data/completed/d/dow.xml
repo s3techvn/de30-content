@@ -1,0 +1,36 @@
+<Vocab id="23d03149-286f-43b9-a224-38e9629f145f" word="dow" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0a52f5c9-88c3-4bf0-ab85-c426c0048e74" ipa="/ˈdaʊ/" vi_ipa="đao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47a640ba-12f4-47d0-ae04-942cd0aebab7" type="Noun">
+          <Vi>chốt, chốt định vị, chốt cố định</Vi>
+          <En>A cylindrical pin used to align or secure two parts, especially in machinery or assembly</En>
+          <Example>The two metal plates were held together by a steel dow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="571bb806-eef4-4d41-8015-cfe18314fb84">
+              <Vi>Sử dụng chốt định vị để căn chỉnh lỗ khoan trên hai tấm kim loại trước khi bắt vít.</Vi>
+              <En>Using a dow to align holes in two metal plates before drilling and screwing.</En>
+            </Situation>
+            <Situation id="d16af698-c3d0-47e1-be10-3c67f874e10e">
+              <Vi>Thợ mộc đóng chốt gỗ vào các mối nối để tăng độ chắc chắn.</Vi>
+              <En>Carpenters insert wooden dowels into joints to increase stability.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
