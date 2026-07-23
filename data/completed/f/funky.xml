@@ -1,0 +1,60 @@
+<Vocab id="7867e9b8-6d66-42e0-ac28-442a601ec2bc" word="funky" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+    <Topic id="37509c8e-c6b5-4f72-9e16-69e935f44437" value="Art &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d8d6262-bfca-44ab-8355-56426689b9bc" ipa="/ˈfʌŋ.ki/" vi_ipa="fan-ki">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7002b917-7b1b-4fd2-b550-d01250d3252f" type="Adjective">
+          <Vi>hơi cũ, hơi thối, có mùi hôi (thường nói về đồ cũ, đồ trong nhà kho, v.v.)</Vi>
+          <En>slightly old, musty, or having a stale or musty smell (often used for old items, storage spaces, etc.)</En>
+          <Example>The old basement smelled funky after the flood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb38f190-c066-49e7-992a-b90e316d69cd">
+              <Vi>Mô tả mùi hôi khó chịu trong phòng kín hoặc đồ lâu ngày không sử dụng.</Vi>
+              <En>Describing an unpleasant, stale odor in a closed room or unused items.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e45a0217-45db-4b1b-8486-98c10c5285b7" type="Adjective">
+          <Vi>độc đáo, kỳ lạ, cá tính mạnh, thường mang tính nghệ thuật hoặc phong cách nổi bật</Vi>
+          <En>unconventional, quirky, or stylish in an unusual or bold way—often artistic or expressive</En>
+          <Example>She wore a funky hat with neon feathers and mismatched sunglasses.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c67a27ea-f9d1-48c0-9381-bf61b9019633">
+              <Vi>Mô tả phong cách thời trang nổi bật, phá cách, đầy cá tính.</Vi>
+              <En>Describing bold, unconventional fashion choices that stand out.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d82fd076-efaa-4116-a45b-455ed333bd7a" type="Adjective">
+          <Vi>(âm nhạc) mang phong cách funk: nhịp mạnh, lặp lại, dễ nhún nhảy</Vi>
+          <En>(of music) characteristic of funk: featuring strong, syncopated rhythms and repetitive grooves that encourage dancing</En>
+          <Example>The band played a funky bassline that got everyone moving.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8016b0ff-8157-4ea5-9c6b-7d09225a8f19">
+              <Vi>Mô tả âm nhạc sôi động, phù hợp để nhảy, đặc trưng của thể loại funk.</Vi>
+              <En>Describing energetic, danceable music typical of the funk genre.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

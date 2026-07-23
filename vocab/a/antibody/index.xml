@@ -1,0 +1,40 @@
+<Vocab id="aaef0354-c3cf-46a2-a6fb-6ccc2732681b" word="antibody" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="86103626-498b-4cd8-aae9-ea4acbbb21ab" value="Immunologist" />
+    <Profession id="2e62d299-7618-4cd0-9d59-e94222d1f812" value="Medical Doctor" />
+    <Profession id="e5dad9a4-d273-4367-85aa-bed6eb8a6b2b" value="Biomedical Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7cb82180-1996-486e-85f3-b8ab7722f7af" ipa="/ˈæn.tɪ.bɑː.dɪ/" vi_ipa="an-ti-bô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c9618ee7-378b-4725-8250-cef384a82e8c" type="Noun">
+          <Vi>kháng thể</Vi>
+          <En>A protein produced by the immune system that identifies and neutralizes foreign objects like bacteria and viruses.</En>
+          <Example>Monoclonal antibodies are used in targeted cancer therapies to bind specifically to tumor cells.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6ede99c-8951-4b20-8296-ef4ec9c5d102">
+              <Vi>Một loại protein trong máu giúp cơ thể chống lại vi khuẩn và virus.</Vi>
+              <En>A Y-shaped protein in the blood that recognizes and binds to specific antigens to help eliminate pathogens.</En>
+            </Situation>
+            <Situation id="e2928e3c-d116-4756-ae35-6a5c571a7dbd">
+              <Vi>Được tạo ra bởi tế bào B trong phản ứng miễn dịch thích nghi.</Vi>
+              <En>Produced by B cells during the adaptive immune response to combat specific pathogens.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
