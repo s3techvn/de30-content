@@ -1,0 +1,41 @@
+<Vocab id="683e21a7-b591-48c8-a215-e397451fe3d6" word="recording" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="da0fde8b-e353-4d73-a300-3820394393e9" value="Podcaster" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" value="Sound Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ab01f492-e207-4d56-b32f-d5fd123025cc" ipa="/rɪˈkɔːr.dɪŋ/" vi_ipa="rị-cợ-đình">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="265c73ee-4c7b-4b12-a8a0-36f3beb4f744" type="Noun">
+          <Vi>Bản ghi âm; quá trình ghi âm</Vi>
+          <En>A sound or performance that has been recorded, especially on audio or video media.</En>
+          <Example>The band released a live recording of their concert last weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8393be2f-e48c-49a5-bb5b-8fbbba67d13b">
+              <Vi>Nghe lại một buổi biểu diễn âm nhạc đã được lưu lại.</Vi>
+              <En>Listening to a preserved performance, such as a concert or interview.</En>
+            </Situation>
+            <Situation id="b412b1c9-c3e0-492d-a2ea-d47687e11396">
+              <Vi>Chỉnh sửa hoặc phát hành bản ghi âm trong phòng thu.</Vi>
+              <En>Editing or distributing audio captured during a studio session.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
