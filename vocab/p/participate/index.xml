@@ -1,0 +1,40 @@
+<Vocab id="bec7c119-b66b-4b8e-b219-742e68ffa6aa" word="participate" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" value="Team Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="46743f78-abab-4127-b2f9-fcdc5ece9e08" ipa="/ˈpɑːr.təs.ɪ.peɪt/" vi_ipa="pác-tờ-si-pê-it">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e5e82d9f-8acd-4ee7-bf86-a0cc3ff9d48c" type="Verb">
+          <Vi>tham gia, tham dự</Vi>
+          <En>to take part in an activity, event, or process</En>
+          <Example>Students are encouraged to participate in extracurricular activities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51e2eda3-340c-4c6c-96b1-e546bbb2c992">
+              <Vi>Một người tham gia vào một hoạt động chung hoặc sự kiện.</Vi>
+              <En>A person joins or takes part in a shared activity or event.</En>
+            </Situation>
+            <Situation id="7185d124-8d28-4e4e-9a6d-eb70ebe8ee1f">
+              <Vi>Tham gia thảo luận, bỏ phiếu, hoặc đóng góp ý kiến trong nhóm.</Vi>
+              <En>Joining a discussion, voting, or contributing ideas in a group setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

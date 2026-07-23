@@ -1,0 +1,40 @@
+<Vocab id="c90a4f1f-8411-4513-a55c-a3445059fd2b" word="minimize" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6ee6e3eb-f3b4-4ce7-85e8-6d20f0bbc500" ipa="/ˈmɪn.əˌzaɪːm/" vi_ipa="mih-nih-zahy-m">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1261638b-694b-48df-a03f-aa5625b7eb02" type="Verb">
+          <Vi>giảm thiểu, làm nhỏ nhất có thể</Vi>
+          <En>to reduce something to the smallest possible amount, degree, or size</En>
+          <Example>The company aims to minimize waste in its production process.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="539ee639-333e-473e-9adf-c8d48387ec6d">
+              <Vi>Trong kinh doanh, doanh nghiệp cố gắng giảm thiểu chi phí và rủi ro.</Vi>
+              <En>In business, a company tries to reduce costs and risks as much as possible.</En>
+            </Situation>
+            <Situation id="6fab38fe-fcee-493b-ae54-7fb58977e459">
+              <Vi>Khi lập trình, lập trình viên cố gắng giảm thiểu thời gian thực thi.</Vi>
+              <En>In programming, developers try to minimize execution time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
