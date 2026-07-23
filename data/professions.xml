@@ -726,4 +726,5 @@
   <Profession id="0f912e1c-2dc9-4255-9a8a-746fa0d2bdf5" slug="procurement-officer" value="Procurement Officer" />
   <Profession id="77de61cc-4e22-42e6-b269-ed6b89b6f489" slug="academic-writer" value="Academic Writer" />
   <Profession id="151e0cbd-27cb-4f19-b648-a3108a965a85" slug="radiologist" value="Radiologist" />
+  <Profession id="ebbf464e-8b28-437e-a6df-60676ba4be10" slug="property-manager" value="Property Manager" />
 </Professions>
