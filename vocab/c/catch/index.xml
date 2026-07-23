@@ -1,0 +1,76 @@
+<Vocab id="f82aefaa-3b86-4ce6-9aec-7b0b3d5e4395" word="catch" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="b90ace89-b507-47cd-b7f4-8321226b8307" value="Baseball Player" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="905c92fc-8437-4e62-889b-3c59fb1a5d78" ipa="/kætʃ/" vi_ipa="cát-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c80671e0-a070-4d52-b8fa-db0f0ef6bb8d" type="Verb">
+          <Vi>bắt, chụp, bắt kịp</Vi>
+          <En>to seize or capture something, especially with the hands; to take hold of something suddenly or unexpectedly</En>
+          <Example>She managed to catch the ball before it hit the ground.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66ad42cd-dd9c-4165-893c-b357a6689236">
+              <Vi>Trong thể thao, người chơi dùng tay để bắt bóng hoặc đối thủ.</Vi>
+              <En>In sports, a player uses their hands to seize a ball or opponent.</En>
+            </Situation>
+            <Situation id="72983361-dbc6-48b2-bdfb-930bdc585b1d">
+              <Vi>Trong giao tiếp, bắt kịp thông tin hoặc kịp thời phản ứng.</Vi>
+              <En>In conversation, to keep up with information or respond promptly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c91bef63-fc6f-4158-a363-8eabedf4eb4b" type="Verb">
+          <Vi>hiểu, nắm được (ý nghĩa, vấn đề)</Vi>
+          <En>to understand or grasp something, especially after some effort or delay</En>
+          <Example>I didn’t catch the joke at first, but then it made me laugh.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fcfc3f9-140b-4560-a398-dbbfaee7f349">
+              <Vi>Trong lớp học, học sinh không kịp hiểu ngay lập tức.</Vi>
+              <En>In a classroom, a student doesn’t immediately understand a concept.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fe8395a9-3177-4236-b556-db33d2d7b636" type="Verb">
+          <Vi>bị mắc kẹt, bị ảnh hưởng tiêu cực (bởi điều gì đó)</Vi>
+          <En>to become involved in an unpleasant or difficult situation; to be affected by something undesirable</En>
+          <Example>We got caught in heavy traffic and arrived late.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="86d11ac3-4c94-431a-a4ea-7d9a4e8448fc">
+              <Vi>Trong giao thông, bị kẹt xe hoặc gặp trở ngại bất ngờ.</Vi>
+              <En>In traffic, being stuck due to congestion or unexpected delays.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="76c369f9-ef44-423e-beaa-f2a67e84a559" type="Noun">
+          <Vi>lượt bắt (trong thể thao), phần bắt được, điều bắt được</Vi>
+          <En>an instance of catching something; something that is caught, especially in sports or fishing</En>
+          <Example>The fisherman celebrated his first catch of the day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="564883b2-bf2a-4b59-90f5-b140aed70c90">
+              <Vi>Trong đánh bắt cá, sản lượng cá thu được trong một lần.</Vi>
+              <En>In fishing, the quantity of fish caught in one attempt.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
