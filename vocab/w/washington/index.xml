@@ -1,0 +1,48 @@
+<Vocab id="32194aac-caf0-454a-aa02-8825dbd635f8" word="washington" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba151dc9-c92d-470f-bb1e-91dbe4b1f09a" ipa="/ˈwɑː.ɪŋ.tən/" vi_ipa="Oát-ting-tơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="105a2256-605c-480d-94ed-8aa47fc69125" type="Proper Noun">
+          <Vi>Washington (tên riêng), tên gọi của tiểu bang ở tây bắc Hoa Kỳ hoặc thành phố thủ đô của Hoa Kỳ</Vi>
+          <En>Washington: a U.S. state in the Pacific Northwest, or the capital city of the United States</En>
+          <Example>She moved from Seattle to Washington, D.C. last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df021b66-63b7-4d69-8e4a-707168a71a31">
+              <Vi>Trong ngữ cảnh địa lý hoặc du lịch, đề cập đến tiểu bang Washington hoặc Washington, D.C.</Vi>
+              <En>In geographical or travel contexts, referring to the state of Washington or Washington, D.C.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2669cca4-e1c0-49d2-ae5a-ac2d89c4f781" type="Proper Noun">
+          <Vi>George Washington – Tổng thống đầu tiên của Hoa Kỳ</Vi>
+          <En>George Washington: the first president of the United States</En>
+          <Example>George Washington is often called the "Father of His Country."</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea015f8f-e7a9-4537-a148-7468bc584d0a">
+              <Vi>Khi nói về lịch sử Hoa Kỳ, đặc biệt trong giáo dục hoặc bảo tàng.</Vi>
+              <En>When discussing U.S. history, especially in educational or museum contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
