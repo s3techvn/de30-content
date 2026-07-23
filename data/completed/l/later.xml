@@ -1,0 +1,36 @@
+<Vocab id="07e452c6-9760-40fc-9717-93dad0027530" word="later" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d286719b-20a2-4a1e-9d5d-93d08f60dac1" ipa="/ˈleɪ.tər/" vi_ipa="lây-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2b51528e-9767-4d18-ad0e-03ec84eec95f" type="Adverb">
+          <Vi>Sau này; sau đó; muộn hơn</Vi>
+          <En>At a future time; after the present or a specified time; more late.</En>
+          <Example>I’ll call you later this afternoon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b56dbe9a-fdef-4c78-9b6f-bfb66572d2e2">
+              <Vi>Thể hiện việc làm gì đó sẽ xảy ra vào một thời điểm trong tương lai gần hoặc chưa xác định rõ.</Vi>
+              <En>Used to indicate that something will happen at some future time, often soon or unspecified.</En>
+            </Situation>
+            <Situation id="e0ccfb32-a44b-454d-affd-d9f5d5e5fb62">
+              <Vi>Dùng trong giao tiếp hàng ngày để trì hoãn hoặc đề xuất gặp lại.</Vi>
+              <En>Used informally to delay or suggest meeting again at a later time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

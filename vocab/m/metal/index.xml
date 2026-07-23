@@ -1,0 +1,53 @@
+<Vocab id="aadfcf7b-e170-4a9a-8952-4f9adbd3d654" word="metal" type="short" status="done">
+  <Topics>
+    <Topic id="102237ab-dd5a-4186-8524-446605512e24" value="Science and Engineering" />
+    <Topic id="8dda0897-4bed-4eb4-aca8-d2a92b7bb011" value="Manufacturing" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="ecf69b14-0d8f-4211-bb8a-29450207841e" value="Blacksmith" />
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e9c6a8b9-4a0f-4eeb-86f0-0fd42496a4b0" ipa="/ˈmet.əl/" vi_ipa="mét-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="537555d0-cb8c-486d-88fa-3e2939459e60" type="Noun">
+          <Vi>Vật liệu kim loại; kim loại (dạng nguyên chất hoặc hợp kim)</Vi>
+          <En>A solid material that is typically hard, shiny, malleable, and a good conductor of heat and electricity, such as iron, copper, or aluminum.</En>
+          <Example>The blacksmith heated the iron until it became soft enough to shape into a horseshoe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6c24264-9ae4-4f41-9d8e-832dbf0ed0a7">
+              <Vi>Mô tả các vật làm từ sắt, đồng, nhôm, v.v. trong sản xuất công nghiệp hoặc thủ công.</Vi>
+              <En>Referring to materials like iron, copper, or gold used in construction, manufacturing, or art.</En>
+            </Situation>
+            <Situation id="3619b9f3-7764-4192-bdb9-bc322becac1f">
+              <Vi>Trong âm nhạc: chỉ nhạc cụ gõ kim loại như cymbal, triangle, hoặc phần nhạc gõ trong ban nhạc.</Vi>
+              <En>In music: refers to percussion instruments made of metal, such as cymbals, triangles, or metal parts of a drum kit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f9e6e30b-4708-48ed-8811-4d433fa7b993" type="Noun">
+          <Vi>Người có tính cách cứng rắn, kiên cường (thường dùng trong cụm "man of metal")</Vi>
+          <En>A person who is extremely resilient, disciplined, or unyielding in character.</En>
+          <Example>She’s a woman of metal—calm under pressure and relentless in pursuit of her goals.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0cfa64ae-1f8e-4d9b-9201-ce1af6a715ef">
+              <Vi>Mô tả một người có nghị lực phi thường, không lay chuyển trước khó khăn.</Vi>
+              <En>Used metaphorically to describe someone with extraordinary mental or emotional strength.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
