@@ -674,4 +674,5 @@
   <Profession id="376dec68-df5c-4d4b-b021-7261955f00df" slug="shoemaker" value="Shoemaker" />
   <Profession id="35545602-89a5-4006-9676-7616c9e49241" slug="theater-artist" value="Theater Artist" />
   <Profession id="92e8ce00-b6ab-4ccc-9392-cba47d33932b" slug="science-educator" value="Science Educator" />
+  <Profession id="c6dcfbfc-54b3-4d97-bea0-7f9a4a95396a" slug="food-producer" value="Food Producer" />
 </Professions>

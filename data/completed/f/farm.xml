@@ -1,0 +1,56 @@
+<Vocab id="8ccb915e-e21b-4ed2-8776-e93d134431e5" word="farm" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="011e02e1-d229-45b2-bc6e-2894536a4b39" value="Agricultural Worker" />
+    <Profession id="c6dcfbfc-54b3-4d97-bea0-7f9a4a95396a" value="Food Producer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b842f9d4-1093-4845-882a-33f7457d0717" ipa="/fɑːrm/" vi_ipa="phăm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="66040c17-f04a-4921-8bed-6ec594e0a2ee" type="Noun">
+          <Vi>Trang trại; nông trại</Vi>
+          <En>A piece of land used for growing crops or raising animals, typically operated as a business.</En>
+          <Example>They bought a small farm in the countryside to raise chickens and grow vegetables.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a459a27-1993-49c9-8de7-e58befebf274">
+              <Vi>Mô tả một khu đất được sử dụng để trồng trọt hoặc chăn nuôi.</Vi>
+              <En>Describing land dedicated to agricultural production.</En>
+            </Situation>
+            <Situation id="647314cb-d67e-4a2b-9056-bc0e8e2d16aa">
+              <Vi>Chỉ nơi sinh sống và làm việc của nông dân.</Vi>
+              <En>Referring to the residence and workplace of farmers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9deb4b9f-a1e7-40a7-a929-dd98a61bcc7e" type="Verb">
+          <Vi>Trồng trọt; chăn nuôi (trên trang trại)</Vi>
+          <En>To grow crops or raise animals on a farm.</En>
+          <Example>He farms corn and soybeans on 200 acres of land.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="209d2de5-2a65-4269-a26e-0cfe2d4b4b27">
+              <Vi>Hành động canh tác hoặc chăn nuôi để sản xuất nông nghiệp.</Vi>
+              <En>The act of cultivating crops or raising livestock for commercial or personal use.</En>
+            </Situation>
+            <Situation id="28f69079-1986-4c94-9688-df878c64d068">
+              <Vi>Mô tả hoạt động làm việc hàng ngày của nông dân.</Vi>
+              <En>Describing daily agricultural labor performed by a farmer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
