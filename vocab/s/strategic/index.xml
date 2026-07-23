@@ -1,0 +1,40 @@
+<Vocab id="8557af66-b432-46aa-80f8-4ae6758ec63c" word="strategic" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="629e0b12-145a-44ab-a5b2-b40fa2c3ff59" value="Planning" />
+  </Topics>
+  <Professions>
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="b65f8485-e4cb-41b4-b6aa-2e9aef8ba570" value="Strategic Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a6fc2237-7fc9-4042-8320-7de0dcc0b29c" ipa="/strəˈteɪ.dʒɪk/" vi_ipa="sờ-trờ-tê-i-gíc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="36e46cfd-65f1-4432-a2e8-2fe72bc5d461" type="Adjective">
+          <Vi>thuộc chiến lược; có tính chiến lược; mang tính chiến lược</Vi>
+          <En>relating to the planning and direction of overall strategy, especially in military, political, or business contexts</En>
+          <Example>They developed a long-term strategic plan to increase market share.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5a32520-bdda-4540-8370-6944c58f9381">
+              <Vi>Một quyết định quan trọng được đưa ra dựa trên phân tích dài hạn và mục tiêu tổng thể.</Vi>
+              <En>A key decision is made based on long-term analysis and overarching goals.</En>
+            </Situation>
+            <Situation id="6fcaefc4-34a0-4b87-8572-02a0e3e05689">
+              <Vi>Trong quân sự, vị trí địa lý có thể có giá trị chiến lược cao.</Vi>
+              <En>In military terms, a geographic location may hold high strategic value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
