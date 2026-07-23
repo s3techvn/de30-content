@@ -1,0 +1,56 @@
+<Vocab id="9e885e39-ea54-4986-94cf-46cc408685fa" word="rotation" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" value="Agricultural Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a7fc0ad6-27d7-44d6-a4d1-5a0a94a9a564" ipa="/roʊˈteɪ.ʃən/" vi_ipa="rơ-tê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="975cf525-6afe-4c30-8224-200571f95178" type="Noun">
+          <Vi>Quay vòng; sự xoay tròn</Vi>
+          <En>The action of rotating around an axis or center.</En>
+          <Example>The Earth's rotation around its axis takes approximately 24 hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fdc2786f-ea22-4178-abc9-27db0ac11dfe">
+              <Vi>Mô tả chuyển động quay của một vật thể quanh một trục cố định.</Vi>
+              <En>Describing the motion of a body turning around a fixed axis.</En>
+            </Situation>
+            <Situation id="cc42d7b5-e3b7-4758-b112-23728c99a8e9">
+              <Vi>Trong thể thao, chỉ động tác xoay người để tạo lực hoặc thay đổi hướng.</Vi>
+              <En>In sports, refers to the body-spinning motion to generate power or change direction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e0b2ea79-0e0b-40f6-bd5f-4a9ae9d8397f" type="Noun">
+          <Vi>Sự luân phiên; lịch luân phiên</Vi>
+          <En>The regular or habitual alternation of people or things in a sequence or schedule.</En>
+          <Example>The teacher implemented a rotation system so each student gets a turn to lead the class.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d70157d4-29d7-464d-86ca-45654a2c6ced">
+              <Vi>Trong công việc, chỉ việc phân công luân phiên ca làm việc hoặc nhiệm vụ.</Vi>
+              <En>In the workplace, refers to scheduling staff in rotating shifts or duties.</En>
+            </Situation>
+            <Situation id="f154dbd6-8af6-4f38-a7d0-faa0ebec56b1">
+              <Vi>Trong nông nghiệp, chỉ việc luân canh các loại cây trồng để giữ độ màu mỡ của đất.</Vi>
+              <En>In agriculture, refers to crop rotation to maintain soil fertility.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
