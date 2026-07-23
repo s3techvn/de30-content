@@ -1,0 +1,40 @@
+<Vocab id="f9a94011-2660-41c5-9ee0-77a88ed4e3ec" word="fascinating" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="96807a59-4128-464c-bb3d-d134c3e76b93" ipa="/ˈfæs.ə.neɪ.tɪŋ/" vi_ipa="phà-xi-nê-ting">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7314d65d-5f18-482a-bd0b-20aeb58d8e28" type="Adjective">
+          <Vi>thú vị, hấp dẫn, làm say mê</Vi>
+          <En>extremely interesting or appealing, especially in a way that holds one's attention completely.</En>
+          <Example>The documentary was fascinating—its revelations about deep-sea ecosystems kept me glued to the screen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="960dec0d-dbc6-4c2a-b23f-53c465acc7da">
+              <Vi>Mô tả một trải nghiệm, nội dung, hoặc chủ đề khiến người nghe/đọc thực sự tò mò và không thể rời mắt.</Vi>
+              <En>Describing an experience, content, or topic that deeply engages and captivates someone’s interest.</En>
+            </Situation>
+            <Situation id="f1835e09-1816-47ec-9116-28c21b070cbb">
+              <Vi>Dùng khi khen ngợi một bài thuyết trình, cuốn sách, hoặc câu chuyện có tính độc đáo và lôi cuốn cao.</Vi>
+              <En>Used to praise a presentation, book, or story that is unusually original and captivating.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
