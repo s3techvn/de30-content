@@ -1,0 +1,40 @@
+<Vocab id="0e06edf7-0c28-47fc-8ba9-d16fa4829968" word="portable" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a1118988-d791-4c0a-8b5f-c6a1de5126e4" value="Freelancer" />
+    <Profession id="94c3e3e2-4bd3-4f82-953d-f59b0ad69086" value="Traveler" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5feac0f3-9c23-4d6b-aaab-9edd249904cc" ipa="/ˈpɔːr.tə.bəl/" vi_ipa="póp-tờ-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ae36bd98-eb6c-4e18-b586-af2205d9a139" type="Adjective">
+          <Vi>Có thể mang theo; xách tay; di động</Vi>
+          <En>Capable of being carried or moved easily; designed to be moved from one place to another.</En>
+          <Example>This lightweight laptop is highly portable and ideal for remote work.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5f374c34-fd97-4ae5-9554-2b9890a19a53">
+              <Vi>Mô tả thiết bị điện tử nhỏ gọn, dễ mang theo khi di chuyển.</Vi>
+              <En>Describing compact electronic devices that are easy to carry during travel or work on the go.</En>
+            </Situation>
+            <Situation id="45a8feeb-ff3e-4369-aba1-e7deda16fbd0">
+              <Vi>Mô tả lều, ghế, hoặc dụng cụ du lịch có thể gấp gọn và vận chuyển thuận tiện.</Vi>
+              <En>Describing camping gear such as tents or chairs that fold compactly for transport.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
