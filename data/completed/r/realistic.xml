@@ -1,0 +1,40 @@
+<Vocab id="5d02f5ef-05d5-4d52-95dc-d02133f1a457" word="realistic" type="short" status="done">
+  <Topics>
+    <Topic id="7d82eff7-c46e-466d-9856-de8a5d400d52" value="Arts and Media" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f1d11d3-86d0-4128-94a3-b3bef1bc9d92" ipa="/ˌriːəˈlɪstɪk/" vi_ipa="ri-ơ-lít-tích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1520be33-2404-4276-82cb-b81d1d4ccfcf" type="Adjective">
+          <Vi>thực tế, hợp lý, gần với thực tế</Vi>
+          <En>representing things in a way that is accurate and appropriate to real life; showing things as they actually are</En>
+          <Example>The film’s realistic portrayal of war made many viewers deeply emotional.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3c27dd0-d33e-48ff-8475-cc0f98d3406f">
+              <Vi>Mô tả một tác phẩm nghệ thuật hoặc tình huống có độ chân thực cao, không phóng đại hay idealize.</Vi>
+              <En>Describing a work of art or situation that is highly faithful to real life, without exaggeration or idealization.</En>
+            </Situation>
+            <Situation id="dc1f1538-82b6-4f7f-aa21-651abad3d25f">
+              <Vi>Dùng để đánh giá kỳ vọng hoặc kế hoạch có tính khả thi cao.</Vi>
+              <En>Used to assess expectations or plans that are highly feasible and grounded in reality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

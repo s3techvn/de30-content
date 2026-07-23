@@ -1,0 +1,82 @@
+<Vocab id="f387d79a-56ae-450d-8781-ca3055592f12" word="index" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="05532446-0078-40b5-835d-ec6c790e0179" value="Publishing" />
+  </Topics>
+  <Professions>
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9ee409b3-c159-455b-be44-4d91c5f2e81e" ipa="/ˈɪn.deks/" vi_ipa="in-đéc-xờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0fac10ee-f019-4a49-9b6c-5a38bf30d7c7" type="Noun">
+          <Vi>Danh mục có hệ thống; chỉ mục; chỉ số</Vi>
+          <En>A list of topics, names, or items, typically found at the back of a book, that directs the reader to where specific information appears.</En>
+          <Example>The book includes a detailed index to help readers locate key concepts quickly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bb6f2b1-b95e-43f8-90e0-34b97f008c35">
+              <Vi>Tra cứu thông tin trong sách tham khảo qua chỉ mục ở cuối cuốn sách.</Vi>
+              <En>Looking up information in a reference book using the index at the back.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="21994433-37a0-453e-86d4-bac55842b10a" type="Noun">
+          <Vi>Chỉ số (toán học, thống kê)</Vi>
+          <En>A numerical or symbolic figure that represents a statistical or mathematical relationship, such as a price index or exponent.</En>
+          <Example>The consumer price index (CPI) is used to track inflation over time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a0c9d166-f53c-4600-8a25-f110ed4eff89">
+              <Vi>Phân tích dữ liệu kinh tế bằng các chỉ số như CPI hay GDP deflator.</Vi>
+              <En>Analyzing economic data using indices such as CPI or GDP deflator.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="cc186148-c36f-4816-90b0-e851e3883549" ipa="/ɪnˈdeks/" vi_ipa="in-đéc-xờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eb502b5c-074f-4970-9fc0-aa6e93cf1727" type="Verb">
+          <Vi>Đưa vào chỉ mục; lập chỉ mục</Vi>
+          <En>To add (something) to an index, especially to list (a name, term, or concept) in an alphabetical index.</En>
+          <Example>The editor indexed all the key terms in the textbook for easier reference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de943a30-b245-4243-9a5e-ec0409d72b28">
+              <Vi>Chỉ mục hóa các mục trong cơ sở dữ liệu để tìm kiếm nhanh hơn.</Vi>
+              <En>Indexing entries in a database to enable faster search and retrieval.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="251e4c00-f757-4c49-8757-8376f499afa4" type="Verb">
+          <Vi>Chỉ định (chỉ số) cho một biến trong lập trình</Vi>
+          <En>To assign or use an index to access an element in an array or list in programming.</En>
+          <Example>In Python, you can index a list using square brackets, like my_list[0].</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c9c0d0e-38f6-48f1-89c1-c942823039f5">
+              <Vi>Lập trình truy cập phần tử trong mảng bằng chỉ số.</Vi>
+              <En>Programming to access array elements using indices (e.g., arr[i]).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
