@@ -1,0 +1,64 @@
+<Vocab id="35876594-b956-4310-8f98-d413fe614fd1" word="elevation" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="47837523-0a96-494b-a4ae-2ac63dc0256c" ipa="/ˌel.əˈveɪ.ʃən/" vi_ipa="e-lơ-vê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a0622bc-6170-4033-a189-ac0a379faea6" type="Noun">
+          <Vi>Độ cao; độ cao tuyệt đối (so với mực nước biển)</Vi>
+          <En>The height of a place or object above sea level or the ground.</En>
+          <Example>The elevation of Denver is about 1,600 meters, which affects its climate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d27d8334-2f95-43f4-83cf-42effd214525">
+              <Vi>Đo độ cao của một ngọn núi hoặc thành phố khi lập bản đồ địa lý.</Vi>
+              <En>Measuring the height of a mountain or city for geographic mapping.</En>
+            </Situation>
+            <Situation id="580941df-689d-41a6-89cb-548bb05901fb">
+              <Vi>Nhà xây trên nền cao để tránh ngập lụt, với độ cao nền là 2 mét.</Vi>
+              <En>The house is built on an elevated foundation of 2 meters to avoid flooding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5e028576-69bb-406d-ae21-3efb949d9148" type="Noun">
+          <Vi>Sự nâng cao; sự thăng chức; sự thăng tiến</Vi>
+          <En>The action or process of raising someone to a higher position or rank.</En>
+          <Example>His elevation to CEO was announced at the annual shareholders meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dee1d1b2-2323-4dc6-9138-ff598d93c32b">
+              <Vi>Sự thăng chức của một nhân viên sau nhiều năm cống hiến.</Vi>
+              <En>The promotion of an employee after years of dedicated service.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4855ebd3-a355-4615-8fa9-7d1c04656667" type="Noun">
+          <Vi>(Kiến trúc) Bản vẽ mặt đứng; mặt cắt đứng</Vi>
+          <En>A two-dimensional drawing showing the external view of a building or structure.</En>
+          <Example>The architect presented the elevation of the new museum to the city council.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71b2941b-fd49-4644-b012-3526c5c3598a">
+              <Vi>Khi thiết kế nhà, kiến trúc sư thường trình bày cả mặt bằng và mặt đứng.</Vi>
+              <En>When designing a house, architects usually present both floor plans and elevations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

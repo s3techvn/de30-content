@@ -1,0 +1,32 @@
+<Vocab id="e542fca3-debc-4f49-a94b-b80aa7dc60e3" word="andrew" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e05e3949-90ff-4f78-bfb2-1e562a7baebf" ipa="/ˈænd.ruː/" vi_ipa="an-điu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6985310e-4fc6-4a0b-83af-edce93140a23" type="Proper Noun">
+          <Vi>Tên riêng: Andrew</Vi>
+          <En>A male given name of Greek origin, meaning “manly” or “brave”.</En>
+          <Example>Andrew is the younger brother of Queen Elizabeth II.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bf1951f-9a07-48ec-9a1e-3eeca3d133bb">
+              <Vi>Dùng để gọi một người nam có tên Andrew, phổ biến ở các nước nói tiếng Anh.</Vi>
+              <En>Used to refer to a man named Andrew, common in English-speaking countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
