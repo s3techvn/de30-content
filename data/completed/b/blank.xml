@@ -1,0 +1,68 @@
+<Vocab id="38f165b4-bdbe-4b31-b8b3-0e0a70e7a8ba" word="blank" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d57fa76f-b3c7-45bc-9a72-a041100ed132" ipa="/blæŋk/" vi_ipa="b-lăng-k">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f692129-b768-44d7-bc93-79aebd27a872" type="Adjective">
+          <Vi>trống rỗng, không có nội dung; trống, chưa điền</Vi>
+          <En>having no content, writing, or marks; empty or unfilled</En>
+          <Example>The student left the answer blank on the test.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bffa94f-23d9-40dc-b583-cd7dd8cfbb3b">
+              <Vi>Một tờ giấy hoặc biểu mẫu chưa được điền thông tin.</Vi>
+              <En>A sheet of paper or form that has not been filled in with information.</En>
+            </Situation>
+            <Situation id="422a663e-f3b5-40e2-94a7-d9d96cf07555">
+              <Vi>Một câu trả lời không có nội dung hoặc bị bỏ trống.</Vi>
+              <En>A response that contains no information or is left unanswered.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e08c3472-0694-45d8-9d6a-d8fda0b1eb0b" type="Noun">
+          <Vi>mẫu trống; khoảng trống; mặt sau của一张 thẻ (trong bài kiểm tra)</Vi>
+          <En>a form or document with spaces to be filled in; an empty space or area</En>
+          <Example>Please fill out the blank and submit it by Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e8367a0-3e9d-4e11-a50b-e029dd06fda2">
+              <Vi>Học sinh điền vào ô trống trong bài kiểm tra.</Vi>
+              <En>Students fill in the blanks on a test.</En>
+            </Situation>
+            <Situation id="4df1b6b2-06ab-44c9-858a-f6ca08fea945">
+              <Vi>Mặt sau của thẻ ghi âm (trong hệ thống kiểm tra nói) dùng để ghi âm phản hồi.</Vi>
+              <En>The reverse side of an audio card used for recording responses in a speaking test.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2bd73be7-d788-45f5-a448-d78f0f8b9e44" type="Verb">
+          <Vi>điền vào chỗ trống; làm trống (một số thứ)</Vi>
+          <En>to fill in a blank space, especially on a form or document</En>
+          <Example>She quickly blanked out her name and address on the application.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="753bad97-973f-43af-be4d-7846768a96cc">
+              <Vi>Điền thông tin cá nhân vào mẫu đơn.</Vi>
+              <En>Filling in personal details on an official form.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
