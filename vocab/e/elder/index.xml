@@ -1,0 +1,66 @@
+<Vocab id="a11da7ba-6703-42ab-94ea-3df4e24ebc87" word="elder" type="short" status="done">
+  <Topics>
+    <Topic id="894a06d9-21b0-4fb0-9b05-0cc2f6fd776d" value="Family &amp; Social" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="e5b9782f-50ec-4e55-a0f4-1f0c4f34b9ad" value="Healthcare Provider" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e0ff00fa-8eaa-41eb-9051-a34a686025b4" ipa="/ˈel.dər/" vi_ipa="e-l-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89172609-dbcb-4534-bff8-1c6fea541db8" type="Adjective">
+          <Vi>già hơn, lớn tuổi hơn (thường dùng để chỉ người trong cùng gia đình hoặc nhóm tuổi)</Vi>
+          <En>older, especially used to compare two people in the same family or group, typically implying respect.</En>
+          <Example>My elder sister is a doctor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57e06fef-1915-4539-9da2-f1a197c98884">
+              <Vi>Để chỉ người anh/chị/em ruột lớn tuổi hơn.</Vi>
+              <En>Used to refer to an older sibling in a family context.</En>
+            </Situation>
+            <Situation id="d92e3bdf-a424-4b7b-9351-a96d886f2e24">
+              <Vi>Trong văn phong trang trọng, để tôn vinh người lớn tuổi hơn.</Vi>
+              <En>In formal contexts, to honor someone older, especially in hierarchical or traditional settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c30e7598-d038-4a9b-a847-e5ddf794698e" ipa="/ˈel.dər/" vi_ipa="e-l-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8331497d-46d0-4629-b3af-a8317c87913b" type="Noun">
+          <Vi>người lớn tuổi (đặc biệt trong cộng đồng, tôn giáo hoặc tổ chức)</Vi>
+          <En>An older person, especially one who holds a position of authority or respect in a community, religious group, or organization.</En>
+          <Example>The village elders met to discuss the new development project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37ef1626-cbf8-4db2-b2a1-ce818154da77">
+              <Vi>Trong các cộng đồng bản địa hoặc truyền thống, người lớn tuổi có vai trò lãnh đạo hoặc tư vấn.</Vi>
+              <En>In traditional or indigenous communities, older members who serve as leaders or advisors.</En>
+            </Situation>
+            <Situation id="70594af2-e961-464e-b777-c82ab9bc208c">
+              <Vi>Trong một số giáo hội (như Giáo hội Công giáo hoặc Chính Thống giáo Đông phương), chức danh dành cho linh mục có thâm niên.</Vi>
+              <En>In some churches (e.g., Catholic or Eastern Orthodox), a title for a senior priest.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

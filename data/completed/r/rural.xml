@@ -1,0 +1,40 @@
+<Vocab id="7b2a16bd-fc56-4f4a-8056-97237ac4c323" word="rural" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f59c859c-a3ba-45ce-872b-3741d9eab3bf" value="Society" />
+  </Topics>
+  <Professions>
+    <Profession id="011e02e1-d229-45b2-bc6e-2894536a4b39" value="Agricultural Worker" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5775d360-f25f-4122-90aa-9265d264fadc" ipa="/ˈrʊr.əl/" vi_ipa="rờ-rờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a710a3a9-dee3-47eb-bfd4-ffc0096d6297" type="Adjective">
+          <Vi>thuộc nông thôn; nông thôn</Vi>
+          <En>relating to, occurring in, or characteristic of the countryside or rural areas, especially as opposed to urban or metropolitan areas.</En>
+          <Example>The village is a quiet, rural community surrounded by farmland.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15033c20-d936-47ff-8a28-a9d4610215e6">
+              <Vi>Mô tả môi trường sống hoặc hoạt động ở vùng nông thôn, ít dân cư, nhiều cây cối và đất canh tác.</Vi>
+              <En>Describing living conditions or activities in sparsely populated areas with open land and agriculture.</En>
+            </Situation>
+            <Situation id="fb52aeff-4a44-4269-99e2-bd43baef86d8">
+              <Vi>So sánh giữa đời sống nông thôn và thành thị.</Vi>
+              <En>Contrasting lifestyle, infrastructure, or economic activities between rural and urban settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
