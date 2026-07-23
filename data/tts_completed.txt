@@ -1222,3 +1222,4 @@ samba
 muscle
 selection
 wallpaper
+newsletter

@@ -1,0 +1,38 @@
+<Vocab id="06b571a7-ee5b-4697-a049-e445051e0579" word="newsletter" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b1c87c04-b462-4afb-928a-16d3779f699f" ipa="/ˈnuːz.leɪ.tər/" vi_ipa="nư-zây-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74b27b56-b71f-47e2-8a66-4eb2f1d7c31d" type="Noun">
+          <Vi>Bản tin định kỳ (thường do tổ chức, công ty, hoặc nhóm gửi cho thành viên/khách hàng)</Vi>
+          <En>A regularly distributed publication, typically issued by an organization or business, containing news, updates, and information for members or subscribers.</En>
+          <Example>The company sends out a monthly newsletter to keep clients informed about new product launches and industry trends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0754378a-eee2-411c-8674-fab5a6599a14">
+              <Vi>Người làm marketing gửi bản tin hàng tháng cho danh sách khách hàng đăng ký.</Vi>
+              <En>A marketing team sends a monthly newsletter to a subscribed customer list.</En>
+            </Situation>
+            <Situation id="5e074816-7eaf-4a75-88ed-de627a2e8475">
+              <Vi>Sinh viên nhận bản tin từ câu lạc bộ trường về các sự kiện sắp tới.</Vi>
+              <En>Students receive a club newsletter from their university about upcoming events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
