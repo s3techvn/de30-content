@@ -1,0 +1,41 @@
+<Vocab id="a00203f7-fa0a-4594-a27c-7e177ef03fd0" word="experimental" type="short" status="done">
+  <Topics>
+    <Topic id="a9e4bf94-f974-411d-ae8e-c87ef85ce8c5" value="Science &amp; Research" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="50c18cf5-a89e-4679-9707-bc4f7150d0f2" ipa="/ɪkˈsper.ɪ.men.təl/" vi_ipa="ích-xpờ-rim-en-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c3799b89-3412-4512-91e4-451981be7264" type="Adjective">
+          <Vi>thí nghiệm; thử nghiệm; thuộc về thí nghiệm</Vi>
+          <En>relating to, conducted with, or based on experiments; not yet proven or established</En>
+          <Example>The scientist tested an experimental drug on the first group of volunteers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ebceaa0-7b29-4017-8f26-17cef2a90e66">
+              <Vi>Mô tả một chất, phương pháp, hoặc công nghệ đang được kiểm tra trong phòng thí nghiệm hoặc thử nghiệm thực tế.</Vi>
+              <En>Describing a substance, method, or technology currently being tested in a lab or real-world setting.</En>
+            </Situation>
+            <Situation id="654b61de-f75c-4800-95dd-178fe2e51fea">
+              <Vi>Chỉ một dự án, chương trình, hoặc ý tưởng còn mới mẻ và chưa được chấp nhận rộng rãi.</Vi>
+              <En>Referring to a project, program, or idea that is novel and not yet widely accepted or proven.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
