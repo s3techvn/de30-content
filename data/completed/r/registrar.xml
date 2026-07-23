@@ -1,0 +1,40 @@
+<Vocab id="e2432cef-e3a9-42be-9249-03bb19db07ca" word="registrar" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a9dfcbf8-812b-4d85-8d91-966abe17dfe4" value="Administration" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="7c7707bd-01e5-40ec-8cb3-3ff26d9b87e4" value="University Administrator" />
+    <Profession id="19969b4c-e8f8-4073-896a-5070c97e3926" value="Legal Clerk" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6490c91b-47e3-458d-8adf-2ceac2fabf20" ipa="/ˈrej.ɪs.trər/" vi_ipa="rít-gi-xtơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="adb3a465-0170-4c42-91d5-66761e964040" type="Noun">
+          <Vi>giám mục quản lý hồ sơ; nhân viên hành chính trường học</Vi>
+          <En>A person responsible for maintaining official records, especially in a university or court.</En>
+          <Example>The university registrar handles student enrollment and grade reporting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fbe8944a-9558-407b-93ab-81954a778d64">
+              <Vi>Học sinh đến văn phòng giám mục để đăng ký môn học hoặc xin bảng điểm.</Vi>
+              <En>A student visits the registrar's office to register for classes or request transcripts.</En>
+            </Situation>
+            <Situation id="7ce8fc0f-7bec-4600-9f4d-500201f22a70">
+              <Vi>Giám mục tổ chức và lưu trữ hồ sơ của các vụ án trong tòa án.</Vi>
+              <En>The court registrar organizes and maintains records of legal proceedings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

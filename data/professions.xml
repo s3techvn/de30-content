@@ -567,4 +567,6 @@
   <Profession id="c1ab16c7-827a-48c9-9650-cca25e29f988" slug="butcher" value="Butcher" />
   <Profession id="12ae2d94-3349-4cc1-9ed1-0d0e6663c11b" slug="psychology" value="Psychology" />
   <Profession id="27a93c60-0264-401b-a974-e60876a12a1f" slug="software-support-specialist" value="Software Support Specialist" />
+  <Profession id="7c7707bd-01e5-40ec-8cb3-3ff26d9b87e4" slug="university-administrator" value="University Administrator" />
+  <Profession id="19969b4c-e8f8-4073-896a-5070c97e3926" slug="legal-clerk" value="Legal Clerk" />
 </Professions>
