@@ -1,0 +1,46 @@
+<Vocab id="a594158a-a682-4600-b46b-ca5de1cd0a26" word="cotton" type="short" status="done">
+  <Topics>
+    <Topic id="550f8e69-1e90-4faa-8c1d-b3035c7204dc" value="Textiles &amp; Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="b8d12e1c-af0e-4726-b04b-789491176dec" value="Textile Engineer" />
+    <Profession id="011e02e1-d229-45b2-bc6e-2894536a4b39" value="Agricultural Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="28d29e75-c940-409d-a56d-dd057ea8c914" ipa="/ˈkɑː.tən/" vi_ipa="cốt-tơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d05299c1-a3e4-4d36-8ae2-a7e247d667af" type="Noun">
+          <Vi>bông (sợi thực vật); vải bông</Vi>
+          <En>The soft, fluffy fiber that grows in the seed pod of the cotton plant, or fabric made from this fiber.</En>
+          <Example>She wore a comfortable cotton shirt on the hot summer day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc173df0-defd-40de-893a-874b903a054f">
+              <Vi>Mô tả sợi bông tự nhiên hoặc sản phẩm dệt từ sợi bông.</Vi>
+              <En>Refers to natural cotton fiber or fabric made from it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0413cb93-2986-477a-b340-6c93d9412729" type="Verb">
+          <Vi>thu hoạch bông; dệt bằng vải bông</Vi>
+          <En>To harvest cotton; or (less commonly) to make or wear cotton fabric.</En>
+          <Example>The farmers began to cotton in early autumn.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="bb8bf7ee-1ae0-4dec-a891-508b293dd284">
+              <Vi>Ngành nông nghiệp: thu hoạch bông vào mùa vụ.</Vi>
+              <En>Agriculture: harvesting cotton during the harvest season.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
