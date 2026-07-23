@@ -1,0 +1,32 @@
+<Vocab id="df8842d8-58c3-411b-b1b6-6c28176fe94c" word="robert" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ed76bf6d-3430-43de-8316-ac5d95c26d43" ipa="/ˈrɒb.ət/" vi_ipa="rốp-ơt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="59c4b35f-934d-4947-8df3-6577ae85bae9" type="Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm phổ biến ở Anh, xuất phát từ tên tiếng Đức Robert)</Vi>
+          <En>A male given name of Germanic origin, meaning "bright fame" (from Old High German *hrod* "fame" + *beraht* "bright").</En>
+          <Example>Robert Frost was a renowned American poet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c693b5d-e443-4283-a80c-22fdb4fd4020">
+              <Vi>Dùng khi đề cập đến một người đàn ông có tên Robert trong văn nói hoặc văn viết.</Vi>
+              <En>Used when referring to a man named Robert in speech or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
