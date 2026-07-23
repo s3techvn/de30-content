@@ -618,4 +618,7 @@
   <Profession id="e4282717-a360-470c-912c-c442956e683a" slug="cyclist" value="Cyclist" />
   <Profession id="41d3acbe-40b4-4196-b5c2-f1cdb824f883" slug="wheelwright" value="Wheelwright" />
   <Profession id="decbc985-1544-4503-a15d-6f6585b8c815" slug="religious-educator" value="Religious Educator" />
+  <Profession id="73577309-5ec5-42c8-81f6-a8e2d40e8d22" slug="urologist" value="Urologist" />
+  <Profession id="68181d1e-fe9a-4207-a854-2ab2256f76b9" slug="general-practitioner" value="General Practitioner" />
+  <Profession id="596322eb-5500-4e38-a26b-1a1d3789e12b" slug="oncologist" value="Oncologist" />
 </Professions>

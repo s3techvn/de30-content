@@ -1,0 +1,38 @@
+<Vocab id="f2929bf0-c435-4878-a2f4-b5cc4d1f2580" word="prostate" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="73577309-5ec5-42c8-81f6-a8e2d40e8d22" value="Urologist" />
+    <Profession id="68181d1e-fe9a-4207-a854-2ab2256f76b9" value="General Practitioner" />
+    <Profession id="596322eb-5500-4e38-a26b-1a1d3789e12b" value="Oncologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a3ade317-6159-4710-9ecb-102c403bedf5" ipa="/ˈprɑːs.teɪt/" vi_ipa="pờ-rô-stây-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e5a526ee-3626-4c18-a0cd-7e76a82a2788" type="Noun">
+          <Vi>tuyến tiền liệt</Vi>
+          <En>a walnut-sized gland in males that produces fluid contributing to semen and surrounds the urethra</En>
+          <Example>The doctor performed a digital rectal exam to check the health of the prostate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4233d38-a759-43a9-9a08-95a2a1866437">
+              <Vi>Khám sức khỏe nam giới, đặc biệt khi có triệu chứng tiểu tiện khó khăn.</Vi>
+              <En>Male health screening, especially when experiencing urinary difficulties.</En>
+            </Situation>
+            <Situation id="80851402-5de3-4a28-9a87-84831bffe0d8">
+              <Vi>Chẩn đoán và theo dõi ung thư tuyến tiền liệt.</Vi>
+              <En>Diagnosis and monitoring of prostate cancer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
