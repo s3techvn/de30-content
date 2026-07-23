@@ -1,0 +1,38 @@
+<Vocab id="cfb15bfb-ec61-42bd-85d1-880d10ea44a0" word="harper" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="618bc732-5c34-4cbe-9acd-c55f0d560037" ipa="/ˈhɑːr.pər/" vi_ipa="hác-pơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="725bba5b-46c6-4aaa-b913-03bd30c6ac45" type="Noun">
+          <Vi>người chơi đàn harp (đàn cung); người viết sách dưới bút danh Harper</Vi>
+          <En>a person who plays the harp; a writer who publishes under the name Harper</En>
+          <Example>She is a talented harper who performs at weddings and classical concerts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15a037b5-d7dd-4fb7-a3d8-201e42251048">
+              <Vi>Một nghệ sĩ biểu diễn nhạc cổ điển sử dụng đàn harp trong buổi hòa nhạc.</Vi>
+              <En>An orchestra musician performing a solo on the harp during a classical concert.</En>
+            </Situation>
+            <Situation id="56f0cacf-47ca-4e22-81c0-6c45fbac0e45">
+              <Vi>Tên bút danh của nhà văn Harper Lee, tác giả cuốn "Giết con chim nhại".</Vi>
+              <En>The pen name of author Harper Lee, who wrote *To Kill a Mockingbird*.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
