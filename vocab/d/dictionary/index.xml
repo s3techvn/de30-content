@@ -1,0 +1,53 @@
+<Vocab id="e241cb0a-a9fc-47f1-9c80-718e0a980975" word="dictionary" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+    <Topic id="a41c3a74-f637-4f3c-950d-461717ce50a6" value="Reference" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a877ddf1-7c4c-4ab0-8a46-3aea01c07b7a" ipa="/ˈdɪk.ʃən.er.i/" vi_ipa="đích-xơ-ni-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5f2f21eb-a123-46f5-984a-2f65537c38b4" type="Noun">
+          <Vi>Từ điển</Vi>
+          <En>A book or electronic resource that lists the words of a language and typically gives their meaning, pronunciation, etymology, and other information.</En>
+          <Example>She looked up the word “serendipity” in the dictionary.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="371e8f25-a06c-41d8-84b2-91cd47cbb65e">
+              <Vi>Học sinh tra từ điển để hiểu nghĩa và cách dùng từ mới.</Vi>
+              <En>A student consults a dictionary to understand the meaning and usage of a new word.</En>
+            </Situation>
+            <Situation id="e891d5b6-fb12-4c19-8d3b-e850a87093a3">
+              <Vi>Từ điển trực tuyến ngày càng phổ biến nhờ tính tiện lợi.</Vi>
+              <En>Online dictionaries are increasingly popular due to their convenience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="29e66c17-7876-456c-a958-a428ce892e69" type="Noun">
+          <Vi>Tập hợp có hệ thống các thuật ngữ chuyên ngành</Vi>
+          <En>A comprehensive collection of specialized terms, definitions, or concepts in a particular field.</En>
+          <Example>The medical dictionary includes over 20,000 entries on anatomy and pharmacology.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="01fce5c3-d1e4-4d86-b061-68d4e2691b23">
+              <Vi>Các bác sĩ thường tham khảo từ điển y khoa để tra thuật ngữ.</Vi>
+              <En>Doctors often refer to a medical dictionary to look up specialized terms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
