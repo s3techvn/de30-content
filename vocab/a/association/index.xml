@@ -1,0 +1,50 @@
+<Vocab id="7f2f528b-2d62-498c-a3af-eed00411a580" word="association" type="short" status="done">
+  <Topics>
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="03458f7b-e002-4929-9eab-6d116875034e" ipa="/əˌsoʊ.siˈeɪ.ʃən/" vi_ipa="ơ-đờ-so-si-ê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8587a191-108e-456e-a54b-7af7d3d80334" type="Noun">
+          <Vi>Hiệp hội; Liên đoàn; Sự liên kết; Sự kết bạn</Vi>
+          <En>A group of people joined together in a formal organization for a shared purpose; the action or state of connecting or being connected with something or someone.</En>
+          <Example>The local community center hosts events organized by the neighborhood association.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6248ee9f-ffd3-42ed-a10a-e6839a0b02c8">
+              <Vi>Một tổ chức phi lợi nhuận do người dân địa phương thành lập để giải quyết vấn đề chung.</Vi>
+              <En>A nonprofit organization formed by local residents to address shared community concerns.</En>
+            </Situation>
+            <Situation id="98e2e83e-84bb-478f-9291-0288a6a19aac">
+              <Vi>Cảm giác thân mật và gắn bó với một người hoặc nhóm người.</Vi>
+              <En>A feeling of closeness and connection with a person or group of people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c34628dd-71a1-453b-90fb-05be72ce8e84" type="Noun">
+          <Vi>Sự liên tưởng (trong tâm lý học)</Vi>
+          <En>The mental process of linking ideas, memories, or concepts together, often based on similarity, contrast, or proximity.</En>
+          <Example>Freud believed that dreams are shaped by associations formed during waking life.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79e9dfec-37c7-4d74-94bb-4fc92d181945">
+              <Vi>Trong trị liệu tâm lý, bệnh nhân được khuyến khích nói lên những suy nghĩ xuất hiện một cách tự nhiên khi nghĩ về một chủ đề.</Vi>
+              <En>In psychotherapy, the patient is encouraged to voice thoughts that naturally arise when thinking about a particular topic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
