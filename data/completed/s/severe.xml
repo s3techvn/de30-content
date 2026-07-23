@@ -1,0 +1,44 @@
+<Vocab id="f0de0f9d-2752-4b1e-9aa5-5f0b0308988c" word="severe" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+    <Topic id="e76bc258-c6bd-45e8-bf27-97fd95e37b96" value="Weather" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f55f0512-a44a-4a5e-9c1b-c7582d443b90" ipa="/səˈvɪr/" vi_ipa="xơ-vi-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dcf935bd-93bb-4c8a-970c-b4fc80944cae" type="Adjective">
+          <Vi>Nghiêm trọng, khốc liệt, dữ dội</Vi>
+          <En>Very serious, intense, or harsh, especially in a way that causes great difficulty or suffering.</En>
+          <Example>The patient was admitted with severe chest pain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e3938c1-056a-4c0b-9298-23e4d9b34912">
+              <Vi>Mô tả tình trạng bệnh nặng hoặc tai nạn nghiêm trọng.</Vi>
+              <En>Describing a serious medical condition or serious accident.</En>
+            </Situation>
+            <Situation id="20abd0a2-53aa-401d-bd6b-0e1f0bb3c877">
+              <Vi>Mô tả thời tiết khắc nghiệt như bão, lũ lụt.</Vi>
+              <En>Describing harsh weather conditions such as storms or floods.</En>
+            </Situation>
+            <Situation id="e9426cfd-09cf-475b-ab98-a13590322603">
+              <Vi>Mô tả hình phạt hoặc hậu quả nghiêm trọng.</Vi>
+              <En>Describing a harsh punishment or serious consequence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
