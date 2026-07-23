@@ -1,0 +1,52 @@
+<Vocab id="a1544fb0-9573-4a30-9383-219ed73d4e37" word="impose" type="short" status="done">
+  <Topics>
+    <Topic id="30f1fbf0-fd10-4cdf-b369-84682c9153b2" value="Law &amp; Authority" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="539dab77-da57-492d-943d-47e21af06460" value="Finance &amp; Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" value="Government Official" />
+    <Profession id="ca8040de-c4b0-4143-86d0-2f63c4762e1d" value="Tax Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba0a5d32-cc21-4327-b41a-55755ca72f52" ipa="/ɪmˈpoʊz/" vi_ipa="im-pô-dờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="543c247c-2ef0-4cd8-9fcd-4a4d87eaed88" type="Verb">
+          <Vi>Áp đặt, cưỡng ép (ý kiến, nghĩa vụ, luật lệ, thuế, v.v.) lên người khác</Vi>
+          <En>To force something unwelcome or unwanted on someone, especially a law, rule, or burden</En>
+          <Example>The government imposed strict new regulations on emissions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04bcf25d-0189-4ab1-b762-c406931438a5">
+              <Vi>Một chính quyền ban hành luật hoặc nghĩa vụ mà người dân không muốn hoặc không đồng tình.</Vi>
+              <En>A government enacts a law or obligation that people do not want or agree with.</En>
+            </Situation>
+            <Situation id="0a950ee4-d0a8-449b-8629-2c71c4187453">
+              <Vi>Một người áp đặt quan điểm cá nhân lên nhóm mà không tham khảo ý kiến.</Vi>
+              <En>Someone imposes their personal opinion on a group without consulting others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c31b1261-6af4-4278-b77f-e9b3527a8824" type="Verb">
+          <Vi>Đánh lừa, lừa gạt (ai đó) bằng cách giả vờ có uy tín hoặc khả năng</Vi>
+          <En>To deceive someone by pretending to have a particular status, ability, or identity</En>
+          <Example>He posed as a doctor and imposed on the trust of the patients.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46bc18e6-3304-4951-99ac-c3cf9518eed7">
+              <Vi>Một kẻ lừa đảo giả danh chuyên gia để chiếm lòng tin và chiếm đoạt tài sản.</Vi>
+              <En>A con artist pretends to be an expert to gain trust and steal money.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
