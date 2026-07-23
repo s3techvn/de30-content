@@ -1,0 +1,79 @@
+<Vocab id="11d543f8-9551-4095-9f12-4d9423a24ccf" word="brush" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="3d2cbd43-25fa-49df-894c-db389f6f1880" value="Beauty &amp; Grooming" />
+    <Topic id="5ed5c5ab-3394-4a30-97c1-e70c6ac8b2ce" value="Art &amp; Craft" />
+  </Topics>
+  <Professions>
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+    <Profession id="66598e53-adca-4e88-ba3d-13c131c6e1f2" value="Barber" />
+    <Profession id="d9d75918-750e-4777-9417-6bf1484c6afa" value="Makeup Artist" />
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a6104db1-89e2-47c4-94e5-3809cc394dce" ipa="/brʌʃ/" vi_ipa="bờ-ráp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f6a766c-50dd-4472-98cb-de6f5afa3a16" type="Noun">
+          <Vi>Cái bàn chải</Vi>
+          <En>A tool with bristles or fibers, used for cleaning, painting, or grooming.</En>
+          <Example>She cleaned her teeth with a soft-bristled toothbrush.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84c01500-f898-4030-b3af-c04ed88048ab">
+              <Vi>Sử dụng bàn chải đánh răng để làm sạch răng.</Vi>
+              <En>Using a toothbrush to clean teeth.</En>
+            </Situation>
+            <Situation id="200b0604-2cac-4406-be94-a120446b8ddf">
+              <Vi>Họa sĩ dùng cọ để sơn tranh.</Vi>
+              <En>A painter uses a brush to paint a picture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8cb609d9-029f-469b-ad02-1dae5dfe3ef7" type="Verb">
+          <Vi>Chải, quét nhẹ</Vi>
+          <En>To clean, paint, or smooth something using a brush; to move or act quickly and lightly.</En>
+          <Example>He brushed the dust off the table with his sleeve.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8a7ce47b-8041-4e72-a83f-98dea311f482">
+              <Vi>Chải nhẹ tóc bằng lược.</Vi>
+              <En>To lightly comb or smooth hair with a brush or comb.</En>
+            </Situation>
+            <Situation id="72119af1-516a-495c-a954-3f24f1cd9177">
+              <Vi>Quét nhẹ sơn lên bề mặt.</Vi>
+              <En>To apply paint to a surface with a brush.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="db940a03-604d-451b-8cdf-c96f09fb34b0" ipa="/brʌʃ/" vi_ipa="bờ-ráp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="09a858ee-4796-40ae-b00a-be87c758c856" type="Verb">
+          <Vi>Đánh bay, quét sạch (nhanh)</Vi>
+          <En>To deal with something quickly and efficiently, often in a dismissive or careless way.</En>
+          <Example>The manager brushed off her concerns without listening.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d6baa51-95ef-4908-af69-eee96be7a3df">
+              <Vi>Phớt lờ lời đề nghị của ai đó một cách nhanh chóng.</Vi>
+              <En>To quickly dismiss or ignore someone’s suggestion or request.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
