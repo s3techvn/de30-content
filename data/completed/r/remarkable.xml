@@ -1,0 +1,38 @@
+<Vocab id="2344a081-db67-47e0-95ca-eb4943a9516c" word="remarkable" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e180e794-2bbc-442a-b7a5-ea562c3e343f" ipa="/rɪˈmɑːrk.ə.bəl/" vi_ipa="rị-mác-kơ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d1cd59e-27c8-49f5-9614-6c47cf8da7da" type="Adjective">
+          <Vi>đáng chú ý; xuất sắc; phi thường</Vi>
+          <En>unusually impressive or noticeable; extraordinary</En>
+          <Example>She gave a remarkable performance at the competition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e0895ee-4696-4d19-a5dd-b55e52139f5f">
+              <Vi>Mô tả một thành tích, phẩm chất, hoặc hiện tượng vượt trội so với bình thường.</Vi>
+              <En>Used to describe an achievement, quality, or phenomenon that stands out significantly from the ordinary.</En>
+            </Situation>
+            <Situation id="300da5ec-ee0d-47a0-9d4d-c80bedb1ea16">
+              <Vi>Trong báo chí hoặc đánh giá, dùng để nhấn mạnh mức độ nổi bật của một sự kiện.</Vi>
+              <En>In journalism or reviews, used to emphasize how striking or unusual an event or detail is.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
