@@ -1,0 +1,52 @@
+<Vocab id="af3aaebf-ea82-4e61-8516-72aaa42de7a3" word="cheap" type="short" status="done">
+  <Topics>
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" value="Consumer" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="076de2fc-59c4-4293-9d95-e5a9066823a3" ipa="/tʃiːp/" vi_ipa="chíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="032f1f30-83c5-4c79-bf0d-7f7940e7f231" type="Adjective">
+          <Vi>giá rẻ; rẻ tiền</Vi>
+          <En>Costing little money; inexpensive.</En>
+          <Example>This shirt is cheap, but the quality is surprisingly good.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e1c9945-cb8d-48e9-b37f-ea49fed16bd0">
+              <Vi>Mua sắm hàng hóa với ngân sách hạn chế.</Vi>
+              <En>Shopping for goods while staying within a tight budget.</En>
+            </Situation>
+            <Situation id="4ae31aa7-66a1-477b-8974-e7587cc51fa6">
+              <Vi>Nhận xét về mức giá thấp của một sản phẩm hoặc dịch vụ.</Vi>
+              <En>Commenting on a product or service’s low price.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6c2f3ca3-9d96-4495-a612-567b84b4eaba" type="Adjective">
+          <Vi>hèn hạ; thấp kém (về phẩm chất đạo đức)</Vi>
+          <En>Low in moral standards; dishonorable or contemptible.</En>
+          <Example>It was a cheap trick to distract the audience from the real issue.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2533474-43b7-48f7-ab56-1e45b2f1212f">
+              <Vi>Mô tả hành vi thiếu trung thực hoặc thiếu đạo đức.</Vi>
+              <En>Describing an unprincipled or unethical action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

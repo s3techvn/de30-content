@@ -1,0 +1,79 @@
+<Vocab id="e50d0b67-3744-4e08-8cbe-750776aa833e" word="order" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="fcadf7e5-af5f-4033-b853-55a6ac943b94" value="Restaurant Staff" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="11e85bdc-36a3-42df-a620-a5170ba9e842" ipa="/ˈɔːr.dɚ/" vi_ipa="ớ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9b295a11-55d8-4791-aab8-e938ee3e5cf0" type="Noun">
+          <Vi>đơn hàng; lệnh; trật tự</Vi>
+          <En>A request to buy or receive goods or services; a command or directive; the proper arrangement or sequence of things.</En>
+          <Example>I placed an order for three laptops yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ef8ba88-5a3f-4d57-8741-e0d6fd1527f3">
+              <Vi>Khách hàng gửi yêu cầu mua hàng tại nhà hàng hoặc cửa hàng.</Vi>
+              <En>A customer submits a request to purchase goods at a restaurant or store.</En>
+            </Situation>
+            <Situation id="f7643f8a-9d70-4784-a62b-6d084aaf334e">
+              <Vi>Các vật được sắp xếp theo trình tự hợp lý.</Vi>
+              <En>Things arranged in a logical or appropriate sequence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="14f10dba-517d-4fc4-82aa-7463a605a210" type="Verb">
+          <Vi>đặt hàng; ra lệnh; sắp xếp</Vi>
+          <En>To request goods or services to be supplied or produced; to command or direct someone to do something; to arrange systematically.</En>
+          <Example>The judge ordered the defendant to pay damages.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f8c0f084-f414-4bf6-9e28-5f6f561cb5e5">
+              <Vi>Nhân viên nhận đơn đặt hàng từ khách qua điện thoại.</Vi>
+              <En>A staff member takes a customer’s order over the phone.</En>
+            </Situation>
+            <Situation id="cba34a77-4447-492a-ada1-b1c80effd3d4">
+              <Vi>Quân đội tuân theo lệnh chỉ huy.</Vi>
+              <En>Military personnel follow commands issued by their commander.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0b6c225b-5a95-499c-b5a0-1120d2227e2d" ipa="/ˈɔːr.dɚ/" vi_ipa="ớ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b9397e1-e5aa-4822-9356-6f78b9579674" type="Noun">
+          <Vi>sự ra lệnh (trong quân đội, pháp luật)</Vi>
+          <En>A formal command, especially from a military or legal authority.</En>
+          <Example>The general issued an order to retreat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ae520336-3c22-480e-a4cd-d93eb3c46f31">
+              <Vi>Cấp trên ra lệnh cho cấp dưới trong tình huống khẩn cấp.</Vi>
+              <En>A superior issues a command to subordinates during an emergency.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
