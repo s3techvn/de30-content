@@ -1759,3 +1759,4 @@ coated
 alfred
 vary
 serial
+characteristic
