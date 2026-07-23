@@ -1,0 +1,56 @@
+<Vocab id="dd3d994e-2d06-4799-a7f1-964c5566aa33" word="move" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="427bf418-928d-4acf-93f6-7ca842fa9537" value="Moving Company Worker" />
+    <Profession id="623b8b9d-57b6-4b03-a84a-590c577eeb2f" value="Choreographer" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="46c676e7-0c15-46b5-a5b8-4bc3cacf91ba" ipa="/muːv/" vi_ipa="múp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44f56ab3-2d54-44ab-b7ce-4af17af21564" type="Verb">
+          <Vi>di chuyển, dời, dịch chuyển</Vi>
+          <En>to change position or location, typically by physical action</En>
+          <Example>She moved the chair closer to the window.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="27396590-beb2-448f-87c2-9de3c20448df">
+              <Vi>Di chuyển đồ đạc trong nhà hoặc từ nơi này sang nơi khác.</Vi>
+              <En>Physically relocating an object or person from one place to another.</En>
+            </Situation>
+            <Situation id="e608bdbc-ed4c-46ac-a330-af16917dd397">
+              <Vi>Thay đổi vị trí cơ thể trong thể thao hoặc khiêu vũ.</Vi>
+              <En>Changing body position in sports or dance routines.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0760f9d4-1ee5-43d8-8f1d-33848a65a09e" type="Noun">
+          <Vi>sự di chuyển, nước đi (trong cờ vua), hành động</Vi>
+          <En>an action taken, especially one intended to achieve a goal; in chess, a player's turn to play a piece</En>
+          <Example>His next move was to resign from the company.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2bc84777-5814-476c-bb61-c132070f50bb">
+              <Vi>Quyết định hoặc hành động chiến lược trong công việc hoặc cuộc sống.</Vi>
+              <En>A strategic decision or action in business or personal life.</En>
+            </Situation>
+            <Situation id="b2cd0e25-1caa-46a3-a71a-333e1c1b55b3">
+              <Vi>Nước đi trong cờ vua hoặc cờ vây.</Vi>
+              <En>A single turn in chess where a player moves a piece.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
