@@ -1,0 +1,57 @@
+<Vocab id="98021319-1fad-4c1d-a517-801e2e090b91" word="bronze" type="short" status="done">
+  <Topics>
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="3070d51e-bb66-40d9-a808-978ad7f7f209" value="Art &amp; Sculpture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="9686b4e0-0ba5-4f78-a870-3c6333625767" value="Sculptor" />
+    <Profession id="6c130b41-9ddd-44e6-be3e-e38e8a3155c2" value="Metalworker" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="284f5deb-bb3a-4a6d-bfb9-7185ed121742" ipa="/brɒnz/" vi_ipa="brôn-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad00df5a-3444-4313-97e3-7058fb0f41a1" type="Noun">
+          <Vi>đồng thau; tượng đồng</Vi>
+          <En>A hard, malleable metal alloy made primarily of copper and tin, often used for statues, coins, and musical instruments.</En>
+          <Example>The museum displayed a magnificent bronze statue of a warrior.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc7ac20d-4864-4f8e-a25f-c554379b3f1d">
+              <Vi>Ngành đúc tượng nghệ thuật và điêu khắc</Vi>
+              <En>Artistic casting and sculpture industry</En>
+            </Situation>
+            <Situation id="9ef1ec42-77ef-45c8-9bae-a1833b563221">
+              <Vi>Môn thể thao (đua thuyền): "bronze medal" – huy chương đồng</Vi>
+              <En>Sports (rowing/rowing races): "bronze medal" – third-place award</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="220f947b-73ca-4cde-a88a-f1609e492cbd" type="Adjective">
+          <Vi>làm bằng đồng thau; màu đồng thau</Vi>
+          <En>Made of bronze; having the color of bronze (a reddish-brown hue).</En>
+          <Example>The door was adorned with bronze handles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="720259ba-94bf-4a68-af92-7d5905f08a0d">
+              <Vi>Mô tả vật liệu trong nghệ thuật và kiến trúc</Vi>
+              <En>Describing materials in art, architecture, or antiques</En>
+            </Situation>
+            <Situation id="139ce46f-23ad-4131-9c9d-ce9ea368c92e">
+              <Vi>Mô tả màu sắc (ví dụ: sơn, vải)</Vi>
+              <En>Describing color (e.g., in paint, fabric, or design)</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
