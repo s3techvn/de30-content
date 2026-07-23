@@ -592,4 +592,5 @@
   <Profession id="3b39f0ec-b2dd-4575-8aaf-9c21d04d27f5" slug="football-player" value="Football Player" />
   <Profession id="ecf69b14-0d8f-4211-bb8a-29450207841e" slug="blacksmith" value="Blacksmith" />
   <Profession id="1bcaf0b2-9642-46f7-9349-3d1cff64c529" slug="subcultural-researcher" value="Subcultural Researcher" />
+  <Profession id="cd29ef72-6b92-4746-8c31-1fcb0fa58a5a" slug="numismatist" value="Numismatist" />
 </Professions>

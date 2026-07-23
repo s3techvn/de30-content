@@ -1,0 +1,60 @@
+<Vocab id="c5f48ebb-57cc-468b-9bdb-e69118a7d4de" word="guinea" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="f6f95944-0668-40c6-bce7-e59a836a8915" value="Currency" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="cd29ef72-6b92-4746-8c31-1fcb0fa58a5a" value="Numismatist" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e030d600-1dc0-4686-803c-1f62317266b9" ipa="/ɡɪˈniː/" vi_ipa="gi-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1ed1b27f-b478-4058-b96c-72bfbb1c1cbf" type="Noun">
+          <Vi>Guinea (quốc gia ở Tây Phi)</Vi>
+          <En>A country in West Africa, officially known as the Republic of Guinea.</En>
+          <Example>Many refugees from Guinea have sought asylum in neighboring countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7555c96-2f37-40d1-af57-dc5a46e0ffe4">
+              <Vi>Liên quan đến địa lý, chính trị, hoặc văn hóa của nước Cộng hòa Guinea.</Vi>
+              <En>Refers to geography, politics, or culture of the Republic of Guinea.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a0c2aab3-1ab5-415e-b829-7dbe26ac068b" type="Noun">
+          <Vi>Guinea (đơn vị tiền tệ cũ của Anh)</Vi>
+          <En>A former British coin worth one pound and one shilling (21 shillings), used until 1971.</En>
+          <Example>The antique painting was priced at fifty guineas.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="c6a56bb2-18e4-4f64-8aa3-9ec95d8840e6">
+              <Vi>Thường xuất hiện trong văn cảnh lịch sử hoặc văn học cổ, đặc biệt khi nói về giá cả hàng hóa xa xỉ.</Vi>
+              <En>Commonly found in historical or literary contexts, especially when referring to the price of luxury goods.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a0ba8771-c818-4708-a7f5-4afd0c7185a1" type="Noun">
+          <Vi>Guinea (loài chim chim sẻ lớn, còn gọi là chim guinea)</Vi>
+          <En>A large African songbird, also known as the guinea fowl.</En>
+          <Example>The guinea fowl’s distinctive spotted feathers make it easy to spot in the savanna.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b5ea7369-a40f-4fea-9f31-4b52c324c640">
+              <Vi>Dùng khi nói về gia cầm hoặc động vật hoang dã ở châu Phi.</Vi>
+              <En>Used when referring to poultry or wildlife in Africa.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
