@@ -1,0 +1,52 @@
+<Vocab id="d84907c2-efff-4dd2-b536-30ca1eb83456" word="greenhouse" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="688bf6df-fa7e-48df-a885-147015dc3191" value="Gardening" />
+  </Topics>
+  <Professions>
+    <Profession id="ef1b64c9-3e46-4178-aee1-357ae5c04df9" value="Horticulturist" />
+    <Profession id="6c5493fa-520e-465b-89c6-7d2042d878e9" value="Agricultural Engineer" />
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d678d6f-865a-4390-9e00-d9bc1337c311" ipa="/ˈɡriːn.haʊs/" vi_ipa="grin-hàu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf55949e-1f5a-4bf3-8292-e3bcd8664a9b" type="Noun">
+          <Vi>nhà kính</Vi>
+          <En>A glass or plastic structure used for protecting plants from cold weather and controlling the growing environment.</En>
+          <Example>Tomatoes grow faster in a greenhouse than in an open field.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49bde881-27ce-433f-8bd4-0d317e1516aa">
+              <Vi>Sử dụng trong nông nghiệp để trồng rau củ và hoa quanh năm.</Vi>
+              <En>Used in agriculture to grow vegetables, fruits, and flowers year-round.</En>
+            </Situation>
+            <Situation id="bc3d9f9a-2450-4c56-ab12-10cff7a43f69">
+              <Vi>Mô hình nhà kính tiết kiệm nước và kiểm soát khí hậu.</Vi>
+              <En>A water-efficient and climate-controlled farming model.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bda42844-1051-4efc-aa6b-2a3bbcea044c" type="Noun">
+          <Vi>hiệu ứng nhà kính (từ mượn trong ngữ cảnh môi trường)</Vi>
+          <En>The phenomenon where greenhouse gases trap heat in the Earth's atmosphere, leading to global warming.</En>
+          <Example>The greenhouse effect is accelerating climate change.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c23bcfc7-1e65-4893-a66a-164eaa4b18e6">
+              <Vi>Thường xuất hiện trong các bài báo khoa học về biến đổi khí hậu.</Vi>
+              <En>Commonly used in scientific articles about climate change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
