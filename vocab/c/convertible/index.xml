@@ -1,0 +1,51 @@
+<Vocab id="00a55ed3-3554-41f6-adf5-d70e882383be" word="convertible" type="short" status="done">
+  <Topics>
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="452a63f0-5d0a-4ecf-bc54-51dcf224ac01" value="Automotive Engineer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="c277c112-f78f-4a88-bc4a-ed9ab5e941e5" value="Automotive Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3244f775-e5a7-4ce2-92f5-4883e9a382eb" ipa="/kənˈvɜːr.tə.bəl/" vi_ipa="cơn-vờ-đao-tờ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bbe32af4-dc55-48cd-9ffb-7c62d7e56b7b" type="Adjective">
+          <Vi>Có thể chuyển đổi; có thể thay đổi hình thức hoặc cấu trúc</Vi>
+          <En>Capable of being changed, converted, or transformed in form, function, or use.</En>
+          <Example>The convertible sofa doubles as a bed for guests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b08fa257-5a1a-4698-98de-abe8925387dc">
+              <Vi>Mô tả đồ nội thất có thể thay đổi chức năng (ví dụ: ghế thành giường).</Vi>
+              <En>Describing furniture that can change function (e.g., sofa to bed).</En>
+            </Situation>
+            <Situation id="987c0c1a-47f4-4e59-a80a-3b11200ae8c6">
+              <Vi>Mô tả tài sản hoặc thiết bị có thể chuyển đổi giữa các định dạng hoặc用途 (ví dụ: tiền tệ, phần mềm).</Vi>
+              <En>Describing assets or software that can be converted between formats or uses (e.g., currency, software).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="de2b4c62-3d49-4800-9934-cf7c0cb7ea83" type="Adjective">
+          <Vi>(Ô tô) có mái che có thể gập lại hoặc tháo rời</Vi>
+          <En>(Of a car) having a roof that can be folded or removed, allowing open-air driving.</En>
+          <Example>They rented a red convertible for their summer road trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2ca0303-140e-475d-9f3a-dba2cb081197">
+              <Vi>Mô tả xe ô tô thể thao hoặc sang trọng có mái mềm có thể gập lại.</Vi>
+              <En>Describing a sports or luxury car with a soft top that can be folded down.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
