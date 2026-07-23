@@ -1,0 +1,56 @@
+<Vocab id="0d296f7c-87c7-4b8b-acfa-b63ac6733023" word="victory" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="8f5790ba-d0c8-42ff-9e2e-d602d5363336" value="Personal Achievement" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+    <Profession id="838c92c0-b90f-4c5e-8054-5f75556c6e27" value="Business Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f28e1d30-54a6-4497-ab38-0a71d0190847" ipa="/ˈvɪk.tə.ri/" vi_ipa="vích-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5582784e-7cbe-4895-b6f9-621961d79246" type="Noun">
+          <Vi>Chiến thắng</Vi>
+          <En>A successful result in a battle, game, or struggle; the defeat of an enemy or opponent.</En>
+          <Example>After a hard-fought match, the team celebrated their hard-earned victory.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42e4dd58-565c-4515-9bac-0ec4f2ff632b">
+              <Vi>Tình huống một đội bóng đá thắng trận chung kết sau 120 phút thi đấu.</Vi>
+              <En>A soccer team wins a championship match after 120 minutes of play.</En>
+            </Situation>
+            <Situation id="b32b44f9-2334-4c5a-98df-c49e508cfc0a">
+              <Vi>Tình huống một ứng viên giành chiến thắng trong một cuộc bầu cử căng thẳng.</Vi>
+              <En>A candidate secures a win in a tightly contested election.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="55df8ee8-8749-4fd4-94f1-9efaf28e787f" type="Noun">
+          <Vi>Thắng lợi (trong nỗ lực, thử thách)</Vi>
+          <En>A personal or collective achievement in overcoming difficulty or adversity.</En>
+          <Example>Her recovery from illness was seen as a personal victory over fate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e187e7b7-9ab8-40b2-99f0-99f98ee61ea2">
+              <Vi>Tình huống một người vượt qua nghiện ngập sau nhiều năm vật lộn.</Vi>
+              <En>A person overcomes addiction after years of struggle.</En>
+            </Situation>
+            <Situation id="bf717a70-2111-4c70-8be5-7a19f25626f7">
+              <Vi>Tình huống một công ty đạt được doanh thu kỷ lục dù đối mặt với suy thoái kinh tế.</Vi>
+              <En>A company achieves record revenue despite an economic downturn.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
