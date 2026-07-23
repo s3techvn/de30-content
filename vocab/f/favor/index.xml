@@ -1,0 +1,64 @@
+<Vocab id="1d51c512-c7eb-4787-b29c-c0a98c93d835" word="favor" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9f1644b4-1896-475c-8643-73e6bab30ecc" ipa="/ˈfeɪ.vɚ/" vi_ipa="phây-vờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f311126-819e-43c1-b19f-344d258c4ab6" type="Noun">
+          <Vi>Sự ưu ái; sự ủng hộ; điều được ưa thích</Vi>
+          <En>A preference or special regard given to someone or something; a kind act done for someone without expecting anything in return</En>
+          <Example>She showed her favor to the new candidate by voting for him.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94b07db0-a4e9-4f47-8c3c-2f0167fc17d3">
+              <Vi>Thể hiện sự ưa thích hoặc ủng hộ một người hoặc điều gì đó rõ ràng hơn người/điều khác.</Vi>
+              <En>Expressing clear preference or support for one person or thing over others.</En>
+            </Situation>
+            <Situation id="0348cc73-0aa7-4a13-822b-b964d2177be5">
+              <Vi>Một hành động tử tế giúp đỡ ai đó mà không đòi hỏi đền đáp.</Vi>
+              <En>A kind act performed to help someone without expecting anything in return.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="98b75ecf-e84a-439f-92ab-1957b6743ad3" ipa="/ˈfeɪ.vɚ/" vi_ipa="phây-vờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1735abeb-5e8f-4d8f-b119-dd43e18ee9d5" type="Verb">
+          <Vi>Ưu ái; ủng hộ; làm điều tốt giúp ai</Vi>
+          <En>To prefer or support one person or thing over others; to do something helpful for someone</En>
+          <Example>The manager tends to favor employees who arrive early and stay late.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c87b6aea-d132-4f9e-8495-42f9d87cd6ee">
+              <Vi>Thể hiện sự ưa thích hoặc thiên vị trong cách đối xử với ai đó.</Vi>
+              <En>Showing preference or bias in how someone is treated.</En>
+            </Situation>
+            <Situation id="26d58e19-cc78-4710-9371-48c6564d79a9">
+              <Vi>Làm điều gì đó giúp đỡ người khác một cách chủ động.</Vi>
+              <En>Actively doing something to help someone else.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
