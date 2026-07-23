@@ -1,0 +1,37 @@
+<Vocab id="3bb67ab3-ac5a-411f-8232-f6a30d1560fb" word="albany" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a148a67d-edb4-4cd7-9fbb-aaf57372695f" ipa="/ˈæl.bə.ni/" vi_ipa="an-ba-ni">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0c74f1e5-b4d3-47a1-a6d9-0e3b31a62dc8" type="Noun">
+          <Vi>thành phố Albany, thủ phủ tiểu bang New York, Hoa Kỳ</Vi>
+          <En>the capital city of the state of New York in the United States</En>
+          <Example>Albany is known for its historic architecture and role in New York's government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47234e33-cbf4-4961-a4bf-219ff6c4b578">
+              <Vi>Tình huống khi nói về các thủ phủ tiểu bang ở Mỹ.</Vi>
+              <En>Scenario when discussing U.S. state capitals.</En>
+            </Situation>
+            <Situation id="83173449-2462-41e2-9982-9a489edc2a61">
+              <Vi>Tình huống khi lên kế hoạch du lịch đến vùng Thung lũng Hudson.</Vi>
+              <En>Scenario when planning a trip to the Hudson Valley region.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
