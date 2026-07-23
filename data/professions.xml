@@ -751,4 +751,5 @@
   <Profession id="7e812115-8583-42b6-916b-75d838d646a3" slug="customer-service" value="Customer Service" />
   <Profession id="c8592b1a-18ef-4f78-a77d-9cd238390fe9" slug="hospitality-staff" value="Hospitality Staff" />
   <Profession id="0b564cfa-a4f6-4388-b6d1-161ceacfd116" slug="team-captain" value="Team Captain" />
+  <Profession id="a68467cf-92bd-4cd1-ab38-7c7d398765c8" slug="health-coach" value="Health Coach" />
 </Professions>

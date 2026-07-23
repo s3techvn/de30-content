@@ -1,0 +1,38 @@
+<Vocab id="ae9ecd66-d042-403f-9c08-6009a7cd4dbd" word="wellness" type="short" status="done">
+  <Topics>
+    <Topic id="510f0037-13ae-4b90-b69a-7e398eda787f" value="Health &amp; Lifestyle" />
+  </Topics>
+  <Professions>
+    <Profession id="a68467cf-92bd-4cd1-ab38-7c7d398765c8" value="Health Coach" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="ab7211e2-377f-4d4e-a1a4-31edabd33eae" value="Yoga Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="37b85662-4728-4440-8774-364e39fa2966" ipa="/ˈwɛl.nəs/" vi_ipa="uen-lờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="85aa604c-4f2b-4a88-a2bd-55f69861a967" type="Noun">
+          <Vi>Sự khỏe mạnh toàn diện; trạng thái tốt về thể chất, tinh thần và xã hội</Vi>
+          <En>The state of being in good health, especially as an actively pursued goal involving physical, mental, and social well-being.</En>
+          <Example>She practices mindfulness and regular exercise to improve her overall wellness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3dac6cc9-36a4-4d84-8624-432dda815aac">
+              <Vi>Một người theo dõi chế độ ăn uống lành mạnh, tập thể dục đều đặn và duy trì cân bằng công việc – cuộc sống.</Vi>
+              <En>A person follows a healthy diet, exercises regularly, and maintains work–life balance to enhance their wellness.</En>
+            </Situation>
+            <Situation id="bc0dd7aa-061d-4b5c-8c79-408e6142a1af">
+              <Vi>Các chương trình tại nơi làm việc nhằm nâng cao sức khỏe nhân viên (ví dụ: thiền, tư vấn tâm lý).</Vi>
+              <En>Workplace programs aimed at improving employee health (e.g., meditation, counseling).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
