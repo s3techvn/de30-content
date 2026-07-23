@@ -1,0 +1,54 @@
+<Vocab id="a25bdc50-e0e1-4a81-85e1-7b6b50ef2d06" word="density" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a7966257-5778-4eb8-aa63-60d2e354c78a" ipa="/ˈden.sə.ti/" vi_ipa="đen-si-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2ab8884-2ded-4aae-bc3e-32ea4a396209" type="Noun">
+          <Vi>Độ dày đặc; mật độ</Vi>
+          <En>The degree of compactness of a substance; mass per unit volume.</En>
+          <Example>The density of water is about 1 gram per cubic centimeter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0062a799-14e8-44b0-82c6-86573b65fbb7">
+              <Vi>So sánh mật độ của các chất trong thí nghiệm vật lý.</Vi>
+              <En>Comparing the densities of different substances in a physics experiment.</En>
+            </Situation>
+            <Situation id="11747f3d-3d25-44f6-992d-7e4fcae0825e">
+              <Vi>Đánh giá mật độ dân số trong quy hoạch đô thị.</Vi>
+              <En>Assessing population density in urban planning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0d72eea3-4bd6-42ca-8817-e8caa2167907" type="Noun">
+          <Vi>Mật độ (sự dày đặc của vật chất, ánh sáng, v.v.)</Vi>
+          <En>The amount of something (such as population, light, or detail) per unit area or volume.</En>
+          <Example>The density of stars in that region of the galaxy is unusually high.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61ec38c0-9148-4afd-8da1-a33926971560">
+              <Vi>Mô tả mật độ dân cư cao ở thành phố lớn.</Vi>
+              <En>Describing the high population density in a major city.</En>
+            </Situation>
+            <Situation id="95187913-68ec-4286-8e67-5730491c460f">
+              <Vi>Phân tích mật độ cây xanh trong khu đô thị mới.</Vi>
+              <En>Analyzing the greenery density in a new urban development.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
