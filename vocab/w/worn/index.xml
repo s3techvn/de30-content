@@ -1,0 +1,52 @@
+<Vocab id="505d6927-de9e-4346-9c3a-4989b4a390f8" word="worn" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+    <Topic id="bc715a94-7027-43af-8a58-b6e4c6edd077" value="Objects &amp; Materials" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8325faa0-40d9-4ee8-a54b-8fb49616a3cb" ipa="/wɔːrn/" vi_ipa="von">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="79e9cc61-eef6-4a09-bb60-6c0226b96926" type="Adjective">
+          <Vi>Bị mài mòn, cũ kỹ, rách nát do sử dụng lâu ngày</Vi>
+          <En>Having been used or worn so much that it is damaged, faded, or threadbare.</En>
+          <Example>The soles of his shoes were completely worn after three years of daily walking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26e023ee-81f9-4151-b6e9-31a00a627eb2">
+              <Vi>Mô tả quần áo, giày dép, hoặc vật dụng bị hỏng do sử dụng thường xuyên.</Vi>
+              <En>Describing clothing, footwear, or items damaged by frequent use or age.</En>
+            </Situation>
+            <Situation id="2e1772ad-a810-4b93-bac8-7589e5536517">
+              <Vi>Nói về trạng thái da hoặc tay do làm việc nặng hoặc tiếp xúc lâu với môi trường.</Vi>
+              <En>Referring to skin or hands that are rough, cracked, or damaged from hard work or exposure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="723fb424-0c52-4add-9a27-ce223e9c7739" type="Adjective">
+          <Vi>Đã qua, đã kết thúc (thời gian, nhiệm vụ, v.v.)</Vi>
+          <En>Having ended or been completed; no longer remaining.</En>
+          <Example>Her three-month contract was worn before she received an extension.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e72961d-db17-4e07-9f04-57bbbffec3f7">
+              <Vi>Dùng trong ngữ cảnh thời hạn hợp đồng, kỳ hạn, hoặc thời gian phục vụ.</Vi>
+              <En>Used in contexts involving contracts, terms, or service periods that have expired.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
