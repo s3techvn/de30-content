@@ -1,0 +1,60 @@
+<Vocab id="415afd12-ac72-4c25-8d6e-81ed1c0a3c9a" word="senior" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="894a06d9-21b0-4fb0-9b05-0cc2f6fd776d" value="Family &amp; Social" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="908617ff-cf85-4579-9ad5-fc72aa9e4c44" ipa="/ˈsiː.njər/" vi_ipa="xi-ni-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4c799833-6a18-47fc-aae7-b25407c6baca" type="Adjective">
+          <Vi>già hơn, lớn tuổi hơn</Vi>
+          <En>older in age, especially by a few years</En>
+          <Example>She is two years my senior.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60d82c71-3551-4812-93bb-d5be64000dcf">
+              <Vi>So sánh tuổi tác giữa hai người, thường trong gia đình hoặc bạn bè.</Vi>
+              <En>Comparing ages between two people, especially among siblings or friends.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="342369a9-08a2-4c4c-81f0-2c9175be84bb" type="Adjective">
+          <Vi>cao cấp hơn, có thâm niên hơn</Vi>
+          <En>holding a higher rank, position, or level of experience</En>
+          <Example>He was promoted to senior engineer after five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="219c27bc-694f-4a50-a010-c076bfcd5c1f">
+              <Vi>Mô tả người có vị trí cao hơn trong công ty hoặc tổ chức do kinh nghiệm hoặc thâm niên.</Vi>
+              <En>Describing someone with a higher position in a company or organization due to experience or seniority.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="96edb9a2-6082-4016-880c-b26ef29d10c6" type="Adjective">
+          <Vi>ở cấp độ cao hơn (trong học đường)</Vi>
+          <En>relating to the final year of secondary school or university</En>
+          <Example>As a senior in high school, he applied to colleges last fall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06a88329-d3cb-4186-bfb1-ccd344ef5434">
+              <Vi>Dùng để chỉ học sinh/sinh viên năm cuối.</Vi>
+              <En>Used to refer to a student in their final year of high school or university.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
