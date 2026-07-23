@@ -1,0 +1,94 @@
+<Vocab id="e58e0339-8016-4707-92fd-bd7e5c00762d" word="file" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b53ecd91-0815-4565-b650-8c187f81f1b9" value="Office" />
+    <Topic id="104adb2a-02a1-4b8b-9474-59866324459a" value="Legal" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="cf2b131e-ca9d-45c7-85b5-bb0f24aba238" value="Office Administrator" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f16070cb-dfec-41c0-aa1f-6f950d0d5eb7" ipa="/faɪl/" vi_ipa="fây-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de5f9d82-7862-4b60-8794-4ef6db056718" type="Noun">
+          <Vi>Tập tin (trong máy tính)</Vi>
+          <En>A collection of data stored on a computer, typically named and stored in a directory.</En>
+          <Example>Save the document as a PDF file before sending it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="684a3c6b-e2fe-4aa0-a39d-9c250fb5c67b">
+              <Vi>Tình huống khi người dùng lưu, mở, hoặc xóa một tài liệu trên máy tính.</Vi>
+              <En>Scenario when a user saves, opens, or deletes a document on a computer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="54a60ecc-dc61-4b32-90b0-2e9efdd099c0" type="Verb">
+          <Vi>Lưu (tài liệu) vào máy tính; làm hồ sơ</Vi>
+          <En>To save (a document) in a digital format on a computer; to submit official documents for processing.</En>
+          <Example>Please file the report in the shared drive.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4c0384c-2be8-4aae-843a-083904d0a057">
+              <Vi>Tình huống khi một nhân viên lưu báo cáo vào hệ thống quản lý tập tin.</Vi>
+              <En>Scenario when an employee saves a report into a file management system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="72b8e839-1bc1-49ab-ba8b-38e73134f171" ipa="/fɪl/" vi_ipa="phây-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cdb4e744-a767-4ce3-8ac3-bef1d2d60192" type="Noun">
+          <Vi>Cái dũa (dụng cụ kim loại để mài, làm nhẵn)</Vi>
+          <En>A hand tool with a rough surface, used for smoothing or shaping metal, wood, or other materials.</En>
+          <Example>The mechanic used a metal file to smooth the sharp edges of the gear.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c19c124c-12aa-458b-b3ef-f6af4db2f769">
+              <Vi>Tình huống khi thợ cơ khí dùng dũa để làm nhẵn bề mặt kim loại.</Vi>
+              <En>Scenario when a mechanic uses a file to smooth a metal surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="90626701-fafc-4a3e-a212-559a3e5eb3f3" type="Verb">
+          <Vi>Dùng dũa để làm nhẵn, mài</Vi>
+          <En>To smooth or shape a surface using a file.</En>
+          <Example>He filed the edge until it was smooth enough to handle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66c998e7-0517-4065-8e94-0b85bb318fc7">
+              <Vi>Tình huống khi thợ thủ công mài nhẵn cạnh một vật bằng dũa.</Vi>
+              <En>Scenario when a craftsman files the edge of an object until smooth.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="df926e96-73ef-42aa-8c96-5fd9aa073a34" type="Verb">
+          <Vi>Đăng ký, nộp hồ sơ (chính thức)</Vi>
+          <En>To officially submit documents, such as a tax return or legal complaint.</En>
+          <Example>She filed for divorce last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6abebb2b-4a43-4e52-a905-6b13f50178e8">
+              <Vi>Tình huống khi một người nộp đơn ly hôn hoặc đơn xin visa.</Vi>
+              <En>Scenario when someone submits a divorce petition or a visa application.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
