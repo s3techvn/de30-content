@@ -1,0 +1,76 @@
+<Vocab id="e5849dd3-e74b-4fe5-8551-e311cbd01097" word="bench" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fc238f36-883d-46e1-ba86-918d5b2fc5a9" ipa="/bɛntʃ/" vi_ipa="bên-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f71eac22-a179-4767-8c5e-d1b31cf0465b" type="Noun">
+          <Vi>Cái ghế dài, thường có lưng và không có tay vịn</Vi>
+          <En>A long seat, typically with a backrest and no armrests, for multiple people to sit on.</En>
+          <Example>We sat on the park bench to rest after our walk.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a24c5c0a-2a2a-4b21-b822-a03e13edc8e3">
+              <Vi>Công viên có nhiều ghế dài cho du khách nghỉ ngơi.</Vi>
+              <En>Parks often provide benches for visitors to rest.</En>
+            </Situation>
+            <Situation id="4b418689-3b98-4174-9155-53bd2c74d72b">
+              <Vi>Học sinh ngồi trên ghế dài trong sân trường.</Vi>
+              <En>Students sit on the bench in the schoolyard during recess.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f652b6c7-84f0-4407-9533-0179934f0c8c" type="Noun">
+          <Vi>Bàn làm việc của thẩm phán trong tòa án</Vi>
+          <En>The elevated desk or seat where a judge sits in a courtroom.</En>
+          <Example>The judge rose from the bench to address the jury.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a40e7c8f-5fef-44ba-b443-f0d74fb985f8">
+              <Vi>Thẩm phán đứng lên từ bục xử án để phát biểu.</Vi>
+              <En>The judge stood from the bench to deliver the verdict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ab339ce6-bc6a-4939-ba71-1b765c4ecb31" type="Noun">
+          <Vi>Hàng ghế dự bị (trong thể thao)</Vi>
+          <En>The row of seats where substitutes and coaches sit during a sports game.</En>
+          <Example>The coach called a timeout to talk to the players on the bench.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c4946f4-33c0-4c48-95ed-3d2c6bafb1b0">
+              <Vi>Cầu thủ dự bị chờ lệnh từ huấn luyện viên trên hàng ghế dự bị.</Vi>
+              <En>Substitute players wait for instructions from the coach on the bench.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f9f8ab78-927d-47d6-b9a2-3bfaf373579f" type="Verb">
+          <Vi>Cho nghỉ dự bị (trong thể thao)</Vi>
+          <En>To remove (a player) from active play and sit them on the bench as a substitute.</En>
+          <Example>The coach benched the star player due to injury.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="65cfe995-e26b-40ba-b995-83b737d9d9a4">
+              <Vi>Huấn luyện viên cho cầu thủ nghỉ dự bị vì vi phạm nội quy.</Vi>
+              <En>The coach benched the player for breaking team rules.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
