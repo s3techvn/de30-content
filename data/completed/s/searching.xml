@@ -1,0 +1,40 @@
+<Vocab id="35ee6474-0aee-4cba-af31-f94b0c920401" word="searching" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="73557f49-4f53-49de-861d-46d819311cd4" value="Detective" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ee77972-df6a-4ac6-a5c8-45cbb7559cc1" ipa="/ˈsɜːr.tʃɪŋ/" vi_ipa="xờ-rờ-chí-nh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c797aa5e-0ecb-423b-9b12-4202214266b5" type="Adjective">
+          <Vi>đang tìm kiếm; đầy tham vọng tìm kiếm; sâu sắc, thấu đáo trong việc tìm kiếm</Vi>
+          <En>Actively looking for something; also used to describe a deep, intensive, or probing search, often metaphorically.</En>
+          <Example>She gave a searching look that made him nervous.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac82f63f-be04-4fd0-9063-1d5878d417cd">
+              <Vi>Mô tả ánh mắt, câu hỏi, hoặc hành động thể hiện sự tìm tòi kỹ lưỡng, sâu sắc.</Vi>
+              <En>Used to describe intense scrutiny, probing questions, or thorough investigation.</En>
+            </Situation>
+            <Situation id="49231e9e-788b-4812-9531-d16857759021">
+              <Vi>Mô tả quá trình đang diễn ra của việc tìm kiếm (hiện tại phân từ).</Vi>
+              <En>Used as the present participle/adj. form of "search", indicating ongoing action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
