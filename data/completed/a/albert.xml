@@ -1,0 +1,32 @@
+<Vocab id="6f82fc10-b81c-49fc-9710-159bcc2cb6fd" word="albert" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" value="Historical Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="72bfcf18-b78d-4ed1-9553-03bdd0b53319" ipa="/ˈæl.bərt/" vi_ipa="ép-bờ-rít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4dc9583a-71e0-4b33-b94c-50a7e0150ea0" type="Proper Noun">
+          <Vi>Tên riêng: Albert (thường dùng cho nam, nguồn gốc từ tiếng Anh cổ, nghĩa là "noble" – cao quý)</Vi>
+          <En>A male given name of Germanic origin, meaning "noble" or "bright".</En>
+          <Example>Prince Albert was the husband of Queen Victoria.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02bd62a3-5f1b-41cf-8844-7c85c3765d50">
+              <Vi>Dùng khi nhắc đến các nhân vật nổi tiếng mang tên Albert, như nhà vật lý Albert Einstein hoặc hoàng thân Albert.</Vi>
+              <En>Used when referring to famous individuals named Albert, such as physicist Albert Einstein or Prince Albert.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
