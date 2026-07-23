@@ -783,4 +783,6 @@
   <Profession id="e5c741ef-91e3-4a77-a81c-4d8c884f8d97" slug="palliative-care-specialist" value="Palliative Care Specialist" />
   <Profession id="eb50cdd8-a6b5-4213-bc0f-6372a8c94388" slug="restaurant-manager" value="Restaurant Manager" />
   <Profession id="e8407dba-fe3d-4970-bf95-5eeeeda54fad" slug="fertility-specialist" value="Fertility Specialist" />
+  <Profession id="4c441d82-d4c8-46b2-b8e0-1d4baba3668e" slug="geriatric-caregiver" value="Geriatric Caregiver" />
+  <Profession id="f00f03f5-34ba-4594-8670-b3a331160b23" slug="orthopedic-surgeon" value="Orthopedic Surgeon" />
 </Professions>

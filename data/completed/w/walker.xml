@@ -1,0 +1,56 @@
+<Vocab id="e3055dca-80ba-43f0-b04f-457a92502d8a" word="walker" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="007ee701-57f5-4c7c-b37f-269101bfc86f" value="Health &amp; Fitness" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="4c441d82-d4c8-46b2-b8e0-1d4baba3668e" value="Geriatric Caregiver" />
+    <Profession id="f00f03f5-34ba-4594-8670-b3a331160b23" value="Orthopedic Surgeon" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf052157-e22f-461f-8e32-e44639ba49b7" ipa="/ˈwɔː.kər/" vi_ipa="uó-cơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3ee596dd-fbad-41d4-a69e-0f0f33f14b5b" type="Noun">
+          <Vi>Người đi bộ; người tập đi (đặc biệt là trẻ em hoặc người già dùng dụng cụ hỗ trợ)</Vi>
+          <En>A person who walks, especially one using a walking aid such as a cane or walker frame for support and stability.</En>
+          <Example>She uses a four-wheeled walker to help her get around after knee surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18ae32a9-775c-4cfc-8e6d-7820cfdd53a8">
+              <Vi>Tình huống người cao tuổi sử dụng xe tập đi trong nhà hoặc bệnh viện.</Vi>
+              <En>A senior citizen using a walker indoors or in a rehabilitation center.</En>
+            </Situation>
+            <Situation id="8b633abd-3ac5-4494-8638-93dc473b0c5f">
+              <Vi>Tình huống người mới biết đi tập đi với sự hỗ trợ của người lớn.</Vi>
+              <En>A toddler learning to walk with a parent holding their hands or using a push walker toy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3b6a3fc9-455f-47e0-a359-8e104c59e465" type="Noun">
+          <Vi>Máy tập đi (dụng cụ hỗ trợ đi lại có khung kim loại hoặc nhựa)</Vi>
+          <En>A frame on wheels (or with rubber tips) used by people with mobility issues to aid walking and maintain balance.</En>
+          <Example>The physical therapist adjusted the height of the walker so it fit the patient properly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15dd7680-2703-4a69-b3e5-a29ffd6eeeed">
+              <Vi>Bác sĩ vật lý trị liệu hướng dẫn cách sử dụng xe tập đi sau chấn thương gãy xương hông.</Vi>
+              <En>A physical therapist demonstrates how to safely use a walker after a hip fracture.</En>
+            </Situation>
+            <Situation id="4a646928-5eec-44d2-b9c5-b5bb48bb49bc">
+              <Vi>Nhân viên cửa hàng bán dụng cụ y tế tư vấn chọn xe tập đi phù hợp cho bệnh nhân.</Vi>
+              <En>A medical supply store employee helps select the right walker for a patient’s needs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
