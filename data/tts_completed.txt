@@ -1812,3 +1812,4 @@ yellow
 register
 prediction
 signal
+severe

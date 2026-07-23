@@ -1,0 +1,54 @@
+<Vocab id="a44191be-5c42-459b-9637-8fa005188338" word="sheer" type="short" status="done">
+  <Topics>
+    <Topic id="1a68931c-9bd2-47dc-b2c4-2cc1f09e8979" value="Descriptive Language" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a19c605e-cb30-4d07-ac7d-513a3c1be966" ipa="/ʃɪr/" vi_ipa="sờ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="26eb66af-8c72-49cf-8dd0-152271e64507" type="Adjective">
+          <Vi>trong suốt, mỏng manh, không có độ đặc; hoàn toàn, thuần túy</Vi>
+          <En>completely transparent or very thin and delicate; (of a quality or state) absolute, total, or utter</En>
+          <Example>She wore a sheer silk blouse that revealed the outline of her dress underneath.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dbbc88ed-1462-4921-9e96-9e1a90032ccc">
+              <Vi>Mô tả vải mỏng, không che kín da (thường dùng trong thời trang).</Vi>
+              <En>Describing fabric that is so thin it is nearly transparent, commonly used in fashion contexts.</En>
+            </Situation>
+            <Situation id="c7deb5ea-1151-4bc3-aca4-58c432175d99">
+              <Vi>Dùng để nhấn mạnh mức độ tuyệt đối của một điều gì đó (thường mang sắc thái tiêu cực hoặc bi quan).</Vi>
+              <En>Used to emphasize the absolute or complete nature of something, often with a negative or pessimistic connotation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="24c40665-2d0e-4045-b92e-ef038645d0c7" type="Adjective">
+          <Vi>hoàn toàn, thuần túy (nhấn mạnh mức độ cao)</Vi>
+          <En>used to emphasize that something is complete or total, especially when unexpected or extreme</En>
+          <Example>It was sheer luck that we found the house before dark.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b4a9bd5-dfbd-4e8d-8a95-a49b8af258e3">
+              <Vi>Dùng để diễn đạt một điều xảy ra hoàn toàn do may mắn, không có yếu tố nào khác can thiệp.</Vi>
+              <En>Used to describe something happening entirely by chance or luck, with no other contributing factors.</En>
+            </Situation>
+            <Situation id="a28e2ad5-c029-4dd3-8bc8-0c10265a3e2d">
+              <Vi>Dùng để nhấn mạnh mức độ cực đoan hoặc không thể chối cãi của một tình huống.</Vi>
+              <En>Used to emphasize the extreme or undeniable nature of a situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
