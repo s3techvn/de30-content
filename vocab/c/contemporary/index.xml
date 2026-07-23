@@ -1,0 +1,40 @@
+<Vocab id="73156916-f188-44e1-85d5-71eb7aa8bdb7" word="contemporary" type="short" status="done">
+  <Topics>
+    <Topic id="0be4c4a4-5ac3-4184-b8f3-56f0fee0a270" value="Arts &amp; Culture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+  </Topics>
+  <Professions>
+    <Profession id="4e6b9a91-5492-4733-accf-3aa0c8225571" value="Art Historian" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f8b8a14f-5c8a-4ae1-b74b-1e84b55764dc" value="Sociologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="543c9c9c-65ae-48e8-965e-33ab46e1a73a" ipa="/kənˈtem.pər.ər.i/" vi_ipa="cơn-tém-pơ-rơ-rì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82271c89-08d1-4ba3-a5b5-2924c56a98ad" type="Adjective">
+          <Vi>đồng thời, cùng thời đại, hiện đại (đang diễn ra hoặc tồn tại trong cùng một thời kỳ)</Vi>
+          <En>Belonging to or occurring in the same period of time; modern or recent.</En>
+          <Example>She is one of the most influential contemporary artists of our time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e510865-6721-49da-9db8-fc7ad82287f6">
+              <Vi>Mô tả người, sự vật, sự kiện đang tồn tại hoặc xảy ra trong cùng một thời kỳ hiện tại.</Vi>
+              <En>Used to describe people, things, or events existing or occurring in the same current period.</En>
+            </Situation>
+            <Situation id="f17314c6-9809-444a-905b-adc7817066eb">
+              <Vi>So sánh với các phong cách hoặc tư tưởng cùng thời (đặc biệt trong nghệ thuật, văn học).</Vi>
+              <En>Used to compare styles or ideas from the same era, especially in art or literature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
