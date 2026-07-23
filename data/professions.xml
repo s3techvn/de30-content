@@ -634,4 +634,5 @@
   <Profession id="bf4be272-eb73-4035-98fc-485a99e34ecc" slug="waste-management-worker" value="Waste Management Worker" />
   <Profession id="6fabb7a5-5fe0-401b-be4c-26dd0d7b82a2" slug="croupier" value="Croupier" />
   <Profession id="dcee8947-a7ce-4130-8a75-d43d26085bf4" slug="casino-manager" value="Casino Manager" />
+  <Profession id="e8c38669-b790-43ca-aa6c-e96b32ab838b" slug="retail" value="Retail" />
 </Professions>

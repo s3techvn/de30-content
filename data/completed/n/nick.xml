@@ -1,0 +1,70 @@
+<Vocab id="515803a6-ff4a-4a05-ad67-db0a0d42eb9a" word="nick" type="short" status="done">
+  <Topics>
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" value="Law Enforcement" />
+    <Profession id="e8c38669-b790-43ca-aa6c-e96b32ab838b" value="Retail" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76fbfcbb-f6e4-469d-89ff-69bfe6188514" ipa="/nɪk/" vi_ipa="ních">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0df74e6a-b1cc-43fe-a2eb-c995848250c7" type="Noun">
+          <Vi>Cái cắn nhẹ; vết cắn nhỏ; (nghĩa bóng) một lần thử, một lần thử sức</Vi>
+          <En>A small cut or bite, especially by an animal; a small attempt or try</En>
+          <Example>He gave the apple a quick nick with his teeth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94930501-5dd8-4035-bece-a82884bbeb0b">
+              <Vi>Mô tả hành động cắn nhẹ vào đồ ăn hoặc vật gì đó.</Vi>
+              <En>Describing the act of taking a small bite or chewing lightly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="09c97971-7814-40a7-b00f-146c0a426996" type="Noun">
+          <Vi>(Anh) nhà giam nhỏ, phòng giam tạm; (Mỹ) trại giam giữ</Vi>
+          <En>(British) a small jail or holding cell; (American) a short-term detention facility</En>
+          <Example>The police took him to the nick for questioning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14f5371f-ca73-4064-81df-bc1c3976704c">
+              <Vi>Situation khi cảnh sát tạm giữ ai đó trước khi đưa ra xét xử hoặc phán quyết.</Vi>
+              <En>The situation when police temporarily hold someone before formal processing or trial.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f47d066-f2ef-4c9d-b16f-6677b92df27f" type="Verb">
+          <Vi>Cắn nhẹ; (nghĩa bóng) thử, thử một lần</Vi>
+          <En>To bite lightly; to make a small attempt</En>
+          <Example>She nicked a piece of the cake to taste it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="579f5b6b-6ec7-439a-83ee-a033819dc0b4">
+              <Vi>Mô tả hành động cắn nhẹ vào thức ăn để nếm thử.</Vi>
+              <En>Describing the act of taking a small bite to taste food.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="474eaddb-5e89-4cdd-bc22-b296a114107c" type="Verb">
+          <Vi>(Anh) bắt, giữ (ai đó) vì nghi ngờ phạm tội</Vi>
+          <En>(British) to arrest or detain someone on suspicion of a crime</En>
+          <Example>The officers nicked the suspect near the scene of the robbery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1b36e9db-1e5d-4dea-9c94-46c878b71d0d">
+              <Vi>Cảnh sát bắt giữ nghi phạm tại hiện trường.</Vi>
+              <En>Police arrest a suspect at or near the crime scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
