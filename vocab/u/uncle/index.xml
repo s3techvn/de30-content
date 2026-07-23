@@ -1,0 +1,32 @@
+<Vocab id="35a4d571-9360-4a47-9b2b-0f9a080c6092" word="uncle" type="short" status="done">
+  <Topics>
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="1327f354-c48d-4244-acbd-557a457b86b3" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a57a7f4d-13c0-40eb-be2d-d14364bda3db" ipa="/ˈʌŋ.kəl/" vi_ipa="àn-kờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e751b2e9-7912-4296-a82e-d7b2c3ed93d5" type="Noun">
+          <Vi>chú, cậu, bác trai, dì ruột (nam giới là anh/chàng/em trai của cha hoặc mẹ)</Vi>
+          <En>the brother of one’s father or mother; the husband of one’s aunt</En>
+          <Example>My uncle took us to the zoo last weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b6932596-4300-42a3-bc70-9f8036ae1048">
+              <Vi>Gọi người anh/em trai của cha hoặc mẹ là chú, cậu, hoặc bác tùy theo vùng miền và thứ bậc.</Vi>
+              <En>Refers to a brother of one’s father or mother, or the husband of one’s aunt; usage may vary regionally (e.g., "chú" for younger brother of father, "cậu" for mother’s brother in Vietnamese).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
