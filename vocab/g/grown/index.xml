@@ -1,0 +1,52 @@
+<Vocab id="0ef0cc8d-3b63-4dce-a610-de4f08c31b94" word="grown" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" value="Parent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="882b3460-8cf4-42a0-ab0f-fbad99591316" ipa="/ɡroʊn/" vi_ipa="grao-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0263cb2d-0c5a-487c-aaae-feb19c2675c2" type="Adjective">
+          <Vi>đã trưởng thành; đã lớn lên</Vi>
+          <En>Having reached full development or maturity, especially in age or physical size.</En>
+          <Example>She is a grown woman now, not a child anymore.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="77a455ea-bb00-40fd-8d70-3bb268ad72c4">
+              <Vi>Mô tả người đã đạt đến độ tuổi trưởng thành hoặc có kích thước cơ thể đầy đủ.</Vi>
+              <En>Describing a person who has reached adulthood or full physical size.</En>
+            </Situation>
+            <Situation id="273bb7d1-2f70-4b9d-8283-682fad80daf9">
+              <Vi>Dùng để phân biệt với trẻ em hoặc người chưa trưởng thành trong gia đình hoặc xã hội.</Vi>
+              <En>Used to distinguish adults from children or non-adults in family or social contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8261cec9-a892-4f7b-a301-8d6b5403ab0c" type="Adjective">
+          <Vi>đã phát triển đầy đủ (về khả năng, tư duy, cảm xúc)</Vi>
+          <En>Having developed fully in terms of mental, emotional, or intellectual capacity.</En>
+          <Example>He’s a grown-up in his thinking, despite his young age.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e917d573-caca-408d-9d44-79fb440d348d">
+              <Vi>Mô tả người có tư duy chín chắn, biết suy nghĩ và hành động như người lớn.</Vi>
+              <En>Describing someone who thinks and acts with maturity, despite chronological age.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
