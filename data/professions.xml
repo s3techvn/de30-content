@@ -566,4 +566,5 @@
   <Profession id="c759fe86-ba95-47bf-b9fb-ce6450fccfd0" slug="customs-agent" value="Customs Agent" />
   <Profession id="c1ab16c7-827a-48c9-9650-cca25e29f988" slug="butcher" value="Butcher" />
   <Profession id="12ae2d94-3349-4cc1-9ed1-0d0e6663c11b" slug="psychology" value="Psychology" />
+  <Profession id="27a93c60-0264-401b-a974-e60876a12a1f" slug="software-support-specialist" value="Software Support Specialist" />
 </Professions>
