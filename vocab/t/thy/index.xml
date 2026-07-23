@@ -1,0 +1,39 @@
+<Vocab id="78ee532a-db45-4d75-b7aa-82b2d3578dd1" word="thy" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65d6890b-9cb1-4a52-b538-cf2ba7a5d207" ipa="/ðaɪ/" vi_ipa="đai">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="02ecefe0-b659-4ade-9e02-f463dd5e7cc7" type="Pronoun">
+          <Vi>ngươi (hình thức sở hữu cách của 'thou', tương đương 'your' trong tiếng Anh hiện đại)</Vi>
+          <En>archaic second-person singular possessive pronoun, equivalent to modern English 'your'</En>
+          <Example>Thy will be done.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="5e74d1a2-4fc0-4844-90f8-a77616f6cb59">
+              <Vi>Ngữ cảnh tôn giáo, đặc biệt trong Kinh Thánh hoặc lễ祷告 (prayer)</Vi>
+              <En>Used in religious contexts, especially in the Bible or prayers</En>
+            </Situation>
+            <Situation id="bac9117d-857f-4747-8d76-ce816be3886c">
+              <Vi>Trong văn học cổ điển Anh, ví dụ như Shakespeare</Vi>
+              <En>Found in classical English literature, e.g., Shakespearean works</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
