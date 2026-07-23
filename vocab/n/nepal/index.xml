@@ -1,0 +1,38 @@
+<Vocab id="ab684c19-6227-4ed7-a5d6-ffb5f448cd0e" word="nepal" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7192ba0-724b-41e6-be5c-ae19642309c5" ipa="/nəˈpɑːl/" vi_ipa="nơ-pa-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6c13b306-7fce-4baf-913a-7260ce172f0d" type="Noun">
+          <Vi>Nepal</Vi>
+          <En>A landlocked country in South Asia, located between India and China, known for the Himalayas and Mount Everest.</En>
+          <Example>Many tourists visit Nepal to trek in the Annapurna range and see the base camp of Mount Everest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ada1d11-6c09-40cc-87d1-3c396c7190e2">
+              <Vi>Quốc gia Himalaya, nơi có đỉnh Everest và nhiều chuyến đi bộ đường dài nổi tiếng.</Vi>
+              <En>A Himalayan country with Mount Everest and famous trekking routes.</En>
+            </Situation>
+            <Situation id="364b5da4-878e-4bf8-a558-a73762c20f4c">
+              <Vi>Đất nước có nền văn hóa đa dạng, nơi sinh sống của nhiều dân tộc và tôn giáo như Hindu giáo và Phật giáo.</Vi>
+              <En>A country with diverse culture, home to many ethnic groups and religions such as Hinduism and Buddhism.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
