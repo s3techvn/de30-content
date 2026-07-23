@@ -1,0 +1,51 @@
+<Vocab id="e6335e97-f8b6-4953-b84b-2ec920590a30" word="lite" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+    <Topic id="a59e1eeb-9260-427e-bb80-4c34ca06bd36" value="Marketing &amp; Advertising" />
+  </Topics>
+  <Professions>
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7fa9f10c-4d86-420e-bac7-612f2ff0ddc5" ipa="/laɪt/" vi_ipa="lai-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e45a05ec-f67b-4d48-9354-d2d27b6e924f" type="Adjective">
+          <Vi>ít chất béo, ít calo, hoặc không chứa chất tạo ngọt thông thường (thường dùng để chỉ thực phẩm hoặc đồ uống có thành phần giảm so với phiên bản thông thường)</Vi>
+          <En>Reduced in fat, calories, or sugar compared to the regular version; often used for food or beverages marketed as healthier or lower in energy.</En>
+          <Example>She ordered a lite soda instead of the regular one to cut down on sugar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8f12732-cc0a-4e02-876d-ed8140107bba">
+              <Vi>Mua đồ uống hoặc thực phẩm có nhãn “lite” ở siêu thị để giảm calo.</Vi>
+              <En>Buying “lite” drinks or snacks at the grocery store for a lower-calorie option.</En>
+            </Situation>
+            <Situation id="78d1fb0d-e160-45a7-8997-627aba511129">
+              <Vi>Nhãn sản phẩm “lite” thường gây hiểu lầm vì vẫn có thể chứa nhiều đường hoặc chất béo khác.</Vi>
+              <En>The “lite” label on a product can be misleading, as it may still contain high amounts of other ingredients like sugar or salt.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="50cbe21a-5503-45fd-ac8d-eabe12005bb0" type="Adjective">
+          <Vi>nhẹ, không đặc biệt nổi bật hoặc quan trọng (thường mang tính miệt thị hoặc mỉa mai)</Vi>
+          <En>Light or lacking in substance, seriousness, or importance—often used dismissively or sarcastically.</En>
+          <Example>The movie was described as a “lite” romantic comedy—fun but not very deep.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="414cbc4a-7520-4d56-a665-98310d4ee278">
+              <Vi>Đánh giá một bộ phim là “lite” vì cốt truyện đơn giản, không có chiều sâu.</Vi>
+              <En>Calling a film “lite” because its plot is simple and lacks depth or complexity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
