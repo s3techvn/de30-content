@@ -1,0 +1,38 @@
+<Vocab id="48536fce-43f9-4158-935a-d4801e2bee7e" word="arrival" type="short" status="done">
+  <Topics>
+    <Topic id="b0a6c86b-eda7-46a8-a2e9-b5f6b7a50a04" value="Travel &amp; Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="610c64b6-83a1-47b6-b8ba-b46dbd0e43da" value="Airline Staff" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="45ff68f5-77f7-4e4a-aa56-2aa39bcc0caf" value="Event Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="aaed3fa5-4564-4ecb-955b-f07a831e4fe0" ipa="/əˈraɪ.vəl/" vi_ipa="ơ-rây-vờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a60bd14-b13c-4a05-acc3-e528c0e1d929" type="Noun">
+          <Vi>Sự đến, sự tới (đặc biệt là của người hoặc phương tiện giao thông)</Vi>
+          <En>The act of arriving at a place, especially a person or vehicle reaching a destination.</En>
+          <Example>Her arrival at the airport was delayed by two hours due to bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3bd48e0-537a-4bba-9fd1-b6786fe70ab9">
+              <Vi>Tình huống khi một chuyến bay, tàu, hoặc người cụ thể đến nơi đã định.</Vi>
+              <En>A situation where a flight, train, or specific person reaches the intended destination.</En>
+            </Situation>
+            <Situation id="4cf52070-9498-478f-9fd4-a96b1f0146b6">
+              <Vi>Lễ đón tiếp hoặc thông báo khi một vị khách quan trọng đến.</Vi>
+              <En>A formal welcome or announcement when an important guest reaches the destination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

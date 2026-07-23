@@ -1,0 +1,38 @@
+<Vocab id="9949e3c0-1a84-40f5-ad18-90ac13f6ecb2" word="solomon" type="short" status="done">
+  <Topics>
+    <Topic id="e598b726-87b3-4dd4-b123-69802fa3e29a" value="History &amp; Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="8b378611-b2d3-4392-824e-b9da18d0721c" value="Biblical Scholar" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4dfc88ea-160e-47fb-8018-a611b3abd551" ipa="/ˈsɒl.ə.mən/" vi_ipa="xô-lô-mên">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cbcb831c-7732-4fe5-80c6-cf0fea03d637" type="Proper Noun">
+          <Vi>Salomon, một vị vua nổi tiếng trong Kinh Thánh, con trai của vua Đavít và vua Sa-lô-môn, được biết đến vì sự khôn ngoan siêu việt và việc xây dựng Đền Thánh ở Giê-ru-sa-lêm.</Vi>
+          <En>Solomon: a biblical king, son of David, renowned for his exceptional wisdom and for building the First Temple in Jerusalem.</En>
+          <Example>The Queen of Sheba visited Solomon to test his wisdom with difficult questions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ff820c2-fb93-4581-a9b2-dc871793c694">
+              <Vi>Tham khảo Kinh Thánh, đặc biệt trong 1 Các Vua chương 3–10.</Vi>
+              <En>Referencing the Bible, especially 1 Kings chapters 3–10.</En>
+            </Situation>
+            <Situation id="25a8326c-0e9a-4949-9997-6380004b926e">
+              <Vi>Dùng để chỉ người có trí tuệ uyên bác hoặc phán xét công minh.</Vi>
+              <En>Used metaphorically to describe someone exceptionally wise or fair-minded in judgment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
