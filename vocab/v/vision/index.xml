@@ -1,0 +1,61 @@
+<Vocab id="8f538409-af70-4b98-ae5e-d9ba552353c8" word="vision" type="short" status="done">
+  <Topics>
+    <Topic id="72b37648-0420-495b-a31d-87cde3fd60d8" value="Health &amp; Science" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="09f812ac-617f-4a9d-bc5a-316fd0fc714c" value="Ophthalmologist" />
+    <Profession id="44817e93-f60f-4dcc-9e49-31b732af2d11" value="Optometrist" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="21067ef1-89f5-4f1f-ab61-47dbc3bf0dc5" value="Business Strategist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0f79b351-fc97-42bd-adad-06a4dcf113fc" ipa="/ˈvɪʒ.ən/" vi_ipa="vị-dơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a2c804d-41cf-4788-9c17-7a429afa3c98" type="Noun">
+          <Vi>thị lực; tầm nhìn (mắt)</Vi>
+          <En>The ability to see; the faculty of sight.</En>
+          <Example>Her vision improved after wearing the new glasses.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1879cf9c-32d4-4b36-a956-7f6fbbe7f081">
+              <Vi>Bác sĩ kiểm tra thị lực cho bệnh nhân.</Vi>
+              <En>The doctor checks the patient's vision during a routine eye exam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="33b9c28a-bb35-4872-be2a-08834b24866a" type="Noun">
+          <Vi>tầm nhìn (tư duy, tương lai)</Vi>
+          <En>A mental image of what the future will be like; a long-term goal or aspiration.</En>
+          <Example>The company’s vision is to become a global leader in renewable energy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3364e98-4aba-4840-b916-7d16ec477d86">
+              <Vi>CEO trình bày tầm nhìn chiến lược cho ban lãnh đạo.</Vi>
+              <En>The CEO presented the company’s five-year vision to the executive team.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8e465ef5-814f-49f0-ae3a-dd74b9c8d30a" type="Noun">
+          <Vi>điều nhìn thấy (đặc biệt là điều kỳ lạ, linh ứng)</Vi>
+          <En>A vivid mental image, especially one experienced in a dream, trance, or religious experience.</En>
+          <Example>During the meditation, he had a vision of a glowing light.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9bf39e39-a333-4365-bb25-2d8a408423c4">
+              <Vi>Nhà tiên tri kể về thị kiến trong giấc mơ.</Vi>
+              <En>The prophet described the vision he saw in his dream to the crowd.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
