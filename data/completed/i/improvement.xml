@@ -1,0 +1,52 @@
+<Vocab id="bf345292-a99b-4dc7-b15d-3107a802203c" word="improvement" type="short" status="done">
+  <Topics>
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9bd83035-7d15-4a0c-b882-c4b48402fa0b" ipa="/ɪmˈpruːv.mənt/" vi_ipa="im-pru-vơ-mơnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8fffe0f0-e74a-4365-b21d-2ff1479b4825" type="Noun">
+          <Vi>Sự cải tiến; sự tiến bộ; điều được cải tiến</Vi>
+          <En>The action or process of making something better; a positive change or enhancement</En>
+          <Example>She requested feedback to guide the improvement of the user interface.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66dae090-4490-4e74-8200-5a813c152d73">
+              <Vi>Người dùng hoặc nhà phát triển nâng cấp phần mềm để hoạt động hiệu quả hơn.</Vi>
+              <En>A user or developer enhances software functionality for better performance.</En>
+            </Situation>
+            <Situation id="6a0ed5a0-8328-4543-a451-282d36c8835b">
+              <Vi>Học sinh thực hiện cải tiến phương pháp học để đạt kết quả tốt hơn.</Vi>
+              <En>A student refines their study techniques to achieve better results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b4a34c72-a782-4f24-9726-319ef5e8c259" type="Noun">
+          <Vi>Sự tăng giá trị tài sản (trong bất động sản)</Vi>
+          <En>An addition or enhancement to a property that increases its value</En>
+          <Example>The installation of solar panels was considered a valuable improvement to the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9f8e975-ef18-43f3-91d8-7d8d5cab1074">
+              <Vi>Chủ nhà xây thêm phòng để tăng giá trị căn nhà.</Vi>
+              <En>The homeowner adds a new room to increase the property’s market value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
