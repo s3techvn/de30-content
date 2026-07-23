@@ -1,0 +1,40 @@
+<Vocab id="2e6bc911-6a3c-4d58-aacb-c175cf44df29" word="declared" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" value="Government Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a10bed9f-3299-49b5-a520-8ba297cc381a" ipa="/dɪˈkleərd/" vi_ipa="đê-kờ-lê-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0e12c4c-9a5b-4766-8c77-647bb2f47fc9" type="Adjective">
+          <Vi>đã được tuyên bố, đã được công bố</Vi>
+          <En>Stated or announced officially or publicly.</En>
+          <Example>The government declared the area a disaster zone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c4481164-2267-483a-afe3-ff3c0984ff52">
+              <Vi>Chính quyền công bố một khu vực là vùng thảm họa sau bão.</Vi>
+              <En>Authorities officially announce a region as a disaster zone after a hurricane.</En>
+            </Situation>
+            <Situation id="5a8c362f-f06f-4040-b1c5-540e850a4425">
+              <Vi>Công ty công bố kết quả kinh doanh quý cuối năm.</Vi>
+              <En>The company publicly announces its quarterly financial results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
