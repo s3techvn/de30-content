@@ -1,0 +1,52 @@
+<Vocab id="2512d9bf-a493-4842-87e7-1e2d07adbc5a" word="policy" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+    <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" value="Business Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="936729ef-a81c-4fdf-87bb-a336f0c6e6f4" ipa="/ˈpɑː.lə.si/" vi_ipa="pô-lây-si">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="03c0dbff-94b1-4719-af9a-0b07861c1b79" type="Noun">
+          <Vi>Chính sách; Quy định; Nguyên tắc hành động</Vi>
+          <En>A course of action or principle adopted or proposed by an organization, government, or individual.</En>
+          <Example>The company introduced a new remote-work policy to improve employee satisfaction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f18b0c7-6ecf-4d47-bd8e-72747d571a78">
+              <Vi>Chính phủ ban hành chính sách mới về bảo hiểm y tế.</Vi>
+              <En>The government announces a new health insurance policy.</En>
+            </Situation>
+            <Situation id="c50aae6f-fec2-4b8c-80ae-0b27c739836b">
+              <Vi>Công ty có chính sách không cho phép làm việc từ xa.</Vi>
+              <En>The company has a no-remote-work policy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="913cdcba-c611-4cfd-9848-af0227329d72" type="Noun">
+          <Vi>Bảo hiểm (thường dùng trong cụm từ như "life policy", "car policy")</Vi>
+          <En>A formal written agreement of insurance, especially life or property insurance.</En>
+          <Example>She renewed her car insurance policy last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1df95879-f2fe-4db9-bc7d-806f533655fc">
+              <Vi>Hợp đồng bảo hiểm nhân thọ hết hạn vào tháng tới.</Vi>
+              <En>The life insurance policy expires next month.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

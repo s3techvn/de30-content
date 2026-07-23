@@ -1,0 +1,64 @@
+<Vocab id="751c6838-691f-4f43-afb2-c9e5bcdc8f03" word="perfect" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="575ec5cc-4034-48d8-8233-38f0cd310838" ipa="/ˈpɜːr.fɪkt/" vi_ipa="pờ-rờ-fết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e26790c-213f-40d7-b04c-8aeb18fc301b" type="Adjective">
+          <Vi>hoàn hảo, hoàn toàn không có lỗi</Vi>
+          <En>having no flaws or defects; of the highest quality or standard</En>
+          <Example>She gave a perfect performance at the concert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e36eb484-4b82-470a-b00a-1b1cc6bb723b">
+              <Vi>Mô tả một sản phẩm, dịch vụ, hoặc hành động đạt mức độ xuất sắc, không thể cải thiện thêm.</Vi>
+              <En>Describing a product, service, or action that reaches the highest possible standard with no room for improvement.</En>
+            </Situation>
+            <Situation id="18802b64-7024-44a3-b180-fac15d2c924a">
+              <Vi>Dùng để nhấn mạnh sự chính xác tuyệt đối trong một hành động hoặc trạng thái.</Vi>
+              <En>Used to emphasize absolute accuracy in an action or state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="b3c659a3-37aa-433f-ab70-8cec7ca12d71" ipa="/pərˈfekt/" vi_ipa="pờ-rờ-fết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7810579e-eb52-4bc4-85a9-26e332419a6e" type="Verb">
+          <Vi>làm hoàn hảo, cải thiện cho đạt mức tối ưu</Vi>
+          <En>to make something as good as possible; to refine or improve something thoroughly</En>
+          <Example>He spent weeks perfecting his speech before the presentation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5628ed5-2588-4cbb-ad66-07874ea921ed">
+              <Vi>Tình huống khi một người cố gắng hết sức để nâng cao kỹ năng hoặc sản phẩm của mình.</Vi>
+              <En>A situation where someone works intensively to enhance their skill or output.</En>
+            </Situation>
+            <Situation id="4e206758-9830-4129-a8a7-f8f06a7b0312">
+              <Vi>Trong giáo dục hoặc đào tạo, khi học viên luyện tập để đạt kết quả tốt nhất.</Vi>
+              <En>In education or training, when learners practice repeatedly to achieve optimal results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
