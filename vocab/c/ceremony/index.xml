@@ -1,0 +1,44 @@
+<Vocab id="1c05b7b3-c96d-4112-be0d-cffc6779f7b6" word="ceremony" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="9ffea2b1-125c-4010-b71b-d34bba311f80" value="Social Events" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="1e088570-6dd1-497e-93ad-c2b4bdfabd63" value="Priest/Priestess" />
+    <Profession id="a96b92ff-f962-44f8-96ea-d42af68fe92a" value="Wedding Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6183405c-a8e9-4904-adab-1a8281b43ed2" ipa="/ˈser.ə.mə.ni/" vi_ipa="xê-rê-mô-ni">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f57b296-4087-46f4-b0e6-9b74ee63003d" type="Noun">
+          <Vi>lễ nghi; nghi thức; buổi lễ trang trọng</Vi>
+          <En>A formal religious or public occasion; a ritual or ceremony performed on a special occasion.</En>
+          <Example>The wedding ceremony took place at sunset in the garden.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20d8ebfb-654d-485f-a378-13ff8b9c909d">
+              <Vi>Buổi lễ kết hôn với nghi thức truyền thống và trang trọng.</Vi>
+              <En>A formal wedding event with traditional rituals and solemnity.</En>
+            </Situation>
+            <Situation id="f345153a-0b23-4332-a8ea-a113eb650fe6">
+              <Vi>Lễ tốt nghiệp với nghi thức trao bằng và bài phát biểu.</Vi>
+              <En>A graduation ceremony featuring diploma presentation and speeches.</En>
+            </Situation>
+            <Situation id="d88fc97d-48f3-48c4-9ea7-680e640ed038">
+              <Vi>Lễ khai mạc một sự kiện quốc gia hoặc tôn giáo.</Vi>
+              <En>A formal opening event for a national or religious occasion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

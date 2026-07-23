@@ -640,4 +640,6 @@
   <Profession id="c3ffd4fd-318d-4c93-9a3a-ac1cfc174fcc" slug="sports-journalist" value="Sports Journalist" />
   <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" slug="travel-guide" value="Travel Guide" />
   <Profession id="1e088570-6dd1-497e-93ad-c2b4bdfabd63" slug="priest/priestess" value="Priest/Priestess" />
+  <Profession id="2135917f-c236-4e53-9d85-789ad4769ab3" slug="household-staff" value="Household Staff" />
+  <Profession id="d7876cc0-8c7b-41ed-8485-d1a6e7886390" slug="hospitality" value="Hospitality" />
 </Professions>
