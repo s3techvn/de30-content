@@ -1,0 +1,32 @@
+<Vocab id="494f711b-aa9f-4361-9a8c-b43abb285cec" word="son" type="short" status="done">
+  <Topics>
+    <Topic id="4efc63d0-90e4-4341-bed5-e92958869ccd" value="Family" />
+  </Topics>
+  <Professions>
+    <Profession id="342bb9c8-8a53-4a47-95e8-73eb066ee646" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b276aa90-9bbb-4334-888e-0840b6581666" ipa="/sʌn/" vi_ipa="xơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="702c3042-7ef0-4762-8d1a-250ef21e99b1" type="Noun">
+          <Vi>con trai</Vi>
+          <En>a male child in relation to his parents</En>
+          <Example>My son is learning to ride a bicycle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f4aa2a43-14de-4979-89ab-f02242892697">
+              <Vi>Gọi người con trai của mình hoặc người khác khi nói về gia đình.</Vi>
+              <En>Referring to a male child when discussing family relationships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
