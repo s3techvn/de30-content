@@ -1,0 +1,52 @@
+<Vocab id="4ca65356-dff6-4c19-b557-f579449ebac8" word="terror" type="short" status="done">
+  <Topics>
+    <Topic id="68319244-13aa-4e8c-9877-c347b6864187" value="Emotions &amp; Feelings" />
+    <Topic id="699110dc-1d16-478c-8cff-3ec278652669" value="Security &amp; Safety" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c4707e6-8c71-435e-8b99-291fcc26488b" value="Security Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1fac552b-d920-41b5-9a3a-06690e974b80" ipa="/ˈter.ɚ/" vi_ipa="tờ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5e344feb-0891-4710-ada2-6b435c30ae24" type="Noun">
+          <Vi>Nỗi kinh hoàng; sự khiếp đảm</Vi>
+          <En>Extreme fear, especially the fear caused by the threat of violence or danger</En>
+          <Example>The victims were left in a state of terror after the terrorist attack.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="22db41a2-16e7-43d7-bb9f-5fb0dbcf00c3">
+              <Vi>Mô tả cảm giác sợ hãi tột cùng khi đối mặt với nguy hiểm đe dọa tính mạng.</Vi>
+              <En>Describes the feeling of extreme fear when facing life-threatening danger.</En>
+            </Situation>
+            <Situation id="196cbc99-bd5f-4bcc-a907-2758853a9565">
+              <Vi>Phản ứng tâm lý của cộng đồng sau một vụ tấn công khủng bố.</Vi>
+              <En>The psychological reaction of a community after a terrorist attack.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1b4a5b92-8c9b-41f0-9deb-45d6a2378a8e" type="Noun">
+          <Vi>Kẻ gây kinh hoàng; người đáng sợ</Vi>
+          <En>A person or thing that causes great fear or dread; a source of terror</En>
+          <Example>He was known as the terror of the neighborhood for his cruel pranks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9bbd6e6-7614-4219-9b5a-295134c5f4bd">
+              <Vi>Dùng để chỉ một người gây nỗi sợ trong một cộng đồng hoặc môi trường cụ thể.</Vi>
+              <En>Used to describe a person who instills fear in a specific community or environment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
