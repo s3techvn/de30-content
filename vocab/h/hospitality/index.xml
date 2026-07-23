@@ -1,0 +1,38 @@
+<Vocab id="f2f63e65-2445-4bb4-a8f4-5f359a7c303d" word="hospitality" type="short" status="done">
+  <Topics>
+    <Topic id="08f73551-1871-4c44-bee2-5551a8f895a9" value="Travel &amp; Social" />
+  </Topics>
+  <Professions>
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a2a4bdd0-1c15-4159-8f0c-d79f0ec8f5a0" ipa="/ˌhɒs.pɪˈtæl.ə.ti/" vi_ipa="hốt-pi-ta-li-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d3a9d5c-9f0f-4a3d-b556-d52af4c1c293" type="Noun">
+          <Vi>Sự tiếp đãi chu đáo; sự hiếu khách</Vi>
+          <En>The friendly and generous reception and entertainment of guests, visitors, or strangers.</En>
+          <Example>The hotel is known for its exceptional hospitality, making every guest feel welcome.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb205328-56db-4ac9-a90d-4a60cf549fdb">
+              <Vi>Chủ nhà chuẩn bị bữa ăn và trò chuyện vui vẻ với khách đến thăm.</Vi>
+              <En>The host prepares a meal and engages in cheerful conversation with visiting guests.</En>
+            </Situation>
+            <Situation id="60494a05-e317-4602-a57c-7d67d34d3e30">
+              <Vi>Nhân viên khách sạn nhiệt tình hỗ trợ du khách trong suốt kỳ nghỉ.</Vi>
+              <En>The hotel staff warmly assists tourists throughout their stay.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
