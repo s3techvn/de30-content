@@ -1,0 +1,60 @@
+<Vocab id="f84990e3-46bf-43df-b192-478e31901f02" word="mode" type="short" status="done">
+  <Topics>
+    <Topic id="34134c5e-ab79-4768-9e2b-fdb09b8d050e" value="Statistics" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="c09ef771-e05d-423a-aacc-1ba04f703054" value="Statistician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4da9d755-936c-4a9d-bf81-4ecfc069ad24" ipa="/moʊd/" vi_ipa="mô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41125992-fdd9-4b17-b6d1-c7b2713fbe6e" type="Noun">
+          <Vi>Giá trị xuất hiện nhiều nhất trong một tập dữ liệu</Vi>
+          <En>The value that appears most frequently in a data set</En>
+          <Example>The mode of the numbers 2, 3, 3, 4, 5 is 3.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55a44514-593f-4d8e-9f75-18b51d2cd63a">
+              <Vi>Phân tích thống kê dữ liệu định lượng</Vi>
+              <En>Statistical analysis of quantitative data to identify central tendency</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ed44527-b787-4ab2-9b3d-82c6716bb9f6" type="Noun">
+          <Vi>Chế độ hoạt động (của thiết bị, phần mềm, hệ thống)</Vi>
+          <En>A particular way in which something functions or operates</En>
+          <Example>This printer has multiple modes: draft, standard, and high-resolution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8394473b-e66a-4627-87b2-404f67495d07">
+              <Vi>Chọn chế độ tiết kiệm pin trên điện thoại</Vi>
+              <En>Selecting battery-saving mode on a smartphone</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d8bbabd0-46fd-4553-a798-da86ea0a4ccc" type="Noun">
+          <Vi>Phong cách, xu hướng phổ biến trong một thời điểm</Vi>
+          <En>A current trend or style, especially in fashion or behavior</En>
+          <Example>The mode of dress at the event was very formal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa3b8c93-17b7-4fa7-a993-a0fd1bec4dd6">
+              <Vi>Thời trang theo xu hướng hiện hành</Vi>
+              <En>Fashion reflecting the prevailing style or trend</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
