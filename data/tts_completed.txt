@@ -1112,3 +1112,4 @@ practical
 lime
 rim
 trap
+partly
