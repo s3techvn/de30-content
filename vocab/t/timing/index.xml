@@ -1,0 +1,57 @@
+<Vocab id="6c02a32e-bc92-4277-9263-4aaba0234c67" word="timing" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c52fd368-4141-4316-b07a-a6e3e8bcd825" value="Performance Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="ce767566-c0ce-4156-ae82-3e48dab78633" value="Conductor" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fab6da5b-985a-4e4f-aa0e-c23a6cc1b02e" ipa="/ˈtaɪ.mɪŋ/" vi_ipa="tái-minh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="374ce94c-2a2d-4d64-a3ea-fab4a7688d6f" type="Noun">
+          <Vi>Thời điểm, thời gian, nhịp độ</Vi>
+          <En>The exact time when something happens or should happen; the rate or rhythm at which something occurs.</En>
+          <Example>Good timing is essential for a successful comedy performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52dc7288-d818-4f79-9e60-50c7edec7405">
+              <Vi>Tình huống trong biểu diễn nghệ thuật, khi một diễn viên phải nói hoặc hành động đúng lúc để tạo hiệu ứng hài hước.</Vi>
+              <En>In a comedy performance, when an actor delivers a line exactly when the audience expects it for maximum comedic effect.</En>
+            </Situation>
+            <Situation id="022a4a2d-a1fc-4a15-bf47-41385f4b7ec8">
+              <Vi>Tình huống trong lập trình đồng bộ, khi các tiến trình phải được khởi chạy đúng thời điểm để tránh xung đột.</Vi>
+              <En>In concurrent programming, when multiple processes must start or respond at precise moments to avoid race conditions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="354c2716-9d58-4dca-b3fe-d013517fe92d" type="Noun">
+          <Vi>Thời điểm thích hợp (đặc biệt để đạt hiệu quả tối đa)</Vi>
+          <En>The opportune moment for doing something, especially one that maximizes success or impact.</En>
+          <Example>She had perfect timing when she announced her resignation—right before the company’s quarterly earnings call.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f83aebd-3d64-463b-8200-7fe159fc923b">
+              <Vi>Tình huống trong đàm phán, khi một người đưa ra đề xuất đúng lúc để đạt được lợi thế.</Vi>
+              <En>In negotiations, when one party presents a proposal at the moment the other side is most receptive.</En>
+            </Situation>
+            <Situation id="51da8972-c75e-4874-b4a1-43844111aad8">
+              <Vi>Tình huống trong thể thao, khi một cầu thủ thực hiện động tác đúng thời điểm để ghi bàn hoặc cản phá.</Vi>
+              <En>In soccer, when a player times their run to receive a pass just as the ball reaches the edge of the penalty area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
