@@ -1,0 +1,40 @@
+<Vocab id="fb589b6d-3cae-4752-b509-507f6c2340e2" word="modification" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6da60338-0258-4b70-a479-83deab6b9331" ipa="/ˌmɑː.dɪ.fɪˈkeɪ.ʃən/" vi_ipa="mô-đi-fi-cây-xi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67a240f4-898b-410b-824f-173dc24a5c29" type="Noun">
+          <Vi>Sự sửa đổi; sự thay đổi</Vi>
+          <En>The act of changing or adapting something, especially to improve or suit a new purpose.</En>
+          <Example>The software update included several important modifications to enhance user experience.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f40f5d8e-79b4-4083-8c64-fd5dc004086e">
+              <Vi>Sửa đổi phần mềm theo yêu cầu khách hàng.</Vi>
+              <En>Adjusting software features based on client requirements.</En>
+            </Situation>
+            <Situation id="bcd07dd2-dffd-4e4e-b222-9aa582dd55b9">
+              <Vi>Thay đổi thiết kế nhà để phù hợp với không gian hiện có.</Vi>
+              <En>Altering a house design to fit the existing space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

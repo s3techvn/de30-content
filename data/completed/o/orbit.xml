@@ -1,0 +1,66 @@
+<Vocab id="52b6b192-3b60-4e77-8c6e-67bd45726d84" word="orbit" type="short" status="done">
+  <Topics>
+    <Topic id="b206002e-7e19-4765-9f59-788f22d0207e" value="Astronomy" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="cdcb202d-f6d8-4933-91e1-82995eafed2a" value="Space Exploration" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+    <Profession id="24148d70-1ba2-4ecd-a877-f8d3ef09dd83" value="Astrophysicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55ac8a83-c0da-4842-b555-bcf7d4d63d9d" ipa="/ˈɔːr.bɪt/" vi_ipa="o-r-bit">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5e25f39a-4863-4da2-95b4-734520a3fba1" type="Noun">
+          <Vi>Quỹ đạo</Vi>
+          <En>The path described by one object in its regular course around another object, especially a planet or satellite around a star or planet.</En>
+          <Example>The Moon completes one orbit around Earth approximately every 27.3 days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="279109ca-5ca9-4d00-9de9-5da0c2455806">
+              <Vi>Mô tả đường đi của vệ tinh quanh Trái Đất.</Vi>
+              <En>Describing the path of a satellite circling Earth.</En>
+            </Situation>
+            <Situation id="c02fe941-0a9d-48cf-8a23-78c5ec0205e9">
+              <Vi>Chuyển động đều đặn của hành tinh quanh mặt trời.</Vi>
+              <En>The regular movement of a planet around the Sun.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a5a53da8-bd1e-404b-9ba2-54beb27b9820" ipa="/ˈɔːr.bɪt/" vi_ipa="o-r-bit">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="088b12c1-1876-4102-a7a2-016c756f859e" type="Verb">
+          <Vi>Quay quỹ đạo; bay quỹ đạo</Vi>
+          <En>To move in a curved path around a celestial body or object; to circle around something.</En>
+          <Example>The satellite will orbit Earth for five years before deorbiting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1679323-e66e-4255-b59d-00fa105269fb">
+              <Vi>Mô tả hành động của tàu vũ trụ bay quanh Trái Đất.</Vi>
+              <En>Describing a spacecraft circling Earth.</En>
+            </Situation>
+            <Situation id="afc098f3-6115-4ef0-808f-90e4913297c1">
+              <Vi>Chuyển động của vệ tinh nhân tạo quanh hành tinh.</Vi>
+              <En>The motion of an artificial satellite around a planet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
