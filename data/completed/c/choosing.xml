@@ -1,0 +1,32 @@
+<Vocab id="5037f260-2399-4967-9612-f0f196955121" word="choosing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2624e58b-9ae8-4a96-852b-302fd63f48e4" ipa="/ˈtʃuː.zɪŋ/" vi_ipa="chui-zing">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f47dbc3a-3140-4f8a-bbdd-cc467fd1e991" type="Verb">
+          <Vi>chọn, lựa chọn</Vi>
+          <En>the act of selecting or making a decision from available options</En>
+          <Example>Choosing the right college is one of the most important decisions you'll make.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa8fc7cb-358c-465a-9e57-e38bb2688845">
+              <Vi>Tình huống đưa ra quyết định giữa các lựa chọn</Vi>
+              <En>A situation where a person evaluates options and decides on one</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
