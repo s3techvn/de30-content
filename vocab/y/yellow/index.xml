@@ -1,0 +1,58 @@
+<Vocab id="c689b618-4bd4-46f5-a7f2-9d0726afda23" word="yellow" type="short" status="done">
+  <Topics>
+    <Topic id="a2e010c3-756e-47fa-97a6-84edd3622638" value="Colors" />
+  </Topics>
+  <Professions>
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="9b843fa5-0ee2-40b1-8cb6-537b0ae103e2" value="Fashion Stylist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d6f48b8d-9433-4f2f-8d17-3357be0dc268" ipa="/ˈjel.əʊ/" vi_ipa="gi-ê-l-ô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f95d83f-bf2b-48e6-8eb4-9bf0ee5fc1dd" type="Adjective">
+          <Vi>màu vàng</Vi>
+          <En>Of the color between green and orange in the spectrum; the color of ripe lemons or gold.</En>
+          <Example>The sunflower’s petals are a bright yellow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1203da2-ece0-4335-b1c1-89a448aa6f4c">
+              <Vi>Mô tả màu sắc của vật thể, ví dụ như hoa, áo quần, hoặc đồ vật.</Vi>
+              <En>Describing the color of an object, such as a flower, clothing, or item.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a847ea08-7673-4767-bd1a-c898915f9983" type="Adjective">
+          <Vi>gây sợ hãi, run rẩy (nghĩa bóng)</Vi>
+          <En>Experiencing fear or nervousness; cowardly.</En>
+          <Example>Don’t be yellow—speak up in the meeting!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13b013db-f3e4-4d74-bf19-1ed0cdbfc479">
+              <Vi>Dùng để chê bai ai đó nhút nhát hoặc thiếu can đảm trong tình huống căng thẳng.</Vi>
+              <En>Used to tease someone for being cowardly or hesitant in a tense situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="94524bc9-32ef-4e01-92da-6c06e572627f" type="Noun">
+          <Vi>màu vàng</Vi>
+          <En>The color between green and orange in the spectrum.</En>
+          <Example>She picked yellow as her favorite color.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5563fa4-b92f-40a1-8d19-bc6b12f459e9">
+              <Vi>Dùng khi nói về sở thích màu sắc hoặc chọn lựa trang phục, trang trí.</Vi>
+              <En>Used when discussing color preferences, fashion, or interior design choices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
