@@ -1,0 +1,32 @@
+<Vocab id="47e8433d-721e-408c-80c0-5791d5fac50a" word="marie" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="f0357e14-2308-42f3-9ec6-869044aa1227" value="Historical Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9ae15671-7f44-4806-864c-b939bcf5fe5a" ipa="/məˈriː/" vi_ipa="mơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="04baaf2e-4aed-41fc-b533-52ca770a27ef" type="Proper Noun">
+          <Vi>Tên riêng, thường là tên nữ (ví dụ: Marie Curie)</Vi>
+          <En>A feminine given name, notably borne by historical figures such as Marie Curie.</En>
+          <Example>Marie Curie was the first woman to win a Nobel Prize.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="755a4f4a-fac4-484a-9fab-1551d288c0bc">
+              <Vi>Dùng để chỉ một người phụ nữ, đặc biệt trong bối cảnh lịch sử hoặc văn hóa phương Tây.</Vi>
+              <En>Used to refer to a woman, especially in historical or Western cultural contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
