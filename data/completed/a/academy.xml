@@ -1,0 +1,50 @@
+<Vocab id="6479f3ec-5dfb-4825-ab20-881b8fc50d2a" word="academy" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="22b31477-7baf-49de-a2c7-8538c7580a93" ipa="/əˈkæd.ə.mi/" vi_ipa="ơ-ca-đê-mi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7cb2208b-b32d-4a49-a7cb-2ca66cc8834c" type="Noun">
+          <Vi>học viện; trường chuyên đào tạo chuyên sâu</Vi>
+          <En>An institution that provides advanced education or specialized training, especially in a particular field such as arts, sciences, or military tactics.</En>
+          <Example>She enrolled in the Royal Academy of Music to pursue her dream of becoming a concert pianist.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42a06db6-a1df-43c6-a5a9-560fc75eee0f">
+              <Vi>Một tổ chức giáo dục chuyên sâu về nghệ thuật, khoa học, hoặc kỹ thuật.</Vi>
+              <En>An educational institution focused on advanced study or specialized training in a specific discipline.</En>
+            </Situation>
+            <Situation id="704b717a-28a8-44a4-9644-c998f0f1d861">
+              <Vi>Các học viện quân sự như Học viện Quân sự Quốc gia.</Vi>
+              <En>Military training institutions, such as the United States Military Academy at West Point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3580f2c2-2d4d-45ec-b779-6b43a7771778" type="Noun">
+          <Vi>hội học thuật; hội khoa học</Vi>
+          <En>A society or organization dedicated to promoting arts, literature, or science through research, publications, and meetings.</En>
+          <Example>The National Academy of Sciences advises the U.S. government on scientific matters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a68a69c-76c0-4ef6-87c3-8442225058fc">
+              <Vi>Một tổ chức gồm các chuyên gia hàng đầu trong một lĩnh vực học thuật.</Vi>
+              <En>An organization composed of distinguished scholars and experts who advance knowledge in a particular field.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
