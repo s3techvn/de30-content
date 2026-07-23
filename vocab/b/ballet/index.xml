@@ -1,0 +1,38 @@
+<Vocab id="48466de0-b651-4896-b19c-7dd10bfee865" word="ballet" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="623b8b9d-57b6-4b03-a84a-590c577eeb2f" value="Choreographer" />
+    <Profession id="b7afe95f-b2ec-4dd7-b4b0-2b67dcab0fe5" value="Performing Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="96af9242-082a-48af-a8ce-4474195aa56f" ipa="/ˈbæl.eɪ/" vi_ipa="bờ-lê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="664ed03c-29aa-4ac0-9b3e-cde692a3f041" type="Noun">
+          <Vi>Ballet (một thể loại múa cổ điển)</Vi>
+          <En>A classical dance form characterized by precise and formalized movements, often performed to music in a theatrical setting.</En>
+          <Example>The dancers trained for months to perform Swan Lake.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="718080a3-41a8-47ce-91c0-28c3b09a6a63">
+              <Vi>Trình diễn nghệ thuật với kỹ thuật múa cổ điển nghiêm ngặt và trang phục cầu kỳ.</Vi>
+              <En>A performance featuring highly stylized movement, pointe shoes, and elaborate costumes.</En>
+            </Situation>
+            <Situation id="3439612f-f58f-43da-aa91-39d7e792bbdf">
+              <Vi>Học viện đào tạo múa ballet chuyên nghiệp.</Vi>
+              <En>A professional training institution for classical ballet technique.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

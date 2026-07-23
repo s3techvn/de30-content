@@ -1,0 +1,40 @@
+<Vocab id="85068109-dcca-45ab-b0a0-7004327b415b" word="exact" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e1544e83-5011-4d21-aef8-44d6a87b8d6c" ipa="/ɪɡˈzækt/" vi_ipa="ích-dắc-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45d654a7-4e2b-4a44-9218-85f60d96d52d" type="Adjective">
+          <Vi>chính xác; đúng như yêu cầu hoặc thực tế, không có sai lệch</Vi>
+          <En>precise; accurate; conforming exactly to a description, standard, or fact</En>
+          <Example>She gave an exact copy of the document, word for word.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b884187f-0989-4726-9a0f-98e919625963">
+              <Vi>Trong phòng thí nghiệm, các nhà khoa học cần đo lường chính xác từng mililit hóa chất.</Vi>
+              <En>In a laboratory, scientists must measure each milliliter of chemical precisely.</En>
+            </Situation>
+            <Situation id="db2b86a0-a04e-4878-bef2-264d9ad1458b">
+              <Vi>Khi làm bài thi, học sinh cần đưa ra câu trả lời đúng theo yêu cầu đề bài.</Vi>
+              <En>When taking a test, students must provide answers that match the question’s requirements exactly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
