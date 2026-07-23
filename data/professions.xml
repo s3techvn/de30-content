@@ -547,4 +547,5 @@
   <Profession id="ac5bca08-087c-4bcc-998a-632cc3f865f7" slug="home-cook" value="Home Cook" />
   <Profession id="29e9a450-4129-4644-872e-b99492c22378" slug="academic-administrator" value="Academic Administrator" />
   <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" slug="medical-researcher" value="Medical Researcher" />
+  <Profession id="c7b130a2-e9e1-43ff-aed3-b83a5cc55c7b" slug="security-guard" value="Security Guard" />
 </Professions>
