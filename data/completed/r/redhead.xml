@@ -1,0 +1,35 @@
+<Vocab id="75fbe454-7135-425e-addd-3bcc5890fd6a" word="redhead" type="short" status="done">
+  <Topics>
+    <Topic id="f2f975b9-9c8a-452c-8221-b9a101ceb82d" value="Appearance" />
+    <Topic id="b5352a81-540f-4cf3-8e63-dce02ae322c6" value="People &amp; Identity" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ac474751-b1a1-413d-8486-547f94477666" ipa="/ˈred.hɛd/" vi_ipa="rết-hết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc07daca-db34-484a-8cee-e78643e9c97b" type="Noun">
+          <Vi>người tóc đỏ</Vi>
+          <En>A person, especially a woman or child, with red hair.</En>
+          <Example>She’s a natural redhead and never dyes her hair.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="30404eb7-d11e-4cc8-b52d-b9cec24ae434">
+              <Vi>Mô tả người có mái tóc đỏ tự nhiên, thường nói đến khi nhấn mạnh đặc điểm ngoại hình nổi bật.</Vi>
+              <En>Used to describe someone with naturally red hair, often to highlight a distinctive physical trait.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
