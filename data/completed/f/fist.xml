@@ -1,0 +1,50 @@
+<Vocab id="b3456ca8-4fb0-4162-ba92-c1546e684d6a" word="fist" type="short" status="done">
+  <Topics>
+    <Topic id="0ddafe47-839e-48c4-96d4-ff2c581d55d3" value="Body &amp; Movement" />
+  </Topics>
+  <Professions>
+    <Profession id="c7a5f576-e21c-481f-87b0-36b06942494b" value="Boxer" />
+    <Profession id="da367c8f-a53c-40a6-9383-e566e4b08174" value="Martial Artist" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="44e8ed1f-c699-4c95-a254-32869b3b6342" ipa="/fɪst/" vi_ipa="phít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0781d2a3-f88a-4118-9b89-bf99b370a148" type="Noun">
+          <Vi>Cú nắm tay (bàn tay cụp ngón lại thành hình拳头)</Vi>
+          <En>A hand with the fingers curled tightly into the palm, especially as a gesture of anger or aggression.</En>
+          <Example>He clenched his fist and glared at the opponent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6cbfe2d7-3c7e-47d6-bf7d-921bf92319e8">
+              <Vi>Thể hiện sự tức giận hoặc sẵn sàng đánh nhau.</Vi>
+              <En>Showing anger or readiness to fight.</En>
+            </Situation>
+            <Situation id="57d64578-2c24-4b6f-a702-6e87a170ec37">
+              <Vi>Trong thể thao, ví dụ như quyền Anh, dùng nắm tay để đánh đối thủ.</Vi>
+              <En>In sports like boxing, using the fist to strike an opponent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4ed8cd0f-aa72-4bd0-b870-8bb089f946c7" type="Verb">
+          <Vi>Nắm chặt tay lại</Vi>
+          <En>To close the hand tightly so that the fingers are curled into the palm.</En>
+          <Example>She fists her hands under the table to hide her nervousness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e6acc40-27c2-4123-a8d9-ab348a24821c">
+              <Vi>Khi cố kìm chế cảm xúc như tức giận hoặc lo lắng.</Vi>
+              <En>When trying to suppress emotions such as anger or anxiety.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

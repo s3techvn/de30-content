@@ -1,0 +1,32 @@
+<Vocab id="807953ce-9ea0-4428-8159-82bf973c1044" word="adrian" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="b6aa49ef-4ff1-425a-9e11-1388fbab0ef2" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b79e9cfe-e02c-4f49-8caf-d7f0d3644043" ipa="/ˈæd.ri.ən/" vi_ipa="ác-ri-an">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a7741d0e-54c2-4cea-8a1b-3cb4d2901c6d" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là tên nam giới</Vi>
+          <En>A masculine given name or surname of Latin origin, historically associated with the Roman family name Adrianus.</En>
+          <Example>Adrian Newey is a renowned British Formula One car designer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7773b037-3048-4359-ba2a-1dae50f7b9d9">
+              <Vi>Dùng khi đề cập đến một người có tên Adrian, ví dụ trong giới thể thao, nghệ thuật, hay học thuật.</Vi>
+              <En>Used when referring to a person named Adrian, e.g., in sports, arts, or academia.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
