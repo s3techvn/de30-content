@@ -1,0 +1,54 @@
+<Vocab id="f66c124f-a158-45ad-857b-9ef20405544a" word="dairy" type="short" status="done">
+  <Topics>
+    <Topic id="dd8b786b-42fc-4d0a-96e1-9f618f5d727e" value="Food &amp; Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5e62640e-ff42-4277-ac79-82d21ae5fa8e" ipa="/ˈder.i/" vi_ipa="đờ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="60e99035-2eb5-45a3-a4ca-d251ee144d4c" type="Noun">
+          <Vi>Sữa và các sản phẩm từ sữa; trang trại nuôi bò sữa</Vi>
+          <En> Milk and products made from milk, or a farm where milk is produced.</En>
+          <Example>She opened a small dairy shop selling fresh milk, cheese, and yogurt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af0e16bc-8a05-4860-8938-28d559399a4a">
+              <Vi>Mô tả một cửa hàng bán sữa tươi và các sản phẩm từ sữa.</Vi>
+              <En>Describing a shop that sells fresh milk and dairy products.</En>
+            </Situation>
+            <Situation id="bf6d12b0-8225-4ee7-a1d9-047eb30f1052">
+              <Vi>Mô tả một trang trại chuyên nuôi bò để lấy sữa.</Vi>
+              <En>Describing a farm dedicated to milk production.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f88626b9-ac1b-4ee8-b40b-3103f73d0f06" type="Adjective">
+          <Vi>Thuộc về sữa; làm từ sữa</Vi>
+          <En>Relating to milk or produced from milk.</En>
+          <Example>The recipe calls for dairy-free alternatives like almond milk.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c28ffac3-e187-4de7-a347-1ded4cf588ea">
+              <Vi>Mô tả thực phẩm chứa sữa hoặc chiết xuất từ sữa.</Vi>
+              <En>Describing foods that contain or are derived from milk.</En>
+            </Situation>
+            <Situation id="dfe91bcf-aaf8-4430-8866-0d7104d28bc9">
+              <Vi>Mô tả chế độ ăn không dùng sản phẩm từ sữa (dairy-free).</Vi>
+              <En>Describing dietary choices that exclude milk-based products.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
