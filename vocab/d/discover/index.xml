@@ -1,0 +1,52 @@
+<Vocab id="41fe61ef-09d0-4f76-9d34-68b953464421" word="discover" type="short" status="done">
+  <Topics>
+    <Topic id="910d4721-9007-43a2-a594-e534e0d2a94c" value="Science and Discovery" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="260baef6-9cd8-4ba9-a4a4-b67152f222f5" value="Explorer" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1087f29c-64a6-4002-b8c1-fc2bf07a5a22" ipa="/dɪˈskʌv.ɚ/" vi_ipa="đi-sờ-cợp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fc3fe77d-e820-4ec8-ba96-9098f804378e" type="Verb">
+          <Vi>khám phá; phát hiện</Vi>
+          <En>to find (something or someone) unexpectedly or in the course of a search</En>
+          <Example>Galileo discovered the moons of Jupiter using a telescope.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e71e34e0-f028-48b7-b090-89e82fb3e992">
+              <Vi>Một nhà khoa học tìm ra một hiện tượng tự nhiên mới.</Vi>
+              <En>A scientist finds a new natural phenomenon.</En>
+            </Situation>
+            <Situation id="482c7a1f-70e3-4ec8-87e6-80d73584b307">
+              <Vi>Tôi vô tình phát hiện ra một lỗi trong phần mềm.</Vi>
+              <En>I accidentally discovered a bug in the software.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bca1bee3-06e1-409b-968f-3f3c72ddc1e2" type="Verb">
+          <Vi>biết được; nhận ra (thông tin, sự thật)</Vi>
+          <En>to learn or become aware of new information or a fact</En>
+          <Example>She discovered that her keys had been under her pillow all along.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20007973-474a-4a54-9b99-05dd9b9a184e">
+              <Vi>Tôi vừa mới biết được rằng anh ấy đã từ chức.</Vi>
+              <En>I just discovered that he had resigned.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

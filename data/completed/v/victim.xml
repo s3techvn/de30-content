@@ -1,0 +1,56 @@
+<Vocab id="e5e74b68-f465-416a-b32c-2e4e60eff5d3" word="victim" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="d378d72c-a798-4501-b0c2-b2db6bf64185" value="Health &amp; Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8e068e03-d01d-475d-a156-1da3c6b21f11" ipa="/ˈvɪk.tɪm/" vi_ipa="vích-tim">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6b34a3e0-70dc-4fc8-9958-7229aa480edd" type="Noun">
+          <Vi>người bị hại</Vi>
+          <En>a person who suffers harm, especially physical, emotional, or financial, as a result of a crime, accident, or other adverse event</En>
+          <Example>The victim of the car accident was rushed to the hospital immediately.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04716aea-da88-4c8b-915a-0674efe7204c">
+              <Vi>Người bị tấn công hoặc lừa đảo trong một vụ phạm tội.</Vi>
+              <En>A person targeted and harmed in a criminal act, such as robbery or fraud.</En>
+            </Situation>
+            <Situation id="df861972-48d9-44e2-af07-92c6c75508a7">
+              <Vi>Người bị tổn thương tinh thần do sự kiện chấn thương tập thể.</Vi>
+              <En>A person experiencing psychological trauma after a natural disaster or mass incident.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="21fa86ae-9f70-4788-a3c7-dbd5fe216085" type="Noun">
+          <Vi>người bị hiến tế (trong nghi lễ); người bị hy sinh (để đạt mục đích khác)</Vi>
+          <En>a person or thing sacrificed or harmed for the benefit of others or for a particular purpose</En>
+          <Example>He felt like a victim of office politics when he was blamed for the project’s failure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a434f81-1105-46e3-9534-889a7c8fc2e4">
+              <Vi>Người bị ép buộc hoặc lừa gạt để phục vụ lợi ích của người khác.</Vi>
+              <En>A person manipulated into taking the blame or bearing the consequences for someone else’s actions.</En>
+            </Situation>
+            <Situation id="0d391964-60e6-423e-971f-a62823141d07">
+              <Vi>Người bị hiến tế trong một nghi lễ tôn giáo cổ xưa.</Vi>
+              <En>A person ritually sacrificed in ancient religious practices.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
