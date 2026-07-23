@@ -1,0 +1,40 @@
+<Vocab id="a43206e1-f736-432c-aff6-a0e81739a8f0" word="interference" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="57e54a16-5364-4eae-b964-f2379412d4c4" value="Telecommunications Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d5ca79e-43f1-4d02-a3bc-13dbb1a68650" ipa="/ˌɪn.təˈfɪər.əns/" vi_ipa="in-tơ-fờ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="83f0065b-4d14-415a-a29b-a1f7cb648712" type="Noun">
+          <Vi>Sự can thiệp; sự nhiễu (vật lý)</Vi>
+          <En>The action or process of interfering with something or someone; in physics, the phenomenon where two or more waves superpose to form a resultant wave of greater, lower, or the same amplitude.</En>
+          <Example>The radio signal was disrupted due to interference from nearby electronic devices.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52e94dca-61ab-4424-96d9-49bc2130557c">
+              <Vi>Tình huống có thiết bị điện tử gây nhiễu tín hiệu không dây.</Vi>
+              <En>A situation where electronic devices cause wireless signal disruption.</En>
+            </Situation>
+            <Situation id="3d3498d3-525a-46dc-b4b5-bc968a8723dc">
+              <Vi>Tình huống một bên can thiệp vào công việc riêng tư của người khác.</Vi>
+              <En>A situation where someone intrudes into another person’s private affairs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
