@@ -1,0 +1,82 @@
+<Vocab id="92c37234-fb93-45cf-9b61-137a3b5272bf" word="major" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7d2e734d-cc7f-4ed2-9203-f56ffe362ea4" ipa="/ˈmeɪ.dʒər/" vi_ipa="mê-gơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d4bf8d9-3996-4ba5-9276-e9bca560a9c2" type="Adjective">
+          <Vi>chính, quan trọng, lớn</Vi>
+          <En>more important, serious, or significant than others of the same kind.</En>
+          <Example>She has a major role in the film.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5e5f76cf-3dd8-406c-a00c-39f47b3d58d0">
+              <Vi>Mô tả một vấn đề, vai trò, hoặc yếu tố có mức độ quan trọng cao.</Vi>
+              <En>Describing an issue, role, or factor that holds high importance or impact.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2daa1b48-d091-49ef-95ce-d5e5d9749fb1" type="Adjective">
+          <Vi>chuyên ngành (dùng trong học đường)</Vi>
+          <En>the main field of study at a university, especially one chosen by a student.</En>
+          <Example>He is a biology major.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9157c885-fa53-40d4-ba5d-14627c663365">
+              <Vi>Dùng để nói về chuyên ngành học của sinh viên đại học.</Vi>
+              <En>Used to refer to a student’s primary academic discipline at university.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="98bfdf7b-cc87-4632-ae8d-7c4df8800f7f" ipa="/ˈmeɪ.dʒər/" vi_ipa="mê-gơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7885f0d4-cc95-4d10-aa73-4ed09e2a8f80" type="Noun">
+          <Vi>chuyên ngành (danh từ)</Vi>
+          <En>a main academic subject that a student specializes in.</En>
+          <Example>She changed her major from chemistry to physics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="edd7ca4c-900b-4b20-a0ca-a4ed13421583">
+              <Vi>Dùng khi nói về việc chọn hoặc thay đổi chuyên ngành học.</Vi>
+              <En>Used when discussing selecting or changing a student’s primary field of study.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="886f2760-b4cd-438a-999a-c33e5acd537b" type="Noun">
+          <Vi>hàng lớn (trong thương mại)</Vi>
+          <En>the main or principal amount in a financial transaction, as opposed to interest or fees.</En>
+          <Example>The bond pays interest on the major.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e00bacb-844e-44c8-a9c3-111fc700ed0b">
+              <Vi>Dùng trong ngữ cảnh tài chính để chỉ vốn gốc (không tính lãi).</Vi>
+              <En>Used in finance to refer to the principal sum, excluding interest or additional charges.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
