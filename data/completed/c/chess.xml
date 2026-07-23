@@ -1,0 +1,36 @@
+<Vocab id="bb9f6456-8834-4166-8875-9365894d9041" word="chess" type="short" status="done">
+  <Topics>
+    <Topic id="1a648ab6-1b03-4658-9e89-2fb627cfb06c" value="Games &amp; Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="42821ff6-4b78-429e-8f34-1ebcc9d4684b" value="Chess Player" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f9aca23c-153f-4928-bfde-9d438011bcbc" ipa="/tʃɛs/" vi_ipa="chess">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="398f39b5-2e89-4428-9a5c-4bec3959c61e" type="Noun">
+          <Vi>cờ vua</Vi>
+          <En>A strategic two-player board game played on an 8x8 checkered board, where each player controls 16 pieces (including a king, queen, rooks, bishops, knights, and pawns) with the objective of checkmating the opponent’s king.</En>
+          <Example>He has been playing chess since he was five years old.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="729c23eb-943a-460b-a790-79845ec3749c">
+              <Vi>Trò chơi trí tuệ hai người chơi trên bàn cờ 64 ô, với mục tiêu chiếu hết vua đối phương.</Vi>
+              <En>A two-player strategic game on a 64-square board, where the goal is to checkmate the opponent’s king.</En>
+            </Situation>
+            <Situation id="fa26c007-9b8b-42b9-9cfb-71faa8f0ae23">
+              <Vi>Các giải đấu cờ vua quốc tế như Olympiad hay World Chess Championship.</Vi>
+              <En>International chess competitions such as the Chess Olympiad or the World Chess Championship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
