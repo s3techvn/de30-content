@@ -1,0 +1,32 @@
+<Vocab id="0b37dbbb-6e8f-4701-aa82-d2d90130f105" word="keno" type="short" status="done">
+  <Topics>
+    <Topic id="29248cfe-d0ab-423f-8567-69c63077f235" value="Gambling" />
+  </Topics>
+  <Professions>
+    <Profession id="b8937b14-385b-414f-9461-8268d5f21b56" value="Casino Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ca676e2-eba4-4c4f-8435-fda414dc1a84" ipa="/ˈkiː.noʊ/" vi_ipa="ki-nô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3fabce3a-22d2-4fe3-a14d-f1e8b89df732" type="Noun">
+          <Vi>trò xổ số kiểu đánh số, phổ biến ở sòng bạc Mỹ</Vi>
+          <En>A casino game in which players bet on how many of a set of 20 numbers they can correctly guess from a draw of 80 numbers</En>
+          <Example>Many tourists try their luck at keno in Las Vegas casinos.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f51455c1-fe3b-43b5-afba-59d145f0a041">
+              <Vi>Người chơi chọn từ 1 đến 10 số từ bảng 80 số, sau đó quay ngẫu nhiên 20 số; người thắng nếu có đủ số dự đoán trùng với kết quả.</Vi>
+              <En>Players select up to 10 numbers from 1 to 80; 20 numbers are drawn at random; payouts depend on how many selections match.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

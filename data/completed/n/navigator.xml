@@ -1,0 +1,41 @@
+<Vocab id="691d63b2-00bb-4818-9ce5-df93fdf06e8c" word="navigator" type="short" status="done">
+  <Topics>
+    <Topic id="b0a6c86b-eda7-46a8-a2e9-b5f6b7a50a04" value="Travel &amp; Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="353bbf80-89f5-4208-b05d-0bb075d85269" value="Aviation &amp; Maritime" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="3f4aaa3e-ac28-4f72-ac4d-ad3e6275e4f3" value="Ship Captain" />
+    <Profession id="3cf0b40f-5db4-4144-af77-e45f16902a30" value="Aviation Engineer" />
+    <Profession id="cb8b09a2-838b-4926-bda2-90e18a7c2f5f" value="Software Developer (Navigation Apps)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="29ac71f4-cd82-45e9-a173-bd30222350eb" ipa="/ˈnæv.ə.ɡeɪ.tər/" vi_ipa="nê-vơ-gây-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="940ff677-cc93-4d02-b9f6-2f4a6feeaf38" type="Noun">
+          <Vi>Người dẫn đường; người điều hướng (đặc biệt trên tàu, máy bay hoặc trong công nghệ)</Vi>
+          <En>A person who plans, records, and monitors the route or course of a ship, aircraft, or other vehicle, especially using maps, charts, or electronic systems.</En>
+          <Example>The experienced navigator used GPS and celestial observations to guide the ship safely across the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc78f18b-a18f-47f2-a1c0-1c834a620aae">
+              <Vi>Người chuyên phụ trách định vị và điều hướng trong các chuyến bay hoặc hành trình hàng hải.</Vi>
+              <En>A professional responsible for route planning and real-time navigation during flights or sea voyages.</En>
+            </Situation>
+            <Situation id="1649d7e7-680e-43d8-8f66-fd0549e30b1a">
+              <Vi>Ứng dụng hoặc phần mềm giúp người dùng xác định vị trí và đường đi (ví dụ: Google Maps Navigator).</Vi>
+              <En>A software application (e.g., Google Maps Navigator) that provides turn-by-turn directions and real-time route guidance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
