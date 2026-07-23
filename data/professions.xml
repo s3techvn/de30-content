@@ -598,4 +598,6 @@
   <Profession id="cae4e92d-1eb2-4253-89fc-448c71bba575" slug="biochemist" value="Biochemist" />
   <Profession id="f152d0ca-8bbc-42cf-917d-358dd464df3e" slug="camera-engineer" value="Camera Engineer" />
   <Profession id="cb626b57-17ad-4c73-95f9-486c8db10f8b" slug="human-resources" value="Human Resources" />
+  <Profession id="fdee974f-89d8-4246-8313-cb27557258b0" slug="mentor" value="Mentor" />
+  <Profession id="4ec92697-1c1b-40fe-9f5f-6bb0fd403ff1" slug="career-advisor" value="Career Advisor" />
 </Professions>

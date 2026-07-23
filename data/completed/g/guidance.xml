@@ -1,0 +1,41 @@
+<Vocab id="434bd684-c582-4ae6-aff0-dbdbec061da2" word="guidance" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="fdee974f-89d8-4246-8313-cb27557258b0" value="Mentor" />
+    <Profession id="4ec92697-1c1b-40fe-9f5f-6bb0fd403ff1" value="Career Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="41be4c81-5427-4e55-a385-07c25d575807" ipa="/ˈɡaɪ.dəns/" vi_ipa="gái-dơns">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fa40f806-632c-49f0-867e-0b66e95fdab6" type="Noun">
+          <Vi>Sự hướng dẫn; sự chỉ bảo</Vi>
+          <En>Advice or recommendations offered as a guide to action or conduct, especially in education or career decisions.</En>
+          <Example>The teacher provided guidance on how to write a strong college application essay.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="91bb2bd1-86fc-4b1f-9c56-0bbb53de08df">
+              <Vi>Học sinh được giáo viên hướng dẫn chọn ngành học phù hợp.</Vi>
+              <En>A student receives guidance from a teacher on choosing a suitable major.</En>
+            </Situation>
+            <Situation id="8aa5f9a5-a520-4504-b5a6-b9c85795bc75">
+              <Vi>Cố vấn nghề nghiệp đưa ra lời khuyên về lộ trình phát triển sự nghiệp.</Vi>
+              <En>A career counselor offers guidance on career development pathways.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
