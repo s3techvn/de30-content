@@ -1,0 +1,56 @@
+<Vocab id="76b0cba5-0fd6-45dc-b04f-17c506798589" word="chapel" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a41d223-df59-4960-af15-584449e3db7b" ipa="/ˈtʃæp.əl/" vi_ipa="cháp-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0f88fb5-3d58-4193-bb34-1cfee661979e" type="Noun">
+          <Vi>Nhà nguyện</Vi>
+          <En>A small Christian place of worship, typically one that is part of a larger building such as a hospital, school, or airport.</En>
+          <Example>The patient attended a chapel service before her surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79489433-af8d-48fe-8b39-1f8a3e6d2100">
+              <Vi>Một không gian cầu nguyện nhỏ trong bệnh viện dành cho bệnh nhân và nhân viên.</Vi>
+              <En>A small prayer space inside a hospital for patients and staff.</En>
+            </Situation>
+            <Situation id="d402ccfd-8415-4ec2-8d8a-953eefc2e68f">
+              <Vi>Nhà nguyện trong trường đại học nơi sinh viên tổ chức lễ cầu nguyện hàng tuần.</Vi>
+              <En>A chapel on a university campus where students hold weekly prayer services.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="de4794d4-9b12-48fc-8e09-8e4f9eec4add" type="Noun">
+          <Vi>Nhà thờ nhỏ (thường gắn với lâu đài, tu viện, hoặc nghĩa trang)</Vi>
+          <En>A small church, especially one attached to a castle, monastery, or cemetery.</En>
+          <Example>The ancient chapel stands on a hill overlooking the village.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="692da3f6-a33e-45c9-ab81-77b434de600f">
+              <Vi>Nhà nguyện trong khuôn viên lâu đài cổ, dùng cho gia đình quý tộc.</Vi>
+              <En>A small church within a castle’s grounds, used by the noble family.</En>
+            </Situation>
+            <Situation id="48b3de32-90ea-431a-bf04-1dd7cb9860d4">
+              <Vi>Nhà nguyện trong nghĩa trang dành cho tang lễ nhỏ.</Vi>
+              <En>A small church in a cemetery used for private funeral services.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
