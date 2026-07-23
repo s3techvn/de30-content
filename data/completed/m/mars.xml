@@ -1,0 +1,38 @@
+<Vocab id="1453a0f1-7b7f-4b6b-949d-7ec3208fb432" word="mars" type="short" status="done">
+  <Topics>
+    <Topic id="b206002e-7e19-4765-9f59-788f22d0207e" value="Astronomy" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="eb14aa35-6b83-4d49-833c-c77fdeb752bd" value="Space Scientist" />
+    <Profession id="92e8ce00-b6ab-4ccc-9392-cba47d33932b" value="Science Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9823161f-ad82-48a7-830b-0e5f711a68db" ipa="/mɑːrz/" vi_ipa="mác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1f0e8bd9-0523-459a-b195-c85add1d09c9" type="Noun">
+          <Vi>Sao Hỏa</Vi>
+          <En>The fourth planet from the Sun, known for its reddish appearance and potential for past microbial life.</En>
+          <Example>Mars is the target of numerous robotic missions by NASA and other space agencies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e001fa42-1052-448e-8b56-dd14412ca5ba">
+              <Vi>Trong các bài học thiên văn học, khi nói về các hành tinh trong Hệ Mặt Trời.</Vi>
+              <En>In astronomy lessons, when discussing planets in the Solar System.</En>
+            </Situation>
+            <Situation id="aeae2dc8-768a-45f8-a110-65a336d75a11">
+              <Vi>Khi thảo luận về thám hiểm không gian và khả năng sống trên các hành tinh khác.</Vi>
+              <En>When discussing space exploration and the possibility of life on other planets.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

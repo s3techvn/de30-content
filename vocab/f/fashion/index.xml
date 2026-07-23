@@ -1,0 +1,46 @@
+<Vocab id="13b6b92a-c8a0-4f1f-b317-b8740e3bbb02" word="fashion" type="short" status="done">
+  <Topics>
+    <Topic id="64295436-c81e-477c-8d52-789c15aca853" value="Lifestyle" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="bb91ef34-6dd4-4167-87b6-6b75aafb7cfd" value="Stylist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bdc2761d-e235-4fa9-83e3-1f9d03276301" ipa="/ˈfæʃ.ən/" vi_ipa="phết-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5eea8694-54b9-45af-8ca1-c9c60c20964e" type="Noun">
+          <Vi>thời trang</Vi>
+          <En>The prevailing style or custom in clothing, hair, or behavior at a particular time.</En>
+          <Example>She follows the latest fashion trends closely.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e57e7cde-f70d-4266-93b8-0960a2af82b5">
+              <Vi>Mô tả xu hướng trang phục, kiểu tóc hoặc lối sống được ưa chuộng trong một thời điểm nhất định.</Vi>
+              <En>Describing clothing, hair, or behavior styles that are popular at a given time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0ae436ed-7153-4164-919f-340983843eaf" type="Verb">
+          <Vi>định hình, tạo nên (một xu hướng)</Vi>
+          <En>To shape or form something, especially a trend or style, often by influence or design.</En>
+          <Example>The designer helped to fashion a new look for the brand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e03c8a30-fa97-458c-8e1a-8f96d92edfd1">
+              <Vi>Chỉ hành động tạo ra hoặc phát triển một phong cách hoặc xu hướng mới.</Vi>
+              <En>Refers to the act of creating or developing a new style or trend.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
