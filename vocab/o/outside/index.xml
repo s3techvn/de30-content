@@ -1,0 +1,47 @@
+<Vocab id="b6f1ca50-d9a0-42d7-8fe6-0eee7e33f27c" word="outside" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f6ccc276-1db9-4fb7-b4bd-78f257fc20d0" value="Location" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="bd73795d-91d9-42a6-9373-79cee8a8c013" value="Weather Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d75180ac-5058-430c-91ed-d4a07788c2fb" ipa="/ˌaʊtˈsaɪd/" vi_ipa="ao-t-sai-đao">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="87abe060-8745-4701-97b6-18eeb417abaa" type="Adjective">
+          <Vi>ở ngoài, bên ngoài</Vi>
+          <En>Being or occurring outside a particular place or thing; not inside.</En>
+          <Example>The children played outside in the garden.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1718b13-4a49-4fb9-88d8-dfd186d14b86">
+              <Vi>Mô tả vị trí hoặc hoạt động diễn ra bên ngoài một công trình, tòa nhà, hoặc không gian kín.</Vi>
+              <En>Describes location or activity occurring outside a building, structure, or enclosed space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="df6be433-a695-4a96-9ba2-5a3c7240d3d2" type="Adjective">
+          <Vi>không thuộc (một nhóm, tổ chức, hệ thống)</Vi>
+          <En>Not belonging to or involved in a particular group, organization, or system.</En>
+          <Example>She hired an outside consultant to review the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ebd8d40b-b19e-4d3e-b4b7-9258b31e93eb">
+              <Vi>Dùng để chỉ người hoặc tổ chức không trực thuộc hoặc không tham gia vào nội bộ một tổ chức.</Vi>
+              <En>Used to refer to a person or organization not part of or involved in the internal affairs of a group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

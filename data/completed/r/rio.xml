@@ -1,0 +1,33 @@
+<Vocab id="d837c2e6-887b-43e3-9d22-028dc214bc42" word="rio" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+    <Profession id="253571d7-9e06-42a3-80b3-dca896556db8" value="Travel Guide Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2b5c9903-9a71-4b70-9d3c-5941a23a48b7" ipa="/ˈriː.oʊ/" vi_ipa="ri-ô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3db08636-491e-4840-8406-fd8f0f009683" type="Noun">
+          <Vi>Sông (tên riêng, thường dùng trong tên địa lý Tây Ban Nha và các nước nói tiếng Tây Ban Nha)</Vi>
+          <En>A river, especially in Spanish-speaking countries (used in proper names, e.g., Río Grande).</En>
+          <Example>The Río Bravo forms part of the border between the United States and Mexico.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8a475bd-de1b-425c-a1de-eb780cfd8f49">
+              <Vi>Trong bản đồ địa lý hoặc khi nói về các con sông ở châu Mỹ Latinh.</Vi>
+              <En>When referring to rivers in Latin America or Spanish-language geographical contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
