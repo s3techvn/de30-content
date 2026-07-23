@@ -1,0 +1,38 @@
+<Vocab id="82ab63ef-8f23-4460-83db-134ebef2b7b7" word="projector" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df24d316-de85-40a7-a7c8-d7bc0e247322" ipa="/ˈprɑː.dʒek.tɚ/" vi_ipa="prô-gi-éc-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="619d226c-0795-4315-b1e1-58986b3c001e" type="Noun">
+          <Vi>Máy chiếu</Vi>
+          <En>A device that projects an image or video onto a screen or surface, typically used for presentations or movie viewing.</En>
+          <Example>The teacher used a projector to display slides during the lecture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4c8dec90-b359-430e-abcf-988188ca1988">
+              <Vi>Sử dụng trong lớp học để trình chiếu bài giảng điện tử.</Vi>
+              <En>Used in a classroom to display digital lesson materials.</En>
+            </Situation>
+            <Situation id="6565812b-d1fa-42b0-acd7-516f88903d9c">
+              <Vi>Trong rạp chiếu phim, máy chiếu phát video lên màn hình lớn.</Vi>
+              <En>In a movie theater, the projector displays video onto a large screen.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

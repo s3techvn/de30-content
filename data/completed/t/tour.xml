@@ -1,0 +1,45 @@
+<Vocab id="a19b0a5c-b09c-4000-a453-f77194352b38" word="tour" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="223cbe2c-bad3-4cb9-bd94-0ed6214487f0" ipa="/tʊr/" vi_ipa="tua">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b5f02ad2-1114-47e3-998d-8833ab926291" type="Noun">
+          <Vi>chuyến tham quan; chuyến đi chơi, tham quan (có tổ chức)</Vi>
+          <En>a journey in which a group of people visit several places of interest, typically led by a guide</En>
+          <Example>We joined a guided tour of the ancient city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7ac09ea-cb91-4707-8596-eed63b03411e">
+              <Vi>Người dân địa phương hoặc du khách tham gia chuyến đi tham quan có hướng dẫn viên.</Vi>
+              <En>Local residents or tourists join a guided visit to historical or scenic sites.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0c83ffe3-4b36-4207-91ab-c44b4961f7e2" type="Verb">
+          <Vi>đi tham quan (một nơi nào đó); thực hiện chuyến đi tham quan</Vi>
+          <En>to travel around (a place) for pleasure or to see the sights</En>
+          <Example>They toured the vineyards of Bordeaux last summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2504043-f710-4e49-a45d-9f886c972065">
+              <Vi>Đoàn du khách tự lái xe hoặc đi xe bus tham quan nhiều địa điểm trong một khu vực.</Vi>
+              <En>A group of tourists travels by car or bus to visit multiple attractions in a region.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
