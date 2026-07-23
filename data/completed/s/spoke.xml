@@ -1,0 +1,55 @@
+<Vocab id="0c4ffd90-2168-4a7f-81ec-ca7b51759307" word="spoke" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="e4282717-a360-470c-912c-c442956e683a" value="Cyclist" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8cd9ad6e-de8a-4198-a26b-0a4110e20018" ipa="/spəʊk/" vi_ipa="s-pờ-o-ck">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db000992-b489-43fb-b2cf-6622c75c508e" type="Verb">
+          <Vi>đi xe đạp (quá khứ của speak, nhưng trong ngữ cảnh này là lỗi chính tả – đúng là spoke là quá khứ của speak, nhưng nếu ngữ cảnh là xe đạp thì là spoke = nan hoa, nhưng "spoke" không có dạng động từ nguyên thể; cần kiểm tra lại ngữ cảnh)</Vi>
+          <En>to have said something in the past (past tense of *speak*); also, a rigid rod connecting the hub to the rim of a wheel</En>
+          <Example>She spoke clearly during the presentation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4e9a368b-5907-4e1b-b866-53daaf9a6928">
+              <Vi>Một người đang phát biểu trong hội nghị.</Vi>
+              <En>A person giving a speech in a conference.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6ca01f6d-396e-4b19-8494-d7f648d204b7" ipa="/spəʊk/" vi_ipa="s-pờ-o-ck">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a3f0d43d-657f-4071-ae3a-2d185647bd66" type="Noun">
+          <Vi>nan hoa (của bánh xe đạp)</Vi>
+          <En>a rigid rod connecting the hub to the rim of a wheel, especially on a bicycle or cart</En>
+          <Example>The bicycle wheel had three broken spokes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8675e6dd-9641-4ce0-a9ab-561ffbb26a18">
+              <Vi>Một thợ sửa xe kiểm tra nan hoa bị cong.</Vi>
+              <En>A mechanic checks a bent spoke on a bicycle wheel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
