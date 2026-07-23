@@ -1,0 +1,40 @@
+<Vocab id="93789fc7-e42d-4818-bcfd-b350dad154c7" word="aluminium" type="short" status="done">
+  <Topics>
+    <Topic id="d06c2956-8b58-42de-84b8-7cc729867376" value="Science and Technology" />
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="d312e292-41a1-41bb-9c79-4a4d73ad9999" value="Industry" />
+  </Topics>
+  <Professions>
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f451072b-499f-47f6-b7b4-a8154cd29223" ipa="/ˌæl.əˈmɪn.i.əm/" vi_ipa="an-lơ-mi-ni-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bac527f7-7c91-4f21-91d1-0e5f09b9ce85" type="Noun">
+          <Vi>nhôm (kim loại màu trắng bạc, nhẹ, dẫn điện và dẫn nhiệt tốt)</Vi>
+          <En>a silvery-white, lightweight, malleable metal that is a good conductor of electricity and heat, used widely in manufacturing, construction, and packaging</En>
+          <Example>Aluminium foil is commonly used to wrap food for storage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3edc9d2-22f3-4300-98a6-151308ba2651">
+              <Vi>Sản xuất bao bì, khung cửa sổ, hoặc thân máy bay.</Vi>
+              <En>Used in packaging, window frames, or aircraft bodies.</En>
+            </Situation>
+            <Situation id="5ccaa3f3-3c60-4dcd-a38d-2e5866d0b915">
+              <Vi>Hợp kim nhôm được sử dụng trong ngành hàng không vì nhẹ và bền.</Vi>
+              <En>Aluminium alloys are used in aviation due to their light weight and strength.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

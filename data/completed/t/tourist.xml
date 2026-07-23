@@ -1,0 +1,37 @@
+<Vocab id="1b40cd7d-bdca-4958-a6ef-e319bcb2d102" word="tourist" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="ade3f022-0d58-47d7-b068-22093d81115f" value="Hospitality Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ea7c6fda-9210-4f59-971b-8d92aca1d368" ipa="/ˈtʊr.ɪst/" vi_ipa="tua-ri-st">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df696b71-5ebb-45f7-8051-8990913cdcc6" type="Noun">
+          <Vi>khách du lịch</Vi>
+          <En>A person who is visiting a place for pleasure or interest, especially on holiday.</En>
+          <Example>Many tourists visit the ancient temples during the festival season.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9f027eb-5762-412a-b189-7211893edc91">
+              <Vi>Người nước ngoài hoặc người trong nước đi tham quan, nghỉ dưỡng tại một địa điểm du lịch.</Vi>
+              <En>A person traveling for leisure, often staying in hotels and using local services.</En>
+            </Situation>
+            <Situation id="8f05f180-11fd-4041-8c72-df845f7531c1">
+              <Vi>Các hoạt động phổ biến của khách du lịch như chụp ảnh, mua quà lưu niệm, tham quan di tích.</Vi>
+              <En>Typical tourist activities include sightseeing, taking photos, and buying souvenirs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
