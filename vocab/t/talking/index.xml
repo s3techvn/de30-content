@@ -1,0 +1,38 @@
+<Vocab id="7355a8b9-012c-4bc3-841c-79737065fa0a" word="talking" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fd2736ca-1646-4fd0-8892-cb546695927d" ipa="/ˈtɔː.kɪŋ/" vi_ipa="tô-kinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1c362c8c-408a-4b67-8e08-23aa7f916ad4" type="Verb">
+          <Vi>đang nói chuyện; đang trao đổi bằng lời nói</Vi>
+          <En>the act of speaking or conversing; engaging in verbal communication</En>
+          <Example>She was talking on the phone when I walked into the room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7e793fe-1f96-46fa-b1f5-3be45b47d51a">
+              <Vi>Một người đang nói chuyện với người khác, ví dụ trong cuộc họp hoặc trò chuyện thân mật.</Vi>
+              <En>A person is speaking with another, such as during a meeting or a casual chat.</En>
+            </Situation>
+            <Situation id="57b1db0e-e95f-4762-9202-ff71da50344a">
+              <Vi>Người nói đang trình bày ý kiến hoặc chia sẻ thông tin bằng lời.</Vi>
+              <En>The speaker is expressing ideas or sharing information verbally.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
