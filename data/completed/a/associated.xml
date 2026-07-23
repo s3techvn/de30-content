@@ -1,0 +1,52 @@
+<Vocab id="84919586-e10d-4e91-95a8-1aa279087493" word="associated" type="short" status="done">
+  <Topics>
+    <Topic id="6687dc97-be0f-4585-aa6b-099f6b09fc9c" value="Social Relationships" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="22a011fe-01a6-4463-840f-30e44c0e6be7" value="Academia" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6e83078-cfc2-4bfc-84c0-745badde8028" ipa="/əˈsoʊ.ʃi.eɪ.tɪd/" vi_ipa="ơ-đây-sô-si-ê-tí-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d88894d6-d8c1-4ce4-b93d-ad05e35d384a" type="Adjective">
+          <Vi>liên quan, gắn với; được kết nối với</Vi>
+          <En>Connected with or related to something or someone; often used to describe a person or thing that is joined in a partnership, friendship, or professional relationship.</En>
+          <Example>She is an associate professor, not a full professor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf640fc1-76db-475e-866c-9e35d27b199a">
+              <Vi>Mô tả mối quan hệ hoặc kết nối giữa hai người hoặc hai thực thể.</Vi>
+              <En>Used to describe a connection or relationship between people or entities.</En>
+            </Situation>
+            <Situation id="d07d7ee3-2a84-47c2-a4f8-bc9f26986ae0">
+              <Vi>Dùng trong môi trường học thuật để chỉ chức danh như “associate professor”.</Vi>
+              <En>Used in academic contexts for titles such as “associate professor”.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b7fdc7bd-cf66-4849-acd5-6345f23d48d3" type="Adjective">
+          <Vi>được bổ nhiệm hoặc bầu làm cộng sự (trong công ty, tổ chức)</Vi>
+          <En>Appointed or elected as a partner or member of a group, firm, or organization.</En>
+          <Example>He was made an associate member of the club last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9824981e-8679-40b6-960a-a88053283104">
+              <Vi>Mô tả cấp bậc trong tổ chức, ví dụ như công ty luật, câu lạc bộ.</Vi>
+              <En>Used to describe rank or status within professional organizations or clubs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

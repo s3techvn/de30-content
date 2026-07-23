@@ -1,0 +1,38 @@
+<Vocab id="ca366191-e0cb-47c5-b598-b485c1f49400" word="specifically" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a4440f72-a798-494e-a7a0-4b3831becc45" ipa="/ˈspɛs.ɪ.fɪ.kəl.i/" vi_ipa="xít-pi-si-fi-cơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9b15171e-2c21-45ac-846f-99990461ba0e" type="Adverb">
+          <Vi>một cách cụ thể; một cách rõ ràng; cụ thể là</Vi>
+          <En>in a specific manner; in a precise or exact way; used to emphasize a particular detail or distinction</En>
+          <Example>She didn’t just like the movie—she loved it, specifically the scene where the protagonist confronts the villain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94a914bf-e312-44c8-ab04-bf7ddb082447">
+              <Vi>Để làm rõ một chi tiết quan trọng trong một câu hoặc đoạn văn.</Vi>
+              <En>Used to clarify or emphasize a precise detail in explanation or description.</En>
+            </Situation>
+            <Situation id="ae413bbc-38c3-466e-a890-80401d2499ea">
+              <Vi>Khi cần phân biệt giữa các lựa chọn hoặc đặc điểm tương tự.</Vi>
+              <En>Used when distinguishing between similar options or features.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
