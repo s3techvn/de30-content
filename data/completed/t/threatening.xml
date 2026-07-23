@@ -1,0 +1,37 @@
+<Vocab id="280da261-0659-459a-bfa8-161d78d4279f" word="threatening" type="short" status="done">
+  <Topics>
+    <Topic id="bfb7130d-5bd4-4a37-9b75-af27909a1ff0" value="Emotions &amp; Behavior" />
+  </Topics>
+  <Professions>
+    <Profession id="3fdb0ab6-c693-4e30-a5aa-80776703e5d0" value="Law Enforcement" />
+    <Profession id="12ae2d94-3349-4cc1-9ed1-0d0e6663c11b" value="Psychology" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ad06d8c7-9fa0-4914-94da-5fb1665eef16" ipa="/ˈθret.ən.ɪŋ/" vi_ipa="thre-tin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="802972aa-58ab-49fe-8857-f457975c3405" type="Adjective">
+          <Vi>đe dọa, nguy hiểm, gây lo âu</Vi>
+          <En>Giving a sense of danger, harm, or potential violence; intended to intimidate or instill fear.</En>
+          <Example>The dark clouds gathering on the horizon were threatening a storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c9ee0bd-3190-45ee-90db-2e468021b503">
+              <Vi>Một người nói chuyện với giọng điệu hung hăng và nắm chặt nắm đấm, khiến người khác cảm thấy bất an.</Vi>
+              <En>A person speaks in a hostile tone and clenches their fists, making others feel uneasy.</En>
+            </Situation>
+            <Situation id="53f22637-8dc7-4a54-8539-46aeb38d070c">
+              <Vi>Thời tiết xấu như mây đen dồn dập và gió mạnh báo hiệu một cơn bão sắp đến.</Vi>
+              <En>Bad weather such as dark, heavy clouds and strong winds signals an approaching storm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

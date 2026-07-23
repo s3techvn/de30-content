@@ -565,4 +565,5 @@
   <Profession id="3c4cc1d5-00d7-4630-8424-c2758b816232" slug="immigration-officer" value="Immigration Officer" />
   <Profession id="c759fe86-ba95-47bf-b9fb-ce6450fccfd0" slug="customs-agent" value="Customs Agent" />
   <Profession id="c1ab16c7-827a-48c9-9650-cca25e29f988" slug="butcher" value="Butcher" />
+  <Profession id="12ae2d94-3349-4cc1-9ed1-0d0e6663c11b" slug="psychology" value="Psychology" />
 </Professions>
