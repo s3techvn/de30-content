@@ -1641,3 +1641,4 @@ horizon
 meditation
 arabic
 bubble
+collector
