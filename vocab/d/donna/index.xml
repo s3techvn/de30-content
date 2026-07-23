@@ -1,0 +1,32 @@
+<Vocab id="be907fc2-f38f-4d57-bf56-7c9f7991f373" word="donna" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="6bbebca1-0123-4d8b-86e7-6ab37e86caa1" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e337ecad-75d4-42d1-97d2-e2c356d95676" ipa="/ˈdɒn.ə/" vi_ipa="đô-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9eefe74f-1b8d-42c1-9b4c-8411b535815b" type="Noun">
+          <Vi>Tên gọi thân mật hoặc kính trọng dành cho phụ nữ (đặc biệt ở Ý); bà, cô</Vi>
+          <En>A title of respect or endearment for a woman, especially in Italian; equivalent to "Mrs.", "Ms.", or "lady"</En>
+          <Example>Donna, the owner of the café, greeted every customer warmly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0fb4c5c7-0db0-4013-8caa-0b60f0b540c9">
+              <Vi>Được dùng như một cách xưng hô lịch sự trong văn hóa Ý, thường đi kèm với họ (ví dụ: Donna Bianchi).</Vi>
+              <En>Used as a respectful form of address in Italian culture, typically followed by the surname (e.g., Donna Bianchi).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
