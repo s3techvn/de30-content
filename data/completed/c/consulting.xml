@@ -1,0 +1,34 @@
+<Vocab id="0fe8dd4c-d02f-4e00-970e-416d330b5024" word="consulting" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="cc58fa05-a664-41bb-94e6-681bcc20e27b" value="Management Consultant" />
+    <Profession id="4fdd2aec-577e-4ecb-8a13-b8d87c9b6675" value="IT Specialist" />
+    <Profession id="8fa42319-796b-4ebe-9251-4a9b8c3f2495" value="Legal Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08ab216e-919d-4aaf-b089-59f2c680e92a" ipa="/kənˈsʌl.tɪŋ/" vi_ipa="cơn-săl-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="63b0dafc-c284-43ce-b8c1-b6b14bd74838" type="Noun">
+          <Vi>Dịch vụ tư vấn</Vi>
+          <En>The activity of providing expert advice to businesses or individuals, especially in a professional field such as management, finance, or technology.</En>
+          <Example>She works for a global consulting firm that specializes in digital transformation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba843fd5-9088-41ed-9c0d-b8b1693b8cb7">
+              <Vi>Công ty thuê chuyên gia tư vấn để cải thiện hiệu quả hoạt động.</Vi>
+              <En>The company hires consultants to improve operational efficiency.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

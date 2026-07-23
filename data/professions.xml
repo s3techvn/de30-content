@@ -746,4 +746,6 @@
   <Profession id="b91687e7-155a-4c70-98b1-3841d4603011" slug="award-committee-member" value="Award Committee Member" />
   <Profession id="9c60c73f-b79d-4117-a2dc-413329c2a98b" slug="traditional-artisan" value="Traditional Artisan" />
   <Profession id="e54a248a-e2ad-47ab-9962-4ca2e2a97c30" slug="diy-enthusiast" value="DIY Enthusiast" />
+  <Profession id="cc58fa05-a664-41bb-94e6-681bcc20e27b" slug="management-consultant" value="Management Consultant" />
+  <Profession id="8fa42319-796b-4ebe-9251-4a9b8c3f2495" slug="legal-advisor" value="Legal Advisor" />
 </Professions>
