@@ -1,0 +1,54 @@
+<Vocab id="d962b811-5ed2-4d27-b00a-7b600cf78d5d" word="compile" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="3d812be0-9ec5-41c1-a739-bd5aed98563c" value="Programmer" />
+    <Profession id="7a77b78e-876a-4b0d-b241-5e6c3d0abef1" value="Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b8107c4c-4e80-4120-9e79-b94c847dd834" ipa="/kəmˈpaɪl/" vi_ipa="cờ-m-pái-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ea2c6150-0ec3-441a-833f-fe9e65fe093f" type="Verb">
+          <Vi>biên dịch (mã nguồn thành mã thực thi)</Vi>
+          <En>To transform source code written in a high-level programming language into machine code or another lower-level language.</En>
+          <Example>The developer compiled the program after fixing the syntax errors.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f852777e-0c25-43ea-bb63-414b4a247963">
+              <Vi>Chạy lệnh biên dịch để tạo file thực thi từ mã nguồn C++.</Vi>
+              <En>Running a compiler command to generate an executable file from C++ source code.</En>
+            </Situation>
+            <Situation id="75058752-39a1-426b-99ce-8d2acc536062">
+              <Vi>IDE tự động biên dịch mỗi khi bạn nhấn nút "Build".</Vi>
+              <En>The IDE automatically compiles the code each time you press the "Build" button.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2a94dd3d-4478-4c41-acab-85746fc154f7" type="Verb">
+          <Vi>tổng hợp, biên soạn (tài liệu, dữ liệu)</Vi>
+          <En>To gather and arrange information, documents, or data from various sources into a single, organized collection.</En>
+          <Example>The editor compiled a comprehensive guide to local hiking trails.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c3d1d7dd-294b-497f-88b1-47a9b68631aa">
+              <Vi>Giáo viên đang biên soạn tài liệu giảng dạy từ nhiều nguồn khác nhau.</Vi>
+              <En>The teacher is compiling teaching materials from various sources.</En>
+            </Situation>
+            <Situation id="0cfdce88-2044-4e7a-8efe-1a3360042cbe">
+              <Vi>Chúng tôi cần biên tập một báo cáo tổng hợp từ các phòng ban.</Vi>
+              <En>We need to compile a consolidated report from all departments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
