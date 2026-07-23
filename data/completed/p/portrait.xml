@@ -1,0 +1,54 @@
+<Vocab id="28e09541-3aab-4bc6-ab8e-c17efd12bc51" word="portrait" type="short" status="done">
+  <Topics>
+    <Topic id="dcee83b0-7319-4ce3-bb65-f58bd4ef64c6" value="Art" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0305aa2f-abf1-425a-b9da-215f3cdfb70c" ipa="/ˈpɔːr.trət/" vi_ipa="póp-trờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="809c7b0b-8480-4573-8220-625cf5aa2397" type="Noun">
+          <Vi>Bức chân dung; bức họa (hoặc ảnh) chụp hoặc vẽ khuôn mặt và đầu của một người</Vi>
+          <En>A painting, drawing, or photograph of a person, especially one showing the face.</En>
+          <Example>The artist spent three months completing the portrait of the president.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f4d72529-5ae6-46e8-94b5-349755952d2c">
+              <Vi>Trong triển lãm mỹ thuật, người xem ngắm nhìn các bức chân dung nổi tiếng.</Vi>
+              <En>In an art exhibition, viewers admire famous portraits.</En>
+            </Situation>
+            <Situation id="4ca5d672-f096-41bf-a88d-1bf9cf276c26">
+              <Vi>Nhà nhiếp ảnh chụp chân dung phong cách cổ điển cho khách hàng.</Vi>
+              <En>The photographer captures classic-style portraits for clients.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ad9617fe-41e8-4c96-ab0b-b4cbfa963612" type="Noun">
+          <Vi>Hình ảnh tổng hợp về một người hoặc một điều gì đó (thường dùng trong cụm "a portrait of...")</Vi>
+          <En>A description or representation of someone or something, often in a particular light or context.</En>
+          <Example>The article presents a portrait of the city as both vibrant and chaotic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15ae938a-bb25-4489-8b71-347d22a86d86">
+              <Vi>Bài báo đưa ra một bức chân dung về tình hình kinh tế hiện nay.</Vi>
+              <En>The article presents a portrait of the current economic situation.</En>
+            </Situation>
+            <Situation id="7183b189-eea0-4b7d-88fc-75d91140c19c">
+              <Vi>Sách giáo khoa mô tả một bức chân dung về xã hội Việt Nam đầu thế kỷ 20.</Vi>
+              <En>The textbook describes a portrait of Vietnamese society in the early 20th century.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

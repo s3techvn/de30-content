@@ -1,0 +1,48 @@
+<Vocab id="ecfc3e6d-4029-4ac2-bf22-7a0c887566a5" word="disaster" type="short" status="done">
+  <Topics>
+    <Topic id="9c635aaa-3d85-47bd-96b5-045868ac1b36" value="Emergency &amp; Safety" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0387b5b9-8231-4dbd-9d72-fa9fa49aa024" ipa="/dɪˈzæs.tər/" vi_ipa="đi-dá-xờ-tờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9fa0d1e3-6470-464e-a8df-853d0fe01c4e" type="Noun">
+          <Vi>thảm họa; tai họa; sự cố nghiêm trọng</Vi>
+          <En>A sudden event, such as a natural catastrophe or accident, that causes great damage, loss of life, or disruption.</En>
+          <Example>The earthquake triggered a tsunami, leading to a humanitarian disaster.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="754634fe-77da-4d5c-8091-3a8eb75464d6">
+              <Vi>Mô tả một sự kiện tự nhiên hoặc nhân tạo gây thiệt hại lớn về người và tài sản.</Vi>
+              <En>Describing a large-scale destructive event, often requiring emergency response and recovery efforts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2eff93e7-477e-4c1f-98f8-79a65acc6ea5" type="Noun">
+          <Vi>sự thất bại hoàn toàn; sự kiện gây tổn thất lớn (theo nghĩa ẩn dụ)</Vi>
+          <En>A situation that turns out very badly; a complete failure or fiasco.</En>
+          <Example>The new product launch was a disaster—no one showed up.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9e5bbeb-bfc5-42de-8439-52b89ba44db9">
+              <Vi>Dùng để chỉ một kế hoạch, sự kiện hoặc dự án thất bại nặng nề.</Vi>
+              <En>Used metaphorically to describe a project or event that went extremely wrong.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
