@@ -1,0 +1,46 @@
+<Vocab id="89221d2c-7e81-4bcd-939d-34cd7d36be1d" word="remark" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c58af33b-2606-4e10-990b-e7a457c925f4" ipa="/rɪˈmɑːrk/" vi_ipa="rị-mác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8aa87ee2-c600-49e0-b279-f8eca7ad9cb8" type="Verb">
+          <Vi>Nhận xét, bình luận</Vi>
+          <En>To comment or make an observation, often briefly or casually.</En>
+          <Example>She remarked that the weather had been unusually warm for March.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1829729-4d71-4309-94a5-666b375dc6c0">
+              <Vi>Người nói đưa ra ý kiến ngắn gọn về một điều vừa quan sát hoặc nghe thấy.</Vi>
+              <En>A speaker briefly shares an observation or opinion about something just noticed or heard.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="033a0d81-219d-4e8f-a836-49d26cccf3bb" type="Noun">
+          <Vi>Lời nhận xét, lời bình luận</Vi>
+          <En>A comment or observation, especially one that is brief or casual.</En>
+          <Example>He made no remark during the entire meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c417ff2-ca64-4309-a39b-175f6061ba87">
+              <Vi>Một phát biểu ngắn gọn trong hội thoại hoặc văn bản, thường không chính thức.</Vi>
+              <En>A short, often informal statement in conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

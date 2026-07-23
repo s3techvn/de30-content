@@ -1,0 +1,40 @@
+<Vocab id="c1c3b7ad-14a0-4ea5-9edc-ab332ab61f58" word="banner" type="short" status="done">
+  <Topics>
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+    <Topic id="565674c2-e3ed-41ba-b01b-1122fa625704" value="Web Design" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d10e211-00a4-41e2-805a-dc33db9feccf" ipa="/ˈbæn.ər/" vi_ipa="bờ-nờ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a8ea904d-3251-448d-a7fb-07c55197b713" type="Noun">
+          <Vi>Cờ hiệu; băng rôn</Vi>
+          <En>A long strip of cloth or paper, typically bearing a slogan or image, hung across a street, building, or at an event to advertise or celebrate something.</En>
+          <Example>The festival organizers hung a large banner reading “Welcome 2025!” over the main gate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0376b66d-35cd-4b20-b310-6f22b991da69">
+              <Vi>Sử dụng trong các sự kiện công cộng như lễ hội, khai trương, hoặc biểu tình để truyền tải thông điệp.</Vi>
+              <En>Used at public events such as festivals, grand openings, or protests to convey a message.</En>
+            </Situation>
+            <Situation id="6857e3f2-15a3-4ac7-9c10-2875ab161c32">
+              <Vi>Trong thiết kế web, là phần đầu trang hiển thị logo và tiêu đề.</Vi>
+              <En>In web design, the top section of a webpage displaying the logo and site title.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
