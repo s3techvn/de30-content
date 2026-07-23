@@ -1,0 +1,40 @@
+<Vocab id="1395b3af-2d34-4e8e-b19e-5fb850f47d7d" word="florist" type="short" status="done">
+  <Topics>
+    <Topic id="cfbef615-a0e0-4e42-9600-cbf843d31acb" value="Business &amp; Commerce" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="11b16bb9-4809-4e2b-b04e-da686f07aadb" value="Events &amp; Celebrations" />
+  </Topics>
+  <Professions>
+    <Profession id="81d3444c-64b3-4cdd-9d1f-f07dce053ff1" value="Florist" />
+    <Profession id="7e9f2f8b-b026-49c7-9351-33ec17c9a557" value="Small Business Owner" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="07f5fae4-79c1-460b-9817-5f65eecfb304" ipa="/ˈflɔːr.ɪst/" vi_ipa="phlo-rít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed9a975f-b129-4098-99af-211f28c44c06" type="Noun">
+          <Vi>Người bán hoa; chủ cửa hàng hoa</Vi>
+          <En>A person who sells flowers and arranges them for decorative or ceremonial purposes.</En>
+          <Example>The florist created a beautiful wedding bouquet using roses and lilies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e111402-c5b1-42e8-9996-851cb1bf103d">
+              <Vi>Khách hàng đến cửa hàng để đặt bó hoa chúc mừng sinh nhật.</Vi>
+              <En>A customer visits the shop to order a birthday bouquet.</En>
+            </Situation>
+            <Situation id="062f73f2-9938-49b1-8df5-c7e9777a8a0a">
+              <Vi>Người bán hoa tư vấn về loại hoa phù hợp cho lễ tang.</Vi>
+              <En>The florist advises on appropriate flowers for a funeral arrangement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
