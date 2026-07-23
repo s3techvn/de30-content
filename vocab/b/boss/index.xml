@@ -1,0 +1,53 @@
+<Vocab id="688630c0-1007-493d-9818-bc092193619a" word="boss" type="short" status="done">
+  <Topics>
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" value="Team Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="84b92c64-ec93-44ef-81a4-2bf383f64097" ipa="/bɑːs/" vi_ipa="bốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="38b3aae3-d02a-4627-b2bc-b186f71e142f" type="Noun">
+          <Vi>ông chủ; bà chủ; người quản lý; cấp trên</Vi>
+          <En>The person who is in charge of others, especially in a workplace; a manager or employer.</En>
+          <Example>My boss asked me to finish the report by Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed59a352-8147-42b5-bb1c-972ec2fd574e">
+              <Vi>Tình huống nhân viên báo cáo công việc cho người lãnh đạo trực tiếp.</Vi>
+              <En>A situation where an employee reports work progress to their direct supervisor.</En>
+            </Situation>
+            <Situation id="5b597df2-c266-4098-980c-4ca3287876dc">
+              <Vi>Tình huống nhân viên được khen thưởng hoặc phê bình bởi cấp trên.</Vi>
+              <En>A situation where an employee receives praise or criticism from their supervisor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9305b749-2c95-4be8-9f4a-7741e4b477c0" type="Verb">
+          <Vi>điều khiển, chỉ huy; làm việc dưới sự giám sát của ai đó (thường mang tính thân mật hoặc châm biếm)</Vi>
+          <En>To manage or control someone or something; to act as a boss over others (often used informally or humorously).</En>
+          <Example>She bossed her colleagues around during the project, which made everyone uncomfortable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f2361a3-ed93-4810-b0b1-f953ad1b52b3">
+              <Vi>Tình huống ai đó ra lệnh hoặc ra lệnh một cách bừa bãi cho người khác.</Vi>
+              <En>A situation where someone gives orders in an overbearing or domineering way.</En>
+            </Situation>
+            <Situation id="3f2f345c-eaaf-4a07-acf3-cdd19cd214d0">
+              <Vi>Tình huống người lãnh đạo điều phối công việc nhóm một cách hiệu quả.</Vi>
+              <En>A situation where a leader effectively coordinates team tasks and responsibilities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
