@@ -1,0 +1,46 @@
+<Vocab id="09a3e1ed-1209-4a39-905f-fa176e736643" word="each" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df378236-c6c7-497d-be80-f530ae254151" ipa="/iːtʃ/" vi_ipa="ít-ch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="28234efb-ad04-4354-974e-1252b1c0840c" type="Determiner">
+          <Vi>mỗi</Vi>
+          <En>used to refer to every one of two or more people or things, considered individually.</En>
+          <Example>Each student received a certificate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6e5647d-ec12-45fc-964f-69861330889f">
+              <Vi>Trong ngữ cảnh liệt kê hoặc phân phối cho từng cá thể trong nhóm.</Vi>
+              <En>Used when distributing or assigning something individually to every member of a group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="96c1c22f-f834-44a6-8c79-ee3b1b89b4f6" type="Pronoun">
+          <Vi>mỗi người / từng cái</Vi>
+          <En>used to refer to every one of two or more people or things, considered individually (used without a noun).</En>
+          <Example>They each took a turn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dddab152-7130-48c2-a1af-59dee184ee02">
+              <Vi>Khi "each" đứng một mình, thay thế cho danh từ đã được nhắc đến trước đó.</Vi>
+              <En>Used as a standalone pronoun when the noun has already been mentioned.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
