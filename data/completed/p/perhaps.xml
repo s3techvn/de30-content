@@ -1,0 +1,36 @@
+<Vocab id="a4d716ed-e88b-4225-aff3-6270778a4264" word="perhaps" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6a33ffd1-2863-462c-adfb-e1088e8b35bc" ipa="/pəˈhæps/" vi_ipa="pơ-hăp-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31c61ab6-eec0-4d10-b883-9e17063315a5" type="Adverb">
+          <Vi>Có lẽ, có thể, có khi nào</Vi>
+          <En>Used to express possibility or uncertainty; maybe.</En>
+          <Example>I’ll perhaps call you later tonight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36b9ea73-9374-4f72-b94c-c601d3217d24">
+              <Vi>Thể hiện sự không chắc chắn khi đưa ra dự đoán hoặc kế hoạch.</Vi>
+              <En>Expressing uncertainty when making a prediction or plan.</En>
+            </Situation>
+            <Situation id="af50fc7d-38d5-464a-aeea-c11fc65a2ede">
+              <Vi>Được dùng trong văn nói và văn viết trang trọng để làm mềm giọng.</Vi>
+              <En>Used in both spoken and formal written English to soften the tone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
