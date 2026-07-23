@@ -1,0 +1,58 @@
+<Vocab id="bad342f9-e15e-4620-a7ff-79c5e126a385" word="mines" type="short" status="done">
+  <Topics>
+    <Topic id="92363ee8-09d9-4255-b9f6-9f7f509cd221" value="Geology &amp; Mining" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="6f46110d-3684-4149-8eb1-4b6c8148241d" value="Infrastructure" />
+  </Topics>
+  <Professions>
+    <Profession id="8e361acb-0a6c-472a-bec7-6bd2a47870e2" value="Mining Engineer" />
+    <Profession id="c97ecc2f-7770-4964-b989-d98c7d8fd397" value="Military Engineer" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9d44a9a2-53fd-427e-8d94-af800765c3cb" ipa="/maɪnz/" vi_ipa="ma-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="39852f9d-271a-469d-9c00-d9cb956671fe" type="Noun">
+          <Vi>Khoáng sản khai thác; mỏ (dùng trong số nhiều)</Vi>
+          <En>Plural of "mine"; natural or artificial deposits of minerals or ores extracted from the earth</En>
+          <Example>The company operates several coal mines in the Appalachian region.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6354016-6a79-49b2-9280-4b520a71ba0f">
+              <Vi>Mô tả các địa điểm khai thác khoáng sản như than, quặng sắt, vàng...</Vi>
+              <En>Refers to locations where minerals or ores are extracted from the ground, often in large-scale industrial operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f442ae02-0c1a-4b9b-90de-7ca8a6627812" ipa="/maɪnz/" vi_ipa="ma-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cfce7ac4-03d8-4d1f-b214-42958507e997" type="Noun">
+          <Vi>Mìn (vũ khí ngầm, thường dùng trong chiến tranh)</Vi>
+          <En>A explosive device placed underground or underwater, designed to detonate when triggered by contact, pressure, or remotely</En>
+          <Example>Soldiers carefully cleared the field of land mines after the conflict ended.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fbb565e-e1d8-4bec-a342-a9d4c0c0c0bd">
+              <Vi>Mô tả việc đặt hoặc gỡ mìn trong chiến tranh hoặc hậu chiến.</Vi>
+              <En>Used in military contexts to describe hidden explosive devices used to damage enemy vehicles or personnel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
