@@ -1,0 +1,62 @@
+<Vocab id="4cc89be1-1e8a-48bc-917c-f3b30b72e403" word="force" type="short" status="done">
+  <Topics>
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f5c67f15-fcf5-47a1-94c2-d34a7d6f62f5" ipa="/fɔːrs/" vi_ipa="phoóc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44553662-eafb-4b76-b8c5-bcaa990a1bc7" type="Noun">
+          <Vi>Lực; sức mạnh; lực lượng; vũ lực</Vi>
+          <En>A push or pull upon an object resulting from the object's interaction with another object; also, physical strength or power, or a group organized to enforce compliance or achieve a goal.</En>
+          <Example>Gravity is a natural force that pulls objects toward the Earth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="694ad28d-ab2d-411e-9348-4e5824b9147f">
+              <Vi>Mô tả tác động vật lý (lực hút, lực đẩy).</Vi>
+              <En>Describing physical interactions such as attraction or repulsion in physics.</En>
+            </Situation>
+            <Situation id="43a810a7-5e22-4a78-b5b4-e1d06a234034">
+              <Vi>Chỉ sức mạnh thể chất hoặc khả năng gây ảnh hưởng.</Vi>
+              <En>Referring to physical strength or the ability to influence others.</En>
+            </Situation>
+            <Situation id="48dee140-2724-4719-baaf-de38621b6bd9">
+              <Vi>Chỉ lực lượng vũ trang hoặc cảnh sát được huy động để trấn áp.</Vi>
+              <En>Referring to armed or police forces deployed to maintain order or enforce authority.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e9046505-6ecb-408d-8f13-b98d88724e08" type="Verb">
+          <Vi>Buộc; ép buộc; dùng vũ lực; làm mạnh lên</Vi>
+          <En>To make someone do something against their will, often using threats or physical power; or to make something happen by applying pressure or effort.</En>
+          <Example>The kidnappers forced her to sign the document at gunpoint.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f8e1ce4-f717-4e19-bdff-5ae86dc484fc">
+              <Vi>Ép buộc ai đó làm điều họ không muốn (bằng đe dọa hoặc vũ lực).</Vi>
+              <En>Compelling someone to act against their will through coercion or threats.</En>
+            </Situation>
+            <Situation id="1b8baf73-3f25-4ea6-81ac-8439f00a7580">
+              <Vi>Làm cho điều gì đó xảy ra bằng cách áp dụng sức mạnh hoặc nỗ lực (thường là không tự nhiên).</Vi>
+              <En>Making something happen by applying pressure or effort, often unnaturally or urgently.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
