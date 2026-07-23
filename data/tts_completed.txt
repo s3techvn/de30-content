@@ -1148,3 +1148,4 @@ stroke
 dover
 dump
 roulette
+examine
