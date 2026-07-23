@@ -1,0 +1,36 @@
+<Vocab id="111c0bde-e453-485f-a702-196f097ab1ba" word="bay" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38e379d0-fe31-450d-a2ca-ad89b83ff56f" ipa="/beɪ/" vi_ipa="bê">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6a1cfdf2-f8e8-4f5d-9efa-2f48471f3dee" type="Noun">
+          <Vi>Vịnh (một phần biển hoặc hồ ăn sâu vào đất liền)</Vi>
+          <En>A large body of water partially enclosed by land, typically with a wide mouth open to the sea.</En>
+          <Example>The Gulf of Mexico is a large bay connected to the Atlantic Ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a54234d4-6ab8-4ff0-84d8-31365339efca">
+              <Vi>Mô tả địa hình ven biển nơi tàu thuyền neo đậu hoặc cá sinh sống.</Vi>
+              <En>Describing a coastal geographical feature where ships anchor or marine life thrives.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
