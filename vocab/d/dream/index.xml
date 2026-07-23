@@ -1,0 +1,78 @@
+<Vocab id="be9ec977-0d5a-4f54-b018-70acedde59d5" word="dream" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e6ba10be-593e-4783-a7f2-219a3fa9e39f" ipa="/driːm/" vi_ipa="đri-m">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c11298d1-3055-47a5-aaa1-127a41844291" type="Noun">
+          <Vi>giấc mơ</Vi>
+          <En>A series of thoughts, images, and sensations occurring in the mind during sleep.</En>
+          <Example>I had a vivid dream about flying over the ocean last night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="362951af-934b-458b-a305-a04a3a064f3e">
+              <Vi>Mô tả nội dung giấc mơ khi vừa tỉnh dậy.</Vi>
+              <En>Describing the content of a dream upon waking up.</En>
+            </Situation>
+            <Situation id="6c672546-6bf2-4f91-a728-1c5b92ee8e69">
+              <Vi>Chia sẻ ước mơ hoặc khát vọng trong đời.</Vi>
+              <En>Sharing a personal aspiration or life goal (idiomatic use).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f2af09f9-dd73-4fa3-bcb8-02a2eaed6d97" type="Verb">
+          <Vi>mơ, nằm mơ</Vi>
+          <En>To experience thoughts, images, and sensations during sleep.</En>
+          <Example>She dreams about her childhood home every time she visits the countryside.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="836aff55-dac9-438d-8d47-aedea5a54521">
+              <Vi>Nói về việc nằm mơ trong lúc ngủ.</Vi>
+              <En>Talking about experiencing dreams while asleep.</En>
+            </Situation>
+            <Situation id="4658f21a-8703-41d3-b8f0-aadd8cb1b8ec">
+              <Vi>Mô tả việc ước mơ điều gì đó (thường là điều không thực tế).</Vi>
+              <En>Expressing a wish or fantasy, often unrealistic (e.g., "I dream of winning the lottery").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="07a41870-df05-407d-a5d7-3a2b842ac928" ipa="/drem/" vi_ipa="đrem">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6de0ead9-800f-4e4d-b257-fe4c7731b86e" type="Verb">
+          <Vi>ngủ, nghỉ ngơi (ngôn ngữ cổ/nghĩa bóng)</Vi>
+          <En>To be in a state of rest or inactivity; to sleep (archaic or poetic usage).</En>
+          <Example>He dreamt the afternoon away in the hammock.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="28e3f45e-9985-4a3b-8bb6-582be2728004">
+              <Vi>Ngôn ngữ văn học cổ, mô tả việc ngủ say hoặc nghỉ ngơi lâu.</Vi>
+              <En>Poetic or literary usage describing prolonged or deep sleep.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
