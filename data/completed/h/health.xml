@@ -1,0 +1,38 @@
+<Vocab id="f7408e64-5a4a-4ec8-8712-f8700aea5c76" word="health" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c1d927f-0fb5-4d53-aec9-b55a6d6063ca" ipa="/helθ/" vi_ipa="he-lth">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0431f420-81d7-498b-8f4d-e3af741638dc" type="Noun">
+          <Vi>Sức khỏe</Vi>
+          <En>The state of being physically and mentally well, especially as determined by the absence of disease or injury.</En>
+          <Example>Regular exercise and a balanced diet contribute to good health.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2493f50-0421-4965-8ab0-c99b4cdde509">
+              <Vi>Tình trạng cơ thể và tinh thần tốt, không bị bệnh tật.</Vi>
+              <En>A person’s physical and mental condition, especially in terms of absence of illness.</En>
+            </Situation>
+            <Situation id="63d3ef52-8b2d-419f-9dc6-2bdf2ebfa4ff">
+              <Vi>Các chương trình bảo vệ sức khỏe cộng đồng.</Vi>
+              <En>Public health initiatives aimed at preventing disease and promoting well-being.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
