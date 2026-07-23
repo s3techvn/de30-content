@@ -1,0 +1,58 @@
+<Vocab id="e09fe454-67d9-4cb1-a08f-068afe43151d" word="chain" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="eb872449-892e-4871-b83b-2a831d16699b" value="Cryptography" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="2f4f9ade-392a-4131-b575-39ebe1638521" value="Cryptographer" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fb7bfe3d-1934-447e-8add-c2db04b36cc9" ipa="/tʃeɪn/" vi_ipa="chê-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8218b7a-76c3-4a0b-9900-e1df24ece78d" type="Noun">
+          <Vi>chuỗi; dây xích; chuỗi liên kết</Vi>
+          <En>A series of connected links, typically made of metal, or a sequence of related things or events.</En>
+          <Example>She wore a gold chain around her neck.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="350bbdae-2fc9-4fa8-9572-118584b8aa44">
+              <Vi>Mô tả một chuỗi dây kim loại dùng để đeo cổ tay, cổ, hoặc buộc vật gì đó.</Vi>
+              <En>Describing a metal link structure used for jewelry or securing objects.</En>
+            </Situation>
+            <Situation id="f140f30c-12a8-419c-ad75-27d3182ea34b">
+              <Vi>Mô tả chuỗi sự kiện liên tiếp nhau (ví dụ: chuỗi nguyên nhân – kết quả).</Vi>
+              <En>Describing a sequence of events where one leads to another (e.g., cause-and-effect chain).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0705236f-8c9c-4beb-a94c-fe0753cef430" type="Verb">
+          <Vi>xiết chặt; giữ chặt; buộc vào nhau thành chuỗi</Vi>
+          <En>To connect things together in a series or to hold someone/something firmly, especially by restraint.</En>
+          <Example>The police chained the suspect to a railing to prevent escape.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71538c11-b10d-428f-be05-f212f63d632e">
+              <Vi>Mô tả hành động buộc người hoặc vật vào một điểm cố định bằng dây xích.</Vi>
+              <En>Describing the act of securing a person or object to a fixed point using chains.</En>
+            </Situation>
+            <Situation id="9673ae2a-89ae-4c8c-9239-451fa8386c87">
+              <Vi>Mô tả việc liên kết các hệ thống, quy trình hoặc dữ liệu lại với nhau (trong công nghệ).</Vi>
+              <En>Describing the linking of systems, processes, or data together (in technology contexts).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
