@@ -1,0 +1,52 @@
+<Vocab id="8a3299cd-4b3b-47bb-b316-529dfb1cd180" word="ruby" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b61f6d38-18fe-4ef2-8513-c33ef760f070" value="Jewelry" />
+    <Topic id="27b6e5ae-b72a-43ae-847d-a0a5f0e2be2e" value="Programming" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="8fcd0053-32a8-47b2-b8e1-100ce9221e9b" value="Gemologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1470fca-a6f6-4d2b-b9e9-66dcb9c28660" ipa="/ˈruː.bi/" vi_ipa="rú-bi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="619d5d88-5901-4470-8f82-3e3842368841" type="Noun">
+          <Vi>Ngọc lục bảo đỏ; đá quý màu đỏ tươi</Vi>
+          <En>A precious, transparent red gemstone, which is a variety of the mineral corundum (aluminum oxide), typically used in jewelry.</En>
+          <Example>She wore a stunning ruby ring on her left hand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2042f173-2d29-496c-81d8-fda2fd18e62b">
+              <Vi>Mô tả trang sức quý giá hoặc đá quý tự nhiên.</Vi>
+              <En>Used when describing valuable jewelry or natural gemstones.</En>
+            </Situation>
+            <Situation id="1afdf4e6-e9e6-401d-a30a-1e7fa61e2e18">
+              <Vi>Trong lập trình, chỉ ngôn ngữ lập trình Ruby.</Vi>
+              <En>In programming, refers to the Ruby programming language.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d8fa10d3-3ecd-481b-83e1-58ac7357c246" type="Noun">
+          <Vi>Ngôn ngữ lập trình Ruby</Vi>
+          <En>A dynamic, object-oriented programming language known for its simplicity and productivity.</En>
+          <Example>She developed a web application using Ruby on Rails.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3657b2c1-5eb0-4713-b8bf-33f5d7a3878b">
+              <Vi>Trong phát triển phần mềm, đề cập đến ngôn ngữ lập trình Ruby.</Vi>
+              <En>Used in software development to refer to the Ruby programming language.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

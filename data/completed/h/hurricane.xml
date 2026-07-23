@@ -1,0 +1,38 @@
+<Vocab id="050bc27f-6dc0-460c-b116-898646a15371" word="hurricane" type="short" status="done">
+  <Topics>
+    <Topic id="8caeb0b7-eab0-4e2e-ace8-290fd711a458" value="Weather &amp; Natural Disasters" />
+  </Topics>
+  <Professions>
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="a055c397-6332-4e2e-aa63-5891066d47c9" value="Marine Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fec96ef3-d4bc-458c-8dcc-294d75d552eb" ipa="/ˈhɜːr.ɪ.kən/" vi_ipa="hờ-rờ-i-cơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="237a1ba0-25f7-42f9-bec4-7e3b0233c3b8" type="Noun">
+          <Vi>Cơn bão nhiệt đới mạnh, có gió xoáy, thường xảy ra ở Đại Tây Dương và vịnh Mexico</Vi>
+          <En>A powerful tropical storm with violent winds, heavy rain, and a rotating system of clouds, typically occurring in the Atlantic Ocean or the Caribbean Sea</En>
+          <Example>The hurricane caused widespread flooding and power outages along the Gulf Coast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="027fa4a3-40f8-469c-874c-acb1b78ccb17">
+              <Vi>Người dân chuẩn bị cát bao và sơ tán khi dự báo có một cơn hurricane sắp đổ bộ.</Vi>
+              <En>Residents sandbag homes and evacuate as a hurricane is forecast to make landfall.</En>
+            </Situation>
+            <Situation id="e76966fb-54e7-4f7d-b045-162481f2a49c">
+              <Vi>Cơ quan khí tượng theo dõi hurricane qua vệ tinh để đưa ra cảnh báo sớm.</Vi>
+              <En>The meteorological agency tracks the hurricane via satellite to issue early warnings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -654,4 +654,5 @@
   <Profession id="48f564d3-d65c-49c6-b512-580bd3aa174f" slug="entomologist" value="Entomologist" />
   <Profession id="20ee581e-e02a-43b5-b693-1e0c5b8c353b" slug="humanitarian-worker" value="Humanitarian Worker" />
   <Profession id="45ff68f5-77f7-4e4a-aa56-2aa39bcc0caf" slug="event-coordinator" value="Event Coordinator" />
+  <Profession id="a055c397-6332-4e2e-aa63-5891066d47c9" slug="marine-pilot" value="Marine Pilot" />
 </Professions>
