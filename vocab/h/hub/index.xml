@@ -1,0 +1,44 @@
+<Vocab id="7cd985e1-cd60-41df-a3b3-b51a79c906ca" word="hub" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="33c8c6eb-d672-461a-a30f-3e0e1246c47f" value="Network Engineer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8ed7a0da-5837-4d59-8ae9-676ac5a194ad" ipa="/hʌb/" vi_ipa="háp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8fb6d594-7cdc-4f4d-bf09-0614bef4892c" type="Noun">
+          <Vi>Trung tâm; trục; trục bánh xe</Vi>
+          <En>The central or most important part of something, especially a place where activity or traffic is concentrated.</En>
+          <Example>Chicago is a major transportation hub for the Midwest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2aa71966-ba7a-4367-9325-08f77926fe07">
+              <Vi>Trung tâm kết nối giao thông, ví dụ như sân bay lớn hoặc ga xe lửa chính.</Vi>
+              <En>A major transportation node where multiple routes converge, such as an international airport or railway station.</En>
+            </Situation>
+            <Situation id="10ba567b-158a-4b8d-a945-ace3178f4312">
+              <Vi>Trung tâm điều hành hoặc phân phối trong logistics.</Vi>
+              <En>A central facility used for sorting, storing, and distributing goods in a supply chain.</En>
+            </Situation>
+            <Situation id="710101c5-4f9f-4a2c-b129-403cf445e150">
+              <Vi>Trung tâm mạng trong công nghệ thông tin (ví dụ: hub mạng).</Vi>
+              <En>A device in a computer network that connects multiple Ethernet devices together, making them act as a single segment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
