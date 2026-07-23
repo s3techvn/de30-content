@@ -1,0 +1,58 @@
+<Vocab id="49c77d09-def4-4ce1-992a-af5d93141687" word="custom" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" value="Anthropologist" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0b8e4137-90c9-4be9-956f-6cb306091485" ipa="/ˈkʌs.təm/" vi_ipa="cát-xờ-mờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3948c016-0941-4ca0-a0ae-78810df63676" type="Adjective">
+          <Vi>thông lệ, tập quán, theo phong tục</Vi>
+          <En>based on or in accordance with what is generally done or believed; traditional.</En>
+          <Example>It is custom in Japan to remove your shoes before entering a home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="70bfc33d-eedc-43ae-8903-2f062cd88019">
+              <Vi>Mô tả hành vi hoặc nghi thức phổ biến trong một cộng đồng hoặc nền văn hóa.</Vi>
+              <En>Describing behavior or rituals common in a community or culture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a3291646-1d53-4138-9902-46044170e2c2" ipa="/ˈkʌs.təm/" vi_ipa="cát-xờ-mờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf249ada-5180-4eaa-a246-83771de3d407" type="Adjective">
+          <Vi>đặt hàng theo yêu cầu, tùy chỉnh</Vi>
+          <En>made or done according to specific requirements or preferences, rather than standard.</En>
+          <Example>She ordered a custom-made suit for the wedding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c88f80a8-40ee-4e6e-b063-57450399219e">
+              <Vi>Mô tả sản phẩm được thiết kế riêng theo yêu cầu của khách hàng.</Vi>
+              <En>Describing a product designed specifically to meet a customer’s unique specifications.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
