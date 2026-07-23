@@ -1,0 +1,38 @@
+<Vocab id="14ec2a82-d61d-466c-81b6-a031d0a51931" word="arbitration" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="56f76fe4-9243-4cfe-b240-53f4e96923f7" value="Mediator" />
+    <Profession id="7d3b2690-b1bc-4a07-9a4c-ae5afd9949a7" value="Business Executive" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8d5ccb55-6422-4162-b955-1ce459475b1c" ipa="/ˌær.bɪˈtreɪ.ʃən/" vi_ipa="ác-bi-trây-sơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="25b5b687-7a9f-4b5b-9608-8fd531b11bad" type="Noun">
+          <Vi>Trọng tài; sự trọng tài</Vi>
+          <En>The settlement of a dispute by an impartial third party (an arbitrator), rather than by a court of law.</En>
+          <Example>The contract stipulates that any disagreements will be resolved through binding arbitration.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c259f088-92ad-4074-8012-a971e2ac9860">
+              <Vi>Hai bên tranh chấp hợp đồng đồng ý đưa vụ việc cho một trọng tài viên độc lập giải quyết thay vì ra tòa.</Vi>
+              <En>Two disputing parties agree to have a neutral arbitrator resolve their conflict instead of going to court.</En>
+            </Situation>
+            <Situation id="413e2e26-3ef5-4af3-ab29-437f8777b9b4">
+              <Vi>Trọng tài thương mại thường được sử dụng trong các hợp đồng quốc tế để tránh thủ tục tố tụng kéo dài.</Vi>
+              <En>Commercial arbitration is commonly used in international contracts to avoid lengthy litigation procedures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
