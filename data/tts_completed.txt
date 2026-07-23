@@ -1670,3 +1670,4 @@ screw
 slave
 consulting
 city
+vulnerability

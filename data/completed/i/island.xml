@@ -1,0 +1,38 @@
+<Vocab id="8515c2a6-46b2-41ca-a9f4-ce47ac40334b" word="island" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="b3491586-1807-48b6-83f1-4046913e4b0f" value="Tourism Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c3f18ad-5093-4c32-ac7c-71bb27af0d3e" ipa="/ˈaɪ.lənd/" vi_ipa="ái-lơn-đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e68c2986-a1f5-4253-9066-366091463479" type="Noun">
+          <Vi>hòn đảo</Vi>
+          <En>A piece of land surrounded by water.</En>
+          <Example>The tourists spent the day exploring the uninhabited island.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb21f94d-be13-44de-ac37-d1dd5e098019">
+              <Vi>Mô tả một khu đất nhỏ nằm giữa biển, sông, hoặc hồ.</Vi>
+              <En>Describes a small landmass completely surrounded by water.</En>
+            </Situation>
+            <Situation id="54d95187-1555-4e86-9b71-c56c9fae816d">
+              <Vi>Thường dùng trong ngữ cảnh địa lý, du lịch, hoặc sinh thái học.</Vi>
+              <En>Commonly used in geography, tourism, or ecology contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
