@@ -1,0 +1,41 @@
+<Vocab id="53dc8e4f-5ed7-441f-982d-5e995d93f8a1" word="thriller" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="45b9b616-4829-4942-b188-20571ca704e2" value="Film &amp; TV" />
+  </Topics>
+  <Professions>
+    <Profession id="d004051e-491e-4197-b7a8-429bc9b22265" value="Screenwriter" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="be7f5540-87e1-4e4c-800e-7d0e7a82727e" value="Novelist" />
+    <Profession id="433d4130-32b2-422e-a134-0a75c1643e55" value="Editor (Publishing)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bf176f6d-5a36-4af9-9881-98b7339ee292" ipa="/ˈθrɪl.ər/" vi_ipa="thơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="215e06e1-4e5e-4f70-a62b-3185547e49b3" type="Noun">
+          <Vi>trò chơi gây hồi hộp, kịch tính; phim, tiểu thuyết giật gân</Vi>
+          <En>a film, novel, or play that is extremely exciting and suspenseful, typically involving crime, mystery, or danger</En>
+          <Example>The new thriller by that author kept me up all night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb0a3026-8088-4d07-9eb0-82480fb43853">
+              <Vi>Người xem hoặc độc giả được giữ trong trạng thái căng thẳng và tò mò về diễn biến tiếp theo.</Vi>
+              <En>The audience or reader is kept in a state of suspense and curiosity about what happens next.</En>
+            </Situation>
+            <Situation id="bffb4644-6cab-4d7a-b896-310bbb0ac680">
+              <Vi>Phim hoặc sách có nhiều tình tiết bất ngờ, nguy hiểm, và xung đột cao.</Vi>
+              <En>A film or book with many unexpected plot twists, danger, and high-stakes conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
