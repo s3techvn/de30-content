@@ -1,0 +1,32 @@
+<Vocab id="e1cd3327-a381-4c5f-8e02-766897910a87" word="irish" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd37ace2-e6d2-4ef9-bace-6f4b23e29d2f" ipa="/ˈɪr.ɪʃ/" vi_ipa="i-rít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aba93d26-2b00-4593-b68a-7b3ef82582ef" type="Adjective">
+          <Vi>thuộc Ireland, người Ireland</Vi>
+          <En>relating to Ireland, its people, or its culture</En>
+          <Example>She enjoys Irish music and dancing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5403601a-187f-4037-9d82-17127e9a31cf">
+              <Vi>Mô tả điều gì đó liên quan đến quốc gia, con người, hoặc văn hóa Ireland.</Vi>
+              <En>Describing something related to the country, people, or culture of Ireland.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
