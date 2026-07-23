@@ -1,0 +1,36 @@
+<Vocab id="6a160b31-b497-4c4f-b6ca-eb389ab85532" word="elsewhere" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23cb595a-9aa9-4da9-99eb-7e6ae154c5e3" ipa="/ˌelˈsweə.ðər/" vi_ipa="en-xờ-đờ-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8e7de562-f39b-439c-bdf0-8cff4701ad22" type="Adverb">
+          <Vi>ở nơi khác, ở một nơi khác</Vi>
+          <En>In or to a different place; not here.</En>
+          <Example>We should go elsewhere for dinner tonight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1d5e49e-ac2e-48a7-8b5b-73050346b3c3">
+              <Vi>Một người đang đề xuất thay đổi địa điểm vì không hài lòng với nơi hiện tại.</Vi>
+              <En>A person suggesting a different location because they are dissatisfied with the current one.</En>
+            </Situation>
+            <Situation id="56f5d888-9a11-463a-8db6-83af72cfe196">
+              <Vi>Trong văn học hoặc triết học, chỉ một thế giới, thời gian, hoặc trạng thái tưởng tượng khác với hiện tại.</Vi>
+              <En>In literature or philosophy, referring to a hypothetical or imagined world, time, or state different from the present one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
