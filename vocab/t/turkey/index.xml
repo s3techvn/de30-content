@@ -1,0 +1,64 @@
+<Vocab id="495c93b3-96e6-40aa-af46-2e9916e22ac4" word="turkey" type="short" status="done">
+  <Topics>
+    <Topic id="b0889612-3f5d-463a-9b79-d749c8db4b02" value="Food &amp; Cuisine" />
+    <Topic id="fc074729-2a28-49bc-bb6a-f4a883e89b5f" value="Holidays &amp; Traditions" />
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5a34737c-4a7d-46e9-b34c-577b8b71bc35" ipa="/ˈtɜːr.ki/" vi_ipa="tớ-ki">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4139fbe8-fbfa-4489-8992-cf6f1a09f09c" type="Noun">
+          <Vi>con gà tây</Vi>
+          <En>A large bird native to North America, commonly eaten as food, especially at Thanksgiving and Christmas.</En>
+          <Example>My grandmother roasts a whole turkey every Thanksgiving Day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88743e23-cfeb-4f1b-8ee8-2f08bd0b4350">
+              <Vi>Thịt gà tây được dùng trong các bữa tiệc lễ hội, đặc biệt là Lễ Tạ Ơn ở Mỹ.</Vi>
+              <En>Turkey meat is served at holiday feasts, especially Thanksgiving in the United States.</En>
+            </Situation>
+            <Situation id="efb61960-e84b-4640-9733-cc7b1619ef56">
+              <Vi>Gà tây nuôi để lấy thịt, thường lớn hơn gà thường.</Vi>
+              <En>A domesticated bird raised primarily for its meat, larger than a chicken.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b56b0f56-28c1-407d-9fad-7a47aa9f86d5" type="Noun">
+          <Vi>đồ vật hoặc sự việc vô dụng, không hoạt động (thường mang tính chê bai)</Vi>
+          <En>A useless or dysfunctional person or thing; a flop (colloquial, often humorous or derogatory).</En>
+          <Example>The new smartphone was a turkey—nobody bought it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46b4c3f3-2d6c-4676-a1a1-e55bd0eaf98c">
+              <Vi>Chỉ một sản phẩm thất bại trong kinh doanh hoặc giải trí.</Vi>
+              <En>Refers to a commercial or artistic failure, especially in film, theater, or product launches.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0814fb66-0380-4f82-862c-33e1ab724a79" type="Noun">
+          <Vi>người ngốc nghếch, ngây thơ (từ lóng)</Vi>
+          <En>An foolish or gullible person (slang, informal and often playful).</En>
+          <Example>Don’t believe everything you read online—you’re not a turkey!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20f2b113-7431-4ea7-8350-240a7df289b4">
+              <Vi>Dùng khi chọc ghẹo nhẹ ai đó vì tin điều gì đó dễ dãi.</Vi>
+              <En>Used playfully to tease someone for believing something overly easily.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
