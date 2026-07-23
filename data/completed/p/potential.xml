@@ -1,0 +1,70 @@
+<Vocab id="f51805cf-3a0b-4ce6-ad38-87f968d688a2" word="potential" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6818b75c-9260-4361-9e54-1cdd29b2d342" ipa="/pəˈtɛnʃəl/" vi_ipa="pơ-tên-sờ-nan">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c823236-aef3-4a85-9d01-f7b94acb418a" type="Adjective">
+          <Vi>tiềm năng; có khả năng phát triển hoặc đạt được điều gì đó trong tương lai</Vi>
+          <En>having or showing the capacity to develop into something in the future</En>
+          <Example>She’s a student with great potential for success.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="599e9111-05bd-43c0-8ff3-207f0db64811">
+              <Vi>Mô tả một người hoặc thứ gì đó còn chưa phát huy hết nhưng có khả năng tiến bộ lớn.</Vi>
+              <En>Describing a person or thing that has not yet fully developed but shows strong promise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="ca3ed26a-0a1f-457f-b587-069a75e2ca03" ipa="/ˈpɒtənʃəl/" vi_ipa="pốt-tên-sờ-nan">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aba7e506-9a28-46d5-a414-c44beb6afe4c" type="Noun">
+          <Vi>tiềm năng; khả năng xảy ra hoặc đạt được điều gì đó</Vi>
+          <En>the degree to which something can develop or be realized</En>
+          <Example>The project has great potential for growth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f8e9208-7339-4532-baea-47f6bb17d69c">
+              <Vi>Dùng khi đánh giá khả năng thành công hoặc phát triển của kế hoạch, công nghệ, hoặc con người.</Vi>
+              <En>Used when assessing the likelihood or scope of future success, development, or impact.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6b7d06cb-fa46-4bc6-b58d-7f82ef97846f" type="Noun">
+          <Vi>điện thế (trong vật lý)</Vi>
+          <En>electric potential, especially voltage</En>
+          <Example>The potential difference across the resistor is 12 volts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87038a96-ba6c-44b8-9666-ce600e7792f9">
+              <Vi>Xảy ra trong bối cảnh vật lý hoặc kỹ thuật điện.</Vi>
+              <En>Used in physics or electrical engineering contexts involving voltage or energy per charge.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
