@@ -545,4 +545,5 @@
   <Profession id="936e5c01-a8be-4567-8d9b-6f3dff8237d4" slug="editor-/-writer" value="Editor / Writer" />
   <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" slug="parent" value="Parent" />
   <Profession id="ac5bca08-087c-4bcc-998a-632cc3f865f7" slug="home-cook" value="Home Cook" />
+  <Profession id="29e9a450-4129-4644-872e-b99492c22378" slug="academic-administrator" value="Academic Administrator" />
 </Professions>
