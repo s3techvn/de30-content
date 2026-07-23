@@ -1,0 +1,38 @@
+<Vocab id="da27f701-3974-4cdd-ad5b-1536f926aad5" word="horrible" type="short" status="done">
+  <Topics>
+    <Topic id="534ecd25-6f52-4c50-a3ff-2b8e3f76255f" value="Emotions and Descriptions" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="61c26a0e-19a6-468a-bab7-3b85f0cd0cd4" ipa="/ˈhɔːr.ə.bəl/" vi_ipa="hớ-rơ-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="39fb507c-06a2-4004-91f6-6361ea898b65" type="Adjective">
+          <Vi>kinh khủng, kinh hoàng, rất tệ</Vi>
+          <En>extremely unpleasant, shocking, or frightening; very bad or unsatisfactory.</En>
+          <Example>The weather was horrible during our entire vacation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac4ce1ef-393b-43c9-8758-705807c3053f">
+              <Vi>Mô tả một trải nghiệm hoặc sự vật rất khó chịu, đáng sợ, hoặc kém chất lượng.</Vi>
+              <En>Describing an experience, object, or event that is extremely unpleasant, frightening, or of very poor quality.</En>
+            </Situation>
+            <Situation id="5f070e93-2299-44a6-8699-de6046a58a56">
+              <Vi>Dùng để nhấn mạnh mức độ tiêu cực trong cảm xúc hoặc đánh giá.</Vi>
+              <En>Used to emphasize a high degree of negativity in emotion or evaluation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
