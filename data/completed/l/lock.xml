@@ -1,0 +1,90 @@
+<Vocab id="dd15d718-f3f1-48b2-beae-69a530b5de41" word="lock" type="short" status="done">
+  <Topics>
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="d2ff93bb-c143-41b7-8359-c58c8fa9a33e" value="Locksmith" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c6d5fa0e-bfd0-41d4-a38a-50d61ef5a3f6" ipa="/lɑːk/" vi_ipa="lốc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="32b86b81-d7d1-4399-8ad4-473ab4e351f2" type="Noun">
+          <Vi>Cái khóa; chốt; ổ khóa</Vi>
+          <En>A device used to secure a door, gate, or container, typically operated with a key or code.</En>
+          <Example>She turned the key and heard the satisfying click of the lock engaging.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e145f150-0bfa-4d58-aa7b-3c432825c454">
+              <Vi>Tình huống khóa cửa khi rời nhà.</Vi>
+              <En>Securing a door before leaving home.</En>
+            </Situation>
+            <Situation id="d776610b-d37a-47d0-92d5-87d3d5354864">
+              <Vi>Tình huống dùng khóa điện tử để mở cửa.</Vi>
+              <En>Using a smart lock to open a door.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e65ab129-410e-4e32-a810-51faf919de05" type="Verb">
+          <Vi>Khóa lại; đóng khóa; ghim (tóc)</Vi>
+          <En>To fasten or secure something, especially with a lock; also to fix something firmly in place.</En>
+          <Example>He locked the bike to the rack to prevent theft.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bded598e-a2fc-4a5f-939e-59edd8c57860">
+              <Vi>Tình huống khóa xe đạp ở nơi công cộng.</Vi>
+              <En>Securing a bicycle to a public rack to prevent theft.</En>
+            </Situation>
+            <Situation id="96bd8ba3-0f1f-4883-af21-097699f329de">
+              <Vi>Tình huống “ghim” một video lên YouTube để giữ vị trí.</Vi>
+              <En>Pinning a video to a fixed position on YouTube (e.g., for priority).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6b718e0b-2342-4e61-b732-f595008e1c71" ipa="/lɑːk/" vi_ipa="lốc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1a55c353-8e7f-4a03-a8bf-49214a1c5ad8" type="Noun">
+          <Vi>Chỗ tóc được uốn/ghim cố định; phần tóc bị khóa</Vi>
+          <En>A section of hair that is tightly twisted, coiled, or pinned in place (e.g., in dreadlocks or updos).</En>
+          <Example>She styled her hair into neat locks using bobby pins.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dcb365de-8f97-462f-b6f4-583bf33f6204">
+              <Vi>Tình huống tạo kiểu tóc với các lọn tóc được ghim cẩn thận.</Vi>
+              <En>Creating a formal hairstyle with pinned-up hair sections.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5de191ff-488c-41a0-ae8d-fe873823ace1" type="Verb">
+          <Vi>Uốn/ghim tóc thành từng lọn cố định</Vi>
+          <En>To twist, coil, or pin hair into a fixed shape or section.</En>
+          <Example>She spent hours locking her hair into place for the wedding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0f88ca8e-a2b9-491e-ab7f-54b26f54a037">
+              <Vi>Tình huống làm tóc cho sự kiện trang trọng.</Vi>
+              <En>Preparing hair for a formal event like a wedding or photoshoot.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
