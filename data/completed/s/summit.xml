@@ -1,0 +1,60 @@
+<Vocab id="eb010953-ee9a-4fbf-9675-f1c2bef9c2ef" word="summit" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="e5b97041-f3da-41dd-ab13-3356d2f1e8a4" value="Mountaineer" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d87ae43-eaec-412c-bb89-10103a11b060" ipa="/ˈsʌm.ɪt/" vi_ipa="xam-mít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="13988e00-a0c4-44a7-9ea9-735cc653793b" type="Noun">
+          <Vi>Đỉnh (núi); Đỉnh cao nhất</Vi>
+          <En>The top or highest point of a mountain or hill.</En>
+          <Example>They reached the summit after a grueling five-hour climb.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f362dc62-0ea4-45e0-abe9-e717c86fc83c">
+              <Vi>Mô tả việc chinh phục hoặc ngắm nhìn từ đỉnh núi cao nhất.</Vi>
+              <En>Describes reaching or viewing from the highest point of a mountain.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="31eb9826-1734-46c7-94f6-0d24bffdbb64" type="Noun">
+          <Vi>Hội nghị cấp cao; Thượng đỉnh</Vi>
+          <En>A high-level meeting, especially between heads of state or government.</En>
+          <Example>The two leaders held a summit to discuss climate change.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aabeca98-dbaa-405f-a5e2-f19ebd81ed82">
+              <Vi>Mô tả các cuộc họp quan trọng giữa các nhà lãnh đạo quốc gia.</Vi>
+              <En>Describes important meetings among national leaders, such as heads of state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4ced8028-fefa-4766-a84e-f6e56ca5d9e8" type="Noun">
+          <Vi>Điểm cao nhất; Đỉnh điểm</Vi>
+          <En>The highest or most successful point in a process, career, or period.</En>
+          <Example>At the summit of his career, he decided to retire.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b24034d-8613-41f1-87bc-bc0368b6f6b7">
+              <Vi>Mô tả thời điểm thành công rực rỡ nhất trong sự nghiệp hoặc cuộc đời.</Vi>
+              <En>Describes the peak of success or achievement in a career or life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
