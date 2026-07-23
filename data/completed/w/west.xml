@@ -1,0 +1,50 @@
+<Vocab id="39744f0a-82aa-470d-bf90-0861607a7155" word="west" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="262be29c-7884-4650-a66d-3b103b5bf9ae" ipa="/wɛst/" vi_ipa="vét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3399869-1bee-4212-95ff-7fe5a42faa3a" type="Noun">
+          <Vi>phía tây</Vi>
+          <En>The direction or point on the horizon where the sun sets, or the region located in that direction.</En>
+          <Example>We drove west for three hours before stopping for the night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b878a9e4-55d1-4920-9db7-9763678588ae">
+              <Vi>Chỉ hướng di chuyển hoặc vị trí địa lý về phía bên tay trái khi đối diện với mặt trời mọc.</Vi>
+              <En>Refers to the direction or location to the left when facing sunrise, or where the sun sets.</En>
+            </Situation>
+            <Situation id="cc1483cb-58b6-4400-8132-527c3a351ce5">
+              <Vi>Sử dụng trong bản đồ, định hướng, hoặc mô tả vị trí địa lý.</Vi>
+              <En>Used in maps, navigation, or describing geographic location (e.g., “the western coast”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a68a1ccb-786d-4c24-98a9-c39389c367ce" type="Adjective">
+          <Vi>tây; ở phía tây</Vi>
+          <En>Located in, moving toward, or coming from the west.</En>
+          <Example>The wind came from the west, bringing cooler air.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df93e082-8ea8-4c7a-8b70-ef868ef8b8ab">
+              <Vi>Mô tả vị trí, hướng đi hoặc nguồn gốc (ví dụ: vùng, quốc gia, gió).</Vi>
+              <En>Describes location, direction, or origin (e.g., “western Europe”, “a west wind”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
