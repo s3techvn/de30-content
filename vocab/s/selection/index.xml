@@ -1,0 +1,50 @@
+<Vocab id="f1fa88b4-b035-44de-8928-4a0954fcddfc" word="selection" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="74c7e90c-32d7-4e5d-8e44-635bdb3eaf97" ipa="/səˈlek.ʃən/" vi_ipa="sờ-lec-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2aa34aa-c5e0-4abd-9f16-a3b812edd4b2" type="Noun">
+          <Vi>Sự lựa chọn; lựa chọn; phần được chọn</Vi>
+          <En>The act of choosing someone or something, or the person or thing that is chosen</En>
+          <Example>She was given the selection of three different job offers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8d4eb3e-ee76-4e5a-af55-2526c9476267">
+              <Vi>Quy trình chọn ứng viên cho vị trí công việc</Vi>
+              <En>The process of choosing candidates for a job position</En>
+            </Situation>
+            <Situation id="b4b428da-e434-49d5-a9fd-359086e6d91c">
+              <Vi>Danh sách các món ăn được chọn làm món đặc biệt</Vi>
+              <En>A list of dishes selected as special offerings</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="45481f8f-c1b5-49e5-906b-370fdd2d83a8" type="Noun">
+          <Vi>Sự tuyển chọn (đặc biệt trong nghệ thuật, thể thao)</Vi>
+          <En>The process or result of selecting people or things, especially in a competitive context such as sports or the arts</En>
+          <Example>The national team’s selection for the World Cup was widely praised.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60bf50a9-98a8-4ccb-bb12-dbea9234e2a2">
+              <Vi>Việc chọn cầu thủ vào đội tuyển quốc gia</Vi>
+              <En>The selection of players for the national team</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

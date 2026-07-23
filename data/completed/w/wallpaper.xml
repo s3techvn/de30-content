@@ -1,0 +1,37 @@
+<Vocab id="2cbdb288-6661-4c90-b96c-858ce0326ff0" word="wallpaper" type="short" status="done">
+  <Topics>
+    <Topic id="523cb9d3-074a-495e-94a9-87d4199f9a53" value="Home &amp; Decor" />
+  </Topics>
+  <Professions>
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="5fb78966-a6b2-41fc-b0c8-9e22587117bf" value="Painter &amp; Decorator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2223163b-0ee3-4f2d-afd5-f979936d2ae0" ipa="/ˈwɔːl.pेप.ər/" vi_ipa="wo-lpẹp-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35244482-58a8-4a07-a4f3-331221c2575f" type="Noun">
+          <Vi>Vật liệu trang trí dán lên tường, thường có hoa văn hoặc họa tiết</Vi>
+          <En>Paper or other material used to cover and decorate the interior walls of a room, typically with a patterned design.</En>
+          <Example>She chose floral wallpaper to give the nursery a cozy, vintage feel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5926a99b-28ed-40dc-b6fb-94933c8f979e">
+              <Vi>Trước khi sơn hoặc dán tường, người ta thường chọn loại giấy dán tường phù hợp với phong cách nội thất.</Vi>
+              <En>Before painting or decorating, people select wallpaper that matches the room’s interior style.</En>
+            </Situation>
+            <Situation id="ee1da1e2-a481-4d79-bb76-dfe37f24c63c">
+              <Vi>Giấy dán tường có thể được thay thế dễ dàng hơn so với sơn lại toàn bộ tường.</Vi>
+              <En>Wallpaper can be replaced more easily than repainting entire walls.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
