@@ -1,0 +1,38 @@
+<Vocab id="d022e939-b10e-4088-a09b-54388c7b48d9" word="adoption" type="short" status="done">
+  <Topics>
+    <Topic id="aa269c1e-3032-4ce2-b8a0-5a788b2bdd9b" value="Family &amp; Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="96a04c41-a073-45bb-b62b-ea83e2828ce4" ipa="/əˈdɒp.ʃən/" vi_ipa="a-dốp-si-ôn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d0231e7-f08d-46aa-bf11-81db546436cb" type="Noun">
+          <Vi>Việc nhận con nuôi; sự áp dụng (một ý tưởng, phương pháp)</Vi>
+          <En>The legal process of taking someone else's child as one's own, or the act of formally adopting a policy, idea, or method.</En>
+          <Example>They completed the adoption process last month and are now the proud parents of a one-year-old boy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f885b8f6-8951-405f-bcdc-0c8c6590c4ce">
+              <Vi>Thủ tục pháp lý để trở thành cha mẹ hợp pháp của một đứa trẻ không phải con ruột.</Vi>
+              <En>Legal procedures through which individuals become the full legal parents of a child not biologically their own.</En>
+            </Situation>
+            <Situation id="6004460b-d13b-403a-a449-50854d130081">
+              <Vi>Sự áp dụng rộng rãi một công nghệ mới trong doanh nghiệp.</Vi>
+              <En>The widespread implementation of a new technology within a business context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,32 @@
+<Vocab id="1b445663-8fa1-4bde-bcf8-e69e6cfdae6e" word="jon" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0fd2f9b1-f6b5-4169-9371-8c9c0b47b48f" ipa="/dʒɒn/" vi_ipa="giôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="818e0a9b-0c08-4776-ae67-3deb715089c1" type="Noun">
+          <Vi>Tên riêng (viết tắt của Jonathan)</Vi>
+          <En>A male given name, often a shortened form of Jonathan.</En>
+          <Example>Jon met his friends for coffee on Saturday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aaf3b76c-7ecf-4245-a33d-02d4634932a8">
+              <Vi>Dùng khi gọi hoặc đề cập đến một người tên Jon trong giao tiếp hàng ngày.</Vi>
+              <En>Used when addressing or referring to a person named Jon in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
