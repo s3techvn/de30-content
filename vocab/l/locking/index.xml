@@ -1,0 +1,56 @@
+<Vocab id="32204776-5b8a-4022-a91a-331d04d4eaa2" word="locking" type="short" status="done">
+  <Topics>
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="d2ff93bb-c143-41b7-8359-c58c8fa9a33e" value="Locksmith" />
+    <Profession id="4fdd2aec-577e-4ecb-8a13-b8d87c9b6675" value="IT Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49de12b8-01c0-4b91-aa2b-90fc4a05429c" ipa="/ˈlɑːk.ɪŋ/" vi_ipa="lốc-kinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="46e152d5-d437-489b-9d5d-d5022cf2780c" type="Noun">
+          <Vi>Hành động khóa, trạng thái bị khóa</Vi>
+          <En>The action or process of securing something with a lock, or the state of being locked.</En>
+          <Example>He checked the locking of the door before leaving.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2f15c7e-292e-48a3-afa7-0a62eb98cde1">
+              <Vi>Mô tả việc kiểm tra xem cửa đã được khóa chắc chắn chưa.</Vi>
+              <En>Describing the act of checking whether a door is securely locked.</En>
+            </Situation>
+            <Situation id="c6cd9e0b-6e54-42bb-a963-8ea9b84f31e7">
+              <Vi>Tình huống hệ thống máy tính bị khóa do lỗi bảo mật.</Vi>
+              <En>A scenario where a computer system becomes locked due to a security issue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="96fe0b36-4520-494a-b8d0-5fe4cff812d9" type="Verb (present participle/gerund)">
+          <Vi>Đang khóa / Việc khóa (hành động)</Vi>
+          <En>Form of the verb "lock" used as a gerund or present participle; refers to the act of securing something.</En>
+          <Example>Locking your phone with a password enhances security.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="afbf3098-af19-4de9-8032-3b96bad27410">
+              <Vi>Hướng dẫn người dùng cách khóa điện thoại.</Vi>
+              <En>Guiding users on how to secure their phone with a password.</En>
+            </Situation>
+            <Situation id="50dea745-a3a9-4737-9dac-9e301213cd9d">
+              <Vi>Mô tả quá trình hệ thống tự động khóa khi không hoạt động.</Vi>
+              <En>Describing the process where a system automatically locks when inactive.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
