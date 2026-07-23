@@ -578,4 +578,5 @@
   <Profession id="8e361acb-0a6c-472a-bec7-6bd2a47870e2" slug="mining-engineer" value="Mining Engineer" />
   <Profession id="c97ecc2f-7770-4964-b989-d98c7d8fd397" slug="military-engineer" value="Military Engineer" />
   <Profession id="20291a6c-da28-4c29-8909-55e1832320a6" slug="shift-worker" value="Shift Worker" />
+  <Profession id="52e8abe6-0938-4a84-b0d1-9349781ed26d" slug="driving-instructor" value="Driving Instructor" />
 </Professions>

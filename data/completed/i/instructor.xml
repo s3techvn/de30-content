@@ -1,0 +1,38 @@
+<Vocab id="76a97282-e731-4ddb-b7de-849149cd3590" word="instructor" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+    <Profession id="52e8abe6-0938-4a84-b0d1-9349781ed26d" value="Driving Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ad288005-0cb4-4f78-9281-77fab1246b20" ipa="/ɪnˈstrʌk.tər/" vi_ipa="in-strắc-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9ef8c9db-6d43-407a-83bb-e7ea673c8f20" type="Noun">
+          <Vi>giáo viên; người hướng dẫn</Vi>
+          <En>A person who teaches, especially in a specific skill or subject.</En>
+          <Example>The flight instructor gave the student detailed feedback after the landing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d941b8ca-3187-42af-aacc-950ee889b66c">
+              <Vi>Giảng viên tại trung tâm dạy lái xe ô tô.</Vi>
+              <En>A teacher at a car driving school.</En>
+            </Situation>
+            <Situation id="f287d19e-58c2-4b55-9593-a22f70495452">
+              <Vi>Người hướng dẫn trong lớp học thể thao hoặc kỹ năng mềm.</Vi>
+              <En>A guide or teacher in a sports or soft skills training session.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
