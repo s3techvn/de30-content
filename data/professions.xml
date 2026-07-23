@@ -527,4 +527,7 @@
   <Profession id="d2ff93bb-c143-41b7-8359-c58c8fa9a33e" slug="locksmith" value="Locksmith" />
   <Profession id="4113bb2a-0250-4144-a0f4-e4c092d61dc7" slug="fashion-model" value="Fashion Model" />
   <Profession id="c87a3c29-674c-4f96-9da7-a311bd9ea187" slug="lawmaker" value="Lawmaker" />
+  <Profession id="6ed9c814-7bc3-4d2b-97b4-e74c5975fdc5" slug="travel-industry" value="Travel Industry" />
+  <Profession id="d851c777-703f-4343-9fd8-9c6359223e9c" slug="healthcare-(e_g_,-caregivers)" value="Healthcare (e.g., caregivers)" />
+  <Profession id="6c78e5ae-4618-4d1a-9aef-4838f7e80f98" slug="military" value="Military" />
 </Professions>
