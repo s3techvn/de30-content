@@ -1,0 +1,40 @@
+<Vocab id="43be3be6-03bf-45ef-9902-6d4030114459" word="pix" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="f91a0903-b644-4a97-ac43-eeded783b03b" value="Social Media" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="5febc387-0c4c-4cb7-966d-db1142dec825" value="Social Media Manager" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6a79129e-139e-483f-ad6d-d9634f2a1df6" ipa="/pɪks/" vi_ipa="pích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5eb4f280-365f-4453-a6c9-354d67fef8e3" type="Noun">
+          <Vi>Hình ảnh (thường là ảnh kỹ thuật số hoặc ảnh chụp nhanh)</Vi>
+          <En>Short for "pictures"; informal term for photographs, especially digital images or snapshots.</En>
+          <Example>She uploaded all the pix from the party to her Instagram story.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52b3e106-8ad0-43c9-b80b-21c7e42a61a4">
+              <Vi>Người dùng mạng xã hội chia sẻ ảnh chụp nhanh từ sự kiện.</Vi>
+              <En>Someone sharing quick snapshots from an event on social media.</En>
+            </Situation>
+            <Situation id="d864dd15-a48a-4384-81f8-b8095ae33fae">
+              <Vi>Nhà báo gửi hình ảnh hiện trường bằng điện thoại.</Vi>
+              <En>A journalist sending现场 photos from the scene via mobile phone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
