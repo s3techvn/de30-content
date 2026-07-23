@@ -1,0 +1,56 @@
+<Vocab id="e41392ba-f2ea-435e-98eb-7b497d8dddf4" word="boost" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="83a29bd0-cf92-40a0-942b-05ad2574f71b" ipa="/buːst/" vi_ipa="bút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="65bf1f16-d12e-426d-91af-7782768fa14d" type="Verb">
+          <Vi>Tăng cường, thúc đẩy, nâng cao</Vi>
+          <En>To increase or improve something, especially strength, performance, or confidence</En>
+          <Example>The new marketing campaign is expected to boost sales by 20%.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20b57c2d-8ac3-4458-9d78-7f6bf7dd2acc">
+              <Vi>Thúc đẩy doanh số bán hàng hoặc hiệu suất làm việc</Vi>
+              <En>Actively improving sales figures or work performance</En>
+            </Situation>
+            <Situation id="fbc78729-8ced-43bb-bda1-8eb23f85022c">
+              <Vi>Tăng cường sự tự tin của ai đó</Vi>
+              <En>Improving someone’s confidence or morale</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="33e97254-b541-42b2-8d61-934a70b9cba2" type="Noun">
+          <Vi>Sự tăng cường, sự thúc đẩy</Vi>
+          <En>An increase in strength, performance, or confidence</En>
+          <Example>The team received a morale boost after winning the first match.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ff1940b1-ce09-4aa6-9565-373bad8c0a5a">
+              <Vi>Cảm giác hưng phấn hoặc động lực tăng lên</Vi>
+              <En>A feeling of renewed energy or motivation</En>
+            </Situation>
+            <Situation id="f218f481-2d4c-44e8-ac53-ada164213bbb">
+              <Vi>Sự cải thiện đột ngột trong kết quả</Vi>
+              <En>A sudden improvement in results or outcomes</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
