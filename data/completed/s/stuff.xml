@@ -1,0 +1,52 @@
+<Vocab id="5c86723a-fc62-4650-9783-29feb1f1a884" word="stuff" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="141fb67d-118e-418c-a0a2-77ca5e3ba1a9" ipa="/stʌf/" vi_ipa="s-t-ơ-f">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="88635156-6d3b-4823-9463-93f065fe7405" type="Noun">
+          <Vi>đồ đạc, vật dụng, đồ nghề</Vi>
+          <En>things, especially a person’s personal belongings or materials needed for a particular activity</En>
+          <Example>Can you help me pack all this stuff before we move?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67775005-d905-4765-8197-2ea0e3c02611">
+              <Vi>Tình huống khi nói về đồ đạc cá nhân cần dọn dẹp hoặc đóng gói.</Vi>
+              <En>A situation where one refers to personal belongings needing to be packed or organized.</En>
+            </Situation>
+            <Situation id="eee8e77e-d9c4-4880-8428-3f7edcbb95b9">
+              <Vi>Tình huống nói chung về các vật không cụ thể hoặc không cần tên rõ ràng.</Vi>
+              <En>A situation where one refers to unspecified or unnamed items in a general way.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="84813f9f-f22e-4dd1-9f3a-12cd0774dac6" type="Verb">
+          <Vi>nhét, nhồi, nhồi nhét</Vi>
+          <En>put (something) into a container or space tightly or hurriedly</En>
+          <Example>She stuffed the suitcases with clothes before the trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="19ce9504-dbb2-449e-adce-b662788567f6">
+              <Vi>Tình huống khi nhét nhiều đồ vào không gian chật hẹp.</Vi>
+              <En>A situation where many items are crammed into a tight space.</En>
+            </Situation>
+            <Situation id="1c80c679-d879-4d91-9837-4a791368b5e5">
+              <Vi>Tình huống khi ăn quá no (nói thân mật).</Vi>
+              <En>A situation where one eats too much (used informally).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
