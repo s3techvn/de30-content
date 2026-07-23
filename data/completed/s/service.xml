@@ -1,0 +1,70 @@
+<Vocab id="26832828-4149-451a-ba4d-9e3e7c7b1103" word="service" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0f266fc1-aba8-4156-bef2-deb452cfee0b" value="Hospitality Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="31ee6364-745f-4697-953d-c6018bad7264" ipa="/ˈsɜːr.vɪs/" vi_ipa="xờ-véc-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="29cbb9bc-8600-4227-b07d-98f8dcb47c6e" type="Noun">
+          <Vi>Dịch vụ</Vi>
+          <En>A system for providing a public or commercial service, especially one that meets a basic need.</En>
+          <Example>The hotel offers excellent room service.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="74e553c2-e7b6-4e3c-8f25-8304b20a60e9">
+              <Vi>Chỉ các hoạt động hỗ trợ khách hàng như sửa chữa, tư vấn, hoặc hỗ trợ kỹ thuật.</Vi>
+              <En>Refers to activities supporting customers, such as repairs, consultation, or technical support.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d4c0e462-0f19-4759-bfaf-082ac92898d6" type="Verb">
+          <Vi>Bảo trì, phục vụ</Vi>
+          <En>To maintain or repair (equipment or a vehicle) to ensure it functions properly.</En>
+          <Example>We need to service the car before the long trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cd5aa4f2-9716-489f-ad74-167abaf48ff1">
+              <Vi>Hành động kiểm tra và bảo dưỡng thiết bị để đảm bảo hoạt động tốt.</Vi>
+              <En>The act of inspecting and maintaining equipment to ensure proper operation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a5ee1d77-76bb-484a-b03d-f388b8c05510" ipa="/ˈsɜːr.vɪs/" vi_ipa="xờ-véc-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2d51b7e3-dd56-4c1b-956d-662be0e6d998" type="Noun">
+          <Vi>Danh dự, nghĩa vụ phục vụ</Vi>
+          <En>The action of serving, especially in the armed forces or in a religious context.</En>
+          <Example>He completed his military service in the navy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="645d3b75-7ee5-4651-9eea-dfa7970f687f">
+              <Vi>Thời gian phục vụ bắt buộc hoặc tự nguyện trong quân đội hoặc tổ chức tôn giáo.</Vi>
+              <En>The period of mandatory or voluntary service in the military or a religious organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
