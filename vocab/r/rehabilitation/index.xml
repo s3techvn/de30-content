@@ -1,0 +1,39 @@
+<Vocab id="5cd2b10c-149a-4a3e-95cd-995853f4f47d" word="rehabilitation" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="c42c8b2c-3db3-40e2-b706-3c384c224a88" value="Occupational Therapist" />
+    <Profession id="0c3abc06-cf6e-4853-a078-e08a309b1fe9" value="Rehabilitation Specialist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6229d990-7a79-4575-8070-95f130631a3b" ipa="/ˌriː.həˌbɪl.ɪˈteɪ.ʃən/" vi_ipa="ri-hờ-hờ-bi-lờ-tê-i-shờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb283f97-3d47-46ab-8461-3c1784a6c1dd" type="Noun">
+          <Vi>Quá trình phục hồi chức năng (về thể chất, tinh thần, hoặc xã hội sau chấn thương, bệnh tật, hoặc nghiện)</Vi>
+          <En>The process of helping someone recover their physical, mental, or social abilities after illness, injury, or addiction.</En>
+          <Example>She completed a six-week cardiac rehabilitation program after her heart surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6adf3ec-a7df-42c6-9e8f-fc4143e9855f">
+              <Vi>Bệnh nhân được hướng dẫn tập luyện và tư vấn để phục hồi sau đột quỵ.</Vi>
+              <En>A patient receives guided exercises and counseling to regain function after a stroke.</En>
+            </Situation>
+            <Situation id="1fc80448-10e5-429d-807f-d92c4164202c">
+              <Vi>Chương trình phục hồi nghiện bao gồm trị liệu tâm lý và hỗ trợ xã hội.</Vi>
+              <En>An addiction rehabilitation program includes psychological therapy and social support.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
