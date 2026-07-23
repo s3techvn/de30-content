@@ -1,0 +1,50 @@
+<Vocab id="918b401e-5b7a-48bd-9ef1-3d38a4a5772a" word="thesis" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23cc9a9d-6ac9-48d6-aedc-fe58ba96daa4" ipa="/ˈθiː.sɪs/" vi_ipa="thì-sít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f43b27c-b13c-4f97-966e-e1c5fff7182b" type="Noun">
+          <Vi>Bài luận tốt nghiệp; luận án</Vi>
+          <En>A long, detailed piece of writing on a specific subject, typically written as part of the requirements for a university degree or academic qualification.</En>
+          <Example>She spent six months researching and writing her master's thesis on climate change impacts in Southeast Asia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36179720-6260-4090-8e22-78f7739fdd0b">
+              <Vi>Sinh viên hoàn thành luận văn để tốt nghiệp thạc sĩ hoặc tiến sĩ.</Vi>
+              <En>A graduate student submits a thesis to fulfill degree requirements.</En>
+            </Situation>
+            <Situation id="ba067878-73a7-46bb-b7cd-bd24fb32af60">
+              <Vi>Sinh viên bảo vệ luận văn trước hội đồng.</Vi>
+              <En>The candidate defends their thesis before a committee of faculty members.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="153ef308-495f-4ac6-aae1-327febf34e55" type="Noun">
+          <Vi>Giả thuyết, luận điểm chính được trình bày trong một bài viết hoặc bài nói</Vi>
+          <En>The main argument or proposition in a philosophical or academic argument; a central idea or claim.</En>
+          <Example>Her thesis that social media erodes interpersonal trust sparked intense debate at the conference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dbbf343d-cc92-4f78-9c16-32af8a569016">
+              <Vi>Giảng viên yêu cầu sinh viên nêu rõ luận điểm chính của bài tiểu luận.</Vi>
+              <En>The professor asked students to clearly state the thesis of their research paper.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
