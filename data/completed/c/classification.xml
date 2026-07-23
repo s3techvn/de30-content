@@ -1,0 +1,40 @@
+<Vocab id="f1dbd590-fa6b-4519-8eb7-8c25d4205fcf" word="classification" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1ed4cd5-211d-4020-8997-ac44806395b1" ipa="/ˌklæs.ɪ.fɪˈkeɪ.ʃən/" vi_ipa="cờ-lờ-si-fi-kây-sờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1cb36358-b211-4bba-bc66-1edc6bb78318" type="Noun">
+          <Vi>Sự phân loại; phân loại</Vi>
+          <En>The action or process of categorizing things according to shared characteristics or criteria.</En>
+          <Example>The biologist developed a new classification system for rare plant species.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="453c29c3-03f3-44fb-8108-bea68a2cf121">
+              <Vi>Sử dụng trong nghiên cứu khoa học để nhóm các sinh vật theo đặc điểm chung.</Vi>
+              <En>Used in scientific research to group organisms based on shared traits.</En>
+            </Situation>
+            <Situation id="268f17bc-e485-4f88-ac31-351dfd7ed0e6">
+              <Vi>Trong học thuật, chỉ hệ thống phân cấp các khái niệm hoặc đối tượng.</Vi>
+              <En>In academia, refers to a hierarchical system for organizing concepts or objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
