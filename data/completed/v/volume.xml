@@ -1,0 +1,82 @@
+<Vocab id="11c61622-b7eb-4571-99c4-ca3dcfa9a5f4" word="volume" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="57a39f6a-1cd9-4da9-93fe-1f471b7f67f2" ipa="/ˈvɑːl.juːm/" vi_ipa="vôn-lúm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ac70f6b3-3c49-4d9b-b023-ade169b9f4df" type="Noun">
+          <Vi>Thể tích</Vi>
+          <En>The amount of three-dimensional space occupied by a substance or enclosed within a container.</En>
+          <Example>The volume of the cube is calculated by multiplying the length, width, and height.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03fb596e-6d70-48d0-9c42-15d5b1deb906">
+              <Vi>Mô tả lượng không gian mà một vật chiếm dụng.</Vi>
+              <En>Describing the amount of space an object or substance occupies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="15936c53-7433-4ab0-85e9-a3d1ebb5f8d3" type="Noun">
+          <Vi>Tập (sách), quyển (sách)</Vi>
+          <En>A book that is part of a series or collection.</En>
+          <Example>The library has all 12 volumes of the encyclopedia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1c2db7a-511f-41fc-9225-ddad131c4349">
+              <Vi>Dùng để chỉ một cuốn sách trong bộ sách nhiều tập.</Vi>
+              <En>Used to refer to one book in a multi-volume set.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e9677f34-dc4c-4dbe-8ac4-36b8f39cf948" type="Noun">
+          <Vi>Âm lượng</Vi>
+          <En>The degree of loudness or the intensity of a sound.</En>
+          <Example>She turned up the volume on the radio to hear the news clearly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="141fbcbc-e87c-4e1a-a84c-94de02a35f38">
+              <Vi>Mức độ to nhỏ của âm thanh phát ra từ thiết bị âm thanh.</Vi>
+              <En>The loudness level of sound output from an audio device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c9819e90-1297-446e-9b4e-e31fce1a05cd" ipa="/vəˈluːm/" vi_ipa="vơ-lúm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ebca9e1a-f2fb-4789-8634-0e5597573458" type="Verb">
+          <Vi>Tăng âm lượng</Vi>
+          <En>To increase the loudness of a sound, especially from a speaker or device.</En>
+          <Example>He quickly volume-d the music when the phone rang.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="74871107-0145-455f-ab74-1395cd238e8e">
+              <Vi>Hành động tăng độ to của âm thanh đang phát.</Vi>
+              <En>The action of making a sound louder, typically by adjusting a control.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
