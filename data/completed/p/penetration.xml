@@ -1,0 +1,66 @@
+<Vocab id="e083a16c-8fcf-41cc-ad8a-6f46ab83ceeb" word="penetration" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" value="Military Strategist" />
+    <Profession id="f6b728bb-9e99-447f-af15-4ab87a8bf849" value="Medical Professional" />
+    <Profession id="1a742897-c59a-44ce-943a-aca5d3e86481" value="Ethical Hacker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="457737f0-a995-48a8-a5c1-87f3bd6959f6" ipa="/ˌpen.ə.treɪˈʃʌn/" vi_ipa="pen-nơ-trây-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c49c194-363b-41c0-8f91-6dcba3b7f979" type="Noun">
+          <Vi>Sự xâm nhập, sự thâm nhập</Vi>
+          <En>The action or process of entering or passing into something, especially by force or stealth.</En>
+          <Example>The security team detected a penetration attempt on the company's network.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6903cdb2-7abf-4b2b-a4d6-81d79f18880a">
+              <Vi>Một cuộc tấn công mạng nhằm xâm nhập vào hệ thống bảo mật.</Vi>
+              <En>A cyberattack aimed at breaching a system's security defenses.</En>
+            </Situation>
+            <Situation id="7a2b7153-73c5-4e6a-9b64-59113a93016b">
+              <Vi>Sự xâm nhập vật lý vào khu vực cấm trong quân sự.</Vi>
+              <En>The physical entry into a restricted military zone, often covertly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="996015ad-a72d-4726-bf07-755e68bfd24d" type="Noun">
+          <Vi>Sự thâm nhập (trong y học: sự xuyên qua mô)</Vi>
+          <En>The action of a surgical instrument or foreign object passing through tissue or a barrier.</En>
+          <Example>The surgeon noted the depth of needle penetration during the biopsy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b93bd01-9948-484c-9045-df72c94e2910">
+              <Vi>Độ sâu thâm nhập của kim trong thủ thuật sinh thiết.</Vi>
+              <En>The depth to which a needle penetrates tissue during a medical procedure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5287e486-5d93-43c9-bf19-0a566beb6132" type="Noun">
+          <Vi>Sự xâm nhập tình dục (thường mang nghĩa tiêu cực hoặc y học)</Vi>
+          <En>The act of inserting or entering, especially in a sexual context; used in clinical or legal contexts.</En>
+          <Example>The forensic report addressed the nature and extent of the penetration.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="22b116a2-848d-49c9-95ee-60a6c49871a1">
+              <Vi>Trong điều tra pháp y, xác định mức độ xâm nhập tình dục.</Vi>
+              <En>In forensic investigation, determining whether and to what degree sexual penetration occurred.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
