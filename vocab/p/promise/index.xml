@@ -1,0 +1,66 @@
+<Vocab id="9875305a-5f0d-4ab7-90fb-634895c963dc" word="promise" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7857a1a6-bf64-4112-8d4b-463c0e4a22a4" ipa="/ˈprɑː.mɪs/" vi_ipa="pờ-rờ-mít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c92bd8e0-e01a-4f60-bd9c-7f92599d8200" type="Noun">
+          <Vi>Lời hứa</Vi>
+          <En>A commitment or agreement to do something or to act in a certain way.</En>
+          <Example>I made a promise to my friend that I would help her move next weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97cfef7d-6032-47e5-ada6-895f57986797">
+              <Vi>Người nói cam kết sẽ thực hiện điều gì đó trong tương lai.</Vi>
+              <En>The speaker commits to performing something in the future.</En>
+            </Situation>
+            <Situation id="a6504648-18d5-4454-8d5e-8e16862da285">
+              <Vi>Việc giữ hoặc vi phạm lời hứa trong quan hệ cá nhân hoặc công việc.</Vi>
+              <En>Keeping or breaking a promise in personal or professional relationships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c118f351-3648-4a12-a255-7f6746fb9ad4" ipa="/prəˈmɪs/" vi_ipa="pờ-rờ-mít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b58aa67a-4a3f-40f1-8e9e-3587cba5ffef" type="Verb">
+          <Vi>Hứa, hứa hẹn</Vi>
+          <En>To commit oneself to doing something; to give one’s word.</En>
+          <Example>She promised to call me as soon as she arrived.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc08334c-3f50-4c32-84c9-d1dfbde9104a">
+              <Vi>Người nói bảo đảm sẽ làm điều gì đó cho người khác.</Vi>
+              <En>The speaker assures someone else that they will do something.</En>
+            </Situation>
+            <Situation id="c202fc10-2083-4916-92da-9438ef8da133">
+              <Vi>Đưa ra lời hứa trong hợp đồng hoặc thỏa thuận chính thức.</Vi>
+              <En>Making a formal commitment in a contract or agreement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
