@@ -1,0 +1,32 @@
+<Vocab id="d66e337a-868e-43f1-9cf9-dbb81eaafcd0" word="dana" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e4bad3fb-0d25-464d-aed3-7eb9281b3829" ipa="/ˈdɑː.nə/" vi_ipa="đa-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="133ff8ad-f068-4b9f-b4ef-d7993ee7a383" type="Noun">
+          <Vi>Đức độ bố thí; sự rộng lượng, sự rộng rãi (trong việc cho đi của cải, thời gian, hay năng lượng tinh thần)</Vi>
+          <En>Generosity; the virtue of giving, especially in Buddhist practice, referring to charitable giving of material goods, Dharma teachings, or fearlessness</En>
+          <Example>Practicing dana is considered the first of the six paramitas in Mahayana Buddhism.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88899ffa-4e88-44fd-a6be-4ff5e676c49e">
+              <Vi>Người Phật tử thực hành dana bằng cách cúng dường chư Tăng, giúp đỡ người nghèo, hoặc chia sẻ kiến thức pháp.</Vi>
+              <En>A Buddhist practitioner performs dana by offering alms to monks, supporting the poor, or sharing Dharma teachings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
