@@ -1,0 +1,58 @@
+<Vocab id="be08dd48-4ddf-4914-ab11-231d0ae26c78" word="gray" type="short" status="done">
+  <Topics>
+    <Topic id="8e85d723-d553-46f8-82df-97e8bf57f7e0" value="Colors &amp; Appearance" />
+  </Topics>
+  <Professions>
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="4113bb2a-0250-4144-a0f4-e4c092d61dc7" value="Fashion Model" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a256f17-acb5-49e2-aed2-13c8da980110" ipa="/ɡreɪ/" vi_ipa="grê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8e4ddd40-aedf-48b3-ab96-b6698b6b2748" type="Adjective">
+          <Vi>xám</Vi>
+          <En>Of a color between black and white; having a neutral, dull tone.</En>
+          <Example>The sky turned gray before the storm arrived.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c2e329b-8ccd-4c5c-a114-c7f954fbd891">
+              <Vi>Mô tả màu sắc của vật thể, bầu trời, hoặc cảm xúc u ám.</Vi>
+              <En>Describing the color of an object, the sky, or a somber mood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="53ca4ebe-3656-4d98-8371-7ef65671122c" type="Adjective">
+          <Vi>già, có tóc bạc</Vi>
+          <En>Having gray or white hair; showing signs of aging.</En>
+          <Example>She looked elegant despite her gray temples.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60797f21-f6f1-43f6-adf6-5a039da37c44">
+              <Vi>Dùng để nói về người cao tuổi hoặc đang già đi.</Vi>
+              <En>Used to describe an elderly person or someone showing signs of aging.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eb1d83f0-3f12-48ae-bf9c-5c836f685353" type="Adjective">
+          <Vi>không rõ ràng, mập mờ, không chắc chắn</Vi>
+          <En>Ambiguous, uncertain, or not clearly defined; often used in phrases like "gray area".</En>
+          <Example>The legal status of the agreement remains in a gray zone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f33cad49-8b48-4afa-89fb-ccac86515a82">
+              <Vi>Dùng khi nói về tình huống không có quy định rõ ràng hoặc dễ gây tranh cãi.</Vi>
+              <En>Used when referring to situations lacking clear rules or boundaries, often ethically or legally ambiguous.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
