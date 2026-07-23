@@ -1,0 +1,40 @@
+<Vocab id="a4601f16-13fe-4c6b-a7ed-4e03b328421d" word="meditation" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+    <Topic id="019dad79-836e-4ab1-9d65-c5e546a6eb8f" value="Spirituality" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="ab7211e2-377f-4d4e-a1a4-31edabd33eae" value="Yoga Instructor" />
+    <Profession id="5b3c05c9-54fb-489d-b508-9babb495710c" value="Mindfulness Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d33f505-f32c-44ec-a922-b2c9add81621" ipa="/ˌmed.ɪˈteɪ.ʃən/" vi_ipa="mè-đi-tê-i-šơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="57cd2d5e-f6ea-43cf-8f03-143ffb47e346" type="Noun">
+          <Vi>Thiền định; sự suy ngẫm sâu sắc</Vi>
+          <En>A practice of focusing the mind, often to achieve mental clarity, emotional calm, or spiritual insight; also refers to the act of deep contemplation.</En>
+          <Example>She practices meditation every morning for 20 minutes to reduce stress.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f0eea9e9-6b19-4519-91ca-eae89c05d3ad">
+              <Vi>Một người ngồi yên, tập trung vào hơi thở hoặc một đối tượng thiền để thư giãn và tăng sự tập trung.</Vi>
+              <En>A person sits quietly, focusing on their breath or a mantra to relax and improve concentration.</En>
+            </Situation>
+            <Situation id="6e7ffc25-6700-4bc6-a786-2c15d6b155d1">
+              <Vi>Sự suy ngẫm sâu về một vấn đề đạo đức hoặc triết học trong văn học hoặc triết học.</Vi>
+              <En>Deep contemplation of a moral or philosophical issue, especially in literature or philosophy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
