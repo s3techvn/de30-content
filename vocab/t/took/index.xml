@@ -1,0 +1,36 @@
+<Vocab id="4a2f1e94-2abd-4196-8aab-21e53fffcce0" word="took" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="92dd0f55-6b4a-464f-93ee-866eee515d01" ipa="/tʊk/" vi_ipa="túc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a63ac707-d426-4a23-a520-bd96e5331a7b" type="Verb">
+          <Vi>lấy, mang theo, nhận, nhận lấy</Vi>
+          <En>past tense of take; to carry, hold, or possess something; to accept or receive something</En>
+          <Example>She took the book from the shelf and started reading.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1efb5b47-4cc4-458e-ad36-451b4bc0343f">
+              <Vi>Mô tả hành động nhận hoặc mang một vật từ nơi này sang nơi khác.</Vi>
+              <En>Describes the action of receiving or carrying an object from one place to another.</En>
+            </Situation>
+            <Situation id="8c5e66f9-956d-4648-8d98-c3ccfeecdab1">
+              <Vi>Mô tả việc chấp nhận một lời đề nghị, lời mời, hoặc trách nhiệm.</Vi>
+              <En>Describes accepting an offer, invitation, or responsibility.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
