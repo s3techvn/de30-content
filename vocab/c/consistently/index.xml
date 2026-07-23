@@ -1,0 +1,40 @@
+<Vocab id="18d86639-13f5-4e96-a6c0-622f26b75766" word="consistently" type="short" status="done">
+  <Topics>
+    <Topic id="4def9226-bd9c-4b2b-9364-0d0ce31685f5" value="Work &amp; Productivity" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f0ba0ca7-df17-42ae-b49b-020cf613c518" ipa="/kənˈsɪs.tən.tli/" vi_ipa="kən-sít-tờ-nít-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="77562ec6-db13-4ce7-9af5-d1ecd2a4c150" type="Adverb">
+          <Vi>một cách nhất quán; một cách liên tục và không thay đổi</Vi>
+          <En>in a way that is constant, regular, and without variation</En>
+          <Example>She consistently arrives at work before 8 a.m., even on Mondays.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f76051ee-b06f-4cb0-bccf-d0a8f626a33e">
+              <Vi>Mô tả hành vi hoặc kết quả diễn ra đều đặn qua thời gian, không bị gián đoạn hay thay đổi.</Vi>
+              <En>Describes behavior or outcomes that occur regularly and predictably over time, without deviation.</En>
+            </Situation>
+            <Situation id="3886f81e-c43e-442d-beb5-ae6ef35b190f">
+              <Vi>Dùng để đánh giá cao sự ổn định trong hiệu suất, thái độ, hoặc chất lượng.</Vi>
+              <En>Used to praise stability in performance, attitude, or quality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

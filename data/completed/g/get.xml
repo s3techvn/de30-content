@@ -1,0 +1,82 @@
+<Vocab id="3060db83-37f4-47fe-ac3b-e34e734041e3" word="get" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9c99a82e-0350-4a64-8213-8cf9520bbf87" ipa="/ɡɛt/" vi_ipa="gét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="834ada92-9ae9-42ab-8d28-5f2d4a115186" type="Verb">
+          <Vi>nhận, lấy, có được</Vi>
+          <En>to obtain, receive, or acquire something</En>
+          <Example>I need to get my passport before the trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="810b1787-adc8-44d2-964b-ad77ec0ecd70">
+              <Vi>Mua sắm, nhận quà, hoặc tiếp nhận thông tin</Vi>
+              <En>Buying items, receiving gifts, or acquiring information</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="327bf25f-3818-4019-b4f6-7f286cb58350" type="Verb">
+          <Vi>đi lấy, đi tìm (ai/cái gì)</Vi>
+          <En>to go and bring or fetch someone or something</En>
+          <Example>Can you get the mail from the mailbox?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c9b55cb-cda9-40c8-9b03-88c80d48f5d6">
+              <Vi>Đi ra ngoài để mang về một vật hoặc đón ai đó</Vi>
+              <En>Going out to bring back an item or pick someone up</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fd14d2f8-7167-47ea-8ec8-58471bc1d9e7" type="Verb">
+          <Vi>hiểu, nắm được (ý nghĩa, vấn đề)</Vi>
+          <En>to understand or grasp something</En>
+          <Example>I don’t get the joke—can you explain it?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="83b75b37-4ec2-4b2c-ada3-590afe723de8">
+              <Vi>Khi đang học hoặc thảo luận và cần diễn đạt sự hiểu biết</Vi>
+              <En>When learning or discussing and expressing comprehension</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9abf38b0-f6ed-4b9c-b733-0bd4d996c172" type="Verb">
+          <Vi>đến, tới (nơi nào đó)</Vi>
+          <En>to arrive at a place</En>
+          <Example>We got to the airport just in time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6d163a7-c93a-4a38-8685-ec021da3f093">
+              <Vi>Khi báo hiệu việc đi đến một địa điểm</Vi>
+              <En>When indicating arrival at a destination</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7b30ab0d-90df-40f7-b99b-6f8d5d8e06dd" type="Verb">
+          <Vi>gây ra, khiến (ai làm gì)</Vi>
+          <En>to cause someone to do something</En>
+          <Example>She got him to apologize for his mistake.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d903c6d-9901-432d-8d7c-36c20b06ebc9">
+              <Vi>Khi thuyết phục hoặc khiến người khác làm điều gì đó</Vi>
+              <En>When persuading or causing someone to do something</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
