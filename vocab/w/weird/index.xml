@@ -1,0 +1,38 @@
+<Vocab id="42d54727-e5b6-4b6a-b968-0c8d6302399c" word="weird" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="02285491-aa54-4d64-a078-cda0dc843263" value="Describing People" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1829a8a3-46ca-4662-97ff-f4f03e37a0b6" ipa="/wɪrd/" vi_ipa="uýt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf0f40bf-6274-4391-b640-96f3b160dd10" type="Adjective">
+          <Vi>lạ lùng, kỳ quặc, kỳ dị</Vi>
+          <En>strange or unusual, especially in a way that is unsettling or mysterious</En>
+          <Example>She wore a weird hat that looked like a giant mushroom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94868fe0-e151-4a0a-bf2d-1cced08592e6">
+              <Vi>Mô tả một người, vật, hoặc sự việc có vẻ ngoài hoặc hành vi khác thường, khiến người ta cảm thấy bối rối hoặc hơi sợ hãi.</Vi>
+              <En>Describing a person, object, or event that appears or behaves in an unusual way, causing confusion or mild unease.</En>
+            </Situation>
+            <Situation id="72b5622c-5992-4537-8709-1ef738f18e44">
+              <Vi>Dùng trong văn học hoặc phim ảnh để chỉ yếu tố siêu nhiên hoặc phi lý.</Vi>
+              <En>Used in literature or film to describe supernatural or surreal elements.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
