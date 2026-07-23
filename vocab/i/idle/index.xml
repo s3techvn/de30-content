@@ -1,0 +1,50 @@
+<Vocab id="01e7e278-aa24-4d19-a359-e7da3de7f596" word="idle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="4def9226-bd9c-4b2b-9364-0d0ce31685f5" value="Work &amp; Productivity" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64a56be3-2baf-4b04-b76e-a847b104fe27" ipa="/ˈaɪ.dəl/" vi_ipa="ái-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a43ca10-e382-447c-8a47-261567b19d5e" type="Adjective">
+          <Vi>không làm gì; nhàn rỗi; vô ích</Vi>
+          <En>Not working or used; idle time or effort is wasted because nothing is being done.</En>
+          <Example>The factory was idle for weeks due to a lack of raw materials.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc8e5976-e030-4d5f-8df1-a37ebd4a7581">
+              <Vi>Mô tả một người hoặc thiết bị đang không hoạt động, không làm việc.</Vi>
+              <En>Describing a person or machine that is not operating or working.</En>
+            </Situation>
+            <Situation id="959e4a2d-88e0-493e-87a6-0a4bb6d89787">
+              <Vi>Mô tả thời gian hoặc nỗ lực bị lãng phí vì không có việc gì xảy ra.</Vi>
+              <En>Describing wasted time or effort due to inactivity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="113d7d32-e975-41d6-bba2-ff5a15504bdf" type="Verb">
+          <Vi>lười nhác; không làm việc; rảnh rỗi</Vi>
+          <En>To spend time doing nothing, especially when one should be working.</En>
+          <Example>He idled away the afternoon watching TV.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3444eae8-9fcc-479d-a177-e41efead3231">
+              <Vi>Mô tả hành vi tiêu tốn thời gian một cách vô ích, thường là do lười biếng.</Vi>
+              <En>Describing the act of wasting time, often due to laziness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
