@@ -1,0 +1,72 @@
+<Vocab id="08a9f69a-0905-4edd-bc7e-fc96f8029cc4" word="pound" type="short" status="done">
+  <Topics>
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+    <Topic id="f6f95944-0668-40c6-bce7-e59a836a8915" value="Currency" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5d44327e-68d3-4ca5-8f71-a6b0d1621f56" ipa="/paʊnd/" vi_ipa="pà-un">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b043116b-4357-470f-a670-13e8e44f1dfa" type="Noun">
+          <Vi> pound (đơn vị đo khối lượng bằng 16 ounce, tương đương khoảng 0.4536 kg)</Vi>
+          <En> A unit of weight equal to 16 ounces or approximately 0.4536 kilograms, used primarily in the United States and the United Kingdom.</En>
+          <Example>She bought two pounds of apples at the market.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8769cd70-09f5-4af2-ae9e-4990964910a3">
+              <Vi>Trong siêu thị hoặc chợ, người bán cân đo hàng hóa theo pound.</Vi>
+              <En>Used when weighing groceries or produce in markets that use the imperial system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ebe07b67-aa7b-483c-a5eb-bc98eddd21c0" type="Noun">
+          <Vi> pound (đơn vị tiền tệ của Anh, ký hiệu £)</Vi>
+          <En> The basic unit of currency in the United Kingdom, symbolized by £ and divided into 100 pence.</En>
+          <Example>The book cost fifteen pounds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96c2fa32-afe1-48f9-8ce3-10fec63ea8b1">
+              <Vi>Khi mua sắm hoặc thanh toán ở Anh, giá cả thường được niêm yết bằng pound.</Vi>
+              <En>Used in financial transactions and pricing in the UK.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b26ab09d-22f5-46ff-8701-f08d7f73d90a" type="Verb">
+          <Vi> đập mạnh, đập liên tục; nghiền nát bằng cách đập</Vi>
+          <En> To hit or beat something repeatedly and forcefully, often with a fist or heavy object.</En>
+          <Example>He pounded the dough until it became smooth and elastic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="012bccf2-eba8-45ed-a618-6fe8c69ee808">
+              <Vi>Trong nấu ăn, dùng chày giã hoặc tay đập mạnh để nghiền thực phẩm.</Vi>
+              <En>Used in cooking or food preparation to crush ingredients like garlic or herbs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="49e23fd2-af5a-4223-9ff6-3fc37ecb9bf2" type="Verb">
+          <Vi> đánh mạnh (vào mục tiêu); đập mạnh (vào cửa)</Vi>
+          <En> To strike a surface or target with force, especially repeatedly.</En>
+          <Example>The rain pounded against the windows during the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2544701a-8a54-4c54-9c69-cd42e269b341">
+              <Vi>Mưa lớn hoặc gió mạnh đánh vào cửa sổ hoặc mái nhà.</Vi>
+              <En>Describes heavy rain or hail striking a surface forcefully.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

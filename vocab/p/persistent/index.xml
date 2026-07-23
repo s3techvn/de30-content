@@ -1,0 +1,52 @@
+<Vocab id="f4747654-3eca-4747-92ae-6af8f961a00e" word="persistent" type="short" status="done">
+  <Topics>
+    <Topic id="abd33912-9d25-4b8e-a55f-29f5e1dddc11" value="Personal Traits" />
+    <Topic id="4def9226-bd9c-4b2b-9364-0d0ce31685f5" value="Work &amp; Productivity" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7f5e45b-eb45-4a75-8c82-4ecc01c3253d" ipa="/pəˈsɪs.tənt/" vi_ipa="pơ-sít-tờ-nhít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af0b468c-7835-450e-a474-4f8f89a28f9f" type="Adjective">
+          <Vi>kiên trì; dai dẳng; không dễ bỏ cuộc</Vi>
+          <En>continuing firmly or obstinately despite difficulty or opposition; not easily discouraged or stopped</En>
+          <Example>She was persistent in her efforts to learn the language, practicing every day for over a year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d92d583e-0dac-4256-87fb-c83cc2b19006">
+              <Vi>Mô tả một người không bỏ cuộc dù gặp nhiều trở ngại.</Vi>
+              <En>Describes a person who does not give up despite repeated obstacles or setbacks.</En>
+            </Situation>
+            <Situation id="50fedf03-b694-46a1-a431-fcede7f208a4">
+              <Vi>Chương trình tự động thử kết nối lại nhiều lần khi mạng yếu.</Vi>
+              <En>An automated system repeatedly attempts to reconnect when the network is unstable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b5ca72ee-c849-4070-8c8e-8f2d7c287698" type="Adjective">
+          <Vi>(y học) kéo dài lâu; không tự hết (bệnh)</Vi>
+          <En>(of a disease or symptom) continuing for a long time or recurring over time</En>
+          <Example>The patient suffered from a persistent cough that lasted for weeks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7bf95638-5cfc-47e8-90e9-46d12be1cd1c">
+              <Vi>Bác sĩ ghi nhận triệu chứng bệnh kéo dài qua nhiều tuần.</Vi>
+              <En>The doctor notes symptoms that persist over several weeks despite treatment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
