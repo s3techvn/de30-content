@@ -1,0 +1,36 @@
+<Vocab id="c348c7ff-2a1a-48ab-84de-02b33065a948" word="these" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5ca6e53-6f77-44a2-bc2b-30b77b556bc0" ipa="/ðiːz/" vi_ipa="đi-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a96ae6a5-bb93-421a-bbd1-3ff3e1d563e8" type="Determiner">
+          <Vi>Những này (dùng để chỉ người/vật ở gần người nói, số nhiều)</Vi>
+          <En>Used to refer to two or more people or things that are close to the speaker.</En>
+          <Example>These shoes are too tight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d07b90ee-9e9e-44f8-895a-de00aa7d8c04">
+              <Vi>Chỉ các vật đang ở trong tay hoặc ngay trước mặt người nói.</Vi>
+              <En>Referring to objects physically near the speaker, such as items on a table or in hand.</En>
+            </Situation>
+            <Situation id="35c09783-1906-48c0-a048-b967114799d4">
+              <Vi>Dùng trong so sánh hoặc phân biệt với các vật ở xa (those).</Vi>
+              <En>Used to contrast with "those," which refer to items farther away.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
