@@ -1,0 +1,61 @@
+<Vocab id="251c5b3e-f32d-4955-8f21-f2a1d83d5f97" word="mount" type="short" status="done">
+  <Topics>
+    <Topic id="b0a6c86b-eda7-46a8-a2e9-b5f6b7a50a04" value="Travel &amp; Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e4282717-a360-470c-912c-c442956e683a" value="Cyclist" />
+    <Profession id="a015f0c7-3829-4651-9e64-c318f2018563" value="Equestrian" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2351ab90-1f36-405d-9b10-198d32b1844c" ipa="/maʊnt/" vi_ipa="ma-oun-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c11d762d-c629-4da8-92d7-f14ed0a7e897" type="Verb">
+          <Vi>leo lên, cưỡi (xe đạp, ngựa)</Vi>
+          <En>to get on or onto a vehicle, animal, or piece of equipment, especially for the purpose of riding or operating it</En>
+          <Example>She mounted her bicycle and pedaled down the hill.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9671032-ba4b-4c9e-bf1f-0434fea6b693">
+              <Vi>Người dùng xe đạp hoặc ngựa chuẩn bị khởi hành.</Vi>
+              <En>A cyclist or equestrian prepares to start riding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="494a54e7-ea70-435d-b438-a37d5ad59ca4" type="Verb">
+          <Vi>đặt, gắn, lắp (máy ảnh, đài phát thanh, thiết bị…)</Vi>
+          <En>to fix or attach something firmly in position, especially for display or operation</En>
+          <Example>The photographer mounted the camera on a tripod.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="243548be-f518-4012-b40a-3dfe8d6f57c2">
+              <Vi>Kỹ thuật viên lắp đặt thiết bị quan sát hoặc truyền hình.</Vi>
+              <En>A technician installs or secures equipment such as a camera or antenna.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6281cae3-5bd6-4ebc-91ba-9ab0920271c3" type="Verb">
+          <Vi>đưa lên, nâng cao (vị trí, cấp bậc)</Vi>
+          <En>to raise someone to a higher position, rank, or status</En>
+          <Example>He was mounted to the position of director after five years of service.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f677ebc1-6c67-490f-8e51-43eec9fbe94a">
+              <Vi>Công ty công bố thăng chức cho nhân viên.</Vi>
+              <En>A company announces a promotion for an employee.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
