@@ -1,0 +1,36 @@
+<Vocab id="5851d254-4f87-437f-abe8-bf58bdf2f24e" word="interested" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fefbf081-843b-4d69-8bc1-79276690fe05" ipa="/ˈɪn.trɪs.tɪd/" vi_ipa="in-trờ-stít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b3a07e7c-da6b-4b0d-a781-102efc5213ed" type="Adjective">
+          <Vi>quan tâm, có hứng thú</Vi>
+          <En>having an interest or curiosity in something; showing attention or concern.</En>
+          <Example>I'm very interested in learning Vietnamese culture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a1db1b0-24e4-4b07-bf38-9079b34a16ea">
+              <Vi>Một người thể hiện sự tò mò hoặc mong muốn tìm hiểu thêm về một chủ đề.</Vi>
+              <En>A person expresses curiosity or desire to learn more about a topic.</En>
+            </Situation>
+            <Situation id="3719fab2-83c2-4d91-8577-518f926f0922">
+              <Vi>Trong phỏng vấn, ứng viên thể hiện sự quan tâm đến vị trí công việc.</Vi>
+              <En>During the interview, the candidate shows interest in the job position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

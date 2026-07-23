@@ -1,0 +1,36 @@
+<Vocab id="f00c7b99-f799-49e2-aed8-6dc89687ffc8" word="soldier" type="short" status="done">
+  <Topics>
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8d7898a-30c1-4536-9874-f70f5449dd33" ipa="/ˈsəʊldʒər/" vi_ipa="sờ-lốp-gia">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fac965ae-2abe-4583-ada7-a04c5442c190" type="Noun">
+          <Vi>chiến sĩ, binh sĩ</Vi>
+          <En>A member of an army, especially one who fights on foot.</En>
+          <Example>The soldier marched in formation with his unit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4c8506d-1227-462e-b19f-ab44249b786f">
+              <Vi>Mô tả một người phục vụ trong quân đội, thường tham gia chiến đấu hoặc bảo vệ đất nước.</Vi>
+              <En>Describes a person serving in the military, often involved in combat or national defense.</En>
+            </Situation>
+            <Situation id="c4d4629c-47a4-4fa6-8ff9-4686468ebfdf">
+              <Vi>Người được huấn luyện để tuân thủ kỷ luật nghiêm ngặt và thực hiện nhiệm vụ quân sự.</Vi>
+              <En>A person trained to follow strict discipline and carry out military duties.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
