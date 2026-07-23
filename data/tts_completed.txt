@@ -855,3 +855,4 @@ desk
 persistent
 pound
 acre
+spreading
