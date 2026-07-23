@@ -549,4 +549,5 @@
   <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" slug="medical-researcher" value="Medical Researcher" />
   <Profession id="c7b130a2-e9e1-43ff-aed3-b83a5cc55c7b" slug="security-guard" value="Security Guard" />
   <Profession id="46ba193b-192f-4788-adc1-80ad6f2e3068" slug="security-specialist" value="Security Specialist" />
+  <Profession id="260baef6-9cd8-4ba9-a4a4-b67152f222f5" slug="explorer" value="Explorer" />
 </Professions>
