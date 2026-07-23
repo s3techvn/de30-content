@@ -1,0 +1,38 @@
+<Vocab id="fa9995ef-1615-4e22-b9c6-d7063189e036" word="enlargement" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="151e0cbd-27cb-4f19-b648-a3108a965a85" value="Radiologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="90dae03b-5c3a-4875-98bc-9995b4dbdaac" ipa="/ɪnˈlɑːrdʒ.mənt/" vi_ipa="in-lác-gơ-mơnt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad7836a6-0d1b-4c96-87f5-33d699f03867" type="Noun">
+          <Vi>Sự to ra, sự mở rộng; kích thước lớn hơn</Vi>
+          <En>The action or process of making or becoming larger; an increase in size, extent, or volume</En>
+          <Example>The enlargement of the tumor was visible on the follow-up scan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6e1acc1-b44e-46fc-85a4-881961c92ae4">
+              <Vi>Trong chẩn đoán hình ảnh, chỉ sự gia tăng kích thước của một khối u hoặc cơ quan.</Vi>
+              <En>In medical imaging, refers to an increase in the size of a tumor or organ.</En>
+            </Situation>
+            <Situation id="8710e66b-5546-4d39-925a-7ac51ac81c51">
+              <Vi>Trong kỹ thuật, chỉ quá trình mở rộng quy mô hoặc kích thước của một thiết bị hoặc không gian.</Vi>
+              <En>In engineering, refers to the process of expanding the scale or size of a device or space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
