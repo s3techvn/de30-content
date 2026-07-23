@@ -1,0 +1,98 @@
+<Vocab id="88fd1507-b291-44fb-b0d6-cc11042562f1" word="bubble" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="327bdf50-8ab9-4364-abe3-7353e5185f6a" ipa="/ˈbʌb.əl/" vi_ipa="báp-bờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1823bd80-d4f4-4d23-8996-c0891f16947e" type="Noun">
+          <Vi>Bong bóng (khí bao quanh bởi chất lỏng)</Vi>
+          <En>A sphere of gas or vapor enclosed in liquid or solid, especially one formed by boiling or effervescence.</En>
+          <Example>She watched the bubbles rise to the surface of the boiling water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3d1ee93a-02c0-4461-8956-14243fcacd11">
+              <Vi>Mô tả hiện tượng khí tạo thành bong bóng trong chất lỏng khi đun sôi hoặc sủi bọt.</Vi>
+              <En>Describing gas forming bubbles in a liquid during boiling or effervescence.</En>
+            </Situation>
+            <Situation id="97361c76-533b-4399-8ea9-65a2d4c356b8">
+              <Vi>Mô tả bong bóng xà phòng hoặc bong bóng không khí trong nước.</Vi>
+              <En>Describing soap bubbles or air bubbles in water.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2c49cf24-fdd3-4e14-b5d4-799669e96f65" type="Noun">
+          <Vi>Bong bóng (trong tài chính/kinh tế)</Vi>
+          <En>A rapid increase and subsequent collapse in the price of an asset, driven by speculation and exuberance.</En>
+          <Example>The housing bubble burst in 2008, triggering a global financial crisis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e171ceac-2bdc-41f7-8797-4baf289a9917">
+              <Vi>Sử dụng khi nói về sự bùng nổ và vỡ bong bóng giá tài sản trong kinh tế.</Vi>
+              <En>Used when discussing asset price booms and crashes in economics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="64060317-5cba-47b1-828e-fdef0957a15a" type="Noun">
+          <Vi>Bong bóng (ẩn dụ: thế giới tách biệt, ảo tưởng)</Vi>
+          <En>A state of isolation or separation from reality, often characterized by unrealistic optimism or detachment.</En>
+          <Example>He lives in a bubble of privilege and doesn’t understand everyday struggles.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de546813-e3f4-4178-aa89-0c533abbf8da">
+              <Vi>Mô tả một người sống trong thế giới ảo tưởng, tách biệt khỏi thực tế.</Vi>
+              <En>Describing someone living in an unrealistic, isolated world detached from reality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="e94974fb-dc19-4007-b331-9df09933f0f9" ipa="/ˈbʌb.əl/" vi_ipa="báp-bờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4cfbabb2-6cfe-4271-b4fa-43104ef0dc24" type="Verb">
+          <Vi>Phồng lên, tạo bong bóng</Vi>
+          <En>To form or cause to form small spherical pockets of gas in a liquid or other substance.</En>
+          <Example>The soda began to bubble as soon as the bottle was opened.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cdec04f8-d040-4640-808f-4761453c0a0b">
+              <Vi>Mô tả chất lỏng sủi bọt do khí thoát ra.</Vi>
+              <En>Describing a liquid foaming or fizzing due to gas escaping.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5a023ec5-7b8a-42fa-84e3-c302d8f98cf9" type="Verb">
+          <Vi>Bộc phát, tràn ra (cảm xúc)</Vi>
+          <En>To express strong emotion suddenly and intensely.</En>
+          <Example>Her excitement bubbled over when she heard the good news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1749d94-09e2-4f80-9d47-7bf84e8c1bc5">
+              <Vi>Mô tả cảm xúc mãnh liệt tràn ra (vui, tức giận, v.v.).</Vi>
+              <En>Describing intense emotions suddenly erupting (joy, anger, etc.).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

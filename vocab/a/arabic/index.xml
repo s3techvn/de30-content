@@ -1,0 +1,34 @@
+<Vocab id="4fc92690-80e4-4424-8b99-14670a0912cb" word="arabic" type="short" status="done">
+  <Topics>
+    <Topic id="1666b9ee-c14e-4ce8-bcdb-20747ac3e51b" value="Language &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71ada2a0-416a-442f-a92e-d73267b5ad83" ipa="/ˈær.ə.bɪk/" vi_ipa="a-ráp-bíc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c74dfaed-8ac9-45df-93a9-052b21e6f88d" type="Adjective">
+          <Vi>thuộc về Ả Rập, thuộc về ngôn ngữ Ả Rập</Vi>
+          <En>relating to the Arabic language, people, or culture</En>
+          <Example>She is studying Arabic literature and history.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4dc121cb-515c-4bda-b8b4-5255a475c170">
+              <Vi>Mô tả điều gì đó liên quan đến dân tộc, ngôn ngữ, văn hóa Ả Rập.</Vi>
+              <En>Describing something related to the Arab ethnicity, language, or culture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
