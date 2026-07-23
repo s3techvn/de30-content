@@ -1,0 +1,58 @@
+<Vocab id="485440eb-54e6-4e37-8a7d-510c0e2ff111" word="same" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="9a23716e-b83b-4876-846a-4e36e9aa82f4" value="Comparison" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ef4864e0-3070-4986-8be4-84a7f0c2be18" ipa="/seɪm/" vi_ipa="xê-mờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2045545-1067-43b7-9ef8-2c9dfd396cd3" type="Adjective">
+          <Vi>giống nhau, như nhau</Vi>
+          <En>identical or equal in kind, quality, or quantity; not different</En>
+          <Example>They wore the same shirt to the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8299982d-b33e-4187-8339-e67edf57d9f5">
+              <Vi>Mô tả hai hoặc nhiều vật/trường hợp có đặc điểm giống hệt nhau.</Vi>
+              <En>Describing two or more things or situations that share identical characteristics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="66959a70-773f-4981-82b0-90d54dfc33cf" type="Adverb">
+          <Vi>cùng một lúc, ngay tại đó</Vi>
+          <En>at the same time or place; in the same way or manner</En>
+          <Example>I’ll meet you at the same spot tomorrow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b745cf5f-f53c-4ec2-a9f0-6433af246965">
+              <Vi>Dùng để nhấn mạnh thời gian hoặc địa điểm trùng lặp.</Vi>
+              <En>Used to emphasize that time or location is identical to a previously mentioned one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0e19818a-e39b-4230-be23-8ebdb2d9c1f3" type="Noun">
+          <Vi>điều giống nhau, phần giống nhau</Vi>
+          <En>the identical thing or aspect; that which is the same</En>
+          <Example>Of course, there are many differences, but the same is true for all cultures.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="123e35a6-f688-4d34-9493-20a580b17bb1">
+              <Vi>Dùng trong so sánh để chỉ yếu tố chung giữa các đối tượng.</Vi>
+              <En>Used in comparisons to refer to a shared element among different items or groups.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
