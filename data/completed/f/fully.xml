@@ -1,0 +1,36 @@
+<Vocab id="6131c3fe-96d5-42c6-8780-436b213fb8b7" word="fully" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d1772ed0-c993-4ab7-b6e0-15dc38a68f6c" ipa="/ˈfʊl.i/" vi_ipa="phú-lơ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="704a7151-286b-43c6-8a85-9604d4b09910" type="Adverb">
+          <Vi>hoàn toàn, đầy đủ, trọn vẹn</Vi>
+          <En>Completely; to the fullest extent; entirely.</En>
+          <Example>She was fully prepared for the interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="25f2146d-6079-4377-8ff0-1fb0ac304bb7">
+              <Vi>Mô tả mức độ hoàn tất hoặc đầy đủ tuyệt đối của một trạng thái hoặc hành động.</Vi>
+              <En>Used to emphasize that something is completely or entirely the case.</En>
+            </Situation>
+            <Situation id="c1e0d9e0-c78d-46a3-9186-93a3708ee3d0">
+              <Vi>Trong văn phong trang trọng, nhấn mạnh sự đầy đủ về số lượng hoặc mức độ.</Vi>
+              <En>In formal contexts, to emphasize fullness in quantity or degree.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
