@@ -1,0 +1,91 @@
+<Vocab id="528032c7-0498-4e79-b826-8bc0d7f5ba03" word="twist" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="497e4baa-0a4b-4345-887a-e68d4f624bb2" ipa="/twɪst/" vi_ipa="tuýt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bb460a84-9e2b-40f8-a4cb-6e3fe829c938" type="Verb">
+          <Vi>xoắn, vặn, uốn cong</Vi>
+          <En>to turn or coil something around itself or another object, typically so as to change its shape or position</En>
+          <Example>She twisted the wire into a tight spiral.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="607fd295-d4ab-4790-9c42-cea87fdb3b1d">
+              <Vi>Xoắn một sợi dây điện để nối hai đầu.</Vi>
+              <En>Twisting a wire to connect two ends.</En>
+            </Situation>
+            <Situation id="09b77aac-be80-48c9-b806-7628088ce065">
+              <Vi>Uốn một sợi tóc thành lọn xoăn.</Vi>
+              <En>Twisting a strand of hair to create a curl.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d678af72-e6eb-47b7-b7f9-2edb60004ee3" type="Noun">
+          <Vi>sự xoắn, sự vặn; lọn xoăn; yếu tố bất ngờ (trong truyện)</Vi>
+          <En>a turning or coiling of something; a curl or wave in hair; a surprising or unexpected turn in a story or event</En>
+          <Example>The film had a surprising twist at the end.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e20bb960-eb5c-41a5-996a-71dcd6f98dd4">
+              <Vi>Trong một vở kịch, nhân vật chính phát hiện ra một bí mật gây chấn động – đó là một "twist" bất ngờ.</Vi>
+              <En>In a play, the main character discovers a shocking secret – that’s a surprising twist.</En>
+            </Situation>
+            <Situation id="76274222-014f-420b-97c0-72adb96f3c80">
+              <Vi>Người mẫu có mái tóc với những lọn xoăn rõ rệt (twists).</Vi>
+              <En>The model has hair with distinct twists (curls).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5b62e374-ecfb-4843-8699-a8a6293db6b3" ipa="/twaɪst/" vi_ipa="twaýt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6de72455-2b7e-40bd-a452-be2df716ba80" type="Verb">
+          <Vi>biến dạng, làm méo mó (văn phong, sự thật, ý nghĩa)</Vi>
+          <En>to give a misleading or distorted interpretation to something, especially facts or words</En>
+          <Example>He twisted the facts to fit his narrative.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="592a1b39-dbd9-4a20-bdf0-57e22d2cb435">
+              <Vi>Luật sư cố tình diễn giải sai lời khai để có lợi cho khách hàng.</Vi>
+              <En>The lawyer deliberately twisted the testimony to benefit his client.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b18131ae-a769-4ac3-b10f-7e9353229b26" type="Noun">
+          <Vi>sự bóp méo, sự xuyên tạc</Vi>
+          <En>a deliberate misrepresentation or distortion, especially of facts or truth</En>
+          <Example>There was a twist in the official report that raised suspicions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37928687-fdf0-4901-9dc1-04a40c731c6f">
+              <Vi>Bản tin đưa ra một phiên bản bị "twist" để gây hoang mang dư luận.</Vi>
+              <En>The news report presented a twisted version to confuse the public.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

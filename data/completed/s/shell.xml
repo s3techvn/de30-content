@@ -1,0 +1,82 @@
+<Vocab id="1f5496c3-dbd3-444b-ab90-0ab7adcc4610" word="shell" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1f1e14b3-fb22-4c2e-a6f7-07c77a011cde" ipa="/ʃɛl/" vi_ipa="sờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="beed759e-f1f9-4c34-8ca1-8db314a45f62" type="Noun">
+          <Vi>Vỏ (động vật có vỏ, như sò, ốc, tôm, cua); vỏ ngoài, lớp bao bọc</Vi>
+          <En>The hard outer layer, skin, or rind of a fruit, seed, or nut; also, the hard outer covering of certain animals (e.g., snails, clams, crabs).</En>
+          <Example>She collected seashells along the beach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="710f6a4f-0249-4a0a-9957-528703d3096e">
+              <Vi>Mô tả vỏ sò, ốc, hoặc mai rùa thu thập từ bãi biển.</Vi>
+              <En>Describing the collection of snail shells, clams, or turtle shells from a beach.</En>
+            </Situation>
+            <Situation id="7ffecacb-d835-43c2-85ab-490dff656d6d">
+              <Vi>Trong ẩm thực: bóc vỏ tôm hoặc cua trước khi chế biến.</Vi>
+              <En>In cooking: peeling shrimp or crab before preparation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9bef825-8384-4cc6-b58e-907d0230c1f9" type="Noun">
+          <Vi>Viên đạn, quả đạn (đạn pháo, đạn cối…)</Vi>
+          <En>A container filled with explosives, bullets, or other material, fired from a gun or cannon.</En>
+          <Example>The artillery fired a shell into enemy territory.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="315a03bb-94c4-484f-a0a3-392b54a47aef">
+              <Vi>Mô tả hoạt động quân sự: bắn pháo binh.</Vi>
+              <En>Military context: firing artillery shells during combat.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4fc0f31a-51be-48b8-9ace-2a6f839c2cc7" type="Noun">
+          <Vi>Shell (trong lập trình/máy tính): chương trình giao diện điều khiển dòng lệnh</Vi>
+          <En>A command-line interface or program that provides a user interface for accessing operating system services (e.g., bash, PowerShell).</En>
+          <Example>He wrote a script to run automatically in the shell upon login.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a494e86-c599-4d49-a6ba-9e1b34f22d3f">
+              <Vi>Lập trình viên sử dụng terminal để chạy lệnh trong shell.</Vi>
+              <En>A developer uses the terminal to execute commands in the shell environment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e369be32-37ca-4aab-ab31-ba70cdd1a68c" type="Verb">
+          <Vi>Bóc vỏ, lột vỏ (thức ăn); làm rụng vỏ (đạn, mảnh vỡ…)</Vi>
+          <En>To remove the shell, skin, or outer layer from something; also, to destroy or damage something so that its outer layer is removed or exposed.</En>
+          <Example>She shelled the peas before adding them to the soup.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b88325fc-59a9-4be9-8135-8af357529986">
+              <Vi>Bóc vỏ lạc, đậu, hạt dẻ trong bếp.</Vi>
+              <En>Removing shells from peanuts, peas, or chestnuts in the kitchen.</En>
+            </Situation>
+            <Situation id="60bfc4c7-655c-4f03-a8b3-f15868a6f0ca">
+              <Vi>Máy bay ném bom làm rụng vỏ nhà (tức phá hủy lớp bảo vệ bên ngoài).</Vi>
+              <En>A bomber aircraft strips the outer layer (e.g., roof) from a building.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
