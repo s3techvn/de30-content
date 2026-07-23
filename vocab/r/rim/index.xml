@@ -1,0 +1,64 @@
+<Vocab id="d3ddda64-653c-4cb3-be54-7670d8bd4236" word="rim" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+    <Topic id="acf85b01-ff71-49bb-89cb-772e645b788b" value="Everyday Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="528d8fba-e4bb-4c2e-bffd-58e85f7f4942" value="Automotive Mechanic" />
+    <Profession id="e4282717-a360-470c-912c-c442956e683a" value="Cyclist" />
+    <Profession id="41d3acbe-40b4-4196-b5c2-f1cdb824f883" value="Wheelwright" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ab40b9c1-e9aa-4634-816f-3f0e80137048" ipa="/rɪm/" vi_ipa="rhim">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9546a400-58a9-4841-a86a-6852c110817a" type="Noun">
+          <Vi>Vành (bánh xe)</Vi>
+          <En>The outer edge of a wheel, typically where the tire is mounted.</En>
+          <Example>The rim of the bicycle wheel was bent after the crash.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9aae5d52-4092-49fc-beaf-9eeccb14a3c6">
+              <Vi>Mô tả bộ phận kim loại hoặc hợp kim bên ngoài của bánh xe ô tô, xe đạp.</Vi>
+              <En>Describing the metal or alloy outer part of a car or bicycle wheel.</En>
+            </Situation>
+            <Situation id="40994540-547e-4fee-8a97-d049a1d8715b">
+              <Vi>Thường được dùng khi nói về thay hoặc sửa chữa lốp xe.</Vi>
+              <En>Commonly used when discussing tire replacement or wheel repair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cb5d3316-d7ae-48a8-8518-794be914ebc0" type="Noun">
+          <Vi>Vành (của cốc, chậu, nồi, v.v.)</Vi>
+          <En>The curved upper edge or border of a container, such as a cup, pot, or bucket.</En>
+          <Example>She held the coffee cup by its rim to avoid burning her fingers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d295ff6-d837-4444-a1ad-9174a2722b46">
+              <Vi>Khi rót nước hoặc uống từ cốc, tay cầm vào vành.</Vi>
+              <En>When pouring or drinking from a cup, holding it by the rim.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="107d8959-8594-47ef-9568-96c8474289f3" type="Noun">
+          <Vi>Vành (của mắt, kính, nón, v.v.)</Vi>
+          <En>The circular frame surrounding the lens of eyeglasses or the top edge of a hat.</En>
+          <Example>The rim of his glasses was slightly crooked.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ffd1421-afac-4ae2-a46e-5730f7487e58">
+              <Vi>Mô tả khung kim loại hoặc nhựa bao quanh tròng kính.</Vi>
+              <En>Describing the metal or plastic frame surrounding the lenses of eyeglasses.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
