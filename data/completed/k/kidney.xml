@@ -1,0 +1,38 @@
+<Vocab id="8bb052d9-bb05-44b3-ad77-36cb9f33df5a" word="kidney" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c4e2f6e-23bd-405d-a8ab-f610c743e6df" ipa="/ˈkɪd.ni/" vi_ipa="ki-đni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="56252897-4e27-4a03-b227-1bb916747cb7" type="Noun">
+          <Vi>thận (cơ quan lọc máu trong cơ thể người và động vật)</Vi>
+          <En>one of a pair of organs in the abdomen that filter waste products from the blood and produce urine</En>
+          <Example>He was diagnosed with chronic kidney disease and requires regular dialysis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db709601-1287-4f8c-ad7d-711a8ee8142a">
+              <Vi>Bác sĩ kiểm tra chức năng thận của bệnh nhân qua xét nghiệm máu và nước tiểu.</Vi>
+              <En>The doctor evaluates the patient’s kidney function through blood and urine tests.</En>
+            </Situation>
+            <Situation id="7f08bad9-53dc-4d76-bdbc-565f35f4103f">
+              <Vi>Nhận thận từ người hiến tặng là bước cuối cùng trong cấy ghép thận.</Vi>
+              <En>Receiving a donated kidney is the final step in a kidney transplant procedure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
