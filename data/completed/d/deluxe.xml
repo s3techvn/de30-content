@@ -1,0 +1,40 @@
+<Vocab id="3e74847a-c9a7-4aab-baf5-02448c8d5fbc" word="deluxe" type="short" status="done">
+  <Topics>
+    <Topic id="970d4e12-a694-4295-93cd-12428be2ab90" value="Travel &amp; Hospitality" />
+    <Topic id="13891784-9a8d-43bc-ab5d-6f0dbc239200" value="Consumer Goods" />
+    <Topic id="5e8ca9b6-be7b-4180-9f51-3f4fb0859677" value="Luxury &amp; Lifestyle" />
+  </Topics>
+  <Professions>
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="180cff2b-6506-4e08-bb04-ac6af9b51d32" ipa="/dɪˈlʌks/" vi_ipa="đi-lác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e5712b2-3063-43a2-8b02-0b0e9a60c1a6" type="Adjective">
+          <Vi>đẳng cấp cao cấp, sang trọng, cao cấp hơn mức thông thường</Vi>
+          <En>extremely luxurious, comfortable, or high-quality; superior in features or finish</En>
+          <Example>The resort offers deluxe suites with ocean views and private balconies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b51a6fa2-984c-4aaf-93f9-2b1595793b64">
+              <Vi>Mô tả phòng khách sạn, nhà hàng, hoặc sản phẩm cao cấp hơn tiêu chuẩn cơ bản.</Vi>
+              <En>Used to describe hotel rooms, restaurants, or products that exceed standard quality or comfort.</En>
+            </Situation>
+            <Situation id="c74e9ce0-213b-4d0f-b05a-212a5076ff97">
+              <Vi>Chỉ các phiên bản nâng cấp của sản phẩm (ví dụ: điện thoại, xe hơi).</Vi>
+              <En>Refers to upgraded versions of products, such as smartphones or cars, with premium features.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
