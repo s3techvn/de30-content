@@ -1,0 +1,40 @@
+<Vocab id="5678f4fb-6004-440a-88f1-c9700da66e52" word="lion" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="b1952676-139f-4a07-8298-b490d42ce69c" value="Symbolism" />
+  </Topics>
+  <Professions>
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="aeaedc5c-09dc-45f7-a3bc-b053e80c0ba1" value="Wildlife Photographer" />
+    <Profession id="02c5f2d0-55c5-4ebc-adce-2be266b6a7aa" value="Conservationist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0e07d17d-1bb6-4abe-ba38-190ed3bbafe1" ipa="/ˈlaɪ.ən/" vi_ipa="lai-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="19dbe47d-640a-448a-b356-ee7055075d3b" type="Noun">
+          <Vi>Sư tử</Vi>
+          <En>A large, powerful wild cat native to Africa and parts of Asia, known for its mane in males and its role as a top predator.</En>
+          <Example>The lion roared loudly to mark its territory.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a010095-d609-403e-93ec-61624fd28a90">
+              <Vi>Mô tả con vật trong tự nhiên hoặc trong sở thú.</Vi>
+              <En>Describing the animal in the wild or in a zoo.</En>
+            </Situation>
+            <Situation id="c92c5156-fbe8-4d1f-b8d3-df1bdabc121e">
+              <Vi>Trong biểu tượng hoặc ẩn dụ (ví dụ: "vua của muôn loài").</Vi>
+              <En>In symbolic or metaphorical contexts (e.g., "king of the jungle").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,52 @@
+<Vocab id="c0f4ac9a-0864-465b-bf33-d6ce576d9efd" word="awful" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="818bb40f-f22a-4279-8480-9f5494616442" value="Opinion &amp; Evaluation" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="513e4771-fd01-452e-a00a-b30b4a9f7adf" ipa="/ˈɔː.fəl/" vi_ipa="ao-phờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8020a448-6f98-4ca8-9e6b-62028e4bd25e" type="Adjective">
+          <Vi>kinh khủng, tệ hại, rất xấu</Vi>
+          <En>extremely bad, unpleasant, or shocking; causing feelings of fear or dread</En>
+          <Example>The weather was awful—rain, wind, and thunder all day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90488a23-bfcb-460d-baf0-2b2ee0cb64ac">
+              <Vi>Mô tả một trải nghiệm tiêu cực mạnh (ví dụ: thời tiết, dịch vụ, thực phẩm).</Vi>
+              <En>Describing a strongly negative experience (e.g., weather, service, food).</En>
+            </Situation>
+            <Situation id="cfb52aa6-4cac-46e3-8585-954e438d294b">
+              <Vi>Bộc lộ sự không hài lòng hoặc kinh ngạc trước điều gì đó xấu.</Vi>
+              <En>Expressing strong dissatisfaction or shock at something unpleasant.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="78f2057b-ebf7-4b4c-b78b-34e9f117126f" type="Adjective">
+          <Vi>gây sợ hãi, đáng sợ (theo nghĩa cũ)</Vi>
+          <En>inspiring fear or awe; archaic or poetic usage</En>
+          <Example>He stood in awful silence before the ancient temple.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="8eb836a2-61ac-4565-b307-eb6c2a72ddd2">
+              <Vi>Ngôn ngữ văn học cổ hoặc trang trọng để diễn tả sự kinh ngạc, sợ hãi.</Vi>
+              <En>Archaic or poetic language to express awe or dread.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
