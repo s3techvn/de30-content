@@ -1,0 +1,82 @@
+<Vocab id="fb326c95-6fe8-4c6c-88a6-08428e0c353b" word="carrier" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="02b90579-b620-45c2-b4b0-8da2350edfe1" ipa="/ˈker.i.ɚ/" vi_ipa="kẹ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd117806-a76f-4dcf-bc4b-184574aab5cf" type="Noun">
+          <Vi>Người hoặc vật chở, vận chuyển (hàng hóa, hành khách, v.v.)</Vi>
+          <En>A person or company that transports goods or passengers.</En>
+          <Example>The shipping company is a major carrier of agricultural products across the Pacific.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea8505a3-d25c-4a97-b65b-8f8bdd18560f">
+              <Vi>Doanh nghiệp vận chuyển hàng hóa quốc tế.</Vi>
+              <En>An international freight company transporting cargo.</En>
+            </Situation>
+            <Situation id="46abac54-689e-47c7-9e09-f6d339ab5f84">
+              <Vi>Hãng hàng không chở hành khách.</Vi>
+              <En>An airline company carrying passengers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a31d5c50-2959-4ebb-938b-8a7e1afa9b55" type="Noun">
+          <Vi>Tàu sân bay (tàu chiến mang máy bay)</Vi>
+          <En>A large warship designed to carry and operate aircraft.</En>
+          <Example>The aircraft carrier sailed into the harbor under heavy escort.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ef0418c-05a5-4b8e-9130-9a997366f1c9">
+              <Vi>Chiến hạm mang máy bay trong hải quân.</Vi>
+              <En>A naval vessel equipped to launch and recover aircraft.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="06d04fca-9057-4ddc-b5f0-e615f4754fad" type="Noun">
+          <Vi>Người mang mầm bệnh mà không bị bệnh (trong y học)</Vi>
+          <En>A person or animal that carries a pathogen without showing symptoms and can transmit it to others.</En>
+          <Example>Asymptomatic carriers of the virus played a key role in the early spread of the disease.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ec71ad2-c808-4365-a8e9-dfa205f68dc8">
+              <Vi>Bệnh nhân không triệu chứng nhưng có khả năng lây nhiễm.</Vi>
+              <En>A person infected with a pathogen but not ill, yet capable of spreading it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eb206096-8e57-422b-91c7-f110fadd48ec" type="Noun">
+          <Vi>Giá đỡ, khung đỡ (để giữ hoặc mang một vật)</Vi>
+          <En>A frame or structure used to hold, support, or transport something.</En>
+          <Example>The baby carrier allows parents to carry their child hands-free.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ae92531-6ef2-4201-a85f-9b87228a58e0">
+              <Vi>Dụng cụ đeo trẻ em trên người.</Vi>
+              <En>A wearable device for carrying an infant close to the body.</En>
+            </Situation>
+            <Situation id="40ddf8bb-1246-4f95-b7c2-9c2091b74115">
+              <Vi>Khung đỡ điện thoại trên xe hơi.</Vi>
+              <En>A mount that holds a smartphone in a car.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
