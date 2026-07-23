@@ -1,0 +1,38 @@
+<Vocab id="9401dbe1-28b0-4e06-b5c9-8fe4e2be5198" word="photographer" type="short" status="done">
+  <Topics>
+    <Topic id="35c13818-67b0-4849-bb0a-bdd6a323efeb" value="Arts &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5616a5bc-1cb5-4a3e-886c-a05b25026f7e" ipa="/ˈfoʊ.təˌɡræf.ər/" vi_ipa="phô-tô-gra-fơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e58aa312-8388-49bf-a279-4f4285bb57cf" type="Noun">
+          <Vi>Nghệ sĩ nhiếp ảnh; người chuyên chụp ảnh</Vi>
+          <En>A person who takes photographs professionally or as a hobby.</En>
+          <Example>She hired a professional photographer to capture the wedding day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0177d6d-95f8-4058-9947-3d328d296d0f">
+              <Vi>Người làm việc trong studio hoặc ngoài trời để chụp chân dung, sự kiện, hoặc sản phẩm.</Vi>
+              <En>A person working in a studio or outdoors to capture portraits, events, or products.</En>
+            </Situation>
+            <Situation id="717780b2-c665-4b7e-b56d-738f98a6c897">
+              <Vi>Người làm việc cho báo chí, truyền thông, hoặc tự do (freelance).</Vi>
+              <En>A person working for news outlets, media companies, or as a freelancer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
