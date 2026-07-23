@@ -1,0 +1,40 @@
+<Vocab id="2e5e650a-0bd1-490e-884d-ad14820c2568" word="traveler" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="fbd211d7-dcb9-4689-893a-e8bbb74fa7f8" value="Travel &amp; Tourism" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="befa6064-fec6-4a1e-b56f-ce7cd76bfca9" ipa="/ˈtræv.əl.ɚ/" vi_ipa="tờ-rờ-vờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d93e84e-3935-41f2-b976-4f585f1d9959" type="Noun">
+          <Vi>Người đi du lịch; người đi xa (thường trong một chuyến đi dài hoặc nhiều ngày)</Vi>
+          <En>A person who is traveling or is accustomed to traveling, especially for leisure or business.</En>
+          <Example>She’s a frequent traveler and always packs light.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc6a9aa2-c5a0-409b-80bb-26b46b37bb46">
+              <Vi>Một người đang trên chuyến bay quốc tế đến Paris.</Vi>
+              <En>A person boarding a flight to Paris for vacation.</En>
+            </Situation>
+            <Situation id="16d4a60b-5327-403f-800c-da49fcfa83d3">
+              <Vi>Một người thường xuyên đi công tác bằng máy bay và xe lửa.</Vi>
+              <En>A person who commutes weekly by train and plane for work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
