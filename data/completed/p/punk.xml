@@ -1,0 +1,48 @@
+<Vocab id="8f1b4a4a-f435-4c58-9d72-2d085e433737" word="punk" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="5ed4a9de-5373-40e8-a01a-029d1b951a46" value="Youth Culture" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="1bcaf0b2-9642-46f7-9349-3d1cff64c529" value="Subcultural Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a975fa9c-f74d-4d8a-96c4-de49fbd9e3e9" ipa="/pʌŋk/" vi_ipa="păngk">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="21c7fa9d-2547-4aaf-bbae-8b222949c16c" type="Noun">
+          <Vi>Nhóm nhạc rock phản kháng, hoặc người theo phong cách phản kháng, phản văn hóa; phong trào phản kháng mang tính nghệ thuật và chính trị</Vi>
+          <En>A subculture characterized by aggressive music (punk rock), anti-establishment attitudes, DIY ethics, and distinctive fashion (e.g., mohawks, leather jackets, safety pins)</En>
+          <Example>They formed a punk band in their garage and played at underground venues across the city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2dc4c26-6e00-4164-93ad-92c816c74c18">
+              <Vi>Mô tả người hoặc nhóm nhạc theo phong cách phản kháng, thường gắn với âm nhạc mạnh, thời trang phản diện và quan điểm chính trị cấp tiến.</Vi>
+              <En>Used when describing individuals or groups associated with punk rock music, rebellious fashion, and countercultural values.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5dea206f-41b3-4aae-912f-9dc2bdedb434" type="Noun">
+          <Vi>Kẻ vô tích sự, kẻ vô duyên, người đáng khinh (thường dùng để chê bai)</Vi>
+          <En>A contemptible or untrustworthy person; a scoundrel or rascal (colloquial, often humorous or derogatory)</En>
+          <Example>He showed up late again—what a punk!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="366e1b2c-d969-478a-a084-b93b7800cc23">
+              <Vi>Dùng để chỉ một người làm điều gì đó vô trách nhiệm hoặc thiếu tôn trọng, thường trong ngữ cảnh thân mật hoặc hài hước.</Vi>
+              <En>Used informally to call someone unreliable or disrespectful, often playfully among friends or in frustration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

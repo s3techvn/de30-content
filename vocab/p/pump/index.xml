@@ -1,0 +1,60 @@
+<Vocab id="e4c14de7-453a-4796-a32b-d3a2007b78a0" word="pump" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" value="Plumber" />
+    <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" value="Hydrologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="daa0d247-a6ad-48a8-91de-0413e14c7ae7" ipa="/pʌmp/" vi_ipa="păm-p">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ccf2a4fb-3e16-4b58-82d6-55395d750889" type="Noun">
+          <Vi>Máy bơm; bơm (dụng cụ)</Vi>
+          <En>A device for moving fluids or gases, typically by creating a partial vacuum.</En>
+          <Example>The pump is used to draw water from the well.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="330a52ab-c7aa-4243-82d9-a42b7e6991dc">
+              <Vi>Mô tả thiết bị cơ học dùng để bơm chất lỏng hoặc khí.</Vi>
+              <En>A mechanical device used to transfer liquids or gases.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef7126d4-5ff1-4438-b602-cb705d69c157" type="Verb">
+          <Vi>Bơm (chất lỏng hoặc khí)</Vi>
+          <En>To move a fluid or gas continuously through a pipe or tube using mechanical action.</En>
+          <Example>He pumped air into the bicycle tire until it was firm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d482d48-ae75-4041-8241-e18a52dd78a2">
+              <Vi>Hành động bơm chất lỏng hoặc khí vào một vật chứa.</Vi>
+              <En>The action of forcing liquid or gas into a container.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f3319ad3-fc6a-4dea-8bf7-eefee86f8580" type="Verb">
+          <Vi>Tăng mạnh (nhiều năng lượng, cảm xúc, v.v.)</Vi>
+          <En>To increase something rapidly or forcefully, especially energy, excitement, or adrenaline.</En>
+          <Example>The music pumped through the speakers, filling the room with energy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3ac5e96-6928-411e-84a9-9839f7b6c44e">
+              <Vi>Mô tả âm thanh mạnh mẽ, làm tăng cường năng lượng hoặc cảm xúc.</Vi>
+              <En>Describes loud, energetic sound that heightens excitement or intensity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
