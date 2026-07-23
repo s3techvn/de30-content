@@ -1,0 +1,40 @@
+<Vocab id="f036674e-e96e-400a-b63e-c163ac65b8d3" word="authorized" type="short" status="done">
+  <Topics>
+    <Topic id="ffd7e5f9-8473-429d-a552-4dc3a5ad28dc" value="Law &amp; Governance" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="6a1718a3-1cea-489f-8c46-677791b9327c" value="IT Security Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3620274a-55c8-4327-9093-c8586ad897b1" ipa="/ˈɔː.θər.ɪ.zd/" vi_ipa="ớ-thờ-rị-zd">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6790a4de-dd85-47a9-8f2f-82de1eaa504a" type="Adjective">
+          <Vi>được ủy quyền; được cấp phép chính thức</Vi>
+          <En>having been granted official authority or permission, especially by a recognized authority.</En>
+          <Example>The authorized representative signed the contract on behalf of the company.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7970033c-2390-4b9e-9a5e-ef221bb79c10">
+              <Vi>Người được công nhận chính thức có quyền hành động thay mặt tổ chức hoặc cá nhân khác.</Vi>
+              <En>A person officially recognized as having the right to act on behalf of another person or organization.</En>
+            </Situation>
+            <Situation id="bef2c408-bfcd-472a-b2f1-6907857f37d1">
+              <Vi>Phần mềm hoặc tài khoản có giấy phép hợp lệ từ nhà phát triển hoặc chủ sở hữu.</Vi>
+              <En>Software or account that has a valid license granted by the developer or owner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

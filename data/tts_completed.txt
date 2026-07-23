@@ -809,3 +809,4 @@ graduated
 donated
 satellite
 fighter
+authorized
