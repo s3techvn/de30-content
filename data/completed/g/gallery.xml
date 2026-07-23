@@ -1,0 +1,62 @@
+<Vocab id="86cfa840-971a-4ded-862b-69cacc8b9e37" word="gallery" type="short" status="done">
+  <Topics>
+    <Topic id="fbc0fe32-9156-4d20-9cd1-1fbd3ae326ae" value="Art and Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="4e78535e-37cc-4fe0-a55d-a9aed42b5b48" value="Curator" />
+    <Profession id="db3ee18d-10f0-4942-b28a-532ffa2f0027" value="Tourist Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9a445a22-bbec-4e93-8a33-089e51744f14" ipa="/ˈɡæl.ər.i/" vi_ipa="gờ-rơ-lơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bfba848a-ae30-4d8c-810c-613f32206021" type="Noun">
+          <Vi>Bức tranh hoặc tác phẩm nghệ thuật được trưng bày trong một không gian chuyên dụng</Vi>
+          <En>A building or room in which works of art are exhibited</En>
+          <Example>The museum’s new gallery features contemporary paintings from Southeast Asia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a414b8ed-3ceb-4d1f-b295-acd4310353db">
+              <Vi>Người参观者 đi bộ trong phòng trưng bày để ngắm tranh và tác phẩm điêu khắc.</Vi>
+              <En>Visitors walk through the gallery to view paintings and sculptures.</En>
+            </Situation>
+            <Situation id="84424a21-7781-4919-90f1-cb9ad15c5c7a">
+              <Vi>Một phòng trưng bày nghệ thuật trong trung tâm thành phố tổ chức triển lãm hàng tháng.</Vi>
+              <En>An art gallery in the city center hosts monthly exhibitions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ed03a1c5-3fc8-4bac-9cfb-8353c4d7eaf5" type="Noun">
+          <Vi>Phòng chiếu phim có nhiều dãy ghế, thường dùng để chiếu phim</Vi>
+          <En>A cinema or theater with multiple rows of seats for viewing films</En>
+          <Example>The old gallery was converted into a modern café last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c83a03aa-4088-415e-add5-974c26d1993f">
+              <Vi>Chúng tôi xem bộ phim mới nhất tại rạp chiếu phim địa phương.</Vi>
+              <En>We watched the latest movie at the local gallery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d753e0f-fd1d-4664-8ad9-15c5eb55e27f" type="Noun">
+          <Vi>Phòng thu hình ảnh (trong truyền hình), nơi quay phỏng vấn hoặc sự kiện trực tiếp</Vi>
+          <En>A studio area in a television or radio broadcast center where interviews or live events are recorded</En>
+          <Example>The journalist entered the gallery just before going live on air.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="414d7c75-07ef-40f7-9b89-ef556e08c3cc">
+              <Vi>Đạo diễn điều hành chương trình phát sóng từ phòng thu hình ảnh.</Vi>
+              <En>The director runs the live broadcast from the gallery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
