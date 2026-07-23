@@ -1,0 +1,38 @@
+<Vocab id="e72db417-198a-4e68-bb3c-449ea0c6ffc8" word="exactly" type="short" status="done">
+  <Topics>
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="896d0a9f-e62f-4b91-97ac-2385aa7976f0" ipa="/ɪɡˈzækt.li/" vi_ipa="ích-zắc-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df20dcdf-4e6b-42e7-9bc0-970c03f88095" type="Adverb">
+          <Vi>chính xác, đúng như vậy, đúng như yêu cầu</Vi>
+          <En>in a precise or exact manner; precisely</En>
+          <Example>She arrived exactly at 7:00 p.m., not a minute earlier or later.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c6f181c-828e-430e-b146-b0a757aa5dee">
+              <Vi>Để nhấn mạnh sự chính xác tuyệt đối trong thời gian, số lượng, hoặc chi tiết.</Vi>
+              <En>Used to emphasize absolute accuracy in time, quantity, or detail.</En>
+            </Situation>
+            <Situation id="ec8ce2b3-b2af-4e13-afe1-05eb8d0e7481">
+              <Vi>Đồng tình mạnh mẽ với một phát biểu hoặc yêu cầu trước đó.</Vi>
+              <En>Used to strongly agree with a previous statement or request.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

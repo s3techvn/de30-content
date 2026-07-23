@@ -1,0 +1,47 @@
+<Vocab id="d88c50f8-058a-43f5-bb95-d87001c8635f" word="spending" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="a49422aa-898e-4bbf-996b-1ccc8bbdf36b" value="Financial Planner" />
+    <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" value="Consumer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="213b0aa9-03b7-46f3-bd03-764afd0da0b9" ipa="/ˈspɛn.dɪŋ/" vi_ipa="xpen-dinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0d5d22d3-a1cc-4e43-a538-68cc393077ac" type="Noun">
+          <Vi>Số tiền chi tiêu; việc chi tiêu</Vi>
+          <En>The amount of money used for a particular purpose or over a particular period</En>
+          <Example>Her monthly spending on groceries has increased by 15% this year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2b2bf236-fe6a-4c2d-9256-c185a07fe317">
+              <Vi>Mô tả tổng lượng tiền đã hoặc đang được dùng trong một bối cảnh cụ thể (ví dụ: chi tiêu cá nhân, ngân sách công).</Vi>
+              <En>Describing the total amount of money used in a specific context (e.g., personal expenditure, government budget).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="803797cb-af05-4ca6-b896-670e3ab18164" type="Noun">
+          <Vi>Sự tiêu xài, sự phung phí (thường mang sắc thái tiêu cực)</Vi>
+          <En>The action of using up resources, especially money, often wastefully</En>
+          <Example>The company was criticized for its reckless spending on luxury offices.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db49b840-c05c-4f18-a962-2f50b99162d5">
+              <Vi>Tình huống chỉ trích hoặc cảnh báo về hành vi chi tiêu quá mức, không hợp lý.</Vi>
+              <En>A situation involving criticism or warnings about excessive or irrational expenditure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
