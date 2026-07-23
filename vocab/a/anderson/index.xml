@@ -1,0 +1,32 @@
+<Vocab id="89d4aef2-c0e9-43af-82e1-f54cb9ff3287" word="anderson" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b41bb8dd-e5c7-45e9-a7aa-1eeaeb46f7e4" ipa="/ˈæn.dər.sən/" vi_ipa="an-đơ-đờ-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3b65b886-3871-43a9-8f7f-d0dd0ec04b51" type="Proper_Noun">
+          <Vi>Họ Anderson (một họ phổ biến trong tiếng Anh, xuất phát từ con trai của Andrew)</Vi>
+          <En>A common English surname, meaning "son of Andrew".</En>
+          <Example>John Anderson is a professor of history at the university.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bb20f49-cc6c-46d4-a7f1-e343f271eb1c">
+              <Vi>Dùng để chỉ người có họ Anderson trong các bối cảnh tên đầy đủ.</Vi>
+              <En>Used when referring to individuals with the surname Anderson in full-name contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
