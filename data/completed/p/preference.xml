@@ -1,0 +1,40 @@
+<Vocab id="5263ecac-8b83-4b59-bb75-5c816a67699d" word="preference" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="ac2ebaca-4363-4d92-b2a3-f3671b5796d5" value="Market Research Analyst" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f104e7c-4e14-4933-8851-f44edeea8911" ipa="/ˈprɛf.ər.əns/" vi_ipa="pờ-rê-fờ-rờ-ân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2e253878-30d1-433b-b847-078dd49fcf83" type="Noun">
+          <Vi>Sự ưu tiên; sở thích; điều được ưa chuộng hơn</Vi>
+          <En>The state of being more fond of or inclined toward one thing than another; a particular choice or liking that is favored over alternatives.</En>
+          <Example>She expressed her preference for coffee over tea during the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c180d3b-5c3f-47ed-ae2c-8368e9ffc6f2">
+              <Vi>Trong một cuộc khảo sát, người tham gia được hỏi về sở thích cá nhân.</Vi>
+              <En>In a survey, participants were asked about their personal preferences.</En>
+            </Situation>
+            <Situation id="2187326c-a31c-42d6-9727-ef79c2538217">
+              <Vi>Người tiêu dùng có xu hướng thể hiện sở thích đối với sản phẩm thân thiện với môi trường.</Vi>
+              <En>Consumers tend to express a preference for environmentally friendly products.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

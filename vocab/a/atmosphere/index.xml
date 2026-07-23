@@ -1,0 +1,48 @@
+<Vocab id="29421596-0bc8-4d3b-b3af-21cd14989e9a" word="atmosphere" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="fbd211d7-dcb9-4689-893a-e8bbb74fa7f8" value="Travel &amp; Tourism" />
+  </Topics>
+  <Professions>
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="f403fb70-f4b6-42eb-9ab0-33b81023c754" value="Writer / Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="de28c1b9-9ded-45ba-bb1a-2e2660f61d24" ipa="/ˈæt.məs.fɪər/" vi_ipa="át-mơ-sờ-fia">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8ced1469-7455-40b1-92d4-54cd2ebb8d4d" type="Noun">
+          <Vi>Bầu khí quyển</Vi>
+          <En>The layer of gases surrounding a planet or other celestial body, especially the layer of air around the Earth.</En>
+          <Example>The Earth's atmosphere protects us from harmful solar radiation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="548f5fdb-f7f9-4549-b517-2013ad39132e">
+              <Vi>Mô tả lớp khí bao quanh Trái Đất trong các bài học khoa học.</Vi>
+              <En>Referring to the gaseous envelope around Earth in scientific contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="394ee5af-6097-4360-8179-2e27e3348ec4" type="Noun">
+          <Vi>Không khí, bầu không khí (về cảm xúc, tâm trạng)</Vi>
+          <En>The character or atmosphere of a place or situation, especially as conveyed by its mood or ambiance.</En>
+          <Example>The restaurant had a cozy, romantic atmosphere.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1382dd6f-8b09-4315-ad4a-6a1a43bec43e">
+              <Vi>Mô tả cảm giác, tâm trạng trong một sự kiện hoặc địa điểm (ví dụ: tiệc tùng, quán cà phê).</Vi>
+              <En>Used to describe the emotional or sensory environment of a setting, such as a party or café.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
