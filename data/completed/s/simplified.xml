@@ -1,0 +1,40 @@
+<Vocab id="99b2a7e1-387a-4c5e-b85d-1ac2785eea64" word="simplified" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7644e3c7-7d47-4af1-a31c-c6b1a8350fe5" ipa="/ˈsɪm.plɪ.faɪd/" vi_ipa="xim-pli-fai-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7125ed15-3c1e-4696-9adb-5de6d3ec22c5" type="Adjective">
+          <Vi>được đơn giản hóa; đơn giản</Vi>
+          <En>Made or presented easier to understand or do, by removing unnecessary complexity.</En>
+          <Example>The app features a simplified interface that’s easy for beginners to navigate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f4e43a6-dc99-4a9b-95f3-4004dc9bbf82">
+              <Vi>Mô tả một giao diện, hệ thống, hoặc nội dung đã được làm dễ hiểu hơn bằng cách loại bỏ các chi tiết phức tạp.</Vi>
+              <En>Describing an interface, system, or content that has been made easier to understand by removing unnecessary complexity.</En>
+            </Situation>
+            <Situation id="f0270937-10d1-4495-8f59-1f6baf52b86f">
+              <Vi>Chỉ một phiên bản ngôn ngữ hoặc văn bản đã được rút gọn để phù hợp với người học hoặc người dùng mới.</Vi>
+              <En>Referring to a version of a language or text that has been shortened or made easier for learners or new users.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
