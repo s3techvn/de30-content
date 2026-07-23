@@ -1,0 +1,32 @@
+<Vocab id="5abfd466-04d3-4d79-94d5-55f2185c720d" word="already" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e528e2f2-4126-4b05-aa47-0a80ca7be37a" ipa="/ɔːlˈredi/" vi_ipa="ao-lơ-đi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bcb31120-cf10-40fb-b0d5-ad06dff4684b" type="Adverb">
+          <Vi>đã, rồi, đã rồi</Vi>
+          <En>Used to indicate that something has happened before now or before a specified or implied time.</En>
+          <Example>I already finished the report before the meeting started.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="efcfa7a1-d225-45c5-a059-0b7e85a1e152">
+              <Vi>Thể hiện sự việc đã xảy ra trước thời điểm hiện tại hoặc trước một thời điểm được nhắc đến.</Vi>
+              <En>Expresses that an action or event occurred prior to the present moment or a referenced time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
