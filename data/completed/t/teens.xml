@@ -1,0 +1,38 @@
+<Vocab id="bce5129b-5570-4839-9f79-f86b7e9af092" word="teens" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="34da5267-599a-4586-b093-24a4fec40b97" value="Youth Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af88f10d-bc43-4723-9849-307947239797" ipa="/tiːnz/" vi_ipa="t-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bb16b24d-ef2d-4362-bd1a-1637b7f70422" type="Noun">
+          <Vi>Độ tuổi từ 13 đến 19; tuổi vị thành niên</Vi>
+          <En>The period of life when a person is between 13 and 19 years old; adolescence</En>
+          <Example>Many teenagers struggle with balancing schoolwork and extracurricular activities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9d62c99-4f23-4a86-9174-ac31cfc47d63">
+              <Vi>Mô tả nhóm người trong độ tuổi dậy thì, thường học trung học cơ sở hoặc trung học phổ thông.</Vi>
+              <En>Refers to individuals aged 13–19, typically attending middle or high school.</En>
+            </Situation>
+            <Situation id="b559e065-5b67-422a-8129-d0306b128f2a">
+              <Vi>Chỉ chung nhóm thanh thiếu niên đang trải qua những thay đổi về thể chất và tâm lý.</Vi>
+              <En>Refers broadly to adolescents undergoing physical and psychological changes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
