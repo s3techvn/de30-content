@@ -1,0 +1,52 @@
+<Vocab id="8eb6721f-1a30-493e-a5b3-a23f5434cc8e" word="retain" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b674825-595b-4cdf-b04b-0231359f7576" ipa="/rɪˈteɪn/" vi_ipa="rị-tên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d99a3f4-643b-40e2-98bc-d963b31cc43f" type="Verb">
+          <Vi>giữ, duy trì, giữ lại</Vi>
+          <En>to keep or continue to have something; to hold on to something, especially in the face of pressure to give it up</En>
+          <Example>The company decided to retain its top employees by offering competitive salaries and benefits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b5029eb5-332e-4643-80e6-688181f0fe35">
+              <Vi>Giữ lại nhân viên giỏi bằng cách tăng lương và phúc lợi.</Vi>
+              <En>Keeping skilled employees by increasing their salary and benefits.</En>
+            </Situation>
+            <Situation id="b50832b9-296d-4981-9a12-51145cdd77a2">
+              <Vi>Tư vấn luật sư để giữ quyền đại diện trong vụ việc.</Vi>
+              <En>Hiring a lawyer to maintain representation in a legal case.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cbcd2571-c402-4e6f-a22f-6dfa5417926c" type="Verb">
+          <Vi>nhớ, ghi nhớ (thông tin, chi tiết)</Vi>
+          <En>to keep information or details in one’s memory</En>
+          <Example>She was able to retain all the details of the contract after just one reading.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9cddf03-43a2-4719-a843-218f7eec1058">
+              <Vi>Học sinh nhớ lâu các công thức hóa học.</Vi>
+              <En>A student remembering chemical formulas for a long time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
