@@ -1,0 +1,54 @@
+<Vocab id="3168a192-f955-4711-9e89-23d7fa9cbe04" word="talent" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c803a5d7-7252-4506-a8df-d6399e125b83" value="Career &amp; Work" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="90f76251-88b8-4fd4-902a-d800a9afa161" ipa="/ˈtæl.ənt/" vi_ipa="tờ-lént">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca775721-e059-450b-871e-a0dafb309e82" type="Noun">
+          <Vi>Tài năng; thiên phú</Vi>
+          <En>Natural ability to do something well, especially in a creative or intellectual field.</En>
+          <Example>She has a real talent for playing the piano.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd2cda7a-4d00-4cae-b742-5b46e6f95a02">
+              <Vi>Mô tả một người có khả năng bẩm sinh vượt trội trong một lĩnh vực cụ thể.</Vi>
+              <En>Describing someone who possesses an innate, exceptional ability in a particular field.</En>
+            </Situation>
+            <Situation id="33f6422f-153f-4577-ad07-fd37a9af9800">
+              <Vi>Trong bối cảnh tuyển dụng hoặc đánh giá nhân sự.</Vi>
+              <En>In the context of recruitment or employee assessment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c480495b-040e-4853-a666-a5160698d99a" type="Noun">
+          <Vi>Tài năng (dùng để chỉ người có tài năng đặc biệt)</Vi>
+          <En>A person who has a particular skill or ability, especially in the performing arts.</En>
+          <Example>The show features several young talents from across the country.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a3f9825-538c-44ee-8d15-7de56cf5fb33">
+              <Vi>Khi nói về một cá nhân nổi bật trong nghệ thuật biểu diễn.</Vi>
+              <En>When referring to an outstanding individual in the performing arts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
