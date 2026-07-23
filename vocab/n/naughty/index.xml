@@ -1,0 +1,50 @@
+<Vocab id="65b15a69-00ef-4fa4-908e-91ae25e38808" word="naughty" type="short" status="done">
+  <Topics>
+    <Topic id="2068b4be-f694-4e79-82e9-2472e4c91fc1" value="Behavior &amp; Personality" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" value="Parent" />
+    <Profession id="30c413e4-1035-4086-92a4-e31472d5b4c6" value="Childcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd5ba7f0-bdfa-4430-ae01-e94d616c5c4c" ipa="/ˈnɔː.ti/" vi_ipa="nốt-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72853582-12d8-44ea-ab4c-9afe16fbfd49" type="Adjective">
+          <Vi>hư, bướng bỉnh, nghịch ngợm (thường nói về trẻ em)</Vi>
+          <En>behaving in a way that is slightly bad or disobedient, especially in a way that is slightly amusing or playful</En>
+          <Example>The children were a bit naughty and hid their teacher’s chalk.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4333b169-5ecf-42ff-9e59-d3c10c8d3d6a">
+              <Vi>Mô tả trẻ em không nghe lời, làm điều gì đó tinh nghịch nhưng không quá nghiêm trọng.</Vi>
+              <En>Describing a child who disobeys slightly but in a playful or endearing way.</En>
+            </Situation>
+            <Situation id="2b0619e1-ace4-4b5d-9c3b-347bd9df15fa">
+              <Vi>Dùng trong ngữ cảnh thân mật để chê cười nhẹ một người (thường trẻ em) vì hành vi đáng yêu nhưng không ngoan.</Vi>
+              <En>Used affectionately to tease someone (often a child) for being mischievous in a charming way.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="da7da5da-5d88-47c2-83f7-a64a002e0f3d" type="Adjective">
+          <Vi>gây tò mò tình dục, gợi cảm (thường dùng trong ngữ cảnh khiêu dâm nhẹ)</Vi>
+          <En>arousing sexual curiosity or desire, especially in a playful or mildly suggestive way</En>
+          <Example>She wore a naughty little outfit to the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b5ee5e1-90e4-4306-8141-2b3c22215544">
+              <Vi>Mô tả trang phục, hành vi hoặc lời nói gợi cảm, phù hợp trong ngữ cảnh thân mật hoặc khiêu khích nhẹ.</Vi>
+              <En>Describing clothing, behavior, or speech that is flirtatious or mildly suggestive in a playful context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

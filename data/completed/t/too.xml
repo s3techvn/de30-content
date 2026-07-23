@@ -1,0 +1,36 @@
+<Vocab id="cd21f2c8-592b-4972-901f-2985a6f01238" word="too" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="02920ee3-7e0c-49c8-8b7e-d48878f61bb7" ipa="/tuː/" vi_ipa="tú">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d9ce0de2-ce99-4be2-b3a4-3483938e48b4" type="Adverb">
+          <Vi>quá, cũng, cũng như vậy, cũng vậy</Vi>
+          <En>used to indicate excess, addition, or agreement with a previous statement</En>
+          <Example>She is too tired to continue.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9e090bc-7153-4b09-a5b1-91a1641ccacf">
+              <Vi>Biểu thị mức độ vượt quá khả năng hoặc mong đợi.</Vi>
+              <En>Expresses that something exceeds a desirable or acceptable limit.</En>
+            </Situation>
+            <Situation id="58f43b7d-9891-4020-b4eb-dec0c1c4188f">
+              <Vi>Dùng để đồng tình với điều người khác vừa nói.</Vi>
+              <En>Used to agree with a previous statement (similar to “also” or “as well”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
