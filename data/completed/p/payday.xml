@@ -1,0 +1,39 @@
+<Vocab id="df17ebd0-236e-4d79-b16d-4e0c38f76035" word="payday" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="132ba25d-2423-4112-b124-9bde14129ba7" value="Employee" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fafc72fa-ca34-4a4c-ac4b-f202886fa11f" ipa="/ˈpeɪ.deɪ/" vi_ipa="pi-đê-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e5e04435-3ae3-4c3e-87af-00a947ecc453" type="Noun">
+          <Vi>Ngày trả lương</Vi>
+          <En>The day on which employees receive their wages or salary.</En>
+          <Example>My payday is every other Friday, so I always plan my big purchases around it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa93b8f7-96ba-49ff-b8de-c5a4494ab4e3">
+              <Vi>Ngày người lao động nhận tiền lương từ chủ hoặc công ty.</Vi>
+              <En>The date when workers receive their compensation from their employer.</En>
+            </Situation>
+            <Situation id="cd51d891-f61c-4512-ba8e-78f38191a29a">
+              <Vi>Thời điểm gần ngày nhận lương, nhiều người chi tiêu nhiều hơn.</Vi>
+              <En>The period just before or after receiving a paycheck, often associated with increased spending.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
