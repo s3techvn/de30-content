@@ -1,0 +1,52 @@
+<Vocab id="de12d97e-d781-4079-89fa-6e7065d57c75" word="serial" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="56ee3793-dd97-451f-9c27-d2f6d065bc14" value="Electronics" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="20b27fe4-9abe-45f4-85a4-3d1e661e3533" value="TV Producer" />
+    <Profession id="9af40ef2-68ab-43d2-a68d-b986f42844c2" value="Electronics Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af8ec59a-b215-45ac-b3df-8c2eab85aa19" ipa="/ˈsɪr.i.əl/" vi_ipa="xê-ri-ên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="69dbaa68-02d2-44f1-8a6e-5f18740d8dd2" type="Adjective">
+          <Vi>liên tiếp, nối tiếp nhau theo một trình tự</Vi>
+          <En>arranged in or occurring in a series; happening one after another in a sequence</En>
+          <Example>The software updates are released as a serial of monthly patches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="312f8e9c-956a-4f50-a5ca-db31f915547f">
+              <Vi>Mô tả các sự kiện, sản phẩm, hoặc dữ liệu xuất hiện theo thứ tự tuần tự.</Vi>
+              <En>Used to describe events, products, or data that appear in a sequential order.</En>
+            </Situation>
+            <Situation id="f0306b3e-a858-453a-a233-d61b07f4c2e4">
+              <Vi>Trong lập trình, chỉ dữ liệu được xử lý hoặc truyền theo từng bit một theo thời gian.</Vi>
+              <En>In programming, refers to data processed or transmitted bit by bit over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ef175e6-5875-4a79-921e-d03f8072c64c" type="Adjective">
+          <Vi>liên quan đến truyền hình/phim truyền hình (tập, loạt)</Vi>
+          <En>relating to or constituting a television or radio program broadcast in a series of episodes</En>
+          <Example>The new serial has received critical acclaim for its storytelling.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c47b373-1834-4e9d-836e-789de155d469">
+              <Vi>Dùng để chỉ một chương trình truyền hình có nhiều tập phát sóng theo tuần.</Vi>
+              <En>Used to describe a TV show broadcast in multiple weekly episodes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

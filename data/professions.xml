@@ -768,4 +768,6 @@
   <Profession id="1a742897-c59a-44ce-943a-aca5d3e86481" slug="ethical-hacker" value="Ethical Hacker" />
   <Profession id="432151cc-b07b-42af-872e-3fb8521188aa" slug="ict-technician" value="ICT Technician" />
   <Profession id="3d9b283a-d5d7-4403-ae26-d54611d2aea2" slug="swimming-instructor" value="Swimming Instructor" />
+  <Profession id="20b27fe4-9abe-45f4-85a4-3d1e661e3533" slug="tv-producer" value="TV Producer" />
+  <Profession id="9af40ef2-68ab-43d2-a68d-b986f42844c2" slug="electronics-engineer" value="Electronics Engineer" />
 </Professions>
