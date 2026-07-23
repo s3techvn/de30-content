@@ -1,0 +1,32 @@
+<Vocab id="63f1a61a-31b1-497c-bbde-5f75f86610ef" word="charles" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="48d7b172-fb2b-4905-8e6f-4ff106aa7060" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="58e7adb7-9220-4ab9-8626-4b7fcf7bc562" ipa="/ˈtʃɑːr.lz/" vi_ipa="chác-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="36f6ce6e-62cc-47a6-9f03-4ca108dfae8f" type="Proper Noun">
+          <Vi>Tên riêng: Charles (nam giới)</Vi>
+          <En>A male given name, notably borne by several British monarchs, including King Charles III of the United Kingdom.</En>
+          <Example>King Charles III ascended the throne after the death of Queen Elizabeth II.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a735b6b9-eff6-43d0-86e1-48dd52508bcc">
+              <Vi>Thường dùng trong bối cảnh nói về hoàng gia Anh hoặc cá nhân mang tên này.</Vi>
+              <En>Commonly used in contexts referring to the British royal family or individuals bearing the name.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
