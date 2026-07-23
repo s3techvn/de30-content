@@ -1,0 +1,53 @@
+<Vocab id="60eead1d-9e61-47ec-8f05-5e74ecb596bd" word="dramatic" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="cc6202a8-494e-454c-bcec-ae2f56ec9746" value="Director" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="142c9987-2da4-41b5-af5d-785d8c8471a9" ipa="/drəˈmæt.ɪk/" vi_ipa="đờ-rơ-mát-ích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff63c8cc-4874-4a64-a0b0-a982a528f7b8" type="Adjective">
+          <Vi>điển hình, kịch tính, gây ấn tượng mạnh</Vi>
+          <En>having a striking and dramatic effect or appearance; full of intense emotion, excitement, or sudden change.</En>
+          <Example>The sunset over the ocean was absolutely dramatic, with vivid red and orange hues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13cb0438-4694-4e4a-ae06-d8305ce18d12">
+              <Vi>Mô tả một cảnh tượng gây ấn tượng mạnh về thị giác hoặc cảm xúc.</Vi>
+              <En>Describing a visually or emotionally striking scene.</En>
+            </Situation>
+            <Situation id="57eeb03d-4c4c-4507-868b-0bb9aa8c8a63">
+              <Vi>Dùng để chỉ sự thay đổi đột ngột, mạnh mẽ trong tình huống hoặc cảm xúc.</Vi>
+              <En>Referring to a sudden, intense change in situation or emotion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7af10e12-d039-4c6a-82a9-22123dad45ab" type="Adjective">
+          <Vi>giống như trong kịch, quá mức cần thiết về biểu cảm hoặc hành động</Vi>
+          <En>exaggerated or overly expressive in a way that resembles theatrical performance.</En>
+          <Example>She gave a dramatic sigh and rolled her eyes when she heard the news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ab29697-58e6-4a65-886f-d3ddd7c73425">
+              <Vi>Mô tả hành vi hoặc phản ứng có vẻ quá kịch tính, không tự nhiên.</Vi>
+              <En>Describing behavior or reaction that seems overly theatrical or exaggerated.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
