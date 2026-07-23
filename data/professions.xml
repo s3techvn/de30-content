@@ -632,4 +632,6 @@
   <Profession id="f516e8a0-1023-4ec1-a6c5-3fe8aedea956" slug="swimming-coach" value="Swimming Coach" />
   <Profession id="a8b5a186-cd3a-452e-ab20-22c6ee9bf546" slug="maritime-pilot" value="Maritime Pilot" />
   <Profession id="bf4be272-eb73-4035-98fc-485a99e34ecc" slug="waste-management-worker" value="Waste Management Worker" />
+  <Profession id="6fabb7a5-5fe0-401b-be4c-26dd0d7b82a2" slug="croupier" value="Croupier" />
+  <Profession id="dcee8947-a7ce-4130-8a75-d43d26085bf4" slug="casino-manager" value="Casino Manager" />
 </Professions>
