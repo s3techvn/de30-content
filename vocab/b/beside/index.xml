@@ -1,0 +1,44 @@
+<Vocab id="c39b89f9-e16d-4477-a1c6-68a8ede884ba" word="beside" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c0fb72b3-7418-45de-ab43-0c762ea20f78" ipa="/bɪˈsaɪd/" vi_ipa="bi-sài-đây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e710ea0-5387-4496-87b9-f15f335d7c8e" type="Preposition">
+          <Vi>Bên cạnh, ở gần (về vị trí vật lý)</Vi>
+          <En>At or to the side of; next to.</En>
+          <Example>She sat beside her friend during the movie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55b725d0-bf13-4f75-ba72-aeeda35e1f51">
+              <Vi>Mô tả vị trí vật lý gần nhau, thường trong không gian cụ thể.</Vi>
+              <En>Describes physical proximity or adjacency in a specific space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="728f5a5a-2f04-4d7d-a6ef-1ea7d67ea8c0" type="Preposition">
+          <Vi>Ngoài ra, hơn nữa (dùng để thêm thông tin, thường trong văn viết)</Vi>
+          <En>In addition to; besides.</En>
+          <Example>Beside the cost, we also need to consider the time required.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f22bd31-8024-400b-81be-ad32e5aec7cf">
+              <Vi>Dùng để bổ sung một lý do hoặc yếu tố khác trong lập luận hoặc phân tích.</Vi>
+              <En>Used to introduce an additional reason or factor in reasoning or analysis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,40 @@
+<Vocab id="74ea5ec9-8c69-440d-af21-5db138453c1b" word="camel" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="c0c14f49-ebc2-4ca2-a393-f5b8f67cd785" value="Herdsman" />
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4d7747e5-7f50-43d9-812d-d9f1d9d883cd" ipa="/ˈkæm.əl/" vi_ipa="căm-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a1ed0a0-0ee0-4bdf-882f-644d8b078475" type="Noun">
+          <Vi>con lạc đà</Vi>
+          <En>A large, long-necked mammal with one or two humps on its back, native to deserts and arid regions, known for its ability to store water and fat.</En>
+          <Example>The camel walked steadily across the golden sands of the Sahara.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="effe2fc5-e70a-4282-b44c-5193206847ab">
+              <Vi>Hình ảnh con lạc đà chở khách du lịch qua sa mạc.</Vi>
+              <En>A camel carrying tourists through a desert landscape.</En>
+            </Situation>
+            <Situation id="b9835b84-f010-4643-ba77-fb952ef74392">
+              <Vi>Lạc đà một bướu (camel) và hai bướu (bactrian camel) có đặc điểm sinh học khác nhau.</Vi>
+              <En>Differences between one-humped (dromedary) and two-humped (Bactrian) camels.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

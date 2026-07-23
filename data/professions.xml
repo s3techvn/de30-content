@@ -758,4 +758,5 @@
   <Profession id="7c6bd72f-5eef-42b8-864c-6d87f4116111" slug="hr-manager" value="HR Manager" />
   <Profession id="9e4dbe28-9a11-42a4-bacf-9df04f953db7" slug="payroll-specialist" value="Payroll Specialist" />
   <Profession id="610bf2ce-0fcb-480a-b125-e0e2d2ad45a9" slug="ux-designer" value="UX Designer" />
+  <Profession id="c0c14f49-ebc2-4ca2-a393-f5b8f67cd785" slug="herdsman" value="Herdsman" />
 </Professions>
