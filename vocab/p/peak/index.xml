@@ -1,0 +1,48 @@
+<Vocab id="5ed26da7-b8d7-413d-813e-65d1403edf75" word="peak" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="e5b97041-f3da-41dd-ab13-3356d2f1e8a4" value="Mountaineer" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1e09ccd6-1cce-406f-bcf5-8b9460b3b9da" ipa="/piːk/" vi_ipa="pi:kh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cd387b5e-3ddd-45b7-9279-66aa7d98d89b" type="Noun">
+          <Vi>đỉnh (núi), điểm cao nhất</Vi>
+          <En>The top or highest point of something, especially a mountain or hill.</En>
+          <Example>They reached the peak of Mount Everest after a grueling two-month expedition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="120f1662-c5d5-4e61-a384-4339cbf559db">
+              <Vi>Mô tả vị trí cao nhất của một ngọn núi hoặc một hiện tượng.</Vi>
+              <En>Describes the highest point of a mountain or a phenomenon (e.g., popularity, performance).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f241b656-a345-47ea-beca-d06f9b20947e" type="Verb">
+          <Vi>đạt đến mức cao nhất, đạt đỉnh</Vi>
+          <En>To reach the highest point or level of something, especially performance, popularity, or success.</En>
+          <Example>Her career peaked in the mid-2000s when she won several major awards.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac982c4d-f8a7-4e86-bcdf-bfba137dfa11">
+              <Vi>Dùng để nói về thời điểm đạt thành tựu cao nhất trong sự nghiệp hoặc hoạt động.</Vi>
+              <En>Used to describe the time of highest achievement in a career or activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
