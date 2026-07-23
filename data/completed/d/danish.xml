@@ -1,0 +1,46 @@
+<Vocab id="60d02532-07a8-4f4b-875b-0ccbae100904" word="danish" type="short" status="done">
+  <Topics>
+    <Topic id="3d4be14f-ad7c-4763-9779-dbe035c0c565" value="Food &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" value="Travel Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c26a451-ea8b-4837-a598-6af75fd247e5" ipa="/ˈdeɪ.nɪʃ/" vi_ipa="đê-i-ních">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f27982c4-5a10-4da9-8e70-ccc41a8996fa" type="Adjective">
+          <Vi>thuộc Đan Mạch, người Đan Mạch; kiểu Đan Mạch</Vi>
+          <En>Relating to Denmark, its people, or its culture.</En>
+          <Example>She enjoys eating Danish pastries and listening to Danish jazz.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21e55bf1-77bb-4cdc-a51e-718b1b1df2c0">
+              <Vi>Mô tả đặc điểm, sản phẩm, hoặc con người đến từ Đan Mạch.</Vi>
+              <En>Used to describe things originating from or associated with Denmark.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1325abd5-a197-424f-9b16-738e9f2db921" type="Noun">
+          <Vi>người Đan Mạch; tiếng Đan Mạch</Vi>
+          <En>A native or inhabitant of Denmark; the Germanic language spoken in Denmark.</En>
+          <Example>The Danish spoken in rural Jutland has distinct dialectal features.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="692e6306-ee49-4178-a702-b4fb6f7147e3">
+              <Vi>Khi nói về dân tộc, quốc tịch, hoặc ngôn ngữ Đan Mạch.</Vi>
+              <En>Used when referring to the nationality, ethnicity, or language of Denmark.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

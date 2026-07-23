@@ -1,0 +1,47 @@
+<Vocab id="aad260a8-2168-42dd-aa45-26ec05705751" word="karma" type="short" status="done">
+  <Topics>
+    <Topic id="4fb111cb-911c-4159-9901-eda3ef9dd93d" value="Religion and Philosophy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="15b15afc-84f3-4cc8-868e-8af56762aada" value="Spiritual Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0618a447-591b-4fee-83e8-7aa18a77b4c9" ipa="/ˈkɑːr.mə/" vi_ipa="ca-mơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1feb0d14-e2ed-4289-bf01-ed6772669427" type="Noun">
+          <Vi>Nghiệp (trong tôn giáo Đông phương), kết quả tốt hoặc xấu từ hành động trong kiếp này hoặc kiếp trước</Vi>
+          <En>The sum of a person's actions in this and previous lives, determining their fate in future existences, especially in Hinduism and Buddhism</En>
+          <Example>She believes that her good karma will eventually bring her happiness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7479417-a829-4658-84fc-5c452d9dfa26">
+              <Vi>Người ta nói về nghiệp báo khi giải thích tại sao một người gặp may hoặc xui xẻo.</Vi>
+              <En>Used when explaining why someone experiences good or bad fortune, often in spiritual or philosophical discussions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="05aa8d69-4807-427c-84d6-bbd7cc9be58d" type="Noun">
+          <Vi>Tác động luân lý; hệ quả tự nhiên của hành vi (dùng trong ngữ cảnh hiện đại, không tôn giáo)</Vi>
+          <En>The idea that good or bad actions will eventually lead to corresponding consequences in one’s life, often used in secular or metaphorical contexts</En>
+          <Example>He always helps others—his karma has definitely paid off in his career.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5a3ad75-03c4-491f-84e6-bc03f9f56a6a">
+              <Vi>Người ta dùng "karma" để nói về sự công bằng tự nhiên trong cuộc sống, không cần tôn giáo.</Vi>
+              <En>Used in everyday conversation to express the belief that people get what they deserve over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
