@@ -1,0 +1,54 @@
+<Vocab id="0e34d141-c3f4-4785-bd6b-9c7e7a6fa8cf" word="thunder" type="short" status="done">
+  <Topics>
+    <Topic id="b36cd01f-dcdb-4a31-8224-06ba3ee1b93f" value="Weather/Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="833316da-0478-42a6-b51a-fb21c178004c" value="Aviator" />
+    <Profession id="1c6250de-656f-4f7d-b37b-236d88555500" value="Outdoor Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2e1d0552-79db-43c5-84e6-2da7fec6b816" ipa="/ˈθʌn.dər/" vi_ipa="thàn-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e4ee6ac3-6e7f-4c80-853b-2f78a030d932" type="Noun">
+          <Vi>Chớp sấm; tiếng sấm</Vi>
+          <En>The loud sound produced during a thunderstorm, caused by the rapid expansion of air heated by lightning.</En>
+          <Example>The thunder startled the dog, and it ran under the couch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5d9e0b2-46e3-4c5a-b52c-6f3532fc1987">
+              <Vi>Mô tả âm thanh vang động dữ dội trong cơn giông.</Vi>
+              <En>Describing the loud, rumbling sound accompanying lightning during a storm.</En>
+            </Situation>
+            <Situation id="9f626905-8a39-4410-8c49-260501137451">
+              <Vi>Ngôn ngữ ẩn dụ chỉ sự đe dọa hoặc uy lực mạnh mẽ.</Vi>
+              <En>Used metaphorically to indicate a looming threat or overwhelming force.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c5695e29-28ed-43f7-91e4-301a8bc9b4e1" type="Verb">
+          <Vi>Phát ra tiếng sấm; rền vang như tiếng sấm</Vi>
+          <En>To make a loud, rumbling sound like thunder; also, to speak or move in a very loud, forceful, or intimidating way.</En>
+          <Example>The clouds thundered as the storm approached the coast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56e8e1fd-24d8-4212-b0df-a6406ef5e15d">
+              <Vi>Mô tả hành động của thiên nhiên trong giông bão.</Vi>
+              <En>Describing the natural phenomenon of thunder occurring during a storm.</En>
+            </Situation>
+            <Situation id="252da01d-4edf-4961-aa20-ef8c452e070e">
+              <Vi>Dùng ẩn dụ để nói về giọng nói hoặc hành động mạnh mẽ, đe dọa.</Vi>
+              <En>Used metaphorically to describe someone speaking or acting in a loud, commanding, or intimidating manner.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

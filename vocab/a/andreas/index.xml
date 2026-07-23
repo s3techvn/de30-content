@@ -1,0 +1,32 @@
+<Vocab id="21a5fc78-4ff5-42fd-98c9-faa90467ef73" word="andreas" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="518a3ab7-0e1f-41ea-b30e-b5d16b600ef1" ipa="/ˈæn.dri.əs/" vi_ipa="an-dri-át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ecedf42c-6c9c-4367-a26d-0f4cda1da7da" type="Proper Noun">
+          <Vi>Tên riêng nam giới, bắt nguồn từ tiếng Hy Lạp, nghĩa là “người nam tính”, “người dũng cảm”.</Vi>
+          <En>A masculine given name of Greek origin, meaning “manly” or “brave”.</En>
+          <Example>Andreas is a popular name in Germany and Scandinavian countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b27300a-d9e0-4248-9977-ed3b2e978ab6">
+              <Vi>Dùng khi giới thiệu hoặc nhắc đến một người tên Andreas trong văn nói hoặc văn viết.</Vi>
+              <En>Used when introducing or referring to a person named Andreas in speech or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
