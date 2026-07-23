@@ -1,0 +1,39 @@
+<Vocab id="2631a5d1-3814-42cb-a8cb-a2cffdadffe0" word="respectively" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="67a04c9e-5613-4643-aaba-1f1626908fbf" value="Formal Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="85de898b-858a-4015-9150-874569d6247e" value="Academic / Researcher" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08e26c7a-58e2-4945-95ae-b555014d2d62" ipa="/rɪˈspɛk.tɪ.vliː/" vi_ipa="rít-phec-tí-vli">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="314c74e6-ccef-4846-98df-2ef8b24708bc" type="Adverb">
+          <Vi>lần lượt; tương ứng theo thứ tự đã nêu</Vi>
+          <En>used to indicate that items or names mentioned earlier are to be understood in the order given.</En>
+          <Example>The authors are John, Mary, and Tom, respectively.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="664ebb96-ea45-444e-9e52-d0b6e9e5c668">
+              <Vi>Dùng khi liệt kê các phần tử và muốn nhấn mạnh rằng chúng được áp dụng theo đúng thứ tự đã nêu trước đó.</Vi>
+              <En>Used when listing items and emphasizing that they correspond in the exact order previously mentioned.</En>
+            </Situation>
+            <Situation id="67f22ff8-1aa1-4609-aa86-275e052f2702">
+              <Vi>Thường xuất hiện trong văn bản học thuật, báo cáo khoa học, hoặc hợp đồng pháp lý để tránh hiểu lầm về thứ tự.</Vi>
+              <En>Commonly used in academic writing, scientific reports, or legal documents to prevent ambiguity about order.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

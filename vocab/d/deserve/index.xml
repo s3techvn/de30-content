@@ -1,0 +1,33 @@
+<Vocab id="5a09f7c1-d908-4849-8db7-03f22856eebe" word="deserve" type="short" status="done">
+  <Topics>
+    <Topic id="40b4a6ed-5b4b-484a-962e-c6150a8cc535" value="Morality" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="cb626b57-17ad-4c73-95f9-486c8db10f8b" value="Human Resources" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="aa63b37e-3c5f-4d5f-a56f-c18f4787a366" ipa="/dɪˈzɜːrv/" vi_ipa="đi-dơ-vợ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0ff791f-91b1-47eb-8e10-1f16785cbc4a" type="Verb">
+          <Vi>đáng được, xứng đáng nhận</Vi>
+          <En>to be worthy of (a reward, punishment, or treatment)</En>
+          <Example>She deserves a promotion after working so hard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b88fe46b-3c5d-4ab2-b376-a62210c1858d">
+              <Vi>Một người nhận được phần thưởng hoặc hậu quả tương xứng với hành động của họ.</Vi>
+              <En>A person receives a reward or consequence that matches their actions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
