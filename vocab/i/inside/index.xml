@@ -1,0 +1,50 @@
+<Vocab id="77bf8e17-3ef9-4d3a-9a88-9d88633d6ec9" word="inside" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="19863bb2-ba7b-4417-935f-1e56c346ef1b" value="Space &amp; Position" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bc603140-2086-424e-91b0-e1d1336d285e" ipa="/ɪnˈsaɪd/" vi_ipa="in-sài-đây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0e73a675-90ca-4c52-a717-028ea14eec4c" type="Preposition">
+          <Vi>trong, bên trong</Vi>
+          <En>at or to a position or location within the limits or boundaries of something.</En>
+          <Example>She sat inside the car and waited for the rain to stop.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14bac04b-912d-401e-acdd-fb9689356377">
+              <Vi>Mô tả vị trí nằm trong không gian kín của một vật thể.</Vi>
+              <En>Describes a location within the enclosed space of an object.</En>
+            </Situation>
+            <Situation id="56a564e9-ed49-4fe6-8f12-22e5b3826634">
+              <Vi>Dùng để chỉ sự tham gia hoặc hiện diện trong một tổ chức, sự kiện.</Vi>
+              <En>Used to indicate participation or presence within an organization or event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="97361cd8-04ba-4650-8e46-5f9e3102e791" type="Adverb">
+          <Vi>vào trong, bên trong</Vi>
+          <En>into or toward the inner part of something.</En>
+          <Example>He looked inside for the keys but couldn’t find them.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c791147-d8fb-4583-9fe9-245d9988d6f0">
+              <Vi>Mô tả hành động di chuyển hoặc nhìn vào bên trong một không gian.</Vi>
+              <En>Describes the action of moving or looking into the inner part of a space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
