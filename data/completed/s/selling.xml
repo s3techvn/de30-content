@@ -1,0 +1,55 @@
+<Vocab id="b45e89c3-1d16-488d-839a-90b55521321b" word="selling" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08c3ebb6-3378-4604-821f-92e973a59760" ipa="/ˈsel.ɪŋ/" vi_ipa="xen-linh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="66193437-d678-4068-8edf-aacb8cc05f23" type="Verb">
+          <Vi>bán (hàng), quảng cáo để bán</Vi>
+          <En>to offer goods or services for sale; to persuade someone to buy something</En>
+          <Example>She is selling her old car for $5,000.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a347444-965a-4154-ad62-27da54326951">
+              <Vi>Một người đang đàm phán giá với khách hàng tại cửa hàng.</Vi>
+              <En>A person negotiating price with a customer in a store.</En>
+            </Situation>
+            <Situation id="85621f48-073b-4b82-b41f-815790f2043b">
+              <Vi>Quảng cáo sản phẩm trên mạng để thu hút người mua.</Vi>
+              <En>Promoting a product online to attract buyers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0e3158c2-94ab-420d-8bf8-5aa48e048dba" type="Verb (Gerund/Participle)">
+          <Vi>đang bán; được bán; (trong ngữ cảnh hiện tại) đang nỗ lực bán</Vi>
+          <En>the present participle of 'sell'; used in continuous tenses or as an adjective (e.g., 'selling price')</En>
+          <Example>The selling price includes a 10% discount.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="579e3b08-6cda-457f-a4c3-eb8d7bb7e207">
+              <Vi>Trong báo cáo tài chính, "selling price" chỉ giá bán thực tế.</Vi>
+              <En>In financial reports, "selling price" refers to the actual price at which goods are sold.</En>
+            </Situation>
+            <Situation id="8ba30108-6211-4e5c-afe4-ee138abac167">
+              <Vi>Câu "He is selling his house" mô tả hành động đang diễn ra.</Vi>
+              <En>The sentence "He is selling his house" describes an action in progress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
