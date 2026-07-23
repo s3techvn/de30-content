@@ -1,0 +1,40 @@
+<Vocab id="0faed613-188a-4b44-8eb9-fddd23f048af" word="athens" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9a755c2e-7c9a-4e7b-9a25-0aa96b1c6a7d" ipa="/ˈæθ.ɪnz/" vi_ipa="át-hin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="874394c5-8148-4da6-9d26-e620212327a8" type="Noun">
+          <Vi>Athens</Vi>
+          <En>The capital and largest city of Greece, known for its ancient history, philosophy, and landmarks such as the Acropolis.</En>
+          <Example>Many tourists visit Athens to see the Parthenon on the Acropolis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e9deae72-ac08-4890-9e57-bb8d85a50a37">
+              <Vi>Thành phố thủ đô của Hy Lạp, nổi tiếng với di sản văn hóa và kiến trúc cổ đại.</Vi>
+              <En>The capital city of Greece, famous for its ancient cultural and architectural heritage.</En>
+            </Situation>
+            <Situation id="802190d2-7583-41e7-bba3-8d14acb0e25a">
+              <Vi>Trung tâm lịch sử và triết học phương Tây.</Vi>
+              <En>A historical and philosophical center of the Western world.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
