@@ -1,0 +1,50 @@
+<Vocab id="57118097-c802-4d75-90e2-d898ca6b8f86" word="infectious" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="52604370-b809-48f8-b761-85299971b378" value="Epidemiologist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e57447c-3bd2-42b7-ae6e-eda0e799f0ec" ipa="/ɪnˈfɛk.ʃəs/" vi_ipa="in-féc-sơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f37a4f70-517e-4735-90a4-431422bc3428" type="Adjective">
+          <Vi>Lây nhiễm; gây bệnh truyền nhiễm</Vi>
+          <En>Capable of being transmitted from one person or organism to another, especially by direct or indirect contact with pathogens.</En>
+          <Example>The flu is highly infectious, especially during the first few days of symptoms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e686dc7-62a0-4fee-8c65-b25a80f1e9d3">
+              <Vi>Mô tả bệnh có khả năng lây lan nhanh trong cộng đồng.</Vi>
+              <En>Describing a disease that spreads easily among people.</En>
+            </Situation>
+            <Situation id="593b5a67-aa0b-4db3-89c7-ee052a8527e5">
+              <Vi>Dùng để nói về một vi khuẩn, virus hoặc mầm bệnh có khả năng xâm nhập và gây bệnh.</Vi>
+              <En>Referring to a pathogen that can invade hosts and cause illness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7dc10410-ab7b-4163-a149-4c393273e825" type="Adjective">
+          <Vi>Lây lan, lan tỏa mạnh (nghĩa bóng, thường về cảm xúc, năng lượng, v.v.)</Vi>
+          <En>Spreading rapidly and widely, especially in a figurative sense (e.g., laughter, enthusiasm).</En>
+          <Example>Her infectious laughter made everyone in the room smile.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5152470-5792-4777-af2f-d8bf446912fe">
+              <Vi>Mô tả một cảm xúc tích cực lan tỏa mạnh mẽ trong nhóm người.</Vi>
+              <En>Describing a positive emotion (e.g., joy, excitement) spreading quickly among people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

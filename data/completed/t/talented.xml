@@ -1,0 +1,42 @@
+<Vocab id="51832097-7985-4928-a119-f7e3338396f6" word="talented" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="4b4b5068-9afb-4398-b496-a7c98a85e55a" value="Careers" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e414a5e7-375b-40c4-bafe-5bf8a50b97ed" ipa="/ˈtæl.ənt.ɪd/" vi_ipa="tờ-lént-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="949b91b5-aa05-4303-8d2a-915ee134e435" type="Adjective">
+          <Vi>Có năng khiếu; có tài năng; xuất sắc</Vi>
+          <En>Having a natural ability to do something well, especially in a creative or intellectual area.</En>
+          <Example>She is a talented musician who started composing at age seven.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c33bc8b-59e1-4339-9739-c6fbc4919afe">
+              <Vi>Mô tả một người có khả năng bẩm sinh vượt trội trong một lĩnh vực cụ thể.</Vi>
+              <En>Describing someone who shows exceptional natural ability in a particular field.</En>
+            </Situation>
+            <Situation id="1373b27e-6ea6-4d1e-ae2a-64dbab1a91df">
+              <Vi>Dùng để khen ngợi thành tích hoặc tiềm năng của cá nhân trong học tập, nghệ thuật, thể thao.</Vi>
+              <En>Used to praise someone’s achievements or potential in academics, arts, or sports.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
