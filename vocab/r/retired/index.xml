@@ -1,0 +1,36 @@
+<Vocab id="2ecd20c9-5b03-476d-ae67-ad348b97a5f1" word="retired" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3184ad3c-a975-4080-b361-661e861d7c27" ipa="/rɪˈtaɪ.ərd/" vi_ipa="rị-tái-ơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b3168050-84bd-4d03-b938-de7848c5c2b4" type="Adjective">
+          <Vi>đã nghỉ hưu</Vi>
+          <En>no longer working, typically because of age or health, having left one’s job or profession permanently.</En>
+          <Example>My grandfather is retired and spends his days gardening.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b39df7d-1596-460f-927d-7fc869040a11">
+              <Vi>Mô tả người từng làm việc nhưng hiện không còn làm do đã đủ tuổi hoặc lý do sức khỏe.</Vi>
+              <En>Describes a person who previously worked but no longer does so, typically due to age or health reasons.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

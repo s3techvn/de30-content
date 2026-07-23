@@ -1,0 +1,38 @@
+<Vocab id="321eed18-f18d-48a0-b548-8cb1ce3b1337" word="likewise" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5777c29e-40b8-4d08-94b8-cf3140b7b1fa" ipa="/ˈlɪk.waɪz/" vi_ipa="lích-ơi-dz">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de10fb9a-9e25-4eb3-87ab-5873e52733d5" type="Adverb">
+          <Vi>Cũng như vậy, tương tự như vậy</Vi>
+          <En>In the same way; also; similarly</En>
+          <Example>I enjoyed the movie, and likewise, my friends did.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d87530c5-3410-457b-bbab-5187be65cb46">
+              <Vi>Phản hồi lại một lời khen hoặc cảm xúc tích cực từ người khác một cách lịch sự.</Vi>
+              <En>Responding politely to a compliment or positive sentiment expressed by someone else.</En>
+            </Situation>
+            <Situation id="8161c767-21cb-426a-a917-d7fcf6be54c7">
+              <Vi>So sánh hai tình huống hoặc hành động có tính chất tương đồng.</Vi>
+              <En>Comparing two situations or actions that share similar characteristics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
