@@ -1,0 +1,46 @@
+<Vocab id="34763c70-8b5f-49bf-b135-7d969b6e9653" word="greater" type="short" status="done">
+  <Topics>
+    <Topic id="9a23716e-b83b-4876-846a-4e36e9aa82f4" value="Comparison" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3fe1c4b9-1928-446b-b88b-c1b9e17f76d8" ipa="/ˈɡreɪ.t̬ɚ/" vi_ipa="gờ-rây-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3335adfa-9774-4d57-ae4a-2b0fbd7adbc7" type="Adjective">
+          <Vi>lớn hơn, cao hơn, mạnh hơn (so sánh hơn của great/great)</Vi>
+          <En>more than (a specified amount or degree); larger in size, amount, or extent</En>
+          <Example>The population of this city is greater than that of the capital.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68c2ea2a-094b-455f-84a3-07d82d662873">
+              <Vi>So sánh hai đại lượng, ví dụ như số lượng, kích thước, mức độ.</Vi>
+              <En>Comparing two quantities, such as size, amount, or degree.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4cf4f95f-0762-4cfb-92d6-e137bdc57770" type="Adjective">
+          <Vi>quan trọng hơn, có giá trị cao hơn (trong thứ bậc hoặc ưu tiên)</Vi>
+          <En>more important, serious, or significant</En>
+          <Example>She has greater responsibilities now that she’s team leader.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="16a1db8b-ef6e-4423-8154-91820c8d62fa">
+              <Vi>Đánh giá mức độ quan trọng hoặc mức độ ưu tiên trong công việc hoặc đời sống.</Vi>
+              <En>Evaluating importance or priority in work or daily life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
