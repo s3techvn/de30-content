@@ -1,0 +1,56 @@
+<Vocab id="8f8e9d73-ab46-438b-9dff-a7ce49a7cc13" word="plenty" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="458253bc-64e2-4eff-b396-c6932a907934" value="General Conversation" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1aa3c8d4-6b49-443a-8832-1daafe4c057f" ipa="/ˈplen.ti/" vi_ipa="plen-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6345f53-99a2-40d1-9e97-05096a85eaa6" type="Noun">
+          <Vi>Nhiều, dồi dào (dùng trong ngữ cảnh không chính thức, thường với "of")</Vi>
+          <En>An abundant amount of something; more than enough</En>
+          <Example>There’s plenty of food for everyone at the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="95673933-7c5c-48fd-a705-3f96bce0946f">
+              <Vi>Mô tả sự dư dả về số lượng, thường trong giao tiếp hàng ngày.</Vi>
+              <En>Used in casual speech to indicate more than sufficient quantity.</En>
+            </Situation>
+            <Situation id="257fb12b-9072-4f3d-921c-17322a952b4c">
+              <Vi>Dùng trong câu hỏi hoặc lời mời: "Bạn có muốn thêm không?"</Vi>
+              <En>Used in offers or questions: “Do you want some more?”</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="41ec0920-2928-4fbb-aa76-9816deff2e62" type="Adverb">
+          <Vi>Rất nhiều, dồi dào (trạng từ chỉ mức độ)</Vi>
+          <En>In a large amount or number; more than enough</En>
+          <Example>We have plenty of time before the meeting starts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2bc945fd-eca0-445d-af42-9b58e784e6a9">
+              <Vi>Mô tả sự đủ đầy về thời gian, không gian, hoặc nguồn lực.</Vi>
+              <En>Describes sufficient or excessive time, space, or resources.</En>
+            </Situation>
+            <Situation id="7f425065-582c-4393-a615-77501044c52d">
+              <Vi>Trong phản hồi tích cực khi ai đó lo lắng về thiếu thốn.</Vi>
+              <En>Used reassuringly when someone is worried about scarcity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
