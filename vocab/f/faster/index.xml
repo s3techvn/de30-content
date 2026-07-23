@@ -1,0 +1,32 @@
+<Vocab id="9b2064d1-152e-4a97-8ef6-a0707c217a89" word="faster" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e4238f01-c575-4af6-8fea-36624a016dfa" ipa="/ˈfæs.tər/" vi_ipa="phàt-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7a088ceb-8820-4172-b4e9-f92938f397a2" type="Adjective">
+          <Vi>nhanh hơn</Vi>
+          <En>more rapid or swift in movement or action; having a higher speed.</En>
+          <Example>She ran faster than her opponent in the race.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="722de512-c40a-4200-a38c-d7d0eacbb1de">
+              <Vi>Mô tả người hoặc vật di chuyển hoặc hành động với tốc độ cao hơn so với chuẩn hoặc so với cái khác.</Vi>
+              <En>Describes a person or object moving or acting with greater speed than usual or compared to another.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

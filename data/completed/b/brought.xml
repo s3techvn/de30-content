@@ -1,0 +1,36 @@
+<Vocab id="630dd5f2-972c-4e46-8e8b-fd157ff42e95" word="brought" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="841ec209-66f3-4d09-acc6-ebb56b0760f4" ipa="/brɔːt/" vi_ipa="brốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="13ad4054-9994-4f7a-ac66-ed76789d989d" type="Verb">
+          <Vi>đưa, mang đến</Vi>
+          <En>to carry or take something or someone to a place, especially as a result of a journey or movement.</En>
+          <Example>She brought a gift to the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1859990-318e-43fe-a8b4-7d4cebc7e1eb">
+              <Vi>Mô tả hành động mang đồ vật từ nơi này đến nơi khác.</Vi>
+              <En>Describes the action of carrying an object from one place to another.</En>
+            </Situation>
+            <Situation id="a177fe67-dcd1-4c80-8215-956e1238c87d">
+              <Vi>Dùng trong ngữ cảnh nhắc đến việc ai đó đã mang điều gì đó cho người khác.</Vi>
+              <En>Used when referring to someone having carried something for another person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
