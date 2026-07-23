@@ -719,4 +719,5 @@
   <Profession id="e5dad9a4-d273-4367-85aa-bed6eb8a6b2b" slug="biomedical-researcher" value="Biomedical Researcher" />
   <Profession id="eb939d34-35e5-456d-aa97-e43c850794e5" slug="energy-consultant" value="Energy Consultant" />
   <Profession id="52604370-b809-48f8-b761-85299971b378" slug="epidemiologist" value="Epidemiologist" />
+  <Profession id="1af82273-32ec-44e7-833a-99df516dc53b" slug="anesthesiologist" value="Anesthesiologist" />
 </Professions>
