@@ -1,0 +1,54 @@
+<Vocab id="8d171111-f369-4abd-b9a2-acd541b74213" word="study" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a812fd6e-f7ed-45e2-a82d-66ecb82e2a18" ipa="/ˈstʌd.i/" vi_ipa="x-t-đ-ư-ơi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6ea17ba1-3693-4150-98e8-c64f2e020cb7" type="Verb">
+          <Vi>Học, nghiên cứu, ôn tập</Vi>
+          <En>To gain knowledge or skill by gaining information, practicing, or engaging in academic work.</En>
+          <Example>She studies biology every evening to prepare for her exams.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="102586b0-62c2-41c6-9f9d-945bcf19110f">
+              <Vi>Học sinh đọc sách và làm bài tập để hiểu bài.</Vi>
+              <En>A student reads textbooks and completes exercises to understand the lesson.</En>
+            </Situation>
+            <Situation id="fc4b897b-37f0-4fd6-a82c-fe17455f5d0a">
+              <Vi>Sinh viên nghiên cứu tài liệu trong thư viện.</Vi>
+              <En>A university student researches materials in the library.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="15726a48-bd99-493a-83d2-909f94b49ac6" type="Verb">
+          <Vi>Nghiên cứu kỹ lưỡng, xem xét cẩn thận</Vi>
+          <En>To examine or consider something carefully and thoroughly.</En>
+          <Example>The detective studied the crime scene for clues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="969227f9-3fe7-4167-bfcb-8ee66da48c57">
+              <Vi>Kỹ sư nghiên cứu bản vẽ trước khi thi công.</Vi>
+              <En>The engineer studied the blueprints before construction began.</En>
+            </Situation>
+            <Situation id="361ae53b-d9d5-4698-a168-e4766436e8fc">
+              <Vi>Nhà khoa học nghiên cứu dữ liệu thí nghiệm.</Vi>
+              <En>The scientist studied the experimental data for patterns.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
