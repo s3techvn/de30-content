@@ -574,4 +574,5 @@
   <Profession id="db3ee18d-10f0-4942-b28a-532ffa2f0027" slug="tourist-guide" value="Tourist Guide" />
   <Profession id="587267fc-3e6f-4bba-9f13-35d519a61c05" slug="hiring-manager" value="Hiring Manager" />
   <Profession id="14d79e08-b5b1-44d5-b2bb-daef1af587b0" slug="textile-artist" value="Textile Artist" />
+  <Profession id="eb14aa35-6b83-4d49-833c-c77fdeb752bd" slug="space-scientist" value="Space Scientist" />
 </Professions>

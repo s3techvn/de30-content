@@ -1,0 +1,38 @@
+<Vocab id="82da0ec1-86ef-4aa5-b645-55ea6c631534" word="planet" type="short" status="done">
+  <Topics>
+    <Topic id="b206002e-7e19-4765-9f59-788f22d0207e" value="Astronomy" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="24148d70-1ba2-4ecd-a877-f8d3ef09dd83" value="Astrophysicist" />
+    <Profession id="eb14aa35-6b83-4d49-833c-c77fdeb752bd" value="Space Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9535db57-5df5-4721-ae5d-4c63eb33e614" ipa="/ˈplæn.ɪt/" vi_ipa="plờ-nét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2952f826-1728-442a-bc9b-4abda5b77852" type="Noun">
+          <Vi>hành tinh</Vi>
+          <En>A large celestial body that orbits a star and has cleared its orbital path of other debris.</En>
+          <Example>The Earth is the third planet from the Sun.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dafa89db-5510-4f0b-b26f-d2b609fc4186">
+              <Vi>Trong mô hình Hệ Mặt Trời, có tám hành tinh chính.</Vi>
+              <En>In the Solar System, there are eight major planets.</En>
+            </Situation>
+            <Situation id="ae4521cc-032e-4c3a-b685-28f3cd88f59f">
+              <Vi>Nhà thiên văn học phát hiện một hành tinh ngoài Hệ Mặt Trời.</Vi>
+              <En>The astronomer discovered an exoplanet outside the Solar System.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
