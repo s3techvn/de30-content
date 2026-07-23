@@ -1,0 +1,57 @@
+<Vocab id="8b35cc83-5b56-479b-ae87-9ec1293cea77" word="authority" type="short" status="done">
+  <Topics>
+    <Topic id="ffd7e5f9-8473-429d-a552-4dc3a5ad28dc" value="Law &amp; Governance" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" value="Government Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b53c3caa-3c1a-4fee-8011-21add8f1aa0b" ipa="/əˈθɔːr.ə.ti/" vi_ipa="ơ-thô-ri-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a2115604-800b-42ef-84ae-e598e7aff35f" type="Noun">
+          <Vi>Quyền lực; thẩm quyền; cơ quan có thẩm quyền</Vi>
+          <En>The power or right to give orders, make decisions, and enforce obedience; an organization or person having administrative or regulatory authority.</En>
+          <Example>The manager has the authority to approve overtime requests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08921ecd-515a-4126-9067-953b9a61c5d4">
+              <Vi>Cảnh sát yêu cầu giấy tờ vì họ có thẩm quyền kiểm tra.</Vi>
+              <En>The police requested documents because they have the authority to conduct checks.</En>
+            </Situation>
+            <Situation id="7ba55ad3-1ccb-4a4c-8c69-185a719e04ea">
+              <Vi>Chính phủ ban hành quy định dựa trên luật pháp và thẩm quyền hiện hành.</Vi>
+              <En>The government issued regulations based on existing laws and authority.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="32d93792-29d1-4849-aac3-8bad358e60f7" type="Noun">
+          <Vi>Chuyên gia uy tín; nguồn tham khảo đáng tin cậy</Vi>
+          <En>A person who is an expert in a particular subject and is respected for their knowledge or opinion.</En>
+          <Example>She is considered an authority on climate change policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9cc152c6-a01e-45c3-951b-0eaf454828a3">
+              <Vi>Giáo sư Nguyễn Văn A là một chuyên gia uy tín trong lĩnh vực y học.</Vi>
+              <En>Professor Nguyen Van A is an authority in the field of medicine.</En>
+            </Situation>
+            <Situation id="aab9ff35-74f4-492b-addf-a1aa61774f98">
+              <Vi>Tờ báo này trích dẫn ý kiến của một chuyên gia hàng đầu về kinh tế.</Vi>
+              <En>The newspaper quoted the opinion of an authority on economics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
