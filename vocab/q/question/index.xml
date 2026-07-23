@@ -1,0 +1,78 @@
+<Vocab id="897540d7-3aa5-4243-a928-096b602c37dd" word="question" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ed8b8613-c9d1-4ea5-9855-79c3d0e0b8ff" ipa="/ˈkwes.tʃən/" vi_ipa="cờ-sết-chơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c81c72d5-3cd6-4ce9-a4dd-9702bc25b85a" type="Noun">
+          <Vi>Câu hỏi</Vi>
+          <En>A sentence worded or expressed so as to elicit information, a request for information, or a test of knowledge.</En>
+          <Example>She asked a difficult question during the interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="762b1454-7b1d-495f-be93-0b205acf11a0">
+              <Vi>Học sinh giơ tay đặt câu hỏi sau khi giáo viên giảng bài.</Vi>
+              <En>A student raises their hand to ask a question after the teacher finishes explaining a lesson.</En>
+            </Situation>
+            <Situation id="eb8abde5-8b42-4de8-9495-1c0fb7ad098c">
+              <Vi>Báo chí đặt câu hỏi khó cho chính trị gia trong buổi phỏng vấn.</Vi>
+              <En>The press asks tough questions to the politician during the interview.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="56f25000-72eb-4ae7-890f-063ba1872489" type="Noun">
+          <Vi>Vấn đề, sự nghi ngờ</Vi>
+          <En>A matter or issue that is being discussed, debated, or doubted.</En>
+          <Example>The question of climate change is increasingly urgent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14c817fd-0885-4150-aa4f-b32d13739f0e">
+              <Vi>Đây là một câu hỏi còn đang tranh luận trong giới học thuật.</Vi>
+              <En>This is a question still under debate in academic circles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5bd38f0f-550d-4f1e-88e5-3e163e281c05" ipa="/ˈkwes.tʃən/" vi_ipa="cờ-sết-chơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2639659-28de-41bd-b033-a3ca57387de8" type="Verb">
+          <Vi>Đặt câu hỏi; chất vấn, nghi ngờ</Vi>
+          <En>To ask a question; to express doubt about the truth or accuracy of something.</En>
+          <Example>The lawyer questioned the witness’s testimony.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71cf67fb-32a8-4b8d-92ca-f93d08965dcc">
+              <Vi>Bạn có dám chất vấn quyết định của cấp trên không?</Vi>
+              <En>Do you dare question your manager’s decision?</En>
+            </Situation>
+            <Situation id="608c971e-219e-482d-a5f8-88a901ce7ce8">
+              <Vi>Các nhà khoa học đang chất vấn giả thuyết ban đầu.</Vi>
+              <En>Scientists are questioning the initial hypothesis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
