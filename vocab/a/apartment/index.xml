@@ -1,0 +1,40 @@
+<Vocab id="07da2606-17c4-42b0-82c4-8e17e2b3da83" word="apartment" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+    <Topic id="d3de48af-a48b-48cc-8860-f4374a620c6d" value="Housing" />
+  </Topics>
+  <Professions>
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="ebbf464e-8b28-437e-a6df-60676ba4be10" value="Property Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71e941ed-48fc-41cf-b8c9-39186a8122a8" ipa="/əˈpɑːrt.mənt/" vi_ipa="ơ-pha-t-mơnt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96397cfd-8b1a-4847-ac0f-9f3a82aae228" type="Noun">
+          <Vi>Căn hộ (chung cư)</Vi>
+          <En>A self-contained housing unit that occupies only part of a building, typically on one floor, and usually includes a bedroom, bathroom, kitchen, and living area.</En>
+          <Example>She rents a two-bedroom apartment in the downtown area.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cfc210a6-a5f1-4543-a048-30d252a3a782">
+              <Vi>Mô tả nơi ở phổ biến ở thành phố, thường thuê thay vì mua.</Vi>
+              <En>Describes a common type of urban residence, usually rented rather than owned.</En>
+            </Situation>
+            <Situation id="3edbb922-e8a6-4dd8-a406-26e06c31389c">
+              <Vi>Thường được tìm thấy trong các tòa nhà cao tầng hoặc chung cư.</Vi>
+              <En>Typically found in multi-story or apartment buildings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

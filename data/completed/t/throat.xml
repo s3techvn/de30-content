@@ -1,0 +1,50 @@
+<Vocab id="7f7875da-fa05-49a3-ade9-ff1542137711" word="throat" type="short" status="done">
+  <Topics>
+    <Topic id="8279f5de-c99d-410b-9268-00355e053853" value="Anatomy &amp; Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="e5eea47f-9706-4773-9915-55b81225db2e" value="Speech Therapist" />
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a0821452-a91c-40be-8122-97826a70249b" ipa="/θroʊt/" vi_ipa="thrô-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2ca088a-f8da-4699-86be-e96c876e40c5" type="Noun">
+          <Vi>Cổ họng</Vi>
+          <En>The tube in the neck through which food and air pass, or the front part of the neck, especially when considered as a site of swallowing, breathing, or vocalization.</En>
+          <Example>She cleared her throat before speaking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e32a5fd4-9cd8-4a90-b819-f99b51bf1af9">
+              <Vi>Mô tả vị trí đau hoặc khó chịu ở vùng cổ trước.</Vi>
+              <En>Describing pain or discomfort in the front of the neck.</En>
+            </Situation>
+            <Situation id="cdf7ee44-22f8-4258-995f-68016b406fd8">
+              <Vi>Hành động khạc, ho hoặc nói chuyện qua cổ họng.</Vi>
+              <En>Actions such as clearing the throat, coughing, or vocalizing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="37e38bf2-fd92-4b4e-a5d3-6c220f051d40" type="Verb">
+          <Vi>Khàn giọng; nói khàn; nuốt vướng</Vi>
+          <En>To speak in a hoarse or strained voice; to clear one’s throat audibly.</En>
+          <Example>He throat-clearing loudly before delivering his speech.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a715631-3e66-44a0-95b3-3bb1bf985823">
+              <Vi>Người nói cố làm rõ giọng trước khi phát biểu.</Vi>
+              <En>A speaker clears their throat to prepare for speaking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
