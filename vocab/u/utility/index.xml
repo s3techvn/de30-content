@@ -1,0 +1,52 @@
+<Vocab id="c50371bc-0ea0-4d9e-b9ad-1a2a4f25efef" word="utility" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="962899d6-755b-486b-ba6b-b9c4ff54406b" ipa="/juːˈtɪl.ə.ti/" vi_ipa="yu-ti-lít-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c629aea0-631e-4604-9e3b-6add3c3bd8e6" type="Noun">
+          <Vi>tiện ích; công dụng; tiện lợi</Vi>
+          <En>The quality of being useful; something designed to serve a practical purpose.</En>
+          <Example>The smartphone’s utility includes GPS, camera, and internet access.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8e2ec76c-aff5-4686-bf54-95f26a28a5c1">
+              <Vi>Mô tả mức độ hữu ích của một sản phẩm hoặc tính năng trong đời sống.</Vi>
+              <En>Describing how useful a product or feature is in daily life.</En>
+            </Situation>
+            <Situation id="f088bde5-db22-4d27-9eb6-ac318ac710e3">
+              <Vi>Chỉ các dịch vụ thiết yếu như điện, nước, internet.</Vi>
+              <En>Refers to essential services such as electricity, water, and internet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d6ef57ae-dfba-4be2-beed-a0bc45068de6" type="Noun">
+          <Vi>phần mềm tiện ích (utility software)</Vi>
+          <En>Software designed to help analyze, configure, optimize, or maintain a computer system.</En>
+          <Example>Antivirus programs and disk cleanup tools are examples of utility software.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13e17b3a-2a29-4426-b511-c29f797f69a0">
+              <Vi>Người dùng cài đặt phần mềm tiện ích để bảo vệ và tối ưu hóa máy tính.</Vi>
+              <En>Users install utility software to protect and optimize their computer systems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="c72287cc-ded4-4425-81fb-e0f75b1ac7cd" word="different" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fe7c37d1-d090-4e81-a2df-1adca720d9ab" ipa="/ˈdɪf.ər.ənt/" vi_ipa="đíp-hờ-rơn-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a53b6690-4784-44ce-a6ee-371f318c1acb" type="Adjective">
+          <Vi>khác, khác biệt</Vi>
+          <En>not the same as something else; unlike something</En>
+          <Example>Her opinion is different from mine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64f3588f-3ecf-4c7e-8bde-620773b7191e">
+              <Vi>Mô tả sự khác biệt về đặc điểm, quan điểm, hoặc tính chất giữa hai hoặc nhiều thứ.</Vi>
+              <En>Describing differences in characteristics, opinions, or qualities between two or more things.</En>
+            </Situation>
+            <Situation id="190860f6-b153-46f6-8d3b-803a92fccd80">
+              <Vi>Chỉ sự không đồng nhất trong lựa chọn, phong cách, hoặc kết quả.</Vi>
+              <En>Indicates inconsistency in choice, style, or outcome.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
