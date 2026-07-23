@@ -1,0 +1,40 @@
+<Vocab id="acc36fed-5baa-4f59-b1ae-a1f4fec4b487" word="federation" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="f8618328-c944-4fe6-841e-4518d9d0bdde" value="International Relations" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" value="Political Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6ac63d22-27d3-42f7-8897-56cfcf7af521" ipa="/ˌfed.əˈreɪ.ʃən/" vi_ipa="phết-đờ-rây-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="122ca1ab-58b6-4c89-b520-28ff17c1cb91" type="Noun">
+          <Vi>Liên bang; liên minh các bang hoặc quốc gia</Vi>
+          <En>A union of states or organizations formed for mutual benefit or shared goals, typically with a central government while retaining some autonomy for constituent parts.</En>
+          <Example>The United States is a federal republic, where power is shared between the national government and individual states.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b3c2f5a-6bb6-434a-a3bd-4a369feebd77">
+              <Vi>Mô tả một thể chế chính trị trong đó nhiều bang hoặc quốc gia hợp nhất dưới một chính quyền trung ương nhưng vẫn giữ quyền tự trị nhất định.</Vi>
+              <En>Describing a political system where multiple states or nations unite under a central authority while retaining partial self-governance.</En>
+            </Situation>
+            <Situation id="d349fb00-6328-4d9e-aa5d-342a48ca3442">
+              <Vi>Thường dùng khi nói về các tổ chức quốc tế hoặc liên minh thể thao có nhiều thành viên từ các quốc gia khác nhau.</Vi>
+              <En>Commonly used when referring to international organizations or sports federations composed of members from different countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
