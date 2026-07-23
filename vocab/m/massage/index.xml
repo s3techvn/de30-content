@@ -1,0 +1,54 @@
+<Vocab id="f4178ff3-1bde-46dd-825c-5c14097f285c" word="massage" type="short" status="done">
+  <Topics>
+    <Topic id="423c145e-4222-4ff6-b700-b51036bc73d9" value="Health &amp; Wellness" />
+  </Topics>
+  <Professions>
+    <Profession id="e2f93f85-dcaa-4bfb-89f7-712ad8d4a8ac" value="Massage Therapist" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="e13e0376-bad1-4f3b-a17a-0577439b6b16" value="Spa Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="900f944c-33c4-487f-a7c8-178e8c489093" ipa="/ˈmæs.ɑːʒ/" vi_ipa="mát-sa-zh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="73e251de-79be-46d2-8e60-38a47a7d13c4" type="Noun">
+          <Vi>liệu pháp xoa bóp; buổi xoa bóp</Vi>
+          <En>A treatment involving rubbing and kneading the body’s soft tissues, typically to relieve tension or pain.</En>
+          <Example>She gave herself a five-minute hand massage after typing all day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="178f4be9-179b-4d28-9483-786e95feacf6">
+              <Vi>Một người nhận liệu pháp xoa bóp tại spa để giảm căng thẳng.</Vi>
+              <En>A person receives a massage at a spa to reduce stress.</En>
+            </Situation>
+            <Situation id="131f6777-32b6-4abd-971a-f9544a8dc4d6">
+              <Vi>Người vật lý trị liệu thực hiện xoa bóp để hỗ trợ phục hồi chấn thương.</Vi>
+              <En>A physical therapist performs massage to aid in injury recovery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="15fe615c-e827-4f5d-b32d-36011e987282" type="Verb">
+          <Vi>xoa bóp; mát-xa</Vi>
+          <En>To rub and knead (part of the body) with hands or a device, especially for relaxation or therapeutic purposes.</En>
+          <Example>He massaged her shoulders to help ease the tension from a long flight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d6f12f8-3be0-4bf7-99bf-adaf3c703a00">
+              <Vi>Một người bạn xoa bóp cổ và vai cho tôi sau khi tôi ngồi làm việc cả ngày.</Vi>
+              <En>A friend massaged my neck and shoulders after I sat at work all day.</En>
+            </Situation>
+            <Situation id="39e6f539-abbf-4a9f-94e2-7b2ebfcf0df9">
+              <Vi>Người huấn luyện viên thể thao mát-xa cơ bắp cho vận động viên trước khi thi đấu.</Vi>
+              <En>The sports coach massaged the athlete’s muscles before the competition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
