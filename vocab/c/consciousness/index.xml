@@ -1,0 +1,56 @@
+<Vocab id="349a0373-0564-4295-a148-0537d5319830" word="consciousness" type="short" status="done">
+  <Topics>
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="3c9cd732-cd27-4b25-8b6e-b11ecbfed55c" value="Neuroscience" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="aec31f5f-64af-43bf-93a7-be9241770f66" value="Neuroscientist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d4823eb4-5bbe-44f1-a3ff-1b153db3ab8d" ipa="/ˈkɑːn.ʃəs.nəs/" vi_ipa="cơn-sờ-nhớ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="84e50584-832e-4b44-a992-bb51fcfa5f13" type="Noun">
+          <Vi>ý thức</Vi>
+          <En>The state of being aware of and able to perceive one's surroundings, thoughts, and feelings; the quality or state of being conscious.</En>
+          <Example>After the accident, he lost consciousness for several minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="860fcfe1-aa6b-4cfd-a463-3d2bbe25ce9f">
+              <Vi>Tình trạng tỉnh táo, nhận thức rõ môi trường xung quanh và cảm xúc bản thân.</Vi>
+              <En>The condition of being awake and aware of one's environment and internal state.</En>
+            </Situation>
+            <Situation id="91f1d4a3-bd81-49a8-9e8a-d5492fa47b89">
+              <Vi>Trạng thái tâm lý nơi một cá nhân có khả năng suy nghĩ, cảm nhận và phản ứng có chủ đích.</Vi>
+              <En>A mental state in which an individual has subjective awareness and can reflect on their own experiences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="aee9dfe1-de76-4a43-bfcd-feb4864526f8" type="Noun">
+          <Vi>sự nhận thức, ý thức (về điều gì đó)</Vi>
+          <En>Awareness or knowledge of a particular fact, issue, or situation.</En>
+          <Example>There is growing public consciousness of environmental issues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5160468-7276-4646-b20f-5b6180286190">
+              <Vi>Mức độ hiểu biết hoặc quan tâm của cộng đồng về một vấn đề xã hội.</Vi>
+              <En>The level of public understanding or concern about a social or political issue.</En>
+            </Situation>
+            <Situation id="c1ded23f-8510-4acd-8933-ff1e8cd01636">
+              <Vi>Tâm thế sẵn sàng nhận biết và phản ứng với các tín hiệu hoặc nguy cơ.</Vi>
+              <En>A mindset that enables someone to notice and respond appropriately to potential risks or opportunities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
