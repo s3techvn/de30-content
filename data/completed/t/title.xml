@@ -1,0 +1,67 @@
+<Vocab id="3aeb3793-12d3-40ad-8f7d-9b3da8e878db" word="title" type="short" status="done">
+  <Topics>
+    <Topic id="5cfaad63-2c21-4540-ba22-178d9a2b8dcf" value="Media &amp; Communication" />
+    <Topic id="428ba2f3-0dd5-4c96-b5a9-50ea9b328867" value="Law &amp; Administration" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89987cee-c801-49d1-8f47-46d0ca31935a" ipa="/ˈtaɪ.təl/" vi_ipa="tài-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9374da4d-968f-4ef5-8318-aa68353bb3b0" type="Noun">
+          <Vi>Tựa đề; danh hiệu; quyền sở hữu</Vi>
+          <En>A name given to a book, film, article, or other creative work; a honorific or legal right to possess something</En>
+          <Example>The movie’s title is *Inception*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b2ee5ee-34a3-46e2-87b4-8d1279c097e7">
+              <Vi>Tựa đề của một cuốn sách hoặc bài báo</Vi>
+              <En>The heading or name assigned to a publication or article</En>
+            </Situation>
+            <Situation id="f5d864ae-de51-42d0-9e76-d341a5c30d40">
+              <Vi>Danh hiệu quý tộc hoặc quyền sở hữu tài sản</Vi>
+              <En>A legal right to ownership, especially of land or property</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="248748c2-e0c8-4359-af11-ce4df73c976a" ipa="/ˈtaɪ.təl/" vi_ipa="tài-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="314b5860-ab32-40ae-85ad-378b0779fc13" type="Verb">
+          <Vi>Đặt tên cho; phong tước hiệu</Vi>
+          <En>To give a title to a work; to confer a title or rank on someone</En>
+          <Example>The committee voted to title the new policy “Green Future.”</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e8160e9f-955e-4207-b7ee-0c34ebd9753c">
+              <Vi>Đặt tên cho một tác phẩm nghệ thuật hoặc văn học</Vi>
+              <En>To assign a name or heading to a creative or scholarly work</En>
+            </Situation>
+            <Situation id="b36bb5cd-e82b-430b-b5c6-6fa6dbf2480f">
+              <Vi>Phong tước hiệu cho một cá nhân (thường trong nghi lễ)</Vi>
+              <En>To officially confer a title or rank, especially in formal or ceremonial contexts</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
