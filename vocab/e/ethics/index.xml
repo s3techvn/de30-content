@@ -1,0 +1,57 @@
+<Vocab id="26516432-c0dd-49c1-86d1-905374399d6f" word="ethics" type="short" status="done">
+  <Topics>
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c84f1c09-dd96-42fd-95b9-4d10e9177931" ipa="/ˈe.θɪks/" vi_ipa="i-thích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b7236cc2-927c-412d-8353-fadc43b87a59" type="Noun">
+          <Vi>Đạo đức; Nguyên tắc đạo đức</Vi>
+          <En>The moral principles that govern a person's behavior or the conducting of an activity.</En>
+          <Example>Professional ethics require doctors to maintain patient confidentiality.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b86f174-2e3f-49a8-a003-c9fd046d3ebf">
+              <Vi>Tình huống thảo luận về chuẩn mực hành xử trong công việc hoặc xã hội.</Vi>
+              <En>A situation discussing acceptable behavior in a professional or social context.</En>
+            </Situation>
+            <Situation id="5f853cc1-3c69-4ff9-9adc-fb0c841e6743">
+              <Vi>Tình huống xem xét tính đúng sai của một quyết định dựa trên giá trị đạo đức.</Vi>
+              <En>A situation evaluating whether a decision is right or wrong based on moral values.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="02101bfb-0883-43c4-8bad-a0da751eaa1e" type="Noun">
+          <Vi>Hệ thống quy tắc đạo đức (của một nhóm, tổ chức, ngành nghề)</Vi>
+          <En>The moral values and principles that form the basis of a particular code of conduct.</En>
+          <Example>The company’s code of ethics prohibits conflicts of interest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1c05b22-fcea-4b64-a5d2-0f1e4fe795f3">
+              <Vi>Tình huống nhân viên được đào tạo về quy tắc đạo đức nghề nghiệp của công ty.</Vi>
+              <En>A situation where employees are trained in the company’s professional ethical standards.</En>
+            </Situation>
+            <Situation id="857cdb5a-bdd4-4731-b03d-2a0c80f36ad3">
+              <Vi>Tình huống một ngành nghề (như y khoa, luật) xây dựng tiêu chuẩn đạo đức chung.</Vi>
+              <En>A situation where a profession (e.g., medicine, law) establishes shared ethical standards.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
