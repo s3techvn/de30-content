@@ -1,0 +1,55 @@
+<Vocab id="20f76189-2446-480e-9404-b610b143776c" word="cocktail" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+  </Topics>
+  <Professions>
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="865f1862-3bdc-47f2-884e-0f42ec575c44" ipa="/ˈkɒk.teɪl/" vi_ipa="cốc-kờ-tay">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="24e7c5ab-07c0-49df-8c2e-a38be0fd16b0" type="Noun">
+          <Vi>Đồ uống pha chế gồm hỗn hợp rượu, nước ngọt, nước ép trái cây và các thành phần khác, thường được phục vụ trong ly cao, dùng làm đồ uống khai vị hoặc giải khát.</Vi>
+          <En>A mixed drink typically made with spirits (such as gin, vodka, or whiskey) combined with other ingredients like fruit juice, sugar, bitters, or cream, often served chilled in a stemmed glass.</En>
+          <Example>She ordered a classic martini as her cocktail of choice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a74c32b-a1fa-49be-970e-f1fea8726b35">
+              <Vi>Trong các buổi tiệc tối, khách mời thường gọi cocktail để khai vị trước khi dùng bữa.</Vi>
+              <En>At evening parties, guests often order cocktails as an appetizer before the main meal.</En>
+            </Situation>
+            <Situation id="0a767e98-d13e-4a7a-8bb0-d1e09d378d74">
+              <Vi>Các bartender sáng tạo ra nhiều loại cocktail mới mỗi mùa để thu hút khách hàng.</Vi>
+              <En>Bartenders create new cocktail recipes each season to attract customers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ec5fff75-27b1-4865-a5ce-6c2d5e811254" type="Noun">
+          <Vi>Tập hợp hỗn hợp đa dạng các yếu tố (thường là không liên quan), thường được dùng để chỉ sự pha trộn không đồng nhất.</Vi>
+          <En>A mixture of diverse or incongruous elements; a heterogeneous combination.</En>
+          <Example>The city is a cocktail of cultures, languages, and traditions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a0affc73-368c-429d-a997-371f302d308d">
+              <Vi>Bản nhạc này là một sự pha trộn giữa nhạc cổ điển và nhạc điện tử.</Vi>
+              <En>This piece of music is a cocktail of classical and electronic styles.</En>
+            </Situation>
+            <Situation id="97153481-e8ce-4172-9ee8-3354d3680b67">
+              <Vi>Công ty có một đội ngũ gồm nhiều người đến từ các nền văn hóa khác nhau — một sự pha trộn thực sự.</Vi>
+              <En>The company has a team made up of people from many different cultures — a real cocktail.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

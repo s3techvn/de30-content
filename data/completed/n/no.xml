@@ -1,0 +1,60 @@
+<Vocab id="8f5ab1d7-0b21-4929-9bfa-568f3396ed6d" word="no" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f80d3dc2-adc8-43ae-8909-8375505f99ee" ipa="/noʊ/" vi_ipa="nồ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e7ca495b-ead6-4035-baff-de0d264e873b" type="Interjection">
+          <Vi>không</Vi>
+          <En>Used to give a negative response or refusal; expressing denial, disagreement, or rejection.</En>
+          <Example>No, I can’t come to the party tonight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e59f12dc-0302-44a9-99b6-a1774a2e46a2">
+              <Vi>Trả lời từ chối khi được hỏi hoặc đề nghị điều gì đó.</Vi>
+              <En>Used when declining a request, invitation, or offer.</En>
+            </Situation>
+            <Situation id="1c009b02-6ef4-4337-b947-4c415f98f661">
+              <Vi>Phản bác một tuyên bố hoặc câu hỏi có tính chất khẳng định.</Vi>
+              <En>Used to contradict a positive statement or answer a yes–no question negatively.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f5c0c2d6-ef8c-49ef-b793-356756943837" type="Adverb">
+          <Vi>không</Vi>
+          <En>Used to form negative statements or commands; indicating absence or negation.</En>
+          <Example>There is no sugar left in the jar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc657711-b8ca-4898-a8ba-43ceaeaee3f5">
+              <Vi>Mô tả sự vắng mặt hoặc thiếu hụt một thứ gì đó.</Vi>
+              <En>Used to indicate the absence or nonexistence of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1edfce3d-3eb7-4289-8d34-659047e19300" type="Noun">
+          <Vi>sự từ chối; lời từ chối</Vi>
+          <En>A negative answer or refusal; the act of saying “no”.</En>
+          <Example>She gave a firm no to the job offer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa58fa61-ca73-4e4e-b327-cbc9f840fba1">
+              <Vi>Nhấn mạnh một quyết định từ chối rõ ràng.</Vi>
+              <En>Used to emphasize a clear and decisive refusal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
