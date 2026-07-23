@@ -1,0 +1,40 @@
+<Vocab id="65a80902-53cc-46bb-8e61-af137b2a6cfe" word="petroleum" type="short" status="done">
+  <Topics>
+    <Topic id="9d9cd7b2-c2e2-4518-a7b0-a17b2f424951" value="Energy" />
+    <Topic id="d312e292-41a1-41bb-9c79-4a4d73ad9999" value="Industry" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="2cda5b8d-cf19-4c22-9593-aaac92a8c889" value="Petroleum Engineer" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5182c7e9-5dd2-4cea-afa9-4e099849e0d0" ipa="/pəˈtroʊliəm/" vi_ipa="pơ-trô-lê-ơm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="22df5994-dad9-4f5a-8dc5-455be544d1da" type="Noun">
+          <Vi>Dầu mỏ</Vi>
+          <En>A naturally occurring, unrefined liquid hydrocarbon mixture found beneath the Earth's surface, used as fuel and raw material for chemicals.</En>
+          <Example>Crude petroleum must be refined before it can be used to produce gasoline, diesel, and other products.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="45242b5c-f33a-41ff-aeaf-75daa5837134">
+              <Vi>Ngành khai thác dầu mỏ tại các mỏ dưới lòng đất hoặc biển.</Vi>
+              <En>The extraction of crude oil from underground or offshore reservoirs.</En>
+            </Situation>
+            <Situation id="0f7e0c69-cdd4-4093-a7ba-16f0d3bd05b1">
+              <Vi>Quá trình tinh chế dầu mỏ thành các sản phẩm như xăng, dầu diesel.</Vi>
+              <En>The refining process that converts crude petroleum into usable fuels and petrochemicals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
