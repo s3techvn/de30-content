@@ -1,0 +1,40 @@
+<Vocab id="ae785b70-81f4-4cb3-bf30-a002b6f75014" word="eliminate" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a8e6ed7f-7c56-49e4-8506-310a4018e25f" ipa="/ɪˈlɪm.ɪ.neɪt/" vi_ipa="i-lim-i-nét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c380971-f977-48ef-86ba-fc0cd58cc6c8" type="Verb">
+          <Vi>loại bỏ, xóa bỏ, tiêu diệt</Vi>
+          <En>to remove or get rid of (something unwanted or unnecessary)</En>
+          <Example>The new software update will eliminate several bugs that were affecting performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e340e6ed-d78a-4072-bfc3-3ec471a5931f">
+              <Vi>Trong lập trình, xóa lỗi hoặc mã không cần thiết.</Vi>
+              <En>In programming, removing unnecessary or erroneous code.</En>
+            </Situation>
+            <Situation id="092cdf56-1586-4b97-9f19-bd6b5f543646">
+              <Vi>Trong quản lý, chấm dứt một quy trình hoặc chính sách không hiệu quả.</Vi>
+              <En>In management, ending an inefficient process or policy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
