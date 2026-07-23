@@ -1,0 +1,48 @@
+<Vocab id="392b8620-da17-4fba-9dc4-a93f04af505c" word="group" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f9f32daf-6a6d-4da2-a475-25eeab2ae577" ipa="/ɡrʊp/" vi_ipa="gờ-rúp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a61ca58-13c8-4641-8289-cf7de1ab7278" type="Noun">
+          <Vi>Nhóm</Vi>
+          <En>A number of people or things that are located, gathered, or classified together.</En>
+          <Example>We formed a study group to prepare for the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a59141f-90e5-49bd-84c1-fb600a9a40ff">
+              <Vi>Một tập hợp người cùng làm việc, học tập, hoặc chia sẻ đặc điểm chung.</Vi>
+              <En>A collection of individuals who interact, collaborate, or share common characteristics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3739a8b9-0e11-454a-9ca4-4ae75ffffb2c" type="Verb">
+          <Vi>Nhóm lại; xếp thành nhóm</Vi>
+          <En>To put or arrange (things or people) into a group or groups.</En>
+          <Example>The teacher grouped the students by age and skill level.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c21ddd2d-d262-4678-85e6-73437f67adac">
+              <Vi>Hành động phân loại hoặc sắp xếp đối tượng theo từng nhóm để dễ quản lý hoặc phân tích.</Vi>
+              <En>The act of categorizing or organizing items or individuals into clusters for efficiency or analysis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
