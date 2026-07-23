@@ -1,0 +1,40 @@
+<Vocab id="5460b049-7092-4e4f-b277-44751dd05769" word="recognize" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23adf97f-55c6-4bb4-9a71-6efc31774192" ipa="/ˈrek.əɡ.naɪz/" vi_ipa="rít-khi-gnai-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="39d8af9b-6f6d-4d57-8a42-2d4ef7e5aa5b" type="Verb">
+          <Vi>nhận ra, công nhận</Vi>
+          <En>To identify or know someone or something from previous encounters or knowledge.</En>
+          <Example>I recognized her voice even though we hadn’t spoken in ten years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2000cf3-59aa-4ebf-acfd-223da97f407c">
+              <Vi>Nghe giọng nói hoặc nhìn thấy khuôn mặt quen thuộc và hiểu đó là ai.</Vi>
+              <En>Hearing a familiar voice or seeing a familiar face and understanding who it is.</En>
+            </Situation>
+            <Situation id="7baa2f0b-ce3d-4088-b695-3d53737ac896">
+              <Vi>Công nhận một thành tựu, bằng cấp, hoặc giá trị hợp pháp.</Vi>
+              <En>To officially acknowledge an achievement, qualification, or legal status.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

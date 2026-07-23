@@ -1,0 +1,52 @@
+<Vocab id="621526f5-3e86-488c-ab18-df1b5b492849" word="appointment" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9702e251-4dc1-4efd-8532-5b5b391afb2e" ipa="/əˈpɔɪnt.mənt/" vi_ipa="ơ-póin-tờ-mént">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6cb2dfed-eab0-444f-90c3-c35148e85edc" type="Noun">
+          <Vi>cuộc hẹn, cuộc gặp đã đặt trước</Vi>
+          <En>a fixed time for a meeting or visit, especially with a professional person</En>
+          <Example>We have an appointment with the dentist at 3 p.m. tomorrow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49633e04-20c8-4ddc-a336-f65bebe088de">
+              <Vi>Hẹn gặp bác sĩ, luật sư, hoặc nhân viên phục vụ để thảo luận công việc hoặc khám chữa bệnh.</Vi>
+              <En>Meeting a professional such as a doctor, lawyer, or service provider for consultation or treatment.</En>
+            </Situation>
+            <Situation id="fb9cc72a-62a1-4d38-b36a-cd66dbc9b6ab">
+              <Vi>Đặt trước một thời gian cụ thể để gặp ai đó hoặc làm điều gì đó.</Vi>
+              <En>Scheduling a specific time in advance to meet someone or do something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4a9d96f6-4a9a-44c0-8c9f-7fdc67502062" type="Noun">
+          <Vi>sự bổ nhiệm, chức vụ được bổ nhiệm</Vi>
+          <En>the act of appointing someone to a position or office, or the position itself</En>
+          <Example>His appointment as CEO was announced yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="586a3ab3-1b38-434b-8c5d-80d9cb0faabc">
+              <Vi>Khi một người được bổ nhiệm vào vị trí lãnh đạo, chức danh chính thức trong tổ chức.</Vi>
+              <En>When someone is officially assigned to a leadership or formal role in an organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
