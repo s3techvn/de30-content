@@ -1,0 +1,33 @@
+<Vocab id="aa374ba6-5ade-4190-b0a2-1bfb5abe507f" word="chevy" type="short" status="done">
+  <Topics>
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="10d5a7b6-713a-406c-a435-a98be49d7c74" value="Automotive Technician" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f6363cb3-db9f-4a12-b7a2-c3963eefdc45" ipa="/ˈtʃɛvi/" vi_ipa="chẹp-vi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc7d5c5c-f0a3-4b44-a8b8-daad9e8bad7d" type="Noun">
+          <Vi>Thương hiệu ô tô Chevrolet (thường viết tắt là "Chevy")</Vi>
+          <En>A brand of automobiles manufactured by General Motors, commonly abbreviated as "Chevy"</En>
+          <Example>He just bought a new Chevy truck.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac4afabe-349d-4aa1-8aa0-6f679daaa51e">
+              <Vi>Người nói đang đề cập đến một chiếc xe ô tô hiệu Chevrolet, thường là xe tải hoặc SUV phổ thông.</Vi>
+              <En>The speaker is referring to a Chevrolet automobile, typically a truck or SUV popular in North America.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
