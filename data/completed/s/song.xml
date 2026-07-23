@@ -1,0 +1,38 @@
+<Vocab id="e0982637-4ba4-4a56-9eb6-ba2366f2f0ff" word="song" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="86beecb2-ec7a-4b3c-9834-bed2022ac6b0" value="Songwriter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a3590852-1cdd-4eb6-bb19-ec20cba14e24" ipa="/sɔːŋ/" vi_ipa="xong">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c7b38693-91c4-46b1-a4d5-265d4c3acea3" type="Noun">
+          <Vi>Bài hát</Vi>
+          <En>A musical composition with lyrics, typically intended to be sung by a vocalist.</En>
+          <Example>She performed a beautiful song at the concert last night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87aa5e0c-ca97-4e4a-b0d2-08f2695670b2">
+              <Vi>Một ca sĩ hát một bài hát mới do chính cô ấy sáng tác.</Vi>
+              <En>A singer performs a new song she wrote herself.</En>
+            </Situation>
+            <Situation id="f63c4e17-fa9a-47d5-86b0-3b55f92917c2">
+              <Vi>Nhạc nền phim thường bao gồm nhiều bài hát nổi bật.</Vi>
+              <En>Film soundtracks often feature several popular songs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
