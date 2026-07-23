@@ -1,0 +1,40 @@
+<Vocab id="339b59dd-5fe3-42f8-85a5-39c1efd164d1" word="forgotten" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="7135c709-41ca-4737-8ea1-1ae28d24b6a0" value="Memory &amp; Learning" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eed37b49-54fd-435c-b519-3bed2884e755" ipa="/fərˈɡɑː.tn̩/" vi_ipa="phờ-gợt-tơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b431f29f-937e-4c23-96d2-c63f47ba4a5b" type="Adjective">
+          <Vi>quên mất; bị lãng quên; không còn được nhớ đến</Vi>
+          <En>no longer remembered or known about; lost from memory or awareness</En>
+          <Example>She had forgotten her friend’s phone number.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="21c419f7-7567-4127-bf6c-9f377c80ecaa">
+              <Vi>Một người không còn nhớ chi tiết của một sự kiện trong quá khứ.</Vi>
+              <En>A person no longer recalls details of a past event.</En>
+            </Situation>
+            <Situation id="d90f89b3-1f27-419e-bc2e-602f2f28c9d1">
+              <Vi>Một kỹ niệm hoặc thông tin đã bị xóa khỏi trí nhớ do thời gian hoặc thiếu sử dụng.</Vi>
+              <En>A memory or piece of information has been erased due to time or lack of use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
