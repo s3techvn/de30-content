@@ -1,0 +1,32 @@
+<Vocab id="3e6a8901-af3d-4133-9b30-4e6898d6e366" word="cindy" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="bea1f306-403a-407f-a7f7-530ca64708af" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2282ea7b-32d2-4845-8c21-4f5d57b5ac23" ipa="/ˈsɪn.di/" vi_ipa="xìn-đây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b193f297-5187-4ed6-8b06-47d1eb5706ad" type="Proper Noun">
+          <Vi>Tên riêng (thường là tên nữ)</Vi>
+          <En>A female given name, commonly used in English-speaking countries.</En>
+          <Example>Cindy is planning a surprise party for her best friend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d31f66fc-134d-4b58-8148-8647e8695a25">
+              <Vi>Dùng để gọi một người phụ nữ hoặc cô gái có tên là Cindy.</Vi>
+              <En>Used to refer to a woman or girl named Cindy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="c33b6818-3278-4046-ad57-cea45448fee0" word="yale" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c85b321f-058a-4170-b053-b0c3a689e1a0" ipa="/jeɪl/" vi_ipa="gi-ê-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="497157fe-b2f1-4fe4-9f43-9e33bd5c3071" type="Proper Noun">
+          <Vi>Đại học Yale</Vi>
+          <En>A private Ivy League research university in New Haven, Connecticut, USA.</En>
+          <Example>She earned her master’s degree from Yale Law School.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f57ef778-b8bf-4e74-a971-ee1d7d138987">
+              <Vi>Thảo luận về các trường đại học hàng đầu tại Mỹ.</Vi>
+              <En>Discussing top-tier universities in the United States.</En>
+            </Situation>
+            <Situation id="ea3bed95-6541-4178-9dce-1805179a820a">
+              <Vi>Người từng học hoặc làm việc tại Yale.</Vi>
+              <En>A person who has studied or worked at Yale University.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
