@@ -1,0 +1,41 @@
+<Vocab id="4abf4b0f-5e3d-4846-93ef-baea58bf166e" word="thesaurus" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c9d1ac86-3786-4857-be95-9cbf5da4ecc7" value="Writing" />
+    <Topic id="b3e896fb-0e21-4007-bcf7-c8e82a6055e5" value="Language Learning" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3ce1cee0-e77c-4594-90a6-5939c14972dd" ipa="/ˈθɛs.ə.rəs/" vi_ipa="thê-xơ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12ec8b5e-134f-4745-b5ce-6b7dc086de3f" type="Noun">
+          <Vi>Từ điển đồng nghĩa (và đôi khi trái nghĩa)</Vi>
+          <En>A reference book or online resource listing words with their synonyms and sometimes antonyms, used to find alternative words with similar meanings.</En>
+          <Example>She consulted the thesaurus to find a more precise synonym for "happy."</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8764a6b3-9b78-41e4-a013-82d34b7c8f5f">
+              <Vi>Viết bài, soạn giáo án, hoặc học từ vựng để tránh lặp từ.</Vi>
+              <En>Writing an essay, preparing lesson materials, or studying vocabulary to avoid repetition.</En>
+            </Situation>
+            <Situation id="b51a9805-48eb-4c1f-bb4c-679d57c246d2">
+              <Vi>Tra cứu từ đồng nghĩa khi muốn diễn đạt ý tưởng một cách phong phú hơn.</Vi>
+              <En>Looking up synonyms when wanting to express an idea more vividly or variably.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

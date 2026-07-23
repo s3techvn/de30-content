@@ -1,0 +1,40 @@
+<Vocab id="dfa91c34-5db7-4c02-a49a-b3cdf77d36b3" word="biography" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2f16aa66-d024-40d1-a0ff-4eea61d49ce1" ipa="/ˌbaɪ.əˈɡræf.i/" vi_ipa="bài-ô-gra-fi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc84bc24-5d79-48db-be8c-9a169781067f" type="Noun">
+          <Vi>Sách tiểu sử; bản tiểu sử</Vi>
+          <En>A written account of someone's life, typically an important or notable person.</En>
+          <Example>The author spent five years researching and writing the biography of the Nobel laureate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f539d5d-50a2-4d66-867c-27e3f0259229">
+              <Vi>Người đọc tìm đọc tiểu sử để hiểu rõ về cuộc đời và đóng góp của một nhân vật lịch sử.</Vi>
+              <En>Readers consult a biography to learn about a historical figure’s life and contributions.</En>
+            </Situation>
+            <Situation id="43a67969-6421-41b5-b1c7-e5220580b162">
+              <Vi>Một cuốn tiểu sử được viết bởi chính người đó được gọi là tự truyện (autobiography).</Vi>
+              <En>A biography written by the subject themselves is called an autobiography.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
