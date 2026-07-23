@@ -698,4 +698,5 @@
   <Profession id="3f4aaa3e-ac28-4f72-ac4d-ad3e6275e4f3" slug="ship-captain" value="Ship Captain" />
   <Profession id="3cf0b40f-5db4-4144-af77-e45f16902a30" slug="aviation-engineer" value="Aviation Engineer" />
   <Profession id="cb8b09a2-838b-4926-bda2-90e18a7c2f5f" slug="software-developer-(navigation-apps)" value="Software Developer (Navigation Apps)" />
+  <Profession id="8215d629-e12b-479a-81c9-0300ca198ed0" slug="philanthropist" value="Philanthropist" />
 </Professions>

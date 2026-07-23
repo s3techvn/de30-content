@@ -1,0 +1,70 @@
+<Vocab id="622447ee-790d-4d9b-8e0b-935dca8b31de" word="increase" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="99d29c68-ad16-4af0-a3f4-2735fda87ea1" ipa="/ɪnˈkriːs/" vi_ipa="in-cri:ts">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="95b0a81b-70f6-40bd-9243-e696a46f7180" type="Verb">
+          <Vi>tăng, gia tăng</Vi>
+          <En>to become greater in size, amount, or degree</En>
+          <Example>The company plans to increase its workforce by 20% next year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea5d3c42-fbd6-4fce-a825-eb4fa986757a">
+              <Vi>Thể hiện sự tăng lên về số lượng, quy mô, hoặc mức độ.</Vi>
+              <En>Used when describing growth in quantity, scale, or intensity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2b100f83-de90-4467-a4e4-99167130cabc" type="Noun">
+          <Vi>sự tăng, mức tăng</Vi>
+          <En>a positive change in size, amount, or degree</En>
+          <Example>She received a salary increase after six months of excellent performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="089d384f-c8b8-48ae-aa45-7a509fc97963">
+              <Vi>Dùng để chỉ mức tăng cụ thể, đặc biệt trong tiền lương hoặc doanh thu.</Vi>
+              <En>Used to refer to a specific rise, especially in wages, prices, or revenue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5d4d111e-86cd-422a-a136-d3e4d75fdedd" ipa="/ˈɪn.kriːs/" vi_ipa="in-cri:ts">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4eabbade-113b-4c40-a579-cfd3e9f43656" type="Verb">
+          <Vi>tăng, gia tăng</Vi>
+          <En>to make something greater in size, amount, or degree</En>
+          <Example>The government increased taxes on tobacco products.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02621c72-d2cd-4761-a316-6fed55240996">
+              <Vi>Chỉ hành động chủ động làm cho một đại lượng nào đó tăng lên.</Vi>
+              <En>Used when actively causing something (e.g., price, effort, speed) to rise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
