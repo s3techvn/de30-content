@@ -1,0 +1,38 @@
+<Vocab id="7b6cbb26-c26d-4380-9653-61b8e3c390fd" word="community" type="short" status="done">
+  <Topics>
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63aed846-dff2-4d7f-b951-d2e1b17e6135" ipa="/kəˈmjuː.nə.ti/" vi_ipa="kơ-miu-nơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e930cb8-f9c8-4c5b-b3f3-a056dd8d1b9b" type="Noun">
+          <Vi>Cộng đồng</Vi>
+          <En>A group of people living in the same place or having a particular characteristic in common.</En>
+          <Example>The local community organized a clean-up day for the park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5c0cdec-9f7d-481f-bf8b-8e515ab280cd">
+              <Vi>Một nhóm người sinh sống gần nhau và tương tác thường xuyên.</Vi>
+              <En>A group of people who live near each other and interact regularly.</En>
+            </Situation>
+            <Situation id="7213160b-2cf7-4929-b070-0f6516cac24f">
+              <Vi>Một nhóm người chia sẻ sở thích, giá trị, hoặc mục tiêu chung (ví dụ: cộng đồng người yêu thích mã nguồn mở).</Vi>
+              <En>A group of people who share interests, values, or goals (e.g., the open-source community).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
