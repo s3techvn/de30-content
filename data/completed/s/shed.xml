@@ -1,0 +1,52 @@
+<Vocab id="c0571c3b-3156-40ce-9bae-8aeea068b868" word="shed" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8370e8cf-c684-48cc-b5b5-ff8adf8ec4f7" ipa="/ʃɛd/" vi_ipa="sết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="465131c8-6dc5-4c37-ac22-deb64a8c415b" type="Noun">
+          <Vi>nhà kho nhỏ, lều che</Vi>
+          <En>A small, simple building used for storage or shelter, often found in gardens or farms.</En>
+          <Example>They stored their gardening tools in the wooden shed behind the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d39aa21-ef13-4882-b4b6-35e222dc5940">
+              <Vi>Một cấu trúc đơn giản bên ngoài nhà dùng để chứa dụng cụ làm vườn hoặc đồ dùng.</Vi>
+              <En>A small outdoor structure used for storing tools, equipment, or supplies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f2ca1225-90dd-4c5a-81d1-e6da3e741b62" type="Verb">
+          <Vi>thải ra, rụng (lông, lá, da, v.v.), bỏ đi, loại bỏ</Vi>
+          <En>To get rid of something unwanted or unnecessary; to naturally lose or discharge something (e.g., hair, leaves, skin).</En>
+          <Example>The snake shed its old skin after months of growth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61def8b3-e7c0-474c-8513-311f03901959">
+              <Vi>Động vật tự rụng lớp da, lông, hoặc vỏ ngoài để thay bằng lớp mới.</Vi>
+              <En>When an animal naturally loses and discards its outer layer (e.g., skin, fur, or shell) during growth or molting.</En>
+            </Situation>
+            <Situation id="4754847d-369d-4ca8-a60b-b03f92aa9ba6">
+              <Vi>Loại bỏ những thứ không cần thiết, đặc biệt là cảm xúc hoặc gánh nặng tinh thần.</Vi>
+              <En>To consciously discard or let go of emotional burdens or unnecessary possessions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
