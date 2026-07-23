@@ -1,0 +1,40 @@
+<Vocab id="4ebbdc7f-e6ae-42d6-bbe7-d52036d553ae" word="fairly" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b95f4196-b71a-4a54-8ea1-b1bd840f40a8" ipa="/ˈfer.əl.i/" vi_ipa="phờ-rơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef920b1d-c33c-476a-94ba-3b3000450092" type="Adverb">
+          <Vi>khá, tương đối, một cách công bằng</Vi>
+          <En>To a moderate degree; reasonably; or in a fair, just, or impartial manner.</En>
+          <Example>She fairly aced the exam after studying for three days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f235677-c9e1-4911-b97b-a07476dbe4af">
+              <Vi>Mô tả mức độ trung bình–khá trong đánh giá hoặc kết quả.</Vi>
+              <En>Used to describe something that is good but not excellent, or acceptable but not outstanding.</En>
+            </Situation>
+            <Situation id="5cfbc5a4-efc5-4244-aa02-a43fafb4c2eb">
+              <Vi>Mô tả hành động được thực hiện một cách công bằng, không thiên vị.</Vi>
+              <En>Used to emphasize fairness or impartiality in treatment or judgment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
