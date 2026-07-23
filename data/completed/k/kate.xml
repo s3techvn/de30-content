@@ -1,0 +1,32 @@
+<Vocab id="1bb594f6-eb76-43e4-a6d2-7422eddf2dce" word="kate" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c18077e8-7ac0-4f92-be0a-49793bc6baf7" ipa="/keɪt/" vi_ipa="kết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8272bbd-ebc5-4ebe-a1be-c1dae3aa4c54" type="Noun">
+          <Vi>Tên riêng (thường là tên nữ, viết tắt của Catherine)</Vi>
+          <En>A female given name, often a short form of Catherine.</En>
+          <Example>My friend Kate is visiting next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="762b6da6-bd8e-4a74-b14d-1a97e5f3549e">
+              <Vi>Dùng để gọi một người phụ nữ có tên Kate.</Vi>
+              <En>Used to refer to a woman named Kate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
