@@ -1,0 +1,56 @@
+<Vocab id="56e21b8f-9fb6-4cd9-b8ae-a767eb13010d" word="acquire" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1975d542-8cd5-4e3d-b0f0-d35d03b1665d" ipa="/əˈkwaɪ.ɚ/" vi_ipa="ơ-kuây-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb5b8455-d4fb-48a8-876d-024413424a72" type="Verb">
+          <Vi>mua, mua lại, chiếm giữ (đất, công ty, tài sản)</Vi>
+          <En>to gain ownership of something, typically a company, property, or asset, especially by purchase</En>
+          <Example>The tech giant acquired a startup specializing in artificial intelligence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="976a2f7a-0bae-4a70-be2d-9c9936200d5d">
+              <Vi>Doanh nghiệp mua lại một công ty nhỏ để mở rộng thị phần.</Vi>
+              <En>A company buys a smaller firm to expand its market share.</En>
+            </Situation>
+            <Situation id="e58c8eb2-37fc-4520-8c32-0e2c953b80ab">
+              <Vi>Chính phủ chiếm giữ đất để xây dựng cơ sở hạ tầng.</Vi>
+              <En>The government acquires land to build infrastructure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ad00619-477a-47a2-89dc-ccc62318fe96" type="Verb">
+          <Vi>thu thập, tích lũy (kiến thức, kỹ năng, kinh nghiệm)</Vi>
+          <En>to gain or develop knowledge, skills, or experience over time</En>
+          <Example>She acquired fluency in three languages after living abroad for five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a2acc96-0c83-48d0-b04d-35fcf47ee2ee">
+              <Vi>Sinh viên tích lũy kiến thức chuyên môn trong quá trình học đại học.</Vi>
+              <En>Students acquire subject-matter expertise during their university studies.</En>
+            </Situation>
+            <Situation id="7d0bd7cf-ba15-401b-8fac-f928c9d5fb23">
+              <Vi>Anh ấy đã tích lũy được nhiều kinh nghiệm làm việc qua các dự án thực tế.</Vi>
+              <En>He has acquired substantial hands-on experience through real-world projects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
