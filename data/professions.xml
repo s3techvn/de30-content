@@ -732,4 +732,5 @@
   <Profession id="06a16541-a9d3-4f0c-899a-eba6dc492dda" slug="landscaper" value="Landscaper" />
   <Profession id="4a93b435-9262-4004-a025-0ebd387378a9" slug="tobacco-industry-worker" value="Tobacco Industry Worker" />
   <Profession id="5a88c980-c0dc-4618-8b57-e01d67002aff" slug="professional-gambler" value="Professional Gambler" />
+  <Profession id="b85f27ac-538e-4a94-956f-3cc54ef7a1a0" slug="organist" value="Organist" />
 </Professions>
