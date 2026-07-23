@@ -1,0 +1,54 @@
+<Vocab id="cf590bdd-bb14-4852-943e-b933252cc415" word="jar" type="short" status="done">
+  <Topics>
+    <Topic id="b2f12474-066a-45be-9799-2c64f5f4e9c0" value="Household &amp; Kitchen" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="ac5bca08-087c-4bcc-998a-632cc3f865f7" value="Home Cook" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="104410a5-823c-4cb9-8624-45b7af9b804b" ipa="/dʒɑːr/" vi_ipa="gi-ao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1cb46d58-c944-4a56-bf96-fd230f699139" type="Noun">
+          <Vi>Cái lọ, cái chum, cái bình (thường bằng thủy tinh hoặc gốm, có nắp, dùng để đựng thực phẩm hoặc đồ dùng)</Vi>
+          <En>A wide-mouthed container, typically made of glass or ceramic, with a lid, used for storing food or other items.</En>
+          <Example>She stored homemade jam in a glass jar on the kitchen shelf.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0d7b8491-b2e8-408e-9594-3a65f2e489a4">
+              <Vi>Đựng đồ ăn như mứt, dưa muối, hoặc ngũ cốc trong nhà bếp.</Vi>
+              <En>Storing food items such as jam, pickles, or cereals in a kitchen.</En>
+            </Situation>
+            <Situation id="871582b8-88d0-4d11-bbb5-650b41d78b58">
+              <Vi>Dùng trong bảo quản mẫu vật hoặc hóa chất trong phòng thí nghiệm.</Vi>
+              <En>Used for storing samples or chemicals in a laboratory setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3151011b-177d-438f-898b-980776da228d" type="Verb">
+          <Vi>Làm cho vỡ vụn (thức ăn), hoặc làm cho rung mạnh (xe cộ)</Vi>
+          <En>To break or shatter something into small pieces, or to shake or jolt something violently.</En>
+          <Example>The old jar of pickles fell and shattered on the floor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="65cfc469-2e47-4cfd-afb9-3ea65eccbcb2">
+              <Vi>Xe chạy trên đường gồ ghề làm hành khách bị rung lắc mạnh.</Vi>
+              <En>The car jolted over the bumpy road, shaking the passengers.</En>
+            </Situation>
+            <Situation id="35d5351a-3865-431f-bbce-acc3ed74dd0e">
+              <Vi>Nhẹ nhàng làm vỡ vụn bánh quy trước khi trộn vào hỗn hợp.</Vi>
+              <En>Crush the cookies gently into small pieces before mixing them into the batter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
