@@ -1,0 +1,78 @@
+<Vocab id="cf4021ea-d464-41d8-8de1-66076341b4d5" word="fire" type="short" status="done">
+  <Topics>
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="c42d5ca9-2ca0-4a3b-8db6-a47e1687f970" value="Firefighter" />
+    <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" value="Construction Manager" />
+    <Profession id="1434e391-54eb-4f44-b5c9-4986c1b6b0c9" value="Safety Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cd53ee2d-7861-4744-92f4-6f3a8683a4d1" ipa="/ˈfaɪər/" vi_ipa="fai-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e002873c-034f-4c6f-a3ef-b03240145189" type="Noun">
+          <Vi>Ngọn lửa; sự cháy; hỏa hoạn</Vi>
+          <En>A visible, hot, glowing body of burning material; also refers to the act of discharging a weapon or dismissing someone from employment.</En>
+          <Example>The firefighters arrived quickly to put out the fire.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49fb6b4b-f06e-4e56-90fe-4ef42b0b6da1">
+              <Vi>Mô tả tình huống có ngọn lửa bùng cháy, thường nguy hiểm.</Vi>
+              <En>A situation involving uncontrolled burning, often dangerous.</En>
+            </Situation>
+            <Situation id="5c356237-b270-4f5e-afb5-06964ae93c70">
+              <Vi>Người bị sa thải (thường dùng trong cụm "get fired").</Vi>
+              <En>A person who has been dismissed from their job.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d19f16e9-8571-42f8-a012-487f790f27ea" type="Verb">
+          <Vi>Bắn (súng); sa thải (nhân viên); làm cháy</Vi>
+          <En>To discharge a projectile from a weapon; to dismiss someone from employment; to set something ablaze.</En>
+          <Example>The company fired 200 employees due to budget cuts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ef3eff1d-8c4e-495d-9d4b-871739a2744a">
+              <Vi>Tình huống nhân viên bị sa thải vì vi phạm hoặc cắt giảm chi phí.</Vi>
+              <En>A situation where an employee is dismissed, often unexpectedly, due to performance or economic reasons.</En>
+            </Situation>
+            <Situation id="c3d1014f-2162-45e6-ba9b-15e70bc13239">
+              <Vi>Tình huống bắn súng hoặc phóng tên lửa.</Vi>
+              <En>A situation involving discharging a weapon, such as in military or self-defense contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="b17a8357-d6c6-41df-adeb-3afed4db262e" ipa="/ˈfaɪər/" vi_ipa="fai-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="90160719-cdb5-4012-abfe-9964d374bb1a" type="Noun">
+          <Vi>Sự hăng hái, nhiệt huyết; động lực mạnh mẽ</Vi>
+          <En>Metaphorical intensity, passion, or drive (e.g., "fire in the belly").</En>
+          <Example>She fought with fire and determination to win the championship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b11a170d-0172-4a31-9e9d-f542a24da5dc">
+              <Vi>Tình huống nói về tinh thần chiến đấu, khát vọng thành công.</Vi>
+              <En>A situation describing strong motivation, passion, or competitive drive.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

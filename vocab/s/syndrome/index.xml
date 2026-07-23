@@ -1,0 +1,38 @@
+<Vocab id="8812eaca-025e-49bf-b710-cf7e94b438a7" word="syndrome" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" value="Medical Researcher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd1f44dc-e6ad-4493-b857-391af13906f0" ipa="/ˈsɪn.droʊm/" vi_ipa="xìn-drô-m">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f313d2a-cd75-4263-895d-18cfb8971c95" type="Noun">
+          <Vi>Bệnh hội chứng; tập hợp các triệu chứng xuất hiện cùng lúc, thường do một nguyên nhân chung</Vi>
+          <En>A group of symptoms that consistently occur together or a condition characterized by a set of associated symptoms</En>
+          <Example>The patient was diagnosed with metabolic syndrome, which includes high blood pressure, high blood sugar, and excess body fat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="836f3007-0be3-422a-b690-8cfebeec53d8">
+              <Vi>Bác sĩ chẩn đoán hội chứng dựa trên các triệu chứng lâm sàng và xét nghiệm.</Vi>
+              <En>A doctor diagnoses a syndrome based on clinical symptoms and laboratory tests.</En>
+            </Situation>
+            <Situation id="78eecb91-5910-4424-bebe-dc19a43b7638">
+              <Vi>Hội chứng Down là một rối loạn di truyền phổ biến.</Vi>
+              <En>Down syndrome is a common genetic disorder.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
