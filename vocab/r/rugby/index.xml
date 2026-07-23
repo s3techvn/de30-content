@@ -1,0 +1,34 @@
+<Vocab id="75cc7ae4-538a-48cd-83b1-bd7aade0a76b" word="rugby" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="c3ffd4fd-318d-4c93-9a3a-ac1cfc174fcc" value="Sports Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="37e68cea-47fb-4612-bb94-5f329999d2b3" ipa="/ˈrʌɡ.ɪ/" vi_ipa="rác-gi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31d3c0a3-3d5a-4885-8194-32783a8f26b9" type="Noun">
+          <Vi>Bóng bầu dục</Vi>
+          <En>A team sport played with an oval-shaped ball, where players carry, pass, and kick the ball to score tries by grounding it in the opponent’s in-goal area.</En>
+          <Example>He started playing rugby at university and quickly became team captain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f70b9dd-0e06-498f-94cc-8123ef007507">
+              <Vi>Môn thể thao đồng đội phổ biến ở Anh, Úc, New Zealand và các quốc gia Khối Thịnh vượng chung, chơi bằng bóng bầu dục và cho phép xô đẩy, ném bóng sau lưng.</Vi>
+              <En>A contact team sport popular in the UK, Australia, New Zealand, and other Commonwealth countries, involving carrying, passing, and kicking an oval ball while allowing tackling and rucks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
