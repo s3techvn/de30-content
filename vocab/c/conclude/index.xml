@@ -1,0 +1,56 @@
+<Vocab id="8a80fde2-d3f5-4317-923d-baf062c80014" word="conclude" type="short" status="done">
+  <Topics>
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="762967c0-34d9-403f-9da4-2554203a5d8b" ipa="/kənˈkluːd/" vi_ipa="cơn-kluː-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ba31d4b7-614a-4d20-ac66-73da4b549bd9" type="Verb">
+          <Vi>kết luận</Vi>
+          <En>to reach a decision or opinion after thinking about something carefully</En>
+          <Example>After reviewing all the evidence, the jury concluded that the defendant was innocent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5bc09d86-348e-4e35-b35a-418ffb9622b7">
+              <Vi>Trong một cuộc họp, nhóm đưa ra quyết định cuối cùng sau khi thảo luận.</Vi>
+              <En>In a meeting, the group makes a final decision after discussion.</En>
+            </Situation>
+            <Situation id="90f0bbe1-d305-4769-8104-154930e71b18">
+              <Vi>Kết thúc bài thuyết trình bằng một nhận định tổng hợp.</Vi>
+              <En>Ending a presentation with a summary statement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e9dcc712-07b7-4655-8933-e57d12b90894" type="Verb">
+          <Vi>kết thúc, chấm dứt</Vi>
+          <En>to bring something to an end, especially a meeting, speech, or negotiation</En>
+          <Example>The speaker concluded her talk with a powerful quote from MLK.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b7d2c41-1920-4dda-ab92-d5ad05696268">
+              <Vi>Chủ tọa kết thúc phiên họp bằng lời cảm ơn.</Vi>
+              <En>The chairperson ends the meeting with a thank-you note.</En>
+            </Situation>
+            <Situation id="1edecaa5-c51e-45a2-a75e-acfc4fed9ca2">
+              <Vi>Hai bên kết thúc đàm phán sau khi đạt được thỏa thuận.</Vi>
+              <En>The two parties conclude negotiations after reaching an agreement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
