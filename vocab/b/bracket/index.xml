@@ -1,0 +1,57 @@
+<Vocab id="4f4a47b6-e57b-4da8-8580-4bc0a3f2dcc7" word="bracket" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="27b6e5ae-b72a-43ae-847d-a0a5f0e2be2e" value="Programming" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3edc9ef9-7caf-41a9-a48c-dd18d60087d5" ipa="/ˈbræk.ɪt/" vi_ipa="bờ-rắc-it">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2e92f426-edc9-4f90-aeeb-22770c350c48" type="Noun">
+          <Vi>Dấu ngoặc (dùng trong toán học và lập trình)</Vi>
+          <En>A symbol, such as (, ), [, ], {, or }, used in pairs to group expressions or indicate precedence in mathematical or programming contexts.</En>
+          <Example>In the expression 2 × [3 + (4 − 1)], the square brackets and parentheses are brackets.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66a10b60-ffd9-4e7f-904f-b08734280678">
+              <Vi>Trong công thức toán học hoặc mã lập trình, dùng dấu ngoặc để nhóm các phép tính.</Vi>
+              <En>Used in mathematical formulas or code to clarify the order of operations.</En>
+            </Situation>
+            <Situation id="776bf279-dbef-4bf6-b9f4-dfbad29aabe1">
+              <Vi>Trong xây dựng, giá đỡ kim loại hoặc gỗ dùng để đỡ vật nặng.</Vi>
+              <En>In construction, a rigid support, typically metal or wood, used to hold or reinforce structures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="61550102-4905-421b-bf46-e7915d2e8022" type="Verb">
+          <Vi>Đỡ, giữ bằng giá đỡ; xếp vào nhóm (đặc biệt trong thể thao)</Vi>
+          <En>To support or hold something in place with a bracket; or (in sports) to group competitors into categories for a tournament.</En>
+          <Example>The team was bracketed in the top division for the upcoming season.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c905ef1e-91a0-47fa-b0ad-16318b3bd846">
+              <Vi>Kỹ thuật viên dùng giá đỡ để cố định ống dẫn trong hệ thống ống nước.</Vi>
+              <En>A technician uses a metal bracket to secure a pipe in a plumbing system.</En>
+            </Situation>
+            <Situation id="21a089d6-a650-45b1-bc83-9caf88413532">
+              <Vi>Trong giải đấu thể thao, ban tổ chức xếp các đội vào các bảng đấu theo thứ tự trình độ.</Vi>
+              <En>In a tournament, organizers bracket teams by skill level to determine matchups.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
