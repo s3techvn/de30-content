@@ -1,0 +1,57 @@
+<Vocab id="df00e250-cb7a-4728-ad67-dba1bed00418" word="horizon" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b206002e-7e19-4765-9f59-788f22d0207e" value="Astronomy" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b525f136-4838-4844-bd3f-99ecd3e6335b" ipa="/həˈrɪz.ən/" vi_ipa="ha-rí-zơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a57259d0-84ff-4fab-9010-b9d786c8d0b5" type="Noun">
+          <Vi>Đường chân trời</Vi>
+          <En>The apparent line that separates earth from sky, where the earth’s surface or sea seems to meet the sky.</En>
+          <Example>As the sun set, it dipped below the horizon, painting the sky in hues of orange and pink.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f81fb34-1be0-48cb-9ef5-6ba0537615d0">
+              <Vi>Mô tả vị trí nơi mặt trời hoặc mặt trăng mọc/lặn.</Vi>
+              <En>Describing the point where the sun or moon rises or sets.</En>
+            </Situation>
+            <Situation id="9bb88cef-bc40-4675-8ae0-2d7c82a893e8">
+              <Vi>Trong bối cảnh du lịch, khi ngắm cảnh hoàng hôn hoặc bình minh.</Vi>
+              <En>In travel contexts, when watching sunsets or sunrises.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e63a6559-4302-40aa-b0ac-6bce019921a3" type="Noun">
+          <Vi>Giới hạn khả năng hiểu biết hoặc tầm nhìn</Vi>
+          <En>The limit of one’s knowledge, experience, or interest; a boundary beyond which one cannot see or understand.</En>
+          <Example>Her travels expanded her horizon and gave her a broader perspective on life.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="62a98e83-f09c-4256-9fed-509d259382e8">
+              <Vi>Khi nói về sự mở rộng hiểu biết hoặc kinh nghiệm cá nhân.</Vi>
+              <En>When describing personal growth, learning, or broadening of experience.</En>
+            </Situation>
+            <Situation id="79a5456e-6bcd-492e-b358-6d71ca01181f">
+              <Vi>Trong văn chương hoặc triết luận để chỉ giới hạn nhận thức.</Vi>
+              <En>In literary or philosophical contexts to denote cognitive or experiential limits.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
