@@ -1,0 +1,38 @@
+<Vocab id="287538d4-3d80-495f-9699-d3ea3619c9ba" word="characteristic" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7d585dd-72af-47f5-a11f-71a0be5cc7ed" ipa="/ˌkær.ək.təˈrɪs.tɪk/" vi_ipa="cờ-rác-tê-rít-tíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2503b971-2b58-4fa5-9be3-7b3dff23f493" type="Adjective">
+          <Vi>đặc trưng, tiêu biểu</Vi>
+          <En>typical or distinctive of a person, group, or thing; serving to identify or distinguish</En>
+          <Example>One characteristic feature of this species is its bright blue feathers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3033dea2-d403-458b-b93d-91aa10111a3c">
+              <Vi>Mô tả một đặc điểm nổi bật giúp nhận diện một đối tượng.</Vi>
+              <En>Describing a notable feature that helps identify an object or group.</En>
+            </Situation>
+            <Situation id="fcc28397-26f8-4402-b308-2579b6bb995b">
+              <Vi>So sánh các đặc điểm để phân biệt giữa các loại.</Vi>
+              <En>Comparing features to differentiate between types or categories.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
