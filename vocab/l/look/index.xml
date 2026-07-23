@@ -1,0 +1,78 @@
+<Vocab id="f5dec0e2-d96f-4067-a338-2f79a8461221" word="look" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba5506bc-7277-4806-af40-d5fca2677733" ipa="/lʊk/" vi_ipa="lúc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2d2501b5-5200-4d86-b03b-c5b9e4852a1e" type="Verb">
+          <Vi>Nhìn, chăm chú nhìn</Vi>
+          <En>To direct one's gaze toward something or someone, typically with attention or interest.</En>
+          <Example>Look at that beautiful sunset over the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4bd7b8ad-0fcf-4f9b-9f6e-f02775ba0c6c">
+              <Vi>Chỉ tay và nói với người khác để thu hút sự chú ý vào một vật hoặc hiện tượng.</Vi>
+              <En>Pointing and telling someone to pay attention to a specific object or phenomenon.</En>
+            </Situation>
+            <Situation id="59a1e807-299e-4b64-95dc-020a3a7f471f">
+              <Vi>Quan sát cẩn thận để phát hiện điều gì đó (ví dụ: trong công việc kiểm tra chất lượng).</Vi>
+              <En>Observing carefully to detect something (e.g., in quality inspection work).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c696a084-bdf3-4005-9e8f-8b1fc562aa24" type="Verb">
+          <Vi>Có vẻ như, trông như</Vi>
+          <En>To appear or seem in a particular way; to have a certain appearance.</En>
+          <Example>You look tired—did you stay up late?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4fcaf17a-cc09-4e1c-937e-add188a4432e">
+              <Vi>Dùng khi nhận xét về trạng thái hoặc cảm xúc của người khác qua vẻ ngoài.</Vi>
+              <En>Used when commenting on someone else’s physical or emotional state based on appearance.</En>
+            </Situation>
+            <Situation id="8e666054-12f4-402b-924c-b93394e4c8f0">
+              <Vi>Khi mô tả phong cách hoặc thiết kế của một vật (ví dụ: căn phòng, quần áo).</Vi>
+              <En>When describing the style or design of an object (e.g., a room, clothing).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4083ee38-6cf7-487d-9e73-72bad7972042" type="Verb">
+          <Vi>Tìm kiếm, săn tìm (thường đi với từ khác như “for”)</Vi>
+          <En>To search for something or someone; to try to find or locate.</En>
+          <Example>We’re looking for a new apartment in the downtown area.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad3058ab-a59f-44cd-963f-6f6c8adef0da">
+              <Vi>Đang tìm nhà, việc làm, hoặc người thân bị lạc.</Vi>
+              <En>Searching for housing, a job, or a lost loved one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="464e829f-073d-46ce-bdcd-a12dbabd7e3c" type="Verb">
+          <Vi>Chăm sóc, coi chừng (cho ai đó)</Vi>
+          <En>To take care of or watch over someone, especially temporarily.</En>
+          <Example>Can you look after my dog while I’m away?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="31f4fc92-f768-4243-acef-6708472c2981">
+              <Vi>Giúp giữ trẻ, thú cưng hoặc người già khi người thân vắng mặt.</Vi>
+              <En>Helping to care for children, pets, or elderly relatives while their caregiver is away.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
