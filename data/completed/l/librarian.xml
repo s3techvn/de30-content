@@ -1,0 +1,40 @@
+<Vocab id="ac82704e-fecc-4b30-b253-e382a357c523" word="librarian" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0dccbea8-977a-405e-baff-a26b70a18322" value="Library &amp; Information Science" />
+    <Topic id="4b4b5068-9afb-4398-b496-a7c98a85e55a" value="Careers" />
+  </Topics>
+  <Professions>
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="705ae5dc-74ab-489c-b070-6078056367b2" value="Information Specialist" />
+    <Profession id="799afa6b-0ebb-4d54-92a0-ba3e94cd49c4" value="Archivist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eebf3648-ef2c-41ea-854c-d20106ee74b9" ipa="/ˈlɪb.ər.ri.ən/" vi_ipa="líp-bờ-rí-ơ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="626e4a6b-df5a-4a10-9672-31ea6a1130d4" type="Noun">
+          <Vi>thư viện viên; thủ thư</Vi>
+          <En>A professional who works in a library and is responsible for managing collections, assisting patrons, and providing information services.</En>
+          <Example>The librarian helped me locate a rare manuscript in the special collections section.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="301e27b5-94f7-47c0-8146-b06b2eb494fa">
+              <Vi>Người làm việc tại thư viện, chịu trách nhiệm quản lý sách, giúp độc giả tìm tài liệu và tư vấn thông tin.</Vi>
+              <En>A professional managing library resources and supporting users' research and learning needs.</En>
+            </Situation>
+            <Situation id="d145c0b5-2543-48a9-97d7-55f25fd7475d">
+              <Vi>Các thư viện hiện đại yêu cầu thư viện viên có kỹ năng công nghệ thông tin và khả năng phân tích dữ liệu.</Vi>
+              <En>Modern libraries require librarians to have digital literacy and data analysis skills.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

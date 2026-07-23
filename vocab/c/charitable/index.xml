@@ -1,0 +1,38 @@
+<Vocab id="ae2d5ea2-820f-4c48-8b21-cf3e2a342add" word="charitable" type="short" status="done">
+  <Topics>
+    <Topic id="531e92cf-8ca8-4b2d-a79c-dc229eefec1c" value="Social &amp; Ethics" />
+  </Topics>
+  <Professions>
+    <Profession id="36d54b3b-0ab6-41ae-a477-fc2ad0754996" value="Nonprofit Worker" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="8215d629-e12b-479a-81c9-0300ca198ed0" value="Philanthropist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c47b1f64-d089-435b-acd3-012f2383c6ed" ipa="/ˈtʃær.ə.tə.bəl/" vi_ipa="chà-rít-tơ-bờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1582ec55-652f-4b00-bcff-fad2d2ef04f7" type="Adjective">
+          <Vi>thiện tâm; hào phóng, sẵn sàng giúp đỡ người khác</Vi>
+          <En>showing a willingness to help others, especially by giving money or resources to those in need</En>
+          <Example>She made a charitable donation to the local food bank.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="92598e7d-d237-43c1-8bcb-ac20ff72b22f">
+              <Vi>Một người sẵn sàng quyên góp tiền hoặc vật chất cho người nghèo hoặc tổ chức từ thiện.</Vi>
+              <En>A person willingly gives money or goods to support people in need or charitable organizations.</En>
+            </Situation>
+            <Situation id="d1fb7977-1b03-4884-855d-20d490404fb9">
+              <Vi>Một thái độ hoặc hành vi thể hiện sự bao dung, không phán xét, sẵn sàng tin tưởng điều tốt đẹp ở người khác.</Vi>
+              <En>An attitude or behavior showing tolerance, forgiveness, and a tendency to believe the best in others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

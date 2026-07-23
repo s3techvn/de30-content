@@ -1407,3 +1407,4 @@ keno
 navigator
 potato
 increase
+charitable

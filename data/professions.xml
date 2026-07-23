@@ -699,4 +699,6 @@
   <Profession id="3cf0b40f-5db4-4144-af77-e45f16902a30" slug="aviation-engineer" value="Aviation Engineer" />
   <Profession id="cb8b09a2-838b-4926-bda2-90e18a7c2f5f" slug="software-developer-(navigation-apps)" value="Software Developer (Navigation Apps)" />
   <Profession id="8215d629-e12b-479a-81c9-0300ca198ed0" slug="philanthropist" value="Philanthropist" />
+  <Profession id="705ae5dc-74ab-489c-b070-6078056367b2" slug="information-specialist" value="Information Specialist" />
+  <Profession id="799afa6b-0ebb-4d54-92a0-ba3e94cd49c4" slug="archivist" value="Archivist" />
 </Professions>
