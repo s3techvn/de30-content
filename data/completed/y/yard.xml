@@ -1,0 +1,60 @@
+<Vocab id="1b9c3d9f-0998-4e32-9f08-1f49755ab65f" word="yard" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="06a16541-a9d3-4f0c-899a-eba6dc492dda" value="Landscaper" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7b5b867-17e0-4ced-ad71-7bc9c79613c6" ipa="/jɑːrd/" vi_ipa="giác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9b8678f0-a8b9-4317-ba0a-bead228d6eba" type="Noun">
+          <Vi>Sân (đất trống phía trước hoặc sau nhà)</Vi>
+          <En>An area of land, typically grassy and enclosed, adjacent to a building, especially a house.</En>
+          <Example>They planted flowers in the front yard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51c453c1-77b2-4dfa-b47b-c349b04d1f9c">
+              <Vi>Mô tả khu đất trống quanh nhà, thường được trồng cỏ hoặc cây cảnh.</Vi>
+              <En>A grassy or paved open area surrounding a residential building, used for recreation or gardening.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d99588c-6fc2-49e6-aa75-86ed7466b219" type="Noun">
+          <Vi>Thước Anh (đơn vị đo chiều dài, bằng 3 feet hay 0.9144 mét)</Vi>
+          <En>A unit of length equal to 3 feet or 0.9144 meters, commonly used in the United States and the United Kingdom.</En>
+          <Example>The football field is 100 yards long.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e67515c-1c28-4dba-afd6-3a2b989ed853">
+              <Vi>Sử dụng trong thể thao, xây dựng hoặc đo đạc để chỉ độ dài.</Vi>
+              <En>Used in sports (e.g., American football), construction, and land surveying to express distances.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="988362d0-d547-4012-86a9-4416d75dae65" type="Noun">
+          <Vi>Sân ga (trong nhà ga xe lửa hoặc cảng)</Vi>
+          <En>A paved or gravel area in a railway station or port where goods are loaded, unloaded, or stored.</En>
+          <Example>The freight train pulled into the yard and began unloading containers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60cc373b-68cc-430b-82cc-b9d4505a48c5">
+              <Vi>Khu vực tập kết, sắp xếp toa tàu hoặc container tại nhà ga hoặc bến cảng.</Vi>
+              <En>An open area in a rail yard or port where trains, containers, or cargo are sorted, stored, or moved.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
