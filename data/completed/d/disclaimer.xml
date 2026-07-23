@@ -1,0 +1,40 @@
+<Vocab id="1a6d6ca3-7745-4387-9cc9-71921522a0a7" word="disclaimer" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="73224165-cf99-46b7-8c30-ba5c02f6c6f1" ipa="/dɪsˈkleɪm.ər/" vi_ipa="đít-kley-mơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7e2fbb7f-72a3-47b8-b9c8-74b9f873b923" type="Noun">
+          <Vi>lời từ chối trách nhiệm</Vi>
+          <En>A statement that denies responsibility or is intended to limit liability, often used in legal documents, advertisements, or public communications.</En>
+          <Example>The website includes a disclaimer stating that the information provided is for educational purposes only.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="301a872d-ca36-4580-b2d6-b7d78136e3ae">
+              <Vi>Trong quảng cáo sản phẩm, công ty đưa ra lời từ chối trách nhiệm để tránh bị kiện nếu sản phẩm gây hiểu lầm.</Vi>
+              <En>In a product advertisement, a company includes a disclaimer to avoid lawsuits if the product causes misunderstanding.</En>
+            </Situation>
+            <Situation id="35dde0de-a3f0-49d0-b028-a5f0fe38c3bd">
+              <Vi>Tài liệu pháp lý yêu cầu người ký xác nhận họ đã đọc và hiểu lời từ chối trách nhiệm.</Vi>
+              <En>A legal document requires signatories to confirm they have read and understood the disclaimer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

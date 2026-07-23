@@ -1,0 +1,65 @@
+<Vocab id="d0633c7a-933f-423e-97f8-c094595139aa" word="soul" type="short" status="done">
+  <Topics>
+    <Topic id="40efa9fd-ac22-41b6-875c-df7e839de5f2" value="Philosophy &amp; Spirituality" />
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e89f7373-4138-4e23-b525-b3f5ffc0c255" ipa="/saʊl/" vi_ipa="sao-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f5a3b07f-29b3-4d03-8fed-6eb38e9c8fd4" type="Noun">
+          <Vi>linh hồn</Vi>
+          <En>The spiritual or immaterial part of a human being or animal, regarded as immortal and the seat of consciousness, emotion, and personality.</En>
+          <Example>Many religious traditions teach that the soul survives after death.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d290624a-2364-466d-b33e-1984d6ce1455">
+              <Vi>Trong tín ngưỡng tôn giáo, linh hồn là phần bất tử của con người.</Vi>
+              <En>In religious belief, the soul is the immortal part of a person.</En>
+            </Situation>
+            <Situation id="d2b77126-2a17-46b7-b343-07289f37982c">
+              <Vi>Trong văn học, "soul" thường được dùng để chỉ bản chất sâu sắc nhất của một cá nhân.</Vi>
+              <En>In literature, "soul" often refers to the deepest essence of a person.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7e4af866-388e-4042-927c-22e8c9bb59e3" type="Noun">
+          <Vi>người có sức hút mạnh, người có tâm hồn phong phú</Vi>
+          <En>A person who is deeply expressive, passionate, or emotionally resonant; often used metaphorically to describe authenticity or depth of feeling.</En>
+          <Example>She’s the soul of the party—everyone feels alive when she’s around.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ccfc0d5-4f16-4ae2-a61a-fb0fc72ff387">
+              <Vi>Dùng để khen ai đó là "trái tim" của nhóm, mang lại năng lượng tích cực.</Vi>
+              <En>Used to praise someone as the emotional center or life of a group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f56205cb-f2c8-490d-b833-1a7c9d16ceee" type="Noun">
+          <Vi>nguồn gốc, cốt lõi tinh thần của một điều gì đó</Vi>
+          <En>The essential or most important quality or character of something.</En>
+          <Example>Honesty is the soul of trust.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18408eab-bcf7-4204-a43a-df3f76333d09">
+              <Vi>Trong triết học hoặc phê bình nghệ thuật, "soul" chỉ yếu tố cốt lõi tạo nên giá trị đích thực.</Vi>
+              <En>In philosophy or art criticism, "soul" denotes the essential quality that gives something its true value.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
