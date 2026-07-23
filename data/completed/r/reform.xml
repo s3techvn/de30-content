@@ -1,0 +1,58 @@
+<Vocab id="3bf8ef6a-7257-4cdc-a0d2-4de12916ab86" word="reform" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c52f25f7-744a-4b80-aae6-aef982d644b5" ipa="/rɪˈfɔːrm/" vi_ipa="rị-pho-ram">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="77218feb-c7ea-4cca-8ae2-f06fde6bcd8d" type="Verb">
+          <Vi>cải cách</Vi>
+          <En>To make changes in something (such as a system, law, or institution) in order to improve it.</En>
+          <Example>The government plans to reform the tax code to make it fairer and simpler.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e62532be-307d-4e8d-93c3-e0983debecca">
+              <Vi>Chính phủ hoặc tổ chức đưa ra các thay đổi có hệ thống để nâng cao hiệu quả hoặc công bằng.</Vi>
+              <En>A government or organization introduces systematic changes to improve fairness or efficiency.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="2ead1c4d-2032-4174-8234-f32269c07896" ipa="/ˈriː.fɔːrm/" vi_ipa="ri-fo-ram">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3634f9b7-fb82-4ad7-9821-8f74ac388f46" type="Noun">
+          <Vi>sự cải cách</Vi>
+          <En>A change or improvement made to a system, law, or institution, especially to correct problems or make it more effective.</En>
+          <Example>Education reform has been a major focus of the ministry for the past five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6443802-84b7-4e95-899c-1842533c5dd4">
+              <Vi>Các nỗ lực nhằm sửa đổi hoặc nâng cấp một thể chế hoặc quy định hiện hành.</Vi>
+              <En>Efforts aimed at revising or upgrading an existing institution or regulation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

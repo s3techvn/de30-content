@@ -1,0 +1,36 @@
+<Vocab id="f4fd8352-8ccd-433e-93f0-e542b044e9f9" word="belle" type="short" status="done">
+  <Topics>
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+    <Topic id="b41be329-710f-4aa3-ae0c-2ce2c02bcd12" value="Fashion &amp; Beauty" />
+    <Topic id="de3eaca7-bc1d-40ab-87ec-115a06859e89" value="Culture &amp; Society" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a047527e-4210-492b-ad36-1e6c62998e14" ipa="/bɛl/" vi_ipa="bên">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="37f81108-79ef-43a7-bedb-b6f46e88ec4f" type="Noun">
+          <Vi>Nàng thơ; người phụ nữ đẹp (thường trong văn học hoặc nghệ thuật)</Vi>
+          <En>A beautiful woman, especially one who is the object of admiration or affection, often in a literary or artistic context.</En>
+          <Example>She was considered the belle of the ball, captivating everyone with her grace and charm.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="ff3005dd-1654-4736-adcd-0d3fc88964b0">
+              <Vi>Mô tả một người phụ nữ nổi bật về sắc đẹp trong một sự kiện xã hội cổ điển hoặc trong tiểu thuyết cổ điển.</Vi>
+              <En>Used to describe a woman who stands out for her beauty at a formal social event or in classic literature.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
