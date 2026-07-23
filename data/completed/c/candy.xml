@@ -1,0 +1,37 @@
+<Vocab id="5531eece-8fb0-4204-9da0-7af892169813" word="candy" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="e018c441-ab3a-4731-89b8-aa343d99992b" value="Pastry Chef" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="11d2e946-c58c-4191-b535-d65858b034de" ipa="/ˈkæn.di/" vi_ipa="can-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f5a9f929-1d46-4603-8aa9-a918dc991482" type="Noun">
+          <Vi>Kẹo (thực phẩm ngọt, thường làm từ đường và các chất tạo vị)</Vi>
+          <En>A sweet food made mainly from sugar, often in the form of small, colorful pieces or shapes.</En>
+          <Example>She bought a bag of candy to share with her friends at the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26429229-d1f3-43da-80d1-735cca24c70b">
+              <Vi>Học sinh mua kẹo sau giờ học ở cửa hàng gần trường.</Vi>
+              <En>Children buy candy from the shop near school after class.</En>
+            </Situation>
+            <Situation id="cb71472e-05bc-48d5-b8a5-5102c05e5706">
+              <Vi>Kẹo được dùng để trang trí bánh gato hoặc làm quà tặng trong dịp lễ.</Vi>
+              <En>Candy is used to decorate cakes or as gifts during holidays.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
