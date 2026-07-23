@@ -596,4 +596,5 @@
   <Profession id="6a06dcc1-3096-4ebe-9757-677c0420e8a9" slug="ai-researcher" value="AI Researcher" />
   <Profession id="24ae14f5-e43b-44dd-9117-bc087c7a9442" slug="animal-control-officer" value="Animal Control Officer" />
   <Profession id="cae4e92d-1eb2-4253-89fc-448c71bba575" slug="biochemist" value="Biochemist" />
+  <Profession id="f152d0ca-8bbc-42cf-917d-358dd464df3e" slug="camera-engineer" value="Camera Engineer" />
 </Professions>

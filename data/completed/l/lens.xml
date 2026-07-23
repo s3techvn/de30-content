@@ -1,0 +1,41 @@
+<Vocab id="22e561c9-80d7-4dfd-baf4-e6c18076fd01" word="lens" type="short" status="done">
+  <Topics>
+    <Topic id="70ccd8f3-1e8d-41b1-be6f-b0e1bf975f88" value="Optics" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+    <Topic id="0aaa2743-373f-4e29-ac75-ce2c87b76aac" value="Vision Care" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="44817e93-f60f-4dcc-9e49-31b732af2d11" value="Optometrist" />
+    <Profession id="09f812ac-617f-4a9d-bc5a-316fd0fc714c" value="Ophthalmologist" />
+    <Profession id="f152d0ca-8bbc-42cf-917d-358dd464df3e" value="Camera Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7303eb1-4d0a-4d3d-bbc9-e2874119d137" ipa="/lɛns/" vi_ipa="lens">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="556ce723-952b-4ee6-9371-74eb1e7d8f26" type="Noun">
+          <Vi>thấu kính</Vi>
+          <En>A piece of transparent material, usually glass or plastic, with at least one curved surface that is used to focus light or magnify images.</En>
+          <Example>The camera’s lens focuses light onto the sensor to capture a sharp image.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b2cfc6c-e5d2-4d9b-a8f0-db8ef7963100">
+              <Vi>Trong máy ảnh hoặc kính hiển vi, bộ phận quang học làm cong ánh sáng để tạo hình ảnh.</Vi>
+              <En>In a camera or microscope, the optical component that bends light to form an image.</En>
+            </Situation>
+            <Situation id="d160ff00-ffa2-4699-9974-8af2127a7efa">
+              <Vi>Kính mắt có thấu kính điều chỉnh độ cận hoặc viễn.</Vi>
+              <En>Glasses or contact lenses that correct vision by refracting light.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
