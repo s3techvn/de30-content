@@ -1,0 +1,56 @@
+<Vocab id="f3dce584-6c41-474d-8325-ee06758ea8b0" word="zip" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="67668a79-8a07-44d3-874f-f8d3871ac3cc" value="Clothing &amp; Accessories" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a1329f6-94e3-4ffe-9fe3-e0ef8e5f8e9c" ipa="/zɪp/" vi_ipa="zíp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74780d94-b48a-47a5-9fab-df6fec9034f0" type="Noun">
+          <Vi>khóa kéo</Vi>
+          <En>A device consisting of two rows of teeth that interlock when a slider is moved along them, used to close or fasten garments, bags, etc.</En>
+          <Example>She pulled the zip on her jacket up to the top.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04e96b76-60e2-4035-b993-d353f89fe9ac">
+              <Vi>Mô tả hành động đóng/mở khóa kéo trên áo khoác, túi xách, quần áo.</Vi>
+              <En>Describing the action of fastening or unfastening a garment, bag, or zipper-equipped item.</En>
+            </Situation>
+            <Situation id="5ac131df-ac06-49e3-bdc8-34673ba74e56">
+              <Vi>Trong kỹ thuật phần mềm: thuật ngữ lóng chỉ hành trình nhanh chóng hoặc rút gọn (ví dụ: "code zip").</Vi>
+              <En>In software: slang for a fast or compressed process (e.g., "code zip").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a0080aa6-5703-4b6e-b762-8961e964c311" type="Verb">
+          <Vi>kéo khóa, đóng khóa kéo</Vi>
+          <En>To fasten or close something (especially a garment or bag) using a zip.</En>
+          <Example>He zipped up his backpack before heading out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f0f6e4fe-f6a8-4728-bee1-51902230d300">
+              <Vi>Hành động kéo khóa kéo lên hoặc xuống để đóng/mở.</Vi>
+              <En>The action of pulling the slider up or down to fasten or open a zip.</En>
+            </Situation>
+            <Situation id="8aea0e46-f09e-4914-85c2-530fd92c58d8">
+              <Vi>Trong kỹ thuật phần mềm: nén dữ liệu (thường dùng trong cụm "zip a file").</Vi>
+              <En>In software: to compress data (commonly used in the phrase "zip a file").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

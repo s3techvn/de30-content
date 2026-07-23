@@ -1,0 +1,52 @@
+<Vocab id="b7ddfe70-be7c-4e25-8419-47e6d6414899" word="commonwealth" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2f37e5f-d9d9-4179-be71-b62451fa5920" ipa="/ˈkɑːm.ənˌwɛlθ/" vi_ipa="côm-mơn-uen-uen-th">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="566cf3e1-7c75-4b9a-9c5c-b1fc4fcebc92" type="Noun">
+          <Vi>Khối thịnh vượng chung; cộng đồng các quốc gia cùng chung một thể chế chính trị hoặc lịch sử</Vi>
+          <En>A political union of independent states, especially one led by the United Kingdom and comprising many former British colonies</En>
+          <Example>The Commonwealth of Nations holds a summit every two years to discuss global and regional issues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5d71faa-7a3f-4da9-8626-6c97e3ad2e93">
+              <Vi>Trong bối cảnh quan hệ quốc tế, nói về tổ chức gồm 56 quốc gia thành viên từng là thuộc địa của Anh.</Vi>
+              <En>In international relations, referring to the organization comprising 56 member states, most of which were former British colonies.</En>
+            </Situation>
+            <Situation id="333c8c37-187d-44a1-8fdb-3cf4fe4181db">
+              <Vi>Chỉ một số bang tại Mỹ (ví dụ: Pennsylvania, Massachusetts) có tên chính thức là "Commonwealth" thay vì "State".</Vi>
+              <En>Refers to certain U.S. states (e.g., Pennsylvania, Massachusetts) whose official names use "Commonwealth" instead of "State".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f0f16057-b289-4d70-a0dd-8120ec86ac77" type="Noun">
+          <Vi>Thịnh vượng chung; lợi ích chung của cộng đồng</Vi>
+          <En>The general welfare or well-being of the people in a society or community</En>
+          <Example>His policies were designed to promote the commonwealth of all citizens, not just the wealthy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac21efc6-8ba8-4b30-844b-8b7ec7bf4864">
+              <Vi>Trong triết học chính trị, nhấn mạnh đến lợi ích tập thể hơn là lợi ích cá nhân.</Vi>
+              <En>In political philosophy, emphasizing collective benefit over individual gain.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
