@@ -1,0 +1,40 @@
+<Vocab id="78efaf2a-655e-4e8b-a7ce-84de3e5d80ae" word="vegetation" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="d4eac4cc-14b4-48c5-b363-dd1164a6e2d3" value="Landscape Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7c4e8d37-a225-4196-b67b-fa2f6a107849" ipa="/ˌvedʒ.əˈteɪ.ʃən/" vi_ipa="vê-gi-tê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6de1c97f-a701-4ffb-994f-eaa3f3b66114" type="Noun">
+          <Vi>Cây cối; thảm thực vật</Vi>
+          <En>All the plants in a particular area or period, considered collectively.</En>
+          <Example>The forest fire destroyed much of the local vegetation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed4353e9-fdf3-470e-a4df-65981a4482b6">
+              <Vi>Mô tả cảnh thiên nhiên với nhiều loại cây cỏ mọc tự nhiên.</Vi>
+              <En>Describing a natural landscape covered with various types of plants and grasses.</En>
+            </Situation>
+            <Situation id="4fc4a186-f7b3-4006-9de1-7d6a47fb3eba">
+              <Vi>Nhắc đến tác động của biến đổi khí hậu đối với hệ thực vật.</Vi>
+              <En>Referring to the impact of climate change on plant life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
