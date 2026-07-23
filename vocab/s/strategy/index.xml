@@ -1,0 +1,40 @@
+<Vocab id="2720f108-fee5-4a1d-8a14-f3f7b40d8276" word="strategy" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="9637e361-1510-45c9-9401-1612a015c195" value="Gaming" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+    <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" value="Game Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b83055af-3c19-4a43-b1ec-2d803d9b7e15" ipa="/ˈstræt.ə.dʒi/" vi_ipa="sờ-trờ-tê-gi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d3e183f5-7cf6-4596-a1e2-5e8f3659c286" type="Noun">
+          <Vi>Chiến lược</Vi>
+          <En>A long-term plan of action designed to achieve a particular goal, typically one involving political, military, or economic elements.</En>
+          <Example>The company developed a new marketing strategy to increase its global presence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a81205a0-a644-4da9-bd87-83670a167064">
+              <Vi>Trong kinh doanh, khi lập kế hoạch dài hạn để đạt lợi thế cạnh tranh.</Vi>
+              <En>In business, when formulating a long-term plan to gain competitive advantage.</En>
+            </Situation>
+            <Situation id="27ffe3d8-3047-47b2-a521-1a0d50fc0ae5">
+              <Vi>Trong quân sự, kế hoạch tổng thể để giành chiến thắng trong xung đột.</Vi>
+              <En>In military contexts, the overall plan to achieve victory in conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
