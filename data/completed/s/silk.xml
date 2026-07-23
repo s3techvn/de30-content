@@ -1,0 +1,56 @@
+<Vocab id="4ef61a19-d1e4-4169-beae-61dbeedbb70c" word="silk" type="short" status="done">
+  <Topics>
+    <Topic id="4f49e033-1da2-4be4-a465-a7cd881be9f9" value="Textiles &amp; Fashion" />
+    <Topic id="bb945e1e-2e6c-4075-a760-79ed375d3780" value="Luxury Goods" />
+    <Topic id="5714e845-199f-4ad7-b115-14815b4f444b" value="Traditional Crafts" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="b8d12e1c-af0e-4726-b04b-789491176dec" value="Textile Engineer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1011445-a769-44d8-9bc4-42e1c5705bfe" ipa="/sɪlk/" vi_ipa="sích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e420b1fc-4617-4af3-9722-e79d6dfab71d" type="Noun">
+          <Vi>Silk: sợi tơ tằm, vải lụa</Vi>
+          <En>A fine, smooth, lustrous fabric made from the fine threads produced by the silkworm, or the natural protein fiber itself.</En>
+          <Example>She wore a beautiful silk dress that shimmered under the chandelier light.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d7a8bc3-e93c-4ea3-becb-0d3b7d6ad292">
+              <Vi>Mô tả chất liệu vải cao cấp dùng trong trang phục sang trọng.</Vi>
+              <En>Describing a high-quality fabric used in elegant clothing.</En>
+            </Situation>
+            <Situation id="9cb48195-187f-4283-bd86-cacb6a056754">
+              <Vi>Nói về sản phẩm từ tơ tằm trong thủ công mỹ nghệ hoặc thời trang.</Vi>
+              <En>Referring to products made from natural silk in crafts or fashion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b96859d8-8c16-4504-ba01-962706d8148e" type="Adjective">
+          <Vi>Silk: làm bằng tơ tằm; mượt mà, bóng mịn như lụa</Vi>
+          <En>Made of or resembling silk; having a smooth, soft, and lustrous texture or appearance.</En>
+          <Example>The silk scarf felt cool and luxurious against her skin.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="133d28c8-5412-4ff7-8fa2-5ad98a6681ec">
+              <Vi>Mô tả đặc tính vật lý của chất liệu hoặc bề mặt mượt mà.</Vi>
+              <En>Describing the physical texture or appearance of something smooth and glossy.</En>
+            </Situation>
+            <Situation id="2cbc5f20-ca9a-4ac7-a83b-98983c697e0f">
+              <Vi>Dùng trong quảng cáo thời trang hoặc mỹ phẩm để gợi cảm giác cao cấp.</Vi>
+              <En>Used in fashion or cosmetics advertising to evoke luxury and smoothness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
