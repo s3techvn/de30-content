@@ -1,0 +1,41 @@
+<Vocab id="7ab3e342-ecae-4459-9dba-165cd2fbc9ab" word="audience" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="55cdad55-4c92-40fa-8dd4-905b211281ee" value="Public Speaking" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="46b12bd8-db20-4f39-be3c-24896fcd13fc" ipa="/ˈɔː.di.əns/" vi_ipa="ố-đi-ân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7809591c-77e5-4dad-83a5-22396ba6e482" type="Noun">
+          <Vi>Khán giả; thính giả; người xem; người nghe</Vi>
+          <En>A group of people assembled to watch, listen to, or attend a performance, speech, or other event.</En>
+          <Example>The audience clapped enthusiastically after the final act.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bed40a3e-1d24-4665-a5a5-003f25d4c272">
+              <Vi>Người xem một vở kịch, buổi hòa nhạc, hoặc buổi thuyết trình.</Vi>
+              <En>People watching a play, concert, or lecture.</En>
+            </Situation>
+            <Situation id="02860088-0ec6-402b-85e9-424564caae61">
+              <Vi>Người xem một chương trình truyền hình hoặc video trực tuyến.</Vi>
+              <En>People watching a TV show or online video.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

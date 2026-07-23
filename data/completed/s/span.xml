@@ -1,0 +1,56 @@
+<Vocab id="104336d8-89c5-417a-8bdc-694457380024" word="span" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6a2bb752-c039-48e7-96da-724313948f84" ipa="/spæn/" vi_ipa="s-p-e-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2f370198-b181-4745-9473-32e7ee1592c9" type="Noun">
+          <Vi>Độ dài, khoảng cách, phạm vi, thời gian kéo dài</Vi>
+          <En>The length of time or distance between two points; the extent or range of something</En>
+          <Example>The bridge has a span of 500 meters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69b0a563-02d7-4ef7-b11b-b056e7fa98ad">
+              <Vi>Mô tả khoảng cách giữa hai điểm (ví dụ: nhịp cầu, thời gian giữa hai sự kiện)</Vi>
+              <En>Describing the distance between two points (e.g., bridge length, time between two events)</En>
+            </Situation>
+            <Situation id="c844e11a-cc39-490d-a5f4-08a516aa2961">
+              <Vi>Thời gian một sự kiện kéo dài hoặc một người giữ chức vụ</Vi>
+              <En>The duration of an event or the period someone holds a position</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d5516f36-89ea-4bd4-9584-cf032f3c360b" type="Verb">
+          <Vi>Kéo dài qua, trải dài, bao gồm</Vi>
+          <En>To extend or stretch across, over, or through a particular distance or period of time</En>
+          <Example>The mountain range spans three countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb91415d-b53c-46c9-bba4-4cea7dcf9c14">
+              <Vi>Mô tả một thực thể vật lý trải dài qua một khu vực (địa lý, kiến trúc)</Vi>
+              <En>Describing a physical entity extending across an area (geography, architecture)</En>
+            </Situation>
+            <Situation id="2146bf7a-5a61-40c7-9f32-e3ea77bf4aee">
+              <Vi>Mô tả thời gian hoặc phạm vi bao gồm nhiều giai đoạn hoặc yếu tố</Vi>
+              <En>Describing time or scope covering multiple stages or elements</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
