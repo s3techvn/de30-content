@@ -1,0 +1,60 @@
+<Vocab id="b640e29f-9487-4322-836d-2b876a2b3b9b" word="execute" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4dd9321a-54f5-4154-842e-7688a2ab003d" ipa="/ˈek.səˌtʃuːt/" vi_ipa="éc-xờ-tu-út">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d16d73bc-2ce2-40db-991b-5a2f41bb4991" type="Verb">
+          <Vi>thi hành (phán quyết, bản án); xử tử</Vi>
+          <En>to carry out (a court decision, sentence, or order); to kill someone as a legal punishment</En>
+          <Example>The court ordered the execution of the death penalty.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd1349b4-4d42-4724-9643-b58f76934cf7">
+              <Vi>Cảnh sát thi hành án tử hình theo phán quyết của tòa.</Vi>
+              <En>The police carry out a death sentence as ordered by the court.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="23d0857e-ac4b-436f-a7bb-b166f009bc6d" type="Verb">
+          <Vi>thực hiện, thực thi (kế hoạch, lệnh, hợp đồng)</Vi>
+          <En>to carry out or put into effect (a plan, order, or contract)</En>
+          <Example>The team executed the marketing strategy flawlessly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c46810ba-0b29-49bf-b27c-99d0b54c9aa7">
+              <Vi>Chúng tôi đã thực hiện đúng kế hoạch kinh doanh đã đề ra.</Vi>
+              <En>We successfully executed the business plan as outlined.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ec9d4a97-b255-4c1f-ad4c-e42e94feeeff" type="Verb">
+          <Vi>chạy (chương trình máy tính)</Vi>
+          <En>to run or operate (a computer program or process)</En>
+          <Example>The script will execute automatically when the system starts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="82bc0919-007b-48b6-8016-25dccd66f5be">
+              <Vi>Lệnh này được viết để chương trình tự động thực thi khi khởi động.</Vi>
+              <En>This command is written so the program executes automatically on startup.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
