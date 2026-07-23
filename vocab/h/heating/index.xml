@@ -1,0 +1,39 @@
+<Vocab id="d67995c8-10fa-410d-bdfb-743fe976a41b" word="heating" type="short" status="done">
+  <Topics>
+    <Topic id="d55c0d6f-cd2a-4462-bd87-2b555effc7bc" value="Home &amp; Daily Life" />
+    <Topic id="72d3d15a-ce90-4042-99f7-8a70c13dbc69" value="Energy &amp; Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="76e3e1f7-1388-45f9-b2a2-ceb7029fe9b5" value="HVAC Technician" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="eb939d34-35e5-456d-aa97-e43c850794e5" value="Energy Consultant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4dc9b149-45b6-4cc4-aebc-146897bd1cce" ipa="/ˈhiː.tɪŋ/" vi_ipa="hi-tíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="831afc8f-c0ca-469e-a656-e2771f0ebe54" type="Noun">
+          <Vi>Sự làm nóng; hệ thống sưởi</Vi>
+          <En>The process of heating something, or a system used to warm a building or space.</En>
+          <Example>The heating system in the apartment stopped working during the cold snap.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ddd63d86-c41f-4072-9640-4b8482070de4">
+              <Vi>Mô tả việc cung cấp nhiệt để giữ ấm trong mùa đông.</Vi>
+              <En>Describing the provision of heat to maintain warmth during winter.</En>
+            </Situation>
+            <Situation id="9633f112-40f3-4490-83bb-b53c31197998">
+              <Vi>Thảo luận về hiệu quả năng lượng của hệ thống sưởi.</Vi>
+              <En>Discussing the energy efficiency of a heating system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
