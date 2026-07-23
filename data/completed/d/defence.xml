@@ -1,0 +1,53 @@
+<Vocab id="671a491b-9bff-4f61-8a34-3587558b8942" word="defence" type="short" status="done">
+  <Topics>
+    <Topic id="f6af9f64-1d1a-4468-969a-d667cbc8b03c" value="Law and Security" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1b160f1b-2f93-4d9a-b1f9-38fca6dcdda8" ipa="/dɪˈfens/" vi_ipa="đi-phờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8568891c-9647-4e6c-af17-a53da18587d6" type="Noun">
+          <Vi>Sự phòng thủ; sự bảo vệ</Vi>
+          <En>The action or process of defending someone or something against attack or danger.</En>
+          <Example>The city built strong walls as a defence against invaders.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78a8d218-aad8-4c4a-9c1d-6693ab68bd13">
+              <Vi>Mô tả các biện pháp quân sự hoặc pháp lý nhằm bảo vệ một quốc gia, cá nhân, hoặc quyền lợi.</Vi>
+              <En>Refers to military, legal, or physical measures taken to protect against threats or aggression.</En>
+            </Situation>
+            <Situation id="e6a100c6-3de1-41f4-9553-c0c8f4cb43fb">
+              <Vi>Trong thể thao, hành động ngăn cản đối phương ghi điểm hoặc ghi bàn.</Vi>
+              <En>In sports, the act of preventing the opposing team from scoring, e.g., basketball defence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="91f4775a-030f-4b5b-bbbd-b61c6bf5b61e" type="Noun">
+          <Vi>Sự biện hộ; lời biện hộ</Vi>
+          <En>A reason or explanation offered in justification of an action or belief.</En>
+          <Example>His apology was not a defence, but an admission of fault.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5e60dbe-05f4-491e-9ea9-14e0768b9c48">
+              <Vi>Khi một người đưa ra lý do để giải thích cho hành vi của mình trước công chúng hoặc tòa án.</Vi>
+              <En>When someone offers an explanation or justification for their behavior, especially in a legal or public context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
