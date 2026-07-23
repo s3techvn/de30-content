@@ -1,0 +1,52 @@
+<Vocab id="f16cb830-27e3-44a3-9645-03dd3bb229a6" word="crude" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="70c9e6b8-5b1b-48f7-9807-2b9e0c45ca10" value="Science &amp; Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a265c15-f2ff-4b32-924b-7c7f1c8b69ee" ipa="/kruːd/" vi_ipa="crúp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a9f898e1-b6b8-4f15-b660-d4674434e521" type="Adjective">
+          <Vi>thô sơ; thô ráp; thô kệch; chưa qua xử lý tinh tế</Vi>
+          <En>in its original state; not refined, processed, or developed</En>
+          <Example>The company released a crude prototype to gather early user feedback.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="555d30a4-ce07-4504-8daf-2783bb6ba4ef">
+              <Vi>Mô tả sản phẩm hoặc công nghệ còn ở giai đoạn ban đầu, chưa hoàn thiện.</Vi>
+              <En>Describing a product or technology still in its early, unrefined stage.</En>
+            </Situation>
+            <Situation id="18fcef0f-3867-493f-882b-20d3a21acca7">
+              <Vi>Mô tả hành vi hoặc ngôn ngữ thô lỗ, thiếu tinh tế.</Vi>
+              <En>Describing behavior or language that is blunt, vulgar, or lacking in refinement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c8df2ee9-fbe4-4e74-97df-24cf815e0394" type="Adjective">
+          <Vi>thô lỗ; thô kệch (về hành vi, ngôn ngữ)</Vi>
+          <En>crude in manner or expression; lacking polish or tact</En>
+          <Example>He made a crude joke that made everyone uncomfortable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f44b31b6-b405-485e-90be-cdb3588ba59d">
+              <Vi>Mô tả lời nói hoặc hành động thiếu tế nhị trong giao tiếp.</Vi>
+              <En>Describing speech or actions that are tactless or inappropriate in social settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

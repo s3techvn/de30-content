@@ -1,0 +1,86 @@
+<Vocab id="f4888926-839c-4d69-b66b-70c0162be081" word="post" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="f91a0903-b644-4a97-ac43-eeded783b03b" value="Social Media" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="5febc387-0c4c-4cb7-966d-db1142dec825" value="Social Media Manager" />
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0165fb78-a964-4c3c-9e43-e2928d2a2aa0" ipa="/poʊst/" vi_ipa="pốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf1a23a1-a835-48ae-b435-0196d62a3ec4" type="Noun">
+          <Vi>Bài đăng (trên mạng xã hội); Cột, cọc; Chức vụ, nhiệm kỳ</Vi>
+          <En>A message shared on social media; a tall wooden or metal stake driven into the ground; a position or job, especially one involving responsibility or authority.</En>
+          <Example>I just posted a photo of my vacation on Instagram.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ecc10def-7b37-4253-ae3c-1faf38d1176e">
+              <Vi>Người dùng chia sẻ nội dung lên Facebook hoặc Twitter.</Vi>
+              <En>A user shares content on Facebook or Twitter.</En>
+            </Situation>
+            <Situation id="7cae5b81-0068-428b-ae34-3f63873e6201">
+              <Vi>Công nhân xây dựng đóng cọc để làm hàng rào.</Vi>
+              <En>Construction workers drive posts into the ground to build a fence.</En>
+            </Situation>
+            <Situation id="8ba4fe99-2e5a-49c3-a51a-cb751d4f5712">
+              <Vi>Anh ấy được bổ nhiệm vào chức vụ đại diện tại nước ngoài.</Vi>
+              <En>He was appointed to a diplomatic post overseas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4a7ce5d3-73d0-44fb-8ad2-d279402cfbd1" type="Verb">
+          <Vi>Đăng (bài lên mạng xã hội); Gắn, đóng cọc; Công bố, niêm yết</Vi>
+          <En>To share a message or content online; to fix something firmly in place with a post; to officially announce or display something publicly.</En>
+          <Example>She posted her résumé on LinkedIn last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="75e48886-6791-4644-aeb2-9829e63541ec">
+              <Vi>Người dùng đăng bài viết, ảnh hoặc video lên trang cá nhân.</Vi>
+              <En>A user uploads a status, photo, or video to their personal profile.</En>
+            </Situation>
+            <Situation id="12ee4729-61b1-4368-9d7f-7873a8bfbed1">
+              <Vi>Thợ điện gắn biển cảnh báo lên cột điện.</Vi>
+              <En>The electrician posts warning signs on the utility pole.</En>
+            </Situation>
+            <Situation id="f27e510d-1765-4a63-ac2c-a3470f6b9ad3">
+              <Vi>Chính quyền niêm yết kết quả bầu cử tại trụ sở.</Vi>
+              <En>The authorities post the election results at the town hall.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="840b3315-9a67-44ed-9346-d22556bcbdd4" ipa="/pəʊst/" vi_ipa="pốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f4fc3717-15e6-4d5c-ab6b-36678db7eff9" type="Noun">
+          <Vi>Bưu điện; Bưu phẩm, thư tín</Vi>
+          <En>A place where mail is sorted and delivered; mail or letters sent through the postal system.</En>
+          <Example>The post arrived late due to the snowstorm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a721d97a-fd6b-400e-8740-2cc6e0cb1549">
+              <Vi>Người dân đến bưu điện để gửi thư và nhận bưu phẩm.</Vi>
+              <En>People go to the post office to send letters and collect parcels.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
