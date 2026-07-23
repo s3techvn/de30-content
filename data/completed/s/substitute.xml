@@ -1,0 +1,78 @@
+<Vocab id="beebc26c-7678-40b5-b30f-4b61eba6375c" word="substitute" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5135498f-dbb2-454f-b495-6bba09b9c52e" ipa="/ˈsʌb.stɪ.tuːt/" vi_ipa="xáp-x-ti-tút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f5aa94e7-6e16-4280-a87a-561eeecab596" type="Noun">
+          <Vi>người hoặc vật thay thế</Vi>
+          <En>a person or thing that takes the place or function of another</En>
+          <Example>She was hired as a substitute teacher for the week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8e1f4a5-bb22-4853-ab6f-35d18a91e555">
+              <Vi>Trường học cần người thay thế khi giáo viên chính không thể đến lớp.</Vi>
+              <En>The school needs a replacement when the regular teacher is absent.</En>
+            </Situation>
+            <Situation id="e1edf2d4-0df1-4e82-a105-2c715cf9cf86">
+              <Vi>Người tiêu dùng dùng chất thay thế để tránh dị ứng hoặc theo chế độ ăn kiêng.</Vi>
+              <En>Consumers use substitutes to avoid allergies or follow dietary restrictions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fa10a1c7-da74-4b20-bf31-7890a3e1b45e" type="Verb">
+          <Vi>thay thế, thay thế bằng</Vi>
+          <En>to take the place of someone or something; to use one thing instead of another</En>
+          <Example>Can I substitute olive oil for butter in this recipe?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e18aba31-b0b4-4ae6-9312-e2d2b9084b2e">
+              <Vi>Nhà sản xuất thay đổi nguyên liệu để giảm chi phí.</Vi>
+              <En>The manufacturer substituted cheaper materials to cut costs.</En>
+            </Situation>
+            <Situation id="78c4cad4-8776-4134-943b-9d77e568ffbc">
+              <Vi>Học sinh được phép thay thế một bài luận bằng một dự án trình bày.</Vi>
+              <En>Students are allowed to substitute an essay with a presentation project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="e6f20d1f-65cf-4671-b3a9-ed892c4691cc" ipa="/ˈsʌb.stɪ.tuːt/" vi_ipa="xáp-x-ti-tút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5fdbf36a-9285-4519-a77f-220556546d29" type="Noun">
+          <Vi>chất thay thế (đặc biệt trong hóa học hoặc thực phẩm)</Vi>
+          <En>a substance used in place of another, especially in chemistry or food preparation</En>
+          <Example>Sugar substitutes like stevia are popular among diabetics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c8ffddd8-8409-4331-839b-1fd4d719213c">
+              <Vi>Nhà khoa học thử nghiệm chất thay thế nhựa sinh học.</Vi>
+              <En>The scientist tested a biodegradable plastic substitute.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
