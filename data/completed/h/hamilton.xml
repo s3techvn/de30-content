@@ -1,0 +1,40 @@
+<Vocab id="984f2321-3e04-4315-977f-452aaf935b02" word="hamilton" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="35545602-89a5-4006-9676-7616c9e49241" value="Theater Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b430a07d-f7e6-4253-b549-b8769f0487f6" ipa="/ˈhæm.ɪl.tən/" vi_ipa="hăm-mi-l-tơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e0461b9a-5156-4843-ab0b-46d8bbe53773" type="Proper Noun">
+          <Vi>Tên riêng: một thành phố ở bang New York, Mỹ; hoặc họ của Alexander Hamilton – một trong những Cha Đẻ của Hoa Kỳ.</Vi>
+          <En>A proper noun: a city in New York State, USA; or the surname of Alexander Hamilton, one of the Founding Fathers of the United States.</En>
+          <Example>Hamilton, New York, is known for its historic colleges and scenic hills.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93845bfd-c874-4cd8-a55e-8ccd6aac6eb8">
+              <Vi>Tham khảo địa danh hoặc nhân vật lịch sử trong bối cảnh giáo dục hoặc du lịch.</Vi>
+              <En>Referring to the place or historical figure in educational or travel contexts.</En>
+            </Situation>
+            <Situation id="8176c4f0-2091-4d09-b3a2-570cc9f68677">
+              <Vi>Trong văn hóa đại chúng, đặc biệt là vở nhạc kịch nổi tiếng của Lin-Manuel Miranda.</Vi>
+              <En>In popular culture, especially Lin-Manuel Miranda’s acclaimed musical *Hamilton*.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
