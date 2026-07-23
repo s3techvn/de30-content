@@ -1,0 +1,39 @@
+<Vocab id="f875aaa9-dd65-433e-942b-ca4cd571dd00" word="lingerie" type="short" status="done">
+  <Topics>
+    <Topic id="332c7532-50be-45f2-b2fb-8815323a037c" value="Fashion &amp; Clothing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d9aa6b8f-8477-4a00-a661-0f309656f9c4" ipa="/ˌlæn.ʒəˈreɪ/" vi_ipa="lăng-gi- rê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1181b3f1-608c-4135-9e86-457d32b6634b" type="Noun">
+          <Vi>Đồ lót nữ, đồ mặc trong nữ (thường chỉ các loại trang phục lót sang trọng, gợi cảm như áo ngực, quần lót, áo yếm, v.v.)</Vi>
+          <En>Women's intimate apparel, especially elegant or revealing undergarments such as bras, panties, corsets, and nightwear.</En>
+          <Example>She bought a new set of lace lingerie for her honeymoon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c579725-0fb3-4ace-b6c8-81c42ff03f0b">
+              <Vi>Mua sắm đồ lót tại cửa hàng chuyên về trang phục trong nhà hoặc phòng trưng bày thời trang.</Vi>
+              <En>Shopping for intimate apparel at a specialty store or boutique.</En>
+            </Situation>
+            <Situation id="b6114ce8-769b-4201-8592-c251a3a37099">
+              <Vi>Trình diễn đồ lót trong show thời trang hoặc quảng cáo sản phẩm.</Vi>
+              <En>Modeling lingerie in a fashion show or advertisement campaign.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

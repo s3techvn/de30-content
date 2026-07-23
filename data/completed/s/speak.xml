@@ -1,0 +1,66 @@
+<Vocab id="db250cff-6033-4488-9e47-ba368e23117b" word="speak" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="68a73060-18ac-40e1-8865-aec7d2523618" ipa="/spiːk/" vi_ipa="xpi:ck">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f340cb05-b468-456f-af2d-fa1245d85034" type="Verb">
+          <Vi>phát âm, nói (một ngôn ngữ), nói chuyện</Vi>
+          <En>to express thoughts or feelings by means of spoken words; to utter sounds that form words</En>
+          <Example>She can speak three languages fluently.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="584965fc-60b4-4640-8b85-c1acf94318de">
+              <Vi>Người học ngoại ngữ luyện phát âm và giao tiếp bằng tiếng Anh.</Vi>
+              <En>A language learner practices pronunciation and conversation in English.</En>
+            </Situation>
+            <Situation id="6f12191e-ae3d-4a03-85fd-8039ff57a62b">
+              <Vi>Một diễn giả trình bày ý kiến trước khán giả.</Vi>
+              <En>A speaker delivers an opinion to an audience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6cc21213-0f23-48b3-88b0-5b27c773954a" type="Verb">
+          <Vi>nói (một điều gì đó cụ thể), phát biểu, tuyên bố</Vi>
+          <En>to say something, especially formally or publicly</En>
+          <Example>He spoke clearly during the presentation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ec2fffc-1c81-48dd-94ad-d4e9f56e33f0">
+              <Vi>Một nhân viên phát biểu trong cuộc họp nhóm.</Vi>
+              <En>An employee makes a statement in a team meeting.</En>
+            </Situation>
+            <Situation id="9383c8ba-24ac-4128-beb4-fab70404976f">
+              <Vi>Người bị cáo phát biểu trong phiên tòa.</Vi>
+              <En>The defendant makes a statement in court.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0395378d-ef5e-4bd4-9384-70adb98c4afd" type="Verb">
+          <Vi>đại diện cho ai đó phát biểu, nói thay</Vi>
+          <En>to represent someone’s views or interests by speaking on their behalf</En>
+          <Example>Her lawyer spoke for her in court.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c686deac-8eb7-40cd-91bb-7671700a121a">
+              <Vi>Một người bảo trợ phát biểu thay cho trẻ em trong phiên tòa ly hôn.</Vi>
+              <En>A guardian ad litem speaks for the child in a divorce proceeding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
