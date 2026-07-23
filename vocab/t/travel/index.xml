@@ -1,0 +1,56 @@
+<Vocab id="85d8d894-92a9-4ffa-b0c3-82e07643e2d4" word="travel" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="8687ecb8-4a95-4300-a741-3f6fd24b3f0f" value="Leisure &amp; Tourism" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="329b9afc-10f9-402e-ac2d-f1436a8ca5a8" value="Airlines Staff" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="20e2460e-9bae-4cb2-bfe1-e7eef9d9a602" ipa="/ˈtræv.əl/" vi_ipa="trờ-vờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5420810c-c4b3-4b66-a3c3-561395221ea6" type="Verb">
+          <Vi>đi du lịch; du hành</Vi>
+          <En>to go from one place to another, especially over a long distance, typically using a vehicle, aircraft, or ship</En>
+          <Example>We plan to travel to Japan next summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac7f9c8c-f189-4c58-8b7a-00b3b01f9761">
+              <Vi>Mô tả việc đi xa bằng phương tiện giao thông để tham quan, nghỉ dưỡng hoặc công tác.</Vi>
+              <En>Describing movement over long distances for tourism, relaxation, or business.</En>
+            </Situation>
+            <Situation id="441c669c-b65a-4644-a417-b080726e451c">
+              <Vi>Dùng trong ngữ cảnh lên kế hoạch, chuẩn bị hoặc thực hiện chuyến đi.</Vi>
+              <En>Used when planning, preparing for, or undertaking a journey.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a90336a2-4f8d-4aa5-908b-339aca9a4c63" type="Noun">
+          <Vi>chuyến đi; hành trình</Vi>
+          <En>a journey, especially one involving several stages or a considerable distance</En>
+          <Example>The travel was long but rewarding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7be6e947-1038-4300-b690-15a54ebc6f56">
+              <Vi>Dùng khi nói về một chuyến đi cụ thể, thường dài ngày hoặc qua nhiều địa điểm.</Vi>
+              <En>Used when referring to a specific journey, often multi-day or covering multiple locations.</En>
+            </Situation>
+            <Situation id="69d07adc-2dc8-485b-9371-9a3062afbe7f">
+              <Vi>Trong ngữ cảnh báo cáo, chia sẻ kinh nghiệm du lịch.</Vi>
+              <En>In contexts reporting or sharing travel experiences (e.g., travel blogs, journals).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

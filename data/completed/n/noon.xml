@@ -1,0 +1,34 @@
+<Vocab id="fd8a8e8d-f9cc-41ad-aca3-c3d7d2471e55" word="noon" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="10fc3657-8bd6-4dda-a241-3a0151c979c7" ipa="/nuːn/" vi_ipa="nun">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="65b38d8a-6e0e-4139-8614-b47980164351" type="Noun">
+          <Vi>Giữa trưa; 12 giờ trưa</Vi>
+          <En>The middle of the day, typically 12 o’clock.</En>
+          <Example>We usually have lunch at noon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8f35378-56ac-404a-b0ff-e48d2fbc735e">
+              <Vi>Thời điểm mặt trời ở vị trí cao nhất trên bầu trời, thường là 12 giờ chiều.</Vi>
+              <En>The time when the sun is at its highest point in the sky, usually 12:00 p.m.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
