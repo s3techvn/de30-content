@@ -1,0 +1,38 @@
+<Vocab id="c0e4ca89-6c3c-49f1-a245-39115a3bd3f9" word="bibliographic" type="short" status="done">
+  <Topics>
+    <Topic id="fa7d417c-2b0f-4694-8894-fcf96315aa62" value="Academic Research" />
+  </Topics>
+  <Professions>
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="d2c3182e-11a9-4122-8765-fa17da87a453" value="Academic Researcher" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71e4fb28-8b8b-46ae-98df-55c9c81b3237" ipa="/ˌbɪb.liˈɒ.ɡræf.ɪk/" vi_ipa="bíp-li-ô-gra-phíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="67373746-0aa9-4fcf-9ceb-56de27e23f04" type="Adjective">
+          <Vi>thuộc về thư mục học, có liên quan đến việc lập thư mục sách hoặc tài liệu</Vi>
+          <En>relating to the description and identification of books, especially in scholarly contexts</En>
+          <Example>The library uses a bibliographic database to catalog all its holdings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc7cadd9-cf81-47f7-ae7b-1da590ca0ea2">
+              <Vi>Mô tả hệ thống phân loại và tra cứu sách trong thư viện.</Vi>
+              <En>Describing a system for classifying and retrieving books in a library.</En>
+            </Situation>
+            <Situation id="68f2f15b-f868-4f2d-8519-7a5724c2df1c">
+              <Vi>Liệt kê và định dạng tài liệu tham khảo trong bài nghiên cứu học thuật.</Vi>
+              <En>Listing and formatting references in an academic research paper.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
