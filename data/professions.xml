@@ -552,4 +552,5 @@
   <Profession id="260baef6-9cd8-4ba9-a4a4-b67152f222f5" slug="explorer" value="Explorer" />
   <Profession id="4d23f63e-c3ef-416a-8071-5b295783aa81" slug="medical-practitioner" value="Medical Practitioner" />
   <Profession id="ce7923c2-9b56-413b-81b1-ecef69c5f599" slug="interviewer" value="Interviewer" />
+  <Profession id="82574671-f387-484a-b342-e00c5923501e" slug="mortician" value="Mortician" />
 </Professions>
