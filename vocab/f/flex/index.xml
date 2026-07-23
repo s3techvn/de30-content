@@ -1,0 +1,60 @@
+<Vocab id="a857932d-a52c-4d59-a80b-c90c99c2c3c2" word="flex" type="short" status="done">
+  <Topics>
+    <Topic id="09907af9-e5fc-4428-8730-0d8c82bd03e6" value="Fitness &amp; Health" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="391eda84-c02f-4e03-9a2e-c41c23e55236" value="Personal Trainer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71b40452-3a85-4a7a-a86b-4fcbc4f763db" ipa="/flɛks/" vi_ipa="phlếch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="074e88f8-afae-4bd3-8b65-0f19a47a65a0" type="Verb">
+          <Vi>Cúi gập, uốn cong (cơ thể hoặc vật cứng)</Vi>
+          <En>To bend or move (a part of the body, especially a joint) in order to reduce the angle between two parts.</En>
+          <Example>She flexed her elbow to show off her biceps.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c95518e9-b0da-48db-ab7e-84c0e56ce241">
+              <Vi>Người tập thể hình uốn cong khuỷu tay để căng cơ.</Vi>
+              <En>A bodybuilder bends their elbow to contract and display their biceps.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="34297987-e7fd-4af0-8694-1ce299200c56" type="Verb">
+          <Vi>Khoe khoang, phô trương (khả năng, sức mạnh, tài sản)</Vi>
+          <En>To display something in a way that is intended to impress or provoke admiration or envy.</En>
+          <Example>He flexed his wealth by driving an expensive sports car to the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a957727f-6862-4c22-a2e9-2aa24fabf5c2">
+              <Vi>Người nổi tiếng đăng ảnh xe sang để khoe thành công.</Vi>
+              <En>A celebrity posts photos of luxury cars to showcase their success.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2823d798-3ec1-4377-b509-05afbaf0944a" type="Noun">
+          <Vi>Sự uốn cong, sự co cơ</Vi>
+          <En>The action of bending or contracting a muscle or joint.</En>
+          <Example>He did a few flexes to warm up before lifting weights.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac6b71a3-358e-41e8-8e71-4736ff67e706">
+              <Vi>Vận động viên thực hiện động tác co cơ để kiểm tra sức mạnh.</Vi>
+              <En>An athlete performs muscle contractions to assess strength and readiness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

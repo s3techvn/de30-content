@@ -1,0 +1,88 @@
+<Vocab id="8b0c607c-bc17-48cc-a46a-5728c78bf9cc" word="float" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="3d9b283a-d5d7-4403-ae26-d54611d2aea2" value="Swimming Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f76914b-c7a4-4940-924d-047c57b13cb7" ipa="/floʊt/" vi_ipa="ph-l-ô-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="289acf07-9d19-4a72-af75-b50b0aa035c5" type="Verb">
+          <Vi>trôi, nổi trên mặt chất lỏng hoặc khí</Vi>
+          <En>to remain suspended or supported on the surface of a liquid or gas, or to move slowly and lightly along a surface or through the air</En>
+          <Example>The leaf floated on the surface of the pond.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43b23583-38c8-4640-8eeb-dd220c349374">
+              <Vi>Mô tả vật thể nhẹ không chìm trong nước hoặc không khí.</Vi>
+              <En>Describes a light object not sinking in water or air.</En>
+            </Situation>
+            <Situation id="b9550e7c-a4b3-41af-b9a0-b4b60efed42b">
+              <Vi>Chất lỏng hoặc khí giữ vật thể lơ lửng do lực đẩy Archimedes.</Vi>
+              <En>A liquid or gas supports an object due to buoyant force.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6497c6ea-9d67-4881-8a6c-77f173d25015" type="Verb">
+          <Vi>đưa ra (ý tưởng, kế hoạch) để xem xét hoặc thảo luận</Vi>
+          <En>to present (an idea, plan, etc.) for consideration or discussion</En>
+          <Example>She floated the idea of a company retreat during the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed113964-bf6f-4816-ab38-0e9169aa84fe">
+              <Vi>Đề xuất một ý tưởng chưa được phát triển đầy đủ để nhận phản hồi.</Vi>
+              <En>Proposing a partially formed idea to gather feedback.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="05eff049-0e89-4fa0-b432-383361b02cc7" type="Noun">
+          <Vi>phao, vật nổi dùng để giữ chìm hoặc định vị</Vi>
+          <En>a buoyant object used to keep something afloat or mark a position in water</En>
+          <Example>The fishermen attached a light to the float so it would be visible at night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea123457-ad10-40db-a116-abbd7e218e1c">
+              <Vi>Sử dụng trong đánh bắt cá hoặc bơi lội để hỗ trợ hoặc đánh dấu vị trí.</Vi>
+              <En>Used in fishing or swimming to assist or mark location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dab946cd-f4fa-40dc-adf9-d1d53292d17c" type="Noun">
+          <Vi>giá trị số thực (trong lập trình)</Vi>
+          <En>a real number data type that can represent fractional values in programming</En>
+          <Example>The variable 'price' is stored as a float to allow decimal precision.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e3ce087e-c71c-42e6-aedf-13ea4940b51d">
+              <Vi>Trong lập trình, dùng để lưu số thập phân (khác với int – số nguyên).</Vi>
+              <En>In programming, used to store fractional numbers (unlike 'int' for integers).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e3b26338-afd7-4d28-99b0-5b8dae682da6" type="Noun">
+          <Vi>sự thay đổi nhỏ trong giá trị (thường dùng trong tài chính)</Vi>
+          <En>a small variation or adjustment in a value, especially in financial contexts</En>
+          <Example>The exchange rate is allowed a float of ±0.5% per day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1899579c-7cb3-469b-9d43-58ee86312d67">
+              <Vi>Trong tài chính, cho phép giá trị biến động trong một khoảng nhất định.</Vi>
+              <En>In finance, allowing a value to vary within a specified range.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
