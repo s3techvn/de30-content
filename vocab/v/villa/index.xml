@@ -1,0 +1,40 @@
+<Vocab id="fc3e82ba-2069-41cc-8bb0-562309e499bc" word="villa" type="short" status="done">
+  <Topics>
+    <Topic id="29955897-b53f-493a-a918-27822243d2cc" value="Travel and Accommodation" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="64295436-c81e-477c-8d52-789c15aca853" value="Lifestyle" />
+  </Topics>
+  <Professions>
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d33a1d0d-a87e-4ecc-afb8-0eca6e21f31d" ipa="/ˈvɪl.ə/" vi_ipa="vít-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa4c4411-5b25-4d6d-95c1-fce3bffd5047" type="Noun">
+          <Vi>biệt thự</Vi>
+          <En>A large, luxurious house, typically in a rural or suburban area, often used as a vacation home.</En>
+          <Example>We rented a villa by the sea for our summer holiday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac6c6961-2268-4541-a674-c7f684b75593">
+              <Vi>Mô tả một ngôi nhà sang trọng, thường có bể bơi và sân vườn, nằm ở vùng ven biển hoặc ngoại ô.</Vi>
+              <En>Describing a luxurious house, often with a pool and garden, located in a coastal or suburban area.</En>
+            </Situation>
+            <Situation id="a52fd951-b300-49e9-9033-faa09cf4e302">
+              <Vi>Chỗ ở cho thuê cao cấp dành cho kỳ nghỉ hoặc du lịch.</Vi>
+              <En>High-end accommodation available for rent, often used for vacations or extended stays.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

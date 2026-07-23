@@ -1,0 +1,41 @@
+<Vocab id="4eb94001-f048-435a-a4c6-b9cc893d9095" word="sonic" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="6af5e979-4bff-4033-9825-84200a891621" value="Audio Technician" />
+    <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" value="Game Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8340292e-d9cb-442b-876a-5c70c722c6d3" ipa="/ˈsɒn.ɪk/" vi_ipa="xô-níc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c582a755-e000-450d-a7d3-867c93fabd0e" type="Adjective">
+          <Vi>thuộc về âm thanh; có liên quan đến âm thanh hoặc sóng âm</Vi>
+          <En>relating to sound, especially sound waves within the range of human hearing</En>
+          <Example>The sonic boom shattered the windows of nearby houses.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fade2e91-fba8-4717-aca2-864b7ea2d55a">
+              <Vi>Mô tả các hiện tượng liên quan đến sóng âm, như trong vật lý hoặc kỹ thuật âm thanh.</Vi>
+              <En>Used when describing phenomena related to sound waves, such as in physics or audio engineering.</En>
+            </Situation>
+            <Situation id="746d0e31-e4cb-43b3-b3b0-2c35ee115e0e">
+              <Vi>Chỉ tốc độ bằng hoặc gần tốc độ âm thanh (thường dùng trong "sonic speed" hoặc "sonic barrier").</Vi>
+              <En>Refers to speeds equal to or approaching the speed of sound (e.g., in "sonic speed" or "breaking the sonic barrier").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

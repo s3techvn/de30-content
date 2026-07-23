@@ -690,4 +690,5 @@
   <Profession id="287eb6b3-d4e3-47e4-91b6-f63f2cf3bd7c" slug="miner" value="Miner" />
   <Profession id="5e2d467d-da5f-4ad1-bc3d-aa185b0ec754" slug="pharmacist-(historical)" value="Pharmacist (historical)" />
   <Profession id="bb91ef34-6dd4-4167-87b6-6b75aafb7cfd" slug="stylist" value="Stylist" />
+  <Profession id="6af5e979-4bff-4033-9825-84200a891621" slug="audio-technician" value="Audio Technician" />
 </Professions>
