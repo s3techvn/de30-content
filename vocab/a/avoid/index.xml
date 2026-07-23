@@ -1,0 +1,36 @@
+<Vocab id="37deaeb7-b257-4c9c-b5a0-528f93217ad2" word="avoid" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30d22d6e-2188-4270-a2e4-96d727958497" ipa="/əˈvɔɪd/" vi_ipa="ơ-vối-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb265565-a17b-441d-9539-3964635e3461" type="Verb">
+          <Vi>tránh, né, tránh xa</Vi>
+          <En>to keep away from, prevent oneself from doing something, or prevent something from happening</En>
+          <Example>She avoids eating sugar to maintain her healthy diet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ce44cc4c-81bf-4d7e-8bb5-72e6be930039">
+              <Vi>Chủ động không tiếp xúc với điều gây bất tiện, nguy hiểm hoặc không mong muốn.</Vi>
+              <En>Actively staying away from something inconvenient, dangerous, or undesirable.</En>
+            </Situation>
+            <Situation id="dc265933-6c08-46b8-b8a2-92ba93ebaed1">
+              <Vi>Không làm điều gì đó để không gặp rắc rối hoặc hậu quả tiêu cực.</Vi>
+              <En>Refraining from doing something to avoid trouble or negative consequences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,40 @@
+<Vocab id="5cbceef8-b075-48a0-87fe-47f419f96765" word="divided" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4066814a-adbb-453e-92c0-100b26030e86" ipa="/ˈdaɪ.vɪ.dɪd/" vi_ipa="đai-vai-đít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ecc06b47-f324-44b7-a707-b7a5f2673c3f" type="Adjective">
+          <Vi>chia thành nhiều phần; bị chia rẽ, bất hòa</Vi>
+          <En>separated into parts or groups, especially when there is disagreement or lack of unity</En>
+          <Example>The country remains divided over the issue of climate policy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dbbf6bca-e13d-4be7-924e-d9b6e5ec1674">
+              <Vi>Mô tả một nhóm người có quan điểm trái ngược nhau, không thống nhất.</Vi>
+              <En>Describing a group of people with opposing views and no consensus.</En>
+            </Situation>
+            <Situation id="f13272d6-8ce8-4041-9ef0-09eefa550970">
+              <Vi>Mô tả một vật đã bị tách thành các phần riêng biệt.</Vi>
+              <En>Describing an object that has been split into separate parts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
