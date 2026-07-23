@@ -1,0 +1,70 @@
+<Vocab id="85d9d678-cd99-483e-822b-465595b04616" word="russian" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f1e69fa2-7525-4774-b4ae-e20a56bd6ddb" ipa="/ˈrʌʃ.ən/" vi_ipa="rát-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="24f2b6c5-a6f0-4099-83bd-e5c551a45265" type="Adjective">
+          <Vi>thuộc Nga, thuộc người Nga</Vi>
+          <En>belonging to Russia or its people, language, or culture</En>
+          <Example>She studied Russian literature at university.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34e67071-fe21-4e6f-9c92-645fcfad3f42">
+              <Vi>Mô tả điều gì liên quan đến nước Nga, người Nga, hoặc văn hóa Nga.</Vi>
+              <En>Used to describe anything related to Russia, its people, or its culture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f01124f7-d34c-4196-93c8-eaa7e106fdef" ipa="/ˈrʌʃ.ən/" vi_ipa="rát-xơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="66cdd790-2892-4b25-a4fd-d562d253dedf" type="Noun">
+          <Vi>người Nga</Vi>
+          <En>a native or citizen of Russia</En>
+          <Example>The Russian spoke fluent English after living in London for five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee4da096-6c55-4ec3-8dfe-b60c7e339992">
+              <Vi>Dùng để chỉ một cá nhân có quốc tịch hoặc nguồn gốc từ Nga.</Vi>
+              <En>Used to refer to an individual from Russia, especially by nationality or ethnicity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1a8faaa3-949b-4e77-b0fb-64287c267957" type="Noun">
+          <Vi>ngôn ngữ Nga</Vi>
+          <En>the Slavic language spoken as the official language of Russia and widely in other former Soviet republics</En>
+          <Example>He is learning Russian to read Dostoevsky in the original.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="23673b3b-a6f0-415a-9abd-33efeb7ea8e0">
+              <Vi>Dùng để chỉ tiếng Nga như một ngôn ngữ được học hoặc sử dụng.</Vi>
+              <En>Used when referring to the Russian language as an object of study or communication.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
