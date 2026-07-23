@@ -1,0 +1,40 @@
+<Vocab id="3d16517c-0a20-4918-9d95-b8172b0084f4" word="sperm" type="short" status="done">
+  <Topics>
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="ee2219a9-06c4-499d-b635-4e8b99e31630" value="Reproduction" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="e8407dba-fe3d-4970-bf95-5eeeeda54fad" value="Fertility Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c123431-628d-4607-8415-e8c8bda4657e" ipa="/spɜːrm/" vi_ipa="xợp-mờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a96194d4-0c6e-41f5-be9b-59bda7ae9608" type="Noun">
+          <Vi>Tinh trùng</Vi>
+          <En>The male reproductive cell, which fertilizes the female egg to initiate development of a new organism.</En>
+          <Example>Each ejaculation contains hundreds of millions of sperm cells.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7e217d76-dc95-4be2-a8dc-b34bea649e9c">
+              <Vi>Trong quá trình thụ tinh nhân tạo, tinh trùng được thu thập và tiêm trực tiếp vào buồng trứng.</Vi>
+              <En>In assisted reproductive technologies, sperm is collected and injected directly into the ovary or uterus.</En>
+            </Situation>
+            <Situation id="442d3048-d2cb-4039-ba8c-4b76bf236594">
+              <Vi>Tinh trùng khỏe mạnh có di động tốt và hình dạng bình thường.</Vi>
+              <En>Healthy sperm exhibit good motility and normal morphology.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

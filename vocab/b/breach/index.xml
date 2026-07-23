@@ -1,0 +1,56 @@
+<Vocab id="5a348c71-0b4c-40a7-bfcd-3691c2f6c735" word="breach" type="short" status="done">
+  <Topics>
+    <Topic id="4df1030a-7106-465c-82be-482fe933b4c8" value="Law &amp; Security" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="460c0182-fe67-4d41-b787-5d1c52de31d4" value="Military &amp; Defense" />
+  </Topics>
+  <Professions>
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eac3dabe-b192-4417-b300-b4c7ce330de2" ipa="/briːtʃ/" vi_ipa="bri-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2e7cf8e4-dd61-498d-a5e7-706a6e66890f" type="Noun">
+          <Vi>Vi phạm; sự xâm nhập trái phép; sự phá vỡ (cam kết, quy định, v.v.)</Vi>
+          <En>A breaking or violation of a law, agreement, or code of conduct.</En>
+          <Example>The company faced legal action after a data breach exposed millions of customer records.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bdcbeb2-71d6-41de-b69b-a505a9c2aa02">
+              <Vi>Việc một bên không tuân thủ điều khoản trong hợp đồng.</Vi>
+              <En>A party failing to comply with the terms of a contract.</En>
+            </Situation>
+            <Situation id="e0fbd5af-9de3-4c56-8d16-1805d2a65b01">
+              <Vi>Sự xâm nhập trái phép vào hệ thống máy tính để đánh cắp dữ liệu.</Vi>
+              <En>An unauthorized intrusion into a computer system to steal or damage data.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8b472f20-8e12-4602-893d-a84dfa6f7ee9" type="Verb">
+          <Vi>Phá vỡ; xâm nhập trái phép; vi phạm (cam kết, quy định, v.v.)</Vi>
+          <En>To break or fail to uphold (a law, agreement, or code of conduct).</En>
+          <Example>The government accused the rebels of breaching the ceasefire agreement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5e544fe7-e69d-46f8-9003-a81e562500a1">
+              <Vi>Việc một công ty tiết lộ thông tin bí mật cho đối thủ cạnh tranh.</Vi>
+              <En>A company revealing confidential information to a competitor.</En>
+            </Situation>
+            <Situation id="db6548b3-3026-48ce-93ad-33b6ade60d67">
+              <Vi>Việc một hệ thống bảo mật bị tin tặc xâm nhập.</Vi>
+              <En>A security system being infiltrated by hackers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
