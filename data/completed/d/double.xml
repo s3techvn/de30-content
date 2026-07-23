@@ -1,0 +1,78 @@
+<Vocab id="9ed1dffb-38cc-48e1-ae64-fe823234eb05" word="double" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5b273232-dfa8-42ed-a01d-f3ee36aa479f" ipa="/ˈdʌb.əl/" vi_ipa="đáp-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="15e5cec2-314a-402c-b78d-396cf63ee434" type="Adjective">
+          <Vi>gấp đôi, hai lần</Vi>
+          <En>twice the size, amount, or number; consisting of two identical parts</En>
+          <Example>She ordered a double espresso and a double cheeseburger.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="41f0ba6e-6d24-4b6b-bab1-f89a03f81a45">
+              <Vi>Mô tả số lượng hoặc kích thước tăng gấp hai lần.</Vi>
+              <En>Used to describe something that is twice as large, numerous, or intense.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ff02f63-7c2c-4138-b753-ce6c1bc874f2" type="Noun">
+          <Vi>số nhân đôi, bài nhân đôi</Vi>
+          <En>a thing that is double another of the same kind; a duplicate</En>
+          <Example>The artist painted a double of the famous landscape.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80087d5d-d026-4924-ac1b-2895e2b418b4">
+              <Vi>Trong nghệ thuật hoặc thể thao, chỉ phiên bản sao hoặc đối thủ tương đương.</Vi>
+              <En>In art or sports, refers to a copy or equivalent counterpart.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="37feaa0f-ee5e-4d4e-bfd5-780de73a3042" type="Verb">
+          <Vi>gấp đôi, nhân đôi</Vi>
+          <En>to make twice as great in size, amount, or number</En>
+          <Example>The company’s profits doubled in just one year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fe7dbf32-43fe-4fed-982e-1e0e6caaef32">
+              <Vi>Dùng khi nói về tăng trưởng nhanh hoặc nhân số lượng lên hai lần.</Vi>
+              <En>Used when describing rapid growth or doubling a quantity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6bdce5b0-afcb-48cd-9b78-b8bb6089c19b" ipa="/ˈdʌb.əl/" vi_ipa="đáp-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8ddb9109-38aa-4d03-8ba9-a65717894648" type="Adverb">
+          <Vi>gấp đôi, hai lần</Vi>
+          <En>twice as much or as many; in duplicate</En>
+          <Example>He nodded double and smiled broadly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ea830fa-729a-4b02-b51d-a0f96fa56cb4">
+              <Vi>Mô tả hành động được thực hiện hai lần hoặc với cường độ gấp đôi.</Vi>
+              <En>Used to emphasize repetition or intensity of an action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
