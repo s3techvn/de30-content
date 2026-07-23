@@ -1,0 +1,62 @@
+<Vocab id="22adbd58-847b-4be7-820b-4478598f2bee" word="ask" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="ce7923c2-9b56-413b-81b1-ecef69c5f599" value="Interviewer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="84fec461-31d6-4a70-80df-2ef8f9345e49" ipa="/æsk/" vi_ipa="étx">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="613d1d13-c271-4341-b2b1-1addc353e951" type="Verb">
+          <Vi>hỏi</Vi>
+          <En>To put a question to someone; to request information or a response from someone.</En>
+          <Example>Could you ask her if she’s available for a meeting tomorrow?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="33de5aff-099d-4c58-a67c-54deb40bc23c">
+              <Vi>Trong giao tiếp hàng ngày, khi bạn muốn biết thêm thông tin từ người khác.</Vi>
+              <En>In everyday conversation, when you want to obtain information from someone.</En>
+            </Situation>
+            <Situation id="ae5326d8-55d1-47ff-8018-426488345ade">
+              <Vi>Trong phỏng vấn, người tuyển dụng thường hỏi các câu hỏi để đánh giá ứng viên.</Vi>
+              <En>In an interview, the interviewer often asks questions to assess the candidate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7d2c1471-6e9f-4ee0-9173-7ce75cdcac89" type="Verb">
+          <Vi>đòi hỏi, yêu cầu (điều gì đó)</Vi>
+          <En>To demand or request something, often in a formal or urgent manner.</En>
+          <Example>She asked for a refund after receiving the damaged product.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f718a98-1867-4160-a6e0-41fbedb83f87">
+              <Vi>Khi bạn yêu cầu một dịch vụ hoặc quyền lợi hợp lý từ người khác hoặc tổ chức.</Vi>
+              <En>When you request a reasonable service or right from someone or an organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e81233b5-5cb9-4f39-8219-80a4aa9df363" type="Verb">
+          <Vi>mời (ai đó làm điều gì)</Vi>
+          <En>To invite or request someone to do something.</En>
+          <Example>He asked me to help him move furniture this weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="868a750e-5d9f-4ecb-8751-ad0fb8c65327">
+              <Vi>Khi bạn mời hoặc nhờ ai đó giúp đỡ trong một công việc cụ thể.</Vi>
+              <En>When you invite or ask someone to help with a specific task.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
