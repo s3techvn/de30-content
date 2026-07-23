@@ -1,0 +1,51 @@
+<Vocab id="853928f0-3e2c-4ca1-aab9-5fafc8e459ee" word="samba" type="short" status="done">
+  <Topics>
+    <Topic id="5a9d9f25-208e-44aa-be5d-06bb6835b797" value="Music and Dance" />
+    <Topic id="8eca0d7c-0524-4c91-acc5-bba3c3107fb5" value="Culture and Traditions" />
+  </Topics>
+  <Professions>
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="623b8b9d-57b6-4b03-a84a-590c577eeb2f" value="Choreographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2fd0c8bc-5759-43f4-8ebc-5ee33763b4b0" ipa="/ˈsæm.bə/" vi_ipa="xam-ba">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="699aaf33-bc26-46d3-a46e-c8566144f835" type="Noun">
+          <Vi>Bản samba – một điệu nhảy và âm nhạc sôi động có nguồn gốc từ Brazil, đặc trưng bởi nhịp điệu nhanh, chuyển động hông mạnh và trang phục rực rỡ.</Vi>
+          <En>A lively Brazilian dance and music style characterized by fast rhythms, strong hip movements, and colorful costumes, originating from Afro-Brazilian communities in Rio de Janeiro.</En>
+          <Example>During Carnival, thousands of dancers perform the samba in elaborate parades along the Sambadrome.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02305e98-aaa3-4726-b1ee-d855397af9db">
+              <Vi>Người dân Brazil biểu diễn samba trong lễ hội Carnival hàng năm.</Vi>
+              <En>People in Brazil perform samba during the annual Carnival celebrations.</En>
+            </Situation>
+            <Situation id="86b4097d-edae-4090-b50e-63a0477da8e1">
+              <Vi>Một nhóm bạn học tại một lớp khiêu vũ quốc tế đang tập luyện điệu samba.</Vi>
+              <En>A group of students at an international dance class are practicing the samba.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="660e7242-159e-4071-b24a-7fd90492a6c5" type="Noun">
+          <Vi>Âm nhạc samba – thể loại nhạc Brazil với nhịp 2/4 hoặc 2/2, thường dùng nhạc cụ như surdo, tamborim, và cavaquinho.</Vi>
+          <En>Samba music: a Brazilian musical genre in 2/4 or 2/2 time, typically featuring instruments such as the surdo, tamborim, and cavaquinho.</En>
+          <Example>The samba rhythm quickly spread across Latin America and inspired genres like bossa nova.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="98f2edf6-e987-43a3-a3d6-803fc01c0ef5">
+              <Vi>Một ban nhạc đường phố chơi samba sôi động trên quảng trường.</Vi>
+              <En>A street band plays lively samba music in the square.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
