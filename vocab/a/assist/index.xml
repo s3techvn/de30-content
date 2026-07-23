@@ -1,0 +1,40 @@
+<Vocab id="2cb39707-eb3c-4db9-b6d1-ccecffabb18e" word="assist" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9ac52fe7-d4b2-4de9-a6eb-00b499fa8a7a" ipa="/əˈsɪst/" vi_ipa="ơ-xi-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b15ca020-c173-4971-95e5-6588aac074f6" type="Verb">
+          <Vi>giúp, hỗ trợ</Vi>
+          <En>To help someone, especially by doing part of their work or providing needed support.</En>
+          <Example>The nurse assisted the doctor during the surgery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18f9d3a3-ae8a-43d8-ab27-43d0aa72a2c3">
+              <Vi>Giúp đỡ người khác trong công việc hoặc nhiệm vụ cụ thể.</Vi>
+              <En>Providing help in a specific task or responsibility, often by sharing the workload.</En>
+            </Situation>
+            <Situation id="751fc746-becb-416d-b7da-ee5358849794">
+              <Vi>Hỗ trợ trong tình huống khẩn cấp hoặc khó khăn.</Vi>
+              <En>Offering aid in an emergency or challenging situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
