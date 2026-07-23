@@ -1,0 +1,36 @@
+<Vocab id="6c945435-f9d7-470d-8f2c-808224a9faa6" word="prophet" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="020af0b5-2b78-4c7d-8eae-213c8b4080e6" ipa="/ˈprɑː.fɪt/" vi_ipa="prô-fít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82e1215c-561f-4283-9127-e58b498a2de7" type="Noun">
+          <Vi>ngôn sứ; người tiên tri</Vi>
+          <En>A person who is believed to be guided by a divine power and to speak or predict future events on behalf of that power.</En>
+          <Example>According to the Bible, Moses was a prophet who led the Israelites out of Egypt.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d569837-e877-42f8-b4c3-fc9c30161d4a">
+              <Vi>Trong tôn giáo, người được cho là nhận lời truyền đạt từ Thiên Chúa hoặc thần linh để cảnh báo hoặc hướng dẫn cộng đồng.</Vi>
+              <En>In religion, a person believed to receive divine messages to warn or guide a community.</En>
+            </Situation>
+            <Situation id="5f363968-8a3c-473e-87cb-413fe3cbe6f3">
+              <Vi>Một người có khả năng tiên đoán tương lai dựa trên trực giác mạnh mẽ hoặc kinh nghiệm sâu sắc, thường được dùng trong nghĩa bóng.</Vi>
+              <En>A person who seems to predict the future based on deep insight or experience, often used metaphorically.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

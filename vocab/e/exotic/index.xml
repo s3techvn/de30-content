@@ -1,0 +1,41 @@
+<Vocab id="410c6b58-f3e9-4312-9d69-cbc9c25301ff" word="exotic" type="short" status="done">
+  <Topics>
+    <Topic id="b6402c68-d918-4afb-834b-46c59bc6a9a8" value="Travel &amp; Culture" />
+    <Topic id="d7b83e73-a7a2-4a36-a4df-915021e488ca" value="Fashion &amp; Lifestyle" />
+    <Topic id="9b2f1d2c-cc3e-45d2-8d7c-ccc153ad933f" value="Food &amp; Dining" />
+  </Topics>
+  <Professions>
+    <Profession id="2d7708b0-ae1e-4f21-984a-dff07d2ee743" value="Travel Writer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="760f9181-f2d6-4252-b465-7c68a7bf6043" value="Tourism Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6fadeefc-e4d0-4f93-9ea0-ceaa98c77f7b" ipa="/ɪɡˈzɒt.ɪk/" vi_ipa="i-gzô-tíc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="15427b4f-35bc-4123-a773-84c1eb1d6197" type="Adjective">
+          <Vi> exotic: kỳ lạ, khác thường, thường mang tính chất từ xa xôi, nước ngoài, đặc biệt hoặc không quen thuộc với người bản địa</Vi>
+          <En> strikingly unusual or diverse in character; typically suggesting a foreign, unfamiliar, or out-of-the-ordinary origin or nature</En>
+          <Example> The restaurant serves exotic dishes like fried crickets and durian ice cream.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13c89ad5-8102-4860-b567-77555a6003ee">
+              <Vi>Mô tả một món ăn, trang phục, hoặc phong cách đến từ một nền văn hóa xa lạ, thường ở vùng nhiệt đới hoặc xa xôi.</Vi>
+              <En>Used to describe food, clothing, or customs that originate from a distant, unfamiliar, or tropical culture.</En>
+            </Situation>
+            <Situation id="c2f7ee0e-19fd-4554-a20a-ded95fc1ceda">
+              <Vi>Dùng để nhấn mạnh sự khác biệt nổi bật, thường mang sắc thái hấp dẫn hoặc gây tò mò.</Vi>
+              <En>Used to emphasize striking difference, often with connotations of allure or fascination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
