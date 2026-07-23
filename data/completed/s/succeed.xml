@@ -1,0 +1,50 @@
+<Vocab id="fd0aaca2-7563-443e-952e-850e64c2170c" word="succeed" type="short" status="done">
+  <Topics>
+    <Topic id="054958c7-f71e-42b7-a3b3-1339615c27ae" value="Achievement" />
+  </Topics>
+  <Professions>
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="94793ae3-63bd-486f-8c9e-81e0a0de4ad5" ipa="/səkˈsiːd/" vi_ipa="sờ-khây-d">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="008fd387-206e-4328-b95e-0f336f2b6500" type="Verb">
+          <Vi>thành công; đạt được kết quả mong muốn</Vi>
+          <En>to achieve a desired result or goal; to reach a favorable outcome</En>
+          <Example>She worked hard for years and finally succeeded in launching her own business.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b5134f50-e113-4714-a673-a5143c85069e">
+              <Vi>Sử dụng khi nói về việc đạt được mục tiêu sau nỗ lực hoặc thử thách.</Vi>
+              <En>Used when describing the achievement of a goal after effort or difficulty.</En>
+            </Situation>
+            <Situation id="a67283f1-65d6-452f-8898-f3b5c8624055">
+              <Vi>Sử dụng trong bối cảnh thi cử, kinh doanh, hoặc các dự án cá nhân.</Vi>
+              <En>Used in contexts such as exams, business ventures, or personal projects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5e4cd5e7-9983-4170-a872-c2e66b345f21" type="Verb">
+          <Vi>kế vị; lên thay (vị trí, chức vụ)</Vi>
+          <En>to take over a position, role, or office after someone else</En>
+          <Example>After the king’s death, his eldest son succeeded him to the throne.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b23c7260-a717-4cff-8cb1-586e94b6df35">
+              <Vi>Sử dụng trong các monarchies hoặc tổ chức có sự kế vị chính thức.</Vi>
+              <En>Used in monarchies or formal organizations where one person replaces another in a role.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
