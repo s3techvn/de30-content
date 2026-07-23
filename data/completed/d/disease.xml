@@ -1,0 +1,38 @@
+<Vocab id="1e1a1f05-f05a-400d-af5e-163af1f1a92a" word="disease" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ee1c45d6-993b-4781-b2e0-0171eeace2f6" value="Medical Researcher" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7bfd178d-1dce-459c-b1e2-53e5c84528af" ipa="/dɪˈziːz/" vi_ipa="đi-zi:z">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ddbd3df8-d403-450c-b012-355491741e4e" type="Noun">
+          <Vi>Bệnh (tật)</Vi>
+          <En>A disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms or that affects a specific location and is not simply a direct result of physical injury.</En>
+          <Example>Many infectious diseases can be prevented through vaccination.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8d3260f-bb84-4bb1-9d96-def963a74249">
+              <Vi>Bác sĩ chẩn đoán bệnh dựa trên triệu chứng và xét nghiệm.</Vi>
+              <En>The doctor diagnosed the disease based on symptoms and lab tests.</En>
+            </Situation>
+            <Situation id="6abe05c1-d0c0-4ed7-86b8-0cd2f64b5eec">
+              <Vi>Các bệnh truyền nhiễm như cúm hoặc lao là những ví dụ phổ biến.</Vi>
+              <En>Infectious diseases like flu or tuberculosis are common examples.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
