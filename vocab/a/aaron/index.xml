@@ -1,0 +1,39 @@
+<Vocab id="d43c5cb2-c671-4824-b906-1d9728e1c3a1" word="aaron" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="a886d71d-9e66-463f-ad17-7d90f9664543" value="Biblical Names" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="80612a31-ec63-4c3b-8a1d-0f22dde566dc" value="High Priest" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5a5955eb-c17f-4954-87bb-cfd286a9a192" ipa="/ˈær.ən/" vi_ipa="ác-rơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c92ebef8-44e6-425d-a5bd-96dbf14d1aec" type="Proper Noun">
+          <Vi>Aaron</Vi>
+          <En>A biblical figure; the elder brother of Moses and the first High Priest of the Israelites.</En>
+          <Example>Moses and Aaron led the Israelites out of Egypt according to the Book of Exodus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="628b09af-f334-4295-9e25-7ba5dc71e9ee">
+              <Vi>Người đứng đầu hàng giáo sĩ Do Thái trong Kinh Thánh.</Vi>
+              <En>The first high priest of the Israelites in the Hebrew Bible.</En>
+            </Situation>
+            <Situation id="0e376b24-0cf5-413a-8a90-b3e79c176804">
+              <Vi>Tên riêng phổ biến trong cộng đồng Kitô giáo và Do Thái.</Vi>
+              <En>A common given name among Jewish and Christian communities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
