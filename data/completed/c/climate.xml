@@ -1,0 +1,38 @@
+<Vocab id="2223eb9b-f4d2-4c1d-a1c3-af2b8d7cbddf" word="climate" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5635df9-10de-4e24-b09e-3f3ad5bc8150" ipa="/ˈklaɪ.mət/" vi_ipa="c-lai-mết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="156d169f-9a38-4382-9e4f-0589b4559e13" type="Noun">
+          <Vi>khí hậu</Vi>
+          <En>The long-term average of weather patterns—such as temperature, precipitation, humidity, and wind—in a particular area over time.</En>
+          <Example>The climate of the Amazon rainforest is hot and humid year-round.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5a1b334-1217-4c89-833d-3275143bbec7">
+              <Vi>Mô tả điều kiện thời tiết trung bình trong một khu vực trong nhiều thập kỷ.</Vi>
+              <En>Describing the typical weather conditions in a region over decades.</En>
+            </Situation>
+            <Situation id="75141732-19a9-4fd0-92f6-c5f00f4b60e2">
+              <Vi>Thảo luận về biến đổi khí hậu toàn cầu và tác động của nó.</Vi>
+              <En>Discussing global climate change and its impacts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
