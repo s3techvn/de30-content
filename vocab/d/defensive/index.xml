@@ -1,0 +1,52 @@
+<Vocab id="9ebe275d-1b59-4577-a462-b9dc143726b2" word="defensive" type="short" status="done">
+  <Topics>
+    <Topic id="014596af-5cfe-4ff2-b575-04f0700055e2" value="Military &amp; Security" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="3f31fdef-9f09-4ab4-87ca-396fee466846" value="Corporate Strategist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="94c6104e-85b9-4d8d-a548-d29515886b7f" ipa="/dɪˈfens.ɪv/" vi_ipa="đi-phờ-nờ-síp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6572c2b2-f88b-47f8-80fc-3ec304e5739c" type="Adjective">
+          <Vi>thủ vệ, phòng thủ, phòng ngự</Vi>
+          <En>relating to or used in defense; protecting from attack or danger</En>
+          <Example>The team adopted a more defensive strategy in the second half.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e9ee1011-baa1-465c-b74d-c87830ca81c0">
+              <Vi>Mô tả tư thế hoặc chiến thuật nhằm ngăn chặn đối phương ghi điểm hoặc tấn công.</Vi>
+              <En>Describing a posture or strategy aimed at preventing the opponent from scoring or attacking.</En>
+            </Situation>
+            <Situation id="6de3c560-31e5-4de4-b928-0db7a50788f2">
+              <Vi>Mô tả thái độ hoặc hành vi nhằm tự bảo vệ, tránh xung đột.</Vi>
+              <En>Describing an attitude or behavior aimed at self-protection and avoiding conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dce0873a-721b-482e-889f-249fd378daa0" type="Adjective">
+          <Vi>phòng thủ (trong thể thao)</Vi>
+          <En>relating to the part of a team or player responsible for preventing the opposition from scoring</En>
+          <Example>She is a key player on the defensive line.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb591971-2df5-4c7c-9731-e0f2d9143132">
+              <Vi>Dùng để chỉ vị trí hoặc vai trò trong đội bóng (như hậu vệ, thủ môn).</Vi>
+              <En>Used to refer to a position or role in a sports team (e.g., defender, goalkeeper).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -637,4 +637,5 @@
   <Profession id="e8c38669-b790-43ca-aa6c-e96b32ab838b" slug="retail" value="Retail" />
   <Profession id="2058a1eb-4d99-4a77-8d78-b63cfe742d92" slug="teacher-(literature)" value="Teacher (Literature)" />
   <Profession id="3f31fdef-9f09-4ab4-87ca-396fee466846" slug="corporate-strategist" value="Corporate Strategist" />
+  <Profession id="c3ffd4fd-318d-4c93-9a3a-ac1cfc174fcc" slug="sports-journalist" value="Sports Journalist" />
 </Professions>
