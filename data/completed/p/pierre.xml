@@ -1,0 +1,32 @@
+<Vocab id="5f849c41-6d6e-4d39-b39a-e274c93960e6" word="pierre" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="00c0ad1b-f223-4ccb-baf9-75ed7733ad37" ipa="/pɪˈɛr/" vi_ipa="pi-ép">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e64f37b8-11ee-4c97-91f9-956db8bc6d2c" type="Noun">
+          <Vi>Pierre (tên riêng nam, phổ biến ở Pháp và các nước nói tiếng Pháp)</Vi>
+          <En>Pierre: a masculine given name of French origin, derived from the Latin "petra" and Greek "petros", meaning "stone" or "rock".</En>
+          <Example>Pierre is a renowned chef in Paris.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf56b634-f611-41be-8396-89e12a9742d8">
+              <Vi>Dùng để gọi một người đàn ông có tên Pierre, thường gặp trong văn hóa Pháp.</Vi>
+              <En>Used to refer to a man named Pierre, commonly found in French-speaking cultures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
