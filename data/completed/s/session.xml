@@ -1,0 +1,36 @@
+<Vocab id="698793b2-913b-48c6-b8b6-b5546f5dd874" word="session" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7d9bb876-eb9f-40ff-b6c9-ef3e3e788ab7" ipa="/ˈsɛʃ.ən/" vi_ipa="sết-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="59907093-44f7-4d59-bb0b-6b706c144619" type="Noun">
+          <Vi>buổi học, buổi làm việc, phiên họp</Vi>
+          <En>A period of time devoted to a particular activity, especially a meeting or class.</En>
+          <Example>We had a three-hour coding session with the mentor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42ce3f5c-bc0c-4b31-a57f-2a65d249d2d8">
+              <Vi>Một buổi học hoặc làm việc kéo dài trong một khoảng thời gian nhất định.</Vi>
+              <En>A scheduled or focused period of learning, working, or discussing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
