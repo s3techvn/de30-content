@@ -1234,3 +1234,4 @@ ruby
 hurricane
 percentage
 isolation
+edge

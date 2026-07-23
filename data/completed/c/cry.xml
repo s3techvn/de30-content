@@ -1,0 +1,54 @@
+<Vocab id="7fb85272-12bf-41b3-afd3-cd9daf55764d" word="cry" type="short" status="done">
+  <Topics>
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="03819fbe-33e9-4425-b88a-26888f51611a" ipa="/kraɪ/" vi_ipa="crai">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1c864cad-0bb4-40ff-b4aa-64816e762427" type="Verb">
+          <Vi>khóc, nức nở</Vi>
+          <En>To shed tears, typically as an expression of sadness, pain, or strong emotion.</En>
+          <Example>She cried when she heard the sad news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f84579a2-28e0-4f55-acf1-4d6d317c8c64">
+              <Vi>Nghe tin buồn và không kìm được nước mắt.</Vi>
+              <En>Receiving distressing news and being unable to hold back tears.</En>
+            </Situation>
+            <Situation id="dc79e3d4-76e2-40f5-9cb9-8484202017d5">
+              <Vi>Trẻ em khóc vì đói hoặc mệt.</Vi>
+              <En>A child cries due to hunger or fatigue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6582ce3c-fa0d-4e8e-9e13-d7696e665f9e" type="Noun">
+          <Vi>tiếng khóc, sự khóc</Vi>
+          <En>A sound produced by shedding tears; an instance of crying.</En>
+          <Example>Her cry echoed through the empty hallway.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="37dbfa33-c3ea-4c6d-a936-1e23a2195191">
+              <Vi>Nghe thấy tiếng khóc từ phòng bên cạnh.</Vi>
+              <En>Hearing a cry coming from the adjacent room.</En>
+            </Situation>
+            <Situation id="d3d00194-48ff-4713-9775-0825cf6d68cb">
+              <Vi>Cuộc gọi khẩn cấp được kích hoạt sau tiếng khóc báo động.</Vi>
+              <En>The emergency call was triggered after the alarm cry.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
