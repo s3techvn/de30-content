@@ -1,0 +1,38 @@
+<Vocab id="431848e6-6348-4eb4-ad69-882a08c2b35e" word="increasing" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7de66fc1-1030-4552-b801-a48678a50adc" ipa="/ɪnˈkriː.sɪŋ/" vi_ipa="in-cri-sình">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4dfa1c27-996d-442c-8263-30fe261df38f" type="Adjective">
+          <Vi>đang tăng, ngày càng tăng</Vi>
+          <En>becoming larger or greater in size, amount, or degree; rising.</En>
+          <Example>The company's profits have been increasing steadily over the past year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d3464fe-0c94-404e-aefc-1a33c0a57035">
+              <Vi>Mô tả một đại lượng hoặc hiện tượng có xu hướng tăng lên theo thời gian.</Vi>
+              <En>Describing a quantity or phenomenon that rises over time.</En>
+            </Situation>
+            <Situation id="98f11c13-9cda-435a-969c-ff06be58a17c">
+              <Vi>Dùng trong phân tích dữ liệu để chỉ xu hướng tăng của chỉ số.</Vi>
+              <En>Used in data analysis to indicate an upward trend in a metric.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

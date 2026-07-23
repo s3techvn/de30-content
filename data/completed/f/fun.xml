@@ -1,0 +1,46 @@
+<Vocab id="115b358a-0c66-43cd-b6b3-4c3530c7cd42" word="fun" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1c7f5ef4-916d-4572-bdab-2093247f8433" ipa="/fʌn/" vi_ipa="phăng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c9e59f90-f648-443a-a5a1-cac06dfbd291" type="Noun">
+          <Vi>niềm vui; sự vui vẻ; điều thú vị</Vi>
+          <En>Enjoyment, amusement, or laughter; something that is enjoyable or entertaining.</En>
+          <Example>We had so much fun at the birthday party!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6c12388-4ef0-47cd-9057-49d7ace1b127">
+              <Vi>Mô tả một hoạt động mang lại niềm vui, như đi chơi công viên hoặc tổ chức tiệc.</Vi>
+              <En>Describing an activity that brings joy, such as visiting an amusement park or hosting a party.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2ef002f7-761a-4a85-ad20-1bf8bc9ff546" type="Adjective">
+          <Vi>vui vẻ; thú vị; hài hước</Vi>
+          <En>Enjoyable, amusing, or entertaining; providing fun.</En>
+          <Example>That was a fun movie—I laughed the whole time!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56b9cb79-9269-4895-b885-bf2eca1e3053">
+              <Vi>Dùng để khen một trải nghiệm, trò chơi, hoặc sự kiện mang tính giải trí cao.</Vi>
+              <En>Used to praise an experience, game, or event that is highly entertaining.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
