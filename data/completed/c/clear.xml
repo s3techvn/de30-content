@@ -1,0 +1,91 @@
+<Vocab id="6c32ccb1-3d33-42e0-b02c-c94ea0d26b01" word="clear" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1db880b4-77ef-4bae-910c-69b7d6a935b1" ipa="/klɪr/" vi_ipa="c-le-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f274cbb2-63e0-469a-b856-7d94aadb003e" type="Adjective">
+          <Vi>trong suốt; rõ ràng; sạch sẽ; rõ ràng (văn phong, lời nói)</Vi>
+          <En>transparent, easy to perceive or understand; unclouded or free from ambiguity</En>
+          <Example>The instructions were clear and easy to follow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf77889f-df74-4c47-b4d7-41a8074e677d">
+              <Vi>Mô tả một cảnh vật hoặc văn bản dễ hiểu, không mập mờ.</Vi>
+              <En>Describing a scene or text that is easy to understand, with no ambiguity.</En>
+            </Situation>
+            <Situation id="bff8dc80-72b8-45c6-9107-77325d8357d0">
+              <Vi>Chỉ trạng thái trong suốt của chất lỏng hoặc không khí.</Vi>
+              <En>Refers to the transparent state of a liquid or air (e.g., clear water).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="79c8f03b-aa83-4881-b3ab-f659bbda7e76" type="Verb">
+          <Vi>làm sạch; dọn dẹp; thông thoáng; xóa bỏ (trở ngại)</Vi>
+          <En>to make something free of obstacles, clutter, or ambiguity; to remove or get rid of</En>
+          <Example>Please clear the table after dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da09b990-c8f8-47d5-8cf6-5b51d79e39b0">
+              <Vi>Hành động dọn dẹp đồ đạc trên bàn, sàn nhà, v.v.</Vi>
+              <En>The act of removing items from a surface like a table or floor.</En>
+            </Situation>
+            <Situation id="420ca83a-6e71-4988-bfbf-50d8f7a4628f">
+              <Vi>Loại bỏ trở ngại để thông suốt (ví dụ: đường, suy nghĩ).</Vi>
+              <En>To remove obstacles (e.g., clear a blocked road or clear one’s mind).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="501dc2db-5fe6-47f0-a1ef-c91d3095d132" type="Adverb">
+          <Vi>một cách rõ ràng; hoàn toàn; đúng như (giá trị, số lượng)</Vi>
+          <En>in a clear manner; completely; exactly (used for emphasis)</En>
+          <Example>She clearly stated her position on the issue.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dfaee1bf-0a30-45ef-a8bc-b17e7434cc16">
+              <Vi>Khi nhấn mạnh sự rõ ràng trong phát biểu hoặc hành động.</Vi>
+              <En>When emphasizing clarity in speech or action (e.g., “He clearly misunderstood”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="7485b3c1-a19f-487c-8863-3e8a58321491" ipa="/klɪər/" vi_ipa="c-le-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a534b8b-d9af-4d51-83d1-8acb4a497d55" type="Verb">
+          <Vi>được phép qua (cửa, cổng, biên giới); được thông hành</Vi>
+          <En>to be allowed to pass through a border, checkpoint, or security check</En>
+          <Example>The package cleared customs without issues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d1c3350-ead3-48d8-86dd-355666c78d84">
+              <Vi>Quy trình hải quan hoặc kiểm tra an ninh hoàn tất thành công.</Vi>
+              <En>When a person or item passes successfully through customs or security screening.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

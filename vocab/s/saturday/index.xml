@@ -1,0 +1,32 @@
+<Vocab id="3f1da9a0-e6e0-4f2a-8e75-7f661d5e8fc6" word="saturday" type="short" status="done">
+  <Topics>
+    <Topic id="906ec058-bc5d-42a7-b67b-78a9090e95de" value="Time &amp; Calendar" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6640baf-5f10-4a50-a91f-b3e1362f3d09" ipa="/ˈsæt.ə.deɪ/" vi_ipa="sết-tơ-đê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="728ef49e-cdcd-46a7-8617-781309b0d81b" type="Noun">
+          <Vi>thứ Bảy</Vi>
+          <En>the day after Friday and before Sunday, the seventh day of the week</En>
+          <Example>We usually go grocery shopping on Saturday morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1e18c5d-fe27-4120-a913-719c84926d07">
+              <Vi>Ngày cuối tuần phổ biến để làm việc nhà, mua sắm, hoặc nghỉ ngơi.</Vi>
+              <En>A common weekend day for chores, shopping, or relaxation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
