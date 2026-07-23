@@ -1,0 +1,66 @@
+<Vocab id="8c7dadc9-48d4-4e15-b090-6588e9af16ee" word="extract" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8ae8fee-29f6-4ad4-928e-534fb50111c5" ipa="/ˈek.strækt/" vi_ipa="ích-trắc-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89c5438c-ad5c-4ea0-ae14-cc673bcecd24" type="Verb">
+          <Vi>trích xuất, rút ra</Vi>
+          <En>to remove or take out something, especially with effort or using a specific method</En>
+          <Example>Scientists extract DNA from blood samples for analysis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a2c43f2-378e-4789-af73-4cba8c153ff0">
+              <Vi>Quá trình tách chất ra khỏi hỗn hợp hoặc mô sống bằng phương pháp hóa học hoặc cơ học.</Vi>
+              <En>The process of separating a substance from a mixture or living tissue using chemical or mechanical methods.</En>
+            </Situation>
+            <Situation id="6086a076-8a46-4b87-a263-587edbf5eee0">
+              <Vi>Trích xuất thông tin hoặc ý tưởng từ một tài liệu hoặc cuộc trò chuyện.</Vi>
+              <En>Extracting key information or ideas from a document or conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="dfbf1580-da44-4833-9f17-d0e22d1f2dee" ipa="/ɪkˈstrækt/" vi_ipa="ích-trắc-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6b6c1d3d-444e-49c2-a727-df6cf1c00da2" type="Noun">
+          <Vi>chất chiết xuất, bản trích đoạn</Vi>
+          <En>a substance obtained from a raw material through a chemical or mechanical process; a short piece of writing taken from a longer work</En>
+          <Example>The recipe calls for one teaspoon of vanilla extract.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4ab1e40-d678-45de-8b4e-1966b4e63ca0">
+              <Vi>Sử dụng trong nấu ăn hoặc dược phẩm để chỉ chất cô đặc từ thực vật hoặc hóa chất.</Vi>
+              <En>Used in cooking or pharmaceuticals to refer to a concentrated substance derived from plants or chemicals.</En>
+            </Situation>
+            <Situation id="eddf749d-8455-426e-989f-0574f2f6fdbe">
+              <Vi>Trích đoạn trong sách, phim, hoặc bài phát biểu được dùng để minh họa.</Vi>
+              <En>A short passage from a book, film, or speech used as an illustration or example.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
