@@ -1,0 +1,38 @@
+<Vocab id="1c16aa5a-31b0-4ba1-8f66-1212be10aa15" word="bookstore" type="short" status="done">
+  <Topics>
+    <Topic id="99ce08a8-bde6-431d-bd4c-5236ebb2c1f3" value="Retail &amp; Shopping" />
+  </Topics>
+  <Professions>
+    <Profession id="f6a81836-bb63-4535-82f4-7af50cc0553d" value="Bookseller" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="45ca1827-9d93-491c-ab68-014e25aaaf13" value="Author" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d747483f-cd28-48fb-a9bc-d8b95c72fae3" ipa="/ˈbʊkˌstɔːr/" vi_ipa="búc-sto-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5642e10-3fc2-4b2d-aa01-8433bf704e91" type="Noun">
+          <Vi>Cửa hàng bán sách</Vi>
+          <En>A retail establishment that sells books</En>
+          <Example>I spent two hours browsing the new bookstore downtown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e974d1b-a524-4458-bba2-dd30daa01385">
+              <Vi>Mua sách giáo khoa, tiểu thuyết, hoặc tìm không gian đọc sách yên tĩnh.</Vi>
+              <En>Buying textbooks, novels, or finding a quiet place to read.</En>
+            </Situation>
+            <Situation id="b7533b2a-796e-4787-be50-3c403f21e0a2">
+              <Vi>Tham gia sự kiện ký tặng sách của tác giả.</Vi>
+              <En>Attending a book signing event hosted by an author.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
