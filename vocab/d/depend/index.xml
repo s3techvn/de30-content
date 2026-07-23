@@ -1,0 +1,40 @@
+<Vocab id="79eef0f4-6e5a-4049-9d46-21a47dce4d38" word="depend" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7da6a3e-1ccb-424c-9eae-11f5f3067879" ipa="/dɪˈpend/" vi_ipa="đi-pên">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2b4307f0-6e2c-4b6b-bd9f-5e2dba77f380" type="Verb">
+          <Vi>phụ thuộc vào</Vi>
+          <En>To rely on someone or something for support, help, or existence.</En>
+          <Example>Children depend on their parents for food and shelter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5dc16f28-5fcd-4dfd-bfe3-3645a940b079">
+              <Vi>Tình huống một người cần người khác để sống hoặc hoạt động.</Vi>
+              <En>A situation where one person relies on another for survival or functioning.</En>
+            </Situation>
+            <Situation id="52e8d606-f001-428f-a223-61ea979c68f3">
+              <Vi>Tình huống một kế hoạch hoặc kết quả bị chi phối bởi yếu tố khác.</Vi>
+              <En>A situation where a plan or outcome is contingent on another factor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
