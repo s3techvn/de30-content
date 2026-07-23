@@ -1,0 +1,52 @@
+<Vocab id="9b7612fb-3289-4494-944f-0ac2465199fc" word="formed" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="00395fbf-6ed8-4929-87e8-2a540724ddc4" ipa="/fɔːrmd/" vi_ipa="phoórm-d">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="50e3f59b-70db-4ee3-9ef8-356c9b74c9a8" type="Adjective">
+          <Vi>được tạo thành; được hình thành; có cấu trúc</Vi>
+          <En>Having a particular structure, shape, or organization; having taken shape or form.</En>
+          <Example>The team was formed after months of planning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="124a0c5d-3950-4d9a-bb37-7662ed425d2b">
+              <Vi>Mô tả một nhóm, tổ chức, hoặc vật thể đã được xây dựng hoặc phát triển rõ ràng.</Vi>
+              <En>Describing a group, organization, or object that has been deliberately constructed or developed.</En>
+            </Situation>
+            <Situation id="c88df62e-88d8-46be-83a8-4d53d36af1ef">
+              <Vi>Dùng trong ngữ cảnh khoa học để nói về sự hình thành cấu trúc (ví dụ: tinh thể, tế bào).</Vi>
+              <En>Used in scientific contexts to describe the emergence of a structure (e.g., crystals, cells).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="584e7cea-ea38-47de-a73b-0807e0f8e4ad" type="Verb (past tense/participle)">
+          <Vi>đã tạo thành; đã hình thành; đã tổ chức</Vi>
+          <En>Past tense and past participle of *form*; to have created, organized, or shaped something.</En>
+          <Example>The committee was formed to address the issue.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ddf41526-8248-4045-a238-2f6d8e882165">
+              <Vi>Mô tả hành động đã diễn ra trong quá khứ để tạo ra một tổ chức hoặc cấu trúc.</Vi>
+              <En>Describes an action in the past that resulted in the creation of an organization or structure.</En>
+            </Situation>
+            <Situation id="23f13cb5-f6f1-4f04-81b6-b32e74f009d4">
+              <Vi>Dùng trong báo cáo khoa học hoặc lịch sử để nêu bật quá trình hình thành.</Vi>
+              <En>Used in scientific or historical reports to highlight the process of creation or establishment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
