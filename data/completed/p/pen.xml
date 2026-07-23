@@ -1,0 +1,50 @@
+<Vocab id="ccd28e2e-aba7-47bc-8ab1-2547cc6c27f3" word="pen" type="short" status="done">
+  <Topics>
+    <Topic id="3047503a-acd8-485c-bc7a-49e042006ff6" value="Stationery" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d0444b2b-6cf6-4c99-9ff9-fbe28b9da990" ipa="/pɛn/" vi_ipa="pên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de2ba849-f0e5-4f80-9f6f-faa516ade60a" type="Noun">
+          <Vi>Cây bút (dùng để viết)</Vi>
+          <En>A writing instrument that applies ink to a surface, usually paper, for writing or drawing.</En>
+          <Example>She took out a blue pen to sign the document.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9987357b-69d9-4ab0-877d-663e8eeca090">
+              <Vi>Sử dụng bút để ghi chú hoặc ký tên.</Vi>
+              <En>Using a pen to take notes or sign a document.</En>
+            </Situation>
+            <Situation id="bfae110b-b274-4002-9418-7760ca558245">
+              <Vi>Học sinh mang bút đến lớp để làm bài kiểm tra.</Vi>
+              <En>A student brings a pen to class to take a test.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5bf48907-5174-4334-babf-861beb70ede9" type="Noun">
+          <Vi>Bàn chải (trong hội họa)</Vi>
+          <En>A brush used for painting, especially one with a handle and bristles.</En>
+          <Example>The artist cleaned her pen after using the dark ink.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d74cbf43-7a33-46d9-b75f-4b4764abc689">
+              <Vi>Họa sĩ dùng bút lông để vẽ tranh thủy mặc.</Vi>
+              <En>The artist used a brush to paint ink wash artwork.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
