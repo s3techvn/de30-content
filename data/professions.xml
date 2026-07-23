@@ -676,4 +676,5 @@
   <Profession id="92e8ce00-b6ab-4ccc-9392-cba47d33932b" slug="science-educator" value="Science Educator" />
   <Profession id="c6dcfbfc-54b3-4d97-bea0-7f9a4a95396a" slug="food-producer" value="Food Producer" />
   <Profession id="56c56fe0-da50-43b7-b59a-c8f5823e641e" slug="food-industry-worker" value="Food Industry Worker" />
+  <Profession id="dcb5eac5-3607-4c3a-b27b-0373898cbf3f" slug="aviation-staff" value="Aviation Staff" />
 </Professions>
