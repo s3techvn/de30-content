@@ -1,0 +1,64 @@
+<Vocab id="86c3d550-1356-4d7b-b3ce-dec9ad8b5af4" word="dry" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e76bc258-c6bd-45e8-bf27-97fd95e37b96" value="Weather" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="06fe8bfc-52bb-44ed-952c-31e40eb1a856" ipa="/draɪ/" vi_ipa="đ-ra-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="507ae784-12a4-4cac-8bbb-84cd0dcea64e" type="Adjective">
+          <Vi>khô</Vi>
+          <En>without moisture or liquid; not wet or damp.</En>
+          <Example>The desert is dry and hot most of the year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf6c8f43-4dba-4f93-8a88-3f29f0199b55">
+              <Vi>Mô tả thời tiết hoặc môi trường thiếu độ ẩm.</Vi>
+              <En>Describing weather or environment lacking moisture.</En>
+            </Situation>
+            <Situation id="1661b24b-000c-4ee4-a353-21fdecd918d5">
+              <Vi>Mô tả da hoặc tóc không có độ ẩm.</Vi>
+              <En>Describing skin or hair lacking moisture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="02e37067-5ee2-4c8e-8ad9-f0109ed05903" type="Adjective">
+          <Vi>không có vị ngọt; chát (nói về rượu hoặc đồ uống)</Vi>
+          <En>(of wine or other drink) not sweet; having a sharp, tart taste.</En>
+          <Example>She prefers a dry white wine with her seafood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="975902a3-368f-47b6-b47d-020b09ea4c9d">
+              <Vi>Mô tả mức độ ngọt trong rượu vang hoặc đồ uống.</Vi>
+              <En>Describing sweetness level in wine or beverages.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2b772269-381a-4942-8ed2-3df7dcbe7558" type="Adjective">
+          <Vi>không hài hước; nhàm chán (nói về lời nói hoặc tình huống)</Vi>
+          <En>(of a person, speech, or situation) not funny; dull.</En>
+          <Example>The lecture was dry and full of technical jargon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e5a4525-41a6-4909-8051-b3bb4d054014">
+              <Vi>Mô tả phong cách nói hoặc nội dung thiếu sinh động.</Vi>
+              <En>Describing speech or content lacking humor or liveliness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
