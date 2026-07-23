@@ -1,0 +1,52 @@
+<Vocab id="9e33a159-0f09-4650-abc8-a6fde59be800" word="suspended" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="299814db-570a-411b-8f50-23349f8e4bd0" ipa="/səˈspend.ɪd/" vi_ipa="xơ-spen-đít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1d6613b-798c-4962-abb5-ac23f262af8e" type="Adjective">
+          <Vi>bị treo, bị đình chỉ, bị tạm ngưng</Vi>
+          <En>Temporarily stopped, interrupted, or held in abeyance; not yet finalized or implemented.</En>
+          <Example>The student was suspended from school for two weeks after breaking the rules.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f439a23f-9cec-407d-a854-4248f4f8afd1">
+              <Vi>Học sinh bị tạm cấm đến trường vì vi phạm nội quy.</Vi>
+              <En>A student is temporarily barred from attending school due to rule violations.</En>
+            </Situation>
+            <Situation id="83c3a8f8-8ff8-40ad-a48d-7971a909ba2a">
+              <Vi>Dự án bị đình chỉ do thiếu vốn.</Vi>
+              <En>The project has been temporarily halted due to lack of funding.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3c42bdd3-3a0a-4e1c-8528-5a1533f6583d" type="Adjective">
+          <Vi>được treo lơ lửng (vật lý)</Vi>
+          <En>Hanging in the air or from a support, not resting on a surface.</En>
+          <Example>The chandelier was suspended from the ceiling by thick iron chains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54bc9c89-407b-4c08-961c-10e4250f6656">
+              <Vi>Cây đèn được treo lơ lửng giữa phòng.</Vi>
+              <En>The lamp hangs suspended in the middle of the room.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,46 @@
+<Vocab id="66df407a-71dd-402c-8324-d5834fa0e487" word="ceiling" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6cdc8e6c-4ae8-45a4-9304-3316ce931ce7" ipa="/ˈsiː.lɪŋ/" vi_ipa="xi-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df3f0f6f-c480-437c-bf80-94162456ddfb" type="Noun">
+          <Vi>Trần nhà</Vi>
+          <En>The upper interior surface of a room, typically constructed from plaster, drywall, or wood.</En>
+          <Example>The ceiling in the living room was painted white to make the space feel larger.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cdfc28a9-1405-4746-9f8c-e2b8d48474a5">
+              <Vi>Mô tả bề mặt trên cùng bên trong của một căn phòng.</Vi>
+              <En>Describing the top interior surface of a room, especially in architectural or interior design contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9f2b1d5-cc2a-4d70-a990-626387bc7aba" type="Noun">
+          <Vi>Mức tối đa, giới hạn (thường dùng trong kinh tế, tài chính)</Vi>
+          <En>The maximum level or limit allowed for something, especially in economic or financial contexts.</En>
+          <Example>The government imposed a salary ceiling to control public sector wage inflation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4bc9ea5d-2828-4a21-b271-afc0cc1b2436">
+              <Vi>Dùng khi nói về ngưỡng giới hạn tối đa trong chính sách hoặc quy định.</Vi>
+              <En>Used when referring to a maximum allowable level, such as in wage caps, price controls, or budget limits.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
