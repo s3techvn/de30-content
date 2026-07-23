@@ -1,0 +1,56 @@
+<Vocab id="375612ac-20ee-4d8b-ad1b-3f6e98744342" word="empty" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b758dfe2-01de-4435-acce-efbbe4aa3225" ipa="/ˈem.pti/" vi_ipa="em-p-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="379e6884-5700-489e-92d1-431a790713f3" type="Adjective">
+          <Vi>trống rỗng, không có gì bên trong</Vi>
+          <En>having no food, liquid, or other contents; completely hollow or vacant.</En>
+          <Example>The bottle was empty after he drank all the water.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8fbc74b-2b47-4d8f-baba-4d96bccd57fc">
+              <Vi>Mô tả một chiếc bình, hộp, hoặc phòng không chứa vật gì.</Vi>
+              <En>Describing a container, box, or room with nothing inside.</En>
+            </Situation>
+            <Situation id="67c4f25c-9c8c-46fe-9d04-fc0225eb9819">
+              <Vi>Chỉ trạng thái không có nội dung, ví dụ như email rỗng hoặc bộ nhớ trống.</Vi>
+              <En>Referring to a lack of content, e.g., an empty email or empty memory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d521cfa0-3c86-4fbc-aeef-058ec7ad75e5" type="Verb">
+          <Vi>làm trống, dọn sạch, rút hết nội dung</Vi>
+          <En>to remove all the contents from something; to empty a container, space, or responsibility.</En>
+          <Example>She emptied the trash into the dumpster.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4f9b2ce-e7f1-4c75-9782-475f55e78ab0">
+              <Vi>Hành động đổ hết đồ vật ra khỏi một vật chứa.</Vi>
+              <En>The action of removing all items from a container.</En>
+            </Situation>
+            <Situation id="c0eae617-2238-47ae-a4a3-0690da69a737">
+              <Vi>Giải phóng cảm xúc hoặc trách nhiệm (nghĩa bóng).</Vi>
+              <En>To release emotions or responsibilities (figurative use).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
