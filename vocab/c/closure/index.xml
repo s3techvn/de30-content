@@ -1,0 +1,64 @@
+<Vocab id="0198daf2-280b-4c53-8c15-8b33ba274e88" word="closure" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="10cddeb8-6d9b-499a-bce6-d67051db0caa" ipa="/ˈkloʊ.ʒər/" vi_ipa="clo-zơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eb9c0d2d-ca11-4be0-9119-39e4dcb0c8da" type="Noun">
+          <Vi>Sự đóng cửa; sự chấm dứt</Vi>
+          <En>The act of closing something, especially a business, organization, or facility; the end of an event or period.</En>
+          <Example>The company announced the closure of its downtown office next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66b37d17-5558-47e3-97ae-bf291c49d48a">
+              <Vi>Doanh nghiệp quyết định ngừng hoạt động một chi nhánh.</Vi>
+              <En>A business decides to shut down a branch location.</En>
+            </Situation>
+            <Situation id="af7c0507-d3d0-412b-9b41-78baac325b77">
+              <Vi>Người dùng cảm thấy hài lòng sau khi một dự án phần mềm được hoàn tất và giao cho khách hàng.</Vi>
+              <En>A user feels satisfied after a software project is completed and delivered.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4bdd1dfd-62d1-4554-bf89-7e337516d732" type="Noun">
+          <Vi>Sự kết thúc cảm xúc; sự thanh toán tâm lý</Vi>
+          <En>A sense of finality or emotional resolution, especially after a relationship or significant life event.</En>
+          <Example>She struggled to find closure after the breakup.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b574115-134d-48a5-8bb3-18a886ed29a3">
+              <Vi>Một người cần lời xin lỗi hoặc cuộc trò chuyện cuối cùng để cảm thấy bình yên sau chia tay.</Vi>
+              <En>Someone needs an apology or final conversation to feel emotionally at peace after a breakup.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ee59a01c-a9c2-420b-9339-46c71fd2b119" type="Noun">
+          <Vi>Trình bao đóng (trong lập trình)</Vi>
+          <En>In programming, a feature where a function retains access to variables from its enclosing scope even after the outer function has returned.</En>
+          <Example>Closures are essential for implementing callbacks and asynchronous operations in JavaScript.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eec53702-81a3-4d40-8cfc-7ed396f38b86">
+              <Vi>Lập trình viên sử dụng closure để giữ trạng thái bên trong hàm sau khi hàm đã kết thúc.</Vi>
+              <En>A developer uses a closure to preserve internal state within a function after it has finished executing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
