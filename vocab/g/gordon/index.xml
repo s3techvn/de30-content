@@ -1,0 +1,32 @@
+<Vocab id="14797909-9191-4151-b340-ee419bd69256" word="gordon" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7dfb770d-9f08-45fb-ae40-5c356cad5004" ipa="/ˈɡɔːr.dən/" vi_ipa="gợn-đờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9723b758-207d-4f13-a952-d405c31389d1" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm phổ biến trong tiếng Anh, ví dụ: Gordon Brown)</Vi>
+          <En>A surname or given name of Scottish origin, commonly used in English-speaking countries.</En>
+          <Example>Former UK Prime Minister Gordon Brown served from 2007 to 2010.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="913431ed-bc70-4a55-953c-c52c1d1ebbd2">
+              <Vi>Dùng khi đề cập đến người có tên hoặc họ là Gordon, đặc biệt trong bối cảnh chính trị, thể thao, hoặc giải trí.</Vi>
+              <En>Used when referring to a person with the name Gordon, especially in political, sports, or entertainment contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
