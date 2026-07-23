@@ -1,0 +1,66 @@
+<Vocab id="3603d1d7-755c-4db2-96d6-fc23f8355a5f" word="position" type="short" status="done">
+  <Topics>
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dcee7177-d1c0-475f-b9c6-3c988e39577d" ipa="/pəˈzɪʃ.ən/" vi_ipa="pơ-zih-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef78953d-aa43-4e04-8729-244a90576dae" type="Noun">
+          <Vi>vị trí; chức vụ; tư thế</Vi>
+          <En>the place where someone or something is, especially in relation to other things; a job or role; the way someone holds their body</En>
+          <Example>She applied for a position in the marketing department.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d600af9e-9803-4901-bf9e-389c13f59b0f">
+              <Vi>Vị trí địa lý hoặc vị trí trong một tổ chức</Vi>
+              <En>Physical location or role within an organization</En>
+            </Situation>
+            <Situation id="7fded01e-b647-418f-aa36-eb05c5617355">
+              <Vi>Tư thế cơ thể khi đứng hoặc ngồi</Vi>
+              <En>Posture or physical stance of the body</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d5dc4bfb-c38c-4e67-9607-537dd3517d3a" ipa="/pəˈzɪʃ.ən/" vi_ipa="pơ-zih-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2ff91f0-2265-4900-b6e8-5594ff9f629a" type="Verb">
+          <Vi>đặt ở vị trí; định vị; bày tỏ quan điểm</Vi>
+          <En>to place or fix in a particular position; to express one’s stance or opinion on an issue</En>
+          <Example>The committee positioned the new policy as a compromise.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bcf0a684-16fb-4715-bbf5-95c8e4497a33">
+              <Vi>Đặt một vật ở một vị trí cụ thể</Vi>
+              <En>To physically place an object in a specific orientation or location</En>
+            </Situation>
+            <Situation id="f58d1a23-4c7e-4add-ba28-d5bc0b27d264">
+              <Vi>Thể hiện rõ quan điểm trong một tranh luận hoặc thảo luận</Vi>
+              <En>To clearly state or frame one’s stance in a debate or discussion</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
