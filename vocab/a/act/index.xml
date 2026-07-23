@@ -1,0 +1,74 @@
+<Vocab id="db877caa-d87d-4ab5-af78-ae6881c5294b" word="act" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="6a8efd05-bfa4-4a20-8794-40c9e8726824" value="Performing Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="8bddaac3-70cd-427f-95db-d62040e7a310" value="Legislator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="892e002c-13cf-4bc7-91b2-617be20e31e0" ipa="/ækt/" vi_ipa="ác-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6edd6c1f-1220-4f94-9a47-5561d6f95b67" type="Verb">
+          <Vi>hành động; làm việc gì đó</Vi>
+          <En>to do something, especially to achieve a purpose; to take action</En>
+          <Example>She acted quickly to prevent the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="314e0fa0-c6b7-4adc-b8c9-606985136c0e">
+              <Vi>Mô tả việc một người thực hiện một hành động cụ thể trong một tình huống cần phản ứng.</Vi>
+              <En>Describes someone performing a specific deed in a situation requiring a response.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d3518ea-65e3-47cd-b65d-7d4b35690b86" type="Noun">
+          <Vi>sự hành động; đạo luật; màn trình diễn</Vi>
+          <En>a thing done; a law passed by a legislature; a performance in a play or show</En>
+          <Example>The government introduced a new act to reduce carbon emissions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b864043-2104-4dbd-b1f3-65a9055f0efe">
+              <Vi>Sử dụng khi nói về một đạo luật được thông qua.</Vi>
+              <En>Used when referring to a law passed by a legislative body.</En>
+            </Situation>
+            <Situation id="9356edbc-5dcb-456f-bd1f-367b2c1b1a3e">
+              <Vi>Sử dụng trong bối cảnh sân khấu hoặc điện ảnh để chỉ một phần trình diễn.</Vi>
+              <En>Used in theatre or film to refer to a segment of a performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="3b12b378-6488-411d-969e-dfac0f5aecc2" ipa="/ˈækt/" vi_ipa="ác-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af13e525-c265-4ac0-97ff-23ec57106df1" type="Verb">
+          <Vi>đóng vai;表现 (trong vở kịch)</Vi>
+          <En>to perform a role in a play, film, or other performance</En>
+          <Example>He acted the part of Hamlet in a university production.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a33d7efd-91f8-431d-9ff4-4bf5b22aef27">
+              <Vi>Sử dụng khi nói về việc một diễn viên thể hiện một nhân vật trong vở kịch hoặc phim.</Vi>
+              <En>Used when describing an actor portraying a character in a play or film.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

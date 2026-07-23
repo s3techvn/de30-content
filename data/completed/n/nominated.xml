@@ -1,0 +1,36 @@
+<Vocab id="6217a98a-a274-4591-9526-a74b58827716" word="nominated" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="d8101c61-6eb6-4758-88c4-e6cc83e8ce3c" value="Ceremony" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="b91687e7-155a-4c70-98b1-3841d4603011" value="Award Committee Member" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a36b0b2-d49a-4197-ac36-d68d7b5537e8" ipa="/ˈnɒm.ɪ.neɪ.tɪd/" vi_ipa="nô-mi-nây-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f497c059-a26a-40e9-822b-de9c092fcd3b" type="Adjective">
+          <Vi>được đề cử</Vi>
+          <En>Selected or proposed as a candidate for a position, award, or role.</En>
+          <Example>She was the nominated candidate for the ambassadorial post.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2681e8e8-4fb7-470d-bbac-c1200055cea4">
+              <Vi>Trong bối cảnh bầu cử hoặc trao giải, một người được chọn để tranh chức vụ hoặc giải thưởng.</Vi>
+              <En>In an election or award context, a person selected as a candidate for a position or award.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
