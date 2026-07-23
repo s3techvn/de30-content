@@ -1,0 +1,60 @@
+<Vocab id="2a88c9c5-03f9-4bfc-a865-b03a12e26636" word="engagement" type="short" status="done">
+  <Topics>
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e4735eb2-b10e-4169-b4df-efac05cae5be" ipa="/ɪnˈɡeɪdʒ.mənt/" vi_ipa="in-gây-gi-mênt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dbdf94ef-4c45-4521-84e7-7440bbc2b695" type="Noun">
+          <Vi>Hẹn ước, lời hứa kết hôn</Vi>
+          <En>A formal agreement to get married, typically involving a public announcement and exchange of rings.</En>
+          <Example>They announced their engagement at a family dinner last weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4026f56-2681-45cb-a5e5-d4f69cc8ce29">
+              <Vi>Chàng trai quỳ gối đưa nhẫn và xin phép cha mẹ cô gái.</Vi>
+              <En>The man kneels down, presents a ring, and asks the woman’s parents for her hand in marriage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="081d5ac4-f25f-4933-ad68-32ccfe338295" type="Noun">
+          <Vi>Sự tham gia tích cực, sự cam kết</Vi>
+          <En>The degree to which a person is committed to or involved in an activity, organization, or cause.</En>
+          <Example>Employee engagement is critical for productivity and workplace satisfaction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a3e19bf-762f-4fe5-8d3f-0c3dea31dba4">
+              <Vi>Doanh nghiệp tổ chức workshop để tăng sự gắn bó của nhân viên.</Vi>
+              <En>The company organizes workshops to boost employee engagement and team cohesion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="55611d77-6a38-4845-9e63-c4b970a263ca" type="Noun">
+          <Vi>Sự giao chiến, giao đấu (quân sự)</Vi>
+          <En>A fight or battle between opposing forces, especially in a military context.</En>
+          <Example>The troops entered into a fierce engagement with enemy forces near the border.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7a3cc0f-3273-4c7c-9ed5-2c66b837696d">
+              <Vi>Sĩ quan chỉ huy ra lệnh rút lui sau một trận giao tranh kéo dài.</Vi>
+              <En>The commanding officer ordered a withdrawal after a prolonged engagement with the enemy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
