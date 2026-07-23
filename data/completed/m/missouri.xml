@@ -1,0 +1,37 @@
+<Vocab id="4a64c3bb-72ea-4cce-93c2-67a34bf86490" word="missouri" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2030eaf8-29bb-4403-ae80-bfe5c34a070d" ipa="/mɪˈzʊər.i/" vi_ipa="mít-dơ-rơ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ee4c5600-1cfd-4a79-bdd1-7fd9be41db14" type="Noun">
+          <Vi>Missouri — một tiểu bang ở Trung Tây Hoa Kỳ</Vi>
+          <En>Missouri — a state in the Midwestern region of the United States</En>
+          <Example>The Ozark Mountains stretch across southern Missouri.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="502bce72-5780-4258-9f02-67b97b65d0a9">
+              <Vi>Trong ngữ cảnh nói về địa lý, du lịch, hoặc văn hóa Hoa Kỳ.</Vi>
+              <En>In contexts discussing U.S. geography, travel, or culture.</En>
+            </Situation>
+            <Situation id="5afa1361-280b-4cdb-a9a9-458bd7edf43c">
+              <Vi>Khi đề cập đến sông Missouri — con sông dài thứ hai ở Bắc Mỹ.</Vi>
+              <En>When referring to the Missouri River — the second-longest river in North America.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
