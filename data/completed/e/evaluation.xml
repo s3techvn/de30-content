@@ -1,0 +1,40 @@
+<Vocab id="2f409bdf-56dd-49b2-b6ec-0d294a26b2da" word="evaluation" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5acee2fe-8a30-493b-9e61-6da5315be69a" ipa="/ˌɪv.ə.ljuˈeɪ.ʃən/" vi_ipa="i-vơ-lu-ê-i-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f7d8ca0-53aa-41dc-b94b-4950415aa5f3" type="Noun">
+          <Vi>Đánh giá; sự đánh giá</Vi>
+          <En>The process of carefully judging the quality, value, or importance of something.</En>
+          <Example>The teacher gave her students feedback after the evaluation of their final projects.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf39a87e-8213-4129-bcf5-7781e0855296">
+              <Vi>Sử dụng trong giáo dục khi giáo viên chấm điểm hoặc nhận xét bài làm của học sinh.</Vi>
+              <En>Used in education when a teacher grades or comments on a student’s work.</En>
+            </Situation>
+            <Situation id="611caf83-753a-43b0-8f76-6d2ded945873">
+              <Vi>Trong doanh nghiệp, đánh giá hiệu suất làm việc của nhân viên định kỳ.</Vi>
+              <En>In business, the periodic assessment of employee performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
