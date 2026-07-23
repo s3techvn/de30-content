@@ -1,0 +1,74 @@
+<Vocab id="c5a1349e-c48d-44e9-9273-8c5fb3b8c655" word="narrow" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ef7c1407-c041-40f1-9bb4-091306ef9b75" value="Geometry &amp; Measurement" />
+    <Topic id="9c34327b-8926-4a4f-9d2f-abf772683a11" value="Business &amp; Economics" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8ff130b-4b72-4b5b-a925-537f082cdba5" ipa="/ˈnær.oʊ/" vi_ipa="nờ-rờ-ô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0d56acd-ca75-424e-9d48-afe1e247cfb9" type="Adjective">
+          <Vi>hẹp, thuôn, chật</Vi>
+          <En>having a small width in relation to length or height; not wide.</En>
+          <Example>The hallway was so narrow that two people could not walk side by side.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd616c83-f372-499c-aea4-cba9848bd4f2">
+              <Vi>Mô tả một con hẻm, lối đi, hoặc căn phòng có bề ngang nhỏ.</Vi>
+              <En>Describing a pathway, alley, or room with limited side-to-side space.</En>
+            </Situation>
+            <Situation id="beb372ee-d98b-4d9d-8be0-df83181fc790">
+              <Vi>Mô tả một khoảng thời gian ngắn hoặc giới hạn (ví dụ: "narrow margin").</Vi>
+              <En>Describing a small or limited margin, especially in time, score, or resources.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e2b6beae-2b4b-47c8-b380-37ef3fc65ecb" type="Adjective">
+          <Vi>chỉ vừa đủ, rất nhỏ về mức độ hoặc phạm vi</Vi>
+          <En>limited in scope, range, or variety; not broad or diverse.</En>
+          <Example>She has a narrow range of interests, mostly focused on classic literature.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="be5d0a4c-daa5-4986-ba20-019f0b2b7921">
+              <Vi>Mô tả một chủ đề, kiến thức, hoặc quan điểm hạn chế, thiếu đa dạng.</Vi>
+              <En>Describing a topic, knowledge base, or perspective that lacks breadth or diversity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="62a79293-05ca-457f-8769-cf5cd33f0094" ipa="/nærˈoʊ/" vi_ipa="nờ-rờ-ô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3b4bd83b-c529-4e21-aa8c-146133fa04c3" type="Verb">
+          <Vi>làm hẹp lại, thu hẹp</Vi>
+          <En>to make or become narrower; to reduce the scope or range of something.</En>
+          <Example>The committee decided to narrow the scope of the research project to focus on key issues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ca5e192-9c94-42af-8eb1-01984d0ac8ff">
+              <Vi>Giảm phạm vi, đối tượng, hoặc tiêu chí trong một kế hoạch, nghiên cứu, hoặc tranh luận.</Vi>
+              <En>Reducing the scope, subject range, or criteria in a plan, investigation, or discussion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

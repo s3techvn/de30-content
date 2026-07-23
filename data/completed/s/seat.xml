@@ -1,0 +1,87 @@
+<Vocab id="4887c1cd-6304-49bf-a661-a0501c6afec1" word="seat" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="e8a54817-5982-4255-b668-45b8342255e6" value="Furniture" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="1c23537c-1138-45d4-889c-ce3233a80672" value="Aircraft Pilot" />
+    <Profession id="452a63f0-5d0a-4ecf-bc54-51dcf224ac01" value="Automotive Engineer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0da31038-69fa-40a4-abaf-516acb936127" ipa="/ˈsiːt/" vi_ipa="si-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="27ace819-b7f8-4d5e-9c1f-68967a240b56" type="Noun">
+          <Vi>ghế, chỗ ngồi</Vi>
+          <En>A piece of furniture designed for one person to sit on, typically with a back and sometimes with arms.</En>
+          <Example>She adjusted the height of her office chair to find the perfect seat position.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ed8711a-0579-49a6-97e3-2041ed262080">
+              <Vi>Trong nhà hàng, khách được mời chọn chỗ ngồi tại bàn.</Vi>
+              <En>In a restaurant, guests are invited to choose their seat at a table.</En>
+            </Situation>
+            <Situation id="ce6f0bc8-c7d4-4a43-9d29-7339d00d20f0">
+              <Vi>Trong máy bay, hành khách được cấp một ghế có mã số cụ thể.</Vi>
+              <En>On an airplane, passengers are assigned a seat with a specific number.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="efe5a51a-e242-4383-bc85-1e8c8759e585" type="Noun">
+          <Vi>chỗ, vị trí (đặc biệt trong chính trị hoặc tổ chức)</Vi>
+          <En>A position or location, especially a formal or official one, such as a seat in parliament or on a board.</En>
+          <Example>He ran for a seat in the state legislature.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a21e349d-c912-428d-856b-884522f29e43">
+              <Vi>Sau bầu cử, đảng chiến thắng nắm giữ đa số ghế trong quốc hội.</Vi>
+              <En>After the election, the winning party holds a majority of seats in parliament.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cfe7b1ca-8c10-4723-aedb-263d4eba69bd" type="Verb">
+          <Vi>đặt, để (một vật) lên ghế hoặc chỗ ngồi; bố trí chỗ ngồi cho ai đó</Vi>
+          <En>To put or place someone or something in a seat; to assign or provide seating for a person.</En>
+          <Example>The usher seated the guests in the front row.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a42405de-0ba9-478a-ada8-cbb2f104cf53">
+              <Vi>Nhân viên nhà hàng phụ trách việc xếp chỗ cho khách hàng.</Vi>
+              <En>The restaurant staff is responsible for seating customers promptly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6fa18e8a-5ae9-42c8-90df-69b538bf1287" ipa="/sət/" vi_ipa="sờ-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d350c7d9-2a6c-4e8c-afa9-e92329f22dfb" type="Verb">
+          <Vi>đặt (một vật) lên bề mặt phẳng như ghế, bàn…</Vi>
+          <En>To place or lay something down, especially something flat or soft, such as a towel or a cushion.</En>
+          <Example>She seated the baby’s blanket on the grass before laying the picnic down.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ea55698-cb58-4837-9538-d3c5efb4c26b">
+              <Vi>Chúng tôi seating khăn ăn lên đĩa trước khi dùng bữa.</Vi>
+              <En>We seated the napkins on the plates before the meal began.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
