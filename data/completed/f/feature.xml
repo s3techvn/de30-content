@@ -1,0 +1,56 @@
+<Vocab id="89138141-8361-4b79-b1d4-cd82bdab94c7" word="feature" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="f3cce196-49d5-433f-9105-076d6484f9b4" value="Product Design" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c8ca35b7-4262-40d1-a514-daa564915a6c" ipa="/ˈfiː.tʃər/" vi_ipa="phi-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2e4e9c5-a432-44d9-855d-9677a69ec4fd" type="Noun">
+          <Vi>Đặc điểm; tính năng; đặc trưng nổi bật</Vi>
+          <En>A distinctive or defining characteristic or aspect of something</En>
+          <Example>The phone’s standout feature is its foldable screen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="939996fc-8db3-42dc-b942-1af9cf29469c">
+              <Vi>Mô tả một đặc điểm nổi bật của sản phẩm công nghệ.</Vi>
+              <En>Describing a prominent characteristic of a technological product.</En>
+            </Situation>
+            <Situation id="2f80c716-92bc-49bc-b1d5-303df6c25cc2">
+              <Vi>Trong phim, phần giới thiệu dài hơn về một bộ phim.</Vi>
+              <En>In film, a longer-form introduction or preview of a movie.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f59b6e59-c16d-4f53-967a-5228a40296a8" type="Verb">
+          <Vi>Đưa vào làm điểm nổi bật; làm nổi bật</Vi>
+          <En>To highlight or emphasize something as important or special</En>
+          <Example>The documentary features interviews with local artists.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c31de936-df22-42cb-aa37-342921df4faf">
+              <Vi>Khi một bài báo hoặc chương trình truyền hình tập trung vào một chủ đề cụ thể.</Vi>
+              <En>When an article or TV program focuses on a particular topic or person.</En>
+            </Situation>
+            <Situation id="321d180b-d794-4d9a-93cf-1bae2a3d202c">
+              <Vi>Trong phát triển phần mềm, khi một tính năng được đưa vào bản phát hành.</Vi>
+              <En>In software development, when a feature is included in a release.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
