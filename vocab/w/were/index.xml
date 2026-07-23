@@ -1,0 +1,33 @@
+<Vocab id="045602f4-f950-453d-8fe4-26630472f52c" word="were" type="short" status="done">
+  <Topics>
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="e8b7d50d-5ad6-437e-a5e6-f04720207891" value="Language Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c2d0874-5901-41f0-a98f-d8adb49deedb" ipa="/wɜːr/" vi_ipa="uớ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8f6de346-f410-4979-bcad-51a580829858" type="Verb">
+          <Vi>là (dạng quá khứ của "are", dùng với "you", "we", "they")</Vi>
+          <En>past tense of "are", used with second-person singular and plural (you), first-person plural (we), and third-person plural (they)</En>
+          <Example>We were at the park when it started raining.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bca14104-c1e3-4b20-8b95-44d07ada8947">
+              <Vi>Mô tả trạng thái hoặc hành động đã xảy ra trong quá khứ với chủ ngữ số nhiều hoặc "you"</Vi>
+              <En>Describing a past state or action with plural subjects or "you"</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
