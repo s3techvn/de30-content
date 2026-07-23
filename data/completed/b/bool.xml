@@ -1,0 +1,38 @@
+<Vocab id="02bb7871-cd3c-48e6-a3f2-df62b6e7fdf4" word="bool" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="01ee4126-42a6-411f-b8f4-6b18d4011725" value="Computer Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b3d359f6-38d1-4fca-ae0e-77563c87e537" ipa="/buːl/" vi_ipa="bun">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="93528d7c-b6cc-4303-8875-b7459c7339e2" type="Noun">
+          <Vi>kiểu dữ liệu logic, chỉ nhận một trong hai giá trị đúng (true) hoặc sai (false)</Vi>
+          <En>A data type that can take on one of two possible values: true or false.</En>
+          <Example>In most programming languages, a boolean variable is declared using the keyword `bool`.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2bbb5df-51f0-4982-b091-c4368595ebfe">
+              <Vi>Sử dụng trong điều kiện if-else, vòng lặp, và biểu thức logic.</Vi>
+              <En>Used in if-else statements, loops, and logical expressions.</En>
+            </Situation>
+            <Situation id="ebe4fcb5-c9a1-438a-a44d-d006fe88e27c">
+              <Vi>Trả về giá trị true hoặc false từ một hàm kiểm tra điều kiện.</Vi>
+              <En>Returned by a function that checks a condition (e.g., `isEven()`, `isEmpty()`).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
