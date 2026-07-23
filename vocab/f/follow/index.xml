@@ -1,0 +1,68 @@
+<Vocab id="b0b8805a-34fb-4669-a98f-929f45c8cb3d" word="follow" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a0af87ab-6cf7-4d27-930d-3df280156942" value="Navigation" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d80335b1-88f6-4843-8075-8fbfff917c4d" ipa="/ˈfɑː.loʊ/" vi_ipa="phờ-lô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e4dbd81f-e5b8-4fcd-9576-2009505fe921" type="Verb">
+          <Vi>theo dõi; đi theo</Vi>
+          <En>to go or come after someone or something, typically at a distance</En>
+          <Example>She followed the map to find the hidden trail.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07c5fd94-7ca9-4ed7-98e1-8a659943d557">
+              <Vi>Đi theo sau ai đó hoặc vật gì đó, thường là để đến một nơi cụ thể.</Vi>
+              <En>Going behind someone or something, usually to reach a specific destination.</En>
+            </Situation>
+            <Situation id="5d8b72b8-45bd-4320-b989-d73ac434c896">
+              <Vi>Thực hiện theo hướng dẫn, chỉ dẫn hoặc quy trình.</Vi>
+              <En>Carrying out instructions, directions, or procedures as instructed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="27686b3a-93cc-4785-bf94-ac7266ec0ee7" type="Verb">
+          <Vi>tuân theo; làm theo</Vi>
+          <En>to act in accordance with a rule, instruction, or advice</En>
+          <Example>You must follow the safety guidelines when operating machinery.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="380be5dd-854c-4a87-bba7-39d23182d184">
+              <Vi>Thực hiện đúng theo quy định, luật lệ hoặc hướng dẫn.</Vi>
+              <En>Adhering strictly to rules, regulations, or instructions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4a87d406-89ee-4b7b-b35d-aad8ade4df1a" type="Verb">
+          <Vi>theo dõi (truyền thông, mạng xã hội); theo dõi (sự phát triển của sự việc)</Vi>
+          <En>to keep up with someone’s activities, especially on social media, or to monitor the progress of an event</En>
+          <Example>I follow several environmental activists on Instagram.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="907161ee-66c2-44f9-8bc5-7485cd5bd956">
+              <Vi>Theo dõi hoạt động của người khác trên mạng xã hội.</Vi>
+              <En>Monitoring someone’s online activity or posts on social platforms.</En>
+            </Situation>
+            <Situation id="976def22-596f-4156-8d74-14812e27414b">
+              <Vi>Cập nhật diễn biến của một sự kiện, cuộc thi, hoặc dự án.</Vi>
+              <En>Tracking the development or outcome of an event, competition, or project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
