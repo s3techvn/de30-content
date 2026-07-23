@@ -1167,3 +1167,4 @@ participate
 minimize
 determine
 across
+dow
