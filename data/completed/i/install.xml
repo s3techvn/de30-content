@@ -1,0 +1,49 @@
+<Vocab id="bd7bbc87-7063-4ce7-ae88-a37355133fe5" word="install" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ef798600-12da-42b3-b809-74667d9c600c" ipa="/ɪnˈstɔːl/" vi_ipa="in-stô-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="700b6d9f-dc67-4e65-aedc-19ff82f6af0b" type="Verb">
+          <Vi>cài đặt</Vi>
+          <En>To set up (software, hardware, or a system) so that it is ready to use.</En>
+          <Example>She installed the new operating system on her laptop yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c28c4e3-e930-4eff-983a-e4679fd952d0">
+              <Vi>Cài phần mềm vào máy tính hoặc thiết bị.</Vi>
+              <En>Setting up software on a computer or device so it can run.</En>
+            </Situation>
+            <Situation id="6578a63e-cfe0-4c90-8c00-89420777c549">
+              <Vi>Khởi chạy ứng dụng sau khi cài đặt hoàn tất.</Vi>
+              <En>Running an application after the installation process is complete.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cab03ae2-9552-4bbf-90d2-51f11924bd96" type="Verb">
+          <Vi>đặt, lắp (đồ đạc, thiết bị)</Vi>
+          <En>To position or fix (equipment, furniture, or a device) in place for use.</En>
+          <Example>The technician installed the new air conditioning unit on the roof.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c85ab99-40af-4417-ba74-e6537812bc5a">
+              <Vi>Lắp đặt máy lạnh, tủ lạnh, hoặc đồ nội thất vào vị trí sử dụng.</Vi>
+              <En>Mounting or positioning appliances or furniture where they will be used.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
