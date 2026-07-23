@@ -1,0 +1,40 @@
+<Vocab id="689f4088-26e3-4f1d-bf88-65fe748bfd96" word="coupled" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c9206ad1-0ab4-4703-a200-f2fbf02ebb2e" ipa="/ˈkʌp.lɪd/" vi_ipa="cáp-líp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f8f8c041-1fcd-4380-9bb2-f13b12e03330" type="Adjective">
+          <Vi>được ghép lại, được nối với nhau</Vi>
+          <En>joined or connected together, typically so that they function as a unit</En>
+          <Example>The two systems are coupled via a shared database.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d186d2c4-0c87-4df3-bb1b-61c255244c60">
+              <Vi>Mô tả hai hoặc nhiều thành phần được kết nối chặt chẽ để hoạt động cùng nhau.</Vi>
+              <En>Describes two or more components that are tightly connected to operate together.</En>
+            </Situation>
+            <Situation id="593dfaf2-8451-4503-8439-bca102b0aa15">
+              <Vi>Trong lập trình, chỉ hai module hoặc hệ thống phụ thuộc lẫn nhau.</Vi>
+              <En>In programming, refers to two modules or systems that depend on each other.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
