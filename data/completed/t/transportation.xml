@@ -1,0 +1,38 @@
+<Vocab id="6df56f0f-66ad-4a61-8c58-d1bef9f98c89" word="transportation" type="short" status="done">
+  <Topics>
+    <Topic id="4c08e1ef-17be-470c-a33b-b3ed363de2e3" value="Travel &amp; Logistics" />
+  </Topics>
+  <Professions>
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="2cda9903-8aa3-4698-a281-a55860fdc9f9" value="Transportation Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6657fecc-d211-4113-ba6f-19151b9f37fc" ipa="/ˌtræn.spɔːrˈteɪ.ʃən/" vi_ipa="trờn-spợ-tê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="777f53cc-6fbd-4aaf-ba86-9bcc36dd194a" type="Noun">
+          <Vi>Vận tải; sự chuyên chở</Vi>
+          <En>The movement of people or goods from one place to another, typically using vehicles such as cars, trains, planes, or ships.</En>
+          <Example>The city is investing billions in improving public transportation infrastructure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1474490d-9621-4041-9ba9-2e966a5a12b4">
+              <Vi>Mô tả hệ thống xe buýt, tàu điện, hoặc dịch vụ giao hàng.</Vi>
+              <En>Refers to systems like buses, subways, or delivery services used to move people or goods.</En>
+            </Situation>
+            <Situation id="ea7328ea-ff75-4341-81b3-7e3e4ec810ae">
+              <Vi>Một ngành công nghiệp hoặc lĩnh vực chuyên về việc vận chuyển hàng hóa và hành khách.</Vi>
+              <En>An industry or sector dedicated to the conveyance of cargo and passengers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
