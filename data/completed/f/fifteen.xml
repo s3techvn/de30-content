@@ -1,0 +1,38 @@
+<Vocab id="56a31846-e04f-44d9-adde-9f542f21c183" word="fifteen" type="short" status="done">
+  <Topics>
+    <Topic id="73714b91-0ef4-43a3-a6ed-c523c52ee22b" value="Numbers and Counting" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1b07d8a9-9ee1-44f0-8a1a-27fc1c6e6e91" ipa="/ˌfɪfˈtiːn/" vi_ipa="phích-ti-in">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a914facc-8aeb-4a17-8036-450c7feff6c2" type="Number">
+          <Vi>mười lăm</Vi>
+          <En>The cardinal number equal to 15, the sum of ten and five.</En>
+          <Example>There are fifteen students in the classroom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa077a3b-17fc-49ba-b944-d944284c6faa">
+              <Vi>Số lượng người, vật, hoặc đơn vị được đếm hoặc đo lường.</Vi>
+              <En>Used to denote a quantity of 15 items or units.</En>
+            </Situation>
+            <Situation id="d7538bdc-d53c-460e-90eb-2a2609341049">
+              <Vi>Thời gian: 15 phút sau giờ chính.</Vi>
+              <En>Time: 15 minutes past the hour (e.g., 3:15).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

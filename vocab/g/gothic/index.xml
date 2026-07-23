@@ -1,0 +1,48 @@
+<Vocab id="5ea60cab-f27a-424e-aa82-5f8049b151a5" word="gothic" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="37509c8e-c6b5-4f72-9e16-69e935f44437" value="Art &amp; Culture" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="4e6b9a91-5492-4733-accf-3aa0c8225571" value="Art Historian" />
+    <Profession id="921297d3-4cda-4776-8d03-c938735959fb" value="Writer / Novelist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2ca4412d-892d-42ff-885e-f5a817adc77b" ipa="/ˈɡɒθ.ɪk/" vi_ipa="gốt-ích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aeaeb2f2-202c-48da-8b60-3dd5cff24d5a" type="Adjective">
+          <Vi>thuộc về kiến trúc, nghệ thuật hoặc văn hóa thời Trung cổ, đặc biệt là phong cách kiến trúc với các vòm nhọn, khung cửa sổ lớn và trụ chống bay</Vi>
+          <En>relating to a style of architecture, art, and culture of the Middle Ages, especially characterized by pointed arches, large windows with tracery, and flying buttresses</En>
+          <Example>The cathedral features stunning gothic stained-glass windows and intricate stone carvings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0cf8a817-da88-4a56-8e29-11fb63010cf9">
+              <Vi>Mô tả các công trình kiến trúc cổ như nhà thờ lớn ở châu Âu với các yếu tố đặc trưng như vòm nhọn và trụ chống bay.</Vi>
+              <En>Describing medieval European buildings such as cathedrals with pointed arches, ribbed vaults, and flying buttresses.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4508b480-ba67-4ab3-afad-4813fe052efb" type="Adjective">
+          <Vi>thuộc về thể loại văn học hoặc điện ảnh u ám, bí ẩn, thường có yếu tố siêu nhiên, bi thảm hoặc kinh dị</Vi>
+          <En>relating to a genre of literature or film characterized by dark, mysterious, supernatural, or horror elements, often set in gloomy or decaying settings</En>
+          <Example>She enjoys reading gothic novels like *Frankenstein* and *Dracula*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7f578587-b447-4605-a4d0-1e3fba014ab0">
+              <Vi>Mô tả phong cách nghệ thuật hoặc văn học mang tính u tối, ma mị, thường liên quan đến nỗi sợ hãi và bí ẩn.</Vi>
+              <En>Describing artistic or literary works with dark, eerie, and often supernatural themes, such as haunted castles or tragic characters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
