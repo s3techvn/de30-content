@@ -1135,3 +1135,4 @@ regarding
 lecture
 russian
 frequently
+shannon

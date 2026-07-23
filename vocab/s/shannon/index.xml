@@ -1,0 +1,33 @@
+<Vocab id="1a1fb4de-b65e-4655-8fa6-2fd22a1c4322" word="shannon" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="42f2ce83-949f-4151-9f77-b128e08d6799" value="Hydrologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d94db207-03c3-45a0-9993-728fe7288d10" ipa="/ˈʃæn.ən/" vi_ipa="shan-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c90afc33-0a76-4e0d-b13d-edd9aae55236" type="Noun">
+          <Vi>Sông Shannon</Vi>
+          <En>The longest river in Ireland, flowing through central Ireland and emptying into the Atlantic Ocean near Limerick.</En>
+          <Example>The Shannon is famous for its scenic beauty and historic bridges.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c34c708f-a0e8-4934-b634-8242710ef8b4">
+              <Vi>Thường được nhắc đến trong ngữ cảnh du lịch, địa lý Ireland hoặc giao thông thủy.</Vi>
+              <En>Commonly mentioned in contexts of Irish tourism, geography, or inland waterways.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
