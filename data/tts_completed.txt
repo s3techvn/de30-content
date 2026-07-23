@@ -1229,3 +1229,4 @@ number
 fly
 aid
 handled
+fortune
