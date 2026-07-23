@@ -1,0 +1,32 @@
+<Vocab id="880d6dd9-5f6d-4612-9384-15efb44338d2" word="sons" type="short" status="done">
+  <Topics>
+    <Topic id="4efc63d0-90e4-4341-bed5-e92958869ccd" value="Family" />
+  </Topics>
+  <Professions>
+    <Profession id="2a178eae-5ba9-45f1-aa73-40ac4f267e63" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b776f3b0-b08f-410a-a0aa-1ad75b57c241" ipa="/sʌnz/" vi_ipa="xơn-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de514b50-d239-4868-8c14-6828baf285f6" type="Noun">
+          <Vi>con trai</Vi>
+          <En>male offspring; plural of son</En>
+          <Example>He has three sons and two daughters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e37dc9e9-0cd1-473c-a77e-a1583dc7e6c3">
+              <Vi>Gia đình có nhiều con trai.</Vi>
+              <En>A family with multiple male children.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
