@@ -1,0 +1,56 @@
+<Vocab id="556adfc9-bb0a-49a2-8a56-4787d83c0d6f" word="admit" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="41e65fcd-46e1-4d0a-be7a-0f120a3c1a81" ipa="/ədˈmɪt/" vi_ipa="ác-mít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="92d17f53-d9a5-4090-8c3e-07bf64b257fe" type="Verb">
+          <Vi>thừa nhận, công nhận</Vi>
+          <En>To acknowledge or confess something, especially something unpleasant or damaging, is true or real.</En>
+          <Example>He finally admitted that he had forgotten the appointment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f5c0960-3883-4d16-95c6-848ca3fb7e02">
+              <Vi>Người nói thừa nhận một sai lầm hoặc điều không mong muốn.</Vi>
+              <En>The speaker acknowledges a mistake or an undesirable fact.</En>
+            </Situation>
+            <Situation id="4f6773ef-d27d-48c9-85b8-f09318f25143">
+              <Vi>Người bị tình nghi thú nhận tội phạm trong phiên tòa.</Vi>
+              <En>The suspect confesses to the crime in court.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1b169f6c-0541-444d-ad76-2556ba972806" type="Verb">
+          <Vi>cho phép vào, tiếp nhận</Vi>
+          <En>To allow someone or something to enter a place, join a group, or be included.</En>
+          <Example>The university admitted 500 new students this year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="05c05047-fce9-4a6c-89ff-e531919a4349">
+              <Vi>Nhà trường chấp nhận hồ sơ đăng ký của ứng viên.</Vi>
+              <En>The school accepts the applicant’s application.</En>
+            </Situation>
+            <Situation id="a96ce29d-f9f5-4450-8441-6d26b625d564">
+              <Vi>Bệnh viện chỉ nhận bệnh nhân có chỉ định từ bác sĩ.</Vi>
+              <En>The hospital only admits patients with a doctor’s referral.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
