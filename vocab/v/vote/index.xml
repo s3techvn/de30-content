@@ -1,0 +1,47 @@
+<Vocab id="32f1e453-5198-4a64-aaee-1f3a99116814" word="vote" type="short" status="done">
+  <Topics>
+    <Topic id="8f5c0137-1fa7-47f8-acdf-b3b00be40edc" value="Politics &amp; Government" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="c7aa685f-6415-418f-be70-a85a96a29cb7" value="Election Officer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9f715942-65db-4321-8609-669c3743b03a" ipa="/voʊt/" vi_ipa="vốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fe024632-6edf-4ba1-8e59-9672ba7f7f43" type="Noun">
+          <Vi>phiếu bầu; cuộc bầu cử</Vi>
+          <En>A formal indication of choice, typically in a political election or decision-making process.</En>
+          <Example>We cast our votes at the local polling station.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="176ff444-94f2-4e75-8c15-7bb2a34f046b">
+              <Vi>Người dân đi bỏ phiếu trong ngày bầu cử quốc hội.</Vi>
+              <En>Citizens go to polling stations to vote in a national election.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e1e2ca58-8244-4d21-85b5-c53086a77ba8" type="Verb">
+          <Vi>bỏ phiếu; biểu quyết</Vi>
+          <En>To express a choice or preference in an election or decision-making process.</En>
+          <Example>The committee voted unanimously to approve the proposal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ac3f581-b0d5-4956-862b-9ff461cddab0">
+              <Vi>Ban giám hiệu đang biểu quyết về việc tăng học phí.</Vi>
+              <En>The faculty is voting on whether to raise tuition fees.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

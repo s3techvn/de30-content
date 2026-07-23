@@ -1,0 +1,38 @@
+<Vocab id="7cb7785c-20cb-43e9-b8db-ad831e469442" word="reminder" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b431cef-d1e0-4d66-bfd3-75c791a1c862" ipa="/rɪˈmایnd.ɚ/" vi_ipa="ri-mây-nợ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c84854e-c050-407b-b91a-2fe2ce1126c7" type="Noun">
+          <Vi>Lời nhắc nhở; vật (hoặc người) gợi nhớ</Vi>
+          <En>A thing that serves to remind someone of something, such as an event, task, or obligation.</En>
+          <Example>I set a reminder on my phone to call my mom every Sunday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f96a4d1-7b12-4f09-a4ea-762c72565f0f">
+              <Vi>Sử dụng ứng dụng điện thoại để đặt lời nhắc cho cuộc họp sắp tới.</Vi>
+              <En>Using a phone app to set a reminder for an upcoming meeting.</En>
+            </Situation>
+            <Situation id="7e10a672-33ab-4fe3-9c2c-bb4b542a3def">
+              <Vi>Một tấm thiệp cũ có thể là lời nhắc nhở về một kỷ niệm đáng nhớ.</Vi>
+              <En>An old postcard can serve as a reminder of a memorable moment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
