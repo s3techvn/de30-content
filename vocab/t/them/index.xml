@@ -1,0 +1,32 @@
+<Vocab id="27e8540e-42e0-4db9-9308-04e4149f9e3e" word="them" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b0a10c1-c6e9-4db2-bac1-6126b33e289f" ipa="/ðəm/" vi_ipa="đờ-m">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9949a8e5-6faa-4758-b1d4-94507b32b596" type="Pronoun">
+          <Vi>chúng, họ (danh từ ngôi thứ ba số nhiều, tân ngữ)</Vi>
+          <En>used as the object of a verb or preposition to refer to two or more people or things previously mentioned or easily identified</En>
+          <Example>Please give them the documents before the meeting starts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="efc5a63f-849b-4eb1-9161-4ed9f218fed6">
+              <Vi>Chỉ nhóm người đã được nhắc đến trước đó trong hội thoại.</Vi>
+              <En>Refers to a group of people previously mentioned in the conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
