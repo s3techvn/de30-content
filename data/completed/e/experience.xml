@@ -1,0 +1,66 @@
+<Vocab id="97b87df9-5a5a-464b-a501-994203c84fd3" word="experience" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="90883d51-3b0e-4e28-8e84-52bfeedc4dd8" ipa="/ɪkˈspɪr.i.əns/" vi_ipa="ích-x-pi-rờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8c607c28-9e3b-40e6-b869-0cde165aebf2" type="Noun">
+          <Vi>Kinh nghiệm; trải nghiệm</Vi>
+          <En>Practical knowledge or skill gained through involvement in events or activities.</En>
+          <Example>She has over ten years of experience in software development.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="91b91d13-d0dc-4052-b330-d09e555690ab">
+              <Vi>Mô tả năng lực hoặc kiến thức thực tế thu được từ công việc hoặc hoạt động.</Vi>
+              <En>Describing practical ability or knowledge acquired through real-world involvement.</En>
+            </Situation>
+            <Situation id="1680dac2-9f1a-47f8-ae34-5f0a44a1fe45">
+              <Vi>Những điều đã trải qua, đặc biệt là những điều có ý nghĩa cá nhân.</Vi>
+              <En>Events or occurrences, especially those that are personally meaningful.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="7eaefdc6-9836-46f0-96a0-e52d9d86547b" ipa="/ɪkˈspɪr.i.əns/" vi_ipa="ích-x-pi-rờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ae122051-6bb1-4bba-9174-6774639fecab" type="Verb">
+          <Vi>Trải qua; cảm nhận</Vi>
+          <En>To undergo or live through an event or situation; to feel or perceive something directly.</En>
+          <Example>We experienced a sudden power outage during the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03428696-3754-4c5c-ada4-c43afca5be1b">
+              <Vi>Mô tả việc một người đang đi qua hoặc chịu ảnh hưởng bởi một sự kiện.</Vi>
+              <En>Describing someone undergoing or being affected by an event or condition.</En>
+            </Situation>
+            <Situation id="60423b75-22c2-47fd-8c25-867dab1b40da">
+              <Vi>Mô tả cảm xúc hoặc ấn tượng cá nhân từ một tình huống cụ thể.</Vi>
+              <En>Describing personal feelings or impressions from a specific situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
