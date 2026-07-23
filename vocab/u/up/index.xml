@@ -1,0 +1,70 @@
+<Vocab id="4200b2db-72da-4689-99cf-740147d116f9" word="up" type="short" status="done">
+  <Topics>
+    <Topic id="1fd7e90e-7c51-4e9a-be0f-9b517ee8d771" value="Direction &amp; Movement" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="7811bd03-e2f5-4595-b8b6-0fd1fda16aa2" value="Emotions &amp; States" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="315ba05c-ce47-4c5c-af13-e86b594c0875" ipa="/ʌp/" vi_ipa="áp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a29e5f27-4d2a-43e4-ba50-d5bab01b34ea" type="Adverb">
+          <Vi>lên, lên cao, hướng lên trên</Vi>
+          <En>From a lower to a higher position or level; toward the top or upper part.</En>
+          <Example>She stood up and stretched her arms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0f7a1232-d658-49d2-a3de-7f1915bf148c">
+              <Vi>Mô tả hành động di chuyển từ thấp lên cao.</Vi>
+              <En>Describes moving from a lower to a higher position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9a1b4bc6-f2f1-49f7-9a71-4923310524d6" type="Preposition">
+          <Vi>lên (đến một vị trí cao hơn), dọc theo (đường, sông…), về phía (điểm đến)</Vi>
+          <En>In a direction toward a higher point or position; along (a road, river, etc.) toward a destination.</En>
+          <Example>We drove up the coast to visit our relatives.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="be0ea415-de3b-4d2b-b185-c69d6c5ad10e">
+              <Vi>Dùng khi đi theo một con đường, dòng sông… về phía đầu nguồn hoặc điểm cao hơn.</Vi>
+              <En>Used when traveling along a road or river toward its source or higher point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4a663321-fd2d-44c4-be5d-1938d9289460" type="Adverb">
+          <Vi>(dùng trong cụm động từ) tăng, nâng lên, hoàn thành, tiến bộ</Vi>
+          <En>Used in phrasal verbs to indicate increase, completion, improvement, or progress.</En>
+          <Example>He turned up the volume and turned up late for the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4aa53d9-71ed-4f03-8694-f1153636ab41">
+              <Vi>Dùng trong các cụm động từ như "turn up", "pick up", "cheer up".</Vi>
+              <En>Used in phrasal verbs such as "turn up", "pick up", "cheer up".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a797ab30-3279-42a1-b801-d764b67e3501" type="Adjective">
+          <Vi>(nói về tình trạng) tốt hơn, đang phục hồi, đang hoạt động</Vi>
+          <En>In a better condition; recovering; active or operational.</En>
+          <Example>Her spirits were finally up after the good news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="113ab84b-a4de-477b-8cf6-5aecb23adf98">
+              <Vi>Dùng để mô tả tâm trạng, sức khỏe, hoặc hoạt động kinh doanh đang cải thiện.</Vi>
+              <En>Used to describe mood, health, or business activity improving.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

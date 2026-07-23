@@ -1,0 +1,51 @@
+<Vocab id="c3611dfa-8816-46d8-afbd-33e77831c234" word="babe" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="7afbef82-fc17-429d-a167-cd9816da9e40" value="Entertainer" />
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9283c787-0c62-4e65-8abf-246207481fad" ipa="/beɪb/" vi_ipa="bê-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8a52e53-6867-4b1b-8b8b-9f0aaf60091d" type="Noun">
+          <Vi>người yêu (thân mật); em (gọi người yêu); bé (gọi người yêu)</Vi>
+          <En>an affectionate term for one’s romantic partner, especially a young woman or girlfriend; also used informally for a baby or young child.</En>
+          <Example>She called him her “little babe” and always held his hand in public.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="25a8f4d5-4b76-44b7-a9e7-67d398eff444">
+              <Vi>Người yêu dùng từ này để gọi nhau trong giao tiếp thân mật.</Vi>
+              <En>Used between romantic partners as a term of endearment in casual, affectionate speech.</En>
+            </Situation>
+            <Situation id="1048399b-6a51-4f72-88c6-4c02bd2c4277">
+              <Vi>Gọi trẻ nhỏ hoặc em bé một cách thân mật (thường trong gia đình).</Vi>
+              <En>Used affectionately to refer to a baby or very young child, especially by family members.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="65111965-5044-42e0-a7fa-f60e346f630b" type="Noun">
+          <Vi>người đẹp (thường chỉ phụ nữ trẻ, hấp dẫn)</Vi>
+          <En>a very attractive young woman, especially in a sexualized or objectifying context.</En>
+          <Example>The magazine cover featured a famous model as the “babe of the month.”</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c584544f-5b95-4ba8-96ba-0d1f8e613e15">
+              <Vi>Từ lóng trong văn hóa đại chúng hoặc quảng cáo để chỉ người phụ nữ hấp dẫn.</Vi>
+              <En>Used in informal or media contexts (sometimes controversially) to describe an attractive woman.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
