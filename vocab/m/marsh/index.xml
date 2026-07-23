@@ -1,0 +1,38 @@
+<Vocab id="e61b43b4-b13b-4306-8634-3d13ac520792" word="marsh" type="short" status="done">
+  <Topics>
+    <Topic id="4001f4fe-67e6-433c-a6c9-02d225e2eae4" value="Nature &amp; Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a033b91-558d-4b36-a8f8-81198188891f" ipa="/mɑːrʃ/" vi_ipa="mác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a5fc8b8d-6688-40a8-863d-358d04e21d81" type="Noun">
+          <Vi>Sình lầy; đầm lầy cạn, thường có cỏ và thực vật thủy sinh; vùng đất ngập nước ngọt hoặc lợ, ít sâu.</Vi>
+          <En>A wet, low-lying area of land that is often flooded, typically with grasses and other marsh plants; a type of wetland that is usually freshwater or brackish and relatively shallow.</En>
+          <Example>The wildlife sanctuary includes a large marsh where herons and egrets nest each spring.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f44e41c7-d7e3-4300-a817-53beab4ea6d3">
+              <Vi>Mô tả cảnh quan tự nhiên có nước đọng, cỏ mọc dày, thường thấy ở ven sông hoặc ven biển.</Vi>
+              <En>Describes a natural landscape with standing water, dense grasses, commonly found along rivers or coastlines.</En>
+            </Situation>
+            <Situation id="b6a0e92a-c942-4cde-b4b7-89b7141ae43a">
+              <Vi>Địa hình ngập nước, thường bị ngập vào mùa mưa, không phù hợp để canh tác nông nghiệp.</Vi>
+              <En>A waterlogged terrain, often flooded in the rainy season, unsuitable for agricultural cultivation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
