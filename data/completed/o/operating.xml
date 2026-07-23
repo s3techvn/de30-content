@@ -1,0 +1,40 @@
+<Vocab id="9ea41bf6-45cf-4c13-8571-9ef82df1f345" word="operating" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b76316a2-bb6b-4233-a39f-772532aa96a2" ipa="/ˈɑː.pər.ə.tɪŋ/" vi_ipa="ác-pờ-rờ-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82d2c3f3-e3d1-4441-bfca-400bc52e72d1" type="Adjective">
+          <Vi>đang hoạt động; đang vận hành</Vi>
+          <En>Functioning or working, especially of a machine, system, or process.</En>
+          <Example>The operating system crashed after the update.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ae2f11b0-16e9-47b3-97a8-6909db7348c2">
+              <Vi>Mô tả thiết bị, phần mềm, hoặc hệ thống đang thực hiện chức năng bình thường.</Vi>
+              <En>Describing a device, software, or system that is currently functioning as intended.</En>
+            </Situation>
+            <Situation id="e7313f1f-9745-4347-a248-8284ffe42fed">
+              <Vi>Trong bối cảnh quản lý hệ thống, chỉ trạng thái của máy chủ hoặc ứng dụng đang chạy.</Vi>
+              <En>In system administration, refers to the state of a server or application currently running.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
