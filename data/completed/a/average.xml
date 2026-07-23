@@ -1,0 +1,60 @@
+<Vocab id="ff17eb24-9331-4e9d-91c5-7cce9318719a" word="average" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e9130230-daae-4634-a6e1-6ce6b8030ec9" ipa="/ˈæv.ər.ɪdʒ/" vi_ipa="áp-vờ-rít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4ccd28c1-711e-4e1a-ada2-1697f5b035d0" type="Noun">
+          <Vi>giá trị trung bình</Vi>
+          <En>A single number that represents the central or typical value in a set of numbers, typically calculated as the sum of the values divided by the number of values.</En>
+          <Example>The average temperature in July this year was 2 degrees higher than last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc074132-bbae-4987-85c4-799d1cb30a28">
+              <Vi>Tính toán điểm trung bình học tập hoặc doanh thu hàng tháng.</Vi>
+              <En>Calculating students’ grade point average or monthly sales revenue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ff4e16c2-ce6f-4624-8c7b-d61519bc16cc" type="Adjective">
+          <Vi>trung bình, thường</Vi>
+          <En>Typical or usual; not exceptional in any way.</En>
+          <Example>She’s an average student—neither outstanding nor struggling.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d67390d9-62ab-4f7e-a694-b2d7a46b3d27">
+              <Vi>Mô tả mức độ phổ biến hoặc khả năng tiêu chuẩn trong một nhóm.</Vi>
+              <En>Describing something that is typical or unremarkable within a group.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ce67a25f-d615-4ed7-b35d-6ece4022a534" type="Verb">
+          <Vi>trung bình hóa, đạt mức trung bình</Vi>
+          <En>To calculate the average of a set of numbers; or to amount to an average over a period.</En>
+          <Example>Her weekly coffee spending averages about $20.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96ee6372-1959-4069-bfcc-5705d1967b64">
+              <Vi>Đánh giá mức độ tiêu chuẩn theo thời gian (ví dụ: doanh thu trung bình hàng tháng).</Vi>
+              <En>Evaluating long-term performance by computing a mean value over time (e.g., average monthly revenue).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
