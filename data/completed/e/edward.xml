@@ -1,0 +1,32 @@
+<Vocab id="6c552906-cd48-4cb0-b01a-79178ea6c0a7" word="edward" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="a4665d04-4555-488e-8183-9a56b2d7eac0" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="da372605-0907-464c-b0a8-fcf354061662" ipa="/ˈɛd.wərd/" vi_ipa="ét-wo-đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a26dec91-14fe-461d-8d22-1849775543a0" type="Proper Noun">
+          <Vi>Tên riêng (thường là nam), bắt nguồn từ tiếng Anh cổ, nghĩa là "bảo vệ giàu có"</Vi>
+          <En>A male given name of Old English origin, meaning "rich protector" or "wealthy guardian"</En>
+          <Example>Edward VIII abdicated the British throne in 1936.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39adac8c-fb97-48e5-be27-571b2580928a">
+              <Vi>Dùng để đặt tên cho người nam, thường trong các quốc gia nói tiếng Anh.</Vi>
+              <En>Used as a male given name, especially in English-speaking countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
