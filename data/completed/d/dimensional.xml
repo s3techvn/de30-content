@@ -1,0 +1,40 @@
+<Vocab id="bdd17ce6-7476-4baf-a705-160aadb00df3" word="dimensional" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5555f28-8247-4917-976f-abf89974ab68" ipa="/ˌdɪmənˈʃənl/" vi_ipa="đim-en-xơ-nờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91c6ebe5-1523-4785-b79a-1244e102bb6f" type="Adjective">
+          <Vi>thuộc về chiều, có chiều (không gian)</Vi>
+          <En>relating to or having dimensions, especially in terms of length, width, height, or depth</En>
+          <Example>The software allows users to create three-dimensional models with ease.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80acabc5-508e-48d7-8093-c6b66ccf03e7">
+              <Vi>Mô tả hình khối trong không gian ba chiều.</Vi>
+              <En>Describing objects or spaces with measurable spatial extent (e.g., height, width, depth).</En>
+            </Situation>
+            <Situation id="4c32baab-3997-4fb3-a377-4686d27814af">
+              <Vi>Phân biệt giữa hai chiều và ba chiều trong thiết kế đồ họa.</Vi>
+              <En>Distinguishing between two-dimensional (flat) and three-dimensional (volumetric) representations in design.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

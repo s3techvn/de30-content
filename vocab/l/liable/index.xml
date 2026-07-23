@@ -1,0 +1,40 @@
+<Vocab id="5f6918e2-ee34-4976-8352-b27e01a25772" word="liable" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ef679ec7-d68a-442d-8411-f739c02ae379" ipa="/ˈlaɪ.ə.bəl/" vi_ipa="lái-ơ-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fd7e44f8-0b0f-406b-96f3-7e3eb4b57b0e" type="Adjective">
+          <Vi>Có trách nhiệm pháp lý; có nguy cơ; dễ bị…</Vi>
+          <En>Legally responsible or obligated; likely or prone to a particular outcome or condition.</En>
+          <Example>She was held liable for the damages caused by the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c684b6d-da8a-460f-bc6d-aecb374f258a">
+              <Vi>Trong một vụ kiện, một bên bị tòa án buộc phải bồi thường thiệt hại.</Vi>
+              <En>In a lawsuit, one party is ordered by the court to compensate for damages.</En>
+            </Situation>
+            <Situation id="a837b17e-6ea8-4a3b-b844-d644a8a59b62">
+              <Vi>Một người dễ bị cảm lạnh vào mùa đông.</Vi>
+              <En>A person who is prone to catching colds in winter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
