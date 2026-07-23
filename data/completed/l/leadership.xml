@@ -1,0 +1,53 @@
+<Vocab id="b9101161-df4c-4d5e-9ca0-6c8df1a23520" word="leadership" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b4d5cffd-dc24-4cff-9f31-0fbdcb2f1af9" value="Management" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" value="Executive" />
+    <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" value="Team Leader" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="368c94f1-d115-4bb4-873d-c00ce4a7e762" ipa="/ˈled.ər.ʃɪp/" vi_ipa="lê-đờ-rợp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="95c3f905-3a0a-4dfe-b984-bb6fe32d2a90" type="Noun">
+          <Vi>Sự lãnh đạo; khả năng lãnh đạo; chức vụ lãnh đạo</Vi>
+          <En>The ability to lead others; the position or role of being a leader.</En>
+          <Example>Effective leadership is essential for the success of any organization.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ea9bda5e-019d-4b54-a507-3a7f6833d2ff">
+              <Vi>Một người được bầu làm trưởng nhóm và chịu trách nhiệm điều phối công việc.</Vi>
+              <En>A person elected as team leader and responsible for coordinating tasks.</En>
+            </Situation>
+            <Situation id="11fbfc35-ce30-4d33-8393-1137fe6fbf4e">
+              <Vi>Các khóa đào tạo nhằm nâng cao kỹ năng lãnh đạo cho nhân viên cấp trung.</Vi>
+              <En>Training programs aimed at improving leadership skills for mid-level employees.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d9ea776a-bdf7-4627-a755-2433904c50f8" type="Noun">
+          <Vi>Nhóm lãnh đạo; tập thể lãnh đạo</Vi>
+          <En>The group of people who hold leadership positions in an organization or country.</En>
+          <Example>The company’s leadership decided to pivot its strategy toward sustainability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f0c3a55f-a9d2-45db-a3a4-c8190d953f56">
+              <Vi>Các nhà lãnh đạo quốc gia họp thượng đỉnh để thảo luận về biến đổi khí hậu.</Vi>
+              <En>National leaders held a summit to discuss climate change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
