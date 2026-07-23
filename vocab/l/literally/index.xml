@@ -1,0 +1,46 @@
+<Vocab id="ff37d526-4c9e-4d4a-8147-e2be9c0d33d4" word="literally" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e1b67c64-cf59-47de-8bcd-165c7363cb79" ipa="/ˈlɪt.ər.əl.i/" vi_ipa="lít-ơ-rờ-lơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6786efd0-19a0-4528-8c72-9f458f4bdb02" type="Adverb">
+          <Vi>theo nghĩa đen; đúng như字面 nghĩa; không phóng đại</Vi>
+          <En>in a literal sense; exactly as stated, without exaggeration or metaphor</En>
+          <Example>He literally fell off his chair when he heard the news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a7edd52-67cb-4d19-8365-5c5585f5db71">
+              <Vi>Để nhấn mạnh rằng điều nói ra là sự thật, không phải ẩn dụ hay cường điệu.</Vi>
+              <En>Used to emphasize that a statement is true and not exaggerated or metaphorical.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6a60f496-1a20-4756-b2f0-be1aeb5ea360" type="Adverb">
+          <Vi>thực sự; đúng như vậy (dùng để nhấn mạnh cảm xúc hoặc phản ứng, thường trong văn nói)</Vi>
+          <En>used for emphasis, especially in informal speech, to express strong emotion or surprise (often hyperbolic)</En>
+          <Example>I was literally dying of laughter!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9a734fc-9372-4b2c-9cd1-a42d4afe7a3a">
+              <Vi>Trong giao tiếp hàng ngày, dùng để tăng cường cảm xúc, dù không đúng nghĩa đen.</Vi>
+              <En>In informal spoken English, used to intensify emotion—even when not literally true.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
