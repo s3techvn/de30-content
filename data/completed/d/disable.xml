@@ -1,0 +1,52 @@
+<Vocab id="e9f442c0-ea63-4ca1-924e-080ecb167f3c" word="disable" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e07f346d-8a47-4917-a450-2001bd0dd422" ipa="/dɪsˈeɪ.bəl/" vi_ipa="đít-sê-ê-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1deb04d1-4551-4772-bdf6-defd20453b94" type="Verb">
+          <Vi>vô hiệu hóa, làm mất tác dụng</Vi>
+          <En>to make something unable to function or work properly</En>
+          <Example>He disabled the alarm system before entering the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e86d5d0c-560e-4d1e-957a-0dc95c8cf27a">
+              <Vi>Ngăn một thiết bị hoặc hệ thống hoạt động, thường là để bảo mật hoặc bảo trì.</Vi>
+              <En>Preventing a device or system from functioning, often for security or maintenance purposes.</En>
+            </Situation>
+            <Situation id="a2c64682-fa10-49dd-a1c3-0bc50ccf1a01">
+              <Vi>Tắt một tính năng trong phần mềm (ví dụ: vô hiệu hóa tài khoản người dùng).</Vi>
+              <En>Turning off a feature in software (e.g., disabling a user account).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="32de23bb-22f9-442a-8e32-db92617829da" type="Verb">
+          <Vi>làm mất khả năng (vận động, hoạt động) – thường nói về cơ thể</Vi>
+          <En>to make someone unable to use part or all of their body, especially due to injury or illness</En>
+          <Example>The accident left him partially disabled.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="344c741e-9f4f-4b68-8574-8c8599a1212b">
+              <Vi>Mô tả tình trạng người bị tàn tật hoặc mất khả năng vận động do chấn thương.</Vi>
+              <En>Describing a person who has lost the ability to move or function normally due to injury or illness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

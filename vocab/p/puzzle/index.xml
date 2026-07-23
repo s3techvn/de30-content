@@ -1,0 +1,66 @@
+<Vocab id="9688fc2b-55d9-4eb7-8903-b0aed491b55e" word="puzzle" type="short" status="done">
+  <Topics>
+    <Topic id="c929b71a-456e-4c2b-8d4c-2e3e3ac284d9" value="Games &amp; Recreation" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="f0d23590-2eb2-414e-b599-edfcbaa91a5f" value="Cognitive Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f14afc2b-85ad-4a27-aace-6de21b7b89e7" ipa="/ˈpʌz.əl/" vi_ipa="pà-dờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c0fcd38-87a0-43b7-86a6-14b7f698f7d2" type="Noun">
+          <Vi>Câu đố; đồ chơi giải đố; điều gây bối rối, khó hiểu</Vi>
+          <En>A game, problem, or object that tests ingenuity or knowledge; something that is difficult to understand or explain.</En>
+          <Example>She solved the crossword puzzle in under ten minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5b867b1-941d-4e08-957b-5121b70d5208">
+              <Vi>Người chơi giải đố hình khối, chữ cái, hoặc logic để tìm ra đáp án.</Vi>
+              <En>A person solves a riddle, jigsaw, or logic puzzle to find the correct answer.</En>
+            </Situation>
+            <Situation id="eac9a7d0-ddf4-4cda-a8be-c84443023b07">
+              <Vi>Trong lập trình, một bài toán yêu cầu tư duy thuật toán phức tạp.</Vi>
+              <En>In programming, a challenging algorithmic problem requiring creative problem-solving.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c4e2f4d8-3172-4ea6-8ec5-3bfc09824182" ipa="/ˈpʌz.əl/" vi_ipa="pà-dờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a8c1ef2b-97df-4994-9ce6-b30ecc3a4d35" type="Verb">
+          <Vi>Làm bối rối; làm khó hiểu; làm đau đầu</Vi>
+          <En>To confuse or perplex someone; to cause someone to feel puzzled or uncertain.</En>
+          <Example>The sudden change in his behavior puzzled everyone at the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="157f71da-c003-4d9d-a717-97a3af3127ea">
+              <Vi>Một tình huống bất ngờ khiến người khác không hiểu vì sao.</Vi>
+              <En>An unexpected event leaves others confused and unable to explain it.</En>
+            </Situation>
+            <Situation id="8e982a6a-7600-46bd-9056-d87c9e2e24c7">
+              <Vi>Trong học tập, một khái niệm trừu tượng khiến sinh viên khó nắm bắt.</Vi>
+              <En>In learning, an abstract concept that students struggle to grasp.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
