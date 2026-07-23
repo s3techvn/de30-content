@@ -1,0 +1,38 @@
+<Vocab id="4eeb0f5f-b4e6-4e70-9176-419af627c444" word="announce" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e237f7c2-6995-4c49-b3e2-dd8d1fbc3882" ipa="/əˈnaʊns/" vi_ipa="ơ-nây-nx">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f58fb872-3064-4370-9b8f-0fdac6653843" type="Verb">
+          <Vi>Công bố, thông báo</Vi>
+          <En>To make something known publicly, especially something important or official.</En>
+          <Example>The company will announce the new product launch next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="572accbf-ee0e-40d6-894c-02bbcbe6e9ee">
+              <Vi>Người phát ngôn đọc bản tin chính thức trước báo giới.</Vi>
+              <En>A spokesperson reads an official statement in front of the press.</En>
+            </Situation>
+            <Situation id="aed6fd9e-9037-41e2-a0d7-d2a28ba40e26">
+              <Vi>Giáo viên thông báo kết quả thi cho học sinh.</Vi>
+              <En>The teacher announces the exam results to the students.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

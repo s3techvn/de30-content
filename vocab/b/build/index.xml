@@ -1,0 +1,52 @@
+<Vocab id="d08dd895-cbc0-4388-ae60-01bac0b3dd1c" word="build" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7a77b78e-876a-4b0d-b241-5e6c3d0abef1" value="Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5624fcd2-1a33-4c2d-8c6e-d77735252b37" ipa="/bɪld/" vi_ipa="bít-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="83c8881d-44bf-483e-8b00-9b511eaf6182" type="Verb">
+          <Vi>Xây dựng; tạo ra; phát triển</Vi>
+          <En>To construct something physically or metaphorically, such as a building, a business, or a relationship.</En>
+          <Example>They plan to build a new school in the village next year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f1c6ad9-81a3-4ace-95d3-1ebd84e3c3a7">
+              <Vi>Hoạt động xây nhà, cầu, đường...</Vi>
+              <En>Physical construction of structures like houses, bridges, or roads.</En>
+            </Situation>
+            <Situation id="92d22b30-ba8e-4942-af2b-f1c00f3ae620">
+              <Vi>Phát triển một công ty, thương hiệu, hoặc kỹ năng cá nhân</Vi>
+              <En>Developing or establishing something abstract, such as a career, brand, or skill.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f657faf5-5e4e-4660-ae55-c0b0d0b9be89" type="Noun">
+          <Vi>Bản thiết kế; kiểu dáng; sự xây dựng</Vi>
+          <En>The physical structure or form of something; also, a particular version or instance of a product or system.</En>
+          <Example>The new smartphone has a sleek build and durable frame.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b854ecea-025e-4a91-8359-8e96a32c76e7">
+              <Vi>Mô tả chất lượng hoặc kiểu dáng của một sản phẩm</Vi>
+              <En>Referring to the physical construction or design quality of a device or object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
