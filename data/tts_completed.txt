@@ -1267,3 +1267,4 @@ shed
 store
 antarctica
 counting
+rule
