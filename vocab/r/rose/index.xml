@@ -1,0 +1,64 @@
+<Vocab id="3c084c40-e360-4dd2-b56b-3a6f5fd801a0" word="rose" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+    <Profession id="81d3444c-64b3-4cdd-9d1f-f07dce053ff1" value="Florist" />
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="075c9ba2-cc1e-4d04-afcd-15e829ec53e9" ipa="/roʊz/" vi_ipa="rơ-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f3418ddc-5ab2-4171-b065-fa47d674ae59" type="Noun">
+          <Vi>hoa hồng</Vi>
+          <En>A fragrant flowering shrub of the genus Rosa, typically bearing red, pink, white, or yellow flowers with many petals.</En>
+          <Example>She picked a red rose from the garden and placed it in a vase.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36cbb5db-bfd6-42db-b062-3369243ae8b1">
+              <Vi>Cảnh người hái hoa hồng trong vườn để làm quà hoặc trang trí.</Vi>
+              <En>A scene of someone picking roses from a garden to give as a gift or for decoration.</En>
+            </Situation>
+            <Situation id="1ba9e7ce-4043-4c2c-9a6f-568041e59c74">
+              <Vi>Hoa hồng được dùng trong lễ cưới, bó hoa, hoặc làm nước hoa.</Vi>
+              <En>Roses are used in weddings, bouquets, or to make perfume.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="b6002538-0ab1-429c-9b1f-46d374a336bd" ipa="/roʊz/" vi_ipa="rơ-z">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="76020873-0bc3-4026-96ce-33cd5160f507" type="Verb">
+          <Vi>trỗi dậy; bay lên (như chim); tăng lên (giá cả, mức độ)</Vi>
+          <En>To move upward or rise, especially suddenly or dramatically; to increase in amount, level, or intensity.</En>
+          <Example>The sun rose behind the mountains, painting the sky in hues of orange and pink.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54486f85-a3c5-418e-8fe3-a81d6a3ce2ae">
+              <Vi>Mặt trời mọc vào buổi sáng.</Vi>
+              <En>The sun rising in the morning.</En>
+            </Situation>
+            <Situation id="f2995783-27ae-4233-b7c9-76be9e6f4e45">
+              <Vi>Giá cả tăng mạnh trong thời kỳ lạm phát.</Vi>
+              <En>Prices rising sharply during inflation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
