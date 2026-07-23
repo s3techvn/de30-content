@@ -1,0 +1,54 @@
+<Vocab id="7fa0e283-25b7-43d1-acd0-8edb77c8392e" word="adopted" type="short" status="done">
+  <Topics>
+    <Topic id="894a06d9-21b0-4fb0-9b05-0cc2f6fd776d" value="Family &amp; Social" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b0625ca2-6d88-401f-9500-3ee8ffecc1ce" ipa="/əˈdɒptɪd/" vi_ipa="ơ-đốp-tít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="244d0ee9-da73-456d-9212-c720adcc4709" type="Adjective">
+          <Vi>được nhận làm con nuôi; được nhận làm con ruột bằng pháp lý</Vi>
+          <En>legally taken as one's own child, especially when not biologically related</En>
+          <Example>She grew up in a loving home with her adopted parents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ce97b296-6898-44fa-a45a-bfe738b3e49e">
+              <Vi>Một cặp vợ chồng không có con ruột quyết định nhận một trẻ sơ sinh từ trại trẻ mồ côi.</Vi>
+              <En>A childless couple decides to take in a newborn from an orphanage.</En>
+            </Situation>
+            <Situation id="eb378e5f-85ac-491e-9a4e-0619d3925aa1">
+              <Vi>Trong pháp lý, việc nhận con nuôi cần sự chấp thuận của tòa án.</Vi>
+              <En>Legally, adoption requires court approval.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2304c7ec-0fda-44b1-a235-44842bc45907" type="Adjective">
+          <Vi>được chấp nhận, áp dụng (ý kiến, phương pháp, chính sách...)</Vi>
+          <En>officially accepted or put into use (e.g., a policy, method, or idea)</En>
+          <Example>The company adopted a new environmental policy last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="761c222c-fa29-4cd2-905d-9a2e64a7aa39">
+              <Vi>Hội đồng trường đã thông qua phương pháp giảng dạy mới.</Vi>
+              <En>The school board adopted the new teaching methodology.</En>
+            </Situation>
+            <Situation id="4b8056f3-ed06-42bc-a01c-0ca4e67a706e">
+              <Vi>Chính phủ đã áp dụng các biện pháp khẩn cấp để đối phó với dịch bệnh.</Vi>
+              <En>The government adopted emergency measures to tackle the outbreak.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

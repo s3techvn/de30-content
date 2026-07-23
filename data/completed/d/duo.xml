@@ -1,0 +1,39 @@
+<Vocab id="f6c6ba75-3b8f-4ee1-b2be-6d81757e2dbe" word="duo" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="c3d723e0-cd26-4b94-ba4f-f6d09be3bf1b" value="Performer" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee24b85c-8123-4487-af0f-9fd6c595cfa1" ipa="/ˈduː.oʊ/" vi_ipa="đú-ô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c328af79-4fa8-4540-aeff-35657114f025" type="Noun">
+          <Vi>Nhóm hai người, thường là nghệ sĩ biểu diễn cùng nhau (như ca sĩ, nhạc sĩ)</Vi>
+          <En>A pair of people, especially musicians or performers who perform together</En>
+          <Example>The piano duo performed a beautiful duet at the concert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5981ad9-76ce-4ebf-a988-60711e70be69">
+              <Vi>Trong âm nhạc, chỉ hai nghệ sĩ biểu diễn cùng nhau, thường với hai nhạc cụ hoặc hát song ca.</Vi>
+              <En>In music, refers to two performers playing or singing together, often on two instruments or in a vocal duet.</En>
+            </Situation>
+            <Situation id="0c10912e-07ca-44e9-8c1f-b540753f7c9c">
+              <Vi>Trong đời sống, chỉ một cặp người làm việc hoặc xuất hiện cùng nhau thường xuyên.</Vi>
+              <En>In everyday life, refers to a pair of people who frequently work or appear together.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
