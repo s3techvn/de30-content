@@ -1,0 +1,42 @@
+<Vocab id="e718e649-986c-4720-87a4-861e5d8e6ef6" word="whats" type="short" status="done">
+  <Topics>
+    <Topic id="093db55a-043d-42e0-b009-e812b0f89a6c" value="Daily Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="27a93c60-0264-401b-a974-e60876a12a1f" value="Software Support Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d21ea3bc-f943-4895-b2ca-c81abbb1eab7" ipa="/wʌts/" vi_ipa="át-xờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ab2731f1-3a35-4f5a-ba36-d89cf1d9009a" type="Interjection">
+          <Vi>Chuyện gì vậy?/Có chuyện gì vậy?/Sao vậy?</Vi>
+          <En>Used to ask what is happening, what someone wants, or what something is; often used informally as a greeting or to express surprise or curiosity.</En>
+          <Example>What’s up? — Not much, just relaxing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="930ad506-227a-4613-a536-cc1f369700d9">
+              <Vi>Chào hỏi bạn bè hoặc đồng nghiệp một cách thân mật, thường trong tin nhắn hoặc cuộc gọi.</Vi>
+              <En>Greeting friends or colleagues informally, often in messages or phone calls.</En>
+            </Situation>
+            <Situation id="4b654195-9e14-4476-b555-6ddec0163b89">
+              <Vi>Thể hiện sự tò mò hoặc bất ngờ khi nghe điều gì bất ngờ.</Vi>
+              <En>Expressing curiosity or surprise upon hearing something unexpected.</En>
+            </Situation>
+            <Situation id="4705bc8d-041b-40ea-9430-c3bab7468b01">
+              <Vi>Yêu cầu người khác giải thích điều họ vừa nói hoặc làm.</Vi>
+              <En>Asking someone to explain what they just said or did.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
