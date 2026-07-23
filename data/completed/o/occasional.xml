@@ -1,0 +1,36 @@
+<Vocab id="a4a329fb-4eb2-4a14-bcea-09226156c1bf" word="occasional" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64147b18-e3e3-4f78-9680-2fe874723f2d" ipa="/əˈkeɪ.ʒən.l/" vi_ipa="ơ-ca-zôn-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="49a27795-36cd-4857-9417-739c8ff1a047" type="Adjective">
+          <Vi>thỉnh thoảng; không thường xuyên</Vi>
+          <En>Happening or done only sometimes, not regularly or frequently.</En>
+          <Example>She only makes occasional visits to her hometown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="086555dd-9db8-40fc-809a-87d0f6883c8a">
+              <Vi>Mô tả sự kiện xảy ra ít gặp, không theo lịch trình cố định.</Vi>
+              <En>Describes an event that occurs rarely and without a fixed schedule.</En>
+            </Situation>
+            <Situation id="12cb1660-83f4-48a9-a605-23075309dadf">
+              <Vi>Dùng để chỉ hoạt động hoặc hành động mang tính chất phụ trợ, không phải chính.</Vi>
+              <En>Used to describe activities or roles that are supplementary, not primary (e.g., occasional helper).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
