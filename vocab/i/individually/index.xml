@@ -1,0 +1,40 @@
+<Vocab id="6a069c4e-9806-4a41-999c-3653b5032054" word="individually" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a445c7f5-0518-4fef-9701-35925860c718" ipa="/ˈɪn.dɪˌvɪdʒ.u.əl.i/" vi_ipa="in-đi-vi-đu-ơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca45f257-b927-423f-bfe1-bd3504fff8cd" type="Adverb">
+          <Vi>một cách riêng lẻ; từng cá nhân</Vi>
+          <En>In a separate or distinct manner; each as an individual.</En>
+          <Example>Students were asked to complete the assignment individually, without consulting classmates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="91f9210e-555e-4415-a691-0dbfab0cc2b5">
+              <Vi>Yêu cầu mỗi người làm việc không phụ thuộc vào người khác.</Vi>
+              <En>Requesting each person to work independently without relying on others.</En>
+            </Situation>
+            <Situation id="6c771734-6cba-41db-9207-baebd45d43f7">
+              <Vi>Đánh giá hiệu suất của từng nhân viên riêng biệt.</Vi>
+              <En>Evaluating each employee’s performance separately.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
