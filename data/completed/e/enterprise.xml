@@ -1,0 +1,52 @@
+<Vocab id="6e057857-2d3d-487e-a88c-bf087176351f" word="enterprise" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="0020764d-94e5-43da-a39c-0289e2af9ef4" value="Economics" />
+  </Topics>
+  <Professions>
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+    <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" value="Business Manager" />
+    <Profession id="9cfe9d98-c264-413f-b0e3-3de636fe3b13" value="Software Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ce9f25d-043f-495d-a037-4c4bf74620e9" ipa="/ˈen.tər.prɪz/" vi_ipa="en-tơ-rơ-prít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="435c7ba5-7de9-4d6c-882b-ce8f1a4b4efc" type="Noun">
+          <Vi>Công ty, doanh nghiệp; dự án lớn, sáng kiến táo bạo</Vi>
+          <En>A large business organization; a project or undertaking, especially one that is bold or complex.</En>
+          <Example>The startup received funding to launch its enterprise in artificial intelligence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c5845f6-83b5-457c-b402-9c0691fdeed3">
+              <Vi>Thành lập và điều hành một doanh nghiệp tư nhân quy mô lớn.</Vi>
+              <En>Establishing and managing a large-scale private business.</En>
+            </Situation>
+            <Situation id="c11652e2-db0e-461d-a91c-152f4cd5a990">
+              <Vi>Một dự án công nghệ cao đòi hỏi đầu tư và rủi ro lớn.</Vi>
+              <En>A high-tech project requiring significant investment and risk-taking.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="12b0e468-9ea1-4a36-8ebc-e05b27ea38dd" type="Noun">
+          <Vi>Tinh thần khởi nghiệp; sự can đảm và sáng tạo trong kinh doanh</Vi>
+          <En>The spirit of initiative, innovation, and risk-taking in business or other ventures.</En>
+          <Example>Her enterprise and determination helped her overcome early setbacks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0badf4e-72d5-4c46-8c3f-1ef24c1cbd5d">
+              <Vi>Khen ngợi tinh thần khởi nghiệp của một nhóm sinh viên.</Vi>
+              <En>Praising the entrepreneurial spirit of a group of students.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
