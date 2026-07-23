@@ -1,0 +1,38 @@
+<Vocab id="a58749de-7b00-46f5-abe1-1f1b8dbadc04" word="hour" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff620f18-c939-4a3b-a7eb-fddce3ea74b0" ipa="/aʊər/" vi_ipa="ơ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f3f42c6e-1dc0-4601-993b-584987618567" type="Noun">
+          <Vi>giờ (đơn vị thời gian, bằng 60 phút)</Vi>
+          <En>A period of 60 minutes.</En>
+          <Example>We waited for over an hour before the bus arrived.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ffa033c-f67b-4c9e-9de5-e5ed544752c4">
+              <Vi>Mô tả khoảng thời gian trong lịch trình hoặc thời gian chờ đợi.</Vi>
+              <En>Used when referring to duration in schedules or waiting times.</En>
+            </Situation>
+            <Situation id="98d86b31-85b7-48a6-ba56-5a028ce9b98e">
+              <Vi>Chỉ thời điểm trong ngày (kết hợp với số): "3 giờ chiều".</Vi>
+              <En>Used with numbers to indicate time of day (e.g., "three o'clock").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

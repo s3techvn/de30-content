@@ -1,0 +1,50 @@
+<Vocab id="69b4f7c0-30a0-4a16-a4ca-1c9d8009b230" word="republic" type="short" status="done">
+  <Topics>
+    <Topic id="8f5c0137-1fa7-47f8-acdf-b3b00be40edc" value="Politics &amp; Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d3e96389-78f0-4234-9e80-6427a6b7c9db" ipa="/ˈrep.ə.blɪk/" vi_ipa="rít-pờ-líc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="043be3aa-7cda-4efa-9770-3cc2746d4b13" type="Noun">
+          <Vi>Cộng hòa</Vi>
+          <En>A form of government in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a monarch.</En>
+          <Example>The United States is a federal republic with a president as head of state and government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69795c06-aca8-49b0-9780-b241a2dec6f6">
+              <Vi>Chế độ chính trị nơi quyền lực nhà nước thuộc về nhân dân thông qua bầu cử.</Vi>
+              <En>A political system where state power rests with the people through elections.</En>
+            </Situation>
+            <Situation id="3ce92999-d8bd-413b-baf8-6227e72f5140">
+              <Vi>Tên chính thức của nhiều quốc gia, ví dụ: Cộng hòa Pháp, Cộng hòa Liên bang Đức.</Vi>
+              <En>The official name of many countries, e.g., French Republic, Federal Republic of Germany.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="160e7695-7b43-4819-be18-d5caa5920ac6" type="Noun">
+          <Vi>Những người cùng chí hướng (thường trong văn chương hoặc lịch sử)</Vi>
+          <En>A group of people united for a common purpose, especially in historical or literary contexts (e.g., “the republic of letters”).</En>
+          <Example>The Enlightenment thinkers formed an intellectual republic spanning across Europe.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f4994129-4534-4592-b7f2-522d6f08adcf">
+              <Vi>Khái niệm ẩn dụ chỉ cộng đồng trí thức hoặc văn học.</Vi>
+              <En>A metaphorical term for a community of scholars or writers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
