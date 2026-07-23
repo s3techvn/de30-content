@@ -1,0 +1,64 @@
+<Vocab id="68606f9f-7d48-4909-99ab-bfe02d029bee" word="worm" type="short" status="done">
+  <Topics>
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="fa870c15-d0da-4608-86c9-af725a28f1bf" value="Veterinarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="13317e4f-bf2e-4e9d-932a-eb9e897ccfd4" ipa="/wɜːrm/" vi_ipa="oa-ram">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0e50f8d3-18a8-4923-a90e-6ad478164c6f" type="Noun">
+          <Vi>giun (động vật thân mềm, không chân, sống trong đất hoặc trong cơ thể sinh vật)</Vi>
+          <En>a long, thin, soft-bodied invertebrate animal, typically living in soil or as a parasite in animals</En>
+          <Example>The gardener found several earthworms while turning the compost.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43ed93e5-4cb1-4033-b379-d2447343e0ae">
+              <Vi>Mô tả sinh vật không xương sống, di chuyển bằng cách co giãn cơ thể trong đất.</Vi>
+              <En>Describing a limbless, soft-bodied invertebrate moving by muscular contraction in soil.</En>
+            </Situation>
+            <Situation id="d3b4d76c-9ff3-467b-a8af-6dd5c5e3566e">
+              <Vi>Chỉ ký sinh trùng sống trong ruột người hoặc động vật.</Vi>
+              <En>Referring to parasitic worms such as roundworms or tapeworms living in the intestines.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef8dabfa-57a5-4843-8e90-f1ff987b5ef3" type="Noun">
+          <Vi>con sâu (côn trùng non, thường là sâu bướm chưa hóa蛹)</Vi>
+          <En>the larval stage of a butterfly or moth, typically worm-like and herbivorous</En>
+          <Example>Cabbage white butterflies lay their eggs on brassica leaves, and the resulting worms feed on the foliage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5e520952-6df5-4809-9c8a-865ba0da2dcf">
+              <Vi>Sâu non ăn lá cây, thường gây hại cho nông nghiệp.</Vi>
+              <En>Larvae that feed on plant leaves and often damage crops.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="001fc3b3-454e-4bc0-965d-f16ff7282658" type="Noun">
+          <Vi>người khôn ngoan, tinh vi, hay lén lút (thường mang tính chê bai)</Vi>
+          <En>a sly or untrustworthy person, especially one who acts in a secretive or underhanded way</En>
+          <Example>He’s such a worm—he always takes credit for others’ work.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c3eaabb-832c-4868-a294-8d8db996cfb3">
+              <Vi>Dùng để chỉ người đáng khinh, hành động thâm độc hoặc lén lút.</Vi>
+              <En>Used pejoratively to describe someone deceitful or sneaky.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

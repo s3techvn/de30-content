@@ -1,0 +1,64 @@
+<Vocab id="c7c21c17-5466-419a-8ea4-0074d33a6ccf" word="collect" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5120921f-3e67-49e1-b34c-f648f1f9973c" ipa="/kəˈlekt/" vi_ipa="cơ-lec-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e30a311-5d00-4300-bb14-2cea4cd748c0" type="Verb">
+          <Vi>thu thập, gom lại</Vi>
+          <En>to gather or bring together things or people from different places or sources</En>
+          <Example>She collected seashells along the beach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e86dc53c-efe2-4be1-bc0e-4dc89a6aaef3">
+              <Vi>Gom lại các vật thể rời rạc thành một nhóm.</Vi>
+              <En>Gathering scattered items into one place or group.</En>
+            </Situation>
+            <Situation id="382e1f60-e9d7-44e2-9a70-12f4145aeb0c">
+              <Vi>Tập hợp tiền bạc từ nhiều người để đóng góp chung.</Vi>
+              <En>Pooling money from multiple people for a shared purpose.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5042c88d-ccef-4772-ac67-8e620d332b39" type="Verb">
+          <Vi>thu tiền (theo hợp đồng, hóa đơn)</Vi>
+          <En>to go to people’s homes or offices to collect money owed, such as rent or debts</En>
+          <Example>The landlord sent a representative to collect the overdue rent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd0e1a2a-c0dd-46f9-b770-67258a626bba">
+              <Vi>Đến nhà khách thuê để thu tiền thuê nhà.</Vi>
+              <En>Visiting tenants’ residences to collect monthly rent payments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bef271bf-89e7-44ad-a64d-9769100943b7" type="Verb">
+          <Vi>thu thập (kiến thức, thông tin, dữ liệu)</Vi>
+          <En>to systematically gather information, data, or evidence for a purpose</En>
+          <Example>Researchers collected data over a period of two years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9787d47-bcde-468c-9692-5202462ee4f6">
+              <Vi>Thu thập dữ liệu phục vụ nghiên cứu khoa học.</Vi>
+              <En>Gathering empirical data to support academic research.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
