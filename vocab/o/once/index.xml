@@ -1,0 +1,56 @@
+<Vocab id="42ac1b82-0852-40de-8216-739b1bdd5f96" word="once" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bcb8b690-2183-4d19-860f-cf211e36a42f" ipa="/wʌns/" vi_ipa="oa-nx">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a5b19072-28e2-44a8-a20b-841dd46e0811" type="Adverb">
+          <Vi>một lần; một lần duy nhất; một lần nữa</Vi>
+          <En>at one time in the past or future; on one occasion only</En>
+          <Example>I visited Paris once, and I’d love to go back.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2ce5811-a614-4ad0-87b5-69ca621f6efb">
+              <Vi>Mô tả một sự kiện đã xảy ra hoặc sẽ xảy ra đúng một lần.</Vi>
+              <En>Describing an event that happened or will happen exactly one time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ab1cc81e-6b9a-4516-9d3b-1b767ff1d9bd" type="Adverb">
+          <Vi>trước đây; từng (trong quá khứ)</Vi>
+          <En>used to refer to a previous state or condition</En>
+          <Example>He was once a teacher before becoming a writer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56e95040-b7c3-4932-a041-0ecff9aca8a2">
+              <Vi>Dùng để nói về một trạng thái, vị trí hoặc nghề nghiệp trong quá khứ.</Vi>
+              <En>Used to describe a past state, position, or profession.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b50673c6-19a7-4120-af81-82d1c29514c2" type="Conjunction">
+          <Vi>khi; ngay khi; ngay sau khi</Vi>
+          <En>used to indicate the time at which something happens; as soon as</En>
+          <Example>Once you finish your homework, you can go out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c22ab821-8ccf-4db9-a8d5-4244fb98391a">
+              <Vi>Dùng để bắt đầu một mệnh đề chỉ điều kiện hoặc thời điểm xảy ra hành động tiếp theo.</Vi>
+              <En>Used to introduce a clause indicating a condition or the time at which the next action occurs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

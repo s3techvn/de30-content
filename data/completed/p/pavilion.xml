@@ -1,0 +1,40 @@
+<Vocab id="f924ba37-dfb0-4e33-9804-945d3d63d505" word="pavilion" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="6a7df062-813a-4d6f-8e62-31ca862a28ca" value="Gardens &amp; Landscapes" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="fc51360c-a61e-4feb-98c2-340254e1c159" value="Landscape Designer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="285df9c4-de7a-4170-a260-80366e50cf31" ipa="/pəˈvɪl.jən/" vi_ipa="pơ-vi-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0e1b73e2-6812-4d7b-b3f3-a6008ea89866" type="Noun">
+          <Vi>lều, nhà nhỏ, gian hàng (thường được xây dựng trong công viên, vườn, hoặc dùng trong sự kiện)</Vi>
+          <En>a light, often decorative structure, typically open on some sides, used as a shelter or display space in a park, garden, or at an exhibition</En>
+          <Example>The visitors gathered under the pavilion to escape the sudden rain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6696ab31-92d5-4eff-9566-6d11c8e81553">
+              <Vi>Một cấu trúc bằng gỗ hoặc kim loại có mái, đặt trong công viên để du khách nghỉ ngơi.</Vi>
+              <En>A freestanding, roofed structure in a public park, often used for rest or small gatherings.</En>
+            </Situation>
+            <Situation id="e2459999-638b-4945-9c60-a1a2fd4fe7c5">
+              <Vi>Gian hàng trưng bày tại hội chợ hoặc triển lãm quốc tế.</Vi>
+              <En>A temporary or semi-permanent booth or building at a fair or international expo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
