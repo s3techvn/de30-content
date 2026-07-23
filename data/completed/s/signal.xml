@@ -1,0 +1,54 @@
+<Vocab id="a018c213-ef36-47c3-83e1-5d1cdb613be7" word="signal" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="f0a90d1d-3def-4e17-8a51-ccd453c0de08" value="Traffic Controller" />
+    <Profession id="33a257d4-52c7-497e-ab42-bb99502f29cb" value="Radio Operator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6298fcd3-e833-407f-924e-f454f8371898" ipa="/ˈsɪɡ.nəl/" vi_ipa="xì-gờ-nan">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1efbd1ba-d8ba-4147-8958-cccf65ee3afb" type="Noun">
+          <Vi>Tín hiệu</Vi>
+          <En>A sign, gesture, or device used to convey information or instructions, especially one that is intended to be seen or heard.</En>
+          <Example>The traffic light turned red, signaling us to stop.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ff265c9-32aa-41f6-861e-d862901bf0ba">
+              <Vi>Tình huống sử dụng đèn tín hiệu giao thông để điều khiển xe.</Vi>
+              <En>Using traffic lights to control vehicle movement.</En>
+            </Situation>
+            <Situation id="a75a3dba-a285-4899-9579-116d8b451eb5">
+              <Vi>Tình huống một người vẫy tay để báo hiệu sự hiện diện hoặc yêu cầu chú ý.</Vi>
+              <En>Someone waving to indicate presence or request attention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="baa7aa68-8573-4ffb-883f-28b2be737c3b" type="Verb">
+          <Vi>Báo hiệu, ra hiệu</Vi>
+          <En>To send or receive a sign, gesture, or message to convey information or intent.</En>
+          <Example>She signaled her approval with a nod.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8da07c10-e78c-41a3-96e6-55709c31ed67">
+              <Vi>Tình huống một phi công ra hiệu cho phi hành đoàn trước khi cất cánh.</Vi>
+              <En>A pilot giving a signal to the crew before takeoff.</En>
+            </Situation>
+            <Situation id="9fbfca01-058f-4a53-a6f0-23555c985258">
+              <Vi>Tình huống một người dùng đèn xe để báo hiệu chuyển làn.</Vi>
+              <En>Using car headlights to signal a lane change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

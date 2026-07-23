@@ -1,0 +1,40 @@
+<Vocab id="1245527f-32f2-4065-a04f-eaa1b75c1851" word="prediction" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f1a199b-5f38-42dd-afbd-6195f8d93aea" ipa="/prɪˈdɪk.ʃən/" vi_ipa="pờ-rị-đích-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2d1ab07-e7ad-4165-97af-cdd7df781c2b" type="Noun">
+          <Vi>Dự đoán; tiên đoán</Vi>
+          <En>A statement about what will happen in the future, typically based on evidence or reasoning.</En>
+          <Example>The weather prediction for tomorrow calls for heavy rain and strong winds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3fbddbea-eafc-4a15-8c8f-1e84e796920b">
+              <Vi>Người dân theo dõi dự báo thời tiết để lên kế hoạch đi lại.</Vi>
+              <En>People check weather forecasts to plan their daily activities.</En>
+            </Situation>
+            <Situation id="9fa6ceb0-c6a1-4eb8-b781-5af0d2035ac5">
+              <Vi>Các chuyên gia đưa ra dự đoán về xu hướng thị trường chứng khoán.</Vi>
+              <En>Experts make predictions about stock market trends.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
