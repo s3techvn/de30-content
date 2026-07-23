@@ -1,0 +1,48 @@
+<Vocab id="5a8ff2bc-976e-4d24-b33c-bcc2dfc33f71" word="ban" type="short" status="done">
+  <Topics>
+    <Topic id="4f8b75c7-cdc8-40fa-a4bf-3a106d7173f3" value="Law &amp; Order" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="026fc1fd-4c0a-4e3b-a026-e135dfb80540" value="Policy Maker" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2d540fc0-500d-411e-9a6a-ea02e94610b8" ipa="/bæn/" vi_ipa="bann">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fad40066-a881-433c-a1ae-09615083ffc7" type="Noun">
+          <Vi>Cấm đoán; lệnh cấm</Vi>
+          <En>A formal or official prohibition of something</En>
+          <Example>The government issued a ban on single-use plastics to reduce pollution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="38a23bfe-193d-40fa-a2cd-83e5011633d8">
+              <Vi>Chính quyền ban hành lệnh cấm sử dụng túi nilon.</Vi>
+              <En>Authorities enforce a ban on plastic bags in supermarkets.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6f7f38d4-25a7-4e20-818f-14cb5581c27e" type="Verb">
+          <Vi>Cấm, cấm đoán, ngăn cấm</Vi>
+          <En>To officially or legally prohibit something</En>
+          <Example>The school banned smartphones during class hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b959c48-6502-45d0-b7bf-f1cdd16605a3">
+              <Vi>Chủ tịch câu lạc bộ cấm thành viên vi phạm nội quy.</Vi>
+              <En>The club president banned members from bringing guests without prior approval.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

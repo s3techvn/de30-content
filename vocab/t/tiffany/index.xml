@@ -1,0 +1,33 @@
+<Vocab id="e6618fa0-a836-48bc-abe8-e644d22cd777" word="tiffany" type="short" status="done">
+  <Topics>
+    <Topic id="e7e94d4b-1a05-4fa1-bb5e-4ab0ed58657f" value="Brands" />
+  </Topics>
+  <Professions>
+    <Profession id="e8c38669-b790-43ca-aa6c-e96b32ab838b" value="Retail" />
+    <Profession id="31dff947-7654-4bb0-9283-08c84ae06345" value="Fashion Design" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5352f6cd-922b-4546-be8a-11fb6804cd30" ipa="/ˈtɪf.ə.ni/" vi_ipa="tí-phê-ni">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d32dc78-d4e2-4f43-adfe-0bff987abf0c" type="Proper Noun">
+          <Vi>Tiffany &amp; Co., thương hiệu trang sức cao cấp nổi tiếng của Mỹ</Vi>
+          <En>Tiffany &amp; Co., a renowned American luxury jewelry company</En>
+          <Example>She received a beautiful blue Tiffany box for her birthday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="94b3904c-e433-4fd9-ab59-2bb3cc4502df">
+              <Vi>Ngữ cảnh nói về trang sức xa xỉ, đặc biệt là nhẫn đính hôn hoặc quà tặng cao cấp.</Vi>
+              <En>Context involving luxury jewelry, especially engagement rings or high-end gifts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
