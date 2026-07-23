@@ -1,0 +1,70 @@
+<Vocab id="b33c1566-880e-42fd-9ed6-221960bb5d90" word="clips" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c6dce143-6347-4976-8f74-af9549d3caba" ipa="/klɪps/" vi_ipa="kli-p">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa5e1866-bf89-47b6-be0b-93b86742cb00" type="Noun">
+          <Vi>kẹp, ghim, kẹp giấy, mảnh nhỏ (thường kim loại hoặc nhựa)</Vi>
+          <En>a small, rigid device used to hold objects together, such as paper clips, hair clips, or clothing clips</En>
+          <Example>She pinned the invitation to the bulletin board using a decorative clip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d286393-87ae-4161-9fa9-17567f891c7c">
+              <Vi>Sử dụng kẹp giấy để giữ các tờ giấy lại với nhau.</Vi>
+              <En>Using a paper clip to hold sheets of paper together.</En>
+            </Situation>
+            <Situation id="572bf45c-15df-4214-abde-75d7d1041442">
+              <Vi>Người mẫu đeo kẹp tóc để giữ mái tóc gọn gàng.</Vi>
+              <En>The model wore hair clips to keep her hair in place.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f0bb2795-5d99-4196-95f2-f4b43d8126a4" type="Noun">
+          <Vi>đoạn phim ngắn, đoạn trích (trong truyền hình hoặc điện ảnh)</Vi>
+          <En>a short segment or excerpt from a film, television show, or video</En>
+          <Example>The news broadcast included a clip of the president’s latest speech.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a7a48744-cb7f-44a9-93c6-132ad900ae86">
+              <Vi>Chỉnh sửa các đoạn phim ngắn để tạo video giới thiệu sản phẩm.</Vi>
+              <En>Editing short video clips to create a product promotional video.</En>
+            </Situation>
+            <Situation id="e49ae1eb-69e1-43a6-93c6-52794eaa8e6b">
+              <Vi>Chia sẻ một đoạn phim hài trên mạng xã hội.</Vi>
+              <En>Sharing a funny video clip on social media.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4f8cf22d-ce7c-4dc1-85fc-a4ab2732583d" type="Verb">
+          <Vi>cắt (phim, video), ghim, kẹp chặt</Vi>
+          <En>to cut (a film or video) into short segments; to fasten or secure something with a clip</En>
+          <Example>The editor clipped the unnecessary scenes to shorten the runtime.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="11c35fba-ef28-4bbc-b2ba-5f5852462c5e">
+              <Vi>Người biên tập cắt bỏ một số cảnh không cần thiết khỏi phim.</Vi>
+              <En>The editor clipped several scenes that were not essential to the story.</En>
+            </Situation>
+            <Situation id="c38009f1-0742-4e74-a9a1-97536a22efaf">
+              <Vi>Cô ấy kẹp một bông hoa vào áo khoác của mình.</Vi>
+              <En>She clipped a flower onto her jacket.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,55 @@
+<Vocab id="3ca29735-1127-4bb1-9be8-8632e52bfe88" word="spam" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="302f2e67-7707-4804-ae8c-34bef92ef968" ipa="/spæm/" vi_ipa="xpăm">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db14d0a4-6859-4997-9d1b-8cabebf5b995" type="Noun">
+          <Vi>thư rác; tin nhắn rác; quảng cáo không mong muốn</Vi>
+          <En>Unsolicited, bulk electronic messages, typically of a commercial nature, sent indiscriminately to many recipients</En>
+          <Example>Most email providers automatically filter spam into a separate folder.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6818cd4e-ecb0-4840-9acc-5b0d4fe89c4d">
+              <Vi>Người dùng nhận được hàng chục email quảng cáo mỗi ngày từ các công ty không quen biết.</Vi>
+              <En>The user receives dozens of unsolicited marketing emails daily from unfamiliar companies.</En>
+            </Situation>
+            <Situation id="dc64bf5f-faba-4740-988b-cf50667e0fe7">
+              <Vi>Trong một cuộc tấn công lừa đảo, tin tặc gửi spam giả mạo ngân hàng để đánh cắp thông tin.</Vi>
+              <En>In a phishing attack, hackers send fake banking spam to steal personal information.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="215ecb99-aea6-4c2e-a124-245071f3763b" type="Verb">
+          <Vi>gửi thư rác; làm ngập (hệ thống) bằng tin nhắn rác</Vi>
+          <En>To send (someone) a large number of unsolicited messages, especially for advertising or phishing</En>
+          <Example>The company was sued for spamming customers with daily promotional offers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ac05221-ff78-4dbc-a85f-2cf53b71e3fc">
+              <Vi>Người dùng bị spam bởi các email giảm giá liên tục sau khi đăng ký nhận bản tin.</Vi>
+              <En>The user was spammed with continuous discount emails after signing up for the newsletter.</En>
+            </Situation>
+            <Situation id="2a084c93-42a9-40a3-b1f2-f60229a2ffb8">
+              <Vi>Bot tự động spam hàng nghìn bình luận trên mạng xã hội để quảng bá sản phẩm.</Vi>
+              <En>Bots automatically spam thousands of comments on social media to promote a product.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
