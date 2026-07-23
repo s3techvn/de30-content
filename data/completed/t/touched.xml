@@ -1,0 +1,38 @@
+<Vocab id="bfc00990-dac5-4029-9c06-00e87c03dc21" word="touched" type="short" status="done">
+  <Topics>
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="40c17b61-b6bc-454c-a2a3-7c4dfd62df69" ipa="/tʌtʃt/" vi_ipa="tát-chít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d24472f9-5d87-42b4-a0b4-223a5c432783" type="Adjective">
+          <Vi>được chạm vào; bị lay động (tình cảm)</Vi>
+          <En>physically touched; emotionally moved or affected</En>
+          <Example>She was deeply touched by his thoughtful gesture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93e5908f-9c6d-4fa0-b6d4-57ca8c6360b7">
+              <Vi>Một người cảm thấy xúc động trước một hành động tử tế hoặc lời nói chân thành.</Vi>
+              <En>A person feels emotionally moved by a kind or sincere action or words.</En>
+            </Situation>
+            <Situation id="74f9e4ca-b08a-4804-b455-6a424eb2fd7d">
+              <Vi>Mô tả trạng thái vật lý khi một vật tiếp xúc với da (ít dùng trong nghĩa này).</Vi>
+              <En>Describes the physical state of being in contact with the skin (rarely used in this sense).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
