@@ -1,0 +1,52 @@
+<Vocab id="6fa6b5d1-88fe-48cf-b4b9-9225327fb2cd" word="self" type="short" status="done">
+  <Topics>
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="96a19878-2b91-4d92-b305-76d365fefc70" value="Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="798e4241-eddf-4f8b-b810-ddc066d0d0c0" ipa="/sɛlf/" vi_ipa="xen-líp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="70d7ed91-712f-4bf5-a7b9-fcfb88c15e88" type="Noun">
+          <Vi>Bản thân, cái tôi</Vi>
+          <En>The individual person as a whole, especially as an object of introspection or reflection; one's own identity or essence.</En>
+          <Example>She struggled to understand her true self after years of people-pleasing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed888d91-dabf-44bc-8c4a-4fab6b3b4e99">
+              <Vi>Tình huống khi một người suy ngẫm về bản thân, giá trị, hoặc danh tính cá nhân.</Vi>
+              <En>A situation involving introspection, identity formation, or personal reflection.</En>
+            </Situation>
+            <Situation id="aa8a7786-8ba6-4b54-9a0d-fef6be2c4e63">
+              <Vi>Tình huống trong trị liệu tâm lý khi khách hàng khám phá cảm giác về "bản thân".</Vi>
+              <En>A therapeutic context where a client explores their sense of self.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e183cda4-f723-4b8d-97e1-bf3cd63a73f7" type="Noun">
+          <Vi>Tự thân, chính nó (dùng trong cấu trúc phản thân)</Vi>
+          <En>Used in reflexive constructions to emphasize the subject (e.g., "by myself", "for myself").</En>
+          <Example>He fixed the sink by himself.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fca5deb-0b26-43fa-b9d0-65eee5ffc5a4">
+              <Vi>Tình huống nhấn mạnh hành động được thực hiện một mình hoặc tự chịu trách nhiệm.</Vi>
+              <En>A situation emphasizing independence or personal responsibility (e.g., "I did it myself").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
