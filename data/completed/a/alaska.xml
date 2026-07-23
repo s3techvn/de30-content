@@ -1,0 +1,34 @@
+<Vocab id="32ad9a37-3f4d-46db-9319-b1f98eac747b" word="alaska" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8cca105a-8c94-4ef4-b744-a1e8f687a39f" ipa="/əˈlæskə/" vi_ipa="ơ-đờ-lờ-sca">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6e823ece-8b88-4119-b53f-9b6357086b1c" type="Noun">
+          <Vi>Alaska</Vi>
+          <En>A U.S. state located in the northwest extremity of North America, known for its vast wilderness, glaciers, and abundant wildlife.</En>
+          <Example>Many tourists visit Alaska to see the Northern Lights and spot grizzly bears in Denali National Park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e63481c2-045c-4446-a3d4-f2b148011958">
+              <Vi>Thảo luận về du lịch, khí hậu, hoặc địa lý của tiểu bang Alaska.</Vi>
+              <En>Discussing travel, climate, or geography related to the U.S. state of Alaska.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,52 @@
+<Vocab id="907f1173-01a4-4697-90c3-ea7e2e0ecdf2" word="brutal" type="short" status="done">
+  <Topics>
+    <Topic id="bfb7130d-5bd4-4a37-9b75-af27909a1ff0" value="Emotions &amp; Behavior" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1cc51c4e-3dc2-4acc-ba64-431ea7b1adac" value="Law Enforcement Officer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4a2d63bb-e5ea-4668-92c4-9ec5e72afa65" ipa="/ˈbruː.təl/" vi_ipa="bru-tờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c60ce0ac-6afe-456c-aeea-21d56464587e" type="Adjective">
+          <Vi>thô bạo; dã man; tàn bạo</Vi>
+          <En>extremely cruel, harsh, or violent; shockingly rough or insensitive</En>
+          <Example>The documentary showed brutal footage of the animal attack.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e3513b4-c8e6-497a-b6e8-ac1ce8ec973b">
+              <Vi>Mô tả hành vi bạo lực nghiêm trọng hoặc vô nhân đạo.</Vi>
+              <En>Describing severe or inhumane acts of violence.</En>
+            </Situation>
+            <Situation id="fd94a64e-46a2-45a4-b245-9a64b3d831cb">
+              <Vi>Dùng để nhấn mạnh mức độ khắc nghiệt của thời tiết, môi trường, hoặc trải nghiệm.</Vi>
+              <En>Used to emphasize the harshness of weather, environment, or experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c1d0d6ca-8ed8-47b5-8e1d-386315ed956c" type="Adjective">
+          <Vi>không khoan nhượng; không chút dịu dàng</Vi>
+          <En>uncompromisingly direct or severe, especially in criticism or judgment</En>
+          <Example>She gave a brutal review of the film’s weak plot.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9f1c245-fde9-4c71-8d99-eb53f24b717e">
+              <Vi>Phê bình một cách thẳng thừng, không né tránh, đôi khi gây tổn thương.</Vi>
+              <En>Criticizing in a blunt, unfiltered way that may be hurtful.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
