@@ -1,0 +1,54 @@
+<Vocab id="3b570b58-c5ed-42e8-88f7-ffa69a1ceeff" word="interval" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+    <Topic id="0d22999b-38b8-4120-bfec-df4ebdacfb3a" value="Science &amp; Math" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="425fa45c-594d-4b4f-acc6-7905800aa140" ipa="/ˈɪn.tər.vəl/" vi_ipa="in-tơ-r-vờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0fbda9bf-3049-426f-aa7e-97f3935438a2" type="Noun">
+          <Vi>Khoảng thời gian; khoảng cách (giữa hai điểm)</Vi>
+          <En>A period of time between two events or actions; a space or distance between things.</En>
+          <Example>We took a five-minute interval to rest after the sprint.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c618ea2f-15c8-4a04-8804-54994665557d">
+              <Vi>Khoảng nghỉ ngắn giữa các hiệp thi đấu hoặc bài tập.</Vi>
+              <En>A short rest period between workout sets or competition rounds.</En>
+            </Situation>
+            <Situation id="8b401c3b-f87f-453b-b223-1a673b078869">
+              <Vi>Khoảng cách giữa hai nốt nhạc trong âm nhạc.</Vi>
+              <En>The distance in pitch between two musical notes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cceb213f-9dd0-4e62-a952-932ea2dd2f56" type="Noun">
+          <Vi>Khoảng (giữa các giá trị, thời điểm, v.v.)</Vi>
+          <En>A gap or space between numbers, dates, or points in time, especially when regular or measured.</En>
+          <Example>The bus runs at ten-minute intervals during rush hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5bee8e0-6985-45ff-b6c1-d4253e6ec278">
+              <Vi>Thời điểm lặp lại định kỳ (ví dụ: báo cáo, kiểm tra).</Vi>
+              <En>A regular, repeated time period for tasks such as reporting or testing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
