@@ -1,0 +1,53 @@
+<Vocab id="e6fc2e2d-9b70-456e-85c4-a4a2656cce3d" word="galaxy" type="short" status="done">
+  <Topics>
+    <Topic id="b206002e-7e19-4765-9f59-788f22d0207e" value="Astronomy" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="92e8ce00-b6ab-4ccc-9392-cba47d33932b" value="Science Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="02f8305b-8e9f-4be3-938a-e91984e9c8cf" ipa="/ˈɡæl.ək.si/" vi_ipa="gà-lắc-xì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="33b83014-c959-48bf-8b00-44103c42d88a" type="Noun">
+          <Vi>Thiên hà</Vi>
+          <En>A huge system of stars, gas, and dust held together by gravity.</En>
+          <Example>The Milky Way is the galaxy that contains our Solar System.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2430cedc-57be-4951-95c2-6a78d7c0e2ab">
+              <Vi>Giáo viên thiên văn học giải thích về cấu trúc của các thiên hà trong vũ trụ.</Vi>
+              <En>An astronomy teacher explains the structure of galaxies in the universe.</En>
+            </Situation>
+            <Situation id="50d5ed29-699d-4fb4-a20f-f79f29b69d94">
+              <Vi>Nhà khoa học sử dụng kính thiên văn để quan sát một thiên hà xa xôi.</Vi>
+              <En>A scientist uses a telescope to observe a distant galaxy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4361136f-4551-4b4c-a341-5973fe4d195c" type="Noun">
+          <Vi>Đám đông người nổi tiếng hoặc có ảnh hưởng (thường trong một sự kiện)</Vi>
+          <En>A large group of famous or influential people, especially at a public event.</En>
+          <Example>The movie premiere was attended by a galaxy of Hollywood stars.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36392f93-50b8-4f04-b69e-105a281bc6b5">
+              <Vi>Phóng viên phỏng vấn các ngôi sao trong dàn diễn viên tại lễ công chiếu phim.</Vi>
+              <En>Reporters interview stars from the cast at a movie premiere.</En>
+            </Situation>
+            <Situation id="e964234a-34d9-4c70-8a5a-927a35ad8caf">
+              <Vi>Chương trình trao giải Oscar quy tụ một dàn sao hùng hậu từ khắp nơi trên thế giới.</Vi>
+              <En>The Oscar ceremony features a galaxy of stars from around the world.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
