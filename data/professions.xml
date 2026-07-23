@@ -801,4 +801,5 @@
   <Profession id="2ebbc573-fbb7-4f99-9625-3e9046614552" slug="farm-manager" value="Farm Manager" />
   <Profession id="f8877659-a423-4f73-8981-ad365bb3ab62" slug="devops-engineer" value="DevOps Engineer" />
   <Profession id="da0fde8b-e353-4d73-a300-3820394393e9" slug="podcaster" value="Podcaster" />
+  <Profession id="83b1205d-d904-4d88-acd2-e7010d7e3a70" slug="road-worker" value="Road Worker" />
 </Professions>
