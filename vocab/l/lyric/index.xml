@@ -1,0 +1,54 @@
+<Vocab id="cee078e0-01cd-44d0-bc7b-aad52ebc9bab" word="lyric" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="86beecb2-ec7a-4b3c-9834-bed2022ac6b0" value="Songwriter" />
+    <Profession id="9b62ad45-42e7-4c50-89c7-9d1282dae9ee" value="Poet" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30fb6a94-5e1a-43f5-8b68-d25bd7033d1f" ipa="/ˈlɪr.ɪk/" vi_ipa="lir-ích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3d2e522f-8470-4322-872b-44800926f84e" type="Noun">
+          <Vi>Bài hát (văn chương trong bài hát); lời bài hát</Vi>
+          <En>The words of a song; poetry set to music.</En>
+          <Example>She studied the lyric of the folk song to understand its historical context.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6a10c59-f67e-41ed-b746-567e41bd7ec5">
+              <Vi>Người viết lời hát đang hoàn thiện nội dung cho một ca khúc mới.</Vi>
+              <En>A songwriter is finalizing the words for a new song.</En>
+            </Situation>
+            <Situation id="85234fcc-209f-4c11-b52f-9a71336f60f8">
+              <Vi>Người nghe phân tích ý nghĩa của lời một bản nhạc pop.</Vi>
+              <En>A listener analyzes the meaning of the lyrics in a pop song.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d5ed07ba-5d59-4381-8ab8-38994c069b53" type="Adjective">
+          <Vi>Thể thơ trữ tình; cảm xúc, giàu cảm xúc</Vi>
+          <En>Expressing deep personal emotions or feelings; of or relating to lyric poetry.</En>
+          <Example>The singer delivered a lyric performance that moved the audience to tears.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7cb03908-3d19-440a-bfe0-99a9bbcb8365">
+              <Vi>Một bài thơ được gọi là "thơ trữ tình" khi thể hiện cảm xúc cá nhân sâu sắc.</Vi>
+              <En>A poem is called "lyric" when it expresses deep personal emotions.</En>
+            </Situation>
+            <Situation id="d371e16a-a106-412b-8a84-ca3a29126f48">
+              <Vi>Giọng hát trữ tình của ca sĩ làm nổi bật cảm xúc trong ca khúc.</Vi>
+              <En>The singer’s lyric voice highlights the emotional depth of the song.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

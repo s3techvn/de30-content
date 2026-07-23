@@ -1560,3 +1560,4 @@ retired
 likewise
 simulation
 follow
+lyric
