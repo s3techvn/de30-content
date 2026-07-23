@@ -1,0 +1,56 @@
+<Vocab id="d8a23179-db1e-4b91-ae12-3f368a9af224" word="inventory" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+    <Topic id="aeec2b49-1c7a-4816-99e4-7df11e915de9" value="Logistics" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+    <Profession id="d7366a7c-807b-4230-bd3e-9c52efd48767" value="Supply Chain Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d1b702a2-f360-4e89-bb41-4cbabf9d1a13" ipa="/ˈɪn.vən.tə.ri/" vi_ipa="in-vơ-nơ-tơ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a0a61279-d827-40eb-9d3f-cb16236a4bb3" type="Noun">
+          <Vi>Danh sách hoặc kho hàng hóa hiện có của một doanh nghiệp hoặc cá nhân</Vi>
+          <En>A detailed list of the goods or materials held by a business, organization, or individual, typically with quantities and values</En>
+          <Example>The company conducts an inventory every quarter to ensure accuracy in its financial records.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="abf1681a-7c1b-4ecf-8215-5da4823b9925">
+              <Vi>Quản lý kho đang kiểm đếm từng mặt hàng trong kho để cập nhật danh mục tồn kho.</Vi>
+              <En>A warehouse manager is counting each item in stock to update the inventory records.</En>
+            </Situation>
+            <Situation id="d77f99c8-a5ee-4ec7-be6c-3c95e1aedec8">
+              <Vi>Công ty đang tiến hành kiểm kê cuối năm để chuẩn bị báo cáo tài chính.</Vi>
+              <En>The company is conducting a year-end inventory to prepare financial statements.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0ac4746a-2f63-44ad-9c91-943b361b1434" type="Verb">
+          <Vi>Kiểm kê, lập danh mục hàng hóa hiện có</Vi>
+          <En>To examine and record the items in a stock or collection, especially as part of an official audit or accounting process</En>
+          <Example>The auditor will inventory all office supplies before the fiscal year ends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af6933f0-54a1-4f4a-8200-2f9c9727709a">
+              <Vi>Chúng tôi cần kiểm kê toàn bộ thiết bị trong phòng thí nghiệm vào cuối tuần này.</Vi>
+              <En>We need to inventory all the equipment in the lab this weekend.</En>
+            </Situation>
+            <Situation id="baff1361-8aad-42e0-8add-c55e4bd526c3">
+              <Vi>Sếp yêu cầu tôi kiểm kê lại kho nguyên vật liệu vì có dấu hiệu chênh lệch.</Vi>
+              <En>The manager asked me to inventory the raw materials again due to reported discrepancies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
