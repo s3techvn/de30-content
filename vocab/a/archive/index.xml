@@ -1,0 +1,58 @@
+<Vocab id="81d8d6aa-827b-4d6e-ad3b-6078dc847a4a" word="archive" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="51d2a1c3-292b-47a4-bb79-33e2b4b4f0da" ipa="/ˈɑːr.kaɪv/" vi_ipa="ác-kây-v">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="54cd69bb-c2f2-4f33-9b8d-1fe25940081a" type="Noun">
+          <Vi>Cơ sở lưu trữ; kho lưu trữ; hồ sơ lưu trữ</Vi>
+          <En>A collection of historical records or documents, especially one stored in a fixed location and made available for public or scholarly use.</En>
+          <Example>The university’s archive contains letters written by Nobel laureates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d6d20d00-9853-45ac-a83f-65af113a22e4">
+              <Vi>Thư viện hoặc tổ chức lưu giữ tài liệu lịch sử, văn bản quý hiếm.</Vi>
+              <En>A library or institution preserving historical documents and rare texts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5ffd04c0-3722-4759-9c96-6d0642b0751a" ipa="/ɑːrˈkaɪv/" vi_ipa="ác-kây-v">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0344bae-1aec-48d7-9c92-7fad17908d71" type="Verb">
+          <Vi>Lưu trữ (tài liệu, dữ liệu); đưa vào kho lưu trữ</Vi>
+          <En>To store (documents, data, etc.) in an archive for safekeeping and future reference.</En>
+          <Example>We decided to archive all old project files to free up server space.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb87d58e-8825-49eb-8dcb-933ff5aaffc1">
+              <Vi>Chuyển file cũ, email, hoặc dữ liệu không còn dùng thường xuyên vào thư mục lưu trữ.</Vi>
+              <En>To move infrequently used files, emails, or data into a secure storage location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
