@@ -1,0 +1,64 @@
+<Vocab id="84a69023-5528-4479-89c2-359e868cfce3" word="roman" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4bf1ac88-9fba-48c0-9648-922a874a10fb" ipa="/ˈroʊ.mən/" vi_ipa="rô-mân">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d97276f-198e-490e-ac1a-92d9d1bce2f0" type="Adjective">
+          <Vi>thuộc về La Mã cổ đại; theo phong cách La Mã</Vi>
+          <En>relating to ancient Rome or its culture, language, or people</En>
+          <Example>The Roman Empire extended across three continents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="62a9a4f4-8771-4524-8fce-95a64b2542f5">
+              <Vi>Mô tả các nền văn minh, kiến trúc, hoặc ngôn ngữ của Đế chế La Mã cổ đại.</Vi>
+              <En>Used when discussing architecture, history, or language of ancient Rome.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c49439f9-9803-4bee-90d0-2afb5cf9e055" type="Adjective">
+          <Vi>thuộc về Giáo hội Công giáo La Mã; theo nghi thức Công giáo La Mã</Vi>
+          <En>relating to the Roman Catholic Church or its rites and traditions</En>
+          <Example>The Roman rite is the most widely used liturgical rite in the Catholic Church.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61765fc2-dadc-4672-b8d3-e8c93ab30690">
+              <Vi>Dùng để phân biệt với các nghi thức Kitô giáo khác như Byzantine hay Orthodox.</Vi>
+              <En>Used to distinguish the liturgical practices of the Roman Catholic Church from other Christian traditions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e016ce7a-ed22-4429-b80a-bc5431482b83" type="Noun">
+          <Vi>người La Mã cổ đại; tín đồ Công giáo La Mã</Vi>
+          <En>a native or inhabitant of ancient Rome; a Roman Catholic</En>
+          <Example>The Romans built roads, aqueducts, and monumental architecture across their empire.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d49cfdc-233e-493d-8d41-870c569685aa">
+              <Vi>Dùng khi nói về người dân trong Đế chế La Mã cổ đại.</Vi>
+              <En>Used when referring to citizens or inhabitants of ancient Rome.</En>
+            </Situation>
+            <Situation id="8ef90efd-f347-482a-8d30-4cf5c787b85e">
+              <Vi>Dùng để chỉ người theo đạo Công giáo La Mã, đặc biệt trong bối cảnh tôn giáo hoặc văn hóa.</Vi>
+              <En>Used in religious or cultural contexts to refer to Roman Catholics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
