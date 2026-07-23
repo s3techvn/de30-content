@@ -1,0 +1,40 @@
+<Vocab id="c11e5f4e-d9be-4c5b-8cfe-bce3af525b3b" word="volt" type="short" status="done">
+  <Topics>
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="ba8fadbe-1238-402c-96f1-5d4ad72ab208" value="Electricity" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff6669cc-5a92-40a6-a5ec-feb7bc55d173" ipa="/voʊlt/" vi_ipa="vốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a2f3197-8a83-449c-86e2-b20806e6effd" type="Noun">
+          <Vi>vôn (đơn vị đo hiệu điện thế trong hệ SI)</Vi>
+          <En>The SI unit of electric potential difference, equal to one joule per coulomb.</En>
+          <Example>The battery provides a voltage of 9 volts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a288dc53-b0cc-44de-8b9b-2b43feab2bf0">
+              <Vi>Mô tả mức chênh lệch điện thế giữa hai điểm trong mạch điện.</Vi>
+              <En>Describes the potential difference between two points in an electrical circuit.</En>
+            </Situation>
+            <Situation id="0f49e123-0277-4381-b136-fad5cf6261ed">
+              <Vi>Đo lường điện áp trong các thiết bị điện tử tiêu dùng như điện thoại hoặc laptop.</Vi>
+              <En>Measuring voltage in consumer electronics such as phones or laptops.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

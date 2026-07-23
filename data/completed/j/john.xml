@@ -1,0 +1,44 @@
+<Vocab id="c937fdae-1340-4dda-892b-195d99fa3cb3" word="john" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="94e4d844-a8ac-4eab-bc68-2389df72a637" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7f3dc91f-412b-4be8-b1c3-d4b54b72b9a2" ipa="/dʒɑːn/" vi_ipa="giôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="34e13c52-98d3-46de-8026-3df457efc781" type="Noun">
+          <Vi>Tên riêng (được dùng làm tên đệm hoặc tên chính cho nam giới)</Vi>
+          <En>A male given name, commonly used as a first name.</En>
+          <Example>John Smith is a well-known architect in Boston.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4f984d79-778d-4f5a-831d-62fd3558feb4">
+              <Vi>Trong giao tiếp hàng ngày, khi giới thiệu hoặc nhắc đến một người tên John.</Vi>
+              <En>When introducing or referring to a person named John in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0977fd7d-ec3c-4812-9884-2a1ea2f583dc" type="Noun">
+          <Vi>Tên gọi thân mật hoặc bông đùa cho toilet (thường trong tiếng Anh Mỹ)</Vi>
+          <En>A humorous or slang term for a toilet, especially in British and Australian English.</En>
+          <Example>He stepped out to the john while the others waited in the living room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4d438e7b-2338-40ea-aa47-abea6176208d">
+              <Vi>Trong văn nói thân mật hoặc hài hước, thay thế cho từ "toilet" hoặc "bathroom".</Vi>
+              <En>In informal or humorous speech, used as a euphemism for "toilet" or "bathroom".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
