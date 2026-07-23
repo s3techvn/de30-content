@@ -1,0 +1,56 @@
+<Vocab id="ca39e0f1-ef00-4825-8c84-f147196774f4" word="token" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="137a3d7d-1e2a-48dd-82d8-e4a128f79856" ipa="/ˈtoʊ.kən/" vi_ipa="tô-kơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="780954af-fc35-4d77-9a06-692b4460f565" type="Noun">
+          <Vi>Mã thông báo; thẻ; dấu hiệu; vật tượng trưng</Vi>
+          <En>A symbol, token, or item used to represent something else, especially in computing, finance, or security contexts.</En>
+          <Example>She entered her security token to log in to the corporate network.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c41e6b7d-8bc8-4ab0-82d6-59a9aff4bf6f">
+              <Vi>Một thiết bị phần cứng hoặc phần mềm dùng để xác thực danh tính người dùng trong hệ thống bảo mật.</Vi>
+              <En>A hardware or software device used to authenticate a user’s identity in a security system.</En>
+            </Situation>
+            <Situation id="0b783a52-03c6-4f16-9042-89d85e4f3320">
+              <Vi>Trong blockchain, đơn vị giá trị kỹ thuật số được mã hóa và lưu trữ trên chuỗi.</Vi>
+              <En>In blockchain, a digital asset representing ownership, utility, or access rights encoded on the chain.</En>
+            </Situation>
+            <Situation id="c0d1189c-3938-49d0-a973-a1c86cfe56d8">
+              <Vi>Một vật nhỏ (như đồng xu cũ) dùng để mở máy giặt hoặc xe buýt.</Vi>
+              <En>A small object (such as a coin) used to operate a machine, e.g., a washing machine or bus fare system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d873eff6-6004-4caf-ab39-34e08049ef77" type="Noun">
+          <Vi>Biểu tượng; dấu hiệu; bằng chứng tượng trưng</Vi>
+          <En>A sign, gesture, or object that symbolizes a belief, feeling, or commitment.</En>
+          <Example>Leaving flowers at the memorial was a token of respect for the victims.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="904cc5da-4c46-48bb-bb6b-2c8e7644d78b">
+              <Vi>Hành động nhỏ được thực hiện để thể hiện thiện chí hoặc sự tôn trọng.</Vi>
+              <En>A small gesture made to show goodwill or respect, often symbolic rather than substantial.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

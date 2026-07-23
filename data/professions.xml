@@ -610,4 +610,5 @@
   <Profession id="ca1ef63a-8843-49f7-8f9f-ecb8e0551a0c" slug="engineer-(energy)" value="Engineer (Energy)" />
   <Profession id="f59390e8-22f3-4309-ae6d-79f62382379a" slug="operations-research-analyst" value="Operations Research Analyst" />
   <Profession id="6a6f1693-07f8-476e-93db-7ff399e309a8" slug="office-clerk" value="Office Clerk" />
+  <Profession id="4c6868c4-0e55-4553-8319-0a7c27a1c89c" slug="textile-manufacturer" value="Textile Manufacturer" />
 </Professions>

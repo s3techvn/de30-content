@@ -1,0 +1,86 @@
+<Vocab id="502c1919-9373-4f5e-88c4-c4ec3c82e833" word="fleece" type="short" status="done">
+  <Topics>
+    <Topic id="4f8da059-3080-4f01-8f32-a740859f192e" value="Clothing and Textiles" />
+    <Topic id="0b90d005-1b6a-4b05-8678-8291ef96facf" value="Agriculture and Animal Husbandry" />
+    <Topic id="3d525bd7-74da-42f9-9cf6-d87a5eb596ce" value="Business and Trade" />
+  </Topics>
+  <Professions>
+    <Profession id="2d84b71c-7ee9-4467-93d6-fceeb437e58c" value="Shepherd" />
+    <Profession id="4c6868c4-0e55-4553-8319-0a7c27a1c89c" value="Textile Manufacturer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="32740ebc-7551-4a10-b0cf-96b66a824c70" ipa="/flis/" vi_ipa="phli-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9fea5aee-73d4-4ddf-8569-3ccdb8c05d37" type="Noun">
+          <Vi>Len cừu; lớp lông dày của cừu (chưa qua xử lý)</Vi>
+          <En>The soft, thick hair of a sheep, especially when still on the skin or unprocessed.</En>
+          <Example>The shepherd sheared the fleece from the sheep early in the spring.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="be824f45-241c-4616-8633-bae5f8cc5b31">
+              <Vi>Mô tả quá trình cắt lông cừu trong chăn nuôi.</Vi>
+              <En>Describing the shearing process in sheep farming.</En>
+            </Situation>
+            <Situation id="c9d4e73e-8972-499b-b8ca-bd2de8af9269">
+              <Vi>Giá cả thị trường len cừu thô.</Vi>
+              <En>Discussing the market price of raw wool.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2cf97970-b447-4e96-8741-5cfeb46e03c6" type="Noun">
+          <Vi>Vải len (sợi len đã được kéo và dệt); vải giả len</Vi>
+          <En>Woolen fabric; or a synthetic fabric designed to imitate wool.</En>
+          <Example>She bought a warm fleece jacket for her hiking trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ed211ca-009f-4051-b527-a5058fc636a7">
+              <Vi>Mua sắm quần áo làm từ vải fleece (vải nỉ len hoặc giả len).</Vi>
+              <En>Shopping for outdoor clothing made of fleece fabric.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="506e1cf3-ea57-41f4-b0b3-0a8b52475708" type="Verb">
+          <Vi>Đánh lừa, lừa đảo (đặc biệt là về tiền bạc); bóc lột</Vi>
+          <En>To cheat or swindle someone, especially financially; to exploit or overcharge.</En>
+          <Example>The con artist tried to fleece the elderly couple out of their savings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c35d543-1606-46d6-95fd-1088d113b5d0">
+              <Vi>Cảnh báo người già về các chiêu lừa đảo tài chính.</Vi>
+              <En>Warning seniors about financial scams targeting them.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d1a27164-2dd4-4b1a-b096-90d7131f8531" ipa="/fliːs/" vi_ipa="phli-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3aab2088-d084-4634-bb7c-846951497092" type="Verb">
+          <Vi>Thoát thân, bỏ chạy (thường nói về cừu); chạy thoát</Vi>
+          <En>To escape or run away, especially used in reference to sheep.</En>
+          <Example>The sheep tried to fleece when the shepherd approached with the shearing tools.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a8e47dc-f439-4026-93a6-0f391edba0e0">
+              <Vi>Mô tả hành vi của cừu khi hoảng loạn hoặc sợ hãi.</Vi>
+              <En>Describing the behavior of sheep when startled or frightened.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
