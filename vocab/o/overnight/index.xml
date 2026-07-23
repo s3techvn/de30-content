@@ -1,0 +1,56 @@
+<Vocab id="24714ecd-6ce4-4b06-9059-b857fb828714" word="overnight" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="641fb810-6946-453d-bd23-e1a7bd607977" value="Courier" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="996c3d7b-c5c1-4233-8648-5977141d4936" ipa="/ˌoʊ.vərˈnaɪt/" vi_ipa="ô-vờ-nai-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3a382372-beca-4957-ad44-d04f2c61c7cb" type="adjective">
+          <Vi>qua đêm, diễn ra trong một đêm</Vi>
+          <En>occurring during the night or lasting only one night</En>
+          <Example>We booked an overnight stay at the mountain lodge.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5613ea4-801b-4319-a957-94d4fc93a915">
+              <Vi>Mô tả một chuyến nghỉ lại qua đêm, thường khi đi du lịch hoặc công tác.</Vi>
+              <En>Describes a trip where one stays overnight, commonly during travel or business trips.</En>
+            </Situation>
+            <Situation id="592f5735-076c-4f30-bec9-d8285b71324c">
+              <Vi>Mô tả một dịch vụ như gửi hàng hoặc chăm sóc thú cưng diễn ra trong một đêm.</Vi>
+              <En>Describes services such as shipping or pet care that take place over a single night.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4e8743d4-e269-4fc9-8d06-b77ec45abe88" type="adverb">
+          <Vi>trong một đêm, qua đêm</Vi>
+          <En>during the night or for one night</En>
+          <Example>The package arrived overnight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a1a1e8f-5043-47eb-9c8d-44060aa7b21a">
+              <Vi>Mô tả việc gửi hàng nhanh, nhận được vào ngày hôm sau.</Vi>
+              <En>Describes expedited shipping where the item is delivered the next day, often after being processed overnight.</En>
+            </Situation>
+            <Situation id="91d10db0-a81a-4dc8-8776-a85d21964e82">
+              <Vi>Mô tả việc làm việc xuyên đêm để hoàn thành một nhiệm vụ khẩn cấp.</Vi>
+              <En>Describes working through the night to meet an urgent deadline.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
