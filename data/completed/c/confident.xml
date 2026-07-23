@@ -1,0 +1,38 @@
+<Vocab id="4e92ee51-fcf8-4b53-9a19-3c8e40af26c8" word="confident" type="short" status="done">
+  <Topics>
+    <Topic id="abd33912-9d25-4b8e-a55f-29f5e1dddc11" value="Personal Traits" />
+  </Topics>
+  <Professions>
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bfd5d4d5-5163-453e-b9b2-c0e7fc2a685b" ipa="/ˈkɒn.fɪ.dənt/" vi_ipa="cơn-fít-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3ffee0c9-1c1a-4fcd-bf32-308605ee817d" type="Adjective">
+          <Vi>Tự tin</Vi>
+          <En>Feeling or showing confidence in one's abilities or judgment.</En>
+          <Example>She spoke confidently during the presentation and impressed the audience.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dea4b5cb-178e-4797-8f84-51765fa3c375">
+              <Vi>Thể hiện sự tin tưởng vào khả năng hoặc quyết định của bản thân trước người khác.</Vi>
+              <En>Displaying self-assurance in one’s own abilities or decisions, especially in front of others.</En>
+            </Situation>
+            <Situation id="def7f743-3b87-4a2f-82e8-ca808d06d312">
+              <Vi>Phản ứng bình tĩnh và chắc chắn khi đối mặt với thử thách.</Vi>
+              <En>Responding calmly and decisively when facing challenges or uncertainty.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

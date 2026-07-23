@@ -1,0 +1,37 @@
+<Vocab id="956480cf-b533-4e3f-a771-59bb08e67374" word="kim" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="87dcb61c-f0a9-4318-8b84-a09dcadad2f7" value="Sewer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="04275ad3-6a0f-4b3a-8e73-3f8b489e8ae3" ipa="/kim/" vi_ipa="kim">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="784f962c-6967-4d2c-81f7-ffa689abaea0" type="Noun">
+          <Vi>kim (dụng cụ may, thường làm bằng thép, một đầu nhọn, có lỗ để luồn chỉ)</Vi>
+          <En>a slender, usually steel instrument with a sharp point at one end and a hole (eye) for thread, used in sewing</En>
+          <Example>She threaded the needle and began to sew the button back on.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="132cd0b4-5e8a-4d05-831d-db8f6ca0e28a">
+              <Vi>Sử dụng trong may vá, khâu, thêu</Vi>
+              <En>Used in sewing, stitching, and embroidery</En>
+            </Situation>
+            <Situation id="30c8ad74-1169-46f7-bb53-996f7057b394">
+              <Vi>Kim tiêm (trong y tế)</Vi>
+              <En>Syringe needle (in medical context)</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
