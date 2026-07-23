@@ -1,0 +1,38 @@
+<Vocab id="11b87a78-82d0-4155-9d39-5de8406a5ef0" word="chosen" type="short" status="done">
+  <Topics>
+    <Topic id="d97ba856-4a88-4483-8b2f-ca16a7457459" value="Social" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="ed7855bb-491b-4fcd-b181-0181f9a0e814" value="Recruiter" />
+    <Profession id="1370b29e-6726-4c54-b1c8-dd25172397c9" value="Selection Committee Member" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="06e6207e-5c85-4724-8509-deb0f83231a8" ipa="/ˈtʃoʊ.zən/" vi_ipa="chô-dơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4b352f05-0904-44ee-9b45-f7890ee63aea" type="Adjective">
+          <Vi>được chọn; được tuyển chọn</Vi>
+          <En>Selected or picked out from a group or pool of candidates; not random or accidental.</En>
+          <Example>She was the chosen candidate for the scholarship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7683a53f-4eb1-4cde-bda9-8735c7bfa508">
+              <Vi>Trong bối cảnh tuyển chọn ứng viên cho một vị trí hoặc giải thưởng.</Vi>
+              <En>Used when referring to someone selected for a specific role, award, or opportunity after evaluation.</En>
+            </Situation>
+            <Situation id="e89789c4-2a4b-4272-88e8-f4b2b6d538c1">
+              <Vi>Trong ngữ cảnh tôn giáo hoặc thiêng liêng (ví dụ: dân được Chúa chọn).</Vi>
+              <En>Used in religious contexts to denote a group or individual selected by divine will (e.g., "the chosen people").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

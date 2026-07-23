@@ -1848,3 +1848,4 @@ walker
 sporting
 puzzle
 disable
+chosen
