@@ -1,0 +1,36 @@
+<Vocab id="531d150c-06a7-4aa4-bd46-2cd88a30dfd3" word="removing" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="95072fb1-a442-4557-89df-4de24e317e61" ipa="/rɪˈmuː.vɪŋ/" vi_ipa="rị-miu-vin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f2187e6d-e3e1-4646-b7cc-f68f37d6265b" type="Verb">
+          <Vi>tháo gỡ, loại bỏ, dỡ bỏ</Vi>
+          <En>to take away or remove something physically or abstractly</En>
+          <Example>She spent hours removing old paint from the window frames.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69d0438d-ef69-47ab-9a78-93fcb18a5a68">
+              <Vi>Tháo gỡ đồ đạc cũ trước khi dọn nhà</Vi>
+              <En>Taking apart or discarding old furniture before moving house</En>
+            </Situation>
+            <Situation id="d29e9386-b775-40fc-81db-f9b6f117bc3d">
+              <Vi>Loại bỏ lỗi trong mã lập trình</Vi>
+              <En>Eliminating bugs in computer code</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
