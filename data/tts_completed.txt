@@ -1546,3 +1546,4 @@ up
 babe
 arm
 boom
+thrown
