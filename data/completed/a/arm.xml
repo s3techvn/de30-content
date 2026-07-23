@@ -1,0 +1,64 @@
+<Vocab id="c3f7a341-8c14-4efe-8de1-7a43d62b984d" word="arm" type="short" status="done">
+  <Topics>
+    <Topic id="fd21b870-3776-417b-997d-a20618bf5a27" value="Human Body" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd27d204-2606-4ae8-ba28-3762d78be3b7" ipa="/ɑːrm/" vi_ipa="ác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf7f65df-f7d4-4d82-acbc-971ef6a0642e" type="Noun">
+          <Vi>Cánh tay</Vi>
+          <En>The upper limb of the human body, extending from the shoulder to the hand.</En>
+          <Example>She stretched her arm to reach the top shelf.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f89101ea-5bd7-4c3d-b14c-211668b964ee">
+              <Vi>Mô tả vị trí chấn thương hoặc tập luyện thể lực.</Vi>
+              <En>Describing injury location or physical training context.</En>
+            </Situation>
+            <Situation id="748a1207-dce0-422b-bec9-79cd8f3eb460">
+              <Vi>Chỉ phần cơ thể dùng để ôm, nâng, hoặc vẫy.</Vi>
+              <En>Refers to the body part used for hugging, lifting, or waving.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="481b227f-90d3-41e6-9de7-60940dd96204" ipa="/ɑːrm/" vi_ipa="ác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1fd90553-6d09-4782-bc41-05d389f3fb61" type="Verb">
+          <Vi>Trang bị vũ khí; giơ tay lên (để phòng vệ, chào, v.v.)</Vi>
+          <En>To equip with weapons; to raise the arm (e.g., in defense, greeting, or protest).</En>
+          <Example>The guards were armed with batons and shields.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bfd8ef1-0921-45ba-8895-f9b00b1e0967">
+              <Vi>Mô tả hành động tự vệ hoặc phản ứng trước nguy hiểm.</Vi>
+              <En>Describing self-defense or defensive posture in response to threat.</En>
+            </Situation>
+            <Situation id="4a969481-14df-4425-892e-4580fa4f5d1d">
+              <Vi>Chỉ việc trang bị vũ khí cho lực lượng an ninh hoặc quân đội.</Vi>
+              <En>Refers to equipping security or military personnel with weapons.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
