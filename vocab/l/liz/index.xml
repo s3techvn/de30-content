@@ -1,0 +1,32 @@
+<Vocab id="56bc72d1-e8a1-4577-9446-0e64431646be" word="liz" type="short" status="done">
+  <Topics>
+    <Topic id="6ad9febc-fbde-4f9b-a834-340f0e9230cc" value="Personal Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8ac426c-efcd-4452-b128-26f760c148ba" ipa="/lɪz/" vi_ipa="lích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2bdc07a2-8999-4783-b5db-17d3d0142d1b" type="Noun">
+          <Vi>Tên riêng (viết tắt của Elizabeth)</Vi>
+          <En>A female given name, often a diminutive or informal form of Elizabeth.</En>
+          <Example>Hi, Liz! How’s your new job?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b43033c4-1d46-4cd6-8dff-99bf0721ebdf">
+              <Vi>Dùng khi gọi hoặc nhắc đến một người phụ nữ tên Liz trong giao tiếp thân mật hoặc thông thường.</Vi>
+              <En>Used when addressing or referring to a woman named Liz in informal or casual contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
