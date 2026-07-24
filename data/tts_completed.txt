@@ -1962,3 +1962,4 @@ drag
 paint
 everyday
 mathematics
+exploration
