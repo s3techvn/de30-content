@@ -1,0 +1,40 @@
+<Vocab id="ae69cae0-b72c-4455-b0b7-8cfb2194f049" word="ranger" type="short" status="done">
+  <Topics>
+    <Topic id="92ed484f-1a79-49f6-baa8-abe2390ace99" value="Nature &amp; Environment" />
+    <Topic id="eaa6dce3-1387-4e69-be42-c0d84922cc99" value="Law Enforcement" />
+    <Topic id="fbd211d7-dcb9-4689-893a-e8bbb74fa7f8" value="Travel &amp; Tourism" />
+  </Topics>
+  <Professions>
+    <Profession id="449735fe-0faa-4027-b5e4-93420e96b844" value="Park Ranger" />
+    <Profession id="552f237b-f6bf-4508-a6b8-a5d9b51ef3a2" value="Wildlife Biologist" />
+    <Profession id="95728d7e-8d25-42f7-ab7a-a40b23743615" value="Conservation Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="03236f84-a3f6-4012-bb8b-d6980f3675f4" ipa="/ˈreɪndʒ.ər/" vi_ipa="rây-nhơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b410a9d2-60cc-4a8a-9775-0b91442e1236" type="Noun">
+          <Vi>người tuần tra công viên, nhân viên bảo tồn</Vi>
+          <En>A person who manages and protects natural resources, national parks, or wildlife areas, often enforcing laws and educating the public.</En>
+          <Example>The park ranger led a guided hike and explained the local ecosystem.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="659eb863-3f7e-44b8-8b45-133ccfe2f031">
+              <Vi>Người làm nhiệm vụ tuần tra, bảo vệ và giáo dục công chúng tại công viên quốc gia.</Vi>
+              <En>A professional responsible for patrolling, protecting, and educating visitors in a national or state park.</En>
+            </Situation>
+            <Situation id="7038871d-645a-4498-afa3-1e683b034346">
+              <Vi>Người thực thi pháp luật về môi trường và động vật hoang dã tại khu vực rừng hoặc vùng hoang dã.</Vi>
+              <En>A law enforcement officer specializing in environmental and wildlife protection in remote or wilderness areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
