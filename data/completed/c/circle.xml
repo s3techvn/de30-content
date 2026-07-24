@@ -1,0 +1,66 @@
+<Vocab id="0d4aae79-8120-4117-9540-fe7f9027dcab" word="circle" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e090ae42-0d1c-4a10-86ed-8cc4a4026a4b" ipa="/ˈsɜːr.kəl/" vi_ipa="xờ-rờ-kờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e5f19152-71e6-48a0-bfe6-26e47e53dddd" type="Noun">
+          <Vi>Hình tròn</Vi>
+          <En>A round plane figure whose boundary (the circumference) consists of points equidistant from a fixed point (the center).</En>
+          <Example>The children drew a perfect circle on the whiteboard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47a7fb6f-6c0d-4db8-8255-1cade3c89989">
+              <Vi>Hình học cơ bản trong toán học và vẽ kỹ thuật.</Vi>
+              <En>A fundamental shape in geometry, drafting, and design.</En>
+            </Situation>
+            <Situation id="b3657b64-00bd-468f-a3a1-fbcce183d2bd">
+              <Vi>Một nhóm người hoặc vật được sắp xếp thành hình tròn.</Vi>
+              <En>A group of people or objects arranged in a circular formation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f8838dc1-0d7d-4d9e-82d7-86ffadec82e6" ipa="/ˈsɜːr.kəl/" vi_ipa="xờ-rờ-kờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8573a72-4c53-4c05-a5d7-a64b351cc704" type="Verb">
+          <Vi>Vẽ hình tròn quanh; bao quanh, quay quanh</Vi>
+          <En>To draw a circle around something; to move in a circular path around something.</En>
+          <Example>The hawk circled above the field, scanning for prey.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="08d781cb-c2a3-4333-b3d3-069b0bc80696">
+              <Vi>Chỉ hành động di chuyển theo quỹ đạo tròn (động vật bay, vệ tinh, v.v.).</Vi>
+              <En>Refers to moving in a circular or looping path, especially in the air.</En>
+            </Situation>
+            <Situation id="402a3da7-2f5d-4e9a-b901-ba23b96e1797">
+              <Vi>Đánh dấu hoặc bao quanh một đối tượng bằng đường tròn (trong bản vẽ, chỉnh sửa văn bản).</Vi>
+              <En>To mark or surround something with a circle, e.g., in editing or drawing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
