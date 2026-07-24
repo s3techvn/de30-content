@@ -1,0 +1,38 @@
+<Vocab id="e28a9e78-a1cf-4deb-a38d-a8f21260a3cd" word="population" type="short" status="done">
+  <Topics>
+    <Topic id="e6cd6d45-6e8d-4096-97a1-e494b2d23dd0" value="Demographics" />
+  </Topics>
+  <Professions>
+    <Profession id="3a10e35d-999e-4fc8-b596-1784cf9894e7" value="Demographer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b9368bca-6eb3-4c56-87c0-340ea547e6d9" ipa="/ˌpɑː.pjuˈleɪ.ʃən/" vi_ipa="pác-piu-lê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="55ff9765-c06d-42c4-8a4e-3283c5896b05" type="Noun">
+          <Vi>Dân số; quần thể sinh vật</Vi>
+          <En>The total number of people or organisms living in a particular area or period.</En>
+          <Example>The country’s population has grown by 2% over the past decade.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c4981c48-a4d3-4597-817a-018cb2fbb109">
+              <Vi>Thống kê dân số một quốc gia hoặc khu vực.</Vi>
+              <En>Referring to the statistical count of people in a specific region or time.</En>
+            </Situation>
+            <Situation id="98984504-d97e-421f-8d54-2133d2cbfd19">
+              <Vi>Một quần thể động vật trong một hệ sinh thái.</Vi>
+              <En>A group of individuals of the same species living in a defined geographic area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
