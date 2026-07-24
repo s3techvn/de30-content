@@ -1,0 +1,52 @@
+<Vocab id="0d05160f-b827-46e0-b9a6-d28a8d5aa1d4" word="candle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="523cb9d3-074a-495e-94a9-87d4199f9a53" value="Home &amp; Decor" />
+    <Topic id="71c0b8b0-a36c-4102-9a6e-e579acf9c6cf" value="Ceremony &amp; Ritual" />
+  </Topics>
+  <Professions>
+    <Profession id="51c2f402-f5c6-4bca-bb43-93c6981608f5" value="Candle Maker" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="108e06f6-8206-4709-9091-3bb7d1d5ce13" ipa="/ˈkæn.dəl/" vi_ipa="căn-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b3eaa382-9119-4fcb-b9fa-dc7addafa71b" type="Noun">
+          <Vi>ngọn nến</Vi>
+          <En>A cylindrical or tapered piece of wax with a wick in the center, which is lit to produce light or for decoration.</En>
+          <Example>The room was softly lit by a single candle on the dining table.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a0b94b4-5d1d-4ff3-8b22-fcbff27d181d">
+              <Vi>Một ngọn nến được thắp lên trong phòng để tạo không khí ấm cúng.</Vi>
+              <En>A candle is lit in the room to create a warm atmosphere.</En>
+            </Situation>
+            <Situation id="cad75f64-0894-44b1-9519-cad6fa8b6280">
+              <Vi>Nến được dùng trong các buổi lễ tưởng niệm để tượng trưng cho hy vọng và ký ức.</Vi>
+              <En>Candles are used in memorial ceremonies to symbolize hope and remembrance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ce91e431-709c-4dcd-a7f1-889ba98429a4" type="Noun">
+          <Vi>độ sáng của một ngọn nến (đơn vị đo ánh sáng cũ)</Vi>
+          <En>A former unit of luminous intensity, equal to the light emitted by one standard candle.</En>
+          <Example>Before the adoption of the candela, light intensity was often measured in candles.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="5cc31b0c-8593-4c2c-8d22-f9f3411d6b31">
+              <Vi>Trong các tài liệu khoa học thế kỷ 19, cường độ sáng thường được ghi bằng “candle”.</Vi>
+              <En>In 19th-century scientific documents, light intensity was often recorded in “candles”.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
