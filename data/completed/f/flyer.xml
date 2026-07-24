@@ -1,0 +1,72 @@
+<Vocab id="adf137df-46c3-44fd-8807-47c47db95741" word="flyer" type="short" status="done">
+  <Topics>
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="a4e28fa1-ad93-4acb-8380-cbf206405f43" value="Flight Instructor" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ff1496c0-797c-4cf8-994a-8567e1d2e78f" ipa="/ˈflaɪ.ɚ/" vi_ipa="ph-la-i-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7c3abd7b-46fc-4f97-b045-3bcdb4925a82" type="Noun">
+          <Vi>Giấy bay (tờ rơi, tờ quảng cáo)</Vi>
+          <En>A small printed sheet of paper, typically containing advertising or information, that is distributed widely, often by handing it out or leaving it in public places.</En>
+          <Example>The company handed out flyers about the new product at the shopping mall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8693d1bd-70a5-4c63-ae82-148d83eea7a5">
+              <Vi>Phát tờ rơi quảng cáo sự kiện miễn phí trong khu phố.</Vi>
+              <En>Distributing printed promotional leaflets for a free community event.</En>
+            </Situation>
+            <Situation id="30d4e0b9-d903-4a1a-a542-3c14b5db3845">
+              <Vi>Đặt tờ rơi trên quầy tiếp tân để khách hàng tự lấy.</Vi>
+              <En>Leaving promotional flyers on the reception desk for visitors to pick up.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="29066f9e-1eff-4a54-b455-28d4fd382e63" type="Noun">
+          <Vi>Người nhảy dù (người nhảy từ máy bay)</Vi>
+          <En>A person who jumps from an aircraft, especially with a parachute, as part of military operations or sport.</En>
+          <Example>The paratrooper was a seasoned flyer, trained for high-altitude jumps.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2ff90ff-33af-4ecb-aeec-4f1f12adcdc6">
+              <Vi>Các chiến sĩ đặc nhiệm nhảy dù xuống vùng địch kiểm soát.</Vi>
+              <En>Special forces soldiers conducted a parachute drop behind enemy lines.</En>
+            </Situation>
+            <Situation id="e8c0aee7-1fee-40d2-89bd-d233cf7fc78b">
+              <Vi>Cô ấy là một flyer chuyên nghiệp, từng tham gia giải vô địch thế giới.</Vi>
+              <En>She is a professional skydiver who has competed in world championships.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c4eebc46-1509-46db-96a8-b6029f3d9a5d" type="Noun">
+          <Vi>Máy bay (thường dùng trong ngữ cảnh bay lượn, bay nhẹ)</Vi>
+          <En>An aircraft, especially a small or light one used for recreation or short-distance travel.</En>
+          <Example>The club offers flying lessons in a two-seat trainer flyer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eea09a05-2f18-423a-9077-e04a48e26a3f">
+              <Vi>Chiếc flyer nhỏ đáp xuốngสนาม bay địa phương sau chuyến bay 30 phút.</Vi>
+              <En>The small flyer landed at the local airport after a 30-minute flight.</En>
+            </Situation>
+            <Situation id="5bcea999-7198-4007-a903-2e5afde3e034">
+              <Vi>Anh ấy thuê một chiếc flyer để ngắm cảnh biển từ trên cao.</Vi>
+              <En>He rented a small aircraft to sightsee over the coastline.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

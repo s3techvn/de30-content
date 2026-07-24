@@ -1,0 +1,80 @@
+<Vocab id="148eed66-e8ca-498b-8080-c2ed08b81560" word="body" type="short" status="done">
+  <Topics>
+    <Topic id="8279f5de-c99d-410b-9268-00355e053853" value="Anatomy &amp; Health" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="6a37f007-98e7-4a9c-be03-22709a409353" value="Fitness Trainer" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7ac8b18c-c22a-4fc8-b69c-df50e096df5c" ipa="/ˈbɑː.di/" vi_ipa="bô-đây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="de75aabf-6308-4143-a122-3266610e589a" type="Noun">
+          <Vi>Cơ thể; thân thể; xác (người hoặc động vật)</Vi>
+          <En>The physical structure of a person or animal, including the organs and bones.</En>
+          <Example>She exercises daily to keep her body healthy and strong.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="09f2f06b-2439-4f11-93a8-fe04aed81834">
+              <Vi>Mô tả cấu trúc vật lý của con người trong y khoa.</Vi>
+              <En>Referring to the physical structure of a human in medical contexts.</En>
+            </Situation>
+            <Situation id="938ebc4d-90ee-48ea-a4c7-c8ecbc6d2f3b">
+              <Vi>Nói về hình thể, ngoại hình (trong thời trang hoặc thể hình).</Vi>
+              <En>Referring to physique or physical appearance in fashion or fitness contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f8c7c66f-672d-416b-ac23-faaf98b452c7" type="Noun">
+          <Vi>Xác chết; thi thể</Vi>
+          <En>A dead body, especially of a human.</En>
+          <Example>The police found the body near the river.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88daf437-9298-41e8-ba61-a3d48208cf35">
+              <Vi>Sử dụng trong điều tra hình sự hoặc báo chí.</Vi>
+              <En>Used in crime scene descriptions or news reports.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e000979a-e84f-4213-9f68-574ccaee39a9" type="Noun">
+          <Vi>Phần chính, phần lớn của một cái gì đó (không phải đầu hay đuôi)</Vi>
+          <En>The main or central part of something, especially when distinct from the ends or edges.</En>
+          <Example>The body of the letter was well-organized and clear.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e3ba6e6e-7148-4e66-a361-6e753e3be8f2">
+              <Vi>Mô tả phần chính của một tài liệu, văn bản.</Vi>
+              <En>Referring to the main content of a document or text.</En>
+            </Situation>
+            <Situation id="ec795397-0b0a-464f-a128-aba030051f33">
+              <Vi>Mô tả phần thân của một vật (ví dụ: thân xe, thân cây).</Vi>
+              <En>Referring to the main part of an object (e.g., car body, tree trunk).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="42c5fc79-031e-4196-857c-14243c84d35d" type="Noun">
+          <Vi>Nhóm người; tập thể (đặc biệt trong tổ chức)</Vi>
+          <En>A group of people acting together, especially a committee or council.</En>
+          <Example>The student body voted to change the school dress code.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a658c191-5a4a-4a5f-b47a-c3117796b691">
+              <Vi>Mô tả sinh viên toàn trường trong bối cảnh học đường.</Vi>
+              <En>Referring to the entire student population in an academic setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
