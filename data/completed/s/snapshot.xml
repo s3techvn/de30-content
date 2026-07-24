@@ -1,0 +1,56 @@
+<Vocab id="a55e5cfb-2394-46ec-94a6-7ce2ffa35c4e" word="snapshot" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2905e49e-ae38-4a5d-86da-8907bd3956bf" ipa="/ˈsnæp.ʃɑːt/" vi_ipa="xnap-xốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b19cfc07-2510-467f-b87e-0f69aa7b4622" type="Noun">
+          <Vi>Ảnh chụp nhanh; bản sao chép trạng thái tại một thời điểm cụ thể</Vi>
+          <En>A photograph taken quickly with a camera; a brief, representative view or record of something at a particular moment.</En>
+          <Example>She took a snapshot of the sunset over the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="740104e5-eb5b-46ae-98b5-725e7a514669">
+              <Vi>Chụp ảnh nhanh một khoảnh khắc đẹp trong đời sống hàng ngày.</Vi>
+              <En>Quickly capturing a fleeting, meaningful moment in daily life.</En>
+            </Situation>
+            <Situation id="357acd98-6937-4fcd-b238-245ce7e6e6cd">
+              <Vi>Trong lập trình, tạo bản sao trạng thái hệ thống tại thời điểm hiện tại để phục vụ sao lưu hoặc khôi phục.</Vi>
+              <En>In programming, creating a point-in-time copy of a system’s state for backup or recovery purposes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ff3a90f6-c318-4cb4-a20f-2041cd128fa5" type="Verb">
+          <Vi>Chụp ảnh nhanh; ghi lại (trạng thái, dữ liệu) tại một thời điểm cụ thể</Vi>
+          <En>To take a photograph quickly; to record or capture the state of something at a specific moment.</En>
+          <Example>The system automatically snapshots the database every hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="41668b59-3a9c-40ba-9004-93f37fd14206">
+              <Vi>Chụp nhanh một khoảnh khắc trong sự kiện thể thao.</Vi>
+              <En>Quickly capturing a decisive moment during a sports event.</En>
+            </Situation>
+            <Situation id="62307141-7648-42b3-bc7a-6188160014d0">
+              <Vi>Lưu trạng thái máy ảo trước khi thực hiện thay đổi lớn.</Vi>
+              <En>Saving the virtual machine’s state before making major configuration changes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
