@@ -1,0 +1,68 @@
+<Vocab id="a1e8f041-f40b-448a-9394-da2ffa0a02ab" word="shower" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b94d54d3-d291-4bba-ba26-6cfb62e63fe3" ipa="/ˈʃaʊ.ər/" vi_ipa="sơ-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c5dc2cf1-3350-4ee8-a9ad-3d5f29c7939e" type="Noun">
+          <Vi>Cú nước (dùng để tắm)</Vi>
+          <En>A device that sprays water, typically used for bathing.</En>
+          <Example>She turned on the shower and stepped in.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="19501d3f-89e7-4774-b593-ac0acbfa993b">
+              <Vi>Sử dụng vòi sen trong phòng tắm sau khi tập thể dục.</Vi>
+              <En>Using the shower in the bathroom after exercise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4da8f18d-eb3c-4a55-bb62-6101d4e7d32c" type="Verb">
+          <Vi>Tắm bằng vòi sen</Vi>
+          <En>To wash oneself under a shower.</En>
+          <Example>I usually shower before going to work in the morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49a0e16b-10ea-42ad-8cda-f51f7120a112">
+              <Vi>Hành động tắm nhanh bằng vòi sen vào buổi sáng.</Vi>
+              <En>The action of taking a quick shower in the morning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b3c73110-e1d3-4c3d-acd3-79fedf8f073c" type="Noun">
+          <Vi>Mưa rào (mưa nhỏ, ngắn, mạnh)</Vi>
+          <En>A short, light rain.</En>
+          <Example>We got caught in a sudden shower and had to run for cover.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="825bbe65-ea46-4154-a52c-01134bb897a9">
+              <Vi>Mưa rào bất ngờ khi đang đi dạo công viên.</Vi>
+              <En>A sudden shower while walking in the park.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a8fa5cd9-4f7b-4e04-ab01-9808471abc7a" type="Noun">
+          <Vi>Nhóm người (thường dùng trong cụm "shower of praise/criticism")</Vi>
+          <En>A large amount of something, especially praise or criticism, directed at someone.</En>
+          <Example>The actor received a shower of praise after the award-winning performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="19067077-bb63-4b4b-b46f-b8035af89c9d">
+              <Vi>Nhận được hàng loạt lời khen ngợi sau chiến thắng.</Vi>
+              <En>Receiving numerous compliments after a victory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

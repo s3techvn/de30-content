@@ -1,0 +1,39 @@
+<Vocab id="d352b41b-3754-4e02-894a-7000e9fa2907" word="every" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3b24fa96-a0d7-42dc-97dc-2fd43096c43e" ipa="/ˈev.ri/" vi_ipa="ép-vờ-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6112827f-f250-47bf-884b-fea06829d390" type="Determiner">
+          <Vi>mỗi, mọi</Vi>
+          <En>used to refer to all members of a group without exception; used before a singular noun to mean 'each and without exception'</En>
+          <Example>Every student must submit their assignment by Friday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43086604-0a25-4cb2-9499-b99cf0119446">
+              <Vi>Được dùng để nhấn mạnh tính toàn bộ, không loại trừ cá thể nào trong một tập hợp.</Vi>
+              <En>Used to emphasize inclusion of all individuals in a group, with no exceptions.</En>
+            </Situation>
+            <Situation id="d9ff27eb-dcf6-4120-ac37-894efd27579c">
+              <Vi>Trong ngữ cảnh lặp lại thường xuyên, như "mỗi ngày", "mỗi tuần".</Vi>
+              <En>In contexts of regular repetition, such as "every day", "every week".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
