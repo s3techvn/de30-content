@@ -1,0 +1,66 @@
+<Vocab id="45935474-2a9b-4634-8ead-4d3becaf691c" word="sequence" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b45407fd-b327-4192-a42b-68b5409333bc" value="Computer Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c893f8df-74d3-42fe-97f2-63dc1a562501" ipa="/ˈsiː.kwəns/" vi_ipa="si-ku-ơn-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3004a1a-f1bc-4344-ae12-7bca3f58304f" type="Noun">
+          <Vi>Dãy; chuỗi; trình tự</Vi>
+          <En>A particular order in which related things, events, or processes follow or occur.</En>
+          <Example>The numbers 1, 2, 3, 4 form an arithmetic sequence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f5d90ff2-9ac7-49b1-8a6e-a5bf567ac1cb">
+              <Vi>Mô tả thứ tự các bước trong một quy trình hoặc danh sách các sự kiện.</Vi>
+              <En>Describing the order of steps in a procedure or a list of events.</En>
+            </Situation>
+            <Situation id="61a3ce87-bd54-4775-9d33-d9b4434fe8b7">
+              <Vi>Trong toán học, dãy số được định nghĩa bởi một công thức hoặc quy luật.</Vi>
+              <En>In mathematics, a sequence is defined by a formula or rule.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6c5ca6cc-f8c7-4c84-8ab9-a0d87950e599" ipa="/sɪˈkwɛns/" vi_ipa="si-ku-ên-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7a3619d-0993-4503-8f52-2f43e6ef6c64" type="Verb">
+          <Vi>Sắp xếp theo trình tự; xác định thứ tự</Vi>
+          <En>To arrange (things) in a particular order.</En>
+          <Example>The lab technician sequenced the DNA fragments to identify the gene.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ef80e2cf-799b-48b9-bd56-0474680c92d5">
+              <Vi>Trong sinh học phân tử, xác định trình tự các nucleotide trong DNA.</Vi>
+              <En>In molecular biology, determining the order of nucleotides in DNA.</En>
+            </Situation>
+            <Situation id="2854ac0d-8585-4660-903d-19008eb168cf">
+              <Vi>Sắp xếp các nhiệm vụ theo thứ tự ưu tiên trong lập kế hoạch dự án.</Vi>
+              <En>Arranging tasks in order of priority when planning a project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,54 @@
+<Vocab id="544cb0f9-a994-4bf4-a3ff-0c88e3743c23" word="combat" type="short" status="done">
+  <Topics>
+    <Topic id="460c0182-fe67-4d41-b787-5d1c52de31d4" value="Military &amp; Defense" />
+  </Topics>
+  <Professions>
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="565407a3-fe46-401b-bab1-14dca12a007a" value="Military Strategist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a3066b29-2b2e-4e4e-9b9d-6a2426c38e4b" ipa="/ˈkɒm.bæt/" vi_ipa="côm-bát">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7687fcfc-d6fa-4de5-a581-d5675f506e33" type="Noun">
+          <Vi>Cuộc chiến đấu, trận đánh, giao tranh</Vi>
+          <En>A fight or battle, especially between armed forces</En>
+          <Example>The soldiers prepared for combat before dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a0da9d8-876f-4be8-86da-8f9d758b6fbc">
+              <Vi>Mô tả tình huống xảy ra trong chiến tranh hoặc xung đột vũ trang.</Vi>
+              <En>Describes a situation occurring during war or armed conflict.</En>
+            </Situation>
+            <Situation id="44c867d3-40e6-4805-b5a0-1da651c15ee3">
+              <Vi>Cảnh sát đối đầu với kẻ tấn công trong một tình huống nguy hiểm.</Vi>
+              <En>Police confront an attacker in a dangerous situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="db60f073-2778-4975-978e-6cd615b04c45" type="Verb">
+          <Vi>Chiến đấu, chống trả, đấu tranh (để bảo vệ hoặc loại bỏ)</Vi>
+          <En>To fight in a battle; to oppose or struggle against something harmful or undesirable</En>
+          <Example>She combats misinformation by sharing verified facts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dea40fd2-38f8-40dc-81ce-acdcbf1d626d">
+              <Vi>Quân đội chiến đấu để bảo vệ biên giới.</Vi>
+              <En>The army fights to defend the border.</En>
+            </Situation>
+            <Situation id="ddea0140-46af-4eac-ad27-bbaeb2267e10">
+              <Vi>Các bác sĩ đang chiến đấu chống lại dịch bệnh toàn cầu.</Vi>
+              <En>Doctors are fighting to combat a global pandemic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
