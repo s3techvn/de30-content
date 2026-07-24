@@ -1,0 +1,51 @@
+<Vocab id="681f45e4-b9a9-4834-b906-303994b452cb" word="golden" type="short" status="done">
+  <Topics>
+    <Topic id="4482ed9a-4891-4153-b1f8-d2c60bc0bdf0" value="Materials and Colors" />
+    <Topic id="cdea59a4-c4b9-4ddf-bcad-02e2e389f7a9" value="Metaphors and Expressions" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="3cf30b1b-7aa0-44cc-a6e9-8458c0c0a9a0" value="Gold Miner" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8d354153-e6c2-4a5f-8c05-7d2ab39f9729" ipa="/ˈɡoʊl.dən/" vi_ipa="gơ-lđờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a23a5c62-fd0a-4472-9322-c78cd80f25ad" type="Adjective">
+          <Vi>vàng rực rỡ, như vàng; quý giá, tuyệt vời</Vi>
+          <En>having the colour of gold; of or like gold; extremely good or valuable</En>
+          <Example>The golden sunset painted the sky in warm, radiant hues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cdcc9c7a-76fe-4b4d-af15-14b151c3de35">
+              <Vi>Mô tả màu sắc giống màu vàng của vàng thật, thường sáng và óng ánh.</Vi>
+              <En>Describing the bright, shiny yellow colour of real gold.</En>
+            </Situation>
+            <Situation id="66fb1d00-3415-435b-bde8-77239c46c05a">
+              <Vi>Dùng trong các cụm từ ẩn dụ như "golden opportunity" (cơ hội vàng) để chỉ điều gì đó rất quý giá hoặc hiếm có.</Vi>
+              <En>Used in idiomatic expressions like "golden opportunity" to describe an extremely valuable or rare chance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c9a71cb2-4794-430c-9afb-a01ca8569a56" type="Adjective">
+          <Vi>thuộc về thời kỳ vàng son, thịnh vượng</Vi>
+          <En>relating to a period of great prosperity, success, or happiness</En>
+          <Example>She recalled her golden years of childhood spent at her grandmother’s house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69b293b5-da2f-4997-9dbe-89ceab7a75c5">
+              <Vi>Mô tả một giai đoạn trong đời được coi là đẹp đẽ, hạnh phúc nhất (ví dụ: tuổi thơ, thời kỳ thịnh vượng của một quốc gia).</Vi>
+              <En>Describing a period in life considered the most beautiful, joyful, or successful (e.g., childhood, a nation’s golden age).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
