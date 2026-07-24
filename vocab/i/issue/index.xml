@@ -1,0 +1,78 @@
+<Vocab id="38d423b6-b9dd-4d7e-9799-3b5643c23c72" word="issue" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="05532446-0078-40b5-835d-ec6c790e0179" value="Publishing" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="957ea4cf-c59a-4587-b012-c9ad93963e75" ipa="/ˈɪs.uː/" vi_ipa="ích-siu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="daa83448-c6ce-4f96-aab7-a74f2e34ec41" type="Noun">
+          <Vi>Vấn đề; chủ đề; ấn bản; tài liệu phát hành</Vi>
+          <En>A topic or problem that is being discussed or dealt with; a edition of a newspaper or magazine; something officially released or distributed.</En>
+          <Example>The latest issue of the journal contains several groundbreaking studies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="30dbba56-76a0-43d9-b8a4-5a6fd235a42a">
+              <Vi>Trong một cuộc họp, người ta nêu ra một vấn đề quan trọng cần giải quyết.</Vi>
+              <En>In a meeting, an important issue is raised that needs to be addressed.</En>
+            </Situation>
+            <Situation id="ff11913e-82a5-4731-b756-7a9400dd6d35">
+              <Vi>Báo chí phát hành ấn bản mới nhất.</Vi>
+              <En>The newspaper releases its latest issue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="79ddb0a9-a792-4b06-b292-c6a6c967ee0e" type="Verb">
+          <Vi>Phát hành; ban hành; đưa ra; cấp phát</Vi>
+          <En>To officially release, distribute, or publish something; to emit or send out (e.g., a sound, light, or signal).</En>
+          <Example>The company will issue new security badges next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96a5c032-8ea1-413a-9ecb-e27c5e7b8972">
+              <Vi>Chính phủ ban hành một đạo luật mới.</Vi>
+              <En>The government issues a new law.</En>
+            </Situation>
+            <Situation id="1deb7590-5404-4c24-9836-7f89c9269520">
+              <Vi>Máy in phát ra tiếng ồn lớn khi đang hoạt động.</Vi>
+              <En>The printer emits a loud noise while operating.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="13d8d425-8888-4560-a207-c4fd99d1ad95" ipa="/ˈɪs.uː/" vi_ipa="ích-siu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="605de484-4518-4de1-8d86-aee87fa95efc" type="Verb">
+          <Vi>Đưa ra (yêu cầu, lệnh, câu hỏi...); yêu cầu cấp phát</Vi>
+          <En>To command or request something to be done or provided; to give an order or instruction.</En>
+          <Example>The judge issued a warrant for his arrest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ab137a9-c4bb-4ee9-a3dc-a23ba84fe39a">
+              <Vi>Quân đội ra lệnh rút lui.</Vi>
+              <En>The military issued a retreat order.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
