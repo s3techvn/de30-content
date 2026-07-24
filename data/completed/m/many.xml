@@ -1,0 +1,52 @@
+<Vocab id="b6c97211-9bd6-4540-9e93-3d51954f3fcf" word="many" type="short" status="done">
+  <Topics>
+    <Topic id="b02656c0-80ca-49b1-9fb3-aa5e3588796f" value="Quantifiers" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="89116829-5108-4f34-9a99-26f61fefc194" value="Numbers &amp; Counting" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3eef046d-3bc5-4828-9962-512cc37033f9" ipa="/ˈmen.i/" vi_ipa="mê-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0777d5be-c7ef-4820-a239-22a850b0fdb1" type="Adjective">
+          <Vi>Nhiều (dùng với danh từ đếm được số nhiều)</Vi>
+          <En>Used to refer to a large number of people or things, especially countable nouns.</En>
+          <Example>There are many books on the shelf.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b727b34-c81a-4154-b971-d78aef876ffc">
+              <Vi>Mô tả số lượng lớn các vật hoặc người có thể đếm được.</Vi>
+              <En>Describing a large quantity of countable items or individuals.</En>
+            </Situation>
+            <Situation id="f914b40d-e031-4544-8750-51a7f652caa6">
+              <Vi>Dùng trong câu hỏi và câu phủ định thay cho "much" khi nói về danh từ đếm được.</Vi>
+              <En>Used in questions and negative sentences instead of "much" for countable nouns.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2209dbae-4b61-441c-a20a-56711401c9b8" type="Pronoun">
+          <Vi>Nhiều người / Nhiều thứ (thay thế cho danh từ đã được nhắc đến)</Vi>
+          <En>Used as a pronoun to replace a previously mentioned plural noun.</En>
+          <Example>Many of the students have already left.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="294ab4a9-720c-4906-addf-998205e868cd">
+              <Vi>Khi nói đến một nhóm người hoặc vật đã được đề cập trước đó.</Vi>
+              <En>Referring to a previously mentioned group of people or things.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
