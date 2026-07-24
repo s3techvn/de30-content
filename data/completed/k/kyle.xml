@@ -1,0 +1,32 @@
+<Vocab id="6ddada5b-9930-44b7-8605-ea35bc0296e1" word="kyle" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="a0a02c56-a14e-480a-87e9-aa81248f76e4" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="50feb2b8-f217-43a9-90f1-9bda83d34d3d" ipa="/kaɪl/" vi_ipa="kai-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d1d2f5ac-820c-40ec-936f-95b4e77ce4ca" type="Proper Noun">
+          <Vi>Tên riêng (thường là tên nam)</Vi>
+          <En>A masculine given name, of Scottish origin, meaning “slender” or “fair”.</En>
+          <Example>Kyle is studying computer science at university.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1deacd39-0ffc-45a3-921a-e547a855bffb">
+              <Vi>Dùng để gọi một người đàn ông có tên Kyle trong giao tiếp hàng ngày hoặc giới thiệu.</Vi>
+              <En>Used when referring to or addressing a man named Kyle in everyday conversation or introductions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

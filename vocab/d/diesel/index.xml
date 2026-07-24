@@ -1,0 +1,40 @@
+<Vocab id="8e7ba2eb-45b2-4549-a813-fdb596a60735" word="diesel" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="9d9cd7b2-c2e2-4518-a7b0-a17b2f424951" value="Energy" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="13429d22-ee85-4e8e-ad1a-818aec310274" value="Truck Driver" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="076346c6-369b-4ccb-8bc3-138de3c9c458" ipa="/ˈdiː.zəl/" vi_ipa="đi-dờ-zờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9b7f9800-10f7-4a88-af14-5fe1e9e15666" type="Noun">
+          <Vi>nhiên liệu diesel; dầu diesel</Vi>
+          <En>A thick, oily liquid derived from petroleum, used as fuel in diesel engines.</En>
+          <Example>The truck ran out of diesel halfway through the desert crossing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e90b0bd1-d58d-46f7-947b-72eed0be282c">
+              <Vi>Người lái xe tải dừng trạm để đổ thêm nhiên liệu.</Vi>
+              <En>A truck driver stops at a fuel station to refill diesel.</En>
+            </Situation>
+            <Situation id="bf4d325f-9897-4e54-9aa2-a59a5980d266">
+              <Vi>Máy phát điện dự phòng chạy bằng diesel trong trường hợp mất điện.</Vi>
+              <En>The backup generator runs on diesel during a power outage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
