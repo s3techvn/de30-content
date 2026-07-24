@@ -1,0 +1,38 @@
+<Vocab id="564d2f86-1aa0-46a9-b50c-d45f4bb64c39" word="chemistry" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+    <Profession id="ca2013fc-828b-4893-9638-1ad277a870c4" value="Materials Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="723ac710-b883-4d99-b3a5-1c84a4ab9771" ipa="/ˈkem.ɪ.stri/" vi_ipa="kem-i-strì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e7c5e73f-1bb5-495d-be89-a0819e580897" type="Noun">
+          <Vi>Khoa học về các chất, cấu trúc, tính chất và phản ứng của chúng</Vi>
+          <En>The scientific study of the composition, structure, properties, and reactions of matter</En>
+          <Example>Chemistry explains how vinegar reacts with baking soda to produce carbon dioxide gas.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="16aa4d25-b2f0-4445-ab41-a5f7e73a1b46">
+              <Vi>Môn học trong chương trình phổ thông và đại học, nghiên cứu các nguyên tố và hợp chất</Vi>
+              <En>A subject taught in schools and universities, studying elements and compounds</En>
+            </Situation>
+            <Situation id="120049fc-9311-4821-8969-59592d1f9917">
+              <Vi>Công việc trong phòng thí nghiệm phân tích phản ứng hóa học</Vi>
+              <En>Work in a laboratory analyzing chemical reactions</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
