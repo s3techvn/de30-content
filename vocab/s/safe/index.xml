@@ -1,0 +1,56 @@
+<Vocab id="6b682b8d-d3dd-4d5f-b60f-9f5f55fb9821" word="safe" type="short" status="done">
+  <Topics>
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="09a27071-a4bb-4ac0-99a7-2c18c2e68ced" value="Bank Teller" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0eaefab2-357f-4ed8-88be-8ee4b5b02df2" ipa="/seɪf/" vi_ipa="xê-ép">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5958b64b-ee8b-433f-b6ac-d353fc3c72f2" type="Adjective">
+          <Vi>an toàn, an toàn, bảo vệ khỏi nguy hiểm</Vi>
+          <En>protected from harm or danger; secure</En>
+          <Example>Wear a helmet to stay safe while riding a bike.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c1a13ad-a59f-46cb-ade4-3650267e4c52">
+              <Vi>Mô tả tình huống nơi người ta đảm bảo sự an toàn cho bản thân hoặc người khác.</Vi>
+              <En>Describes a situation where one ensures personal or others’ safety.</En>
+            </Situation>
+            <Situation id="832cf00d-035a-41ce-81d7-6d52f4e65895">
+              <Vi>Tình huống liên quan đến môi trường không có rủi ro hoặc mối đe dọa.</Vi>
+              <En>Relates to an environment free from risks or threats.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="94ba01a4-e8e6-4afc-88fb-514234b0c59e" type="Noun">
+          <Vi>két sắt, hòm chứa đồ quý</Vi>
+          <En>a strong, secure box or room for storing valuables, typically with a combination lock</En>
+          <Example>The bank vault contains a large safe for storing cash and documents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5028839a-8610-40f4-85b1-1366720bd954">
+              <Vi>Tình huống khi nhân viên ngân hàng mở két để lấy tiền hoặc tài liệu quan trọng.</Vi>
+              <En>When a bank employee opens a safe to retrieve cash or important documents.</En>
+            </Situation>
+            <Situation id="77271f24-3bc0-4577-9dfd-7f170056c584">
+              <Vi>Tình huống khi người dân cất giữ trang sức hoặc tiền mặt trong két tại nhà.</Vi>
+              <En>When individuals store jewelry or cash in a home safe.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
