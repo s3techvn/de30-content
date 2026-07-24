@@ -1,0 +1,57 @@
+<Vocab id="b44b6d99-30ac-4823-a9f6-4b884ac64ce4" word="attend" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="28cfac88-092d-45ed-8ba9-519a5763a9e7" value="Business Professional" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="00fd28af-34d7-44d4-b902-9a25af1cae5d" ipa="/əˈtend/" vi_ipa="ơ-tên-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6465151b-5bcc-43be-9292-3a974f80f908" type="Verb">
+          <Vi>tham dự, tham gia, có mặt</Vi>
+          <En>to be present at (a meeting, event, or place); to take part in or attend to.</En>
+          <Example>She plans to attend the conference next week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c4535eb-9ada-41f8-ad4b-001c32f67f2a">
+              <Vi>Học sinh đến lớp học mỗi ngày.</Vi>
+              <En>The student goes to class every day.</En>
+            </Situation>
+            <Situation id="f5482b48-a327-41f0-8e73-a9ad31a12ee4">
+              <Vi>Quản lý tham dự buổi họp chiến lược hàng quý.</Vi>
+              <En>The manager attends the quarterly strategy meeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6f0aa9f0-81ca-48b4-b57b-be743c5c66cf" type="Verb">
+          <Vi>chăm sóc, lo cho, phục vụ</Vi>
+          <En>to take care of or deal with something or someone; to provide service or attention.</En>
+          <Example>He attended to the customer’s request immediately.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c53c8a28-d375-4b3e-a092-6da6b97e1737">
+              <Vi>Nurse attended to the patient’s needs throughout the night.</Vi>
+              <En>Nurse chăm sóc nhu cầu của bệnh nhân suốt đêm.</En>
+            </Situation>
+            <Situation id="21035d31-29fb-4fc2-9aee-622b081225e4">
+              <Vi>Chúng tôi cần một người chuyên chăm sóc trẻ em.</Vi>
+              <En>We need someone who can attend to children properly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

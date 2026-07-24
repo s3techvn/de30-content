@@ -1,0 +1,41 @@
+<Vocab id="27627fd3-7dc3-45d1-b69b-49ce1fbdf13f" word="advocacy" type="short" status="done">
+  <Topics>
+    <Topic id="f51f02db-eb81-4bc8-82f0-3001118b4def" value="Law &amp; Politics" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="86db3112-573f-49ad-a0f6-da350c9ba8ce" value="Nonprofit &amp; NGOs" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+    <Profession id="abc32546-43dc-4206-bc4e-c0d80ae09f7c" value="Nonprofit Director" />
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba46a756-1a1d-4021-9c5e-ebb0cdf38941" ipa="/ˈæd.və.kə.si/" vi_ipa="át-vơ-ca-si">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="62a01276-0259-4d4b-93ec-6491107ea1af" type="Noun">
+          <Vi>Công tác vận động, vận động hành lang; sự bảo vệ, ủng hộ mạnh mẽ một lý tưởng, chính sách hoặc nhóm người</Vi>
+          <En>The act of supporting, promoting, or defending a cause, policy, or group, especially through public discussion, lobbying, or activism</En>
+          <Example>The organization’s advocacy for climate action led to new renewable energy legislation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17aa5a33-613d-42dc-9b0e-187fecbaabd2">
+              <Vi>Vận động chính sách tại quốc hội hoặc cơ quan quản lý</Vi>
+              <En>Lobbying lawmakers or regulatory bodies to influence legislation or policy decisions</En>
+            </Situation>
+            <Situation id="4a19cbe4-b3d4-4380-93f1-4141f8f63811">
+              <Vi>Công tác xã hội hỗ trợ nhóm yếu thế (người tị nạn, người khuyết tật, v.v.)</Vi>
+              <En>Supporting marginalized groups (e.g., refugees, people with disabilities) through public awareness and rights promotion</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
