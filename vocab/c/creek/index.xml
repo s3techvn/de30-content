@@ -1,0 +1,40 @@
+<Vocab id="846bfe2e-3078-498b-bf91-6315d08c1e15" word="creek" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8b4e89d2-a95b-4e3f-ba0b-13af5b3570af" ipa="/kriːk/" vi_ipa="crích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4f530a36-8396-4487-9aff-ebcf300911b2" type="Noun">
+          <Vi>Sông nhỏ, suối nhỏ</Vi>
+          <En>A small stream or narrow inlet, typically flowing into a larger river or body of water.</En>
+          <Example>The children splashed in the shallow creek behind the house.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="43284a93-5084-4a79-bce0-889991666530">
+              <Vi>Mô tả một dòng nước nhỏ chảy qua đồng hoặc rừng.</Vi>
+              <En>Describing a small natural watercourse in rural or natural settings.</En>
+            </Situation>
+            <Situation id="808057f0-8583-4dbd-8a2d-8dab993a3241">
+              <Vi>Tên gọi cho một con suối nhỏ trong khu dân cư hoặc công viên.</Vi>
+              <En>Referring to a small waterway in residential or park areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
