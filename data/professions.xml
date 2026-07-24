@@ -848,4 +848,5 @@
   <Profession id="22bbd2fc-45e3-4d70-8ae6-5c3fb78fd692" slug="water-sports-instructor" value="Water Sports Instructor" />
   <Profession id="dee8359c-179a-4a43-81de-0c2ce0fd528a" slug="transportation-worker" value="Transportation Worker" />
   <Profession id="408f75ab-fd58-4e80-82d8-e79e5d7f7f96" slug="import/export-specialist" value="Import/Export Specialist" />
+  <Profession id="d1cb15af-1f4a-4e5f-bee6-6c7007364c9c" slug="volunteer" value="Volunteer" />
 </Professions>
