@@ -1,0 +1,54 @@
+<Vocab id="3f800dfb-b8c3-4f60-9470-9e8e97919bbe" word="shop" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="151ccef3-ddb7-4b8d-9640-79019f6c33d0" value="Commerce" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="0bf99e5c-c6a2-4fc4-9b66-94d81dc4af31" value="Consumer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6e9d37d3-aeb1-4756-8dbd-6c51e2cb4746" ipa="/ʃɑːp/" vi_ipa="sốp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="28adedf9-1161-4fd3-b5ae-0e47ed68e3b3" type="Noun">
+          <Vi>Cửa hàng; xưởng (thợ)</Vi>
+          <En>A building or part of a building where goods are sold to customers, or where repairs or services are provided.</En>
+          <Example>I bought this coffee mug at a small shop downtown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b8c949f-6570-4530-8d4c-9a522f12c20e">
+              <Vi>Mua sắm đồ dùng hàng ngày tại cửa hàng tiện lợi.</Vi>
+              <En>Buying everyday items at a convenience store.</En>
+            </Situation>
+            <Situation id="941e3437-7343-450e-90cb-fdd53fb47888">
+              <Vi>Tiệm sửa đồng hồ có tên là “The Time Shop”.</Vi>
+              <En>A watch repair shop named “The Time Shop”.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ff9ed66d-476c-4966-a528-7ae1aa3b24f1" type="Verb">
+          <Vi>Đi mua sắm; đi cửa hàng (để mua)</Vi>
+          <En>To go to a store or shop to buy things.</En>
+          <Example>We’re going to shop for new shoes this weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf2709d1-69c6-4abf-b01c-c41cc74c2406">
+              <Vi>Mẹ đang đi cửa hàng mua đồ ăn tối.</Vi>
+              <En>Mom is out shopping for dinner ingredients.</En>
+            </Situation>
+            <Situation id="069e50c0-5638-4d8b-8498-41df45de993e">
+              <Vi>Họ thích shop online thay vì đến cửa hàng.</Vi>
+              <En>They prefer shopping online rather than going to physical stores.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
