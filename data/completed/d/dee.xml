@@ -1,0 +1,32 @@
+<Vocab id="4b5d4df8-e0ab-4396-b606-f62d004d0fa1" word="dee" type="short" status="done">
+  <Topics>
+    <Topic id="6b777122-e6b8-485d-8a38-b0df8fe3849c" value="Music" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7fc3c296-c851-4f5c-9d8a-e53a12ca6431" ipa="/diː/" vi_ipa="đi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f23bd511-c49a-446c-bee0-a119c47de254" type="Noun">
+          <Vi>chữ cái D (trong bảng chữ cái tiếng Anh)</Vi>
+          <En>the letter D in the English alphabet</En>
+          <Example>She spelled her name starting with the letter dee: D-E-E.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ba7d421-331b-4185-85d2-ce36ef02c7e7">
+              <Vi>Nghe người nói dùng "dee" để chỉ chữ D trong giao tiếp hàng ngày hoặc khi đánh vần.</Vi>
+              <En>Used when spelling words aloud, especially over the phone or in noisy environments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
