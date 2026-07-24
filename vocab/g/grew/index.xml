@@ -1,0 +1,39 @@
+<Vocab id="a6a983ab-51e6-4890-8841-167266971abb" word="grew" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="7e81740e-991a-498d-ae44-26a5eb8360dd" value="Botanist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f2d7494d-63d7-4daa-bac5-55f6001912c1" ipa="/ɡruː/" vi_ipa="gru">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b0d9ae5b-5ae5-4bf4-9dac-bd9e4bd03f9c" type="Verb">
+          <Vi>trồng, phát triển, lớn lên (cây, người, tổ chức)</Vi>
+          <En>to increase in size, number, or strength; to develop or mature</En>
+          <Example>Tomatoes grew quickly in the warm soil.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d05840e-bd44-4dc0-9589-46941d745fca">
+              <Vi>Mô tả quá trình cây cối phát triển từ hạt giống thành cây trưởng thành.</Vi>
+              <En>Describing how plants develop from seeds into mature plants.</En>
+            </Situation>
+            <Situation id="6d0d7854-a6da-40b0-b478-80fdeb91f52e">
+              <Vi>Mô tả sự trưởng thành về thể chất, tinh thần hoặc quy mô của một tổ chức.</Vi>
+              <En>Describing physical, emotional, or organizational growth over time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
