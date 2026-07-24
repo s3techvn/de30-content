@@ -2265,3 +2265,4 @@ throw
 combat
 sequence
 heading
+confidence

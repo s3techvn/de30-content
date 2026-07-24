@@ -1,0 +1,57 @@
+<Vocab id="605863d3-c260-4e43-b5d0-4176c9a47a2c" word="confidence" type="short" status="done">
+  <Topics>
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="55103653-7cb4-4d62-9bd0-954c327d55da" ipa="/ˈkɒn.fɪ.dəns/" vi_ipa="cơn-fai-dăng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f9d45eaa-9ab2-40a4-a2a5-af507c37491d" type="Noun">
+          <Vi>Sự tự tin</Vi>
+          <En>The feeling or belief that one can rely on someone or something; firm trust in the reliability, truth, ability, or strength of someone or something.</En>
+          <Example>She spoke with great confidence during the job interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="41f14966-ca63-476a-b16c-0b95d62f932c">
+              <Vi>Mô tả trạng thái tâm lý khi một người tin tưởng vào khả năng hoặc quyết định của chính mình.</Vi>
+              <En>Describes a mental state where a person trusts their own abilities or decisions.</En>
+            </Situation>
+            <Situation id="f43d3c9f-2f75-4282-ad15-ffabfdc7e47d">
+              <Vi>Tình huống khi một người thể hiện sự tin tưởng vào người khác hoặc một điều gì đó.</Vi>
+              <En>A situation where a person shows trust in another person or something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="475be7ff-60f4-44a6-bc99-55811c6750ce" type="Noun">
+          <Vi>Sự tự tin (trong hành vi, phong cách)</Vi>
+          <En>A quality of doing things without fear or shyness; assurance in one’s own abilities or judgment.</En>
+          <Example>His confidence made him stand out in the crowd.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a95765e5-f72c-487a-80f9-d3e8cb9e81e2">
+              <Vi>Tình huống khi một người hành động một cách dứt khoát, không do dự.</Vi>
+              <En>A situation where a person acts decisively and without hesitation.</En>
+            </Situation>
+            <Situation id="005f16e5-7b4e-4575-ad01-fae3b0ed1127">
+              <Vi>Một người giao tiếp hoặc trình bày ý kiến với thái độ bình tĩnh và tự tin.</Vi>
+              <En>A person communicates or presents ideas calmly and self-assuredly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
