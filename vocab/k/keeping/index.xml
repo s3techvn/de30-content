@@ -1,0 +1,36 @@
+<Vocab id="f3ea1f8f-6d2d-4c60-9d82-979f63df04da" word="keeping" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="33bece41-535d-4a00-9925-f819f1699830" ipa="/ˈkiː.pɪŋ/" vi_ipa="ki-phin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="13a1cec9-f969-4bf9-900b-f4d0b2fbac9f" type="Verb">
+          <Vi>giữ, duy trì, bảo quản</Vi>
+          <En>to continue to have or do something; to maintain or preserve something over time</En>
+          <Example>She is keeping her promise to visit her grandparents every Sunday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="acaa2b31-d942-4d7a-9b63-70eb5b4dae92">
+              <Vi>Tình huống khi một người tiếp tục làm điều mình đã cam kết hoặc duy trì một trạng thái nào đó.</Vi>
+              <En>A situation where someone continues to fulfill a commitment or maintain a particular state.</En>
+            </Situation>
+            <Situation id="028aac86-7472-47e1-b6b0-82f87d56166c">
+              <Vi>Tình huống khi bảo quản hoặc lưu giữ một vật, đặc biệt là thực phẩm hoặc tài sản.</Vi>
+              <En>A situation involving the preservation or storage of an item, especially food or property.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

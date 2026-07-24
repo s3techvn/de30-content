@@ -1,0 +1,41 @@
+<Vocab id="09dc9ff0-7a0d-4728-bc19-d8e6c2966265" word="apparatus" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+    <Topic id="e78840a4-f366-442e-9d63-988bfcc75d33" value="Laboratory" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="2e62d299-7618-4cd0-9d59-e94222d1f812" value="Medical Doctor" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="ea99cf92-8a09-47da-9cef-548ea15d98f8" value="Laboratory Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af6d2534-782b-4e5e-b5ed-94cf7708ad07" ipa="/əˈpær.ə.təs/" vi_ipa="ơ-pha-rơ-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9bb68df8-f94c-4bab-ae17-060efeaa648d" type="Noun">
+          <Vi>thiết bị, dụng cụ, bộ máy (đặc biệt là thiết bị khoa học, y tế hoặc kỹ thuật)</Vi>
+          <En>a set of materials or equipment used for a specific scientific, medical, or technical purpose</En>
+          <Example>The laboratory was equipped with a sophisticated apparatus for measuring air quality.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="81379780-13ae-4e06-935d-c370d4f21330">
+              <Vi>Mô tả một bộ thiết bị phức tạp trong phòng thí nghiệm dùng để thực hiện thí nghiệm.</Vi>
+              <En>Describing a complex set of equipment in a laboratory used to carry out experiments.</En>
+            </Situation>
+            <Situation id="ccaeac3c-8771-4409-8af4-6958e866acba">
+              <Vi>Một thiết bị y tế chuyên dụng dùng trong phẫu thuật.</Vi>
+              <En>A specialized medical device used during surgery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
