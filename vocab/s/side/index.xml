@@ -1,0 +1,62 @@
+<Vocab id="50c86f47-0c30-4724-9f62-0a3501e320f9" word="side" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="fb37c7b1-3329-43f3-a57d-d4278c0e809f" value="Architecture" />
+    <Profession id="ea94551a-ef27-41b2-a40a-eaff7a6de717" value="Sports" />
+    <Profession id="31dff947-7654-4bb0-9283-08c84ae06345" value="Fashion Design" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="19bc880c-4f81-405e-baa3-fa9abd9b4783" ipa="/saɪd/" vi_ipa="sai-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="345a8ea9-86ae-43a7-a38f-242859a1a90c" type="Noun">
+          <Vi>Bên, mặt, phía</Vi>
+          <En>A position or location adjacent to or forming the edge of something; one of the lateral surfaces of an object.</En>
+          <Example>She sat on the side of the bed, hesitating before getting up.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fa4d941a-e872-4bac-9ae2-7566006c30ce">
+              <Vi>Mô tả vị trí cạnh hoặc bên của một vật thể (ví dụ: cạnh bàn, bên trái xe).</Vi>
+              <En>Describing the lateral position or edge of an object (e.g., side of a table, left side of a car).</En>
+            </Situation>
+            <Situation id="e3a09bdc-d09d-4f4b-9474-047b8ea00270">
+              <Vi>Trong thể thao: vị trí bên trong sân (ví dụ: tiền đạo cánh).</Vi>
+              <En>In sports: lateral position on the field (e.g., winger in soccer).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="52418b08-f6c3-4868-bab5-b069dc878e5b" type="Noun">
+          <Vi>Một bên (trong lựa chọn, tranh cãi, v.v.)</Vi>
+          <En>A particular party, group, or position in a dispute, contest, or decision.</En>
+          <Example>He refused to take sides in the argument between his two best friends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7d114d8b-126a-4ec8-8aaf-d34f5b896d73">
+              <Vi>Trong xung đột hoặc tranh luận: chọn một phe hoặc quan điểm.</Vi>
+              <En>In conflict or debate: choosing one faction or viewpoint.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b591213b-35d3-4300-afbb-9cabd7a6d57c" type="Noun">
+          <Vi>Mặt cắt ngang (trong kiến trúc, xây dựng)</Vi>
+          <En>A vertical cross-section view of a structure, showing internal features.</En>
+          <Example>The architect presented both the plan and the side view of the building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="979b5144-0d47-4ad0-a27b-21ba301bee9d">
+              <Vi>Trong bản vẽ kỹ thuật: mặt cắt đứng để minh họa cấu trúc bên trong.</Vi>
+              <En>In technical drawings: a vertical cross-section to illustrate internal structure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
