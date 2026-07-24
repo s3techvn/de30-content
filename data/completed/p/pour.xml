@@ -1,0 +1,72 @@
+<Vocab id="ae2f8fe9-d219-449b-b46e-06df33d851fb" word="pour" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+    <Profession id="ea99cf92-8a09-47da-9cef-548ea15d98f8" value="Laboratory Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c6140e2b-175d-4560-ac80-92ed17353efb" ipa="/pɔːr/" vi_ipa="pao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8782b071-5681-41ce-8983-3237dcd5eca2" type="Verb">
+          <Vi>Đổ (chất lỏng hoặc hạt nhỏ từ nơi này sang nơi khác)</Vi>
+          <En>To cause (a liquid or granular substance) to flow from a container, typically by tilting.</En>
+          <Example>She poured milk into her cereal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2d9e104b-7a05-422b-9fef-74a7a7838364">
+              <Vi>Đổ nước từ ấm sang cốc</Vi>
+              <En>Transferring hot water from a kettle into a cup</En>
+            </Situation>
+            <Situation id="0f38aa6d-aa7c-49f0-b3cd-cc0942150e76">
+              <Vi>Đổ bột vào khuôn khi nướng bánh</Vi>
+              <En>Adding cake batter into a baking mold</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7df2fd7a-a923-431d-a174-1be2542502b6" type="Verb">
+          <Vi>Tuôn trào, tràn ra (một cách mạnh mẽ hoặc dồi dào)</Vi>
+          <En>To flow or spill forth in a large quantity or with great force.</En>
+          <Example>Tears poured down her face as she watched the emotional scene.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="499e2bb5-1eb9-45e6-8b8b-93b007295b49">
+              <Vi>Cơn mưa xối xả đổ xuống đường</Vi>
+              <En>A heavy downpour of rain pouring onto the street</En>
+            </Situation>
+            <Situation id="77f5f693-a6f5-4284-8a5a-591bc25101c9">
+              <Vi>Người xem tuôn ra khỏi rạp chiếu phim sau khi kết thúc</Vi>
+              <En>Audiences pouring out of the cinema after the movie ends</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="842581ec-4e4b-4bf5-9580-7595813483b8" type="Verb">
+          <Vi>Đổ đầy, chất đầy (vật liệu vào không gian)</Vi>
+          <En>To fill (a space or container) completely or abundantly.</En>
+          <Example>The workers poured concrete into the foundation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1847e943-627b-4bc1-b224-a9ae19e96d68">
+              <Vi>Đổ bê tông vào móng nhà</Vi>
+              <En>Pouring concrete into the building's foundation</En>
+            </Situation>
+            <Situation id="cd2d453e-edef-42f3-9f22-efef954124e4">
+              <Vi>Đổ đầy thùng rác với giấy vụn</Vi>
+              <En>Filling the trash bin completely with paper scraps</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

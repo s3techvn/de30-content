@@ -1994,3 +1994,4 @@ german
 fig
 disappointed
 snapshot
+mind

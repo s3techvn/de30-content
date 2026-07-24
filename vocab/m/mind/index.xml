@@ -1,0 +1,78 @@
+<Vocab id="1d768dff-99c1-4887-98ab-09d53dc12a03" word="mind" type="short" status="done">
+  <Topics>
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bedc86f0-2f64-4d03-a4d0-beb166e4d687" ipa="/maɪnd/" vi_ipa="ma-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c322965a-9465-4361-9266-1d3deacf3fdd" type="Noun">
+          <Vi>trí, tâm trí, ý thức, suy nghĩ</Vi>
+          <En>The element of a person that enables them to be aware of the world and their experiences, to think and reason, and to feel emotions</En>
+          <Example>She has a sharp mind for mathematics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="763ffb51-60f3-4859-9e02-834adf54d4e3">
+              <Vi>Mô tả khả năng tư duy, trí nhớ, hoặc nhận thức của một người.</Vi>
+              <En>Describing someone’s intellectual capacity, memory, or awareness.</En>
+            </Situation>
+            <Situation id="0140f356-3124-44e1-a177-41186acd35a9">
+              <Vi>Dùng trong các cụm như “change one’s mind” (đổi ý), “keep in mind” (ghi nhớ).</Vi>
+              <En>Used in phrases like “change one’s mind” or “keep in mind”.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b36ffdae-d133-4dd4-8d31-a5c238c5cb48" type="Verb">
+          <Vi>quan tâm, để ý, lo lắng về</Vi>
+          <En>To be concerned or interested in something; to take something into account or worry about it</En>
+          <Example>Do you mind if I open the window?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc77b702-2655-424e-aaec-645407459e11">
+              <Vi>Dùng để hỏi xin phép hoặc thể hiện sự quan tâm/không quan tâm.</Vi>
+              <En>Used to ask permission or express concern or indifference.</En>
+            </Situation>
+            <Situation id="41721138-7a6d-404d-84a6-f94482215b14">
+              <Vi>Trong ngữ cảnh “I don’t mind” — thể hiện sự chấp nhận hoặc không phiền.</Vi>
+              <En>In the context of “I don’t mind” — indicating acceptance or lack of objection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a6b44db9-8c3f-4a48-937c-3d22d159b65b" ipa="/mɪnd/" vi_ipa="m-in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="93517a45-2d3b-48bd-99d1-5c480c0f87d3" type="Noun">
+          <Vi>ý định, quyết tâm (trong cụm “make up one’s mind”)</Vi>
+          <En>A person’s intention or decision, especially after consideration</En>
+          <Example>He couldn’t make up his mind about the job offer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="02cb334e-2880-41e1-8ce1-ddbd3a27e58f">
+              <Vi>Dùng khi nói về việc đưa ra quyết định hoặc thay đổi quyết định.</Vi>
+              <En>Used when talking about making or changing a decision.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
