@@ -1,0 +1,52 @@
+<Vocab id="70df98c2-f576-4ffd-911e-c38a32a29c48" word="regulation" type="short" status="done">
+  <Topics>
+    <Topic id="ec835eac-b3a2-45b5-ac4a-b51fc2f1d451" value="Law &amp; Policy" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="d378d72c-a798-4501-b0c2-b2db6bf64185" value="Health &amp; Safety" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b322ff31-e119-4d66-9d1e-2bf0b0c6e124" value="Regulatory Affairs Specialist" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="06abb105-648c-4b4d-ae41-5276f01c92e1" ipa="/ˌreɡ.juːˈleɪ.ʃən/" vi_ipa="rít-giu-lê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c16ddc71-0804-49f3-a8de-287f7f4c6040" type="Noun">
+          <Vi>Quy định, quy chế, quy tắc quản lý</Vi>
+          <En>A rule or directive made by a government, organization, or authority to regulate behavior or activities</En>
+          <Example>The new environmental regulation limits emissions from factories.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2701a3f5-a4a8-438f-a8ef-eda90508e64f">
+              <Vi>Chính phủ ban hành quy định mới để kiểm soát ô nhiễm không khí.</Vi>
+              <En>The government introduces a new regulation to control air pollution.</En>
+            </Situation>
+            <Situation id="f8cc28ab-b25f-4469-884f-dab777f4e31d">
+              <Vi>Các công ty phải tuân thủ quy định về an toàn lao động.</Vi>
+              <En>Companies must comply with workplace safety regulations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0d7d0d7d-a024-46f2-8837-44b8c2fa7d42" type="Noun">
+          <Vi>Sự điều chỉnh, sự điều hòa</Vi>
+          <En>The action or process of adjusting or controlling something according to a standard or system</En>
+          <Example>Regulation of body temperature is essential for human survival.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd316267-01f2-4010-95c1-789af5896658">
+              <Vi>Hormone giúp điều hòa lượng đường trong máu.</Vi>
+              <En>Hormones help in the regulation of blood sugar levels.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
