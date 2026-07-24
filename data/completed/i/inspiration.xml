@@ -1,0 +1,53 @@
+<Vocab id="434382d3-a9b4-4076-826a-3154d3c7efb1" word="inspiration" type="short" status="done">
+  <Topics>
+    <Topic id="c0bf08a3-fd49-47ce-8e29-6fd346e2620a" value="Arts &amp; Creativity" />
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c4621b40-3360-4182-825f-53f335b2a23a" ipa="/ˌɪn.spəˈreɪ.ʃən/" vi_ipa="in-xờ-rây-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d83af0e3-df53-4527-b1b2-9ca85dbfb661" type="Noun">
+          <Vi>Sự truyền cảm hứng; nguồn cảm hứng</Vi>
+          <En>The process of being inspired; a sudden feeling of motivation or creativity, often leading to artistic or intellectual output.</En>
+          <Example>Her speech was a powerful inspiration for the entire audience.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bd599b9-5be6-4440-b706-04fa9ca91bff">
+              <Vi>Một người cảm thấy thôi thúc sáng tạo hoặc hành động sau khi nghe một bài phát biểu truyền cảm.</Vi>
+              <En>A person feels motivated to create or act after hearing an inspiring speech.</En>
+            </Situation>
+            <Situation id="4a1a5204-5dfc-418a-b1cc-941085784ed8">
+              <Vi>Nghệ sĩ tìm kiếm cảm hứng từ thiên nhiên hoặc cuộc sống hàng ngày.</Vi>
+              <En>The artist draws inspiration from nature or everyday life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5bb5b072-e4bd-4809-982a-60eb405f0571" type="Noun">
+          <Vi>Sự thổi hơi (vào), sự thổi phồng (lên)</Vi>
+          <En>The act of breathing air into something, especially in medical or technical contexts (e.g., respiration or inflating).</En>
+          <Example>The paramedic gave the patient two breaths of inspiration before chest compressions resumed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d135da2d-da4f-4da7-9344-e08e87045e3f">
+              <Vi>Bác sĩ điều chỉnh máy thở để cung cấp đúng lượng không khí vào phổi (sự hít vào).</Vi>
+              <En>The doctor adjusted the ventilator to deliver the correct volume of air during inspiration (inhalation).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
