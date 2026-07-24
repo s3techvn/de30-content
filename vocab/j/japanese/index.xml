@@ -1,0 +1,48 @@
+<Vocab id="775c786f-e998-447e-9959-58db3c49048f" word="japanese" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" value="Travel Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="313e8a96-0e18-4a30-aa92-b279e94af723" ipa="/ˌdʒæpəˈniːz/" vi_ipa="giáp-ni-zơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef98e47a-4d63-48eb-8968-deaeff6c0170" type="Adjective">
+          <Vi>Thuộc về Nhật Bản; người Nhật</Vi>
+          <En>Belonging to or associated with Japan or its people, language, or culture.</En>
+          <Example>She enjoys learning Japanese calligraphy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d3a79a6-725c-4d10-9299-42c7b2fd7157">
+              <Vi>Mô tả đặc điểm, sản phẩm, hoặc con người liên quan đến Nhật Bản.</Vi>
+              <En>Used to describe things originating from Japan, such as food, art, or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a1f17b69-adef-40de-bfaa-1b49a9586ff3" type="Noun">
+          <Vi>Ngôn ngữ tiếng Nhật; người Nhật</Vi>
+          <En>The language spoken in Japan, or a native or citizen of Japan.</En>
+          <Example>He studies Japanese at university.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="369b7266-5857-4249-a68d-ab191a4e5633">
+              <Vi>Trong ngữ cảnh học ngoại ngữ hoặc nói về dân tộc.</Vi>
+              <En>Used when referring to the Japanese language or Japanese people collectively.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
