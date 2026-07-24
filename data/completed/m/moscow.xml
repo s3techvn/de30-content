@@ -1,0 +1,38 @@
+<Vocab id="aa6ad0d2-ec38-45de-9c18-1467334c22a2" word="moscow" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0047f9c4-6a3c-4cad-bb13-c98f7dfd9561" ipa="/ˈmɒs.koʊ/" vi_ipa="mốt-xcơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="355cfa8d-f55e-4ce3-871e-b4a5642aeea4" type="Noun">
+          <Vi>Mat-xcơ-va (thủ đô và thành phố lớn nhất của Nga)</Vi>
+          <En>The capital and largest city of Russia, known for its historical landmarks such as the Kremlin and Red Square.</En>
+          <Example>Many tourists visit Moscow to see the colorful domes of Saint Basil's Cathedral.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="218f27d1-a738-4aa0-a32c-0f6ab9246d46">
+              <Vi>Thảo luận về du lịch hoặc địa lý Nga.</Vi>
+              <En>Discussing travel plans or geography related to Russia.</En>
+            </Situation>
+            <Situation id="619041f8-8810-4865-894e-799216633cd3">
+              <Vi>Đề cập đến sự kiện thể thao hoặc chính trị quốc tế tổ chức tại thành phố này.</Vi>
+              <En>Referring to an international sporting or political event held in the city.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
