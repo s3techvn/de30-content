@@ -1,0 +1,52 @@
+<Vocab id="cfbe9dd9-75ec-44e0-9dc2-d5a3ce6db846" word="nickel" type="short" status="done">
+  <Topics>
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="acf85b01-ff71-49bb-89cb-772e645b788b" value="Everyday Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="442c7c21-6338-4e3b-aa4b-431c084e2eb0" value="Metallurgist" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="15eeb8ff-c900-4540-ac61-54c3dcf42d5f" value="Coin Collector" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="187e96aa-9148-4ae3-9dfa-94a223f60ce0" ipa="/ˈnɪk.əl/" vi_ipa="níc-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="34a4b531-abb3-47a2-af89-6be34a811547" type="Noun">
+          <Vi>niken (kim loại màu trắng bạc, bền, thường dùng để mạ chống gỉ)</Vi>
+          <En>A hard, silvery-white, lustrous, corrosion-resistant metallic element (atomic number 28), commonly used in alloys such as stainless steel and coinage.</En>
+          <Example>The coin is made of cupronickel, an alloy of copper and nickel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f016bdf2-461f-4432-9f28-feaff006d0dd">
+              <Vi>Mô tả thành phần của đồng xu hoặc hợp kim chống gỉ.</Vi>
+              <En>Describing the composition of coins or corrosion-resistant alloys.</En>
+            </Situation>
+            <Situation id="63c84436-5359-4915-976c-9ef1f4ed2faf">
+              <Vi>Trong hóa học hoặc công nghiệp kim loại.</Vi>
+              <En>In chemistry or metallurgy contexts when referring to the element or its compounds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f6ba9cf-4c9b-4c21-9af9-36db1c43c49c" type="Noun">
+          <Vi>đồng xu 5 cent của Mỹ (chứa 25% niken và 75% đồng)</Vi>
+          <En>A United States five-cent coin, composed of 75% copper and 25% nickel.</En>
+          <Example>She paid for the gum with a nickel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9036f1f4-ac2e-41cf-9021-e338a2144254">
+              <Vi>Khi nói về tiền tệ Mỹ trong giao dịch hàng ngày.</Vi>
+              <En>When referring to U.S. currency in everyday transactions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

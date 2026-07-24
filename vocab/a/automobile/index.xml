@@ -1,0 +1,38 @@
+<Vocab id="fb4ecba1-ba31-4dc4-97d8-a720701bd987" word="automobile" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="452a63f0-5d0a-4ecf-bc54-51dcf224ac01" value="Automotive Engineer" />
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3bfe9288-c6a4-4f4e-99bd-aa355352ae92" ipa="/ˈɔː.təˌmoʊ.bɪl/" vi_ipa="ô-tô-mô-bi-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="584f9f16-8d66-4765-8e57-1ffee862ec38" type="Noun">
+          <Vi>Xe ô tô; xe hơi</Vi>
+          <En>A motor vehicle with four wheels, typically powered by an internal combustion engine and used for transporting passengers.</En>
+          <Example>She parked her automobile in the garage after work.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="170bb0c9-da91-49c3-8f07-402811906e72">
+              <Vi>Mô tả việc mua, lái, hoặc bảo trì xe hơi cá nhân.</Vi>
+              <En>Contexts involving purchasing, driving, or maintaining a personal car.</En>
+            </Situation>
+            <Situation id="7bd17936-db1e-4ba5-a55a-ce593bc1ce70">
+              <Vi>Trong ngành công nghiệp ô tô, thuật ngữ "automobile" thường được dùng trong văn phong trang trọng hoặc kỹ thuật.</Vi>
+              <En>In the automotive industry, "automobile" is often used in formal or technical writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
