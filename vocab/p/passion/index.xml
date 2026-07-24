@@ -1,0 +1,48 @@
+<Vocab id="f1a4bdec-c8c6-45cd-b652-d21d7ae0cb44" word="passion" type="short" status="done">
+  <Topics>
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+    <Topic id="3fe813f3-df53-4d9b-9376-0a61bb7d1b0a" value="Work &amp; Career" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c5f3a67e-aa99-4938-a798-760e710893b5" value="Entrepreneur" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14c45fd4-72c5-45f9-a7dd-666071169915" ipa="/ˈpæʃ.ən/" vi_ipa="pác-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fed6229d-4d64-4929-bd03-0cc583eb4ffb" type="Noun">
+          <Vi>Cuồng nhiệt; đam mê</Vi>
+          <En>A strong feeling of enthusiasm or excitement for something or about doing something.</En>
+          <Example>She has a deep passion for classical music and spends hours practicing the violin.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c94c4878-3dca-424e-b144-231067767082">
+              <Vi>Mô tả cảm xúc mãnh liệt khi làm điều mình yêu thích hoặc khi theo đuổi một mục tiêu.</Vi>
+              <En>Describes an intense emotional drive toward a hobby, career, or cause one deeply values.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cfc4c96e-5624-45dd-b624-f1a0b217d19e" type="Noun">
+          <Vi>Tình yêu mãnh liệt (thường mang tính lãng mạn hoặc tình dục)</Vi>
+          <En>A strong romantic or sexual attraction toward someone.</En>
+          <Example>Their passion for each other was evident in every glance and gesture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5fd34536-810a-40b1-9dd2-52b4cf022d1a">
+              <Vi>Mô tả mối quan hệ tình cảm hoặc thể xác mạnh mẽ giữa hai người yêu nhau.</Vi>
+              <En>Describes intense romantic or physical intimacy in a relationship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
