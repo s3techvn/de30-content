@@ -1,0 +1,45 @@
+<Vocab id="d5625954-abd8-43bb-9e8a-d920c12139ee" word="spanking" type="short" status="done">
+  <Topics>
+    <Topic id="168c0d47-85da-49d6-8cb4-b2ee1cd927b0" value="Family &amp; Parenting" />
+  </Topics>
+  <Professions>
+    <Profession id="994da79e-7ffc-4249-a980-2c6d0e744f90" value="Parent" />
+    <Profession id="782a5123-a1a2-45a7-8f39-d2cb79a9d68a" value="Child Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="65090880-f259-453c-9db4-0db911e4a772" ipa="/ˈspæŋ.kɪŋ/" vi_ipa="sphan-khinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c4c6a22a-de49-476a-8966-f59a4c80e750" type="Noun">
+          <Vi>Hình phạt bằng cách đánh mông (thường là của cha mẹ đối với trẻ em)</Vi>
+          <En>A punishment involving hitting a person, especially a child, on the buttocks</En>
+          <Example>After the tantrum, the parent gave the child a spanking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c0a3af0-b456-419c-8f95-e8741d41ecd7">
+              <Vi>Phụ huynh áp dụng hình phạt thể chất này để răn đe hành vi không phù hợp của con.</Vi>
+              <En>Parents use this physical punishment to discipline a child’s misbehavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a8ee1ab2-240c-4463-8547-d971a5d4dd09" type="Noun">
+          <Vi>Sự đánh mạnh, đòn roi (thường mang tính chất trừng phạt hoặc khiêu dâm)</Vi>
+          <En>A forceful hitting, often in a disciplinary or BDSM context</En>
+          <Example>The film’s rating was influenced by scenes involving spanking.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="902e255c-6d7a-4937-af8e-c47e4099bdf9">
+              <Vi>Trong bối cảnh khiêu dâm, spanking là một hành vi tình dục được đồng thuận.</Vi>
+              <En>In BDSM contexts, spanking is a consensual sexual activity involving simulated punishment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
