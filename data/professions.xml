@@ -896,4 +896,5 @@
   <Profession id="9f7cbe97-2feb-4169-8966-28d09e11064e" slug="businessperson" value="Businessperson" />
   <Profession id="51ad6b50-6161-4e73-a7b6-c29a449a6795" slug="mechanical-technician" value="Mechanical Technician" />
   <Profession id="c7a6fb13-d6b5-4fc8-a2e6-1a17b42f5812" slug="intelligence-analyst" value="Intelligence Analyst" />
+  <Profession id="4d31b70c-4c5c-46fe-bf83-23c563e676aa" slug="biblical-figure" value="Biblical Figure" />
 </Professions>

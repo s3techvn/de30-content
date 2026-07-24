@@ -1,0 +1,96 @@
+<Vocab id="e613483f-6046-4548-8a47-1a05b196fa49" word="tight" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0532c9bd-0e6a-47cb-a6c8-df440da44b35" value="Clothing &amp; Fashion" />
+    <Topic id="007ee701-57f5-4c7c-b37f-269101bfc86f" value="Health &amp; Fitness" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="391eda84-c02f-4e03-9a2e-c41c23e55236" value="Personal Trainer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af51a8d8-1506-42ca-b075-e4ceb1e8b0aa" ipa="/taɪt/" vi_ipa="tái-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31096dea-cd9c-48bc-989c-f1aadb0bce21" type="Adjective">
+          <Vi>Chặt, căng, không dễ kéo ra hoặc mở ra</Vi>
+          <En>Not loose; firmly fixed in place or position.</En>
+          <Example>The knot was so tight that I couldn’t undo it by hand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a76ec73f-3002-4a7a-92d3-8b8bb1730f69">
+              <Vi>Mô tả dây giày, nút thắt, hoặc nắp chai bị siết chặt.</Vi>
+              <En>Describing shoelaces, knots, or bottle caps that are securely fastened.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="29d562b0-4ee0-4ac7-ab71-6267f2d0746f" type="Adjective">
+          <Vi>Chật, bó sát (thường nói về quần áo)</Vi>
+          <En>Clothing that fits closely to the body, often snugly or uncomfortably so.</En>
+          <Example>She wore a tight dress for the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7e98947-94db-4f68-9e1d-38f491292828">
+              <Vi>Mô tả trang phục ôm sát cơ thể, có thể gây khó chịu nếu quá chật.</Vi>
+              <En>Describing clothing that fits closely to the body, sometimes restrictively.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="915af259-46c4-46a1-b520-b8b3a4659911" type="Adjective">
+          <Vi>Chặt chẽ, không có khoảng trống (về không gian hoặc thời gian)</Vi>
+          <En>Closely packed or compressed; no room for movement or delay.</En>
+          <Example>The schedule was tight, with only five minutes between meetings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c5181a7-ac90-4d6c-be58-24a6cbed2e48">
+              <Vi>Mô tả lịch trình, kế hoạch, hoặc không gian chật hẹp, thiếu linh hoạt.</Vi>
+              <En>Describing a schedule, plan, or space that offers little flexibility or room for error.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8352559b-e017-4a3e-923e-cab2504b14dc" type="Adjective">
+          <Vi>Chặt chẽ, chặt chẽ (về mối quan hệ, hợp đồng, điều kiện)</Vi>
+          <En>Closely connected, coordinated, or controlled; rigorous or strict.</En>
+          <Example>We have a tight security system around the building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a1a04807-7e1c-4e33-88cf-fa33e9870768">
+              <Vi>Mô tả hệ thống bảo mật, hợp đồng, hoặc quy trình làm việc có tính kiểm soát cao.</Vi>
+              <En>Describing security, contracts, or workflows with strict controls and minimal gaps.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6e9f9cc8-bd00-42f0-aca4-c452bdf2294b" type="Adjective">
+          <Vi>Giữ chặt, không dễ chia sẻ (thường nói về tiền bạc)</Vi>
+          <En>Reluctant to spend or give money; stingy.</En>
+          <Example>He’s tight with his money and never tips more than 10%.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a246c393-b109-4e4e-bac7-c76e17a2d5b0">
+              <Vi>Mô tả người keo kiệt, không sẵn sàng chi tiêu hoặc chia sẻ tài chính.</Vi>
+              <En>Describing someone who is frugal to the point of being stingy in financial matters.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7f55a400-07a2-4993-b6f7-e42768945080" type="Adjective">
+          <Vi>Chặt chẽ, chính xác (về độ chính xác, độ lệch)</Vi>
+          <En>Very precise or accurate, with minimal deviation.</En>
+          <Example>The measurements were tight within the required tolerance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e522b039-ec8e-4768-92d0-ab0b179381d2">
+              <Vi>Mô tả độ chính xác cao trong kỹ thuật, xây dựng, hoặc kiểm tra chất lượng.</Vi>
+              <En>Describing high precision in engineering, construction, or quality control contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
