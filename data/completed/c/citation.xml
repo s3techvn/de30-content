@@ -1,0 +1,56 @@
+<Vocab id="b27b6a2b-d5d2-430b-b037-1a69da6fda6e" word="citation" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="22a011fe-01a6-4463-840f-30e44c0e6be7" value="Academia" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bd3c5894-1066-4adb-96c3-a64b3a06244c" ipa="/ˈsaɪ.teɪ.ʃən/" vi_ipa="sai-tây-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7c9ad703-b752-4754-a81c-4d8106d04624" type="Noun">
+          <Vi>Lời trích dẫn; bản trích dẫn</Vi>
+          <En>A quotation or excerpt, especially from a book, speech, or other source, used to support an argument or provide evidence.</En>
+          <Example>The professor asked students to include at least three citations in their research paper.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a3f2594-86e2-4d9d-88bf-fe72d537c5c6">
+              <Vi>Viết bài luận học thuật và cần trích dẫn nguồn tham khảo.</Vi>
+              <En>Writing an academic essay and needing to reference a source properly.</En>
+            </Situation>
+            <Situation id="c3e7030b-7f7a-4d01-a8a5-f71b7789f17c">
+              <Vi>Người phát biểu trong hội nghị trích dẫn phát biểu của chuyên gia.</Vi>
+              <En>A speaker at a conference quotes an expert’s statement to back up their point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1459fbf2-adad-4367-9f37-484233920fcf" type="Noun">
+          <Vi>Lệnh triệu tập (tòa án); giấy triệu tập</Vi>
+          <En>A formal order, typically issued by a court, requiring someone to appear in court or to produce documents.</En>
+          <Example>The defendant received a citation to appear in court on Monday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="74f42520-6f3c-4a48-a8aa-411848f12d87">
+              <Vi>Công an ra lệnh triệu tập nhân chứng trong vụ án hình sự.</Vi>
+              <En>The police issue a citation compelling a witness to testify in a criminal case.</En>
+            </Situation>
+            <Situation id="cb4ade5a-9e11-48fe-985c-4cd057304dc0">
+              <Vi>Người bị triệu tập nhận được giấy gọi ra tòa qua bưu điện.</Vi>
+              <En>The person receives the court citation by mail.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
