@@ -1,0 +1,64 @@
+<Vocab id="15333d01-4488-4ef9-9951-55963d273daa" word="step" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="28598de2-58ed-46d1-8090-9d9bfcc2f0d5" ipa="/step/" vi_ipa="s-tep">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f7a579cd-b0c5-41b3-9f2a-1787b41abfd2" type="Noun">
+          <Vi>Bước chân; bậc thang; bước đi</Vi>
+          <En>A single movement of the foot when walking or running; a raised surface for stepping on.</En>
+          <Example>She took a careful step forward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f53b1bf3-242e-4ff4-9994-275aea53e134">
+              <Vi>Mô tả hành động đặt chân xuống mặt đất khi đi bộ.</Vi>
+              <En>Describes placing one foot down while walking.</En>
+            </Situation>
+            <Situation id="88186029-059b-4b8f-ba57-7f7fb6dca55c">
+              <Vi>Mô tả bậc thang trong cầu thang.</Vi>
+              <En>Refers to a single horizontal surface in a staircase.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c425443e-3a97-48b1-8044-db0159dd3178" type="Verb">
+          <Vi>Bước; đặt chân; tiến hành; thực hiện</Vi>
+          <En>To move one foot forward in walking or running; to take action or proceed with something.</En>
+          <Example>He stepped on the scale to check his weight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c1e9b4dd-7279-40d5-a174-165740bfbe88">
+              <Vi>Mô tả hành động đi bộ hoặc di chuyển bằng chân.</Vi>
+              <En>Describes the physical act of walking or moving one foot.</En>
+            </Situation>
+            <Situation id="236ce6da-e71c-4835-94fb-980b7b8b5eb8">
+              <Vi>Mô tả việc thực hiện một bước trong quy trình hoặc kế hoạch.</Vi>
+              <En>Describes taking an action or proceeding with a plan or process.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b669c622-4935-4f48-bc9d-d65f26a58ea5" type="Noun">
+          <Vi>Bước (trong quy trình, kế hoạch); giai đoạn</Vi>
+          <En>A stage or stage in a process or plan.</En>
+          <Example>The next step is to submit the application.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e79d622-92d9-43d7-b1fe-4154e9dd56af">
+              <Vi>Mô tả một giai đoạn trong quy trình làm việc hoặc giải quyết vấn đề.</Vi>
+              <En>Describes a stage in a workflow or problem-solving process.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
