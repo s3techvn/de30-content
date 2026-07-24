@@ -1,0 +1,33 @@
+<Vocab id="a694a3f0-628c-4171-a49d-e34836ecd3bc" word="walt" type="short" status="done">
+  <Topics>
+    <Topic id="63cc2b42-68c2-4234-ba1a-398d36b113e7" value="Dance" />
+  </Topics>
+  <Professions>
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="217ff7b5-304a-489d-a99e-1d932452d72d" ipa="/wɒlt/" vi_ipa="vốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8609a71e-2342-44b7-8bd2-2e1b79ba6b36" type="Noun">
+          <Vi>Bài nhảy waltz; điệu nhảy waltz</Vi>
+          <En>A ballroom dance in triple time, typically performed to music with a strong first beat in each bar.</En>
+          <Example>They danced a graceful waltz at the formal gala.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c76fd35-37c8-4524-8a31-226b9629e64b">
+              <Vi>Người tham gia một buổi tiệc vũ hội cổ điển, thường là sự kiện trang trọng.</Vi>
+              <En>Participating in a formal ball or dance event where traditional partner dances are performed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
