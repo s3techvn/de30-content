@@ -1999,3 +1999,4 @@ pour
 fact
 measured
 show
+revealed

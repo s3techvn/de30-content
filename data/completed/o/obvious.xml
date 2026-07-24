@@ -1,0 +1,38 @@
+<Vocab id="d5b2a0c8-20d6-4a85-a531-1a17517f5e7d" word="obvious" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f31be8cb-d995-44df-b0a7-8417e1335031" ipa="/ˈɑːb.vi.əs/" vi_ipa="áp-bi-ơ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0814ffe1-eaab-4bc4-86e6-e5c5f5357129" type="Adjective">
+          <Vi>Rõ ràng, dễ thấy, rõ rệt</Vi>
+          <En>Easily perceived or understood; clear and evident.</En>
+          <Example>The answer was obvious once she explained the rules.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6a00b745-a313-43ad-a3bd-b3e2b626ba13">
+              <Vi>Một điều không cần giải thích thêm vì đã quá rõ ràng.</Vi>
+              <En>A fact or situation that requires no further explanation because it is self-evident.</En>
+            </Situation>
+            <Situation id="eaf68d13-6e2f-49c4-97f8-9e10b868765e">
+              <Vi>Trong tranh cãi, một lập luận mà ai cũng thấy là đúng.</Vi>
+              <En>In an argument, a point that everyone agrees is correct without debate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

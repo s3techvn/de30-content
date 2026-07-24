@@ -1,0 +1,40 @@
+<Vocab id="d067ad01-24a5-4d7c-8ffc-4d0fa8ad040f" word="revealed" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5f6ab76-639e-4bd9-9e15-7858e0c99410" ipa="/rɪˈviːld/" vi_ipa="ri-víp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="725fc985-3ce2-4d1c-bab1-ad8447e59a6f" type="Adjective">
+          <Vi>đã được tiết lộ; đã được hé mở</Vi>
+          <En>made known or visible; no longer hidden</En>
+          <Example>The truth was finally revealed after years of investigation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4e65430-fc72-4aed-bb96-92cf125ba528">
+              <Vi>Tình huống khi một bí mật hoặc thông tin ẩn được công bố công khai.</Vi>
+              <En>A situation where a hidden secret or information is publicly disclosed.</En>
+            </Situation>
+            <Situation id="2347f28f-96d6-4982-9d64-b8b0c8388bfe">
+              <Vi>Tình huống khi một hiện tượng khoa học hoặc bằng chứng được công bố.</Vi>
+              <En>A situation where a scientific phenomenon or evidence is disclosed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
