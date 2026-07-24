@@ -1,0 +1,50 @@
+<Vocab id="18dd6881-5348-44d3-8d24-c5fab7911e39" word="visa" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="3c4cc1d5-00d7-4630-8424-c2758b816232" value="Immigration Officer" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b93258b4-5e69-435a-9aea-9e6931d397d7" ipa="/ˈvɪz.ə/" vi_ipa="vì-xa">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ec46dd42-5b96-457b-9143-733586e0e945" type="Noun">
+          <Vi>visa (giấy phép nhập cảnh)</Vi>
+          <En>An official stamp or document issued by a country’s government, placed in a passport, that allows the holder to enter, stay for a specified time, and sometimes work in that country.</En>
+          <Example>She applied for a tourist visa before her trip to Japan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c4da8919-ef9f-475e-85ed-7f3e7464c0bc">
+              <Vi>Người du lịch xin visa tại lãnh sự quán trước khi đi nước ngoài.</Vi>
+              <En>A traveler applies for a visa at a consulate before traveling abroad.</En>
+            </Situation>
+            <Situation id="3686c346-6517-4edc-807c-fe3b48266b54">
+              <Vi>Cận cảnh nhân viên hải quan kiểm tra visa trong hộ chiếu.</Vi>
+              <En>Closer look at a customs officer checking the visa in a passport.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="476c55da-47eb-45a2-91de-73f860d00d4b" type="Verb">
+          <Vi>đóng dấu visa; cấp visa</Vi>
+          <En>To officially approve and stamp a passport with a visa, allowing entry into a country.</En>
+          <Example>The embassy will visa your passport within two business days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="399de6b3-9c0f-4587-9c71-0e0c324c223c">
+              <Vi>Lãnh sự quán đóng dấu visa vào hộ chiếu của bạn sau khi xét duyệt hồ sơ.</Vi>
+              <En>The consulate stamps your passport with a visa after reviewing your application.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
