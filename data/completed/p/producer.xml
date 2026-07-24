@@ -1,0 +1,53 @@
+<Vocab id="b4bd2174-d544-43ed-8a9f-d9620e7ab193" word="producer" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="e1a7fc5e-b725-4d97-bbfd-80655491acb5" value="Music Producer" />
+    <Profession id="537a0d94-d995-496f-ad81-fec6e1faa130" value="Farm Owner" />
+    <Profession id="014c18a8-be7d-402b-a226-bea155d335cb" value="Manufacturing Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bc09e0a9-5a48-4169-80ef-09e75162d5dc" ipa="/ˈproʊ.djuː.sɚ/" vi_ipa="prô-dju-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e86d648b-ba5d-42c7-8cb1-b3a7dcd99957" type="Noun">
+          <Vi>nhà sản xuất; người sản xuất</Vi>
+          <En>a person or company that produces goods, especially as a business</En>
+          <Example>The film producer secured funding for the independent project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7533c913-66a9-483f-ab2b-5b4eb1b45dff">
+              <Vi>Trong ngành điện ảnh, người chịu trách nhiệm quản lý khía cạnh tài chính và tổ chức sản xuất phim.</Vi>
+              <En>In the film industry, the person responsible for managing the financial and organizational aspects of film production.</En>
+            </Situation>
+            <Situation id="5d47a596-df80-4474-aea2-121850e5cb18">
+              <Vi>Trong nông nghiệp, người hoặc doanh nghiệp nuôi trồng, chăn nuôi để cung cấp nguyên liệu thô.</Vi>
+              <En>In agriculture, a person or business that cultivates crops or raises livestock to supply raw materials.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f45763a2-9079-46b4-9728-14a6ff22744c" type="Noun">
+          <Vi>nhà sản xuất (hàng hóa)</Vi>
+          <En>a manufacturer or supplier of goods</En>
+          <Example>The country is a major producer of electronics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60e13253-ccf3-4906-b89c-f989a28490a7">
+              <Vi>Trong kinh doanh, doanh nghiệp chuyên chế tạo và phân phối sản phẩm ra thị trường.</Vi>
+              <En>In business, a company specializing in manufacturing and distributing products to the market.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

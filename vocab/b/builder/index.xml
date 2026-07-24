@@ -1,0 +1,38 @@
+<Vocab id="a027f38d-2d19-4c3f-a442-f49323531448" word="builder" type="short" status="done">
+  <Topics>
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="44fc05f2-a62a-48a1-a5a6-27749c168ece" ipa="/ˈbɪl.dər/" vi_ipa="bít-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b39f8ed4-dedc-4aea-89f4-bbca9cc35372" type="Noun">
+          <Vi>người xây dựng; người tạo lập</Vi>
+          <En>a person who constructs buildings, or more generally, someone who creates or develops something substantial</En>
+          <Example>He worked as a builder on residential projects for over ten years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e5b3712-1010-4140-abc9-a70386882d1c">
+              <Vi>Người tham gia xây dựng nhà cửa, cầu đường, công trình dân dụng.</Vi>
+              <En>A person involved in constructing houses, bridges, or civil infrastructure.</En>
+            </Situation>
+            <Situation id="7b0823bd-b977-4b74-967a-72414d7ba916">
+              <Vi>Trong công nghệ phần mềm, người phát triển hệ thống hoặc nền tảng.</Vi>
+              <En>In software, a person who develops systems or platforms (e.g., “app builder”).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
