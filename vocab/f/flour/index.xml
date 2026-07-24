@@ -1,0 +1,33 @@
+<Vocab id="cc33a0b9-da4a-4459-8462-2ce7f64a4217" word="flour" type="short" status="done">
+  <Topics>
+    <Topic id="a481f2f4-d784-4592-ac52-3514a9ebf18b" value="Cooking &amp; Baking" />
+  </Topics>
+  <Professions>
+    <Profession id="52153738-4ef9-4133-9983-373a829510d5" value="Baker" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="20fb35f3-7728-4c65-82ae-4bda301a079b" ipa="/ˈflaʊ.ɚ/" vi_ipa="phla-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c359933-9667-45c5-88a1-c7ba1e10a7bd" type="Noun">
+          <Vi>Bột mì</Vi>
+          <En>Finely ground powder made by milling raw grains, especially wheat, used in baking and cooking.</En>
+          <Example>She sifted the flour before adding it to the cake batter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c9bbc88-cdf6-43e1-a06a-571324440076">
+              <Vi>Trong nhà bếp, khi chuẩn bị bánh hoặc món nướng.</Vi>
+              <En>Used in kitchens when preparing baked goods or sauces.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
