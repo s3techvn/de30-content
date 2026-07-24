@@ -1,0 +1,66 @@
+<Vocab id="618b95bc-3bd3-4613-81df-c307198ebae0" word="research" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="8a5e3750-ec0e-4b50-8cc2-7dcbb3791d6b" value="Market Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d1d9e840-867e-4641-9e5a-7deb81542a12" ipa="/rɪˈsɜːrtʃ/" vi_ipa="rị-sờ-rch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="299013f2-7ae6-4325-a783-e3464d04834d" type="Verb">
+          <Vi>Nghiên cứu</Vi>
+          <En>To carry out a systematic investigation to establish facts, principles, or knowledge.</En>
+          <Example>Scientists are researching the effects of climate change on coastal ecosystems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="859dd17d-8030-42b6-a7fc-b0d85db6ff5d">
+              <Vi>Nhà khoa học thực hiện thí nghiệm và thu thập dữ liệu để tìm hiểu hiện tượng tự nhiên.</Vi>
+              <En>A scientist conducts experiments and collects data to understand a natural phenomenon.</En>
+            </Situation>
+            <Situation id="7c3e8c8b-9dff-4d00-8cc2-8d42fdbd3009">
+              <Vi>Sinh viên viết luận văn dựa trên các nghiên cứu học thuật và tài liệu tham khảo.</Vi>
+              <En>A student writes a thesis based on academic research and reference materials.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="992e4aba-f191-423c-b745-84984f8a3188" ipa="/ˈriː.sɜːrtʃ/" vi_ipa="rì-sờ-rch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7ab8ed5a-ccd2-4a13-86f7-bdbbfd84bc7d" type="Noun">
+          <Vi>Sự nghiên cứu</Vi>
+          <En>Systematic investigation to establish facts, principles, or knowledge; especially academic or scientific inquiry.</En>
+          <Example>The research was published in a peer-reviewed journal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="388722c8-8b4f-45f9-bd5e-06ae6e909c5a">
+              <Vi>Các nhà khoa học công bố kết quả nghiên cứu sau nhiều năm làm việc.</Vi>
+              <En>Scientists published the research findings after years of work.</En>
+            </Situation>
+            <Situation id="871743d9-0600-4650-8b11-f2d07e20b8df">
+              <Vi>Học bổng hỗ trợ sinh viên thực hiện nghiên cứu độc lập.</Vi>
+              <En>The scholarship supports students in conducting independent research.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
