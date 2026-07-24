@@ -1,0 +1,34 @@
+<Vocab id="545b2cc2-87b0-429f-9919-1fade98229aa" word="java" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="80c1bdbe-d948-47dd-a7e3-8e1ca79c63e5" value="Backend Developer" />
+    <Profession id="87d29f48-7ca8-4c7c-a057-f64e48bf8353" value="Mobile Developer (Android)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a50d1a68-fd3c-4e0f-95ca-43b0830b085b" ipa="/ˈdʒɑː.və/" vi_ipa="giáp-vơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="785348cd-0fcd-4859-81ab-46706267870a" type="Noun">
+          <Vi>ngôn ngữ lập trình Java</Vi>
+          <En>A high-level, object-oriented programming language developed by Sun Microsystems, widely used for building cross-platform applications, especially backend systems and Android apps.</En>
+          <Example>She wrote the backend service in Java because of its strong ecosystem and portability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3306fffa-af83-41cd-8ea0-4c334339e759">
+              <Vi>Một lập trình viên viết mã cho ứng dụng web hoặc Android sử dụng Java.</Vi>
+              <En>A developer writes code for a web or Android application using Java.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

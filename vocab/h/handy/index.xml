@@ -1,0 +1,36 @@
+<Vocab id="d42c08fc-10bb-4e4e-82e4-f09bb1766513" word="handy" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" value="General Public" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0617c9b3-35bf-4e22-a00b-72fabe1f2a78" ipa="/ˈhæn.di/" vi_ipa="hăn-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2073a89-aec7-4776-b494-82a7f4709a40" type="Adjective">
+          <Vi>thuận tiện; dễ tiếp cận; hữu ích trong tình huống cụ thể</Vi>
+          <En>Convenient and useful, especially in a particular situation or place.</En>
+          <Example>It’s handy to have a spare key under the mat.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c834568b-ebe6-4298-93cc-7b6f5d882584">
+              <Vi>Mô tả một vật hoặc dịch vụ giúp giải quyết vấn đề nhanh chóng hoặc dễ dàng trong bối cảnh cụ thể.</Vi>
+              <En>Describing an object or service that solves a problem quickly or easily in a specific context.</En>
+            </Situation>
+            <Situation id="147c7608-1a7e-4346-ba43-aacb8bbe3d44">
+              <Vi>Dùng khi khen ngợi một người sẵn sàng giúp đỡ hoặc có kỹ năng phù hợp.</Vi>
+              <En>Used to praise someone who is ready to help or has suitable skills.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
