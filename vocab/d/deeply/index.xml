@@ -1,0 +1,40 @@
+<Vocab id="5529384e-b7b7-44f6-ac3f-ad6e15b43baa" word="deeply" type="short" status="done">
+  <Topics>
+    <Topic id="68319244-13aa-4e8c-9877-c347b6864187" value="Emotions &amp; Feelings" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76cb2fa4-6c94-4d95-ba31-c8fe68b3a2fc" ipa="/ˈdiːp.li/" vi_ipa="đi-pi-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4d5c77ec-2fb1-4d9c-8bf2-b487821230f1" type="Adverb">
+          <Vi>một cách sâu sắc, sâu xa, đậm đà</Vi>
+          <En>in a deep manner; to a great depth or intensity, often emotionally or mentally</En>
+          <Example>She was deeply moved by the documentary’s portrayal of human suffering.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9214994a-c207-46f2-af8e-fa29f050b7ee">
+              <Vi>Mô tả cảm xúc mạnh mẽ hoặc suy nghĩ nghiêm túc.</Vi>
+              <En>Used to describe strong emotions, profound thoughts, or intense personal impact.</En>
+            </Situation>
+            <Situation id="f71e50ab-63b4-46e8-b13b-139c80be91f9">
+              <Vi>Mô tả mức độ ảnh hưởng sâu rộng của một sự kiện hoặc ý tưởng.</Vi>
+              <En>Used to indicate a significant or lasting effect of an event or idea.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

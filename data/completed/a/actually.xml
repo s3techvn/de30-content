@@ -1,0 +1,56 @@
+<Vocab id="29e40373-8087-40f9-bd76-75ed63dacc65" word="actually" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f6525ef-d662-4afd-ab1e-2598eb3af9e5" ipa="/ˈæk.tʃu.əl.i/" vi_ipa="ác-tu-ơ-lơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8968d94-ebec-4586-9ebe-c815f75208fe" type="Adverb">
+          <Vi>thực tế; thực sự; đúng như tên gọi</Vi>
+          <En>Used to emphasize a fact or statement that may be surprising or contrary to what is expected or assumed.</En>
+          <Example>She said she wasn’t hungry, but she actually ate three sandwiches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9a7dec13-c216-4142-b3fa-10ae021e8e1e">
+              <Vi>Để làm rõ một sự thật bất ngờ hoặc trái với suy đoán.</Vi>
+              <En>To clarify a surprising or unexpected fact.</En>
+            </Situation>
+            <Situation id="500d707f-93a9-4a6b-8188-dc6e093857bf">
+              <Vi>Để nhấn mạnh tính chính xác của một thông tin.</Vi>
+              <En>To emphasize the accuracy of a piece of information.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cb3f35d0-526d-4e57-9322-cce6f9537e4a" type="Adverb">
+          <Vi>thật ra; thực ra; đúng ra</Vi>
+          <En>Used to introduce a correction or clarification of a previous statement.</En>
+          <Example>I thought it was John, but actually it was his twin brother.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="316bc8b0-7c43-4ced-aeff-393696436fb4">
+              <Vi>Để sửa lại một nhận định trước đó.</Vi>
+              <En>To correct a previously made statement.</En>
+            </Situation>
+            <Situation id="c9f30992-8048-4123-a458-81ae2214170d">
+              <Vi>Trong giao tiếp, để làm rõ ý định ban đầu.</Vi>
+              <En>In conversation, to clarify one’s original intention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
