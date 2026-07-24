@@ -1,0 +1,64 @@
+<Vocab id="9d5a3537-d18b-4b06-9939-2653f01493ef" word="pole" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8cd4d803-7410-41aa-9fa1-ea2d356095b0" ipa="/poʊl/" vi_ipa="pôn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="252ceca0-1b2c-40b4-ba83-7490aebff428" type="Noun">
+          <Vi>Cây cọc, cột dài, thường bằng kim loại hoặc gỗ</Vi>
+          <En>A long, slender rod or staff, typically made of metal or wood, used for various purposes such as supporting structures or in sports.</En>
+          <Example>The construction workers drove a steel pole into the ground to support the new fence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3382167-0024-4a71-b5e9-d77f28ea0917">
+              <Vi>Sử dụng trong xây dựng hoặc lắp đặt hàng rào.</Vi>
+              <En>Used in construction or fence installation.</En>
+            </Situation>
+            <Situation id="9c4b0e70-4124-42d3-be1f-0e35ce25b14a">
+              <Vi>Trong thể thao, như nhảy sào.</Vi>
+              <En>In sports, such as pole vaulting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="69f0218f-3082-4d40-8993-8c5a93228d59" type="Noun">
+          <Vi>Cực (của nam châm hoặc pin)</Vi>
+          <En>The north or south end of a magnet or battery, where the magnetic or electrical force is strongest.</En>
+          <Example>The compass needle points toward the Earth’s magnetic north pole.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d39a176b-3a80-4ae9-8558-53a0c519c70b">
+              <Vi>Trong vật lý hoặc điện tử, khi nói về cực của thiết bị.</Vi>
+              <En>In physics or electronics, when referring to the terminals of a device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="389ca461-ec2b-4f5e-9955-f48504f1c67f" type="Noun">
+          <Vi>Cực (Trái Đất): Cực Bắc hoặc Cực Nam</Vi>
+          <En>One of the two points, North or South, where the Earth’s axis of rotation intersects its surface.</En>
+          <Example>Explorers aimed to reach the geographic North Pole.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="290bb0c8-ff9d-425d-92b8-f63fbc3922c8">
+              <Vi>Trong địa lý hoặc hàng hải, khi nói về cực Trái Đất.</Vi>
+              <En>In geography or navigation, when referring to Earth’s poles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
