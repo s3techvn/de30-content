@@ -806,4 +806,5 @@
   <Profession id="388b38ab-eb2c-4400-8e62-65c8c8da998c" slug="toy-manufacturer" value="Toy Manufacturer" />
   <Profession id="0898c4fc-79a4-4bae-8496-266f197e46c0" slug="manufacturing" value="Manufacturing" />
   <Profession id="6b05919f-9eb5-42bc-a1e9-cce5382f9e81" slug="podcast-host" value="Podcast Host" />
+  <Profession id="c13f7650-78b2-42e9-9d82-034818c19142" slug="animal-caretaker" value="Animal Caretaker" />
 </Professions>

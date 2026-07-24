@@ -1,0 +1,40 @@
+<Vocab id="ab2aebd4-6010-40a4-af68-42eb80306257" word="reasonably" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f4e51817-c2d0-4eaa-96d5-2aa3ef581f56" ipa="/ˈriː.zən.ə.bəl.i/" vi_ipa="ri-zờ-nờ-bờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4f93d1f3-155e-4b42-bc33-9792736a2f6d" type="Adverb">
+          <Vi>một cách hợp lý; một cách hợp tình hợp lý</Vi>
+          <En>In a way that is fair, sensible, or practical; to a reasonable degree.</En>
+          <Example>She explained the situation reasonably and calmly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ec991b19-b427-45f6-b46a-a9207b81296f">
+              <Vi>Mô tả một cách hành xử hoặc phản ứng hợp lý, không quá mức hoặc thiếu sót.</Vi>
+              <En>Describing a balanced, fair, or practical approach or reaction.</En>
+            </Situation>
+            <Situation id="2b6a3da8-f2a9-400d-a053-5d86849dc6cf">
+              <Vi>Đánh giá mức độ chấp nhận được trong yêu cầu hoặc kỳ vọng.</Vi>
+              <En>Evaluating whether a request or expectation is acceptable or justified.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,52 @@
+<Vocab id="a386b194-8f35-4496-9849-936199d3ce44" word="feeding" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+    <Topic id="2296d19d-52be-4fca-a6db-ab38ad26c493" value="Parenting" />
+  </Topics>
+  <Professions>
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="5a3c5868-21ad-49f0-9262-4b1178a8ef15" value="Pediatrician" />
+    <Profession id="c13f7650-78b2-42e9-9d82-034818c19142" value="Animal Caretaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c71e42e1-6051-4e29-8527-4b2a4fda5e38" ipa="/ˈfiː.dɪŋ/" vi_ipa="phì-đíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6f6e6ee1-1be4-4c2d-a4e7-af7415814ffb" type="Noun">
+          <Vi>Hành động cho ăn; thức ăn được cung cấp</Vi>
+          <En>The act of providing food to someone or something, or the food itself provided.</En>
+          <Example>The feeding of the baby took over an hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9d87a8b-fc68-465f-9310-d4f11f7cfba1">
+              <Vi>Mẹ cho con bú hoặc cho trẻ ăn dặm.</Vi>
+              <En>A mother nursing or feeding her infant solid food.</En>
+            </Situation>
+            <Situation id="3b658539-b192-41d9-9202-15d81470ed87">
+              <Vi>Hành động cho động vật ăn trong trại chăn nuôi.</Vi>
+              <En>The process of providing food to livestock on a farm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0146b959-f44c-4054-8c05-d6885dd8d075" type="Noun">
+          <Vi>Chương trình, sự kiện cung cấp bữa ăn miễn phí hoặc giá rẻ cho người cần</Vi>
+          <En>A program or event that provides free or low-cost meals, especially to those in need.</En>
+          <Example>The church runs a weekly feeding for the homeless.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ba0e850-27a5-491f-851b-b215bf85a44e">
+              <Vi>Các tổ chức từ thiện tổ chức bữa ăn cho người vô gia cư.</Vi>
+              <En>Charities organize meal services for people experiencing homelessness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
