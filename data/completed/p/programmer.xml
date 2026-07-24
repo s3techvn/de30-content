@@ -1,0 +1,38 @@
+<Vocab id="8f9522f8-c473-4677-bac3-f5171990051e" word="programmer" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="7a77b78e-876a-4b0d-b241-5e6c3d0abef1" value="Developer" />
+    <Profession id="01ee4126-42a6-411f-b8f4-6b18d4011725" value="Computer Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8959f9d0-68d4-4e9c-8548-d8922abe8a8f" ipa="/ˈproʊ.ɡræm.ər/" vi_ipa="prô-grăm-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="27ad29ed-5be3-4051-9aec-baf9f0ca897c" type="Noun">
+          <Vi>lập trình viên</Vi>
+          <En>A person who writes computer programs, especially as a profession.</En>
+          <Example>She hired a freelance programmer to build a custom web application.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3857cce1-c366-4940-b0b7-ea8f63c03a01">
+              <Vi>Một người làm việc trong ngành công nghệ, chủ yếu viết mã nguồn để phát triển phần mềm.</Vi>
+              <En>A person working in the tech industry, primarily writing source code to develop software.</En>
+            </Situation>
+            <Situation id="d86be2bd-52da-4d97-a97f-d25234a41460">
+              <Vi>Trong một công ty khởi nghiệp, lập trình viên thường kiêm nhiệm nhiều vai trò như thiết kế hệ thống và kiểm thử.</Vi>
+              <En>In a startup company, programmers often take on multiple roles such as system design and testing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,33 @@
+<Vocab id="86434620-c2e8-43d5-981e-95eab8871f17" word="dakota" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5e837e6f-ebbc-4ded-9a68-0a953c1b6796" ipa="/dəˈkəʊtə/" vi_ipa="đơ-kô-ta">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="10bed7dc-41b3-44ce-9d12-dc0ae67aecaf" type="Proper Noun">
+          <Vi>Tên gọi chỉ một bang của Hoa Kỳ (Dakota) hoặc dân tộc bản địa Mỹ (Người Dakota).</Vi>
+          <En>A U.S. state (North Dakota or South Dakota) or a Native American tribe (the Dakota people).</En>
+          <Example>The Dakotas are known for their vast prairies and rich Native American heritage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8a2e28b5-0006-4526-b818-a0b4f0683870">
+              <Vi>Trong ngữ cảnh địa lý hoặc lịch sử, đề cập đến bang Dakota hoặc dân tộc Dakota.</Vi>
+              <En>In geographical or historical contexts, referring to the state of Dakota or the Dakota tribe.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
