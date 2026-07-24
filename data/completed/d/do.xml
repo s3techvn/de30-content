@@ -1,0 +1,78 @@
+<Vocab id="6f34d292-137f-4b6c-8cf5-9dfbcfcb49c9" word="do" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="268b3f6a-8399-47f3-bbda-eba0f0b2a194" ipa="/duː/" vi_ipa="điu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6fc17f8f-6a4f-4ecd-81b3-ebf003378c75" type="Verb">
+          <Vi>làm, thực hiện, làm xong</Vi>
+          <En>to carry out, perform, or complete an action or task</En>
+          <Example>She did her homework before dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a58f6f8f-ff99-4be3-b358-69ea39a141ea">
+              <Vi>Mô tả hành động hoàn thành một nhiệm vụ hoặc công việc cụ thể.</Vi>
+              <En>Describing the completion of a specific task or assignment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5fa8d8e9-9616-48a0-bf3e-0c042a714a41" type="Verb">
+          <Vi>ăn, uống (thường dùng trong các cụm như "do lunch")</Vi>
+          <En>to eat or drink (used in phrases like "do lunch", "do coffee")</En>
+          <Example>Let’s do lunch tomorrow at noon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="033a0b6d-829c-4225-b9c7-1802c71267f3">
+              <Vi>Dùng trong giao tiếp thân mật để đề xuất hoặc lên kế hoạch ăn uống.</Vi>
+              <En>Used informally to suggest or plan a meal or drink together.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="36ab64af-eb6d-43f1-9cde-2cfd4cfc5f1c" type="Verb">
+          <Vi>đi, đến (trong một số cụm cố định như "do the shopping")</Vi>
+          <En>to go somewhere or attend to something, especially in fixed expressions</En>
+          <Example>I need to do the shopping on the way home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d5f7c84c-55b2-4c9f-9b77-f2532d6cbb40">
+              <Vi>Mô tả việc đi thực hiện một hoạt động thường nhật như mua sắm, giặt ủi.</Vi>
+              <En>Describing routine errands such as shopping or laundry.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fb32b333-7004-4734-b456-e68d64c9339a" ipa="/də/" vi_ipa="đơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e53a987-7c2e-405f-a23e-e1642110f11b" type="Verb">
+          <Vi>làm (dạng yếu, không nhấn, thường trong câu hỏi hoặc câu phủ định)</Vi>
+          <En>used as an auxiliary verb in questions and negatives (stressed only for emphasis)</En>
+          <Example>Do you like coffee? — Yes, I do.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc73cd99-0e5e-46ba-ae31-4f809046aba0">
+              <Vi>Dùng để tạo câu hỏi, câu phủ định hoặc nhấn mạnh trong giao tiếp hàng ngày.</Vi>
+              <En>Used to form questions, negatives, or add emphasis in everyday speech.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

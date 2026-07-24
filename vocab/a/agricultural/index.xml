@@ -1,0 +1,41 @@
+<Vocab id="b874a94e-ad8c-440e-8af5-8e019539be16" word="agricultural" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="4505b9f7-0022-4255-bf6d-b006cdff3d80" value="Agricultural Scientist" />
+    <Profession id="f362ad08-79b7-4d86-abf3-41b28e54a155" value="Agronomist" />
+    <Profession id="ae653f03-f7b7-4adf-a0f6-db5a10396f90" value="Environmental Consultant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="44ef015c-c31b-4daa-8a8c-c8cdcae678c6" ipa="/ˌæɡ.rɪˈkʌl.tʃər.əl/" vi_ipa="ác-ríc-cu-lơ-chơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6738f50b-2ecf-4de4-af7e-0716ce7cd9a5" type="Adjective">
+          <Vi>thuộc về nông nghiệp</Vi>
+          <En>relating to farming, cultivation of land, or livestock raising</En>
+          <Example>The agricultural sector contributes significantly to the country's GDP.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9b9d4faa-00de-40d8-a677-2f97d9337821">
+              <Vi>Mô tả các hoạt động, công nghệ, hoặc chính sách liên quan đến trồng trọt và chăn nuôi.</Vi>
+              <En>Describing activities, technologies, or policies related to crop production and animal husbandry.</En>
+            </Situation>
+            <Situation id="e1bf405f-d85c-457e-aa9b-49cd79cc888e">
+              <Vi>Chỉ tính chất của đất đai, hệ thống tưới tiêu, hoặc máy móc dùng trong nông nghiệp.</Vi>
+              <En>Referring to land features, irrigation systems, or machinery used in farming.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
