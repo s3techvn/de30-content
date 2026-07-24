@@ -1,0 +1,41 @@
+<Vocab id="75c32cbd-ba8b-40c4-9c7c-07d4f52af0ca" word="taxation" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="d56562a0-36d2-4cf1-9a9d-711d2328acc6" value="Tax Advisor" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="d5b0eada-8314-47e0-9999-507aa5332fab" value="Government Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8f76ec72-fc44-41e5-88c2-d90996a9503a" ipa="/tækˈseɪ.ʃən/" vi_ipa="tắc-xây-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d71ab602-7bda-4d9b-bb01-2e0fa1be6c7d" type="Noun">
+          <Vi>Việc đánh thuế; sự đánh thuế</Vi>
+          <En>The system or process of imposing taxes by a government</En>
+          <Example>The new taxation policy sparked widespread debate among small business owners.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9cae738-3dc9-4164-b162-3962e363a0ba">
+              <Vi>Chính phủ ban hành luật mới về đánh thuế thu nhập cá nhân.</Vi>
+              <En>The government introduces a new law on personal income taxation.</En>
+            </Situation>
+            <Situation id="fbf02545-a0b0-495f-970c-0cb0bc5f8181">
+              <Vi>Công ty chi nhiều thời gian để tuân thủ nghĩa vụ taxation.</Vi>
+              <En>The company spends considerable time complying with taxation obligations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

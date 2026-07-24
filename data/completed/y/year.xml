@@ -1,0 +1,54 @@
+<Vocab id="e2f79b8c-5f06-4884-b201-90cd036dd73e" word="year" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af31e257-4767-4ee3-a617-662f50bc4866" ipa="/jɪr/" vi_ipa="gi-ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7cde220d-8b13-4643-8e9c-dd8b137d355e" type="Noun">
+          <Vi>1 năm; một khoảng thời gian bằng 365 hoặc 366 ngày</Vi>
+          <En>The period of time equal to 365 or 366 days, during which the Earth completes one orbit around the Sun.</En>
+          <Example>She has lived in Canada for five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcda2e63-3535-48a8-9f5e-e261075cd0b1">
+              <Vi>Thời gian tính theo chu kỳ quay của Trái Đất quanh Mặt Trời.</Vi>
+              <En>Time measured by the Earth's orbital period around the Sun.</En>
+            </Situation>
+            <Situation id="4c8921b1-8b24-4881-80e7-f0d4f46d4395">
+              <Vi>Dùng để chỉ tuổi (ví dụ: "at the age of ten years").</Vi>
+              <En>Used to indicate age (e.g., "at the age of ten years").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4c769a58-f13b-42db-a8ce-6ca2872f6a8d" type="Noun">
+          <Vi>Năm học; năm tài chính; năm lịch</Vi>
+          <En>A calendar year, academic year, or fiscal year used for planning or record-keeping.</En>
+          <Example>The school year begins in September.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6e69ccf-bc69-4504-b9ba-ce674394039b">
+              <Vi>Thời gian bắt đầu và kết thúc một chu kỳ học tập ở trường.</Vi>
+              <En>The period marking the start and end of a school term.</En>
+            </Situation>
+            <Situation id="a756acaf-0fb2-4351-bc1b-72885a5dc860">
+              <Vi>Thời gian dùng để lập báo cáo tài chính.</Vi>
+              <En>The period used for financial reporting and taxation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
