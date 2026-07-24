@@ -1,0 +1,53 @@
+<Vocab id="104b31a8-eaad-411b-9f80-5e8ed7598638" word="tolerance" type="short" status="done">
+  <Topics>
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae49bddf-c49e-4342-a1b7-0b959d91c0e4" ipa="/ˈtɒl.ər.əns/" vi_ipa="tốt-lơ-rơ-nx">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d31d0003-63b4-46f9-8676-ec625e509823" type="Noun">
+          <Vi>Sự dung hòa; sự khoan dung; mức độ chênh lệch cho phép</Vi>
+          <En>The ability to accept or respect ideas, beliefs, or behaviors that are different from one's own; also, the permissible limit of variation in a physical measurement or specification.</En>
+          <Example>Education promotes tolerance and understanding among students from diverse backgrounds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="365f4bff-efc1-4047-949c-24adf7ede4c2">
+              <Vi>Tình huống giao tiếp yêu cầu tôn trọng quan điểm khác biệt trong một nhóm đa văn hóa.</Vi>
+              <En>A situation requiring respect for differing viewpoints in a multicultural group setting.</En>
+            </Situation>
+            <Situation id="85d802cf-0193-403b-b7a0-d8c228a52808">
+              <Vi>Kỹ sư kiểm tra độ chênh lệch kích thước chi tiết máy so với thiết kế.</Vi>
+              <En>An engineer checks whether a machine part's dimensions fall within the specified tolerance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6996c30b-4ae4-4a4b-8d86-f6305dcd9c3d" type="Noun">
+          <Vi>Sự chịu đựng (thuốc, đau đớn, khó chịu)</Vi>
+          <En>The capacity to endure pain, hardship, or discomfort; also, in medicine, reduced responsiveness to a drug after repeated use.</En>
+          <Example>After weeks of treatment, the patient developed a tolerance to the painkiller.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2cc72999-e0dc-4d36-be18-b804ce08fe78">
+              <Vi>Bác sĩ đánh giá mức độ chịu đựng thuốc của bệnh nhân để điều chỉnh liều lượng.</Vi>
+              <En>A doctor assesses the patient’s drug tolerance to adjust the dosage appropriately.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
