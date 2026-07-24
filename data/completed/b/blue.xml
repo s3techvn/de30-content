@@ -1,0 +1,62 @@
+<Vocab id="19d8b967-29aa-49ff-a545-ee3aac35a433" word="blue" type="short" status="done">
+  <Topics>
+    <Topic id="a2e010c3-756e-47fa-97a6-84edd3622638" value="Colors" />
+  </Topics>
+  <Professions>
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="9b843fa5-0ee2-40b1-8cb6-537b0ae103e2" value="Fashion Stylist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5690ce33-100c-4fc2-b8a4-9fbca204a600" ipa="/bluː/" vi_ipa="b-l-u:">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="96c56e10-a071-4cb2-b60e-078b77bc724e" type="Adjective">
+          <Vi>màu xanh da trời</Vi>
+          <En>of the color between green and violet in the spectrum; the color of the clear sky or the deep sea.</En>
+          <Example>The sky turned a deep blue as the sun set behind the mountains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ef2884d-dae0-4f72-9624-3b26aa7f5739">
+              <Vi>Mô tả màu sắc của vật thể, bầu trời, hoặc nước.</Vi>
+              <En>Describing the color of an object, the sky, or the sea.</En>
+            </Situation>
+            <Situation id="af4176f2-0c84-4afa-b380-a1cedaeb7551">
+              <Vi>Dùng trong nghệ thuật, thiết kế đồ họa để chỉ tông màu chủ đạo.</Vi>
+              <En>Used in art and graphic design to refer to a dominant color tone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b69f8028-3607-4d9c-b241-abfa204956fd" type="Adjective">
+          <Vi>buồn bã, chán nản (nghĩa ẩn dụ)</Vi>
+          <En>feeling or showing sadness; melancholy.</En>
+          <Example>She felt blue after hearing the sad news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="661ba361-d853-4b2a-8975-76defb6f98fb">
+              <Vi>Mô tả trạng thái cảm xúc tiêu cực, thường là buồn bã nhẹ đến trung bình.</Vi>
+              <En>Describing a mild to moderate state of sadness or low mood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0056227d-bbaa-4c2d-912f-5542454e107f" type="Adjective">
+          <Vi>thô tục, khiêu dâm (nghĩa cổ, ít dùng)</Vi>
+          <En>obscene or indecent; lewd (archaic or slang usage).</En>
+          <Example>He told a blue joke that made everyone blush.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="2350876b-d1cf-40a3-82e0-de9fc130cb72">
+              <Vi>Ngôn ngữ nói, mang tính khiêu dâm — thường dùng trong văn nói cũ hoặc văn chương cũ.</Vi>
+              <En>Slang or informal usage, often found in older spoken or literary contexts, to describe indecent content.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

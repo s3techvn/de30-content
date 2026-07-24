@@ -1,0 +1,41 @@
+<Vocab id="d80bdcc5-32fb-4762-a7e5-6bdb842ad857" word="oral" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63b23f11-2569-4a60-8d00-7c47bc39a22f" ipa="/ˈɔːr.əl/" vi_ipa="o-rơ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="714a5c45-86d0-4b1c-b21c-7ae409d62732" type="Adjective">
+          <Vi>miệng; bằng miệng</Vi>
+          <En>Relating to or involving the mouth; expressed or communicated without writing, especially spoken.</En>
+          <Example>The doctor examined her oral cavity during the checkup.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="578944cf-9e56-415e-8929-dbed2ce896e7">
+              <Vi>Mô tả các vấn đề liên quan đến miệng, như sâu răng, viêm lợi, hoặc kiểm tra nha khoa.</Vi>
+              <En>Used when describing conditions, procedures, or issues related to the mouth, such as dental exams or oral hygiene.</En>
+            </Situation>
+            <Situation id="606e5598-a44e-4b7b-b980-a89898beaae3">
+              <Vi>Mô tả bài kiểm tra hoặc bài thuyết trình được thực hiện bằng lời nói thay vì viết.</Vi>
+              <En>Used to describe assessments or presentations delivered verbally rather than in writing, such as oral exams or oral reports.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
