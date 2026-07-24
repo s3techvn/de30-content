@@ -1,0 +1,38 @@
+<Vocab id="400c40be-a13e-43b7-ba5f-611091c5775c" word="embassy" type="short" status="done">
+  <Topics>
+    <Topic id="845058ea-b08e-4ff3-a525-f1443f822d2a" value="Diplomacy" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="f88892a0-c93d-4baf-abad-c44590d3288d" value="Foreign Service Officer" />
+    <Profession id="9c9cbc39-65fd-4a1d-90e9-3899f17d1bef" value="International Relations Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cb0bb2f8-c9b1-4a9c-95b3-fd1457b66382" ipa="/ˈem.bə.si/" vi_ipa="em-bê-xi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a187466-b0b5-4460-a08d-f67262645863" type="Noun">
+          <Vi>Đại sứ quán</Vi>
+          <En>The building or premises used by a country's ambassador and staff in a foreign capital for official diplomatic work.</En>
+          <Example>The ambassador hosted a reception at the embassy to celebrate national day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1da2353-449f-42b2-951e-6798ff9a68de">
+              <Vi>Cơ sở ngoại giao nơi đại sứ và nhân viên làm việc tại thủ đô nước sở tại.</Vi>
+              <En>A diplomatic facility where a country's representatives operate in the host nation's capital.</En>
+            </Situation>
+            <Situation id="3beeaccb-067d-4df5-a078-4d32ce27b190">
+              <Vi>Nơi công dân xin thị thực, hỗ trợ lãnh sự, và tổ chức các sự kiện ngoại giao.</Vi>
+              <En>A place where citizens apply for visas, receive consular assistance, and attend diplomatic events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
