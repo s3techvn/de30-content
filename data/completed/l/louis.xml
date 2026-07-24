@@ -1,0 +1,32 @@
+<Vocab id="33730a89-b8dc-4637-b1b6-4561f4d48abd" word="louis" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d5806a42-4c97-4ec0-be54-ce9fd5cc1d36" ipa="/luːˈiː/" vi_ipa="lu-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7cf73db8-00c4-4401-8578-e08f6a552043" type="Noun">
+          <Vi>Tên riêng (thường dùng trong tiếng Pháp, như Louis XIV, Louis XVI)</Vi>
+          <En>A male given name, especially used in French-speaking countries (e.g., Louis XIV, Louis XVI).</En>
+          <Example>King Louis XVI was executed during the French Revolution.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d491602a-9d74-4f26-a86b-30ced68cf00e">
+              <Vi>Dùng để chỉ các vị vua Pháp mang tên Louis, hoặc người đàn ông được đặt tên Louis.</Vi>
+              <En>Used to refer to French kings named Louis, or men given the name Louis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
