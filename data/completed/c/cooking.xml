@@ -1,0 +1,51 @@
+<Vocab id="a42d4018-eacb-42e5-856e-422e08c57f5d" word="cooking" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="ac5bca08-087c-4bcc-998a-632cc3f865f7" value="Home Cook" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25741a96-fcf6-44a4-92eb-4d4f44d352ce" ipa="/ˈkʊk.ɪŋ/" vi_ipa="cúc-inh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4987f01b-1707-4bc9-8444-bf332180a617" type="Noun">
+          <Vi>Nghệ thuật hoặc quá trình chế biến thực phẩm bằng nhiệt</Vi>
+          <En>The art or practice of preparing food by applying heat</En>
+          <Example>She has been learning cooking from her grandmother for years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51c725b1-9e57-4008-b631-c59aff6c92e4">
+              <Vi>Mô tả hoạt động nấu ăn như một kỹ năng hoặc sở thích</Vi>
+              <En>Describing cooking as a skill or hobby, e.g., in classes, at home, or professionally</En>
+            </Situation>
+            <Situation id="b11a814f-5cfe-4bed-88d0-79f42f86b754">
+              <Vi>Chỉ quá trình chuẩn bị món ăn từ đầu đến khi hoàn tất</Vi>
+              <En>Referring to the entire process of preparing a meal from ingredient selection to plating</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2b6468b0-e06c-4c29-94d6-a361ed017abc" type="Noun">
+          <Vi>Món ăn được nấu</Vi>
+          <En>Food that has been prepared by cooking</En>
+          <Example>The kitchen smelled delicious—someone had been doing some serious cooking!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6eb63807-af7a-4898-a357-0f1872b5930a">
+              <Vi>Chỉ món ăn đã được nấu chín, thường dùng trong ngữ cảnh miêu tả hương vị hoặc chất lượng</Vi>
+              <En>Referring to prepared food, especially in informal or expressive contexts (e.g., “homemade cooking”)</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
