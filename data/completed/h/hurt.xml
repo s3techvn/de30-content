@@ -1,0 +1,38 @@
+<Vocab id="c6ccdd24-7198-433b-b8b6-2c93a2f47937" word="hurt" type="short" status="done">
+  <Topics>
+    <Topic id="70326c7b-926c-42c7-b6d6-589c3bf4bf3b" value="Emotions and Physical Sensations" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="85a05342-558c-4317-bec5-9386cf7f5450" ipa="/hɜːrt/" vi_ipa="hơt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6e4f6ac0-ae76-4d67-be74-b91f52d66b58" type="Verb">
+          <Vi>làm đau (về thể chất hoặc tinh thần)</Vi>
+          <En>to cause physical or emotional pain</En>
+          <Example>She hurt her knee while running.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="775d049b-3d11-4465-af61-ed29451bb6c6">
+              <Vi>Mô tả một người bị thương do tai nạn hoặc vận động.</Vi>
+              <En>Describing someone suffering physical injury due to an accident or physical activity.</En>
+            </Situation>
+            <Situation id="d109416d-2336-4457-b7d5-5d370f5112bb">
+              <Vi>Mô tả cảm giác bị tổn thương tinh thần khi bị người khác nói hoặc làm tổn thương.</Vi>
+              <En>Describing emotional pain caused by someone’s harsh words or actions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
