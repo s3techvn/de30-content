@@ -1,0 +1,34 @@
+<Vocab id="32971715-935e-40d3-8e57-e57a64969e3b" word="burke" type="short" status="done">
+  <Topics>
+    <Topic id="dd765fe1-2e49-4bf6-b42f-0a3885bd41f1" value="Criminal Justice" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="29a6e901-08ac-4913-acdb-af1e2ba35760" ipa="/bɜːrk/" vi_ipa="bơ-rc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ba463942-3ae3-4a2f-acc3-55bc7a5e27b8" type="Verb">
+          <Vi>giết chết bằng cách bịt miệng và mũi, khiến nạn nhân ngạt thở</Vi>
+          <En>to kill someone by holding a cloth over their mouth and nose, causing suffocation</En>
+          <Example>The criminal attempted to burke the victim before stealing his wallet.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="4368b528-8aa8-4d78-b09a-284e222bdbf0">
+              <Vi>Mô tả phương pháp giết người phổ biến vào thế kỷ 19 ở Anh và Mỹ, thường liên quan đến việc bán thi thể cho trường y.</Vi>
+              <En>A method of murder popular in 19th-century England and the U.S., often linked to selling corpses to medical schools.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
