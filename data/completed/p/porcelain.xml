@@ -1,0 +1,38 @@
+<Vocab id="0bf93644-0056-449f-893b-8963d1eb3cd6" word="porcelain" type="short" status="done">
+  <Topics>
+    <Topic id="445d2392-8309-47a6-8fb2-31ad746dd6f9" value="Materials &amp; Objects" />
+  </Topics>
+  <Professions>
+    <Profession id="653005f9-b970-4623-adb6-e85794c4c56d" value="Ceramicist" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="52e96840-b40d-4899-acca-455cc3161b5e" value="Antique Dealer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2d3286bb-a96e-4bd1-9176-a598457e92fd" ipa="/ˈpɔːr.sə.lɪn/" vi_ipa="pờ-rờ-xê-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cde78ac1-a13e-49fe-b6fc-14db3e7fcae7" type="Noun">
+          <Vi>đồ sứ, sứ</Vi>
+          <En>A hard, white, translucent ceramic material made by heating clay and other materials to high temperatures, often used for fine tableware, decorative objects, and dental restorations.</En>
+          <Example>The museum displayed a collection of 18th-century Chinese porcelain.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="445cd455-6f30-42ef-b814-aa158944252d">
+              <Vi>Một bộ ấm chén làm bằng sứ trắng tinh, thường dùng trong trà đạo hoặc tiếp khách sang trọng.</Vi>
+              <En>A set of white ceramic teaware used in traditional tea ceremonies or for elegant hospitality.</En>
+            </Situation>
+            <Situation id="72bed840-039f-4a90-b78a-7b589769ee5a">
+              <Vi>Vật liệu dùng để chế tạo mão răng giả hoặc mão dán veneer trong nha khoa.</Vi>
+              <En>A material used to fabricate dental crowns or veneers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

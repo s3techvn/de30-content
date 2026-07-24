@@ -1,0 +1,60 @@
+<Vocab id="3743a58c-b95d-4003-a2db-3a2ed7305192" word="bunch" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7af34a4c-d52a-47f5-9858-ddac2602f2f2" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c6126607-4d40-467e-9553-680d911f6dce" ipa="/bʌntʃ/" vi_ipa="băn-ch">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a113c063-b612-44a9-b6e3-29e904a72eac" type="Noun">
+          <Vi>một bó, một cụm, một nhóm (thường chỉ vật nhỏ, rời rạc)</Vi>
+          <En>a group of things or people considered together, especially when gathered or clustered</En>
+          <Example>She bought a bunch of grapes at the market.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57b0bdb6-13ca-4723-864e-b880a8a2e21b">
+              <Vi>Mô tả một tập hợp các vật nhỏ gắn hoặc đặt gần nhau, như hoa, nho, chìa khóa.</Vi>
+              <En>Used to describe a collection of small items grouped together, such as flowers, grapes, or keys.</En>
+            </Situation>
+            <Situation id="700d9017-7cee-4c0b-ab49-a5645406c108">
+              <Vi>Dùng trong giao tiếp để chỉ một lượng lớn (không chính xác) của điều gì đó.</Vi>
+              <En>Used informally to indicate a large amount of something (e.g., "a bunch of work").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="759f420e-55b1-4d25-a619-7c7a61e14c2f" type="Noun">
+          <Vi>nhóm người (thường mang tính thân mật hoặc không trang trọng)</Vi>
+          <En>a group of people, especially one that is close-knit or regularly interacts</En>
+          <Example>He hangs out with a different bunch of friends on weekends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3dbc1b90-d1f0-4eb1-8672-8e081f1d3ece">
+              <Vi>Mô tả nhóm bạn thân, đồng nghiệp thân thiết, hoặc tập thể quen thuộc.</Vi>
+              <En>Used to refer to a familiar or regular group of people, such as friends or colleagues.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c4cad8c3-176c-4fc0-b375-079023a7f7a7" type="Noun">
+          <Vi>lượng lớn (dùng trong cấu trúc "a bunch of")</Vi>
+          <En>a large but indefinite number or amount of something</En>
+          <Example>There were a bunch of emails waiting in my inbox.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78912d10-5c14-468c-9ad8-c7cdace09b1a">
+              <Vi>Dùng khi nói về số lượng lớn các đồ vật, công việc, hoặc sự kiện không đếm cụ thể.</Vi>
+              <En>Used when referring to a large, uncounted quantity of tasks, items, or events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
