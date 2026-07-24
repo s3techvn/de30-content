@@ -1,0 +1,34 @@
+<Vocab id="824c3fca-c51f-4a78-a620-82badfd9ecfb" word="basically" type="short" status="done">
+  <Topics>
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d3b49440-8c75-4e69-9dfa-9f54ca23ef73" ipa="/ˈbeɪ.sɪ.kəl.i/" vi_ipa="bê-i-si-cờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="856f0314-26ea-443a-98e7-1e2f7c4c10c4" type="Adverb">
+          <Vi>Cơ bản, về cơ bản</Vi>
+          <En>Used to emphasize a basic fact or main point, especially when adding a clarification or simplification.</En>
+          <Example>It’s basically just a simple app—no fancy features, just core functionality.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ccc4652-938d-4714-b2d6-d4c92d354c7e">
+              <Vi>Dùng để làm nổi bật điểm cốt lõi hoặc bản chất của một điều gì đó, thường khi giải thích đơn giản hóa.</Vi>
+              <En>Used to highlight the core or essential nature of something, especially when simplifying or clarifying.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
