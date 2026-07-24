@@ -1,0 +1,39 @@
+<Vocab id="7bea7495-acfc-4096-bdf7-3ec1a7d7ee06" word="cod" type="short" status="done">
+  <Topics>
+    <Topic id="091596f8-fe2f-46f0-b326-e63dc3b11af6" value="Food &amp; Cooking" />
+    <Topic id="3f0235b9-1028-4b5b-9e7c-95d2c5c01055" value="Marine Life" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d9d63716-d501-4d97-ab51-27852fd2f5a9" ipa="/kɑːd/" vi_ipa="cốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a0c7a8c4-240d-49b1-a58d-b9ff9137f58b" type="Noun">
+          <Vi>Cá tuyết (một loài cá biển có thịt trắng, thường được dùng trong ẩm thực)</Vi>
+          <En>A large, cold-water fish with pale, flaky flesh, commonly used in cooking, especially in fish and chips.</En>
+          <Example>Grilled cod with lemon and herbs makes a light and healthy dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ffd2cc56-287e-41d2-87f7-9ba118151b58">
+              <Vi>Nhà hàng hải sản phục vụ cá tuyết nướng.</Vi>
+              <En>A seafood restaurant serving grilled cod.</En>
+            </Situation>
+            <Situation id="55231792-28a6-4e72-bde5-02ae5d9f4598">
+              <Vi>Những người đánh bắt cá tuyết ở Bắc Đại Tây Dương.</Vi>
+              <En>Fishermen harvesting cod in the North Atlantic.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
