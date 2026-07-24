@@ -1,0 +1,32 @@
+<Vocab id="f0529709-8c9a-49da-9e56-fc8eda29ac76" word="occasionally" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dba39362-ac22-4d82-b5c9-0c25746fd92f" value="Any Profession" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2e4d8a98-7524-4993-b157-b8bcdf07373e" ipa="/əˈkeɪ.ʒən.əl.i/" vi_ipa="ơ-kei-dơ-nơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="68454800-5edb-4d44-aa72-f0092b5c7823" type="Adverb">
+          <Vi>thỉnh thoảng, đôi lúc</Vi>
+          <En>Happening or done sometimes but not often or not regularly.</En>
+          <Example>We meet occasionally for coffee, usually when one of us is in town.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a64b1731-2080-4689-8987-c0e6793ed985">
+              <Vi>Mô tả tần suất hoạt động không thường xuyên, ví dụ như gặp gỡ bạn bè hoặc thực hiện một việc gì đó không theo lịch trình cố định.</Vi>
+              <En>Describes an activity that occurs infrequently or irregularly, not on a fixed schedule.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
