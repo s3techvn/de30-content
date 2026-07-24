@@ -1,0 +1,56 @@
+<Vocab id="1cdebca6-431a-4e54-9625-5d14352a2dd6" word="showcase" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+  </Topics>
+  <Professions>
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2a2d6383-742c-4490-83bd-620ec7276b86" ipa="/ˈʃoʊ.keɪs/" vi_ipa="sào-kê-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9dfc99f0-7c82-42bc-b67c-a68b645d3053" type="Verb">
+          <Vi>Trình bày, giới thiệu (một sản phẩm, ý tưởng, tài năng) một cách ấn tượng hoặc nổi bật</Vi>
+          <En>To present or display something in a way that highlights its best features, especially to attract attention or gain approval</En>
+          <Example>The company showcased its latest AI-powered robot at the tech conference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="522f9354-f951-4c7a-8d24-29cf7dc278c6">
+              <Vi>Doanh nghiệp giới thiệu sản phẩm mới trong hội chợ triển lãm</Vi>
+              <En>A business presents its new product at a trade fair</En>
+            </Situation>
+            <Situation id="6233f7bd-44ad-40b1-8283-53f1dd64ffb6">
+              <Vi>Người nghệ sĩ trình diễn một đoạn nhạc mới để gây ấn tượng với nhà sản xuất</Vi>
+              <En>An artist performs a new piece to impress a producer</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c811c14e-73cf-44bf-8d90-e4e723e8ede5" type="Noun">
+          <Vi>Giá trưng bày (thường có kính), nơi để trưng bày đồ quý, sản phẩm, hoặc tác phẩm nghệ thuật</Vi>
+          <En>A glass-fronted cabinet used to display valuable or attractive items, such as products, antiques, or artworks</En>
+          <Example>The museum installed a new showcase to highlight the ancient pottery collection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b73a43b-5a87-4536-abee-f564762fb12e">
+              <Vi>Cửa hàng trang sức dùng giá kính để trưng bày nhẫn và vòng cổ</Vi>
+              <En>A jewelry store uses glass display cases to show rings and necklaces</En>
+            </Situation>
+            <Situation id="785b9709-a758-47e8-bb04-efd8f67d5be1">
+              <Vi>Bảo tàng sử dụng giá trưng bày để bảo vệ và làm nổi bật hiện vật quý</Vi>
+              <En>A museum uses display cases to protect and highlight valuable artifacts</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
