@@ -1,0 +1,48 @@
+<Vocab id="a93a0858-5bd6-4d07-842c-85b8d0f79d79" word="nerve" type="short" status="done">
+  <Topics>
+    <Topic id="2f49af90-3f3f-4430-8103-e28a1a75edf4" value="Anatomy &amp; Medicine" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ba3ae16d-5822-45c9-b795-22d059b32f28" value="Neurologist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b1cf33fe-aaaa-4102-bbae-f71b84c3ccc7" ipa="/nɜːrv/" vi_ipa="nơ-rợp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c93decfa-1bcd-4bc8-b453-a80160690f4c" type="Noun">
+          <Vi>thần kinh; dây thần kinh</Vi>
+          <En>A bundle of fibers in the body that transmits signals between the brain and other parts of the body.</En>
+          <Example>The doctor examined the patient’s facial nerve to check for damage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4d62ef32-5709-40c0-b38f-834b75647c0c">
+              <Vi>Bác sĩ kiểm tra dây thần kinh bị tổn thương sau chấn thương.</Vi>
+              <En>A doctor examines a damaged nerve after an injury.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="853cc946-06e0-48bc-910a-3845f5cf126d" type="Noun">
+          <Vi>sự can đảm; sự dũng cảm (thường trong cụm “có nerve”)</Vi>
+          <En>Courage or boldness, especially in a difficult or dangerous situation.</En>
+          <Example>It took real nerve to speak up against the CEO in front of everyone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ca1cfc41-04b3-46df-b7ab-3ad0702009e7">
+              <Vi>Một người dám phản đối sếp trước mặt đồng nghiệp.</Vi>
+              <En>Someone dares to challenge the boss publicly during a meeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
