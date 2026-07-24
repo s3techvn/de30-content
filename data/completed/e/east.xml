@@ -1,0 +1,50 @@
+<Vocab id="1a4ab5e3-5dc8-4d19-abae-e0de33e540f3" word="east" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="6043633c-88af-4464-b8d2-2a37accfafa5" value="Navigator" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="17ef1ad6-52d6-4094-9690-af389bcd597f" ipa="/iːst/" vi_ipa="i:ớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="48d0d5bf-6069-4434-89bf-d1245f27d8c8" type="Noun">
+          <Vi>phương đông</Vi>
+          <En>The direction towards the east, where the sun rises; one of the four cardinal directions.</En>
+          <Example>We drove east for three hours to reach the coast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fc42ccfd-6b51-4835-82b7-b0bfe88204d6">
+              <Vi>Chỉ hướng địa lý mà mặt trời mọc, thường dùng trong định hướng và bản đồ.</Vi>
+              <En>Refers to the cardinal direction where the sun rises, commonly used in navigation and maps.</En>
+            </Situation>
+            <Situation id="0de9b98a-2411-47bc-83ce-94bf77f07d17">
+              <Vi>Dùng để chỉ khu vực địa lý thuộc phía đông của một quốc gia hoặc thế giới (ví dụ: Đông Á).</Vi>
+              <En>Used to refer to a geographical region in the eastern part of a country or the world (e.g., East Asia).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b851d59d-8916-42aa-bcfc-1f8eecad6755" type="Adjective">
+          <Vi>thuộc về phương đông</Vi>
+          <En>Located in, facing, or coming from the east.</En>
+          <Example>The east window lets in the morning sunlight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="11ae059c-ef91-4389-bf8a-3a6982885982">
+              <Vi>Mô tả vị trí, hướng hoặc nguồn gốc liên quan đến phương đông.</Vi>
+              <En>Describes position, orientation, or origin related to the east.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

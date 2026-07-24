@@ -1,0 +1,40 @@
+<Vocab id="791e27fc-7bf6-4e89-b038-cad28053dc35" word="curious" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a2dd961b-17ff-42f7-8cb5-6f785411a8a2" ipa="/ˈkjʊə.ri.əs/" vi_ipa="cơ-ri-ơ-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ab8312cb-e715-4dec-9909-d07e1a317e31" type="Adjective">
+          <Vi>hiếu kỳ; tò mò; lạ lùng, kỳ lạ</Vi>
+          <En>having a desire to know or learn something; strange or unusual in a way that is interesting or appealing</En>
+          <Example>She asked a curious question about the stars.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2fc560c-4f86-45c2-ab2f-efb15af4df13">
+              <Vi>Một người muốn tìm hiểu điều gì đó mới mẻ hoặc chưa biết.</Vi>
+              <En>A person showing interest in learning something new or unknown.</En>
+            </Situation>
+            <Situation id="b29997d1-5f64-4b8f-96a4-3bed6629b124">
+              <Vi>Mô tả một vật hoặc hiện tượng có vẻ khác thường, gây chú ý.</Vi>
+              <En>Describing something unusual or odd that captures attention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
