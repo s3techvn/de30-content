@@ -1,0 +1,38 @@
+<Vocab id="fd4225de-f481-4fdd-a514-11770b3ac2cd" word="illness" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="2f5596dd-5938-44c5-b0ca-83e871f316f0" value="Public Health Official" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="429ac970-1e69-4516-b6ae-449cb4a2f9c5" ipa="/ˈɪl.nəs/" vi_ipa="i-lờ-nơ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ebec0ee3-f714-4da1-b937-b259c33258d9" type="Noun">
+          <Vi>Bệnh tật; tình trạng bị bệnh</Vi>
+          <En>A disease or a condition that impairs normal physiological function and is associated with specific symptoms.</En>
+          <Example>She took a week off work to recover from her illness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69f97397-83be-4297-8063-21188b4722bb">
+              <Vi>Mô tả tình trạng sức khỏe kém do virus, vi khuẩn, hoặc yếu tố nội sinh.</Vi>
+              <En>Describing a state of poor health caused by infection, internal dysfunction, or other pathological factors.</En>
+            </Situation>
+            <Situation id="1e8d0dc6-a104-4618-93e6-462773af9858">
+              <Vi>Dùng trong ngữ cảnh y tế để phân biệt với tình trạng khỏe mạnh.</Vi>
+              <En>Used in medical contexts to distinguish abnormal health states from wellness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
