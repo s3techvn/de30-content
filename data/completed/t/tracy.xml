@@ -1,0 +1,32 @@
+<Vocab id="b19a73c0-db29-4d6d-9fa6-065b81f9ce5b" word="tracy" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="56abb7e8-e0fa-4908-b645-9b971a1fd295" ipa="/ˈtreɪ.si/" vi_ipa="trei-xi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0c720d65-e04c-4e44-8c18-102ae4c6caf3" type="Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là tên người (gốc Anh-Mỹ)</Vi>
+          <En>A proper noun, typically used as a given name or surname of English or American origin.</En>
+          <Example>Tracy is a common unisex name in the United States.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="18a2bd41-83ca-4580-9a8e-7df222918771">
+              <Vi>Dùng để chỉ một cá nhân mang tên Tracy trong giao tiếp hoặc văn bản.</Vi>
+              <En>Used to refer to an individual named Tracy in conversation or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

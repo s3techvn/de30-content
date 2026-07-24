@@ -1,0 +1,32 @@
+<Vocab id="abb98d86-1344-45d6-8ac3-0844e3de7ee6" word="eddie" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e917aee8-6b2a-4f15-89d5-ca6249f3dd7c" ipa="/ˈɛdi/" vi_ipa="ét-đi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b40757b3-0bc9-4fb6-83fb-ed1ff495c0f0" type="Proper Noun">
+          <Vi>Tên riêng (thường là tên đệm hoặc tên gọi thân mật của Edward)</Vi>
+          <En>A male given name, often a diminutive or informal form of Edward.</En>
+          <Example>My neighbor’s son is named Eddie—he’s five years old.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8428abce-884b-4f95-95fa-c7790ae9a0f1">
+              <Vi>Dùng khi gọi tên một người nam giới thân mật hoặc trong văn nói.</Vi>
+              <En>Used when addressing a male informally or in casual speech.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
