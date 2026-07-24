@@ -1,0 +1,48 @@
+<Vocab id="57ec5f9e-a511-4c92-98c3-04ef45cea520" word="effect" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="a6ccb1ad-1d48-432b-9371-0284f5e6bdad" value="Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76d461bf-386b-4ef9-8bf3-46c2f8fa0e84" ipa="/ɪˈfekt/" vi_ipa="i-phết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f5e21348-1dc0-4fe1-8a0f-d359dd79293e" type="Noun">
+          <Vi>hiệu ứng; tác động; kết quả</Vi>
+          <En>A result or change that is caused by something; an outcome or consequence.</En>
+          <Example>The new policy had a positive effect on employee morale.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58f1e8b9-8dc5-4486-b48e-da3194acbfc4">
+              <Vi>Mô tả kết quả hoặc ảnh hưởng của một hành động hoặc sự kiện.</Vi>
+              <En>Describing the outcome or influence of an action or event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2c959de5-b074-4584-aba3-e7425a85ec3f" type="Verb">
+          <Vi>thực hiện; gây ra; đưa vào hiệu lực</Vi>
+          <En>To cause something to happen or to bring about a result; to implement (a decision or plan).</En>
+          <Example>The company will effect changes in its hiring process next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d68bba0c-3c32-4d57-978b-2a81aa38e077">
+              <Vi>Dùng khi nói về việc thực thi hoặc tạo ra một thay đổi hoặc quyết định.</Vi>
+              <En>Used when talking about implementing or causing a change or decision.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

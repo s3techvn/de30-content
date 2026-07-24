@@ -1,0 +1,64 @@
+<Vocab id="58a5e8ba-f2a0-4665-940d-72843509ec26" word="ticket" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+    <Profession id="dee8359c-179a-4a43-81de-0c2ce0fd528a" value="Transportation Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6c1e171f-6f5d-4811-96fe-5c1c99d6fe33" ipa="/ˈtɪk.ɪt/" vi_ipa="tích-kít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="160b82b3-f0de-4f53-8727-6509685061ba" type="Noun">
+          <Vi>Vé (giấy tờ chứng nhận quyền tham gia, đi lại, hoặc mua hàng)</Vi>
+          <En>A piece of paper or plastic issued as proof of payment for admission to an event, travel on public transport, or entry to a venue.</En>
+          <Example>I bought a ticket for the concert online and printed it out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8ffd44bd-0505-42b6-9e4b-ba94387fc353">
+              <Vi>Đi xem phim và mua vé tại quầy bán vé.</Vi>
+              <En>Going to the cinema and purchasing a ticket at the ticket counter.</En>
+            </Situation>
+            <Situation id="3c08acbd-665e-4bbf-9b4e-29fef11ecf85">
+              <Vi>Đi tàu cao tốc và xuất trình vé điện tử trên điện thoại.</Vi>
+              <En>Taking a high-speed train and presenting a digital ticket on a smartphone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e4c1a6f7-cc41-44dc-82c6-b85da6b49ef3" type="Noun">
+          <Vi>Vé phạt (giấy báo vi phạm giao thông)</Vi>
+          <En>A notice issued by police or authorities fining someone for breaking a law or regulation, especially traffic rules.</En>
+          <Example>The officer gave me a ticket for parking in a no-parking zone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4b4035f-abd5-47d1-9cca-7d2701f34866">
+              <Vi>Bị cảnh sát lập biên bản vi phạm giao thông và nhận vé phạt.</Vi>
+              <En>Being stopped by police and receiving a traffic violation ticket.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="87df97f5-5ec4-4adc-93a0-a4beb78c7e43" type="Noun">
+          <Vi>Vé dự thưởng (trong xổ số)</Vi>
+          <En>A slip or coupon used as an entry in a lottery or raffle.</En>
+          <Example>She bought three tickets for the charity raffle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7c375d2-9396-40a5-86cf-a70b0e4054bd">
+              <Vi>Mua vé số để tham gia quay số trúng thưởng hàng tuần.</Vi>
+              <En>Purchasing lottery tickets to participate in a weekly draw.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
