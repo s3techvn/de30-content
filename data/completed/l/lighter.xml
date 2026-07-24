@@ -1,0 +1,36 @@
+<Vocab id="5063f55a-e24c-4e5a-9d85-eaccfd3cf307" word="lighter" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="4d22a88f-607c-4b91-9880-123338f340e6" value="Smoker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e6484829-6e51-4c0c-ab56-6af2aad2003b" ipa="/ˈlaɪ.tər/" vi_ipa="lai-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e05b851a-d8bc-4097-9049-634b1a3baa28" type="Noun">
+          <Vi>Cái bật lửa</Vi>
+          <En>A device used to ignite a fire, especially for lighting cigarettes or candles.</En>
+          <Example>He pulled a metal lighter from his pocket and lit his cigarette.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c922beb-06ee-4056-a6cf-fabfdceac416">
+              <Vi>Người hút thuốc dùng bật lửa để châm thuốc.</Vi>
+              <En>A smoker uses a lighter to ignite a cigarette.</En>
+            </Situation>
+            <Situation id="e2619153-c17d-4006-8fb5-6ae323bea5c9">
+              <Vi>Ngọn nến được thắp bằng bật lửa khi mất điện.</Vi>
+              <En>The candle was lit with a lighter during the power outage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
