@@ -1,0 +1,32 @@
+<Vocab id="c28fade0-5eb7-4229-be94-8d38129508fd" word="gerald" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23ec3f6c-9ace-45eb-85a2-0ac2e3cb4b79" ipa="/ˈdʒɛr.əld/" vi_ipa="gi-ơ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff03bb8d-94b0-40f9-a409-063efc907440" type="Proper Noun">
+          <Vi>Tên riêng (thường là nam), bắt nguồn từ tiếng Anh cổ, nghĩa là “người bảo vệ con gấu” hoặc “người cai quản đất đai”</Vi>
+          <En>A male given name of Old English origin, meaning “spear ruler” or “guardian of the bear”</En>
+          <Example> Gerald Ford was the 38th president of the United States.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b339f120-4e12-480f-9e6c-4a96bcc2dab5">
+              <Vi>Được dùng làm tên gọi trong các gia đình nói tiếng Anh, thường mang tính truyền thống hoặc cổ điển</Vi>
+              <En>Used as a personal name in English-speaking families, often conveying a traditional or classic feel</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
