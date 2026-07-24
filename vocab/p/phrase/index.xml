@@ -1,0 +1,54 @@
+<Vocab id="4c4e5efa-9eb4-4984-82ba-6b63030ffa26" word="phrase" type="short" status="done">
+  <Topics>
+    <Topic id="5d79c81c-0a79-42cf-8eac-ff2e6337e13f" value="Language" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1ec2170d-ed5f-4155-95ee-325c1647788d" ipa="/freɪz/" vi_ipa="phrây-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c7740dce-1e37-4352-b02b-d89270a90ff9" type="Noun">
+          <Vi>Cụm từ; cách diễn đạt; câu ngắn</Vi>
+          <En>A group of words that express a concept or idea, typically without a subject and predicate.</En>
+          <Example>She used a common phrase in her speech: "time flies."</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bfbe58d7-28f8-4ccd-a119-3d1a13ddddb2">
+              <Vi>Người nói hoặc viết sử dụng một cụm từ quen thuộc để truyền đạt ý tưởng một cách ngắn gọn.</Vi>
+              <En>A speaker or writer uses a familiar expression to convey an idea concisely.</En>
+            </Situation>
+            <Situation id="22888c16-07f8-4601-8d5d-29c945af9742">
+              <Vi>Trong học tiếng Anh, học viên cần ghi nhớ các cụm từ thông dụng để nói tự nhiên hơn.</Vi>
+              <En>Learners of English need to memorize common phrases to speak more naturally.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5542fdb1-f446-42b0-940c-be3cf1bc93c1" type="Verb">
+          <Vi>Diễn đạt (bằng lời hoặc chữ); đặt thành cụm từ</Vi>
+          <En>To express something in a particular way, especially using specific words.</En>
+          <Example>Can you phrase your question more clearly?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f1aa1fc4-7026-43cc-8392-5e50a0503aec">
+              <Vi>Người nói điều chỉnh cách diễn đạt câu hỏi để dễ hiểu hơn.</Vi>
+              <En>The speaker rewords a question to make it easier to understand.</En>
+            </Situation>
+            <Situation id="f3c56a30-6e0b-4b51-97b2-ce4633466487">
+              <Vi>Trong phỏng vấn, ứng viên cần cẩn trọng khi diễn đạt câu trả lời.</Vi>
+              <En>During an interview, candidates must carefully phrase their answers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
