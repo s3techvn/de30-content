@@ -1,0 +1,41 @@
+<Vocab id="9fe8940e-ee6b-4a3b-87a8-909c9c0d40e5" word="contributor" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c84d1c7e-645a-4447-b95d-85ac71fc43d0" value="Collaboration" />
+  </Topics>
+  <Professions>
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="7a77b78e-876a-4b0d-b241-5e6c3d0abef1" value="Developer" />
+    <Profession id="d1cb15af-1f4a-4e5f-bee6-6c7007364c9c" value="Volunteer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="069e34c2-8cd1-435b-9021-1045b779ff68" ipa="/kənˈtrɪb.jə.tər/" vi_ipa="kờ-nờ-tri-bu-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1c75ea77-6eae-410f-8a73-8eb3994a8f1a" type="Noun">
+          <Vi>người đóng góp; người tham gia đóng góp</Vi>
+          <En>A person who gives something, especially money, time, or effort, to help achieve a goal or support a cause.</En>
+          <Example>The research paper lists three contributors who provided valuable data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="11ac99ad-b6cc-477e-9471-bfff85ebd15b">
+              <Vi>Người tham gia quyên góp tiền cho một tổ chức từ thiện.</Vi>
+              <En>A person who donates money to a charitable organization.</En>
+            </Situation>
+            <Situation id="59267ce6-a688-41be-9141-be585007a0bd">
+              <Vi>Người góp ý kiến hoặc nội dung cho một dự án cộng đồng.</Vi>
+              <En>A person who contributes ideas or content to a community project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
