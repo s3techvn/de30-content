@@ -1,0 +1,56 @@
+<Vocab id="846409fe-513d-4759-9705-66c7275d76dc" word="map" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a0af87ab-6cf7-4d27-930d-3df280156942" value="Navigation" />
+  </Topics>
+  <Professions>
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="12bc2286-661f-45f1-8e61-78d2940636ff" ipa="/mæp/" vi_ipa="mèp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bbfba5cf-8b94-4852-ab90-3ce6b8333d3d" type="Noun">
+          <Vi>Bản đồ</Vi>
+          <En>A diagrammatic representation of an area, typically showing physical features, roads, and other geographical information.</En>
+          <Example>She unfolded the map to find the shortest route to the city center.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc0a782d-da48-4985-929a-7a2b826ab921">
+              <Vi>Người dùng tra cứu bản đồ trên điện thoại để định vị vị trí hiện tại.</Vi>
+              <En>A user consults a digital map on their phone to locate their current position.</En>
+            </Situation>
+            <Situation id="4d1abe88-0a16-4743-b27e-46efef5a7d10">
+              <Vi>Nhà địa chất sử dụng bản đồ địa chất để xác định loại đất đá.</Vi>
+              <En>A geologist uses a geological map to identify rock and soil types.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7235c364-3616-4e00-a494-c3011fc86aa2" type="Verb">
+          <Vi>Vẽ bản đồ; lập bản đồ; ánh xạ (toán)</Vi>
+          <En>To represent (an area) on a map; to create a detailed description or plan of something.</En>
+          <Example>The team spent weeks mapping the forest to identify endangered species habitats.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54e23743-0b1b-477d-83b2-280d1e02e76b">
+              <Vi>Đội kỹ sư đang lập bản đồ hệ thống ống nước ngầm của thành phố.</Vi>
+              <En>The engineering team is mapping the city’s underground water pipe system.</En>
+            </Situation>
+            <Situation id="07158568-308f-4c51-a4b1-087450c66f14">
+              <Vi>Trong lập trình, hàm map() ánh xạ từng phần tử của mảng theo một quy tắc.</Vi>
+              <En>In programming, the map() function transforms each element of an array according to a rule.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

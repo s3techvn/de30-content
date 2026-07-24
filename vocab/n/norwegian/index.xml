@@ -1,0 +1,47 @@
+<Vocab id="a6e67570-718b-4644-a741-104f97ec077d" word="norwegian" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d7858e5f-a669-4c14-9039-78ff8fbbb408" ipa="/ˈnɔːrweɪdʒən/" vi_ipa="nớ-uy-gi-an">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6d5da612-b309-43d5-9aba-6da99fa8983a" type="Adjective">
+          <Vi>thuộc Na Uy, người Na Uy</Vi>
+          <En>Belonging or relating to Norway, its people, or its language.</En>
+          <Example>She studied Norwegian literature at university.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c9da0e84-d2bc-4932-a742-531bbbc5f490">
+              <Vi>Mô tả điều gì liên quan đến đất nước, con người, hoặc ngôn ngữ của Na Uy.</Vi>
+              <En>Used to describe anything associated with Norway, its inhabitants, or the Norwegian language.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d3ae8ce9-81bd-42b8-89d6-d7dcba1dbc7d" type="Noun">
+          <Vi>người Na Uy; tiếng Na Uy</Vi>
+          <En>A native or inhabitant of Norway; the Germanic language spoken in Norway.</En>
+          <Example>He speaks fluent Norwegian and Danish.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c85ee71d-ace1-4605-a425-8e8fa01e7f2c">
+              <Vi>Dùng để chỉ một người bản địa Na Uy hoặc ngôn ngữ họ nói.</Vi>
+              <En>Used to refer to a person from Norway or to the Norwegian language itself.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

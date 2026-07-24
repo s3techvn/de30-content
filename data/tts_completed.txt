@@ -1938,3 +1938,4 @@ community
 elimination
 casting
 die
+norwegian
