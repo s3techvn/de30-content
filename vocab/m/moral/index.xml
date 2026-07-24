@@ -1,0 +1,38 @@
+<Vocab id="4af2e5b8-cc49-45a4-bfa2-3383e0e64100" word="moral" type="short" status="done">
+  <Topics>
+    <Topic id="df6ff90d-b6f3-48df-9856-ee87b60715c2" value="Ethics &amp; Values" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1479f3d1-ef99-464d-917b-d7d61c7484ee" ipa="/ˈmɔːr.əl/" vi_ipa="mô-rờ-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="693f87c1-f8d8-4d64-9fe3-b2c98ec157b3" type="Adjective">
+          <Vi>thuộc về đạo đức, có tính chất đạo đức</Vi>
+          <En>relating to principles of right and wrong behavior; moral principles or values.</En>
+          <Example>She made a moral decision to return the lost wallet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06b8f12c-9c8b-42a2-8015-36a440df3e3f">
+              <Vi>Tình huống khi một người phải lựa chọn giữa điều đúng và điều sai dựa trên chuẩn mực đạo đức.</Vi>
+              <En>A situation where a person must choose between right and wrong based on ethical standards.</En>
+            </Situation>
+            <Situation id="d90cb28d-818b-4c74-bd63-c37489e03eb4">
+              <Vi>Giáo dục đạo đức trong nhà trường.</Vi>
+              <En>Educating students in moral values at school.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,60 @@
+<Vocab id="ba241a32-22cf-4248-a03f-7645a5acb814" word="rich" type="short" status="done">
+  <Topics>
+    <Topic id="e0571b84-9af7-4d76-a26a-251450a85e2f" value="Finance and Wealth" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="28306983-97d2-4ee4-9ea9-be62ac6787af" value="Food and Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="9f7cbe97-2feb-4169-8966-28d09e11064e" value="Businessperson" />
+    <Profession id="e0cef8f2-0160-4d93-b05c-89e2d3c553cb" value="Financial Advisor" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5ed4af5b-45c7-4434-8d52-e3bc0d5f7320" ipa="/rɪtʃ/" vi_ipa="rít-ch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dfe1c2b1-d470-4046-befc-fedd2fb3264d" type="Adjective">
+          <Vi>giàu có, giàu</Vi>
+          <En>Having a great deal of money, assets, or resources; wealthy.</En>
+          <Example>She comes from a rich family and never had to worry about money.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c5f536f-2221-4b85-9a3c-d28f21cbe0cc">
+              <Vi>Mô tả người hoặc gia đình có thu nhập hoặc tài sản cao.</Vi>
+              <En>Describing a person or family with high income or substantial assets.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="106128f0-6380-4fef-9e6c-a98d7bb1e315" type="Adjective">
+          <Vi>đậm đà, ngon miệng (thực phẩm)</Vi>
+          <En>(of food) having a strong, pleasant, and often fatty or flavorful taste.</En>
+          <Example>This chocolate cake is rich and indulgent—perfect for dessert lovers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7e726f7-0d5a-45c9-bb27-7e15b447948c">
+              <Vi>Dùng để miêu tả món ăn có hương vị đậm, béo, hấp dẫn.</Vi>
+              <En>Used to describe food that is flavorful, often fatty or luxurious in taste.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="56c0b75f-72c8-4881-a992-8d27cba1ffce" type="Adjective">
+          <Vi>phong phú, dồi dào (tài nguyên, màu sắc, v.v.)</Vi>
+          <En>Abundant in a particular quality or feature; full of something desirable.</En>
+          <Example>The region is rich in natural resources like oil and minerals.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c64693b-27c0-4421-9c67-9b1b3b3e9ad8">
+              <Vi>Mô tả sự phong phú về tài nguyên, màu sắc, hoặc đặc điểm nổi bật.</Vi>
+              <En>Describing abundance of resources, colors, or other notable features.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
