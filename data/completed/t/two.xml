@@ -1,0 +1,46 @@
+<Vocab id="99e814e8-0dd5-45bb-9966-83161157a509" word="two" type="short" status="done">
+  <Topics>
+    <Topic id="89116829-5108-4f34-9a99-26f61fefc194" value="Numbers &amp; Counting" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1376c24f-6663-450b-b906-5c416cc9f352" ipa="/tu/" vi_ipa="tư">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a69eff72-7286-4562-bfa5-7d2744ed1aca" type="Numeral">
+          <Vi>hai</Vi>
+          <En>The cardinal number occurring after one and before three.</En>
+          <Example>I have two apples in my bag.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f350ae26-e1bc-49a1-8ce0-962faad18060">
+              <Vi>Mô tả số lượng cụ thể của đồ vật hoặc người.</Vi>
+              <En>Used to indicate a quantity of exactly two items or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d2e74299-e6fe-4474-9dfc-f319ed1f9e68" type="Noun">
+          <Vi>hai (đơn vị đếm)</Vi>
+          <En>A pair or couple; two considered as a unit.</En>
+          <Example>We are a team of two.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2a5c7c55-63fc-48c6-a334-7e8d3abcbdc2">
+              <Vi>Dùng trong thể thao hoặc công việc cần nhóm nhỏ.</Vi>
+              <En>Used in contexts like sports (e.g., doubles tennis) or work teams.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
