@@ -1,0 +1,40 @@
+<Vocab id="b77a536d-4ab8-4b81-bda8-f1ee77366c73" word="graphics" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="7faa2337-a6c8-4bbd-aee8-906f7cf29c3b" value="Digital Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a8704dac-06d9-4118-9bcc-445e92af73b8" ipa="/ˈɡræf.ɪks/" vi_ipa="gráp-phích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6412471c-a562-40dd-b515-cb20b85741ec" type="Noun">
+          <Vi>Hình ảnh đồ họa; đồ họa (trong máy tính, in ấn, truyền thông)</Vi>
+          <En>Visual content such as charts, diagrams, images, or illustrations, especially when used to convey information or enhance digital and printed materials.</En>
+          <Example>The graphics in the presentation made the data much easier to understand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9182a092-9c4c-472c-b40d-9d5451ffb8cf">
+              <Vi>Người thiết kế sử dụng phần mềm để tạo đồ họa cho website.</Vi>
+              <En>A designer uses software to create graphics for a website.</En>
+            </Situation>
+            <Situation id="99da42d8-3b4a-4829-b896-3e1f57bbd9a5">
+              <Vi>Đồ họa máy tính bao gồm hình ảnh 2D và 3D trong phim hoạt hình.</Vi>
+              <En>Computer graphics include 2D and 3D images in animated films.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,52 @@
+<Vocab id="36a05df9-83ec-4f00-a422-55394f170f56" word="term" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f70c9c1b-0c64-42bc-81e2-b8457020ddb7" ipa="/tɜːrm/" vi_ipa="téc-m">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cdbb37a9-a291-4b8e-96ec-600396579fb6" type="Noun">
+          <Vi>hạn; kỳ; điều khoản; thuật ngữ</Vi>
+          <En>A fixed period of time, especially one of a series of periods into which an organization or activity is divided; a word or phrase used to describe a thing or concept.</En>
+          <Example>She served a two-year term as president of the committee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a4878fb7-193a-453e-a697-2ce0d9328ee7">
+              <Vi>Thời gian phục vụ của một người trong một vị trí chính thức.</Vi>
+              <En>The duration someone holds a formal position or office.</En>
+            </Situation>
+            <Situation id="cb14f77a-d302-4e6c-ae47-9bf4904e2655">
+              <Vi>Từ chuyên môn được dùng trong một lĩnh vực cụ thể.</Vi>
+              <En>A technical or specialized word used in a particular field.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cddd60fb-348a-4f61-8505-fea9b438514c" type="Verb">
+          <Vi>gọi tên; đặt tên cho; diễn đạt bằng từ ngữ</Vi>
+          <En>To refer to something using a particular word or phrase.</En>
+          <Example>The report terms the situation “a humanitarian crisis.”</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3581bf78-c5ea-4a68-acba-8c4497121395">
+              <Vi>Dùng một từ cụ thể để mô tả một tình huống hoặc khái niệm.</Vi>
+              <En>To use a specific word to describe a situation or concept.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
