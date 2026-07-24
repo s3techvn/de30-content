@@ -818,4 +818,5 @@
   <Profession id="83f36d42-1ad6-4db2-bc52-1506de99c000" slug="tv-presenter" value="TV Presenter" />
   <Profession id="b391a853-f50d-464d-a29f-56095b4afbfe" slug="agricultural-specialist" value="Agricultural Specialist" />
   <Profession id="40371fd9-7acd-4507-a434-66d772c00bb8" slug="driller" value="Driller" />
+  <Profession id="95728d7e-8d25-42f7-ab7a-a40b23743615" slug="conservation-officer" value="Conservation Officer" />
 </Professions>

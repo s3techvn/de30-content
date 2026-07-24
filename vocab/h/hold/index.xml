@@ -1,0 +1,84 @@
+<Vocab id="e1c12c78-45a1-406b-8db7-f1303259edc5" word="hold" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" value="General Public" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e31c26a-653f-46bf-b084-6465dd39a8a0" ipa="/hoʊld/" vi_ipa="hao-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0df029ee-387a-4cc6-bac3-43763ee659ac" type="Verb">
+          <Vi>giữ, cầm, ôm</Vi>
+          <En>to keep in one’s hands or grasp; to carry or support with the hands</En>
+          <Example>She held the baby gently in her arms.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c18aae19-d56f-4dd2-bc7c-a5b4bf909188">
+              <Vi>Mô tả hành động dùng tay giữ một vật hoặc người.</Vi>
+              <En>Describes using hands to keep an object or person securely.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="378c9812-5b13-4563-9554-ba635329c0ba" type="Verb">
+          <Vi>giữ (một vị trí, chức vụ, chức danh)</Vi>
+          <En>to occupy or be in charge of a position, office, or role</En>
+          <Example>He held the position of CEO for five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e49799c6-bafa-4712-b0f8-b191a8c07766">
+              <Vi>Mô tả việc đảm nhiệm một chức vụ hoặc vai trò trong tổ chức.</Vi>
+              <En>Describes occupying a formal role or office in an organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c8653ef1-956f-4f38-9a71-b062bcc7a1f5" type="Verb">
+          <Vi>giữ (một ý kiến, quan điểm)</Vi>
+          <En>to maintain or adhere to a belief, opinion, or position</En>
+          <Example>They held the view that climate change is urgent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba022cce-b940-4acc-a5f9-766e3d83fb2f">
+              <Vi>Mô tả việc kiên định với một quan điểm hoặc lập trường.</Vi>
+              <En>Describes maintaining a firm stance on a belief or position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e0c0fce5-b5d1-4104-b657-237508bcca54" type="Verb">
+          <Vi>giữ (sự kiện, cuộc họp, buổi biểu diễn)</Vi>
+          <En>to organize or conduct an event, meeting, or performance</En>
+          <Example>The conference will be held in Hanoi next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="de67dd12-bc20-4a1e-87ec-4f1e94cdb17d">
+              <Vi>Mô tả việc tổ chức và diễn ra một sự kiện công cộng.</Vi>
+              <En>Describes organizing and conducting a public or formal event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1500d1bf-9e35-429b-88fa-e119ce83e9b1" type="Verb">
+          <Vi>giữ (một người, một vật) lại, không cho đi</Vi>
+          <En>to prevent someone or something from leaving or being released</En>
+          <Example>The customs officers held the package for inspection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1beee8f0-7a4a-403c-9f41-4a25b265df37">
+              <Vi>Mô tả việc tạm giữ hoặc ngăn cản một người/vật rời đi.</Vi>
+              <En>Describes temporarily detaining or delaying release of a person or item.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
