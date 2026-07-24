@@ -1,0 +1,37 @@
+<Vocab id="b3c53b8a-ded9-4893-a2a0-e0161df12b33" word="therefore" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="58678ed9-8386-4e32-86a0-7ad682772d36" value="Logic &amp; Reasoning" />
+    <Topic id="a37eac3c-5e22-419c-bf51-db77dc668a99" value="Business Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="85de898b-858a-4015-9150-874569d6247e" value="Academic / Researcher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd8b5d43-1364-4e43-a4a3-21ea9028b27e" ipa="/ˈðer.fər/" vi_ipa="đờ-rờ-phờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91f39243-f988-482a-b245-b3a2982a38f4" type="Adverb">
+          <Vi>Vì vậy, do đó</Vi>
+          <En>As a consequence; for that reason.</En>
+          <Example>The company’s profits dropped significantly last quarter; therefore, we are reviewing our cost structure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f396abcd-51d8-4165-b1ca-64e92b5d8853">
+              <Vi>Dùng để kết luận một ý dựa trên lập luận hoặc thông tin đã nêu trước đó.</Vi>
+              <En>Used to introduce a logical conclusion based on previously stated facts or reasoning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

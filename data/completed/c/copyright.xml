@@ -1,0 +1,56 @@
+<Vocab id="6cf08a9d-3b54-421b-a161-d6609aa951f4" word="copyright" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7c433bc8-e759-42b5-9431-a3bb859a145a" ipa="/ˈkɒp.iˌraɪt/" vi_ipa="cáp-pi-rai-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2c1cc36f-c091-4e13-91dc-b3c7624d30be" type="Noun">
+          <Vi>Quyền tác giả</Vi>
+          <En>The legal right of the originator or assignee of copyright to exclusive publication, production, or sale of literary, musical, or artistic work.</En>
+          <Example>The author registered the copyright for her novel before its release.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2c7e4bf3-764c-4fc3-ae66-f04688f9a973">
+              <Vi>Trường hợp một nhà xuất bản yêu cầu tác giả ký giấy phép bản quyền trước khi in sách.</Vi>
+              <En>A publisher asks an author to sign a copyright license agreement before printing the book.</En>
+            </Situation>
+            <Situation id="a3e4367f-7b90-426e-9e0d-f234f42666fb">
+              <Vi>Một người bị kiện vì đăng lại bài viết có bản quyền mà không xin phép.</Vi>
+              <En>Someone is sued for republishing a copyrighted article without permission.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4d97db3f-2a67-4f9b-b53a-c674ad674558" type="Verb">
+          <Vi>Bản quyền hóa; đăng ký bản quyền</Vi>
+          <En>To assert or register copyright for (a work), typically by marking it with the copyright symbol and year.</En>
+          <Example>The studio copyrighted the film before its international release.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1db97744-7f0f-4fc2-a09a-79f374bd5995">
+              <Vi>Nhà phát triển phần mềm bản quyền hóa mã nguồn trước khi phân phối.</Vi>
+              <En>The software developer copyrighted the source code before distribution.</En>
+            </Situation>
+            <Situation id="167c360c-1897-40d9-ad81-0c7547b1bab3">
+              <Vi>Một nghệ sĩ tự đăng ký bản quyền cho bài hát do chính cô ấy sáng tác.</Vi>
+              <En>An artist registers copyright for a song she wrote herself.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
