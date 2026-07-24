@@ -1,0 +1,52 @@
+<Vocab id="731d1c5d-cbf5-48b7-9e7b-26bc4f1c723c" word="penalty" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="99971b77-daf2-49e5-a7e1-0126d7b938cd" value="Referee" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="ec07a7d1-768d-425f-b10e-b9f86222f57c" value="Compliance Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b3f23fa5-dfdf-48c0-94c1-12934d483444" ipa="/ˈpen.əl.ti/" vi_ipa="pê-nơ-lơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="62c5dda2-bc51-4a10-956b-986b12d5246c" type="Noun">
+          <Vi>Hình phạt; trừng phạt</Vi>
+          <En>A punishment imposed for breaking a law, rule, or contract.</En>
+          <Example>The player received a yellow card as a penalty for fouling the opponent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f1b2e5da-9f2f-4d95-995a-4ed997524063">
+              <Vi>Trong thể thao, khi một cầu thủ vi phạm luật, trọng tài có thể ra lệnh phạt.</Vi>
+              <En>In sports, when a player violates the rules, the referee may impose a penalty.</En>
+            </Situation>
+            <Situation id="159145e3-3543-40fb-8dab-628e34c5a51c">
+              <Vi>Trong hợp đồng kinh doanh, vi phạm điều khoản có thể dẫn đến hình phạt tài chính.</Vi>
+              <En>In business contracts, breaching terms may result in financial penalties.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b73f0da6-7629-4c89-8e6b-9f9be9588a77" type="Noun">
+          <Vi>Hậu quả bất lợi; thiệt hại do bị phạt</Vi>
+          <En>A disadvantage or loss suffered as a result of a failure or mistake.</En>
+          <Example>There is a penalty for early withdrawal from the savings account.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90382a67-33bb-4747-918d-87b6a59dc49c">
+              <Vi>Trong tài chính, rút tiền sớm có thể bị tính phí hoặc mất lãi.</Vi>
+              <En>In finance, withdrawing funds early may incur a penalty fee or lost interest.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
