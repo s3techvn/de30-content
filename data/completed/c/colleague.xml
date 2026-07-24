@@ -1,0 +1,38 @@
+<Vocab id="60af3f37-baa1-4b6b-b002-8fa0c9d2902f" word="colleague" type="short" status="done">
+  <Topics>
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="768cbf93-d27f-45fa-a09b-605dba0cd735" ipa="/ˈkɒl.ɪɡ/" vi_ipa="cồ-lê-g">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8e9407f9-5df5-4513-aca0-db5edefe6d87" type="Noun">
+          <Vi>đồng nghiệp</Vi>
+          <En>A person with whom one works, especially in a profession or organization.</En>
+          <Example>She discussed the project with her colleague during the morning meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="86471d26-b5e4-4f13-8376-c99047980b15">
+              <Vi>Tình huống khi nói về người làm việc cùng bạn trong cùng công ty hoặc tổ chức.</Vi>
+              <En>Scenario when referring to someone who works with you in the same company or organization.</En>
+            </Situation>
+            <Situation id="85b27d51-5a0f-4bb6-8521-2ed2a6d568cd">
+              <Vi>Tình huống trao đổi chuyên môn với người cùng ngành nhưng không nhất thiết làm chung dự án.</Vi>
+              <En>Scenario of professional exchange with someone in the same field, even if not on the same project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
