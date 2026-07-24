@@ -1,0 +1,41 @@
+<Vocab id="76dc40eb-21ae-47f3-943e-0cc4e7a81fc3" word="handbook" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="aa945c95-d3b6-4183-9f69-46536818d752" value="Professional Development" />
+    <Topic id="a41c3a74-f637-4f3c-950d-461717ce50a6" value="Reference" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="56f114df-0bdf-43be-bcb0-4ee9c2a0838d" ipa="/ˈhæn.dʊb/" vi_ipa="hản-đúp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7fad5df-db3d-4d97-a9f1-0c884a3b6bb2" type="Noun">
+          <Vi>Sổ tay; hướng dẫn thủ công; tài liệu tham khảo dạng sổ nhỏ</Vi>
+          <En>A concise reference book providing practical information or instructions on a particular subject or task.</En>
+          <Example>The employee handbook outlines the company’s policies and procedures for staff.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69a3d1c1-b0a9-4404-87fc-cd05cdc866ce">
+              <Vi>Giáo viên sử dụng sổ tay hướng dẫn giảng dạy để chuẩn bị bài học.</Vi>
+              <En>A teacher uses a teaching handbook to prepare lesson plans.</En>
+            </Situation>
+            <Situation id="27d84df5-1359-42bd-9efa-cf4455e96afb">
+              <Vi>Sinh viên tham khảo sổ tay nghiên cứu trước khi bắt đầu dự án.</Vi>
+              <En>Students consult the research handbook before starting a project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
