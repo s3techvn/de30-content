@@ -1,0 +1,52 @@
+<Vocab id="f806bbec-7322-4b9f-8a92-615533a736d6" word="pace" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="df0bc4b1-cb52-4c02-8a77-27da611714dc" value="Movement" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="5deb4e8b-1970-433b-89ed-f7dc732af646" value="Runner" />
+    <Profession id="7d3b2690-b1bc-4a07-9a4c-ae5afd9949a7" value="Business Executive" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fa1473ac-3ff7-4298-addc-fc2fe1dfdb73" ipa="/peɪs/" vi_ipa="pê-xì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="05b4fad3-214e-4520-802f-e228810a5aa9" type="Noun">
+          <Vi>Tốc độ, nhịp độ; bước đi</Vi>
+          <En>The speed at which someone or something moves or develops; a step or stride taken while walking or running</En>
+          <Example>She adjusted her pace to match the group's.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac8eeb08-101a-46df-afd3-9cecaad69d24">
+              <Vi>Mô tả tốc độ di chuyển khi chạy bộ hoặc đi bộ.</Vi>
+              <En>Describing movement speed during running or walking.</En>
+            </Situation>
+            <Situation id="f7c94a4e-b628-4d41-98e8-a568fbc64acb">
+              <Vi>Chỉ nhịp độ phát triển của một quá trình hoặc dự án.</Vi>
+              <En>Refers to the development speed of a process or project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0000f023-92e9-4728-bb98-8e5bd3557bd7" type="Verb">
+          <Vi>Đi với bước dài đều; đi qua đi lại</Vi>
+          <En>To walk with long, regular steps, especially when nervous or thinking; to move back and forth in a particular area</En>
+          <Example>He paced the room while waiting for the results.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a90313b2-f39d-4a15-a2a9-bf4d51b8b485">
+              <Vi>Hành động đi đi lại lại do lo âu hoặc suy nghĩ.</Vi>
+              <En>Walking back and forth due to anxiety or deep thought.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

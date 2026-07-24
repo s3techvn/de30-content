@@ -834,4 +834,5 @@
   <Profession id="23d10efb-1d5f-44d7-af93-64353b0d719b" slug="food-inspector" value="Food Inspector" />
   <Profession id="8ef2720d-9e40-4c28-a1c9-4a522ad9aa01" slug="ui/ux-designer" value="UI/UX Designer" />
   <Profession id="da97e874-f343-48f1-87e9-e518361663ab" slug="system-architect" value="System Architect" />
+  <Profession id="5deb4e8b-1970-433b-89ed-f7dc732af646" slug="runner" value="Runner" />
 </Professions>
