@@ -1,0 +1,46 @@
+<Vocab id="11cabd76-6d81-4ad6-a939-0235f4430523" word="median" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+  </Topics>
+  <Professions>
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="c09ef771-e05d-423a-aacc-1ba04f703054" value="Statistician" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d8d81033-f653-4e87-a3bd-f4b0d9f40f48" ipa="/ˈmiː.di.ən/" vi_ipa="mi-di-an">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="46bc7530-bce5-4dfb-9828-0ee251b5639f" type="Adjective">
+          <Vi>trung vị; ở giữa, nằm ở trung tâm</Vi>
+          <En> situated in the middle; forming a median.</En>
+          <Example>The median strip of the highway separates opposing lanes of traffic.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cbfa7049-d9d7-42a7-9b81-8ca1e992340c">
+              <Vi>Mô tả vị trí nằm chính giữa, ví dụ như dải phân cách trên đường cao tốc.</Vi>
+              <En>Describes something positioned exactly in the center, such as a divider on a highway.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bbf550f7-01a8-4d38-aa2e-2aa3057a6a0a" type="Noun">
+          <Vi>giá trị trung vị (trong thống kê)</Vi>
+          <En>The middle value in a sorted list of numbers; half the numbers are greater, and half are smaller.</En>
+          <Example>The median income in the region is $52,000 per year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e9186241-fee8-4389-af9a-fbf3c6bb2a0e">
+              <Vi>Sử dụng khi phân tích dữ liệu định lượng để tìm giá trị trung tâm.</Vi>
+              <En>Used when analyzing numerical data to identify the central value, especially when outliers skew the mean.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
