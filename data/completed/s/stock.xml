@@ -1,0 +1,65 @@
+<Vocab id="58e1d488-d21e-481e-a01c-b830fed27298" word="stock" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+  </Topics>
+  <Professions>
+    <Profession id="919ef71a-486b-4536-8749-b95748837b8a" value="Trader" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8be922aa-ca40-49ab-820e-7f44154a8e3b" ipa="/stɑːk/" vi_ipa="s-tố-c">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f6bc6156-fe0f-4f33-a777-8a678654d353" type="Noun">
+          <Vi>hàng tồn kho; cổ phiếu; nước dùng</Vi>
+          <En>1. Goods or materials held for sale or use; 2. A share in a company; 3. A flavorful liquid base for soups and sauces</En>
+          <Example>The company reduced its stock of unsold electronics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0ed8c177-9378-4bbc-b09a-631b9f560feb">
+              <Vi>Kho hàng của công ty đang bị đầy ắp sản phẩm lỗi thời.</Vi>
+              <En>The company's warehouse is overflowing with outdated products.</En>
+            </Situation>
+            <Situation id="5e11b474-c2a6-430c-ae8a-44495f834913">
+              <Vi>Cô ấy đã mua 100 cổ phiếu của công ty công nghệ này.</Vi>
+              <En>She bought 100 shares of this tech company.</En>
+            </Situation>
+            <Situation id="feefb83a-92b4-449f-94e7-efa98535611d">
+              <Vi>Bếp trưởng dùng nước dùng gà làm nền cho món súp.</Vi>
+              <En>The chef used chicken stock as the base for the soup.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="083d6661-e8bc-4ee2-9122-c2d7904282c5" type="Verb">
+          <Vi>nhập hàng vào kho; niêm yết cổ phiếu; để sẵn</Vi>
+          <En>1. To keep goods in inventory; 2. To list a company’s shares for trading; 3. To have something available for immediate use</En>
+          <Example>The restaurant stocks fresh seafood daily.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1f9cfef2-32e0-42e7-bd05-1ff4fef5fa52">
+              <Vi>Cửa hàng sẽ nhập thêm hàng vào kho trước mùa lễ hội.</Vi>
+              <En>The store will restock inventory before the holiday season.</En>
+            </Situation>
+            <Situation id="93d1c623-5e5b-4cce-8ea5-cd31e1a8c959">
+              <Vi>Công ty dự kiến niêm yết cổ phiếu trên sàn chứng khoán vào tháng tới.</Vi>
+              <En>The company plans to stock its shares on the stock exchange next month.</En>
+            </Situation>
+            <Situation id="ea226e4e-8984-41e8-a5bd-9b80ec2be6e3">
+              <Vi>Máy tính luôn được để sẵn trong phòng họp.</Vi>
+              <En>Laptops are always stocked in the meeting room for impromptu presentations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

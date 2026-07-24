@@ -809,4 +809,5 @@
   <Profession id="c13f7650-78b2-42e9-9d82-034818c19142" slug="animal-caretaker" value="Animal Caretaker" />
   <Profession id="8908d133-558e-4cb6-a486-1914ec151b4c" slug="shipping-agent" value="Shipping Agent" />
   <Profession id="a677f932-6a02-4a43-ad2b-5d9d4f911aaf" slug="racing-driver" value="Racing Driver" />
+  <Profession id="919ef71a-486b-4536-8749-b95748837b8a" slug="trader" value="Trader" />
 </Professions>
