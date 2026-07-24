@@ -826,4 +826,5 @@
   <Profession id="014c18a8-be7d-402b-a226-bea155d335cb" slug="manufacturing-manager" value="Manufacturing Manager" />
   <Profession id="b61c3932-e090-4122-9e9d-93466ba02d11" slug="landlord" value="Landlord" />
   <Profession id="2095732e-8c8c-47f7-97c2-070692ac58cd" slug="tenant" value="Tenant" />
+  <Profession id="782a5123-a1a2-45a7-8f39-d2cb79a9d68a" slug="child-psychologist" value="Child Psychologist" />
 </Professions>
