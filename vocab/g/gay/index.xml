@@ -1,0 +1,39 @@
+<Vocab id="a521df66-b9fd-4a31-9f7c-079b644463c2" word="gay" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="407506e5-e97d-4acd-8ee1-b20f2a06a5e4" value="Identity &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3cedf908-f454-4eba-86c4-679b7905b192" ipa="/ɡeɪ/" vi_ipa="gây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1bab7169-d22f-4d92-9838-5326c11fe290" type="Adjective">
+          <Vi>đồng tính (chỉ người đồng tính nam); vui vẻ, hào hứng, rực rỡ</Vi>
+          <En>Of or relating to homosexual people, especially men; also, happy, lively, or cheerful (archaic or poetic usage)</En>
+          <Example>He came out as gay to his family last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d069961-ece4-47ca-880e-b02d5e8650a2">
+              <Vi>Mô tả người đồng tính nam trong bối cảnh hiện đại, tích cực.</Vi>
+              <En>Used in modern, respectful contexts to describe a man who is romantically or sexually attracted to other men.</En>
+            </Situation>
+            <Situation id="708cae9d-b5ac-4de7-ac17-8ffd83ba5bb6">
+              <Vi>Mô tả không khí vui tươi, rộn ràng (ngôn ngữ cổ hoặc văn chương).</Vi>
+              <En>Used in older or literary contexts to describe a cheerful, bright, or festive atmosphere (e.g., "a gay party").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
