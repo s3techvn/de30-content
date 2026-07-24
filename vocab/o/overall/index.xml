@@ -1,0 +1,46 @@
+<Vocab id="8ced5101-fcfa-481a-8402-a49395979137" word="overall" type="short" status="done">
+  <Topics>
+    <Topic id="18be0b06-e6c5-428f-bbbe-046d98733b41" value="General Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="e823449c-1d45-43b4-b266-c49316963ff3" value="Analyst" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b4a00074-4fb1-420a-a63d-30a12a6b1e1e" ipa="/ˌoʊvərˈɔːl/" vi_ipa="ao-vơ-rơ-ô-l">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5a30ed78-6030-46ef-aa65-96f4a2bb1696" type="Adjective">
+          <Vi>toàn bộ, tổng thể</Vi>
+          <En>including everything; complete or total in extent, degree, or amount.</En>
+          <Example>Overall, the project was a success despite some early setbacks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f99cbe8-d9bd-45e9-9aa9-eeffe8d9da32">
+              <Vi>Mô tả tổng quan về một tình huống, đánh giá toàn diện sau khi xem xét tất cả các yếu tố.</Vi>
+              <En>Used to summarize or evaluate a situation after considering all aspects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="86ee3d9a-fe78-4893-b629-a4eb6f3a28ed" type="Adverb">
+          <Vi>nhìn chung, về cơ bản</Vi>
+          <En>considering all factors or aspects; in general terms.</En>
+          <Example>The team performed well overall, though a few individuals struggled.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8f7dda2-840b-47d6-adb2-42fb77f3ac4e">
+              <Vi>Dùng để đưa ra nhận định khái quát sau khi phân tích chi tiết.</Vi>
+              <En>Used to make a general statement after examining details or exceptions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

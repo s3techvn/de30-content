@@ -1,0 +1,32 @@
+<Vocab id="8f8139c1-ea59-42e8-a10c-eed745b7ff13" word="resulting" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="aaaa65ce-02b2-400e-8ad6-78e625500d62" ipa="/rɪˈzʌl.tɪŋ/" vi_ipa="rị-zợt-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8ff0d18-90ac-401e-afd9-15604a81480a" type="Adjective">
+          <Vi>làm phát sinh, dẫn đến, kết quả của</Vi>
+          <En>Arising as a consequence; resulting from a particular cause or event.</En>
+          <Example>The policy change is resulting in significant cost savings for the company.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68d5e837-882c-4f7e-bc55-5ea3ee049e1e">
+              <Vi>Mô tả một hệ quả tự nhiên hoặc logic từ một hành động, sự kiện, hoặc điều kiện trước đó.</Vi>
+              <En>Describing a natural or logical consequence of a prior action, event, or condition.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
