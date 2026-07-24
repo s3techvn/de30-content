@@ -1,0 +1,40 @@
+<Vocab id="495786ed-d7ca-48b5-885c-89c49653ba28" word="adequate" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="20d7e877-4f6d-4f2f-b6c0-37c284de8349" ipa="/ˈæd.ə.qu.ət/" vi_ipa="át-đơ-cu-át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8067e050-7d9e-4cf2-b337-7f8032b8a8a8" type="Adjective">
+          <Vi>đủ, tương đối tốt, đáp ứng được yêu cầu tối thiểu</Vi>
+          <En>Sufficient for a specific need or purpose; acceptable but not excellent</En>
+          <Example>The hotel room was adequate for our short stay, though not luxurious.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5e8d800-495d-4de5-bc40-57051ad27a76">
+              <Vi>Mô tả điều kiện, chất lượng hoặc số lượng đáp ứng được yêu cầu cơ bản, nhưng không nổi bật.</Vi>
+              <En>Describing conditions, quality, or quantity that meets basic requirements but is not outstanding.</En>
+            </Situation>
+            <Situation id="502e2aa5-c9bf-476c-a63f-845f2a40ecd2">
+              <Vi>Dùng khi đánh giá mức độ phù hợp của nguồn lực (thời gian, tiền bạc, nhân lực).</Vi>
+              <En>Used when assessing the suitability of resources (time, money, personnel).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
