@@ -1,0 +1,48 @@
+<Vocab id="327283ca-41bf-4663-b2b0-dd5b33ae5e18" word="exterior" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="dff87925-d15b-4d34-b0e7-d5390d2be143" value="Construction Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c8e7b30-9d0a-4aaa-8faf-8b08e1679409" ipa="/ɪkˈstɪr.i.ər/" vi_ipa="ích-tờ-ri-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0f814e3-907b-477d-ba78-18e821f84017" type="Adjective">
+          <Vi>Ngoài trời; bên ngoài, thuộc về mặt ngoài</Vi>
+          <En>Being on the outside or surface of something; not interior.</En>
+          <Example>The exterior of the house was painted white.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd5458fb-2663-4244-9d53-1bd39e67fe78">
+              <Vi>Mô tả hình thức bên ngoài của một công trình, vật thể.</Vi>
+              <En>Describing the outer appearance or surface of a building or object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a1471352-8b99-4e8b-afd5-e8215b270578" type="Noun">
+          <Vi>Mặt ngoài; bề mặt bên ngoài</Vi>
+          <En>The outer surface or side of something, especially a building.</En>
+          <Example>The architect focused on the exterior design to improve curb appeal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c667a463-f2ef-4b3c-883b-32564806b214">
+              <Vi>Thảo luận về vật liệu, màu sơn, hoặc trạng thái của mặt ngoài công trình.</Vi>
+              <En>Discussing materials, paint, or condition of a building’s outer surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
