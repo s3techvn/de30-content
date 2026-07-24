@@ -1,0 +1,36 @@
+<Vocab id="ce22a73a-098d-4689-a2f0-b1030a42c0f1" word="lived" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e996a633-344e-4c20-bf12-56d0a027c013" ipa="/lɪvd/" vi_ipa="lích-vợt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e1afc17-954c-4cc6-8321-79ad531871e4" type="Verb">
+          <Vi>đã sống (quá khứ của live)</Vi>
+          <En>past tense and past participle of "live"; having spent time in a particular place or way.</En>
+          <Example>She lived in Hanoi for five years before moving to Da Nang.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5efe4c35-15c9-4ccd-a2ec-464e55a7e8a8">
+              <Vi>Mô tả việc ai đó từng sinh sống hoặc trải qua thời gian ở một nơi nào đó trong quá khứ.</Vi>
+              <En>Describes someone having resided or spent time in a particular place in the past.</En>
+            </Situation>
+            <Situation id="31f31d68-fbaa-423b-aea4-66f34a185f60">
+              <Vi>Dùng trong câu kể về trải nghiệm sống lâu dài hoặc ngắn hạn ở một địa điểm.</Vi>
+              <En>Used in narratives about long-term or short-term residence experiences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
