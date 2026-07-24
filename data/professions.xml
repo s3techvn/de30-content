@@ -803,4 +803,5 @@
   <Profession id="da0fde8b-e353-4d73-a300-3820394393e9" slug="podcaster" value="Podcaster" />
   <Profession id="83b1205d-d904-4d88-acd2-e7010d7e3a70" slug="road-worker" value="Road Worker" />
   <Profession id="09a27071-a4bb-4ac0-99a7-2c18c2e68ced" slug="bank-teller" value="Bank Teller" />
+  <Profession id="388b38ab-eb2c-4400-8e62-65c8c8da998c" slug="toy-manufacturer" value="Toy Manufacturer" />
 </Professions>

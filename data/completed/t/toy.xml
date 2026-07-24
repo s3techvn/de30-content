@@ -1,0 +1,56 @@
+<Vocab id="21b06275-4bfb-4d46-90e0-587c8c737786" word="toy" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5d6539f0-6343-4ff4-b3e2-2ca34d7290a3" value="Childhood" />
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="30c413e4-1035-4086-92a4-e31472d5b4c6" value="Childcare Worker" />
+    <Profession id="c32e9183-4034-4161-a5b5-03540b542203" value="Product Designer" />
+    <Profession id="388b38ab-eb2c-4400-8e62-65c8c8da998c" value="Toy Manufacturer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="04fa1839-ef51-4571-b4c9-7b794f62c6c7" ipa="/tɔɪ/" vi_ipa="tói">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="909ab562-b426-40a2-9875-1280eb04b49a" type="Noun">
+          <Vi>Đồ chơi</Vi>
+          <En>An object, typically a model or replica, that children play with.</En>
+          <Example>The child unwrapped the toy car and immediately started pushing it across the floor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a87a5058-2170-4b91-a4ee-a71447059194">
+              <Vi>Trẻ em mở quà sinh nhật và nhận được một con thú bông.</Vi>
+              <En>A child opens birthday presents and receives a stuffed animal.</En>
+            </Situation>
+            <Situation id="574911b1-8e6f-4bf0-b07f-fbf5028ffa01">
+              <Vi>Một người lớn sưu tầm đồ chơi cổ điển như robot hoặc mô hình xe hơi.</Vi>
+              <En>An adult collects vintage toys such as robots or model cars.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="12bf0cce-68e1-4c00-9454-fd2b23c986a9" type="Verb">
+          <Vi>Chơi đùa với; thử nghiệm một cách không nghiêm túc</Vi>
+          <En>To deal with something in a casual or experimental way, often without serious intent.</En>
+          <Example>She toyed with the idea of moving abroad but never actually made any plans.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a23e3e86-0973-477d-8f5f-0dd75e4c4662">
+              <Vi>Người dùng thử nghiệm tính năng mới trong ứng dụng mà chưa quyết định triển khai.</Vi>
+              <En>The user experiments with a new feature in an app but hasn’t decided whether to adopt it fully.</En>
+            </Situation>
+            <Situation id="bdb5b146-4fe9-4a84-8170-65d2d77929eb">
+              <Vi>Một nhà đầu tư cân nhắc ý tưởng kinh doanh mới nhưng chưa đầu tư thời gian hay tiền bạc.</Vi>
+              <En>An investor considers a new business idea but hasn’t committed time or money to it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
