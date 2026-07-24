@@ -1,0 +1,56 @@
+<Vocab id="161cc9f6-3fe9-48a7-847a-7112dbfdb362" word="trouble" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="b70cbf87-a84a-4773-aba2-b5df9bf74481" value="Problems &amp; Solutions" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b5f4aa7f-518e-4212-8bd7-7920f99e35bd" ipa="/ˈtrʌb.əl/" vi_ipa="tráp-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="988037c6-959f-4b13-b309-0f56b3e5f705" type="Noun">
+          <Vi>Nỗi lo âu; sự rắc rối; sự bất hòa</Vi>
+          <En>A cause of difficulty, distress, or annoyance; a problem or difficulty.</En>
+          <Example>She’s been having trouble with her car lately.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c5d50e89-ec15-4eb6-b650-d59dcb3cd96d">
+              <Vi>Mô tả tình huống khi ai đó đang gặp khó khăn hoặc lo lắng về một vấn đề cụ thể.</Vi>
+              <En>Describes a situation where someone is experiencing stress or difficulty due to a specific issue.</En>
+            </Situation>
+            <Situation id="57b56946-e815-495f-9be3-d1e097f346f6">
+              <Vi>Tình huống khi hai người có bất đồng hoặc xung đột.</Vi>
+              <En>A situation where two people are in conflict or disagreement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="08809390-d158-4f12-a9cd-eb9dca800f3a" type="Verb">
+          <Vi>Làm phiền; gây rắc rối; lo lắng về</Vi>
+          <En>To cause difficulty, distress, or annoyance to someone; to bother or worry someone.</En>
+          <Example>Don’t trouble yourself—I can do it myself.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69aa0177-a3d3-497e-8cab-88dbd5fe77ac">
+              <Vi>Khi ai đó không muốn làm phiền người khác dù họ có thể giúp.</Vi>
+              <En>When someone declines help to avoid inconveniencing another person.</En>
+            </Situation>
+            <Situation id="28fc11c7-6729-457b-ae44-ea0540a6ba7f">
+              <Vi>Mô tả hành vi gây ra rắc rối hoặc khó khăn cho người khác.</Vi>
+              <En>Describes an action that creates problems or discomfort for others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
