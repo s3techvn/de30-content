@@ -1,0 +1,46 @@
+<Vocab id="944976c0-c0a2-414a-91f6-b1f5116b381e" word="indonesian" type="short" status="done">
+  <Topics>
+    <Topic id="adca0931-53fb-4d0a-8c8b-7af7014e33a1" value="Geography &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" value="Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1dddc94d-a5f2-4b0a-9a2a-d3b90b0f0be1" ipa="/ˌɪn.doʊ.niːˈzeɪ.ən/" vi_ipa="in-đô-ni-ê-dân">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2fb429b3-a365-4927-b24d-e97016b73a0d" type="Adjective">
+          <Vi>thuộc về Indonesia, người hoặc điều gì liên quan đến Indonesia</Vi>
+          <En>Belonging to or associated with Indonesia, its people, language, or culture.</En>
+          <Example>The Indonesian archipelago consists of over 17,000 islands.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0431f54-7816-4f40-833c-b40a78bc8906">
+              <Vi>Mô tả đặc điểm văn hóa, con người, hoặc địa lý của Indonesia.</Vi>
+              <En>Used when describing cultural, demographic, or geographical aspects of Indonesia.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="299024a4-f090-4a1e-80bb-4cec463f45e3" type="Noun">
+          <Vi>người Indonesia</Vi>
+          <En>A native or citizen of Indonesia.</En>
+          <Example>Many Indonesian students study abroad each year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df5551eb-9e00-48de-8d63-4abab169a5e4">
+              <Vi>Chỉ một cá nhân có quốc tịch hoặc nguồn gốc từ Indonesia.</Vi>
+              <En>Refers to an individual who is a native or citizen of Indonesia.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
