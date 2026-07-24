@@ -1,0 +1,40 @@
+<Vocab id="7e616af7-eda9-433b-bc43-655d6b884ad3" word="advisor" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="97372295-c63f-4157-9771-45fee6976852" value="Academic Counselor" />
+    <Profession id="a49422aa-898e-4bbf-996b-1ccc8bbdf36b" value="Financial Planner" />
+    <Profession id="bc1e22c6-2d1b-4477-baf4-248ff3c9441c" value="Career Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="14bd8947-ff9f-4947-9b19-3a047158f921" ipa="/ədˈvaɪ.zər/" vi_ipa="a-dvai-zơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="012b16c5-dfe9-4454-99bc-d3c31fd61f46" type="Noun">
+          <Vi>người cố vấn</Vi>
+          <En>A person who gives advice, especially in a professional or official capacity.</En>
+          <Example>She met with her academic advisor to discuss her course schedule for next semester.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="294d88ad-51b7-4a1e-821d-f4b60a744279">
+              <Vi>Học sinh hoặc sinh viên trao đổi với người hướng dẫn học tập để lập kế hoạch học tập.</Vi>
+              <En>A student discusses academic plans with their assigned advisor.</En>
+            </Situation>
+            <Situation id="3c730d51-179a-4131-ba16-e3cb5dce9566">
+              <Vi>Nhà đầu tư tham khảo ý kiến từ cố vấn tài chính trước khi quyết định.</Vi>
+              <En>An investor consults with a financial advisor before making major decisions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
