@@ -1,0 +1,52 @@
+<Vocab id="e83a0a15-a6b9-403f-a42b-f53157e6cbc4" word="closed" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="812aa29c-85fb-4675-be93-76477fe20619" value="Office Manager" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e38d457d-9f59-4f47-96bf-ed7cfa2a7d8b" ipa="/kloʊzd/" vi_ipa="clo-dz">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b11197fd-dbe1-495a-9d76-a182f66eb188" type="Adjective">
+          <Vi>đóng kín; không mở</Vi>
+          <En>not open; having an opening or entrance that is shut or sealed.</En>
+          <Example>The shop is closed on Sundays.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="77413c81-1db8-4b75-8cc4-877ab92b03f1">
+              <Vi>Mô tả một cửa hàng, nhà, hoặc hộp không còn mở.</Vi>
+              <En>Describing a shop, house, or box that is not open.</En>
+            </Situation>
+            <Situation id="f44bf11d-fb90-41c7-bbf4-dfa3334cb374">
+              <Vi>Chỉ trạng thái không còn hoạt động (ví dụ: tài khoản, thị trường).</Vi>
+              <En>Referring to a state of no longer being active (e.g., account, market).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ce79110-d605-4794-b566-79aa8136948c" type="Adjective">
+          <Vi>khép kín; không cởi mở</Vi>
+          <En>not open to new ideas, opinions, or experiences; rigid or narrow-minded.</En>
+          <Example>He has a very closed mind about alternative medicine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="076283ad-77b9-45b6-8d7b-9c3acaecda9a">
+              <Vi>Mô tả một người không sẵn sàng tiếp nhận ý kiến mới.</Vi>
+              <En>Describing a person unwilling to accept new ideas or perspectives.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
