@@ -1,0 +1,41 @@
+<Vocab id="59d2d9e2-a080-4f8d-82f8-490f4c080cfa" word="county" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="428ba2f3-0dd5-4c96-b5a9-50ea9b328867" value="Law &amp; Administration" />
+  </Topics>
+  <Professions>
+    <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" value="Civil Servant" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d3993de7-3944-4652-aa3e-3243422f28e1" ipa="/ˈkaʊn.ti/" vi_ipa="cà-un-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e4853a77-c689-4af9-b5bd-7a01f4492359" type="Noun">
+          <Vi>Hạt (đơn vị hành chính cấp dưới tỉnh/quốc gia)</Vi>
+          <En>A administrative division of a state or country, typically governed by a local council and responsible for services such as education, public health, and law enforcement.</En>
+          <Example>The county board approved funding for the new community center.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8fcbc2f8-f48c-4dae-9ba0-db642fe3f0e8">
+              <Vi>Trong bối cảnh quản lý hành chính tại Mỹ, nơi các hạt (county) là đơn vị phân cấp dưới tiểu bang.</Vi>
+              <En>In the context of U.S. administrative governance, where counties are the sub-state administrative units.</En>
+            </Situation>
+            <Situation id="6d0ae8fe-7310-4807-a153-c0b34d586a38">
+              <Vi>Khi đề cập đến các dịch vụ công như cảnh sát, y tế công cộng, hoặc giáo dục cấp địa phương.</Vi>
+              <En>When referring to local public services such as police, public health, or education administered at the county level.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

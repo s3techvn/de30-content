@@ -867,4 +867,7 @@
   <Profession id="ea94551a-ef27-41b2-a40a-eaff7a6de717" slug="sports" value="Sports" />
   <Profession id="51c2f402-f5c6-4bca-bb43-93c6981608f5" slug="candle-maker" value="Candle Maker" />
   <Profession id="26eb791c-0b69-449e-a0a0-30ecbc7f81c0" slug="meat-processor" value="Meat Processor" />
+  <Profession id="51c790d3-d32e-4f2d-9084-b5ff4cf7167a" slug="wholesaler" value="Wholesaler" />
+  <Profession id="8bca5009-2334-4548-a039-321c8ef608af" slug="retailer" value="Retailer" />
+  <Profession id="f0e134df-b160-4d3b-9217-112766cea085" slug="import_export-specialist" value="Import-Export Specialist" />
 </Professions>
