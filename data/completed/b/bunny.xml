@@ -1,0 +1,37 @@
+<Vocab id="6959ab42-b928-4666-aab9-2b0e41efe093" word="bunny" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+  </Topics>
+  <Professions>
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="4327c24a-e459-48f9-96a4-4a22669a5d56" value="Pet Store Clerk" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3c2b8917-9dda-42f4-8c71-0367e2c34d30" ipa="/ˈbʌn.i/" vi_ipa="bơ-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="004c30bb-6399-4d85-8d86-15c77a071606" type="Noun">
+          <Vi>thỏ con; (thường dùng để gọi người yêu một cách thân mật)</Vi>
+          <En>a young rabbit; (informal) a term of endearment for a loved one</En>
+          <Example>She petted the bunny gently in the petting zoo.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61bb2e3b-8bca-4cca-8d25-30873bd0391f">
+              <Vi>Mô tả một con thỏ non đáng yêu trong vườn thú hoặc trong truyện tranh.</Vi>
+              <En>Describing a cute young rabbit in a zoo or cartoon.</En>
+            </Situation>
+            <Situation id="92ce22de-8cc6-444a-b377-c7715913c8c2">
+              <Vi>Dùng như cách xưng hô thân mật giữa các cặp đôi, đặc biệt trong văn hóa phương Tây.</Vi>
+              <En>Used as a term of endearment between romantic partners, especially in Western cultures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
