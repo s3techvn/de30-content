@@ -1,0 +1,57 @@
+<Vocab id="09c3c8ca-a8fe-4d3e-aaca-d824943fedab" word="counter" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="d2aa83ca-ecb8-4125-9c46-079f7e69159e" value="Retail" />
+  </Topics>
+  <Professions>
+    <Profession id="030aef0c-8f6c-4e2f-be0e-b6b22b81504c" value="Cashier" />
+    <Profession id="ee6c3918-377d-4f12-b8cd-982e3a605e2b" value="Waiter/Waitress" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7bd8bf6f-0dfa-48d8-a409-44ad0da2e615" ipa="/ˈkaʊn.tər/" vi_ipa="cà-un-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="be30e4a2-15f4-43a4-8203-e65952f8d19c" type="Noun">
+          <Vi>Bàn quầy, quầy tính tiền, quầy phục vụ</Vi>
+          <En>A long, flat-topped piece of furniture used for displaying goods or receiving payment in a shop, restaurant, or bank.</En>
+          <Example>The customer paid for the groceries at the counter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8951d7e-129b-4235-b269-0368817f75ee">
+              <Vi>Khách hàng thanh toán hóa đơn tại quầy thu ngân trong siêu thị.</Vi>
+              <En>A customer pays for items at the checkout counter in a supermarket.</En>
+            </Situation>
+            <Situation id="c6c49ec5-ff43-4a7f-998b-795960a50c44">
+              <Vi>Nhân viên pha chế đứng sau quầy để phục vụ đồ uống.</Vi>
+              <En>The bartender stands behind the counter to serve drinks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="490ceaab-1e58-4e88-be95-7389b3a86560" type="Verb">
+          <Vi>Đếm ngược, phản bác, đối lập</Vi>
+          <En>To count down (e.g., seconds before launch) or to present an argument or evidence that contradicts a claim or statement.</En>
+          <Example>The defense attorney countered the prosecution’s argument with new evidence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0228b462-e4c1-40a2-b23c-886f869d635a">
+              <Vi>Đếm ngược từ 10 đến 0 trước khi phóng tên lửa.</Vi>
+              <En>Count down from 10 to 0 before launching the rocket.</En>
+            </Situation>
+            <Situation id="27e93388-344f-435d-9462-727d9a55bf2a">
+              <Vi>Đưa ra lập luận phản bác lại một tuyên bố sai lệch.</Vi>
+              <En>To present a rebuttal that challenges a misleading claim.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

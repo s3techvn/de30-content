@@ -1,0 +1,56 @@
+<Vocab id="02fb498f-cd93-4ef8-beb9-b41ed079e55d" word="scope" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="78a74bab-4194-4458-a50e-36624defc46a" value="Research" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ca311ea4-0f8d-4140-941a-f63e52107a57" ipa="/skoʊp/" vi_ipa="s-cốp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="355131c6-b5f2-448b-8017-7e10314fa483" type="Noun">
+          <Vi>Phạm vi; tầm ảnh hưởng; phạm vi hoạt động</Vi>
+          <En>The extent of something's influence, application, or relevance; the range of subjects or activities covered by a particular instruction, field, or operation.</En>
+          <Example>The scope of the project includes market research, product design, and user testing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="497f0fca-bb7c-4cec-b5a4-327f1f5218bb">
+              <Vi>Trong lập kế hoạch dự án, xác định rõ phạm vi công việc để tránh làm thêm ngoài yêu cầu.</Vi>
+              <En>In project planning, clearly defining the scope to avoid scope creep and unnecessary work.</En>
+            </Situation>
+            <Situation id="7ee78f7b-fea1-4b82-99fc-4002190b2288">
+              <Vi>Bài luận có phạm vi quá rộng và cần được thu hẹp lại.</Vi>
+              <En>The essay has too broad a scope and needs to be narrowed down.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="17d53006-93e4-45e5-8b69-8b5634afcfde" type="Verb">
+          <Vi>Xác định phạm vi; quét (mắt); xem xét kỹ lưỡng</Vi>
+          <En>To examine or survey (an area or subject) thoroughly; to determine the extent or range of something.</En>
+          <Example>The committee will scope the needs of the community before drafting the proposal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc5325a8-c62e-46ce-a4b7-0d49cd1207c8">
+              <Vi>Trước khi bắt đầu nghiên cứu, chúng tôi cần quét sơ bộ các nguồn dữ liệu khả dụng.</Vi>
+              <En>Before starting the research, we need to scope the available data sources.</En>
+            </Situation>
+            <Situation id="81722800-a36f-431b-8116-5ed5ed658eb4">
+              <Vi>Giám đốc dự án đang quét toàn bộ khu vực để đánh giá rủi ro.</Vi>
+              <En>The project manager is scoping the entire area to assess risks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
