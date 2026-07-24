@@ -1,0 +1,40 @@
+<Vocab id="e281bb31-f0e0-4a05-860b-6dee4c29fc67" word="promotion" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="80a36168-6dbd-4d6a-bce4-07f238b8b641" value="Marketing" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+  </Topics>
+  <Professions>
+    <Profession id="2a0f8ef5-fae8-4b0b-b218-9966c324bd95" value="Marketing Manager" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e946267-0e7c-44b6-b929-d09ac02af040" ipa="/prəˈmoʊ.ʃən/" vi_ipa="prơ-mô-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="afbb065d-41fe-46d5-bf09-88db65563c1f" type="Noun">
+          <Vi>Sự thăng chức; sự quảng bá; khuyến mãi</Vi>
+          <En>The action of promoting someone to a higher position or rank; or the action of supporting the progress of a product, service, or idea through advertising or other activities.</En>
+          <Example>She received a promotion after leading the successful product launch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5680c67-cb6d-43ba-ae17-7e0630701bb2">
+              <Vi>Người lao động được thăng lên vị trí cao hơn trong công ty.</Vi>
+              <En>An employee is promoted to a senior management role within the company.</En>
+            </Situation>
+            <Situation id="c735f704-88ad-4abb-96f5-ab2894344c52">
+              <Vi>Công ty tổ chức chương trình khuyến mãi giảm giá để quảng bá sản phẩm mới.</Vi>
+              <En>The company ran a limited-time discount promotion to boost sales of the new smartphone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

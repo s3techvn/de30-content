@@ -1,0 +1,39 @@
+<Vocab id="403e28ff-bef8-4ee9-b2dc-d4a1825c6422" word="explaining" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b86ce02e-ea0d-448f-8a93-a9f25e5ad6ba" ipa="/ɪkˈspleɪ.nɪŋ/" vi_ipa="ích-xplei-níng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b65d7a7d-7a40-4d0c-9b4b-842f84a0a006" type="Verb">
+          <Vi>giải thích, trình bày rõ ràng</Vi>
+          <En>to make something clear or easy to understand, especially by giving reasons or details</En>
+          <Example>She spent ten minutes explaining the rules of the game to the new players.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ce9d0ef-20ab-4323-ba7d-696ca19474af">
+              <Vi>Giáo viên giải thích một khái niệm khó cho học sinh.</Vi>
+              <En>A teacher clarifies a difficult concept for students.</En>
+            </Situation>
+            <Situation id="83b70ead-f490-45a0-87b3-c43140ecd44a">
+              <Vi>Người hướng dẫn trình bày quy trình an toàn trước khi bắt đầu thí nghiệm.</Vi>
+              <En>A trainer outlines safety procedures before starting an experiment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
