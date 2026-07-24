@@ -1,0 +1,41 @@
+<Vocab id="4e488bd5-034c-4315-9cd7-a8d0f1f55dc7" word="negotiation" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="845058ea-b08e-4ff3-a525-f1443f822d2a" value="Diplomacy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="c16e1055-f5d1-48ce-a66e-06538da47b09" value="Business Manager" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7547bb00-2f58-4476-89f9-b2277fed331e" ipa="/nɪˌɡoʊʃiˈeɪʃn/" vi_ipa="ni-gô-si-ê-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff903e34-b3b5-46cf-b8d5-f8fd8baadc07" type="Noun">
+          <Vi>Quá trình đàm phán; sự thương lượng</Vi>
+          <En>The process of reaching an agreement through discussion between two or more parties, typically to resolve a dispute or finalize terms.</En>
+          <Example>The negotiation between the two companies took several weeks to complete.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26f1fb92-4963-4f38-9487-47dfed8be4f0">
+              <Vi>Đàm phán hợp đồng lao động giữa người lao động và quản lý.</Vi>
+              <En>Discussing and agreeing on salary, benefits, and working conditions in a labor contract.</En>
+            </Situation>
+            <Situation id="022aa682-b114-4eb5-b41c-a98c9a1d76ce">
+              <Vi>Đàm phán hòa bình giữa hai quốc gia sau xung đột.</Vi>
+              <En>Engaging in peace talks to end hostilities between two countries after a conflict.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

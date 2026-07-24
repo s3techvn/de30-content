@@ -1,0 +1,37 @@
+<Vocab id="1f524d5f-c4fd-40be-9c12-0308fb8e143a" word="elliott" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8feea938-6e1d-4ce6-ac55-34f5e4ab485a" ipa="/ˈɛl.i.ət/" vi_ipa="en-li-ốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6cda2254-a6fc-49ef-8ddb-799e73beb23d" type="Proper Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là họ (ví dụ: Paul Elliott, J.J. Abrams từng đạo diễn phim có nhân vật tên Elliott).</Vi>
+          <En>A surname or given name, commonly used as a surname (e.g., Paul Elliott; also used in pop culture, such as the character Elliott in *E.T. the Extra-Terrestrial*).</En>
+          <Example> Elliott, the young boy in *E.T. the Extra-Terrestrial*, befriends the alien.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6fd4b2b8-4934-4e6e-8f56-000767d6a3b8">
+              <Vi>Trong bối cảnh giới thiệu nhân vật điện ảnh, phim ảnh, hoặc khi nói về người nổi tiếng mang tên này.</Vi>
+              <En>When referring to characters in film (e.g., *E.T.*) or real people with the surname Elliott.</En>
+            </Situation>
+            <Situation id="8232d408-9374-4f57-b7f4-bd1d401ae5a9">
+              <Vi>Khi nói về nguồn gốc tên tiếng Anh, thường xuất phát từ tên riêng Elijah hoặc như một biến thể của Eliot.</Vi>
+              <En>When discussing the origin of the English surname, often derived from Elijah or as a variant of Eliot.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
