@@ -1,0 +1,86 @@
+<Vocab id="e01cdb48-a877-48bb-9292-0fb3b48e622a" word="vault" type="short" status="done">
+  <Topics>
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="da8b0bae-a7a3-4dc0-a1ae-c3934efef5f3" value="Gymnast" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="33fe0c86-3419-4834-87e6-e54ff67a2b65" ipa="/vɔːlt/" vi_ipa="von-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="92dbbc3c-7484-49ae-9e24-494f247f8223" type="Noun">
+          <Vi>Kho tiền, hầm chứa, phòng an toàn</Vi>
+          <En>A secure room, typically underground, used for storing valuables, especially in a bank.</En>
+          <Example>The bank’s vault is reinforced with steel walls and a combination lock.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="19bd8e52-93c2-4993-8cfe-e4d7d519dc93">
+              <Vi>Ngân hàng giữ tiền mặt và tài sản quý trong phòng an toàn.</Vi>
+              <En>Financial institutions store cash and valuable items in a vault for security.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ce25998e-2084-4631-ad25-729f2e0ec0a0" type="Noun">
+          <Vi>Nhà thờ có trần cong (kiến trúc)</Vi>
+          <En>An arched ceiling or roof, especially one constructed of stone or concrete in a semicircular or pointed shape.</En>
+          <Example>The cathedral’s vaulted ceiling rises over 100 feet into the air.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a81a7773-30af-43ed-af85-b44168715d03">
+              <Vi>Những nhà thờ cổ thường có trần cong bằng đá.</Vi>
+              <En>Medieval churches often feature stone vaults to support heavy roofs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ae34e95f-85d2-4304-aac6-a5a986c05953" type="Noun">
+          <Vi>Vòng cung (trong thể thao)</Vi>
+          <En>A curved movement or position, especially in gymnastics or diving, where the body is bent forward with the head down.</En>
+          <Example>The gymnast executed a perfect vault, tucking into a tight vault position.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7151dffb-2bfc-4888-82a0-a4a4b3d65542">
+              <Vi>Vận động viên thể dục dụng cụ thực hiện động tác vòng cung khi nhảy ngựa.</Vi>
+              <En>In gymnastics, a vault involves a powerful jump over a horizontal bar with a tucked or piked body position.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e97be23e-c56b-4c39-8a66-e5fa32aea0e6" type="Verb">
+          <Vi>Đưa vào kho tiền, cất giữ an toàn</Vi>
+          <En>To place something, especially money or valuables, in a vault for safekeeping.</En>
+          <Example>The company vaulted its assets offshore to protect them from legal claims.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c343d34d-76dc-4bfb-86f1-6c501c9498fb">
+              <Vi>Sau khi nhận tiền thưởng, anh ấy đã gửi vào kho tiền của ngân hàng.</Vi>
+              <En>After receiving the prize, he decided to vault the funds into the bank’s vault.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="39d3b75a-6345-4c23-bf34-320126a7bf5a" type="Verb">
+          <Vi>Nhảy vọt, nhảy qua (vật cản)</Vi>
+          <En>To jump or leap over something, especially using the legs for propulsion.</En>
+          <Example>The athlete vaulted the low fence with ease.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df96ac83-776f-42c6-9164-71af2b35e3e3">
+              <Vi>Cô ấy nhảy vọt qua hàng rào để trốn khỏi đám đông.</Vi>
+              <En>She vaulted the fence to escape the crowd during the emergency.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
