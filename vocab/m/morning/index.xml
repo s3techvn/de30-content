@@ -1,0 +1,46 @@
+<Vocab id="45d3b92b-1169-4841-969e-5fe4cc42b0ed" word="morning" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e75e5e7-8e02-4b42-90c5-e2a88de7d943" ipa="/ˈmɔːr.nɪŋ/" vi_ipa="mờ-nin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a1198cd9-a32f-4fc4-8272-ef8c5bb700da" type="Noun">
+          <Vi>buổi sáng</Vi>
+          <En>The time from sunrise to noon; the early part of the day.</En>
+          <Example>She always drinks coffee right after waking up in the morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4e088e4e-06eb-44c7-a9d5-7b99e17692b7">
+              <Vi>Mô tả thời gian từ khi mặt trời mọc đến trước trưa.</Vi>
+              <En>Describes the period from sunrise until noon.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0edc6e28-a760-453c-a48f-9a628068e513" type="Noun">
+          <Vi>buổi sáng đầu tiên (sau một sự kiện tiêu cực)</Vi>
+          <En>The first day or period after a difficult event, often used metaphorically.</En>
+          <Example>It was a dark morning after the storm of bad news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="74ab5b73-13bc-4fe3-8c04-1a524e924bd4">
+              <Vi>Dùng ẩn dụ để chỉ thời điểm khởi đầu sau một biến cố khó khăn.</Vi>
+              <En>Used metaphorically to describe the beginning of a recovery or new phase after hardship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
