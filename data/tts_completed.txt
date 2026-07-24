@@ -2254,3 +2254,4 @@ japanese
 brazil
 extra
 taylor
+chemistry
