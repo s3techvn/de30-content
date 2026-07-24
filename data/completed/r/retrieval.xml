@@ -1,0 +1,40 @@
+<Vocab id="100558fb-1520-4859-858b-512c6384d3c2" word="retrieval" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f3db0df5-945d-4684-b108-be70179e698b" ipa="/rɪˈtriː.vəl/" vi_ipa="rị-trờ-vờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bef7afb5-a0a0-45ee-a8f3-0f2bdb82748f" type="Noun">
+          <Vi>Việc truy xuất, khôi phục (dữ liệu, thông tin, vật thể)</Vi>
+          <En>The action or process of retrieving something, especially data, information, or an object from storage, memory, or a remote location.</En>
+          <Example>The retrieval of the deleted file took only a few seconds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ac16f65-15e3-440d-80d3-eac1363d462b">
+              <Vi>Người dùng yêu cầu khôi phục email đã xóa khỏi máy chủ.</Vi>
+              <En>A user requests the recovery of a deleted email from the server.</En>
+            </Situation>
+            <Situation id="a226b9b7-e6d2-48da-8ed3-c3402b59c219">
+              <Vi>Chính quyền thực hiện việc truy xuất thi thể nạn nhân sau thiên tai.</Vi>
+              <En>Authorities conduct the recovery of victims' remains after a natural disaster.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
