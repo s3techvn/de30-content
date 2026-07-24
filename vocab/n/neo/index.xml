@@ -1,0 +1,40 @@
+<Vocab id="710ccebe-fff3-469f-b826-0296b6363fe5" word="neo" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="bf94e646-74df-48a5-a4ca-6a07f0e70468" value="Science Fiction" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f7fbee4d-bb78-4bae-80ed-ad1f9c8acd24" value="Film Critic" />
+    <Profession id="6e204742-e3d8-466d-b077-18e22665623a" value="Science Fiction Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d48222f8-d0b5-49a6-8a06-a432723ac47f" ipa="/ˈniː.oʊ/" vi_ipa="ni-ô">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="826afee7-eb10-43ef-b44f-dc4481b16265" type="Prefix">
+          <Vi>tiền tố, có nghĩa là "mới", "hiện đại", "phục hưng", thường dùng trong các từ ghép để chỉ sự tái sinh hoặc cải tiến theo phong cách cũ nhưng với yếu tố hiện đại</Vi>
+          <En>a prefix meaning "new", "modern", or "revival", used in compound words to indicate a renewed or modernized version of something (e.g., neoclassical, neonatal)</En>
+          <Example>Neonatal care focuses on the medical needs of newborn infants.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="26ac8ee5-389c-40ed-83b2-3af75a63384c">
+              <Vi>Sử dụng khi mô tả các phong cách nghệ thuật, kiến trúc, hoặc công nghệ được phục hưng hoặc cải tiến từ quá khứ.</Vi>
+              <En>Used when describing artistic, architectural, or technological styles that revive or reinterpret earlier forms in a modern context.</En>
+            </Situation>
+            <Situation id="38edf65c-1857-4eca-936d-3b4b5cf5d1f1">
+              <Vi>Xuất hiện trong các thuật ngữ y khoa như "neonatal" (liên quan đến trẻ sơ sinh).</Vi>
+              <En>Appears in medical terms such as "neonatal" (relating to newborns).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
