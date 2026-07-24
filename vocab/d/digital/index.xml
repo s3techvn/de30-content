@@ -1,0 +1,38 @@
+<Vocab id="a9da9f12-103c-4252-a0da-0dd3478d0aec" word="digital" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="67d8fcc9-5491-4ec2-860e-ecafe4e6be8a" ipa="/ˈdɪdʒ.ɪ.təl/" vi_ipa="đít-gít-tờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d6114612-d53e-42ec-b657-fa355a10afab" type="Adjective">
+          <Vi>thuộc về kỹ thuật số; số</Vi>
+          <En>relating to information that is stored or processed in binary form, especially by computers</En>
+          <Example>The company is undergoing a digital transformation to improve customer experience.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="65c6bdeb-60e5-42b2-b136-3a8d6e1f9150">
+              <Vi>Mô tả các thiết bị, hệ thống, hoặc nội dung sử dụng công nghệ số (0 và 1) thay vì tín hiệu tương tự.</Vi>
+              <En>Describing devices, systems, or content that use digital technology (binary code) instead of analog signals.</En>
+            </Situation>
+            <Situation id="a3f81e36-0a7b-43df-8103-432ebfe87a5d">
+              <Vi>Liên quan đến hoạt động trực tuyến như mua sắm, học tập, hoặc giải trí qua internet.</Vi>
+              <En>Relating to online activities such as shopping, learning, or entertainment via the internet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
