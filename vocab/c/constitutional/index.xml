@@ -1,0 +1,46 @@
+<Vocab id="1383ca79-55f6-47ff-9b24-4e7b1418eea0" word="constitutional" type="short" status="done">
+  <Topics>
+    <Topic id="a7fb9478-e657-478f-9ed8-2f4f15e8ffe7" value="Law &amp; Government" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="0c642d25-fdaa-469f-8e39-090e8bf818bc" value="Constitutional Scholar" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d41bcb21-8dbc-41c1-a374-be03394e6924" ipa="/ˌkɒn.stɪˈtjuː.ʃən.əl/" vi_ipa="côn-đờ-ni-tu-xi-ô-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb7eb8e2-98bd-4efc-a77f-e4989d933c19" type="Adjective">
+          <Vi>thuộc về hiến pháp; hợp hiến</Vi>
+          <En>relating to the constitution of a country, especially the principles and fundamental laws that govern it</En>
+          <Example>The Supreme Court ruled the law unconstitutional.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af4fa4d0-20c3-4eea-85ee-28c20231e8e8">
+              <Vi>Liên quan đến việc phân tích hoặc đánh giá tính hợp hiến của một đạo luật hoặc hành động.</Vi>
+              <En>Used when discussing whether a law, policy, or action complies with constitutional principles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f75de05b-6d0a-433a-9c07-2d5d43c733e0" type="Adjective">
+          <Vi>(thường nói về đi bộ) có lợi cho sức khỏe; tốt cho sức khỏe</Vi>
+          <En>beneficial to one's health, especially referring to a short walk taken for relaxation or exercise</En>
+          <Example>She enjoys a constitutional walk in the park every morning.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="0550cf8e-371b-4a2f-a184-30a8e13e78cc">
+              <Vi>Cách nói cũ, thường gặp trong tiếng Anh Anh thế kỷ 18–19, để chỉ việc đi bộ thư giãn.</Vi>
+              <En>An archaic or literary expression, mostly found in 18th–19th century British English, meaning a short walk taken for health or relaxation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
