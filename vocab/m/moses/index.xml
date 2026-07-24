@@ -1,0 +1,32 @@
+<Vocab id="e97c7f49-8862-4be5-8138-039863e18809" word="moses" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="83211bf5-40d2-4ccf-9857-03fca99db360" ipa="/ˈmoʊ.zɪz/" vi_ipa="mô-dzít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b4344afb-0c44-4245-b657-cfa4f434c54f" type="Noun">
+          <Vi>Ông Mo-se, vị tiên tri và lãnh đạo dân Israel trong Kinh Thánh Cựu Ước</Vi>
+          <En>the biblical prophet and leader who, according to the Old Testament, led the Israelites out of slavery in Egypt</En>
+          <Example>Moses received the Ten Commandments on Mount Sinai.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee882664-2b99-46bf-88bc-fc1aa86249ca">
+              <Vi>Ngữ cảnh nói về tôn giáo, Kinh Thánh, hoặc lịch sử dân Do Thái</Vi>
+              <En>Contexts involving religion, the Bible, or the history of the Israelites</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

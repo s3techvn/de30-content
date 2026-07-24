@@ -1,0 +1,52 @@
+<Vocab id="00f28864-257e-4ccb-8a0a-4f55be0ac1a6" word="stainless" type="short" status="done">
+  <Topics>
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="3b2916a2-6125-4c91-b265-81d3bb9f1ed6" value="Household Items" />
+    <Topic id="2cc98494-e91b-4d26-9e50-e77a8ea7f741" value="Cooking &amp; Dining" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="108dbfd8-c890-4c3d-a8a7-e90a70bc8f33" ipa="/ˈsteɪn.ləs/" vi_ipa="s-tê-in-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0605c433-7ebe-49da-815a-3eaec1b6a8af" type="Adjective">
+          <Vi>không gỉ; không bị ố (nói về kim loại, đặc biệt là thép không gỉ)</Vi>
+          <En>resistant to staining and rusting, especially referring to steel alloys containing chromium</En>
+          <Example>Stainless steel cutlery is durable and easy to clean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42b21d14-ae24-4cb7-aee6-34571892f2d8">
+              <Vi>Mô tả dụng cụ nhà bếp, tay vịn, hoặc vật liệu xây dựng không bị ăn mòn hay bám bẩn.</Vi>
+              <En>Describing kitchen tools, handrails, or construction materials that resist corrosion and surface stains.</En>
+            </Situation>
+            <Situation id="1db83435-a4ed-438b-b43a-b6974fe75080">
+              <Vi>Nói về đồ dùng y tế hoặc thiết bị phòng thí nghiệm yêu cầu độ sạch và bền cao.</Vi>
+              <En>Referring to medical instruments or lab equipment requiring high hygiene and corrosion resistance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bf0a5724-6388-48b4-80e6-e1c560d8e8ba" type="Adjective">
+          <Vi>không tì vết; hoàn hảo (nghĩa bóng, ít dùng)</Vi>
+          <En>flawless or impeccable (figurative, less common)</En>
+          <Example>She has a stainless reputation in the community.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="ce9ba18c-7d42-42c6-ad8d-7ed1fb9349fb">
+              <Vi>Dùng trong văn chương cổ để ca ngợi phẩm chất đạo đức cao quý.</Vi>
+              <En>Used in literary or formal contexts to praise moral integrity and spotless character.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
