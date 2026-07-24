@@ -1,0 +1,60 @@
+<Vocab id="427fa26c-4c99-4a28-acd1-2d676c4e00c2" word="allow" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="daad041f-f9ed-4c81-9ffd-7120fd9fb8cc" value="Law &amp; Rights" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba3d85bf-6a7b-41a2-91dd-1bf19a79feac" ipa="/əˈlaʊ/" vi_ipa="ơ-là-u">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d785a02a-048e-4301-bb2d-9f10bdd7187f" type="Verb">
+          <Vi>cho phép, cho phép làm gì</Vi>
+          <En>to permit or let someone do something; to make something possible or acceptable</En>
+          <Example>Parents should allow children to make their own decisions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e17cec9-991f-4806-a5d9-c3dae99d1e0a">
+              <Vi>Người có quyền ra lệnh hoặc quyết định đồng ý để người khác thực hiện hành động.</Vi>
+              <En>A person in authority agrees to let someone else take an action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e2d1377c-530e-49d9-8a6c-b8c214354056" type="Verb">
+          <Vi>đưa ra, tính toán (giá cả, chi phí, v.v.)</Vi>
+          <En>to consider or include something as a possibility or factor (e.g., in calculations or planning)</En>
+          <Example>We must allow for delays due to bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6d108ce8-f22f-4350-b9fd-336737cf8a09">
+              <Vi>Chấp nhận và tính đến yếu tố có thể xảy ra khi lập kế hoạch hoặc ước tính.</Vi>
+              <En>Accepting and factoring in something that might happen during planning or estimation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="307a60ad-5b3a-485b-9923-ce785621321f" type="Verb">
+          <Vi>cho phép bản thân cảm thấy, trải nghiệm, hoặc làm điều gì</Vi>
+          <En>to let oneself feel, experience, or do something</En>
+          <Example>She allowed herself a small treat after finishing the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87bdc799-8195-4ace-99b6-36bbacf83154">
+              <Vi>Tự đồng ý cho bản thân hưởng điều gì đó, dù có thể là điều nhỏ.</Vi>
+              <En>Permitting oneself to enjoy or experience something, even if minor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

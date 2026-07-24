@@ -1,0 +1,56 @@
+<Vocab id="a352fa8e-1b40-496a-b8f1-5360127a2b69" word="differential" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="b907fe1f-349b-40f5-803a-763c8744f661" value="Automotive" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="51ad6b50-6161-4e73-a7b6-c29a449a6795" value="Mechanical Technician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee2bbe74-ec81-436e-ac0d-235f77d67f31" ipa="/ˌdɪf.əˈren.ʃəl/" vi_ipa="đi-phờ-ren-xờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c9f92939-46b9-4725-b633-07827c30f1f0" type="Adjective">
+          <Vi>vi phân; khác biệt, phân biệt</Vi>
+          <En>relating to or involving a difference or distinction; used in mathematics to denote a derivative or infinitesimal change</En>
+          <Example>The differential equation models how the population changes over time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e0f3e7e-5cdc-4ded-9e7b-d67c765e7054">
+              <Vi>Mô tả các khái niệm toán học liên quan đến đạo hàm hoặc thay đổi vô cùng nhỏ.</Vi>
+              <En>Used in calculus and differential equations to describe rates of change.</En>
+            </Situation>
+            <Situation id="63f67433-9bc1-4bb3-bad9-c797bf78bb6d">
+              <Vi>Chỉ sự khác biệt giữa hai hoặc nhiều điều gì đó.</Vi>
+              <En>Used to highlight a distinguishing feature or gap between two things.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="363610cb-3173-4688-ae80-35c324beac5a" type="Noun">
+          <Vi>vi phân; bộ vi phân (trong xe ô tô)</Vi>
+          <En>a result of differentiation; in mechanics, a gear system that allows wheels to rotate at different speeds while turning</En>
+          <Example>The car’s differential made smooth cornering possible even on slippery roads.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93747d1f-f83d-41e6-b92e-8d19bdc98fc9">
+              <Vi>Trong toán học, dùng để chỉ biểu thức hoặc lượng vô cùng nhỏ trong phép tính vi phân.</Vi>
+              <En>In calculus, the infinitesimal change in a variable, denoted as dx or dy.</En>
+            </Situation>
+            <Situation id="cae5ab12-d9b0-452e-8147-1dfc5a1cdb9a">
+              <Vi>Trong kỹ thuật ô tô, bộ phận cho phép hai bánh xe trên cùng một trục quay với tốc độ khác nhau khi vào cua.</Vi>
+              <En>A mechanical device in a vehicle’s drivetrain that transmits engine power to the wheels while allowing them to rotate at different speeds.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
