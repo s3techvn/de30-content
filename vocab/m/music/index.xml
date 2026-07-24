@@ -1,0 +1,39 @@
+<Vocab id="c2980da5-0d08-4909-a973-73afa45ee5ed" word="music" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+    <Profession id="36a7e449-00e6-4263-a487-dac244257ffd" value="Singer" />
+    <Profession id="e1a7fc5e-b725-4d97-bbfd-80655491acb5" value="Music Producer" />
+    <Profession id="310378f4-4f76-4520-b112-4fc97c2cbd9a" value="Music Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8f9e54d5-7e34-456f-adff-14eba4a681c6" ipa="/ˈmjuː.zɪk/" vi_ipa="mju-zi-c">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1f95fb3a-b124-4050-8c0f-72e216416e1d" type="Noun">
+          <Vi>Âm nhạc</Vi>
+          <En>The art of combining vocal or instrumental sounds (or both) to produce beauty of form, harmony, and expression of emotion.</En>
+          <Example>She has been studying music since she was five years old.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e78b0045-5dfd-4137-94bf-530ab6ea256a">
+              <Vi>Một thể loại hoặc tác phẩm âm nhạc cụ thể.</Vi>
+              <En>A specific genre or musical composition.</En>
+            </Situation>
+            <Situation id="2c333f4d-bf01-4098-bcd4-8117e05613dd">
+              <Vi>Hay âm thanh được tạo ra bởi nhạc cụ hoặc giọng hát.</Vi>
+              <En>Sound produced by musical instruments or the voice, especially when arranged with melody and rhythm.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
