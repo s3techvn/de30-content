@@ -1,0 +1,36 @@
+<Vocab id="6177c0a3-d663-4d77-8569-e38efbddb463" word="detect" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="bd5ebcc9-36eb-4218-804e-097d8f54bf84" value="Security" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dd00a567-8c2f-4f18-bc0e-ea121d79336b" ipa="/dɪˈtek.t/" vi_ipa="đi-téc-t">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="16a5c5b2-0f6a-4e58-8157-00caa0cdbf23" type="Verb">
+          <Vi>phát hiện, dò tìm, nhận ra</Vi>
+          <En>to discover or identify the presence of something, especially something that is not immediately obvious</En>
+          <Example>The security camera helped detect an intruder in the building.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87711016-ec57-45e8-8e84-f932786096c5">
+              <Vi>Người dùng hoặc hệ thống nhận ra sự hiện diện của một mối đe dọa, lỗi, hoặc dấu hiệu bất thường.</Vi>
+              <En>A user or system identifies the presence of a threat, error, or unusual signal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
