@@ -883,4 +883,5 @@
   <Profession id="7349542a-2a0a-4e3d-98a5-d5191b83fb94" slug="finance-professional" value="Finance Professional" />
   <Profession id="80c1bdbe-d948-47dd-a7e3-8e1ca79c63e5" slug="backend-developer" value="Backend Developer" />
   <Profession id="87d29f48-7ca8-4c7c-a057-f64e48bf8353" slug="mobile-developer-(android)" value="Mobile Developer (Android)" />
+  <Profession id="3e525cbf-01e6-4985-a38b-b75f981d01a2" slug="astrologer" value="Astrologer" />
 </Professions>

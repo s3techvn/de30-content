@@ -1,0 +1,40 @@
+<Vocab id="81156c0c-82ce-4cf2-8853-8171daac76d0" word="astrology" type="short" status="done">
+  <Topics>
+    <Topic id="f5ffff98-5e31-499b-a133-f82447a33018" value="Belief &amp; Mysticism" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3e525cbf-01e6-4985-a38b-b75f981d01a2" value="Astrologer" />
+    <Profession id="f403fb70-f4b6-42eb-9ab0-33b81023c754" value="Writer / Journalist" />
+    <Profession id="7afbef82-fc17-429d-a167-cd9816da9e40" value="Entertainer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9dbb3264-0a10-408a-bce2-0372d0277f62" ipa="/əˈstrɑː.lə.dʒi/" vi_ipa="a-sờ-rô-lô-dji">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6cbc0e7d-8820-4f27-ac30-d8c422651f9b" type="Noun">
+          <Vi>Chiêm tinh học</Vi>
+          <En>The study of the movements and relative positions of celestial bodies interpreted as having an influence on human affairs and the natural world.</En>
+          <Example>She reads her horoscope every morning, believing astrology offers insight into her personality and future.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2f1f9c3-18c2-4fd5-8435-99e5839625b7">
+              <Vi>Một người xem tử vi hàng ngày dựa trên cung hoàng đạo.</Vi>
+              <En>A person consulting daily horoscopes to gain personal insight.</En>
+            </Situation>
+            <Situation id="bb7a36ad-d3e5-419a-a09b-8b32b973afd8">
+              <Vi>Người ta tham khảo bản đồ sao để dự đoán xu hướng tình cảm hoặc sự nghiệp.</Vi>
+              <En>Someone uses a natal chart to analyze romantic compatibility or career prospects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
