@@ -1,0 +1,40 @@
+<Vocab id="6bdcaf28-8b68-463b-8cb8-67d2f0d0ed02" word="historical" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2e661b39-bf67-41dd-a364-157ad021eb7f" ipa="/hɪˈstɔː.ri.kəl/" vi_ipa="hi-sờ-tô-ri-cờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2fb0c506-1bcd-433a-add5-73bc13e17991" type="Adjective">
+          <Vi>thuộc về lịch sử; mang tính lịch sử</Vi>
+          <En>relating to history or past events; having historical significance</En>
+          <Example>The museum houses many historical artifacts from the 18th century.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0730ed52-6e08-4dee-b1d4-b2b06bc4f4cf">
+              <Vi>Mô tả các sự kiện, di tích, hoặc đối tượng liên quan đến quá khứ.</Vi>
+              <En>Describing events, sites, or objects connected to the past.</En>
+            </Situation>
+            <Situation id="aaf2de3c-bcda-4f8e-8989-45d96ef94d4a">
+              <Vi>Dùng để chỉ tính xác thực hoặc giá trị trong bối cảnh nghiên cứu lịch sử.</Vi>
+              <En>Used to indicate authenticity or value within a historical research context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
