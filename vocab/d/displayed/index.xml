@@ -1,0 +1,55 @@
+<Vocab id="cd5b9d73-3b3d-47a5-843e-99ebbf283bca" word="displayed" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="4650872f-e19a-455d-acc2-70a42a09b88e" value="Web Developer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="89de6794-b119-40cc-8d3a-2fd37b87e3e3" ipa="/dɪˈspleɪd/" vi_ipa="đi-sờ-plây-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0dd85e96-a150-4f30-a752-9fde56361560" type="Adjective">
+          <Vi>được hiển thị, được trình bày</Vi>
+          <En>Shown or visible on a screen, surface, or in a public setting.</En>
+          <Example>The error message was displayed clearly on the screen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b3a6cbe9-ee58-4016-b42a-6b8dbe3662ad">
+              <Vi>Màn hình hiện ra thông tin, hình ảnh, hoặc thông báo.</Vi>
+              <En>A screen shows information, images, or a message.</En>
+            </Situation>
+            <Situation id="25b7353c-1c77-4fcd-af1e-127d1fa4dd88">
+              <Vi>Hình ảnh được trình bày trong một bài thuyết trình.</Vi>
+              <En>Images are presented in a presentation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f743ff6a-b6b2-48e4-8a67-9ade07005934" type="Verb (past tense/participle)">
+          <Vi>đã trưng bày, đã thể hiện (hành động)</Vi>
+          <En>Past tense and past participle of "display", meaning to show or present something.</En>
+          <Example>She displayed her artwork at the gallery last week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d76db08c-951f-4469-9dd6-542a7484c512">
+              <Vi>Một người trưng bày sản phẩm sáng tạo trước công chúng.</Vi>
+              <En>A person presents a creative product to the public.</En>
+            </Situation>
+            <Situation id="b3cf6d66-7e93-4850-a1de-a6dfe54f4f57">
+              <Vi>Hệ thống đã hiển thị cảnh báo khi phát hiện lỗi.</Vi>
+              <En>The system displayed a warning when an error was detected.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
