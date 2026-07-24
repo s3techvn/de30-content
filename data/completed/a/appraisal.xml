@@ -1,0 +1,53 @@
+<Vocab id="d4e45493-800c-4890-8d75-2be8149e2981" word="appraisal" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="4c7507a5-286c-45d1-8f0b-bc012adb0e44" value="Appraiser" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="43a547d5-8a3f-4d77-ad3e-9bc82a9aad2e" value="Insurance Adjuster" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c3907798-dbfb-42cb-9692-2e3beb231ce8" ipa="/əˈpreɪ.zəl/" vi_ipa="ơ-prây-dờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8ee6b8d5-7e62-48b8-aeb1-da8a560639ae" type="Noun">
+          <Vi>Đánh giá; sự định giá</Vi>
+          <En>An assessment of the value, quality, or condition of something, especially property or assets.</En>
+          <Example>The bank requested an independent appraisal before approving the mortgage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ce2d6a97-2680-4c22-ab26-132aa3bf63eb">
+              <Vi>Chuyên gia định giá bất động sản đến kiểm tra và ước tính giá trị căn nhà.</Vi>
+              <En>A real estate appraiser visits to inspect and estimate the market value of a house.</En>
+            </Situation>
+            <Situation id="07261801-c752-4c08-96a4-7ebc3956d5f7">
+              <Vi>Sau tai nạn, công ty bảo hiểm yêu cầu một bản đánh giá về mức độ hư hại của xe.</Vi>
+              <En>After the accident, the insurance company requested an appraisal of the vehicle’s damage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ecb8cc4-12bc-4619-84ae-93e74321288d" type="Noun">
+          <Vi>Sự nhận xét, đánh giá (về năng lực, phẩm chất)</Vi>
+          <En>A judgment or opinion about someone’s performance, abilities, or character.</En>
+          <Example>Her performance review included a positive appraisal from her manager.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da359a97-7182-4982-be0b-4e15e98944f2">
+              <Vi>Bản đánh giá năng lực nhân viên được thực hiện hàng năm vào cuối năm.</Vi>
+              <En>The employee appraisal is conducted annually at year-end.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
