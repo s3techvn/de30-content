@@ -1998,3 +1998,4 @@ mind
 pour
 fact
 measured
+show
