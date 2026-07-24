@@ -1,0 +1,32 @@
+<Vocab id="acc517fc-1dc6-43be-bf5b-31cf7408e30d" word="lucy" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="42b3c2ee-e959-4a5c-a42e-e93c0b65248a" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a5415ab3-bd64-42ab-8e35-5941d96c5899" ipa="/ˈluː.si/" vi_ipa="lú-xi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4b0e23c1-bf2d-4977-8469-4d8deffb6d99" type="Noun">
+          <Vi>Tên riêng (thường là tên nữ), phiên bản tiếng Anh của "Lucy" – nguồn gốc từ Latinh "lux" (ánh sáng)</Vi>
+          <En>A female given name, the English form of "Lucy", derived from Latin "lux" meaning "light"</En>
+          <Example>Lucy is a popular name in English-speaking countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9cdcd5fb-24c7-4002-9853-ceb4ac845b26">
+              <Vi>Dùng để gọi một người phụ nữ hoặc cô gái mang tên Lucy.</Vi>
+              <En>Used to refer to a woman or girl named Lucy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

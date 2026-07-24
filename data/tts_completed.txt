@@ -2236,3 +2236,4 @@ cleanup
 traveller
 provide
 camp
+chronic
