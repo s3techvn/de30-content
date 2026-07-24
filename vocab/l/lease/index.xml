@@ -1,0 +1,66 @@
+<Vocab id="79e7a614-362b-4108-8a43-5da3ab240958" word="lease" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="ebbf464e-8b28-437e-a6df-60676ba4be10" value="Property Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="54dffe4d-631c-40cb-87fa-c7f82f8a2ba7" ipa="/liːs/" vi_ipa="liːt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7ecf95d7-69c1-461e-aaae-123754a5ab84" type="Noun">
+          <Vi>Giấy thuê (tài sản), hợp đồng thuê</Vi>
+          <En>A legal document granting the right to use property or equipment for a specified period in exchange for rent.</En>
+          <Example>The company signed a five-year lease for the office space.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b4f8daea-f57a-4fed-9a7b-c84b0bf4b629">
+              <Vi>Người thuê ký hợp đồng thuê nhà hoặc xe.</Vi>
+              <En>A tenant signs a written agreement to rent a house or vehicle.</En>
+            </Situation>
+            <Situation id="449305a3-65f5-4cc1-a311-9a4013d533ba">
+              <Vi>Chủ sở hữu nhận tiền thuê theo điều khoản hợp đồng.</Vi>
+              <En>The owner receives regular rent payments as outlined in the lease agreement.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c0daf324-faaa-459d-b191-ec2a20336c5d" ipa="/liːs/" vi_ipa="liːt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eeac2f6a-35d1-4fe1-8eea-5e164f00c6f3" type="Verb">
+          <Vi>Thuê (tài sản) theo hợp đồng, cho thuê</Vi>
+          <En>To grant the use of property or equipment to someone for a specified period in exchange for rent; or to rent property or equipment under such an agreement.</En>
+          <Example>We leased a car for the duration of our trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4b215784-b706-44de-8a37-b6ca4c209b2a">
+              <Vi>Doanh nghiệp thuê văn phòng từ chủ nhà.</Vi>
+              <En>A business rents office space from a landlord under a formal lease agreement.</En>
+            </Situation>
+            <Situation id="b331069c-0c41-42bb-ad55-ebdbc5b5d63a">
+              <Vi>Người dùng thuê thiết bị công nghệ trong thời gian ngắn.</Vi>
+              <En>Customers can lease electronic devices for a fixed term instead of buying them outright.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
