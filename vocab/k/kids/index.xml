@@ -1,0 +1,55 @@
+<Vocab id="a5d837b4-c24f-4988-b2a9-9773698dfd79" word="kids" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="16935b63-e22d-4c0e-8b99-49aa92c28e5b" value="Childcare Provider" />
+    <Profession id="5a3c5868-21ad-49f0-9262-4b1178a8ef15" value="Pediatrician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6d5532c3-4c96-459b-81b8-3188ac3124c8" ipa="/kɪdz/" vi_ipa="ki-dz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f8c304b-65a1-4a91-aebf-359f24c80cb9" type="Noun">
+          <Vi>trẻ em (số nhiều)</Vi>
+          <En>children (plural form of "kid")</En>
+          <Example>The park was full of kids playing on the swings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="947a979b-72bf-49ef-aaf9-2d9d8ab6a4b6">
+              <Vi>Mô tả nhóm trẻ em đang hoạt động hoặc sinh hoạt cùng nhau.</Vi>
+              <En>Refers to a group of children in a general, informal context.</En>
+            </Situation>
+            <Situation id="74d95bfc-3be0-4bce-8e95-ddba986315b5">
+              <Vi>Dùng trong giao tiếp thân mật để nói về con của ai đó.</Vi>
+              <En>Used informally to refer to someone's children, especially in casual conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d72cc11-921e-4bb4-909e-e7b845d53631" type="Verb">
+          <Vi>đùa giỡn, chơi đùa (như trẻ con)</Vi>
+          <En>to behave playfully or frivolously; to joke around</En>
+          <Example>Don’t kid around during the exam—it’s serious!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a030a700-bd91-4aaf-bd71-5dd72488ffb5">
+              <Vi>Tình huống khi ai đó đang đùa vui hoặc không nghiêm túc.</Vi>
+              <En>Used when someone is joking or not taking a situation seriously.</En>
+            </Situation>
+            <Situation id="fc98422e-2638-4b6f-b743-c7fd43032472">
+              <Vi>Phản ứng khi người nghe không tin điều vừa nói.</Vi>
+              <En>Used to express disbelief or to challenge a statement playfully.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
