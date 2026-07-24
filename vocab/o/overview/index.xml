@@ -1,0 +1,40 @@
+<Vocab id="820cd86c-1be0-4406-be34-dfcf277531f3" word="overview" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4b11079e-b28d-4ff4-8a2a-674d089badec" ipa="/ˈoʊ.vər.vjuː/" vi_ipa="ô-vờ-viu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f2a20ad8-9848-4d6b-b85f-d7e7a0d8aed3" type="Noun">
+          <Vi>Tổng quan; bản tổng hợp; bản tóm lược</Vi>
+          <En>A general summary or description of a topic, situation, or subject, typically giving a broad view without going into detailed specifics.</En>
+          <Example>The report begins with an overview of the company's financial performance over the past five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6407f983-1cf8-45b6-8658-837736dc54fd">
+              <Vi>Bản tóm tắt đầu một báo cáo hoặc bài thuyết trình để giúp người nghe hiểu bối cảnh chung.</Vi>
+              <En>A summary at the beginning of a report or presentation to help the audience understand the overall context.</En>
+            </Situation>
+            <Situation id="1f814ee1-eb26-4448-b8e5-d236797054ea">
+              <Vi>Sách giáo khoa cung cấp một bản overview về lịch sử thế giới.</Vi>
+              <En>The textbook provides an overview of world history.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
