@@ -1,0 +1,66 @@
+<Vocab id="bad210c1-ee39-41ac-97b9-ee9ec9898c63" word="hazard" type="short" status="done">
+  <Topics>
+    <Topic id="5be81cce-02fe-47b6-8aac-5a3ec3ed9cf1" value="Safety" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="7a278d24-fdcc-4b62-b6d1-8724fbdeab72" value="Occupational Safety Officer" />
+    <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" value="Construction Manager" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6ea6bacf-8bfe-4f10-b6d4-f1483694a99f" ipa="/ˈheɪ.zəd/" vi_ipa="hê-dờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="18312925-a357-487b-bf56-ca130d84d098" type="Noun">
+          <Vi>Nguy hiểm; mối nguy; rủi ro</Vi>
+          <En>A source of danger or a possibility of harm, injury, or damage.</En>
+          <Example>Workers must be trained to identify and mitigate potential hazards on site.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7c69d0c8-bdc1-4038-a0df-fa7339a69ed9">
+              <Vi>Một tình huống trong môi trường làm việc có thể gây tai nạn hoặc tổn hại sức khỏe.</Vi>
+              <En>A situation in the workplace that could cause accidents or health harm.</En>
+            </Situation>
+            <Situation id="a35e0cf3-d9ee-4bab-98aa-152cb5e3b37f">
+              <Vi>Cảnh báo về nguy cơ thiên tai như lũ lụt hoặc động đất.</Vi>
+              <En>A warning about natural disaster risks such as floods or earthquakes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="df854dcc-1b7c-40b7-be7b-c088bf5b9bd6" ipa="/heɪˈzeɪd/" vi_ipa="hê-dê-dờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f85f83c-b340-4857-ac78-3fe42757a246" type="Verb">
+          <Vi>Đặt vào nguy hiểm; đe dọa; gây nguy cơ</Vi>
+          <En>To expose to danger or risk; to threaten the safety or success of something.</En>
+          <Example>Driving recklessly hazards not only your own life but also others’.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97e6eabc-564c-4be1-95f1-5339274439bd">
+              <Vi>Hành vi bỏ qua quy trình an toàn có thể gây nguy hiểm cho đồng nghiệp.</Vi>
+              <En>Ignoring safety protocols can hazard the well-being of coworkers.</En>
+            </Situation>
+            <Situation id="7c688448-ba50-41aa-a563-54be1319e70d">
+              <Vi>Những quyết định vội vàng có thể đe dọa thành công của dự án.</Vi>
+              <En>Hasty decisions can hazard the success of the project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

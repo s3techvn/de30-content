@@ -1,0 +1,38 @@
+<Vocab id="bcdfa2fa-dc58-4071-b202-8e92360c7714" word="anxiety" type="short" status="done">
+  <Topics>
+    <Topic id="61ca3d55-edbf-4c66-8ecc-b7a3e65fdba3" value="Health &amp; Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="9d5ccbec-274a-4c14-a0a4-8722f30fd634" value="Psychiatrist" />
+    <Profession id="68181d1e-fe9a-4207-a854-2ab2256f76b9" value="General Practitioner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="34f12989-9f10-4022-afde-587dda013ae2" ipa="/æŋˈzaɪ.ə.ti/" vi_ipa="ăn-dzai-ơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="79a84293-5d1d-4b24-b2be-7b4df623a1de" type="Noun">
+          <Vi>Sự lo âu, sự bồn chồn, sự hoảng loạn nhẹ</Vi>
+          <En>A feeling of worry, nervousness, or unease about something with an uncertain outcome.</En>
+          <Example>She felt a wave of anxiety before her job interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4bf0d98a-d671-4110-a0ee-92909bd833a7">
+              <Vi>Cảm giác lo lắng trước khi thi hoặc phỏng vấn</Vi>
+              <En>Feeling nervous before an exam or job interview.</En>
+            </Situation>
+            <Situation id="2bda4a14-c9cc-4d80-b192-d74e2c74cb4a">
+              <Vi>Hội chứng lo âu lan tỏa (generalized anxiety disorder)</Vi>
+              <En>Generalized anxiety disorder (GAD), where worry is persistent and excessive.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
