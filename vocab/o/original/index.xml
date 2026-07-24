@@ -1,0 +1,41 @@
+<Vocab id="103d99b5-8ae0-40dd-b482-14b65dbff992" word="original" type="short" status="done">
+  <Topics>
+    <Topic id="35c13818-67b0-4849-bb0a-bdd6a323efeb" value="Arts &amp; Media" />
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6969a4f1-e12c-477a-becc-e2b370f80bad" ipa="/əˈrɪdʒ.ə.nəl/" vi_ipa="ơ-rích-gin-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc4e05df-5d9d-460b-9a52-84d6be10c9ab" type="Adjective">
+          <Vi>nguyên bản; độc đáo, chưa từng có trước đây</Vi>
+          <En>Being the first or earliest of its kind; not copied or derived from something else; distinctive and creative.</En>
+          <Example>The museum displays the original manuscript of the novel.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9e413c71-5d3f-482b-81b4-a58818828a16">
+              <Vi>So sánh bản sao với bản gốc để xác minh tính xác thực.</Vi>
+              <En>Comparing a copy to the original to verify authenticity.</En>
+            </Situation>
+            <Situation id="0d25ac58-b1aa-4e28-88d6-24e49dadff99">
+              <Vi>Đánh giá một tác phẩm nghệ thuật vì sự độc đáo và sáng tạo của nó.</Vi>
+              <En>Evaluating a work of art for its originality and creativity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

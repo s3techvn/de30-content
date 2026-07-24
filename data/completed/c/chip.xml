@@ -1,0 +1,56 @@
+<Vocab id="5e029c69-5d87-453b-944d-71092ab0e201" word="chip" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="0d59bb25-6c50-4fcd-b9c8-4ad7d997abfe" value="Everyday Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="9af40ef2-68ab-43d2-a68d-b986f42844c2" value="Electronics Engineer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1902813e-58ee-4e99-af51-a688002546a3" ipa="/tʃɪp/" vi_ipa="chíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3c882b52-aa62-4ce7-9e39-32153f81898e" type="Noun">
+          <Vi>Mảnh nhỏ, mảnh vụn (thường cứng); con chip (điện tử); miếng khoai tây chiên</Vi>
+          <En>A small hard piece broken off something; a small piece of semiconductor material used in electronics; a thin slice of potato fried in oil.</En>
+          <Example>I dropped my phone and cracked the screen’s main chip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a666744-a314-4c36-8f2d-9654853b61d8">
+              <Vi>Người dùng nói về lỗi phần cứng trong thiết bị điện tử.</Vi>
+              <En>A user discussing hardware failure in an electronic device.</En>
+            </Situation>
+            <Situation id="79318429-416f-45b9-ae0f-22a2e900de10">
+              <Vi>Người ăn vặt nhai miếng khoai tây chiên giòn.</Vi>
+              <En>A person crunching on a crispy potato chip.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="834bb996-a4cd-447e-9cc4-d6a3c31d7212" type="Verb">
+          <Vi>Đục, khoét, cạo một phần nhỏ ra khỏi bề mặt; ghi dữ liệu vào chip</Vi>
+          <En>To remove a small piece from something by cutting, drilling, or chipping; to store data on a chip.</En>
+          <Example>The carpenter chipped the wood while carving the detail.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="50618a61-35ec-498b-9037-8cc1f03b98ba">
+              <Vi>Thợ thủ công làm việc với gỗ và vô tình làm vỡ một mảnh nhỏ.</Vi>
+              <En>A craftsman accidentally chips a piece off wood while carving.</En>
+            </Situation>
+            <Situation id="2c6f4e81-36f0-4c99-8c6e-41357dd52a1f">
+              <Vi>Chương trình phần mềm ghi dữ liệu vào bộ nhớ flash.</Vi>
+              <En>A software program writes data onto a flash memory chip.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
