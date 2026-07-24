@@ -1,0 +1,57 @@
+<Vocab id="943731d8-ca32-4bb8-8e80-6ccd8c85dae0" word="die" type="short" status="done">
+  <Topics>
+    <Topic id="e4b0ea3b-b699-4a7b-9c98-b6b7cae9fae8" value="Life &amp; Death" />
+  </Topics>
+  <Professions>
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+    <Profession id="f403fb70-f4b6-42eb-9ab0-33b81023c754" value="Writer / Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7fb15d89-276a-4e8a-a1de-6c3996c69bbe" ipa="/daɪ/" vi_ipa="đai">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="496fb11c-c9b7-4df9-9e88-8af870c7c7b8" type="Verb">
+          <Vi>chết</Vi>
+          <En>to cease to live; to become dead</En>
+          <Example>The old oak tree died in the drought last summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d56a66a1-6f8d-4416-b040-67c1b638e421">
+              <Vi>Mô tả sự kết thúc sự sống của sinh vật (người, động vật, thực vật).</Vi>
+              <En>Describing the end of life for a living organism (human, animal, plant).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="63fc8509-8e9c-4837-b4a7-aa3fec499d31" type="Verb">
+          <Vi>phai nhạt, mất dần sức mạnh / sự nhiệt huyết</Vi>
+          <En>to lose strength, intensity, or interest; to become less active or prominent</En>
+          <Example>The excitement about the new app began to die down after a few weeks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1938c49a-43a0-43cc-816f-f3727f3b2e40">
+              <Vi>Dùng khi nói về sự suy giảm dần của cảm xúc, năng lượng, hoặc sự quan tâm.</Vi>
+              <En>Used when describing the gradual decline of emotion, energy, or interest.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="382913a2-0f88-41f5-b008-6aa8f4271b04" type="Verb">
+          <Vi>ngừng hoạt động, ngừng chạy (máy móc, động cơ)</Vi>
+          <En>to stop functioning or operating (of a machine or engine)</En>
+          <Example>The engine died as I turned the key.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a8a273c-025d-4a4a-b5c4-6522a27072b2">
+              <Vi>Xảy ra khi động cơ xe hoặc thiết bị điện tử đột ngột ngừng hoạt động.</Vi>
+              <En>Occurs when a vehicle engine or electronic device suddenly stops working.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
