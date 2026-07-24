@@ -1,0 +1,36 @@
+<Vocab id="bd83c708-7cc1-47b5-abc4-8b9251a6459b" word="himself" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8429d1d8-6371-43b1-b0f4-34944b938788" ipa="/hɪmˈsɛlf/" vi_ipa="him-sělf">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ad71953-b605-44d2-94b8-315df17720aa" type="Pronoun">
+          <Vi>chính anh ấy / chính nó (nam giới)</Vi>
+          <En>used to emphasize the pronoun 'him' or to refer to the male subject acting alone or independently</En>
+          <Example>He fixed the car himself.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e99a2492-7333-406c-a45c-3e44333da2bb">
+              <Vi>Người nam tự làm điều gì đó mà không nhờ ai giúp.</Vi>
+              <En>A male person does something on his own, without help from others.</En>
+            </Situation>
+            <Situation id="1b002d4e-961b-48ec-8c2e-558b9c835673">
+              <Vi>Nhấn mạnh chủ thể nam trong câu.</Vi>
+              <En>Emphasizing the male subject as the doer of the action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
