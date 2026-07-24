@@ -2078,3 +2078,4 @@ oracle
 mar
 dig
 detect
+panic
