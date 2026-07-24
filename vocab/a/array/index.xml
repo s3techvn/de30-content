@@ -1,0 +1,40 @@
+<Vocab id="0437bf43-0208-4360-9a71-bac1bf3141f9" word="array" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ddfe22b9-fb04-4835-846a-97d9dd928b52" ipa="/əˈreɪ/" vi_ipa="ơ-rây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ba58168-63ae-4634-be77-3622425f93d6" type="Noun">
+          <Vi>Một dãy hoặc một tập hợp các phần tử được sắp xếp theo hàng ngang hoặc hàng dọc</Vi>
+          <En>A systematic arrangement of numbers, objects, or data in rows and/or columns</En>
+          <Example>The soldiers stood in an array before the review.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="93a17c71-6bb1-4374-9d48-15c15efea67a">
+              <Vi>Mô tả cách binh sĩ xếp hàng ngang hoặc hàng dọc trong lễ duyệt binh.</Vi>
+              <En>Describes how soldiers are arranged in rows and columns during a military parade.</En>
+            </Situation>
+            <Situation id="36603b4c-1fdc-4971-96d0-31b4b4969aee">
+              <Vi>Trong lập trình, dùng để lưu trữ nhiều giá trị cùng kiểu trong một biến duy nhất.</Vi>
+              <En>In programming, used to store multiple values of the same type in a single variable.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
