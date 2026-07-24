@@ -1,0 +1,48 @@
+<Vocab id="7ec57b0f-87ba-42fc-b22e-5e7d3ab75226" word="excess" type="short" status="done">
+  <Topics>
+    <Topic id="510f0037-13ae-4b90-b69a-7e398eda787f" value="Health &amp; Lifestyle" />
+    <Topic id="bc9fbb27-95b2-435e-8176-9ea3ca68855c" value="Economics &amp; Finance" />
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1e5ef0de-9048-47d4-b82e-68241b437ef0" ipa="/ˈek.ses/" vi_ipa="e-cớt-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e859e2c7-01d4-4c4c-a61d-3e80f1ff7246" type="Noun">
+          <Vi>Sự dư thừa, sự quá mức</Vi>
+          <En>The amount of something that is more than what is needed or desired</En>
+          <Example>Consuming excess sugar can lead to health problems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2691405-e901-494d-97e2-36c8630742d0">
+              <Vi>Một người ăn quá nhiều đồ ngọt trong một bữa ăn.</Vi>
+              <En>A person eats significantly more sweets than recommended in one meal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="98ffe45a-ba5b-4098-834b-c8086593ea8a" type="Adjective">
+          <Vi>Dư thừa, quá mức</Vi>
+          <En>More than is necessary, reasonable, or allowed</En>
+          <Example>The company reported excess inventory at the end of the quarter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="645cfd00-38fb-4d3a-8e19-1f6020f3c9b2">
+              <Vi>Cửa hàng có quá nhiều hàng tồn kho không bán được.</Vi>
+              <En>A store holds more stock than it can sell in a given period.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

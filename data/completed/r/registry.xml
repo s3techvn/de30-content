@@ -1,0 +1,41 @@
+<Vocab id="9af266d6-388e-4943-a83e-bdf8c0d684ed" word="registry" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="5f42c748-7168-4c71-bf4b-3cb678867205" value="System Administrator" />
+    <Profession id="0b1fb1f2-a5a5-4600-8586-da3d45b1673b" value="IT Support Specialist" />
+    <Profession id="b9fab086-b7f2-44b4-9dcc-329434bc3861" value="Legal Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5395525a-47f2-467d-920c-d10bd3d99dbc" ipa="/ˈrek.ɪs.tri/" vi_ipa="réc-i-xtri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07b0cab4-83e0-4d77-aa0a-684c17a41fd6" type="Noun">
+          <Vi>Cơ sở dữ liệu tập trung để lưu trữ và quản lý thông tin đăng ký</Vi>
+          <En>A centralized system or database for recording, storing, and managing official information or transactions</En>
+          <Example>The operating system reads configuration settings from the Windows registry.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d4f09af-be97-44ac-95aa-74f0dc03b1a8">
+              <Vi>Trong lập trình phần mềm, nơi lưu trữ cài đặt hệ thống và tùy chỉnh ứng dụng.</Vi>
+              <En>In software development, the location where system settings and application configurations are stored.</En>
+            </Situation>
+            <Situation id="9f06f457-1539-4790-95f3-1ad832ce3825">
+              <Vi>Trong hành chính, nơi đăng ký khai sinh, đăng ký kết hôn, hoặc đăng ký doanh nghiệp.</Vi>
+              <En>In administration, the official office or system where births, marriages, or business registrations are recorded.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
