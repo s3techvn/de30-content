@@ -1,0 +1,32 @@
+<Vocab id="78fa37e5-60e3-4c12-925f-504e772764d4" word="peter" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6fbf2233-7002-4001-9451-85ac8344378b" ipa="/ˈpiː.tər/" vi_ipa="pi-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="405b28e8-770f-43f4-917a-e40ed35975a3" type="Noun">
+          <Vi>Thánh Phê-rô (tên của một trong mười hai tông đồ của Chúa Giêsu)</Vi>
+          <En>Peter: one of the twelve apostles of Jesus, traditionally considered the first bishop of Rome and a foundational figure in Christianity.</En>
+          <Example>According to Catholic tradition, Peter was given the keys to the Kingdom of Heaven by Jesus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20fadce5-cd4e-42c8-9723-1890e879c3fa">
+              <Vi>Thảo luận về lịch sử Giáo hội Công giáo hoặc Kinh Thánh.</Vi>
+              <En>Discussing Catholic Church history or biblical narratives involving the apostles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

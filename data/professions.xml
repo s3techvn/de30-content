@@ -887,4 +887,5 @@
   <Profession id="4a61f65e-3eb7-4628-8e03-3d9af6dd49e6" slug="business" value="Business" />
   <Profession id="078343ff-ace8-4667-a173-7d026ef92dda" slug="journalism" value="Journalism" />
   <Profession id="08810bcd-e3c5-47e2-8b71-bf8afad650eb" slug="accountant-(nonprofit-sector)" value="Accountant (Nonprofit Sector)" />
+  <Profession id="f88892a0-c93d-4baf-abad-c44590d3288d" slug="foreign-service-officer" value="Foreign Service Officer" />
 </Professions>
