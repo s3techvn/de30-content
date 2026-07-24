@@ -1,0 +1,41 @@
+<Vocab id="aa655e63-efbe-4985-9d62-72da9fbca23d" word="headset" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="70f046f7-d1d0-4b17-ae85-63241a023d9b" value="Customer Support Representative" />
+    <Profession id="6b05919f-9eb5-42bc-a1e9-cce5382f9e81" value="Podcast Host" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4da550e3-e0d5-479c-9dd7-843942c473f5" ipa="/ˈhed.set/" vi_ipa="hét-sét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f831cacb-4b9f-4ff6-a5ac-55651d5bd6d5" type="Noun">
+          <Vi>Tai nghe (có microphone tích hợp)</Vi>
+          <En>A headset is a pair of headphones worn over the head, typically with a built-in microphone for hands-free communication.</En>
+          <Example>She wore her wireless headset while taking calls during her commute.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6cd0646f-d8a8-48b9-b742-91560bf56aed">
+              <Vi>Sử dụng trong làm việc từ xa, gọi điện thoại, hoặc nghe nhạc/karaoke.</Vi>
+              <En>Used while working remotely, taking calls, or listening to music/karaoke.</En>
+            </Situation>
+            <Situation id="66c1f6e7-4e41-4f54-8013-5dbd12860f87">
+              <Vi>Thường thấy trong văn phòng, trung tâm gọi, hoặc phòng thu âm.</Vi>
+              <En>Commonly found in offices, call centers, or recording studios.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
