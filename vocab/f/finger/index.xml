@@ -1,0 +1,54 @@
+<Vocab id="9849cc94-9624-4a87-bd3d-7d1920c401be" word="finger" type="short" status="done">
+  <Topics>
+    <Topic id="6a93d956-97d9-4c1c-828c-cd0d06699bbd" value="Body" />
+  </Topics>
+  <Professions>
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="274ddc62-820e-4e31-88d8-315297a6afa9" value="Pianist" />
+    <Profession id="108dcd12-b5b1-4fcb-8f6f-8ec7bc3c0b77" value="Sign Language Interpreter" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6632ee0f-9c03-4574-8a19-f52bea8f532d" ipa="/ˈfɪŋ.ɡər/" vi_ipa="phín-gơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="87dd4272-ebd3-4104-a154-22cc1803aaed" type="Noun">
+          <Vi>ngón tay</Vi>
+          <En>The five slender terminal parts of the hand, used for touching, grasping, and pointing.</En>
+          <Example>She counted the fingers on her right hand to make sure she hadn’t lost any.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="072f456b-ea98-45d1-b815-582eee04a7d4">
+              <Vi>Mô tả cấu tạo cơ thể người.</Vi>
+              <En>Describing human anatomy, especially during medical examination.</En>
+            </Situation>
+            <Situation id="98e6888a-cbc1-40a7-b43b-9096fa4bfe85">
+              <Vi>Chỉ vào một vật bằng ngón tay.</Vi>
+              <En>Pointing at an object to direct attention.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="17c921f6-afda-4efd-910e-baa89a11f817" type="Verb">
+          <Vi>chỉ bằng ngón tay; sờ mó bằng ngón tay</Vi>
+          <En>To point at or touch something using a finger.</En>
+          <Example>The teacher fingered the map to highlight the correct location.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="60edb1af-0790-4dd2-9841-8fa55d338d53">
+              <Vi>Giảng viên dùng ngón tay để chỉ vào bản đồ trong lớp học.</Vi>
+              <En>A teacher uses a finger to point during a presentation or instruction.</En>
+            </Situation>
+            <Situation id="956e6c0d-262f-4b7c-ad33-e1f93ad62f3a">
+              <Vi>Người xem chỉ vào chi tiết trong tranh bằng ngón tay.</Vi>
+              <En>An audience member points out a detail in a painting or diagram.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

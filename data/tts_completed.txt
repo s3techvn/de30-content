@@ -2230,3 +2230,4 @@ graphics
 term
 basically
 preservation
+finger

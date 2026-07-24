@@ -1,0 +1,48 @@
+<Vocab id="a188fd98-c0d8-40fa-b047-3902aff3a628" word="chief" type="short" status="done">
+  <Topics>
+    <Topic id="4d315299-7940-49e1-8216-77ae513db957" value="Leadership" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="8d32ede1-0fc1-4ab5-bb21-df2835fc200a" value="Military Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="05f25ad8-5ee8-488c-8e8a-a68b70c4167c" ipa="/tʃiːf/" vi_ipa="chi-if">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a63b2077-cf45-4d1e-93fc-8de54dfad4e1" type="Adjective">
+          <Vi>chính, quan trọng nhất, đứng đầu</Vi>
+          <En>Being the most important or senior in rank or position; principal.</En>
+          <Example>The chief reason for the delay was bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="736bb46f-b6dc-4aca-9bb3-c0b37fe96364">
+              <Vi>Mô tả người hoặc thứ đứng đầu trong một tổ chức hoặc nhóm.</Vi>
+              <En>Used to describe the top-ranking person or most significant element in a group or system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="142dfd30-2bca-4143-baef-c5a99ea74361" type="Noun">
+          <Vi>người đứng đầu, lãnh đạo, chỉ huy</Vi>
+          <En>A person who is in charge of a group, organization, or activity.</En>
+          <Example>The police chief announced new safety measures.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f60f4b87-60fb-40c8-9d97-bcc0069b6c73">
+              <Vi>Sử dụng khi đề cập đến người lãnh đạo cấp cao trong cơ quan, tổ chức, hoặc đội nhóm.</Vi>
+              <En>Used when referring to a high-ranking leader in a formal or official context, such as in law enforcement or corporate settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
