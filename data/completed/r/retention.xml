@@ -1,0 +1,40 @@
+<Vocab id="c4083cd5-cc57-446a-8888-ddbf52366d2d" word="retention" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb718142-34e6-4321-9231-bac704444c94" ipa="/rɪˈten.ʃən/" vi_ipa="ri-ten-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a2f96829-1b62-4994-934f-562b2c0d3e39" type="Noun">
+          <Vi>Sự ghi nhớ; sự giữ lại</Vi>
+          <En>The ability to remember things; the act of keeping something, such as information or employees.</En>
+          <Example>The student improved his retention of vocabulary through spaced repetition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1aced3d0-6737-447c-ae02-2968f6021b06">
+              <Vi>Tình huống học sinh ôn lại từ vựng bằng phương pháp lặp lại ngắt quãng.</Vi>
+              <En>Scenario where a student reviews vocabulary using spaced repetition techniques.</En>
+            </Situation>
+            <Situation id="aa1d378c-ff8a-4992-95f3-48822b3f39d3">
+              <Vi>Tình huống công ty đang tìm cách giữ chân nhân viên giỏi.</Vi>
+              <En>Scenario where a company is trying to retain top-performing employees.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
