@@ -1,0 +1,66 @@
+<Vocab id="9bcf8ec2-b6aa-46f2-9334-bac99661015a" word="function" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b45407fd-b327-4192-a42b-68b5409333bc" value="Computer Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9acbb070-97c3-4a52-935a-8014f27a1877" ipa="/ˈfʌŋk.ʃən/" vi_ipa="fan-kshơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d74b5fc4-4bc0-4b2c-bd06-439325687aa0" type="Noun">
+          <Vi>Hàm (toán học); chức năng; nhiệm vụ, vai trò</Vi>
+          <En>A relation or expression involving one or more variables; a purpose or role of something</En>
+          <Example>The sine function is used to model periodic phenomena like sound waves.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="641a100f-433d-4b86-a502-2843437192fd">
+              <Vi>Mô tả mối quan hệ đầu vào-đầu ra trong toán học hoặc lập trình.</Vi>
+              <En>Describing input-output relationships in mathematics or programming.</En>
+            </Situation>
+            <Situation id="caad1fb7-cee9-4e78-8fd6-3f4816d0840f">
+              <Vi>Nói về vai trò hoặc mục đích của một thiết bị hoặc hệ thống.</Vi>
+              <En>Talking about the role or purpose of a device or system.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="f122a22b-04a2-4875-82ed-17323c365386" ipa="/fəŋkˈʃən/" vi_ipa="fơn-kshơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5bc27631-506c-44bc-887f-9cf7a1e4900e" type="Verb">
+          <Vi>Hoạt động, vận hành; đảm nhận chức năng</Vi>
+          <En>To operate or perform a duty or purpose</En>
+          <Example>This software functions smoothly on both Windows and macOS.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b04623e3-66a1-4bc3-9ee7-34f9ad0a5b7d">
+              <Vi>Mô tả thiết bị hoặc hệ thống đang hoạt động đúng cách.</Vi>
+              <En>Describing a device or system operating correctly.</En>
+            </Situation>
+            <Situation id="562fcefa-d3be-46f3-8121-36711e17da41">
+              <Vi>Nói về một chương trình máy tính thực hiện một nhiệm vụ cụ thể.</Vi>
+              <En>Referring to a computer program performing a specific task.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,38 @@
+<Vocab id="dcb1a287-c5e2-4809-b286-2dc572bebf7d" word="christianity" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="96db453e-1470-4734-befd-31ce8bb667f6" ipa="/ˌkrɪs.tiˈæn.ə.ti/" vi_ipa="cơ-rít-ti-an-i-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b32c6bb-21ff-4670-a821-449c2cf89dd6" type="Noun">
+          <Vi>Kitô giáo</Vi>
+          <En>The Christian religion, as based on the teachings of Jesus Christ.</En>
+          <Example>Christianity is the most widely practiced religion in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96dec745-dcc1-4f3d-9705-755862111a84">
+              <Vi>Ngôn ngữ dùng trong các nhà thờ, kinh thánh, và học thuyết tôn giáo.</Vi>
+              <En>Language used in churches, the Bible, and religious doctrines.</En>
+            </Situation>
+            <Situation id="9ca7cbd3-3537-4135-bef4-080eb79909f3">
+              <Vi>Thảo luận về lịch sử và ảnh hưởng của Kitô giáo ở phương Tây.</Vi>
+              <En>Discussion of the history and influence of Christianity in the West.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
