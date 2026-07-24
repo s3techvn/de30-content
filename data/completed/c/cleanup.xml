@@ -1,0 +1,40 @@
+<Vocab id="22714e6e-b820-43b1-9094-ac7c09c3940e" word="cleanup" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="85591a5b-c866-47e9-8326-ac801b85f2ba" value="Janitor" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="14a9cbaa-d429-4a38-8bad-fa473908bb26" value="Environmental Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c37abff2-0f2d-4a56-866a-7567ac34c45d" ipa="/ˈkliːnˌʌp/" vi_ipa="clin-áp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="712e038e-153e-4787-8a49-42cd42283a76" type="Noun">
+          <Vi>Sự dọn dẹp; sự làm sạch; công việc làm sạch</Vi>
+          <En>The act or process of cleaning something, especially a place or area; also refers to a thorough removal of unwanted or unnecessary elements.</En>
+          <Example>The city organized a community cleanup to remove litter from the park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ade61b8-6594-498e-8620-fe4af523b8fa">
+              <Vi>Một nhóm người cùng nhau quét dọn, thu gom rác thải trong công viên hoặc khu phố.</Vi>
+              <En>A group of people collectively collecting trash and tidying up a public space.</En>
+            </Situation>
+            <Situation id="c7c2cb3d-df8a-4bab-9e5d-4e3e6a2e7cf0">
+              <Vi>Trong lập trình, quá trình xóa các tệp tin tạm, bộ nhớ đệm, hoặc mã lỗi để hệ thống hoạt động trơn tru hơn.</Vi>
+              <En>In programming, the process of removing temporary files, cache, or faulty code to improve system performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
