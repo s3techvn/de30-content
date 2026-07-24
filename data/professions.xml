@@ -870,4 +870,5 @@
   <Profession id="51c790d3-d32e-4f2d-9084-b5ff4cf7167a" slug="wholesaler" value="Wholesaler" />
   <Profession id="8bca5009-2334-4548-a039-321c8ef608af" slug="retailer" value="Retailer" />
   <Profession id="f0e134df-b160-4d3b-9217-112766cea085" slug="import_export-specialist" value="Import-Export Specialist" />
+  <Profession id="223785ee-4a54-4f1b-8094-c66e720b4bbd" slug="caterer" value="Caterer" />
 </Professions>
