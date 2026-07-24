@@ -1,0 +1,66 @@
+<Vocab id="5542c848-5a1e-4d56-a8ca-f5446571660a" word="circuit" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="56ee3793-dd97-451f-9c27-d2f6d065bc14" value="Electronics" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="ac51b219-a0f5-42a3-8172-e08121ab2fc2" value="Physics Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9b0d3cb6-b721-4965-b3f0-5b18c6719a4b" ipa="/ˈsɜːr.kɪt/" vi_ipa="xờ-rờ-kít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="223cabdc-48c0-405e-8144-f96614904d8a" type="Noun">
+          <Vi>Mạch điện; vòng lặp đường đi</Vi>
+          <En>A closed path through which electricity flows, or a route that goes from a starting point and returns to it.</En>
+          <Example>The safety switch breaks the circuit to prevent overheating.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f249f5a-9ae4-4bf5-8673-d2ada2a8eaad">
+              <Vi>Mô tả một mạch điện kín trong thiết bị điện tử.</Vi>
+              <En>Describing a complete electrical path in an electronic device.</En>
+            </Situation>
+            <Situation id="7040bf8d-5b2a-4559-b1c3-a4bd7d82c71f">
+              <Vi>Mô tả một tuyến đường khép kín (ví dụ: xe buýt du lịch quanh thành phố).</Vi>
+              <En>Describing a closed-loop route (e.g., a city tour bus loop).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="8143b459-81fb-45a6-82f5-65b23d1f173e" ipa="/səˈkɜːr.kɪt/" vi_ipa="sờ-rờ-kít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fbeefdca-e07c-4a8c-9f17-d6b906186f8c" type="Verb">
+          <Vi>Đi khép kín một vòng; làm thành một mạch khép kín</Vi>
+          <En>To travel over a route that begins and ends at the same place; to form a closed electrical path.</En>
+          <Example>The delegation will circuit the region to inspect local infrastructure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dae88c12-631a-4a31-9a1c-4d505181ade6">
+              <Vi>Mô tả việc di chuyển theo một vòng khép kín để khảo sát.</Vi>
+              <En>Describing movement along a closed loop for inspection or survey.</En>
+            </Situation>
+            <Situation id="953a76f4-a4e8-48c9-bd67-6497b4469bc7">
+              <Vi>Mô tả việc thiết lập mạch điện kín trong kỹ thuật.</Vi>
+              <En>Describing the act of establishing a closed electrical path in engineering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
