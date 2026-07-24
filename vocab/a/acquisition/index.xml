@@ -1,0 +1,40 @@
+<Vocab id="c7deb747-ddbe-4bf8-aa70-74902d2a0ab6" word="acquisition" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="0689f60e-a742-427d-af61-5f712fcc1db7" value="Mergers &amp; Acquisition Specialist" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6521b144-3ff0-439b-a97f-d73f23f41fcd" ipa="/ˌækwɪˈzɪʃ.ən/" vi_ipa="ác-ki-zi-shơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7f6f6af2-41e8-40fd-b290-a427cd6c043e" type="Noun">
+          <Vi>Sự tiếp nhận, sự chiếm hữu; sản phẩm được tiếp nhận</Vi>
+          <En>The act of acquiring something, or something that has been acquired, especially a valuable addition to a collection or organization.</En>
+          <Example>The company’s acquisition of the startup significantly expanded its AI capabilities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cba883fc-4f44-4fef-88c4-94f32b2260e6">
+              <Vi>Trong bối cảnh mua bán và sáp nhập doanh nghiệp, công ty mẹ thực hiện việc tiếp nhận một công ty con.</Vi>
+              <En>In the context of corporate mergers and acquisitions, the parent company carries out the acquisition of a subsidiary.</En>
+            </Situation>
+            <Situation id="f702a687-a3bb-4d8e-b235-40886ab081bc">
+              <Vi>Khi một bảo tàng mua lại một hiện vật quý hiếm từ nhà sưu tập tư nhân.</Vi>
+              <En>When a museum purchases a rare artifact from a private collector.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
