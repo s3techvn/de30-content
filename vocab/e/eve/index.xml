@@ -1,0 +1,50 @@
+<Vocab id="4c1c2e4b-f0bc-4d33-8c8c-8456c785023c" word="eve" type="short" status="done">
+  <Topics>
+    <Topic id="906ec058-bc5d-42a7-b67b-78a9090e95de" value="Time &amp; Calendar" />
+    <Topic id="3ee988a2-a502-48af-b180-cd1e900ee6de" value="Religion &amp; Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1fb6e909-5730-4b2e-a8d7-c7ce97642083" ipa="/iːv/" vi_ipa="i:-v">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="45d0401a-da0f-4b93-95a6-af41f5e55e5d" type="Noun">
+          <Vi>đêm trước (một ngày lễ hoặc sự kiện quan trọng)</Vi>
+          <En>the evening or night before a particular day or event, especially a religious festival</En>
+          <Example>We gathered at my grandmother’s house on Christmas Eve to exchange gifts and sing carols.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="951d889c-ba13-4505-b0cf-b92906f42653">
+              <Vi>Người ta thường tổ chức tiệc, trang trí, hoặc đi nhà thờ vào đêm trước lễ Giáng Sinh.</Vi>
+              <En>People often hold parties, decorate homes, or attend church services on the night before Christmas.</En>
+            </Situation>
+            <Situation id="fa6cfaf4-5247-4a9d-ba7e-7cf6af9cae18">
+              <Vi>Từ "Eve" có thể gắn với tên ngày lễ để chỉ đêm trước (ví dụ: New Year’s Eve).</Vi>
+              <En>The word "Eve" can be combined with a holiday name to denote the evening before (e.g., New Year’s Eve).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="50620cbc-be92-47da-9874-73a0f1e5a773" type="Noun">
+          <Vi>người phụ nữ (thường trong ngữ cảnh tôn giáo, chỉ Đức Mẹ Maria)</Vi>
+          <En>a woman, especially used in religious contexts to refer to the Virgin Mary or Eve in the Bible</En>
+          <Example>In Christian tradition, Mary is sometimes called the New Eve, contrasting with Eve of the Garden of Eden.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="265191e3-3eec-42b2-8b3a-9bb92cf1c5ab">
+              <Vi>Trong thần học Kitô giáo, "Eve" có thể mang nghĩa biểu tượng về sự khởi nguyên hoặc sự cứu rỗi.</Vi>
+              <En>In Christian theology, "Eve" may carry symbolic meaning related to origin or redemption.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
