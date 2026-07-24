@@ -1,0 +1,52 @@
+<Vocab id="e984d1d3-aab3-4053-831e-328fc1a93a31" word="printing" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="1e0bf994-2778-4a00-8b4c-6edd70be0bfb" value="Publisher" />
+    <Profession id="ce329308-cb2c-495b-b8d9-0e85c40c0802" value="Printer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dc2e85b7-74e7-4830-830c-a21593586db8" ipa="/ˈprɪn.tɪŋ/" vi_ipa="pờ-rin-tinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af164fe9-6225-47e2-ab81-0a66bab81ac5" type="Noun">
+          <Vi>Quá trình in ấn; bản in</Vi>
+          <En>The process of producing text and images on paper or other materials using ink and a printing press or digital printer.</En>
+          <Example>Modern printing technologies have made mass production of books faster and more affordable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="12f6f342-e434-497b-8e80-6adf73512e34">
+              <Vi>Trong nhà in, công đoạn in ấn bao gồm nạp giấy, điều chỉnh mực và vận hành máy in.</Vi>
+              <En>In a printing house, the printing process includes loading paper, adjusting ink, and operating the printing machine.</En>
+            </Situation>
+            <Situation id="b5c79a83-f491-4388-95bd-6fdc5d15bc98">
+              <Vi>Tờ báo in hôm nay có một bản in lỗi ở trang nhất.</Vi>
+              <En>Today’s printed newspaper has a misprint on the front page.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="239c12ef-997c-411e-a52d-403a3cc5b9b7" type="Noun">
+          <Vi>Hình ảnh hoặc văn bản được in ra</Vi>
+          <En>A copy or impression of text or images produced by printing; a printed item.</En>
+          <Example>The artist signed each printing of the limited-edition poster.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ccfdd30-a79e-4bb8-9c0a-89052c026d48">
+              <Vi>Bản in này được in trên giấy cao cấp và đóng gáy cẩn thận.</Vi>
+              <En>This printing is printed on premium paper and carefully bound.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

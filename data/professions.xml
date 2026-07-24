@@ -912,4 +912,5 @@
   <Profession id="a2089c14-09e9-478c-b587-7975ed061b59" slug="television-producer" value="Television Producer" />
   <Profession id="653005f9-b970-4623-adb6-e85794c4c56d" slug="ceramicist" value="Ceramicist" />
   <Profession id="da8b0bae-a7a3-4dc0-a1ae-c3934efef5f3" slug="gymnast" value="Gymnast" />
+  <Profession id="ce329308-cb2c-495b-b8d9-0e85c40c0802" slug="printer" value="Printer" />
 </Professions>
