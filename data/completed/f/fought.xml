@@ -1,0 +1,37 @@
+<Vocab id="a9dadf76-7cb8-44be-ac33-27b637f57a6a" word="fought" type="short" status="done">
+  <Topics>
+    <Topic id="f082e4a7-abc9-4bff-8859-9782e27d4547" value="Conflict" />
+  </Topics>
+  <Professions>
+    <Profession id="3515cde2-4912-4876-a67d-4c0cd4cd5527" value="Military Personnel" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b9121a3f-cc8e-48b4-b925-9cbcbfa0bbb7" ipa="/fɔːt/" vi_ipa="phốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="09e44286-acb3-4b85-a7a5-f48c540b89fd" type="Verb">
+          <Vi>đánh nhau, chiến đấu (quá khứ và past participle của fight)</Vi>
+          <En>to engage in physical combat or war; to struggle against an opponent</En>
+          <Example>They fought bravely to defend their village.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="91611bcb-3c58-4f91-9985-e87ce6ff2594">
+              <Vi>Mô tả một trận chiến hoặc xung đột vũ trang trong quá khứ.</Vi>
+              <En>Describing a past armed conflict or physical struggle.</En>
+            </Situation>
+            <Situation id="d2f8baeb-ab9e-4f91-b2de-5556972d598e">
+              <Vi>Dùng trong bối cảnh tranh luận hoặc đấu tranh cho một lý tưởng.</Vi>
+              <En>Used in the context of arguing or struggling for a cause.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
