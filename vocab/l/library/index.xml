@@ -1,0 +1,52 @@
+<Vocab id="2fe6f237-9df7-4790-b4f0-9315baba17c5" word="library" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f575f54d-169f-4305-b704-af5a138ed42a" ipa="/ˈlɪb.rər.i/" vi_ipa="líp-rờ-rì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6eb7caaf-531f-44f3-a592-d5825664c27b" type="Noun">
+          <Vi>Kho sách; thư viện</Vi>
+          <En>A building or room containing collections of books, periodicals, and sometimes other media for borrowing or reference.</En>
+          <Example>The students spent hours in the library preparing for their exams.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c2bb60d6-1a1b-4601-8b0e-ce773e1ddab7">
+              <Vi>Một nơi công cộng hoặc trong trường học nơi người ta có thể mượn sách để đọc.</Vi>
+              <En>A public or institutional space where people can borrow books and other materials for study or leisure.</En>
+            </Situation>
+            <Situation id="58464ef7-8f09-4806-868c-7fc9fc39846f">
+              <Vi>Cơ sở lưu trữ tài liệu, sách vở phục vụ học tập và nghiên cứu.</Vi>
+              <En>A facility housing collections of books, journals, and digital resources for academic or personal use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5bed1304-bd87-4044-83cb-3a2986112c31" type="Noun">
+          <Vi>Tập hợp các phần mềm hoặc thư viện mã nguồn dùng trong lập trình</Vi>
+          <En>A collection of pre-written code or software components that can be reused in programming to perform common tasks.</En>
+          <Example>The developer installed a new library to simplify image processing in the app.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="920432e8-cbed-4db3-8141-6636dc366b53">
+              <Vi>Một thư viện mã nguồn trong lập trình giúp tái sử dụng chức năng đã được viết sẵn.</Vi>
+              <En>A software library containing reusable functions or classes used by developers to avoid rewriting common code.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
