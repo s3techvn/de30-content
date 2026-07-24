@@ -1,0 +1,38 @@
+<Vocab id="66ef489e-4c5f-4c0d-901d-7c1f6a210250" word="mozambique" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7dc3ede0-049a-457c-99d4-045af4ea5897" ipa="/ˌmoʊ.zæmˈbɪk/" vi_ipa="mô-zăm-bíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b8f4d467-8ff2-48e3-bc1f-1a9eaac24b3a" type="Noun">
+          <Vi>Moçambique (tên gọi chính thức: Cộng hòa Moçambique)</Vi>
+          <En>A country in southeastern Africa, bordered by the Indian Ocean to the east, Tanzania to the north, Malawi and Zambia to the northwest, Zimbabwe to the west, and South Africa and Eswatini to the southwest.</En>
+          <Example>The coastal city of Maputo is the capital of Mozambique.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="68928445-a11b-408e-8772-b7445c6c8e6a">
+              <Vi>Đất nước ở Đông Nam Phi, từng là thuộc địa của Bồ Đào Nha.</Vi>
+              <En>A Southeast African nation formerly colonized by Portugal.</En>
+            </Situation>
+            <Situation id="58a78aa5-961a-4bbd-ab94-8e0d71261c84">
+              <Vi>Được biết đến với bờ biển dài, rạn san hô và nền văn hóa đa dạng.</Vi>
+              <En>Known for its long coastline, coral reefs, and diverse culture.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
