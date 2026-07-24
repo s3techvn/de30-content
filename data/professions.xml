@@ -852,4 +852,5 @@
   <Profession id="823d7b44-09a2-439a-81a9-07583e9e3785" slug="commodity-broker" value="Commodity Broker" />
   <Profession id="d56562a0-36d2-4cf1-9a9d-711d2328acc6" slug="tax-advisor" value="Tax Advisor" />
   <Profession id="c28d448f-7dfa-45fa-a51d-ad224b7712c4" slug="contract-manager" value="Contract Manager" />
+  <Profession id="b54806f4-e013-4100-9938-73246966161b" slug="prison-guard" value="Prison Guard" />
 </Professions>
