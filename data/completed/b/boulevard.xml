@@ -1,0 +1,40 @@
+<Vocab id="bff5f1af-249a-4529-baaa-303bc3947a1a" word="boulevard" type="short" status="done">
+  <Topics>
+    <Topic id="3dc7aad4-4f7c-4f3c-beb9-ac7fd44f3dee" value="Urban Planning" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="42af5c80-8dba-4798-8c89-c739b4bd1eca" ipa="/ˈbuː.lə.vɑːrd/" vi_ipa="bù-lơ-vác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="940aaedf-768b-4aca-95bb-52bf8108efaa" type="Noun">
+          <Vi>Đại lộ; đại lộ rộng, có cây xanh hai bên</Vi>
+          <En>A wide, tree-lined street, typically in a city, often with a median or central reservation.</En>
+          <Example>They strolled along the boulevard, enjoying the shade of the old oak trees.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6c8cb505-6996-4ea6-af1e-046375791be1">
+              <Vi>Mô tả một con đường lớn, rộng, thường ở trung tâm thành phố, có dải phân cách và hàng cây hai bên.</Vi>
+              <En>Describing a wide, often central city street with trees on both sides and usually a median strip.</En>
+            </Situation>
+            <Situation id="dc424d9c-a49f-4996-9b38-52b08e7c8f27">
+              <Vi>Dùng trong ngữ cảnh du lịch hoặc mô tả kiến trúc đô thị.</Vi>
+              <En>Used in travel writing or urban architecture descriptions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

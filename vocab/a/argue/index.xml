@@ -1,0 +1,54 @@
+<Vocab id="fe515cc6-d311-475a-8a34-57b9fe02c767" word="argue" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d388d557-ccfc-4bec-b801-be90e870eea8" ipa="/ˈɑːr.ɡjuː/" vi_ipa="ác-giu">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="870f2cb8-00e6-4483-880f-7a17bbd0b03d" type="Verb">
+          <Vi>tranh luận, cãi cọ, cãi vã</Vi>
+          <En>to exchange opposing arguments or opinions, typically in a heated or persistent manner</En>
+          <Example>They argued about where to go for dinner for over an hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab3c4a32-b9bb-464b-892d-ad7c053cc463">
+              <Vi>Hai người tranh cãi gay gắt về quan điểm chính trị.</Vi>
+              <En>Two people exchange heated opinions about political views.</En>
+            </Situation>
+            <Situation id="72671baa-255f-44ce-9fbf-9db5e953dbc7">
+              <Vi>Cặp vợ chồng cãi nhau về cách nuôi dạy con cái.</Vi>
+              <En>A couple argues about child-rearing approaches.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="81bd8670-0c1a-4fdb-b45f-815e3a3e6c5d" type="Verb">
+          <Vi>luận cứ, lập luận, biện hộ</Vi>
+          <En>to present reasons or evidence in support of a claim or position</En>
+          <Example>The lawyer argued that the evidence was inadmissible.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1ce4a56-39ec-4a48-bc2c-f4bfef139905">
+              <Vi>Luật sư tranh luận rằng bằng chứng không hợp lệ.</Vi>
+              <En>The lawyer argued that the evidence was inadmissible.</En>
+            </Situation>
+            <Situation id="fe90513d-7b28-427d-b531-0bac6416f351">
+              <Vi>Nhóm nghiên cứu đã lập luận rằng chính sách mới sẽ gây bất ổn.</Vi>
+              <En>The research team argued that the new policy would cause instability.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
