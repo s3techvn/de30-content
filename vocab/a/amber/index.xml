@@ -1,0 +1,56 @@
+<Vocab id="ac7ebf60-bba8-48c2-a7a9-7385ecd60cab" word="amber" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="b61f6d38-18fe-4ef2-8513-c33ef760f070" value="Jewelry" />
+    <Topic id="0c858101-dd75-42ca-b708-c64e996cac8c" value="Geology" />
+  </Topics>
+  <Professions>
+    <Profession id="a63013de-db83-49cb-8333-a49d70d605d2" value="Jeweler" />
+    <Profession id="08c3c0b0-aa96-418e-93b4-4b894f114494" value="Paleontologist" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="07ee5527-119b-4f3b-b209-587c051c7e13" ipa="/ˈæm.bər/" vi_ipa="ăm-bờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="be8c218c-f37c-4b55-b4c9-0f472bc8d97e" type="Noun">
+          <Vi>hổ phách</Vi>
+          <En>A transparent, yellowish to reddish-brown fossilized resin, often used in jewelry and sometimes containing preserved insects or plant material.</En>
+          <Example>The ancient necklace was strung with small, glowing amber beads.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="584c295a-a294-4443-bebd-78462a3634f6">
+              <Vi>Mô tả một viên đá quý tự nhiên được hình thành từ nhựa cây hóa thạch.</Vi>
+              <En>Describing a natural gemstone formed from fossilized tree resin.</En>
+            </Situation>
+            <Situation id="2a571a3c-3208-4791-ae8f-f332abcc114a">
+              <Vi>Trong bối cảnh khảo cổ học, phát hiện côn trùng trong hổ phách.</Vi>
+              <En>In an archaeological context, discovering insects trapped inside amber.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c80b2a8f-6482-4b85-bd4d-f7eb7357608a" type="Noun">
+          <Vi>màu hổ phách (màu vàng cam đậm)</Vi>
+          <En>A deep yellowish-orange color, resembling the natural hue of fossilized resin.</En>
+          <Example>The sunset painted the sky in shades of amber and rose.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2709db9-87ea-48a2-bfc2-bdfab0f17e86">
+              <Vi>Mô tả màu sắc của hoàng hôn hoặc trang phục.</Vi>
+              <En>Describing the color of a sunset or clothing.</En>
+            </Situation>
+            <Situation id="ed38f306-8f2f-46fc-8809-16dce05d7042">
+              <Vi>Trong thiết kế đồ họa, đặt tên cho một thang màu cụ thể.</Vi>
+              <En>In graphic design, naming a specific color in a palette.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

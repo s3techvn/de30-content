@@ -1,0 +1,52 @@
+<Vocab id="e31c7b2a-bab2-402e-aa79-6306d6cbeb40" word="bureau" type="short" status="done">
+  <Topics>
+    <Topic id="bb6a12b0-7589-4a66-bf86-b64a250fdfe0" value="Government" />
+    <Topic id="b53ecd91-0815-4565-b650-8c187f81f1b9" value="Office" />
+    <Topic id="e8a54817-5982-4255-b668-45b8342255e6" value="Furniture" />
+  </Topics>
+  <Professions>
+    <Profession id="cefc7e19-c35b-4ad6-b56d-18488ffebec9" value="Civil Servant" />
+    <Profession id="7201deac-263e-4c8f-a491-1cf9d21445fe" value="Administrator" />
+    <Profession id="812aa29c-85fb-4675-be93-76477fe20619" value="Office Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1f1d3280-aa52-471d-812c-7e76dcafa023" ipa="/ˈbʊr.oʊ/" vi_ipa="bờ-rô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2f76cf8b-76dc-40d6-b555-f520043a88b8" type="Noun">
+          <Vi>Cơ quan hành chính (đặc biệt ở Pháp); văn phòng chính phủ; sở</Vi>
+          <En>A government department or administrative division, especially in France; a government office or department.</En>
+          <Example>The French Ministry of the Interior oversees several bureaus responsible for domestic security.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad2bdc31-0dc2-4662-ac36-186bb3941b6a">
+              <Vi>Một cơ quan chuyên trách trong bộ máy hành chính nhà nước.</Vi>
+              <En>A specialized agency within a national administrative structure.</En>
+            </Situation>
+            <Situation id="ebf4fa15-4c4c-4a7e-ad1f-8ce7c6955b19">
+              <Vi>Tên gọi phổ biến ở Pháp cho các cơ quan như “bureau de poste” (bưu điện), “bureau de change” (tiền đổi ngoại tệ).</Vi>
+              <En>A common term in France for offices such as “bureau de poste” (post office) or “bureau de change” (currency exchange).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="839ec1e5-a1d7-4308-bf64-99ce9d418082" type="Noun">
+          <Vi>Bàn làm việc có ngăn kéo (thường có mặt phẳng rộng); bàn viết</Vi>
+          <En>A type of writing desk with drawers, typically featuring a slanted or flat top and multiple storage compartments.</En>
+          <Example>The antique bureau stood in the corner of the study, its brass handles gleaming in the sunlight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9442a5ab-fd01-4ea3-9da8-ed8ed5496b1b">
+              <Vi>Một chiếc bàn làm việc cổ điển với ngăn kéo và mặt nghiêng, thường dùng để viết thư hoặc làm việc.</Vi>
+              <En>An antique-style desk with drawers and a slanted top, commonly used for writing letters or office work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
