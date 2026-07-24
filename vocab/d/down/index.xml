@@ -1,0 +1,60 @@
+<Vocab id="2222d924-4af7-4eb2-8e11-d7a78eeb06dc" word="down" type="short" status="done">
+  <Topics>
+    <Topic id="1fd7e90e-7c51-4e9a-be0f-9b517ee8d771" value="Direction &amp; Movement" />
+    <Topic id="7811bd03-e2f5-4595-b8b6-0fd1fda16aa2" value="Emotions &amp; States" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="e4c10cda-64c6-4986-b8fc-95c5fb682b1a" value="Aviation Pilot" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="43982c2b-1737-444e-abea-29161e2e3dc0" ipa="/daʊn/" vi_ipa="đao-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cde89b87-9af7-4895-b7a6-7f7eeae9b411" type="adverb">
+          <Vi>hạ, xuống, hướng xuống</Vi>
+          <En>Move or fall from a higher to a lower position or level.</En>
+          <Example>She sat down on the chair and sighed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7c719ac-16d3-4f5f-9658-ff3a4b9edb18">
+              <Vi>Mô tả hành động ngồi xuống, cúi người, hoặc vật rơi xuống.</Vi>
+              <En>Describes the action of sitting, lowering, or falling downward.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b96e6246-2f6e-48d4-87a1-9c2006f47854" type="preposition">
+          <Vi>xuống dọc theo, theo hướng xuống</Vi>
+          <En>From a higher point or level along a surface or route.</En>
+          <Example>We walked down the hill to the river.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06a3b25c-ced5-4bdb-9dd8-15cdbde235cb">
+              <Vi>Dùng khi di chuyển dọc theo một con dốc, đường dốc, hoặc dòng chảy xuống.</Vi>
+              <En>Used when moving along a slope, road, or downward path.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="256ca981-5757-4e2e-b205-7967cce117c1" type="adjective">
+          <Vi>thấp, suy giảm, không vui</Vi>
+          <En>At a lower level, reduced in amount, or in a state of sadness or depression.</En>
+          <Example>His spirits were low—he felt down after the loss.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ccb5aea6-246f-4e15-85a6-b965feb6e60c">
+              <Vi>Mô tả trạng thái cảm xúc buồn bã hoặc tình hình tài chính/sản lượng giảm.</Vi>
+              <En>Describes a sad emotional state or reduced performance (e.g., sales, mood).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
