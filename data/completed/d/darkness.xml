@@ -1,0 +1,60 @@
+<Vocab id="e51488e6-5ad5-45c8-a0ab-fc241bb451a4" word="darkness" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="f9d5c517-3eea-40c0-8774-995a6dc3eb5c" value="Literature &amp; Arts" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3b882347-4552-4d71-a04b-22927492b3a5" ipa="/ˈdɑːrk.nəs/" vi_ipa="đác-nơ-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5efcb78-06a4-4888-9a34-cc94b5ebc2e5" type="Noun">
+          <Vi>Sự tối tăm; bóng tối</Vi>
+          <En>The absence of light; the condition of being dark.</En>
+          <Example>The darkness made it impossible to see the path ahead.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c06d7e4b-423c-45f6-bf9e-85ce1b42f6ca">
+              <Vi>Môi trường không có ánh sáng, ví dụ như trong phòng không bật đèn hoặc vào ban đêm.</Vi>
+              <En>An environment with no light, such as in a room with lights off or at night.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="37b72076-8b5d-4dcc-a0aa-b6a9ade71d76" type="Noun">
+          <Vi>Sự vô minh; sự dốt nát; sự thiếu hiểu biết</Vi>
+          <En>A lack of knowledge, understanding, or awareness; ignorance or obscurity (often metaphorical).</En>
+          <Example>His actions reflected the darkness of his ignorance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5dacab12-81fe-4e24-b384-605662fe38af">
+              <Vi>Dùng để chỉ trạng thái tinh thần hoặc trí tuệ bị che mờ, không rõ ràng, thiếu nhận thức.</Vi>
+              <En>Used to describe a mental or intellectual state that is clouded, unclear, or lacking awareness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6e885b20-032c-4ac7-8872-ef5deb8a9a4b" type="Noun">
+          <Vi>Sự bi quan; tâm trạng u ám, tiêu cực</Vi>
+          <En>A gloomy, pessimistic, or depressed mood or atmosphere.</En>
+          <Example>The darkness of the news left everyone feeling hopeless.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b366af2b-efb1-4a73-a032-e1c56dd61e48">
+              <Vi>Tình huống khi một nhóm người hoặc một cá nhân cảm thấy chán nản, mất hy vọng.</Vi>
+              <En>A situation where a group or individual feels despondent or without hope.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

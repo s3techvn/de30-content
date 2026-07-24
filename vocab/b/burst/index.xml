@@ -1,0 +1,82 @@
+<Vocab id="7afef138-d10e-4961-b3e2-7491049e2f6c" word="burst" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+    <Topic id="55f83bbe-4ebe-43c1-a92b-182f72208267" value="Physics/Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d31824c5-235f-4ca9-8039-5c0134a711c3" ipa="/bɜːrst/" vi_ipa="bớt-xợt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cef39896-4650-4fd0-9b1f-680b457b52ad" type="Verb">
+          <Vi>Phát nổ; Bùng nổ; Bùng phát (đột ngột, mạnh mẽ)</Vi>
+          <En>To break open or apart suddenly and violently, typically with loud noise and release of energy or pressure.</En>
+          <Example>The old boiler burst under excessive pressure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5d16eabe-8d92-499d-bd76-60e3e245bbca">
+              <Vi>Một bình gas phát nổ do bị đun nóng quá mức.</Vi>
+              <En>A gas cylinder explodes due to being overheated.</En>
+            </Situation>
+            <Situation id="eb861c7b-8f7e-47aa-83e3-1c77393b2c9b">
+              <Vi>Cô ấy bùng nổ thành tiếng khóc khi nghe tin dữ.</Vi>
+              <En>She burst into tears upon hearing the bad news.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f51972d6-3999-44bc-85c7-dd1a80d26399" type="Noun">
+          <Vi>Sự phát nổ; Sự bùng nổ; Cú bùng phát (đột ngột, mạnh mẽ)</Vi>
+          <En>A sudden, violent release of energy, pressure, or emotion.</En>
+          <Example>There was a burst of laughter when he told the joke.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a4bb412-e391-4879-930d-71df3a602d9a">
+              <Vi>Cú bùng phát của phong trào biểu tình đã làm chính quyền bất ngờ.</Vi>
+              <En>The sudden burst of the protest movement caught the authorities off guard.</En>
+            </Situation>
+            <Situation id="2c62e123-ec55-4c16-9101-bc552cf60aa4">
+              <Vi>Máy bay bị phá vỡ thành nhiều mảnh do áp suất bùng phát trong khoang.</Vi>
+              <En>The aircraft broke apart due to a burst of cabin pressure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c229cd39-2aab-4561-875a-b4e78df7e39e" ipa="/bɜːrst/" vi_ipa="bớt-xợt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c26fc782-619a-42a3-9a52-77ea13263b80" type="Verb">
+          <Vi>Bùng nổ (cảm xúc); Bộc phát (cảm xúc)</Vi>
+          <En>To express a strong emotion suddenly and uncontrollably.</En>
+          <Example>He burst into anger when he saw the damage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="620d3fb9-ab7d-44bf-8974-ab9c84d42a05">
+              <Vi>Cô ấy bùng nổ tiếng cười khi nghe câu chuyện hài hước.</Vi>
+              <En>She burst into laughter at the funny story.</En>
+            </Situation>
+            <Situation id="4b5bada1-9536-407f-87f9-c75805ce297c">
+              <Vi>Anh ấy bùng nổ nước mắt khi nhớ lại ký ức đau thương.</Vi>
+              <En>He burst into tears when remembering the painful memory.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
