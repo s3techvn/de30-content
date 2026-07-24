@@ -1,0 +1,36 @@
+<Vocab id="1b610e93-8b91-49a8-bdb2-e19966c3a6fa" word="accurate" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6baa835b-3022-462e-aca7-2e9a243e34ac" ipa="/ˈæk.jər.ət/" vi_ipa="ác-cơ-rết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ee441e06-7898-4b22-97ae-e9b5ba910cdb" type="Adjective">
+          <Vi>chính xác, đúng đắn</Vi>
+          <En>exact in description or detail; free from error or mistake</En>
+          <Example>The scientist recorded accurate measurements of the experiment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c0b05228-50f9-4386-90c5-79f9cc6f55ff">
+              <Vi>Mô tả dữ liệu, số liệu, hoặc thông tin một cách đúng hoàn toàn.</Vi>
+              <En>Describing data, figures, or information with complete correctness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
