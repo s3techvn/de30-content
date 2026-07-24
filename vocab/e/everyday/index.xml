@@ -1,0 +1,36 @@
+<Vocab id="22d1903c-da5e-4c55-87e3-229f012206f7" word="everyday" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="2d16890e-8e12-4fbb-9324-2cd26aea44ba" value="General Public" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7b49eeda-9907-452a-9424-df096c98eeb9" ipa="/ˈev.ri.deɪ/" vi_ipa="i-vơ-ri-đê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="af6891b3-a2e2-420d-9492-475a731c0285" type="Adjective">
+          <Vi>hàng ngày; thường nhật; bình thường</Vi>
+          <En>occurring or used every day; ordinary and common, not special or unusual</En>
+          <Example>She wears everyday clothes, not fancy outfits, for her office job.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9017a128-d1f9-464d-be54-5050cca5feb9">
+              <Vi>Mô tả những thứ quen thuộc, xảy ra mỗi ngày trong đời sống thường nhật.</Vi>
+              <En>Describing things that are routine, familiar, and part of daily life.</En>
+            </Situation>
+            <Situation id="4e729ac3-d0bc-4fb4-93c2-afd02187e990">
+              <Vi>Phân biệt giữa vật dụng thông dụng và vật dụng đặc biệt (ví dụ: đồ dùng hàng ngày vs đồ dùng dự tiệc).</Vi>
+              <En>Distinguishing between ordinary, routine items and special or formal ones (e.g., everyday dishes vs. fine china).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
