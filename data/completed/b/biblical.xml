@@ -1,0 +1,38 @@
+<Vocab id="4ac922f5-1080-4fb9-a19e-86a2eba4b76c" word="biblical" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="8b378611-b2d3-4392-824e-b9da18d0721c" value="Biblical Scholar" />
+    <Profession id="decbc985-1544-4503-a15d-6f6585b8c815" value="Religious Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="feb24a18-5ff3-4cdf-b234-d0785a7d748b" ipa="/bɪˈbɪl.ɪ.kəl/" vi_ipa="bích-bích-lơ-kờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a14d8804-2e1b-455d-aa8f-a47083acd127" type="Adjective">
+          <Vi>thuộc Kinh Thánh; như trong Kinh Thánh; rất lớn, rất nghiêm trọng (nghĩa bóng)</Vi>
+          <En>relating to the Bible; characteristic of or as described in the Bible; extremely serious or significant (figurative)</En>
+          <Example>She quoted a biblical passage during her speech.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80cffc4b-bee4-4860-b43d-cf71a240afa0">
+              <Vi>Trong giảng đạo hoặc học thuật tôn giáo, khi đề cập đến nội dung hoặc nguyên tắc trong Kinh Thánh.</Vi>
+              <En>In religious preaching or theological study, when referring to content or principles from the Bible.</En>
+            </Situation>
+            <Situation id="6d64e084-a6a2-4bc5-aa47-edbaf8c7eb46">
+              <Vi>Khi nhấn mạnh mức độ nghiêm trọng hoặc quy mô lớn (nghĩa bóng), ví dụ: "a biblical flood" = một cơn lũ kinh hoàng, chưa từng có.</Vi>
+              <En>When emphasizing extreme severity or scale (figurative), e.g., "a biblical flood" = a catastrophic, unprecedented flood.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
