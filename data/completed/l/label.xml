@@ -1,0 +1,70 @@
+<Vocab id="c2baf8fc-f627-4d56-a4e9-0af91988fa8b" word="label" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8cffa7e6-3d10-4533-9923-48a9a48595f7" ipa="/ˈleɪ.bəl/" vi_ipa="lê-bờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4b865c4e-b95c-4a9c-a87f-ac06e8025052" type="Noun">
+          <Vi>nhãn, thẻ, mác</Vi>
+          <En>A piece of paper, plastic, or other material attached to an object, typically providing information about it such as its name, price, or origin.</En>
+          <Example>The product comes with a warning label on the packaging.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="234210e1-4740-4a8b-86dc-09dc86d4fd23">
+              <Vi>Một miếng giấy dán trên chai nước ngọt ghi rõ thành phần và ngày hết hạn.</Vi>
+              <En>A paper tag stuck on a soda bottle showing ingredients and expiration date.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a4c7e5a3-1b6b-4a76-a9e9-2a01e9a2d473" type="Verb">
+          <Vi>gắn nhãn, dán mác, gắn thẻ</Vi>
+          <En>To attach a label to something, especially to identify or describe it.</En>
+          <Example>The warehouse staff labeled each box with its destination.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cfbf1fa7-b4fd-46c3-abff-6c529f7d1fdb">
+              <Vi>Nhân viên kho gắn nhãn vào từng thùng hàng trước khi vận chuyển.</Vi>
+              <En>The warehouse staff attaches labels to each crate before shipping.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="cad15d01-8981-4c9e-8cab-f26f7a14569e" ipa="/ləˈbeɪl/" vi_ipa="lơ-bê-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a45a528-74e4-4005-8070-cc9467dc99f3" type="Verb">
+          <Vi>gắn mác (cho người), gắn nhãn (cho ý kiến, quan điểm), gắn nhãn tiêu cực</Vi>
+          <En>To assign a label or description to someone or something, often in a way that oversimplifies or misrepresents them.</En>
+          <Example>She refused to be labeled as just a "team player" without acknowledging her leadership skills.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1ef74402-0681-4015-838e-539c5a8ce838">
+              <Vi>Trong phỏng vấn, ứng viên không muốn bị gắn nhãn là "người dễ bảo" mà không được đánh giá toàn diện.</Vi>
+              <En>During the interview, the candidate doesn’t want to be labeled as "easy to manage" without being assessed holistically.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
