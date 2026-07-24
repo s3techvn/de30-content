@@ -842,4 +842,5 @@
   <Profession id="38469ef3-3e06-41b3-85d8-f2ae439f3fda" slug="trade-analyst" value="Trade Analyst" />
   <Profession id="4e9a0e07-1084-4e20-aeb6-8bc435b6a784" slug="customs-officer" value="Customs Officer" />
   <Profession id="a4e28fa1-ad93-4acb-8380-cbf206405f43" slug="flight-instructor" value="Flight Instructor" />
+  <Profession id="97765fd4-a4e4-4515-8980-5ffffcc38f70" slug="lecturer" value="Lecturer" />
 </Professions>
