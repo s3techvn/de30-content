@@ -927,4 +927,5 @@
   <Profession id="1bb16b36-7198-4be7-9c80-1fcca03f3122" slug="employer" value="Employer" />
   <Profession id="7d540e96-067d-4f88-9f08-ecdfdceccebc" slug="cleaner" value="Cleaner" />
   <Profession id="cb92d94e-590a-455a-8824-52cc8c7ab9c8" slug="industrial-hygienist" value="Industrial Hygienist" />
+  <Profession id="08cbd6b3-6163-4514-96a9-c3f2f009c68e" slug="emergency-management" value="Emergency Management" />
 </Professions>

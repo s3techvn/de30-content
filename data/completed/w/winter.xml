@@ -1,0 +1,46 @@
+<Vocab id="aea3e804-e959-4aa4-b69f-d8d0c929b465" word="winter" type="short" status="done">
+  <Topics>
+    <Topic id="21e0683f-dfe7-4db3-b70c-1ed2bd0ae207" value="Weather and Seasons" />
+  </Topics>
+  <Professions>
+    <Profession id="21910a38-ef18-4b27-b3fe-fe1337ee8466" value="Agriculture" />
+    <Profession id="08cbd6b3-6163-4514-96a9-c3f2f009c68e" value="Emergency Management" />
+    <Profession id="f41871cc-4f11-4a5c-b6cd-bb41a48352db" value="Tourism" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ba720e9-9df8-492d-a41c-80c75cf7d225" ipa="/ˈwɪn.tər/" vi_ipa="vin-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8558355-cc57-4050-9f8e-a0c23b21791d" type="Noun">
+          <Vi>Mùa đông</Vi>
+          <En>The coldest season of the year, between autumn and spring, typically characterized by low temperatures, snow, and shorter daylight hours.</En>
+          <Example>Many people travel to ski resorts during winter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd3ed794-53b2-4e8f-8113-6d3abce75328">
+              <Vi>Mô tả thời tiết lạnh, tuyết rơi, và hoạt động đặc trưng của mùa đông.</Vi>
+              <En>Describing cold weather, snowfall, and typical winter activities such as skiing or holiday celebrations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d60c82eb-65d0-4119-96c4-51b697e0826d" type="Verb">
+          <Vi>Trải qua mùa đông; nghỉ đông (động vật)</Vi>
+          <En>To spend the winter season, especially in a state of reduced activity or dormancy (as in animals).</En>
+          <Example>Bears hibernate and winter in their dens.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b5fe183-efc6-4ca1-997f-64e6c6becb0f">
+              <Vi>Dùng khi nói về hành vi của động vật hoặc con người trong mùa đông.</Vi>
+              <En>Used when describing how animals or people prepare for or survive the winter months.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
