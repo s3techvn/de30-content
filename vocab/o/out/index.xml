@@ -1,0 +1,94 @@
+<Vocab id="2af69e31-972c-408c-bcf4-661724d801e1" word="out" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="df0bc4b1-cb52-4c02-8a77-27da611714dc" value="Movement" />
+    <Topic id="f9d6171f-6776-42a0-8407-dd09f03db396" value="Expression" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b5ab8168-70d7-4de8-90fd-256a4697a07b" ipa="/aʊt/" vi_ipa="át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6e986cce-6412-44c4-a510-1c55f3bfffaa" type="adverb">
+          <Vi>ra ngoài, ra ngoài trời, ra khỏi (nơi kín, kín đáo)</Vi>
+          <En>away from the inside; moving or going to the outside</En>
+          <Example>She stepped out of the house to get some fresh air.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="358bc270-61c9-42c9-b833-b0d11024423f">
+              <Vi>Mô tả hành động rời khỏi một không gian kín hoặc khu vực cụ thể.</Vi>
+              <En>Describes the action of leaving an enclosed space or specific area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ac5ca90b-b859-4361-a663-2af50b32b019" type="adverb">
+          <Vi>ra khỏi trạng thái hoạt động, ngừng hoạt động</Vi>
+          <En>no longer functioning, active, or in use</En>
+          <Example>The lights went out during the storm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1aebcaa3-9c52-485c-b2a5-04875061c282">
+              <Vi>Dùng khi thiết bị, hệ thống, hoặc ánh sáng ngừng hoạt động.</Vi>
+              <En>Used when a device, system, or light stops functioning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eb7449e2-bd4e-49f2-9942-3c1a23a3a7d8" type="adverb">
+          <Vi>ra ngoài, không còn trong (về thời gian, vị trí, hoặc trạng thái)</Vi>
+          <En>no longer present, available, or in stock</En>
+          <Example>The book is out of print, so it’s hard to find.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6924b2ee-f25d-4290-98ab-b6b219f25b87">
+              <Vi>Dùng khi nói về sản phẩm, thông tin, hoặc người không còn trong trạng thái sẵn có.</Vi>
+              <En>Used when referring to products, information, or people no longer available or present.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2a221637-fd00-4c46-adcb-525788ffa852" type="adverb">
+          <Vi>ra mặt, tiết lộ (bí mật, cảm xúc, v.v.)</Vi>
+          <En>made known or revealed (e.g., a secret or feeling)</En>
+          <Example>The truth finally came out after years of silence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fcd1c282-7c8a-4651-8e94-13b5b4ba3b39">
+              <Vi>Dùng khi một điều bí mật hoặc cảm xúc được tiết lộ công khai.</Vi>
+              <En>Used when a secret or emotion becomes publicly known.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="be22d9cb-1846-4393-97b6-1389c11f68b7" type="adverb">
+          <Vi>ra ngoài, không còn trong mối quan hệ (tình yêu, hôn nhân, v.v.)</Vi>
+          <En>no longer in a romantic or marital relationship with someone</En>
+          <Example>They broke up and are now out with other people.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f544ecbc-a0f3-47dc-8422-c294c8d38b8b">
+              <Vi>Dùng khi nói về việc chia tay và bắt đầu hẹn hò với người khác.</Vi>
+              <En>Used when describing post-breakup dating status.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1416a503-6cf0-4d6d-ba6f-29be9bb88619" type="adverb">
+          <Vi>ra ngoài, không còn trong tình trạng an toàn, ổn định (thường dùng trong cụm từ như "out of danger")</Vi>
+          <En>no longer in a dangerous, difficult, or unstable situation</En>
+          <Example>After the surgery, the doctor said he was out of danger.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="712a3938-c6dd-4a60-8445-764b5e3da81f">
+              <Vi>Dùng khi vượt qua giai đoạn nguy hiểm hoặc khó khăn.</Vi>
+              <En>Used when someone has passed through a dangerous or difficult phase.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

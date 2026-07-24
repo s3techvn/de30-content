@@ -1,0 +1,40 @@
+<Vocab id="b983e3a0-069d-4559-bbe4-106a9fdce3b8" word="obtain" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="3bfcb7f9-4181-4fc8-977a-5ea419075d5e" value="Academic" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="12e0c211-3d4d-4895-a092-e020afcfda3f" ipa="/əbˈteɪn/" vi_ipa="ơ-b-teyn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="02fce92c-b13e-4081-ab57-51592735635f" type="Verb">
+          <Vi>nhận được, có được (thông qua nỗ lực hoặc yêu cầu)</Vi>
+          <En>to get or acquire something, especially through effort or request</En>
+          <Example>She managed to obtain a scholarship after months of application.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="79563485-93b7-4206-8cfd-a5017e3d3dd2">
+              <Vi>Yêu cầu hoặc tìm cách có được một vật phẩm, thông tin, hoặc cơ hội.</Vi>
+              <En>Asking for or making efforts to acquire an item, information, or opportunity.</En>
+            </Situation>
+            <Situation id="30897cc5-a826-488f-95da-d0dcaa47559b">
+              <Vi>Đạt được điều gì đó mong muốn sau khi đấu tranh hoặc chờ đợi.</Vi>
+              <En>Achieving something desired after struggle or waiting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
