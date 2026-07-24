@@ -1,0 +1,73 @@
+<Vocab id="2c41f9c7-ee6a-4b83-9ec8-59c34f552ec8" word="pool" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="3d9b283a-d5d7-4403-ae26-d54611d2aea2" value="Swimming Instructor" />
+    <Profession id="dff87925-d15b-4d34-b0e7-d5390d2be143" value="Construction Engineer" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ab020220-2d0d-4990-9c4d-efbe836be784" ipa="/puːl/" vi_ipa="p-un">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e4828c5a-e8e1-4637-b714-eca421ef1a4a" type="Noun">
+          <Vi>hồ bơi; bể bơi</Vi>
+          <En>A large container filled with water, typically used for swimming or bathing.</En>
+          <Example>We spent the afternoon swimming in the pool.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8cd8255-e944-49cd-ac9b-1a51fa2d7f44">
+              <Vi>Người ta bơi lội hoặc thư giãn trong hồ bơi tại khách sạn.</Vi>
+              <En>People swim or relax in a hotel’s swimming pool.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5794dec7-70b9-4ed3-861f-bb15f3bb1a82" type="Noun">
+          <Vi>đám đông; nhóm người (được gom lại)</Vi>
+          <En>A large group or number of people or things considered together.</En>
+          <Example>The company draws talent from a pool of qualified candidates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="add14df6-61f2-47eb-9747-8b71dbf06bf1">
+              <Vi>Trong tuyển dụng, nhà quản lý chọn ứng viên từ một nhóm ứng viên tiềm năng.</Vi>
+              <En>In hiring, the manager selects candidates from a pool of qualified applicants.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0c235aed-4ead-42ec-8909-d8a8ad64a50b" type="Noun">
+          <Vi>đồng tiền chung (trong cá cược, đánh bạc)</Vi>
+          <En>The total amount of money wagered in a game or bet, especially in gambling contexts like poker.</En>
+          <Example>After the final hand, he won the entire pool.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34633461-72d3-446a-ae01-1114b6ffbb41">
+              <Vi>Trong ván poker, người chiến thắng lấy hết tiền đặt cược trong池 (pool).</Vi>
+              <En>In poker, the winner takes the entire pot (pool) of bets.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="98460de0-39ea-4486-83c5-485624ce3aef" type="Verb">
+          <Vi>gộp lại; góp chung (tiền, tài nguyên, nỗ lực)</Vi>
+          <En>To combine resources, efforts, or funds for a common purpose.</En>
+          <Example>They decided to pool their money to buy a vacation home.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c7c7f476-6e35-4c54-9331-6979cb326b20">
+              <Vi>Các công ty hợp tác gộp nguồn lực để phát triển dự án chung.</Vi>
+              <En>Companies collaborate to pool resources for a joint project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,40 @@
+<Vocab id="335e6ecf-6082-41f5-8e02-7680dbbc9b2a" word="combined" type="short" status="done">
+  <Topics>
+    <Topic id="774319c8-bcc4-498e-870e-66af05715bcb" value="Science &amp; Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="a6713d58-9fdb-4148-b6cc-f498f0d73560" value="Data Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="943ce620-31ec-4a34-8b73-4b7c9862a9a8" ipa="/kəmˈbaɪnd/">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f309fef0-b745-4372-b09c-aa48bb15cf79" type="Adjective">
+          <Vi>được kết hợp; kết hợp lại</Vi>
+          <En>formed by combining two or more things; united or merged.</En>
+          <Example>The combined efforts of the team led to a successful project launch.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8399108c-76d7-40db-b506-602aa17bac4a">
+              <Vi>Mô tả một sản phẩm hoặc hệ thống được tạo thành từ nhiều thành phần hoặc yếu tố được nối lại với nhau.</Vi>
+              <En>Describing a product or system made by merging multiple components or elements.</En>
+            </Situation>
+            <Situation id="151a143c-13a5-4f4d-9152-e8fe112c9d43">
+              <Vi>Dùng để nói về kết quả của việc hợp nhất nguồn lực, ý tưởng, hoặc dữ liệu.</Vi>
+              <En>Used when referring to the outcome of merging resources, ideas, or data.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
