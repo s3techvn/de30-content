@@ -1,0 +1,38 @@
+<Vocab id="830754d2-964e-42fd-95a3-5b0515c83493" word="constitution" type="short" status="done">
+  <Topics>
+    <Topic id="a7fb9478-e657-478f-9ed8-2f4f15e8ffe7" value="Law &amp; Government" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="0c642d25-fdaa-469f-8e39-090e8bf818bc" value="Constitutional Scholar" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7ccb386-6367-4d81-8a35-4f8b6bf35449" ipa="/ˌkɒn.stɪˈtjuː.ʃən/" vi_ipa="côn-tít-tiu-šơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="62673ea9-f056-4a38-b755-5572c86eae1e" type="Noun">
+          <Vi>Bản hiến pháp; thể chất, thể trạng (trong y học cổ truyền)</Vi>
+          <En>The fundamental principles and established precedents of a nation, state, or other organization, especially as embodied in a written document; also, the physical makeup or health of a person (especially in traditional medicine).</En>
+          <Example>The United States Constitution guarantees freedom of speech and religion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64d89c84-0544-4937-9fc1-1ba6ecc52da7">
+              <Vi>Trong bối cảnh pháp lý và chính trị, khi đề cập đến văn bản pháp lý cao nhất của một quốc gia.</Vi>
+              <En>In legal or political contexts, referring to the supreme legal document of a country.</En>
+            </Situation>
+            <Situation id="5a761cf0-0767-4652-85ef-e6d6168ed045">
+              <Vi>Trong y học cổ truyền, mô tả đặc điểm thể chất bẩm sinh của một người (ví dụ: người có constitution yếu dễ bị cảm lạnh).</Vi>
+              <En>In traditional medicine, describing a person’s inherent physical constitution (e.g., a weak constitution makes one prone to colds).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
