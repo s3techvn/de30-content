@@ -861,4 +861,5 @@
   <Profession id="31b73273-95ba-4128-a87b-ab3d5d692afb" slug="forest-ranger" value="Forest Ranger" />
   <Profession id="315d8d4b-8ca1-4726-acd8-bdef32a2e947" slug="optician" value="Optician" />
   <Profession id="036c0137-e6a2-4b71-beee-6bac0398b6bb" slug="retail-buyer" value="Retail Buyer" />
+  <Profession id="00e8ed45-9fdb-40d8-a01c-0045f6799e31" slug="writer-/-poet" value="Writer / Poet" />
 </Professions>

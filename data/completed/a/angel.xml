@@ -1,0 +1,52 @@
+<Vocab id="ae2ed1e5-20db-4c6d-a958-111ce4e57ea1" word="angel" type="short" status="done">
+  <Topics>
+    <Topic id="bcf27f06-9848-4478-a834-6ae3b2cdf451" value="Religion and Mythology" />
+    <Topic id="dda152c4-0f10-4f26-99be-bcc8e263387d" value="Literature and Arts" />
+    <Topic id="b5b7a61e-5acc-414d-9e37-acc075d0ddf2" value="Daily Life (figurative use)" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="00e8ed45-9fdb-40d8-a01c-0045f6799e31" value="Writer / Poet" />
+    <Profession id="892e1ea8-7006-4c46-93c4-2eac259cb784" value="Artist / Illustrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5a63d4ee-2cf6-4725-8b0a-49d1bc3af415" ipa="/ˈeɪn.dʒəl/" vi_ipa="ê-in-dơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cccfe3b6-c296-4a8d-9ccf-eafb2a2ce3f9" type="Noun">
+          <Vi>thiên thần</Vi>
+          <En>A spiritual being believed to act as a messenger or servant of God, often depicted with wings and a halo.</En>
+          <Example>According to Christian tradition, the angel Gabriel appeared to Mary to announce the birth of Jesus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3d5e8ecb-97fc-4e5e-b345-6f958ed7169a">
+              <Vi>Mô tả các sinh vật siêu nhiên trong tôn giáo, đặc biệt trong Kitô giáo, Hồi giáo, và Do Thái giáo.</Vi>
+              <En>Refers to supernatural beings in Abrahamic religions, especially as divine messengers.</En>
+            </Situation>
+            <Situation id="9c90c4a9-c38c-4838-9e19-5d9b3208d062">
+              <Vi>Dùng trong văn học, nghệ thuật để biểu tượng cho sự trong sáng, tốt lành.</Vi>
+              <En>Used metaphorically in literature and art to symbolize purity, innocence, or goodness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e6888967-1021-4bcc-b133-ba0f29f384ba" type="Noun">
+          <Vi>người tốt bụng, người hào phóng (nghĩa bóng)</Vi>
+          <En>A person who is exceptionally kind, generous, or helpful, especially in a crisis.</En>
+          <Example>She was an angel for driving me to the hospital in the middle of the night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="30043e35-f33b-4516-887e-4a23240cc607">
+              <Vi>Dùng để khen ngợi ai đó đã giúp đỡ tận tình trong tình huống khó khăn.</Vi>
+              <En>Used informally to praise someone who has provided generous or compassionate help.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

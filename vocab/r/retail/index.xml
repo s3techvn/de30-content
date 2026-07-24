@@ -1,0 +1,65 @@
+<Vocab id="1145924c-8d85-45e9-898a-883a9118f19f" word="retail" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="2998599f-ed40-4945-8561-ceba58d434dc" value="Shopping" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="5404dd49-5214-40be-8ae2-280dd3070b34" value="Store Manager" />
+    <Profession id="036c0137-e6a2-4b71-beee-6bac0398b6bb" value="Retail Buyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f5428b6-4e18-437e-a95a-aa5257e4c842" ipa="/ˈriː.teɪl/" vi_ipa="ri-tờ-le">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fd23839c-e2b9-4927-b61e-4a5f23660423" type="Noun">
+          <Vi>Bán lẻ</Vi>
+          <En>The sale of goods and services to consumers in small quantities, typically in stores or online, as opposed to wholesale.</En>
+          <Example>Many small businesses struggle to compete with large retail chains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf4d1d14-5c9c-41da-8e83-f1c290d96f31">
+              <Vi>Cạnh tranh giữa cửa hàng nhỏ và chuỗi bán lẻ lớn.</Vi>
+              <En>Competition between small shops and large retail chains.</En>
+            </Situation>
+            <Situation id="ee683f74-7b84-41e9-840c-f7622c1f38c8">
+              <Vi>Chiến lược bán lẻ đa kênh (omnichannel retail strategy).</Vi>
+              <En>An omnichannel retail strategy that integrates online and in-store shopping.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0cd55f76-f274-4b27-b4c6-38d65c2786e6" ipa="/rɪˈteɪl/" vi_ipa="rị-tờ-le">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8d0388d7-653a-43d6-9516-a7fed4a65119" type="Verb">
+          <Vi>Bán lẻ; bán sỉ để rồi bán lại</Vi>
+          <En>To sell goods or services directly to consumers for their personal use, usually through stores or online platforms.</En>
+          <Example>The brand decided to retail its products directly through its own website.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d1af013-34e8-4b9c-9e98-9876dee5354d">
+              <Vi>Cửa hàng bán lẻ quần áo thời trang cho khách hàng cá nhân.</Vi>
+              <En>A clothing store retails fashion items directly to individual customers.</En>
+            </Situation>
+            <Situation id="d33ba7c0-6c0d-4c20-8d3e-37f1ce8a5c0f">
+              <Vi>Nhà sản xuất tự bán lẻ sản phẩm thay vì qua đại lý.</Vi>
+              <En>The manufacturer retails its products directly instead of using intermediaries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
