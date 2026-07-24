@@ -1,0 +1,38 @@
+<Vocab id="2994e2d2-ac25-44a7-87fd-fd1f2ef06e78" word="gibraltar" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" value="Travel Guide" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3d18fdde-2af9-47f0-81d1-e46511dee4a0" ipa="/ɡɪˈbrɔːtəl/" vi_ipa="gi-bờ-rốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="50e43a57-4601-477b-b7cf-04e33e589e0d" type="Proper Noun">
+          <Vi>Quần đảo Gibraltar (một lãnh thổ hải ngoại của Anh nằm ở đầu phía nam bán đảo Iberia, giáp với Tây Ban Nha)</Vi>
+          <En>A British Overseas Territory located at the southern tip of the Iberian Peninsula, bordering Spain and overlooking the Strait of Gibraltar.</En>
+          <Example>The Rock of Gibraltar is a famous landmark and a key strategic point controlling access between the Atlantic Ocean and the Mediterranean Sea.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3766249d-0f7f-4ecd-ba2e-c303e4916e03">
+              <Vi>Địa điểm du lịch nổi tiếng với vòm đá khổng lồ và loài khỉ Macaque bản địa.</Vi>
+              <En>A famous tourist destination known for its massive limestone rock and native Barbary macaques.</En>
+            </Situation>
+            <Situation id="af6a3cb5-eec5-451c-afd6-f03ebb02b561">
+              <Vi>Địa điểm có vị trí chiến lược kiểm soát eo biển Gibraltar.</Vi>
+              <En>A strategically vital location controlling maritime passage through the Strait of Gibraltar.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
