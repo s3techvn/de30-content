@@ -1,0 +1,32 @@
+<Vocab id="ab3b940c-e543-45d9-86da-7be0c033bcc7" word="doug" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4f371a77-db86-4d60-a40b-2f3a6e01e19a" ipa="/daʊɡ/" vi_ipa="đao-g">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0b0bd65-7c1a-45c0-8c94-b13738b10380" type="Noun">
+          <Vi>Tên riêng (đệm hoặc tên đệm phổ biến ở Mỹ, thường là viết tắt của Douglas)</Vi>
+          <En>A male given name, often a short form of Douglas.</En>
+          <Example>My neighbor’s son is named Doug.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ccf6679-f0c5-46c0-a2f1-d9e47f04796e">
+              <Vi>Trong giao tiếp hàng ngày, người Mỹ thường gọi nhau bằngDoug thay vì Douglas để thân mật hơn.</Vi>
+              <En>In everyday conversation, Americans often use “Doug” instead of “Douglas” for a more informal, friendly tone.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
