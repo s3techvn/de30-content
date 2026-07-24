@@ -1,0 +1,51 @@
+<Vocab id="36c5f102-c43a-4748-bef7-2488692bd835" word="worst" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="01a81ca0-f4cf-4188-a200-9da0412d3ae2" value="Evaluation" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8080469-73d3-4707-8670-901a2bfaad93" ipa="/wɜːrst/" vi_ipa="wooc-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f9ca28af-06c1-4108-8198-b77aa8dc117c" type="Adjective">
+          <Vi>tệ nhất, xấu nhất, kém nhất</Vi>
+          <En>the most bad, poor, or unsatisfactory; of the lowest quality or condition</En>
+          <Example>That was the worst movie I’ve ever seen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a54aafe0-0df2-41a2-9be7-d6174fa5aada">
+              <Vi>Mô tả điều kiện, chất lượng hoặc hiệu suất kém nhất trong một tập hợp.</Vi>
+              <En>Describing the condition, quality, or performance that is least acceptable in a group or comparison.</En>
+            </Situation>
+            <Situation id="e48b9e17-6afc-4212-8e3a-2a119fd0f6de">
+              <Vi>Dùng trong so sánh superlative để chỉ mức độ tiêu cực tối đa.</Vi>
+              <En>Used in superlative comparisons to indicate the highest degree of negativity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="09a245c3-346d-4e67-8cd4-56f0f7badeb8" type="Adverb">
+          <Vi>ở mức tệ nhất, một cách tệ hại nhất</Vi>
+          <En>to the greatest degree of badness or unsatisfactoriness</En>
+          <Example>He performed worst in the final round.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f377abcf-9b34-4d93-916c-df6c2d6a2842">
+              <Vi>Mô tả mức độ thực hiện hoặc hiệu suất thấp nhất trong một hoạt động.</Vi>
+              <En>Describing the lowest level of performance or execution in an activity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
