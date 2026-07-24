@@ -1,0 +1,44 @@
+<Vocab id="98e45c00-49d0-4c61-bbe5-c00566247782" word="doctor" type="short" status="done">
+  <Topics>
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="7393664c-9303-4e69-9508-750980bd0f22" value="Physician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="559adfbf-82e3-4f5f-877c-a00141f30746" ipa="/ˈdɑːk.tɚ/" vi_ipa="đốc-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3d26676c-3791-414e-a7bd-d4497507f4fa" type="Noun">
+          <Vi>Bác sĩ</Vi>
+          <En>A qualified practitioner of medicine who treats illness and injury.</En>
+          <Example>The doctor prescribed antibiotics for my infection.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97eda593-68af-4c41-89c5-fd5108e40088">
+              <Vi>Người bệnh đến phòng khám để được bác sĩ khám và tư vấn điều trị.</Vi>
+              <En>A patient visits a clinic to be examined and receive treatment advice from a doctor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8acff350-4eaf-4e74-a1ab-d668f83e9c1a" type="Verb">
+          <Vi>Điều trị bằng y học; chữa (bệnh)</Vi>
+          <En>To treat (a patient or condition) using medical knowledge and skills.</En>
+          <Example>The vet will doctor the injured dog until it recovers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df0f6b24-9ff5-4cbc-99a7-8a09276f315b">
+              <Vi>Nhân viên y tế sơ cứu và điều trị vết thương cho nạn nhân tại hiện trường.</Vi>
+              <En>Medical staff provide first aid and treat the victim’s injuries at the scene.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
