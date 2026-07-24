@@ -1,0 +1,32 @@
+<Vocab id="2b84d470-fa2e-4222-b9b3-f8f7fba57d78" word="barbara" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2c4afff4-56df-4905-9759-af166c92e057" ipa="/bəˈrɑː.bə.rə/" vi_ipa="bơ-rá-bơ-rơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aab8d516-613d-485d-aae9-767d9e06d372" type="Proper Noun">
+          <Vi>Tên riêng, thường là tên nữ (Barbara)</Vi>
+          <En>A female given name of Latin origin, historically common in English-speaking countries.</En>
+          <Example>Barbara Bush served as First Lady of the United States from 1989 to 1993.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78885e0b-b577-4fc4-a92d-36cc7a1597be">
+              <Vi>Dùng để gọi một người phụ nữ có tên Barbara, ví dụ trong văn học, báo chí, hoặc đời sống.</Vi>
+              <En>Used to refer to a woman named Barbara, e.g., in literature, news, or everyday life.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

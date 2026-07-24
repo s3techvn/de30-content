@@ -1,0 +1,38 @@
+<Vocab id="be38f9bc-beb1-4054-9c79-4ad883b7111a" word="apparel" type="short" status="done">
+  <Topics>
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+    <Profession id="b8d12e1c-af0e-4726-b04b-789491176dec" value="Textile Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5181c06d-5605-439b-a45f-1665adc54e0d" ipa="/əˈpær.əl/" vi_ipa="ơ-pờ-rờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="25195772-9dc1-4f68-92ce-f9724a3285a6" type="Noun">
+          <Vi>quần áo, trang phục</Vi>
+          <En>Clothing or dress, especially of a particular type or for a particular occasion.</En>
+          <Example>The company designs sustainable apparel for outdoor activities.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4ae84ade-e33d-4ba6-a57b-90fe0e436895">
+              <Vi>Một cửa hàng bán quần áo thời trang hiện đại.</Vi>
+              <En>A store selling modern fashion clothing.</En>
+            </Situation>
+            <Situation id="7f879d8f-1e91-456c-bebb-f3327344f29c">
+              <Vi>Công ty sản xuất trang phục bảo hộ lao động.</Vi>
+              <En>A company manufacturing protective workwear.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
