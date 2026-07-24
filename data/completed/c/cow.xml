@@ -1,0 +1,56 @@
+<Vocab id="c2a82303-b90c-4425-8c79-b2ef1167b3d2" word="cow" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="c1ab16c7-827a-48c9-9650-cca25e29f988" value="Butcher" />
+    <Profession id="531b3033-72af-457b-8c6e-f8ad8d208825" value="Dairy Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bcab9ddd-c4a6-4294-9d7c-874c428a014c" ipa="/kaʊ/" vi_ipa="cơ-u">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a67f49a1-bda3-4268-8b1c-f24d96e2b761" type="Noun">
+          <Vi>con bò cái</Vi>
+          <En>a female bovine animal, especially one kept for milk or meat production</En>
+          <Example>The farmer milks the cow every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c032dd1f-0e9f-461e-8357-940a4c52acc3">
+              <Vi>Nhà nông chăm sóc và vắt sữa bò cái.</Vi>
+              <En>A farmer tends to and milks a female cow.</En>
+            </Situation>
+            <Situation id="8a148b23-a952-4bf2-b900-54a35535e74a">
+              <Vi>Trong trang trại, bò cái được nuôi để lấy sữa.</Vi>
+              <En>In dairy farms, cows are raised primarily for milk.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="91cd1d21-61af-43a7-9096-9f3e77dea5bc" type="Noun">
+          <Vi>con bò (dùng chung cho cả đực và cái, nhưng thường hiểu là bò cái)</Vi>
+          <En>a large, domesticated bovine animal (Bos taurus), typically used for meat, milk, or labor</En>
+          <Example>Cows graze in the pasture during the day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c2bac617-f7d3-4070-ac78-655879b0a9a3">
+              <Vi>Đàn bò đang ăn cỏ trên đồng cỏ.</Vi>
+              <En>A herd of cows is grazing on the pasture.</En>
+            </Situation>
+            <Situation id="6c3e0450-7b7a-4d5f-b7db-f7c7995b4de4">
+              <Vi>Bò được chăn thả tự do ở vùng nông thôn.</Vi>
+              <En>Cows are often allowed to roam freely in rural areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

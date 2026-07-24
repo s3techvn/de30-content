@@ -1,0 +1,58 @@
+<Vocab id="9a82174f-f49f-4d51-850d-633fb24698e7" word="mad" type="short" status="done">
+  <Topics>
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d6218412-3065-46b2-8038-06775dccb362" ipa="/mæd/" vi_ipa="mết">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="39006dc8-98b7-4099-8f4f-3fbf8117dc9a" type="Adjective">
+          <Vi>giận dữ, điên cuồng</Vi>
+          <En>feeling or showing strong anger; very angry</En>
+          <Example>She was mad when she found out he had lied.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bff4891a-a053-4cf1-bb07-610a84e5d8be">
+              <Vi>Mô tả trạng thái tức giận mạnh mẽ sau khi gặp sự bất công hoặc bị phản bội.</Vi>
+              <En>Describes intense anger after experiencing unfairness or betrayal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8fd8f849-5e56-481c-8786-47f88a177e6e" type="Adjective">
+          <Vi>điên, mất trí</Vi>
+          <En>suffering from a mental illness that causes irrational behavior; insane</En>
+          <Example>He was locked up in a mental hospital after going mad.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39986720-d109-46fd-83af-5bab0db89377">
+              <Vi>Dùng trong văn cảnh mô tả hành vi bất thường do rối loạn tâm thần (thường mang tính mô tả chứ không phải chẩn đoán lâm sàng).</Vi>
+              <En>Used descriptively (not clinically) to refer to irrational behavior possibly due to mental illness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2324e92e-7ebc-4600-a976-47f7194dc984" type="Adjective">
+          <Vi>điên cuồng vì yêu, say đắm</Vi>
+          <En>overcome with strong emotion, especially love or desire</En>
+          <Example>He was madly in love with her from the moment they met.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b6fcf90-b0ec-42cf-b12e-4fb49e087412">
+              <Vi>Mô tả tình yêu mãnh liệt, say đắm đến mức dường như “điên”.</Vi>
+              <En>Describes intense romantic passion, almost to the point of obsession.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
