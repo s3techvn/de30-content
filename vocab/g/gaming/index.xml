@@ -1,0 +1,40 @@
+<Vocab id="a24e4d01-56a1-4f4c-be8d-0bb4f2ad7a75" word="gaming" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="00f113b8-1700-4b3a-bbf4-b2b97815a22c" value="Leisure" />
+  </Topics>
+  <Professions>
+    <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" value="Game Developer" />
+    <Profession id="81f4f66e-d8f4-4373-86ca-4b6d4c9e0646" value="Esports Player" />
+    <Profession id="81ab44b8-15d0-4c3b-8d66-af908b8a669d" value="Content Creator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="72b9f1bd-51b7-440a-9fb3-eed5cdc8aa09" ipa="/ˈɡeɪ.mɪŋ/" vi_ipa="gê-ming">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="351f461c-55dd-4121-afc3-4385481749ec" type="Noun">
+          <Vi>Trò chơi điện tử; hoạt động chơi game</Vi>
+          <En>The activity of playing electronic or video games, especially as a hobby or profession.</En>
+          <Example>Online gaming has become a major form of entertainment worldwide.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7794d526-e591-4b2d-8d08-17d2a350cc59">
+              <Vi>Người chơi dành nhiều giờ mỗi ngày để tham gia các trò chơi trực tuyến như Liên Minh Huyền Thoại hoặc FIFA.</Vi>
+              <En>A person spends several hours daily playing online games such as League of Legends or FIFA.</En>
+            </Situation>
+            <Situation id="fce1867a-c1fb-4453-8e13-fbc9d2e316f5">
+              <Vi>Các giải đấu thể thao điện tử (esports) ngày càng thu hút khán giả toàn cầu.</Vi>
+              <En>Esports competitions are increasingly attracting global audiences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
