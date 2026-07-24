@@ -1,0 +1,100 @@
+<Vocab id="d66ed13a-fa4c-4740-b320-f4ce2b4baa60" word="fold" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="b7eaf6ae-bd77-43fb-bd14-f372327023ec" value="Paper Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b4042b21-a734-45f8-82fb-022088106220" ipa="/fəʊld/" vi_ipa="phờ-ô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08f3a7d4-6cb8-416b-9d6d-c4eb06b5a005" type="Verb">
+          <Vi>gấp</Vi>
+          <En>to bend something (typically paper, fabric, or a road) over so that one part lies on top of another</En>
+          <Example>She folded the letter and placed it in the envelope.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3f379bf-7d7e-436d-9a85-d49b17600a6b">
+              <Vi>Gấp giấy để làm thiệp hoặc thư tay</Vi>
+              <En>Folding paper to make a card or handwritten letter</En>
+            </Situation>
+            <Situation id="1e31611a-313e-4cd0-be77-82dd66875ed7">
+              <Vi>Gấp quần áo cẩn thận trước khi bỏ vào vali</Vi>
+              <En>Folding clothes neatly before packing them into a suitcase</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9ed8219b-27c1-4143-9062-b090cb092ac5" type="Noun">
+          <Vi>sự gấp; nếp gấp</Vi>
+          <En>a crease or line formed by folding something</En>
+          <Example>The origami crane has many precise folds.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a71dfc4-4b35-482b-b1ce-41b255f7a851">
+              <Vi>Đường nếp gấp trên bản đồ giấy</Vi>
+              <En>The crease lines on a paper map</En>
+            </Situation>
+            <Situation id="fd322fca-9409-4744-b8c8-ba050d79c289">
+              <Vi>Chiếc áo sơ mi có những nếp gấp đều và sắc nét</Vi>
+              <En>The shirt has neat, sharp folds</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c6f4fe82-92bc-4903-ba56-4a12953bb827" type="Verb">
+          <Vi>gộp, hợp nhất (công ty, tài sản, quyền lực…)</Vi>
+          <En>to combine or merge (a company, assets, or power) into a single entity</En>
+          <Example>The two firms decided to fold their operations into one new organization.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f5afe24-64f9-4cca-b643-af7aaffd56ab">
+              <Vi>Hai công ty sáp nhập để tạo thành một thực thể mới</Vi>
+              <En>Two companies merging to form a single new entity</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="894dafbe-7666-461f-8f00-002b586fb684" type="Verb">
+          <Vi>thuận theo, tuân theo (ý kiến, lời khuyên, quy định…)</Vi>
+          <En>to comply with or follow (advice, instructions, or rules)</En>
+          <Example>He refused to fold and stood by his original decision.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c0696fb5-3f2c-41ad-ab63-971a40f16cbe">
+              <Vi>Không chịu nhượng bộ trước áp lực từ cấp trên</Vi>
+              <En>Refusing to yield under pressure from superiors</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d731a35d-13d6-4510-9944-0b03a9d183b9" ipa="/fəʊld/" vi_ipa="phờ-ô-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="38d7b720-6adb-4958-94bd-0156672488cb" type="Noun">
+          <Vi>đường nếp gấp (trong địa chất học)</Vi>
+          <En>a bend or curve in rock layers formed by deformation in the Earth's crust</En>
+          <Example>The anticline is a type of fold that arches upward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="30139449-b8e9-42c8-9bfd-68df1d55a6bd">
+              <Vi>Nhà địa chất quan sát các nếp gấp trong lớp đá để hiểu lịch sử kiến tạo</Vi>
+              <En>Geologists study folds in rock layers to understand tectonic history</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
