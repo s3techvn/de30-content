@@ -1,0 +1,56 @@
+<Vocab id="893cdb5a-726a-422b-a9d7-5e7af956aac9" word="real" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="46cc6bfc-8cb0-40c4-9bd7-2c9e22eac2af" value="Any" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c742f0df-73d7-43ba-a9c8-431f989810f1" ipa="/ˈriː.əl/" vi_ipa="ri-i-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d29c3ca3-f05c-41e5-ae96-8283327be681" type="Adjective">
+          <Vi>thật, thực sự, chân thật</Vi>
+          <En>Being in accordance with fact or truth; not false, imaginary, or artificial.</En>
+          <Example>She gave a real smile, not a forced one.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7882752a-3434-4381-a71a-91e111d20100">
+              <Vi>Mô tả điều gì đó tồn tại hoặc xảy ra trong thực tế, không phải ảo tưởng hay giả tạo.</Vi>
+              <En>Describing something that exists or occurs in actuality, not in imagination or as a pretense.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a85a0de0-b26e-4fb2-913a-b3e3a53e15b1" type="Adjective">
+          <Vi>thật (dùng để nhấn mạnh sự thật, thường trong câu hỏi tu từ hoặc phản bác)</Vi>
+          <En>Used for emphasis, especially in questions or exclamations to express surprise, disbelief, or intensity.</En>
+          <Example>Is he *really* going to quit his job?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40b96929-6b68-419a-931e-9b08efe8eb22">
+              <Vi>Dùng trong câu hỏi hoặc câu cảm thán để thể hiện sự kinh ngạc, hoài nghi hoặc nhấn mạnh cảm xúc.</Vi>
+              <En>Used in questions or exclamations to express surprise, doubt, or strong emotion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0e730ae2-a62f-4e92-a6a5-0fc46a7d6fac" type="Adjective">
+          <Vi>thật (dùng trong ngữ cảnh tiền tệ: tiền thật, trái phiếu thật)</Vi>
+          <En>Relating to actual money or assets, as opposed to paper or synthetic substitutes.</En>
+          <Example>The bank only accepts real dollars, not digital tokens.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4788137e-e397-495d-b338-583a68541369">
+              <Vi>Liên quan đến tiền tệ hoặc tài sản vật chất thực, không phải tiền ảo hay chứng khoán giả định.</Vi>
+              <En>Referring to physical currency or tangible assets, as opposed to digital or virtual equivalents.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

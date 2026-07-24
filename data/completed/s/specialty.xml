@@ -1,0 +1,41 @@
+<Vocab id="30bf3ff1-5fd6-499c-8549-6eb4d85bbdfb" word="specialty" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="ef4eac5c-f42d-4374-9da3-a240f95a85d2" value="Professions" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8122a084-4a36-416f-8fa9-80376ed0bc3e" ipa="/ˈspɛʃ.əl.ti/" vi_ipa="sờ-pê-lờ-ti">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="629d8ab4-c68c-425b-9b3f-db49469cdf21" type="Noun">
+          <Vi>Chuyên môn; sở trường; món đặc sản (đặc biệt nổi bật)</Vi>
+          <En>A particular skill, activity, or subject in which someone has great knowledge or ability; a dish that a restaurant is especially known for.</En>
+          <Example>Her specialty is French cuisine, especially soufflés.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e06b49a-63ec-4354-9a1d-d6bc931997c6">
+              <Vi>Một bác sĩ được đào tạo chuyên sâu về một lĩnh vực y tế cụ thể.</Vi>
+              <En>A doctor who has advanced training and expertise in a specific area of medicine.</En>
+            </Situation>
+            <Situation id="367b6924-cb9f-4e1b-957d-802bd26f4c6f">
+              <Vi>Món ăn nổi bật nhất trong thực đơn của nhà hàng.</Vi>
+              <En>The most famous or signature dish served by a restaurant or chef.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
