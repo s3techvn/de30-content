@@ -1,0 +1,37 @@
+<Vocab id="b59d4612-f36c-4b6a-9c4e-2f5dea10dbb5" word="detective" type="short" status="done">
+  <Topics>
+    <Topic id="d49c8ef2-6d63-4197-86e3-3a2d47aca529" value="Law &amp; Crime" />
+  </Topics>
+  <Professions>
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+    <Profession id="0fed7238-bc23-4f21-b1ea-8f5070f307b8" value="Private Investigator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4d9ca566-433f-4181-b6b2-2a4b983b6e00" ipa="/dɪˈtek.tɪv/" vi_ipa="đi-téc-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c93cade7-51c9-4dbe-915c-b014b40c42e4" type="Noun">
+          <Vi>thám tử</Vi>
+          <En>A person, especially a police officer, whose job is to solve crimes by gathering evidence and questioning witnesses.</En>
+          <Example>The detective carefully examined the crime scene for clues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8bb585bc-5375-40c1-a08b-9593ab9cc1c0">
+              <Vi>Một thám tử tư hoặc cảnh sát điều tra đang thu thập bằng chứng tại hiện trường vụ án.</Vi>
+              <En>A police officer or private investigator collecting evidence at a crime scene.</En>
+            </Situation>
+            <Situation id="0eaf754b-3bd5-49db-9ab2-00288e9effff">
+              <Vi>Người tham gia phỏng vấn nhân chứng và truy tìm thủ phạm trong phim hoặc tiểu thuyết hình sự.</Vi>
+              <En>A character in a crime novel or film who interviews witnesses and tracks down suspects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
