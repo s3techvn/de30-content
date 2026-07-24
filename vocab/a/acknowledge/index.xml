@@ -1,0 +1,50 @@
+<Vocab id="cb92a5e0-9b2d-4665-836d-4d2b9e322cd0" word="acknowledge" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c7681ba5-4e39-4323-81de-8a73a5a1eaa5" ipa="/əkˈnɒl.ɪdʒ/" vi_ipa="ác-nốt-lít-g">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f91c5b01-4c82-4091-8173-a9d2cde221b5" type="Verb">
+          <Vi>Công nhận, thừa nhận</Vi>
+          <En>To admit or accept that something is true or valid.</En>
+          <Example>She acknowledged that she had made a mistake.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2809dff7-3cdc-4d71-8cf4-02fc1ffbfbb2">
+              <Vi>Thừa nhận một lỗi sai hoặc sự thật khó tránh khỏi.</Vi>
+              <En>Admitting a mistake or an uncomfortable truth, often to take responsibility.</En>
+            </Situation>
+            <Situation id="59c7112e-2407-4919-9b4f-89d763edd35b">
+              <Vi>Công nhận đóng góp hoặc nỗ lực của người khác.</Vi>
+              <En>Recognizing someone’s effort, contribution, or presence (e.g., in a meeting or email reply).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="16867ebd-ab63-4957-bc3d-1f0f28272fa1" type="Verb">
+          <Vi>Chào, đáp lễ</Vi>
+          <En>To recognize someone’s presence or greeting, often with a nod, wave, or verbal response.</En>
+          <Example>He acknowledged the crowd with a wave as he entered the stage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ccc6baee-b4ec-4f4b-874f-89acb6a71efe">
+              <Vi>Nhìn và gật đầu khi gặp ai đó quen biết.</Vi>
+              <En>Noticing and responding briefly to someone you know in a social or professional setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
