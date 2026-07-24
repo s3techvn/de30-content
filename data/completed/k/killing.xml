@@ -1,0 +1,56 @@
+<Vocab id="d900ebb3-4596-4535-b181-797dcd970bb1" word="killing" type="short" status="done">
+  <Topics>
+    <Topic id="d49c8ef2-6d63-4197-86e3-3a2d47aca529" value="Law &amp; Crime" />
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+    <Topic id="138cb337-a218-45c7-8fd6-85e6446624ac" value="Ethics &amp; Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8d0be0e-b92a-44b2-8121-b9922fcc4e25" ipa="/ˈkɪl.ɪŋ/" vi_ipa="kí-linh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b1d68e6b-4530-4e25-bc49-30e356528d50" type="Noun">
+          <Vi>Hành vi giết người; cái chết do bị giết</Vi>
+          <En>The act of killing someone or something; the state of being killed</En>
+          <Example>The killing of the endangered species sparked international outrage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a00be149-8c23-4249-96a3-2a379449181f">
+              <Vi>Trong bản tin về bạo lực và tội phạm</Vi>
+              <En>In news reports about violence and crime</En>
+            </Situation>
+            <Situation id="559991a8-227e-4b7c-b7d8-6f7603addbc5">
+              <Vi>Khi thảo luận về án tử hình hoặc chiến tranh</Vi>
+              <En>When discussing capital punishment or war</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="551759ad-bb84-4d84-9e73-551f47c0ef8a" type="Noun">
+          <Vi>Sự tiêu diệt, hủy diệt (ẩn dụ)</Vi>
+          <En>The destruction or elimination of something, often used metaphorically</En>
+          <Example>The new policy led to the killing of the project’s last remaining support.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3c3a4a14-2097-4184-99b5-e20d0446f95c">
+              <Vi>Trong kinh doanh khi một sản phẩm bị ngừng phát triển</Vi>
+              <En>In business contexts when a product is discontinued</En>
+            </Situation>
+            <Situation id="b34f0dd1-6917-4e44-8c64-d0a55863e8c1">
+              <Vi>Trong văn học hoặc phê bình nghệ thuật để chỉ sự mất đi giá trị</Vi>
+              <En>In literary or artistic critique to describe loss of value or relevance</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
