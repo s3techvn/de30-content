@@ -1,0 +1,53 @@
+<Vocab id="079ba5b6-bf0c-4a31-a418-3fedb00615c0" word="theme" type="short" status="done">
+  <Topics>
+    <Topic id="a2b1ea59-853d-4275-922c-f0d2b70251e2" value="Arts &amp; Literature" />
+    <Topic id="9e25b0b3-770b-4f35-8cfa-74127f0e6c9c" value="Design" />
+    <Topic id="11b16bb9-4809-4e2b-b04e-da686f07aadb" value="Events &amp; Celebrations" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="269b9d67-7921-4ce2-ab02-d01564dd1bd5" ipa="/θiːm/" vi_ipa="thím">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6ebe8853-fc9b-4bc8-8668-f03da78f3041" type="Noun">
+          <Vi>chủ đề</Vi>
+          <En>The central idea, message, or subject of a work of art, literature, or an event.</En>
+          <Example>The theme of the novel is the struggle for identity in a changing society.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e96516f1-4135-4900-b393-994c6869b313">
+              <Vi>Giáo viên yêu cầu học sinh xác định chủ đề của bài thơ.</Vi>
+              <En>The teacher asks students to identify the theme of the poem.</En>
+            </Situation>
+            <Situation id="ecc9f936-5ca4-4718-ba16-5b20a2f3e19e">
+              <Vi>Ban tổ chức chọn chủ đề "Tương lai xanh" cho hội chợ năm nay.</Vi>
+              <En>The organizing committee chose "Green Future" as the theme for this year's fair.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3b2c6681-81a2-4321-8bdc-e5cfff110ce3" type="Noun">
+          <Vi>mẫu thiết kế (trang web, giao diện)</Vi>
+          <En>A pre-designed template or style used for websites, apps, or user interfaces.</En>
+          <Example>This WordPress theme allows users to customize colors and layouts easily.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b054fd69-c01a-47d0-bb29-8f0ef19d789f">
+              <Vi>Anh ấy tải về một mẫu giao diện tối cho blog cá nhân.</Vi>
+              <En>He downloaded a dark-mode theme for his personal blog.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

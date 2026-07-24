@@ -1,0 +1,45 @@
+<Vocab id="9535d83a-f84a-4222-bafb-dd2b6ad2f43f" word="shopping" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="66c916f1-5662-47c2-bc94-71c707cda23b" ipa="/ˈʃɑː.pɪŋ/" vi_ipa="số-píng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b14ef45b-f43e-4c7c-8458-e0447fae0ebf" type="Noun">
+          <Vi>Mua sắm</Vi>
+          <En>The activity of buying goods or services, typically from stores or online.</En>
+          <Example>I went shopping for new clothes at the mall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="253cf7f5-a7fa-4561-8e9b-6a02d34694d0">
+              <Vi>Mua đồ dùng, quần áo, thực phẩm… tại siêu thị, chợ, hoặc online.</Vi>
+              <En>Browsing and purchasing items such as groceries, clothing, or electronics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8a0ffaa3-f8ce-4632-a669-24b8d0f607c7" type="Verb">
+          <Vi>Mua sắm (động từ)</Vi>
+          <En>To visit stores or markets to buy goods.</En>
+          <Example>She likes to shop on weekends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c4015d02-07a1-4ec3-baa2-c03079251445">
+              <Vi>Hành động đi cửa hàng, chợ, hoặc trang thương mại điện tử để mua hàng.</Vi>
+              <En>Actively looking for and purchasing items, often for personal use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
