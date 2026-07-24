@@ -1,0 +1,68 @@
+<Vocab id="afa4bf39-7107-4f37-9284-3b911b4cb367" word="room" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="34553db5-ced8-4da1-8e85-75b726074241" value="Travel &amp; Accommodation" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="888ad858-160e-465f-8fc3-68abffc11166" ipa="/ruːm/" vi_ipa="rúm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="10d98e6c-7d06-4952-b4e5-8036ab755b4a" type="Noun">
+          <Vi>Phòng (trong nhà)</Vi>
+          <En>A part of a building that is enclosed by walls, floors, and a ceiling, typically used for a specific purpose such as sleeping, cooking, or working.</En>
+          <Example>She cleaned the room before her guests arrived.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f98f7c2a-51da-45e8-92e7-ca9d08724759">
+              <Vi>Mô tả không gian bên trong một công trình xây dựng.</Vi>
+              <En>Describing an enclosed space within a building used for a particular activity.</En>
+            </Situation>
+            <Situation id="2a63d297-0982-4bdb-a46a-8d2568806afe">
+              <Vi>Chỉ một khu vực riêng tư trong khách sạn hoặc nhà trọ.</Vi>
+              <En>Referring to a private space in a hotel or boarding house.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="967048a8-b4ff-4a14-b8a9-f2fb5c01a4e8" type="Noun">
+          <Vi>Chỗ trống, không gian còn lại</Vi>
+          <En>Space or scope available for further development, growth, or action.</En>
+          <Example>There is still room for improvement in the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b8805129-6962-4a2b-9441-6ef379ae45cc">
+              <Vi>Dùng trong ngữ cảnh so sánh hoặc đánh giá khả năng phát triển.</Vi>
+              <En>Used when discussing potential for growth, progress, or change.</En>
+            </Situation>
+            <Situation id="0915361d-9f9e-4f9c-a16e-e1bb856011b2">
+              <Vi>Chỉ sự chen chúc hoặc thiếu chỗ (trong cụm "no room").</Vi>
+              <En>Used in expressions like "no room" to indicate lack of space or opportunity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2babfcec-b58d-4cb9-aeef-f5a6bfe3c085" type="Noun">
+          <Vi>Phòng (trong cụm từ chỉ chức năng: phòng ăn, phòng khách...)</Vi>
+          <En>A designated area in a house or building with a specific function (e.g., living room, dining room).</En>
+          <Example>We moved the sofa to the living room.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b8d3017-ea8e-4c57-9321-0a0e71586cc0">
+              <Vi>Mô tả các loại phòng theo chức năng trong nhà ở.</Vi>
+              <En>Referring to rooms by their functional names in residential settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

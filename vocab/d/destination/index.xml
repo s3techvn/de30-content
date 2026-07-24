@@ -1,0 +1,38 @@
+<Vocab id="89900bcc-42a5-48d9-ae02-69917874b222" word="destination" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a7d39d70-e4aa-450e-9d28-8e65547146d7" ipa="/ˌdes.tɪˈneɪ.ʃən/" vi_ipa="đê-x-ti-nê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7de4e875-b1e4-42fc-8aed-4d5069dcadf2" type="Noun">
+          <Vi>Điểm đến; nơi chót để đến hoặc được hướng tới</Vi>
+          <En>The place to which someone or something is going or being sent.</En>
+          <Example>We finally reached our destination after a five-hour drive.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc4f0dff-4934-4ed9-82f5-34c2d34b0d2d">
+              <Vi>Trong kế hoạch du lịch, chỉ địa điểm chính mà nhóm sẽ ghé thăm cuối cùng.</Vi>
+              <En>In travel planning, the main location a group will visit at the end of the itinerary.</En>
+            </Situation>
+            <Situation id="7d183e4c-3eaf-4776-aa87-02122147a84a">
+              <Vi>Khi đặt vé máy bay, hành khách cần khai báo điểm đến cuối cùng.</Vi>
+              <En>When booking a flight, passengers must declare their final destination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
