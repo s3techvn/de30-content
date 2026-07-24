@@ -1,0 +1,38 @@
+<Vocab id="303d3498-24c1-4654-9863-6ee1b9696fd9" word="democracy" type="short" status="done">
+  <Topics>
+    <Topic id="8f5c0137-1fa7-47f8-acdf-b3b00be40edc" value="Politics &amp; Government" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" value="Political Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae18e168-f1ff-4d8d-be80-a17a84f8c317" ipa="/dɪˈmɑː.krə.si/" vi_ipa="đi-mô-cơ-xì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="57117022-4735-4a19-bc21-a28f5ca179e0" type="Noun">
+          <Vi>Dân chủ</Vi>
+          <En>A system of government in which the people have the authority to choose their governing legislation, typically through elected representatives.</En>
+          <Example>Many countries around the world strive to build and maintain a stable democracy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="524f7167-29e2-425b-925f-91bff8cba99e">
+              <Vi>Bầu cử tự do, đa nguyên, và quyền công dân được tôn trọng.</Vi>
+              <En>Free and fair elections, pluralism, and respect for citizens' rights.</En>
+            </Situation>
+            <Situation id="8d74dc03-1041-4e3b-9b5f-9163b3e2252a">
+              <Vi>Chính phủ chịu trách nhiệm trước người dân và hoạt động minh bạch.</Vi>
+              <En>The government is accountable to the people and operates transparently.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
