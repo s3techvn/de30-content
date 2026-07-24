@@ -1,0 +1,94 @@
+<Vocab id="8e3e9507-b709-4501-8447-01ce6f0aa543" word="master" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="e5e47faa-33c7-4295-9f76-c2c882a03ea6" value="Musician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5dea7d77-ce40-4445-b503-4719a9d40a36" ipa="/ˈmæs.tɚ/" vi_ipa="mét-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d4cd5b6d-9415-4127-bea9-c532716a3f6c" type="Noun">
+          <Vi>thầy chủ nhiệm; chủ; người thạo; bậc thầy</Vi>
+          <En>a person who has control or authority over others; an expert in a particular field</En>
+          <Example>She is the master of several foreign languages.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f48fb600-477e-4de7-b746-92396859d1b1">
+              <Vi>Người có kỹ năng vượt trội trong một lĩnh vực cụ thể.</Vi>
+              <En>A person with exceptional skill or knowledge in a specific domain.</En>
+            </Situation>
+            <Situation id="f244e5f0-9d90-4d96-8c0b-cd97a283eb03">
+              <Vi>Giáo viên phụ trách một lớp học (trong một số hệ thống giáo dục).</Vi>
+              <En>A teacher responsible for a particular class in certain educational systems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7a8d7046-352c-421c-9e00-db7bc55a7328" type="Adjective">
+          <Vi>chủ; chính; giỏi nhất; làm chủ</Vi>
+          <En>having full control or power; primary or principal in importance or quality</En>
+          <Example>He is the master of the situation, staying calm under pressure.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3acaab63-de8c-4373-ab0f-0e9b7cfc7a58">
+              <Vi>Mô tả người hoặc thứ có quyền kiểm soát hoàn toàn.</Vi>
+              <En>Describing someone or something that has complete control or dominance.</En>
+            </Situation>
+            <Situation id="40bf6cc6-c7d3-40e6-9a7f-52a69cb4786a">
+              <Vi>Mô tả mức độ thành thạo cao nhất trong một kỹ năng.</Vi>
+              <En>Describing the highest level of proficiency in a skill (e.g., "master level").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="902439ee-d87c-44b3-bb4b-48bf9e4eb119" type="Verb">
+          <Vi>làm chủ; chinh phục; thành thạo; dạy dỗ</Vi>
+          <En>to gain full knowledge or skill in something; to overcome or deal with successfully</En>
+          <Example>It took her years to master the piano.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f396c25-e18e-490f-bf6d-b96eb86fad8f">
+              <Vi>Học cách làm chủ một kỹ năng hoặc kiến thức phức tạp.</Vi>
+              <En>Learning to become highly proficient in a complex skill or subject.</En>
+            </Situation>
+            <Situation id="ec629b40-4bca-480a-8496-8fe8b7ffdc94">
+              <Vi>Điều khiển hoặc kiểm soát một tình huống khó khăn.</Vi>
+              <En>Successfully managing or overcoming a difficult situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="4c81a4c4-b431-438b-a241-769431ccf66b" ipa="/ˈmɑː.stɚ/" vi_ipa="mát-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6d533135-f0e2-4456-924c-9dfa35e7738e" type="Noun">
+          <Vi>chủ (trong gia đình, nô lệ – lỗi thời)</Vi>
+          <En>the male head of a household or the owner of slaves (archaic or historical usage)</En>
+          <Example>In the 19th century, the master owned the plantation and all the enslaved workers.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="aecf1758-cc9e-486a-9cb1-a38890f56baf">
+              <Vi>Cách xưng hô trong các xã hội có chế độ nô lệ (hiện không còn dùng).</Vi>
+              <En>A term of address used in slave-owning societies (now obsolete and offensive).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
