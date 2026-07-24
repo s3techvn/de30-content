@@ -1,0 +1,40 @@
+<Vocab id="8fa7b6c8-a4c4-4d64-ab4a-39dda682fda0" word="colonial" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" value="Political Scientist" />
+    <Profession id="d3bf17f7-591c-4113-bc3a-dd9f80160cfe" value="Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25863c0b-6976-4d68-90ba-9489b1015fc2" ipa="/kəˈloʊ.ni.əl/" vi_ipa="cơ-lô-ni-âl">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df78cdac-0247-434c-8ff2-f8c652d9de40" type="Adjective">
+          <Vi>thuộc về thời kỳ thuộc địa; thuộc về chủ nghĩa thực dân</Vi>
+          <En>relating to a colony or to colonialism; characteristic of a colony or colonial rule</En>
+          <Example>The colonial architecture in Hanoi still stands as a reminder of France’s past influence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="34d4f5ca-08b0-4a42-a583-8fbeb15e0539">
+              <Vi>Mô tả các yếu tố lịch sử, văn hóa, hoặc kiến trúc liên quan đến thời kỳ các nước phương Tây đô hộ Việt Nam và các quốc gia khác.</Vi>
+              <En>Used when describing historical, cultural, or architectural elements from the period of Western colonization in Vietnam and other countries.</En>
+            </Situation>
+            <Situation id="c8634bfb-4cea-41cf-b5c8-033c16be0ba9">
+              <Vi>Chỉ tính chất hoặc hệ quả của chủ nghĩa thực dân, đặc biệt trong bối cảnh chính trị và kinh tế toàn cầu.</Vi>
+              <En>Refers to the nature or consequences of colonialism, especially in global political and economic contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
