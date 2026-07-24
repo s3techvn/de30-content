@@ -1,0 +1,52 @@
+<Vocab id="e5c6ddd0-3701-4527-bf0f-7a1650d72385" word="exist" type="short" status="done">
+  <Topics>
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3c71e547-ae18-4f08-8048-405f6902bdbc" ipa="/ɪɡˈzɪst/" vi_ipa="ích-díts">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ccc7d7ba-253b-42be-a4b0-f1fec64fbf94" type="Verb">
+          <Vi>tồn tại</Vi>
+          <En>To have actual being; to live or continue to live, especially in a specified way or under certain conditions.</En>
+          <Example>The ancient temple still exists despite centuries of weather and war.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8565a40-12e0-444d-adac-25be9fcb8069">
+              <Vi>Mô tả sự hiện diện thực tế của một vật, hiện tượng, hoặc khái niệm trong thế giới vật chất hoặc tư tưởng.</Vi>
+              <En>Describing the real presence of a thing, phenomenon, or idea in the physical world or in thought.</En>
+            </Situation>
+            <Situation id="795de7f6-c533-482f-9078-dd5eb29068f7">
+              <Vi>Dùng trong các tranh luận triết học để bàn về bản chất của thực tại.</Vi>
+              <En>Used in philosophical debates to discuss the nature of reality.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fabf8454-23a3-41f8-a369-d698a8a1d40d" type="Verb">
+          <Vi>sống, tồn tại (trong hoàn cảnh khó khăn)</Vi>
+          <En>To live or survive, especially under difficult or minimal conditions.</En>
+          <Example>After the earthquake, survivors existed on limited food and water for days.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0f53c12-65e6-4a0d-8db9-2547f4c23657">
+              <Vi>Mô tả việc một người hoặc nhóm vượt qua khó khăn để duy trì sự sống.</Vi>
+              <En>Describing how a person or group manages to survive despite hardship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
