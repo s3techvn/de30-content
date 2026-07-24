@@ -1,0 +1,45 @@
+<Vocab id="d4ccd9b3-b28e-4272-8fb6-90925c57f3ef" word="complimentary" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="c8592b1a-18ef-4f78-a77d-9cd238390fe9" value="Hospitality Staff" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="22daa44e-d63a-4e92-9959-c9e2517afca4" ipa="/ˌkɑːm.plɪˈmen.t̬eri/">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa3b84ce-270a-402d-9eeb-cb1fc998a1ff" type="Adjective">
+          <Vi>miễn phí (được cung cấp mà không phải trả tiền)</Vi>
+          <En>Provided free of charge, especially as a courtesy or favor.</En>
+          <Example>The hotel offered complimentary breakfast to all guests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1feaa80b-eb4d-448c-b0ea-bb83a7a4afff">
+              <Vi>Khách sạn cung cấp bữa sáng miễn phí cho khách lưu trú.</Vi>
+              <En>A hotel provides breakfast at no extra cost to its guests.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dd2d1940-ae8b-4729-a9c4-b37ff51f40a9" type="Adjective">
+          <Vi>khen ngợi, ca ngợi (thường là quá mức)</Vi>
+          <En>Expressing praise or admiration, sometimes excessively or insincerely.</En>
+          <Example>The reviewer’s review was full of complimentary remarks about the actor’s performance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3c8572c9-8b1e-45e1-a5c3-d2a3197c16ec">
+              <Vi>Bài đánh giá đầy lời khen ngợi về diễn xuất của diễn viên.</Vi>
+              <En>A review containing many positive, admiring comments about someone’s work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
