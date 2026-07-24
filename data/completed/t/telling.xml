@@ -1,0 +1,46 @@
+<Vocab id="95eb23de-a1b0-4b9b-8e65-49b6c9ad1333" word="telling" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f9839c9c-0811-4622-883a-11e7bb7b0fbd" ipa="/ˈtɛl.ɪŋ/" vi_ipa="tè-líng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6d69afc3-5b28-426b-b22a-9c2f11c76f59" type="Adjective">
+          <Vi>cho thấy rõ, rõ ràng, rõ rệt</Vi>
+          <En>clearly showing or revealing something, especially a quality or feeling</En>
+          <Example>Her nervousness was telling in her trembling hands.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="00e527a1-d788-4ff4-a804-84715c1a6307">
+              <Vi>Mô tả một biểu hiện rõ ràng của cảm xúc hoặc trạng thái.</Vi>
+              <En>Describing a clear outward sign of an emotion or state.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="623ef857-2ddb-4dda-b317-d352486110b0" type="Noun">
+          <Vi>sự kể lại, lời kể</Vi>
+          <En>an account or description of an event or experience, especially one that is vivid or dramatic</En>
+          <Example>He gave a telling account of the accident.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7736deb-da94-43e9-b3ea-075eb03d3cd4">
+              <Vi>Sử dụng khi một lời kể có sức thuyết phục hoặc gây ấn tượng mạnh.</Vi>
+              <En>Used when a retelling is particularly vivid, persuasive, or impactful.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

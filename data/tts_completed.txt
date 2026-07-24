@@ -2169,3 +2169,4 @@ flour
 empire
 mood
 prime
+canon
