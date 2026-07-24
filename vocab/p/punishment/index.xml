@@ -1,0 +1,38 @@
+<Vocab id="7fd46a16-b67f-485e-bf09-534174dcf964" word="punishment" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+  </Topics>
+  <Professions>
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="b54806f4-e013-4100-9938-73246966161b" value="Prison Guard" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9ef14907-5f99-4e6c-a4ec-b6a24258ace3" ipa="/ˈpʌn.ɪʃ.mənt/" vi_ipa="pan-i-sh-men-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1524f0df-52ba-4b82-ba85-3a085de57c1f" type="Noun">
+          <Vi>Hình phạt; sự trừng phạt</Vi>
+          <En>The action of punishing someone; a penalty imposed on someone for wrongdoing.</En>
+          <Example>The judge handed down a harsh punishment for the repeat offender.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af54efd0-8329-4dcc-ae87-7def53749d9a">
+              <Vi>Quyết định hình phạt trong phiên tòa hình sự.</Vi>
+              <En>The judge's decision on the penalty in a criminal trial.</En>
+            </Situation>
+            <Situation id="b3867aea-1690-4bc5-bbfd-5a071e4a4923">
+              <Vi>Hình phạt nghiêm khắc nhằm răn đe hành vi sai trái.</Vi>
+              <En>Severe penalties intended to deter misconduct.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
