@@ -1,0 +1,39 @@
+<Vocab id="8bd4b62f-73b7-4c4c-b06d-6c60769d2b09" word="produced" type="short" status="done">
+  <Topics>
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+    <Topic id="25df9c6c-110c-47b4-b147-ff2f8e399ffe" value="Business &amp; Industry" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="e1a7fc5e-b725-4d97-bbfd-80655491acb5" value="Music Producer" />
+    <Profession id="014c18a8-be7d-402b-a226-bea155d335cb" value="Manufacturing Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9dac11b7-d96a-4660-aa8d-76339d2d1c23" ipa="/prəˈdjuːst/" vi_ipa="pờ-rờ-dju-út">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="db77887e-bc4e-4284-ba4e-50b360a07c1b" type="Adjective">
+          <Vi>được sản xuất; được tạo ra; được làm ra</Vi>
+          <En>Created or manufactured, especially as a result of a process or effort.</En>
+          <Example>The film was produced by a major studio and released last year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f96236b6-e0c8-45a1-8ec3-f5de145b680d">
+              <Vi>Mô tả sản phẩm, tác phẩm, hoặc hàng hóa đã được chế tạo hoặc tạo ra.</Vi>
+              <En>Describing a product, artwork, or commodity that has been manufactured or created.</En>
+            </Situation>
+            <Situation id="4080eeb6-9dd7-4788-b2be-ba3ef817aa62">
+              <Vi>Dùng trong ngành điện ảnh, âm nhạc để chỉ sản phẩm đã hoàn thành và sẵn sàng phát hành.</Vi>
+              <En>Used in film or music industries to describe a finished product ready for release.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

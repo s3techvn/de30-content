@@ -1,0 +1,56 @@
+<Vocab id="eb124286-7531-4485-8296-82a18bf32aab" word="rent" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+  </Topics>
+  <Professions>
+    <Profession id="b61c3932-e090-4122-9e9d-93466ba02d11" value="Landlord" />
+    <Profession id="2095732e-8c8c-47f7-97c2-070692ac58cd" value="Tenant" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="baf51364-0161-4aaa-a4de-192eec785429" ipa="/rɛnt/" vi_ipa="rên">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e47a9f9f-4714-4ec4-b8f0-31f6c6a49045" type="Verb">
+          <Vi>Thuê (tài sản), cho thuê</Vi>
+          <En>To pay money regularly to use someone else’s property, or to allow someone else to use your property in exchange for regular payments.</En>
+          <Example>She rents an apartment downtown for $1,200 a month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66b3cb96-f9b9-474b-9d4f-b44f05b098cf">
+              <Vi>Người thuê trả tiền định kỳ để sử dụng nhà, xe, hoặc đồ đạc.</Vi>
+              <En>A person pays regular fees to use a house, car, or other property owned by someone else.</En>
+            </Situation>
+            <Situation id="570a6eb0-a804-4999-ba34-4b8e8d2613fb">
+              <Vi>Chủ nhà nhận tiền thuê từ người thuê nhà.</Vi>
+              <En>A property owner receives regular payments from a tenant in exchange for living in the property.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="57529a29-3b83-46c4-88bc-4413e67e870f" type="Noun">
+          <Vi>Tiền thuê (nhà, xe…), việc thuê</Vi>
+          <En>The regular payment made for the use of property, or the act of hiring something.</En>
+          <Example>The rent for this studio is $950 per month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa2ec07b-6545-4dd6-8d46-3524f04df8a6">
+              <Vi>Người thuê phải trả tiền thuê đúng hạn mỗi tháng.</Vi>
+              <En>Tenants must pay rent on time every month as stipulated in the lease.</En>
+            </Situation>
+            <Situation id="40e99713-e775-43fd-834e-a3643ad06998">
+              <Vi>Giá thuê nhà tăng mạnh trong những năm gần đây.</Vi>
+              <En>House rent has risen sharply in recent years.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
