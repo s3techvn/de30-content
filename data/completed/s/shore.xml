@@ -1,0 +1,50 @@
+<Vocab id="c443f0d3-950f-47af-95e3-c41e81c7c735" word="shore" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="5d0f09ef-2c64-4f21-bced-c22d06450b51" value="Coastal Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5b05eb5d-1d82-49c3-8bbf-80e921faec27" ipa="/ʃɔːr/" vi_ipa="sờ-r">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf1bc62a-69f5-4335-8f5b-18b21bd5d06a" type="Noun">
+          <Vi>Bờ biển; bờ sông</Vi>
+          <En>The land along the edge of a sea, lake, or large river.</En>
+          <Example>The children ran to the shore to collect seashells.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9909f1a4-691d-48f1-8d06-3fe27c335190">
+              <Vi>Mô tả vị trí gần bờ nước, nơi đất gặp nước.</Vi>
+              <En>Describes the location where land meets a large body of water.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6804b400-5fd5-47bf-9443-785a2f7490b4" type="Verb">
+          <Vi>Giúp đỡ, nâng đỡ (ai đó) lên bờ; làm vững chắc, gia cố (bờ)</Vi>
+          <En>To help someone out of the water onto land; to support or reinforce the land near water to prevent erosion.</En>
+          <Example>The lifeguards helped the swimmer shore himself onto the rocks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bb2d15c1-1d80-4e46-a8ac-0821e53f5b99">
+              <Vi>Hành động đưa người từ dưới nước lên bờ an toàn.</Vi>
+              <En>The act of assisting a person from the water to land, often for safety.</En>
+            </Situation>
+            <Situation id="76fe0bb3-31c2-4c99-9780-b06fb03fb3b2">
+              <Vi>Hành động củng cố bờ bằng cách đặt đá hoặc vật liệu chống xói mòn.</Vi>
+              <En>The act of reinforcing the bank or coastline to prevent erosion using physical structures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
