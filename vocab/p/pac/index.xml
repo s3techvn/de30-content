@@ -1,0 +1,33 @@
+<Vocab id="3e932bc6-b67a-4fbe-8967-97eab804ce63" word="pac" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="f8877659-a423-4f73-8981-ad365bb3ab62" value="DevOps Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="73970c9a-8ede-4b24-9ea2-deda361c6498" ipa="/pæk/" vi_ipa="pắc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7c977b8c-c922-423c-99ad-e3633941dac9" type="Noun">
+          <Vi>gói (dữ liệu mạng)</Vi>
+          <En>A unit of data transmitted over a network.</En>
+          <Example>The router forwards each packet to its destination based on the IP header.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6f56648-241f-496b-9cc5-47b495ac35ea">
+              <Vi>Mô tả đơn vị dữ liệu nhỏ được truyền qua mạng máy tính.</Vi>
+              <En>Describes the smallest unit of data transmitted across a computer network.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
