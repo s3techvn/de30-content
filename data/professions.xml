@@ -854,4 +854,5 @@
   <Profession id="c28d448f-7dfa-45fa-a51d-ad224b7712c4" slug="contract-manager" value="Contract Manager" />
   <Profession id="b54806f4-e013-4100-9938-73246966161b" slug="prison-guard" value="Prison Guard" />
   <Profession id="6e204742-e3d8-466d-b077-18e22665623a" slug="science-fiction-writer" value="Science Fiction Writer" />
+  <Profession id="44247f15-80d7-4034-94c5-903a0cf7d9c7" slug="beekeeper" value="Beekeeper" />
 </Professions>

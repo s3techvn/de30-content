@@ -1,0 +1,45 @@
+<Vocab id="7f550b5e-f4de-48e7-8112-2a2c48c91ab4" word="honey" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="44247f15-80d7-4034-94c5-903a0cf7d9c7" value="Beekeeper" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4e652745-0878-44a0-8408-f3c0b74bb513" ipa="/ˈhʌn.i/" vi_ipa="hà-ni">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7298db9e-7c6a-4440-a527-54e6e25362df" type="Noun">
+          <Vi>Mật ong</Vi>
+          <En>A sweet, thick, yellowish-brown liquid produced by bees from nectar, used as a sweetener and food.</En>
+          <Example>She adds a spoonful of honey to her tea for natural sweetness.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a23c387f-a15d-4f2b-adda-f76bd37555e7">
+              <Vi>Người ta dùng mật ong để pha trà, làm bánh, hoặc ăn trực tiếp với bánh mì.</Vi>
+              <En>People use honey to sweeten tea, bake cakes, or spread on bread.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2f98cfd1-692d-4929-b3cd-824658e3ae41" type="Noun">
+          <Vi>Tình yêu ngọt ngào (dùng để gọi người thân yêu)</Vi>
+          <En>A term of endearment, especially for a romantic partner.</En>
+          <Example>Come here, honey—I missed you!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5cb899d8-0d9d-477c-a326-626d6754de37">
+              <Vi>Người yêu hoặc vợ/chồng gọi nhau bằng "honey" để thể hiện tình cảm thân mật.</Vi>
+              <En>Partners use "honey" as an affectionate term of address.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
