@@ -2284,3 +2284,4 @@ boulevard
 chapter
 festival
 seem
+seasonal

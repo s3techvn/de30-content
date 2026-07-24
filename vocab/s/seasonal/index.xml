@@ -1,0 +1,40 @@
+<Vocab id="e9ac2b0d-f844-4e68-acbe-17db64e5ba21" word="seasonal" type="short" status="done">
+  <Topics>
+    <Topic id="d6cd7c95-fb44-4751-9a84-ffa42aeca265" value="Nature and Weather" />
+    <Topic id="01d3f23e-5d5b-471b-b33f-c37eeedbe285" value="Business and Marketing" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="21910a38-ef18-4b27-b3fe-fe1337ee8466" value="Agriculture" />
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+    <Profession id="760f9181-f2d6-4252-b465-7c68a7bf6043" value="Tourism Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="144dc791-78e4-4761-b18a-3958ea2fb4fd" ipa="/ˈsiː.zən.əl/" vi_ipa="si-dơn-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2228e755-350f-4cb1-a5ed-66124151333c" type="Adjective">
+          <Vi>theo mùa; theo chu kỳ mùa trong năm</Vi>
+          <En>occurring, done, or available only in a particular season; relating to the seasons of the year.</En>
+          <Example>Strawberries are a seasonal fruit, best enjoyed in summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="da0ebccc-920c-4b3c-9d9a-72664e7f3060">
+              <Vi>Mô tả sản phẩm hoặc hoạt động chỉ tồn tại hoặc diễn ra trong một mùa cụ thể (ví dụ: mùa hè, mùa đông).</Vi>
+              <En>Describing a product or activity that exists or occurs only in a specific season (e.g., summer, winter).</En>
+            </Situation>
+            <Situation id="b405d832-7457-470e-86b9-0f94e906c17c">
+              <Vi>Chỉ nhân sự hoặc công việc làm việc theo mùa vụ (ví dụ: thu hoạch, du lịch cao điểm).</Vi>
+              <En>Referring to staff or jobs that are temporary and tied to a specific season (e.g., harvest work, peak tourism).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
