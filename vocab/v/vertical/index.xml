@@ -1,0 +1,40 @@
+<Vocab id="1a36a3d1-49e6-40f4-9281-214cf9cde494" word="vertical" type="short" status="done">
+  <Topics>
+    <Topic id="77bfcd7d-2df6-4a52-ae2c-5ea083132500" value="Architecture" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="5ab365f6-9e5a-4cd0-8378-fa4f8e51e1a2" value="Surveyor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a421a14-2e08-4442-b023-df7f53f9e718" ipa="/ˈvɜːr.tɪ.kəl/" vi_ipa="vơ-rờ-tích-kờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="328d5fdf-6501-4224-83c1-acec4ce920ff" type="Adjective">
+          <Vi>thẳng đứng; dọc</Vi>
+          <En>perpendicular to the horizon; running up and down rather than across.</En>
+          <Example>The vertical lines on the window frame make the building look taller.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9c8f771-a84e-4000-8a8a-82d7673cb6c7">
+              <Vi>Mô tả hướng của một vật so với mặt đất (ngược với nằm ngang).</Vi>
+              <En>Describing the orientation of an object relative to the ground (opposite of horizontal).</En>
+            </Situation>
+            <Situation id="7e3e1da1-2a20-4c5d-a9f1-b7dafd2b106f">
+              <Vi>Trong thiết kế đồ họa, chỉ các đường hoặc yếu tố được sắp xếp theo chiều cao.</Vi>
+              <En>In graphic design, referring to lines or elements arranged vertically (along the height axis).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
