@@ -1,0 +1,32 @@
+<Vocab id="c1c9edef-ff67-4a3b-b01d-8dd46a14b630" word="perry" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="eb53e21c-0117-4aa1-a7bd-85726b2c50ba" value="Beverage Industry Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="632272d8-bee7-4367-bc0b-8e666427f9db" ipa="/ˈper.i/" vi_ipa="pê-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="df317513-c810-425a-b560-715d4cf2a528" type="Noun">
+          <Vi>quả lê chua, nước ép lê lên men (giống cider nhưng làm từ lê)</Vi>
+          <En>a fermented alcoholic drink made from pears, similar to cider but made from pear juice</En>
+          <Example>They served a crisp perry with the dessert course.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb1c723e-9377-4db6-9dd8-b6aa62b2473a">
+              <Vi>Được phục vụ tại các quán rượu truyền thống ở Anh, đặc biệt ở vùng West Country</Vi>
+              <En>Served in traditional pubs in England, especially in the West Country</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
