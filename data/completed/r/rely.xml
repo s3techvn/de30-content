@@ -1,0 +1,40 @@
+<Vocab id="c08dd314-8c22-49da-b5a9-0abfe3aacdb2" word="rely" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="bb2c2b15-81e5-446a-83f6-74a5e5a2afe1" value="Team Leader" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7d4f61c-2ddf-4d00-9f59-9054b7796aea" ipa="/rɪˈlaɪ/" vi_ipa="ri-lái">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="352dec21-7768-4152-b088-9f8e41a8350e" type="Verb">
+          <Vi>tin cậy, dựa vào, dựa vào sự hỗ trợ hoặc đáng tin cậy của ai/cái gì</Vi>
+          <En>to depend on someone or something as a source of support, truth, or reliability</En>
+          <Example>She relies on her team to meet the project deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c0e4ddcf-7d3a-449e-9859-52e7718c4f59">
+              <Vi>Tình huống một người tin tưởng và phụ thuộc vào người khác để hoàn thành công việc hoặc đưa ra quyết định.</Vi>
+              <En>A situation where someone trusts and depends on another person to complete a task or make decisions.</En>
+            </Situation>
+            <Situation id="91789c7b-5bae-4014-90eb-89354e42f2b1">
+              <Vi>Tình huống một công ty hoặc tổ chức dựa vào một đối tác hoặc công nghệ để vận hành.</Vi>
+              <En>A situation where a company or organization depends on a partner or technology for operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
