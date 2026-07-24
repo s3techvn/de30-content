@@ -1,0 +1,40 @@
+<Vocab id="9daadcd4-273b-49f0-9a9a-c0c19181cd22" word="traveling" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="8687ecb8-4a95-4300-a741-3f6fd24b3f0f" value="Leisure &amp; Tourism" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8aa091a0-3aaf-476c-959c-450514a1a239" ipa="/ˈtræv.ə.lɪŋ/" vi_ipa="trờ-vê-lin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2fb9a2d-0fc0-4c88-a95f-f48a2401629d" type="Adjective">
+          <Vi>đang đi du lịch; đang trên đường đi xa; liên quan đến việc đi du lịch</Vi>
+          <En>engaged in or relating to the activity of traveling, especially for pleasure or business</En>
+          <Example>She packed her suitcase for her traveling clothes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6e2d7756-bd4e-4c76-9871-204060e7087d">
+              <Vi>Mô tả hành lý, trang phục, hoặc chuyến đi đang diễn ra.</Vi>
+              <En>Describing luggage, clothing, or a trip that is currently taking place.</En>
+            </Situation>
+            <Situation id="297c011a-2a24-4f5e-aa9b-2aea67ceb8aa">
+              <Vi>Dùng để chỉ hoạt động hoặc trải nghiệm liên quan đến việc đi lại, đặc biệt là du lịch.</Vi>
+              <En>Used to describe activities or experiences related to movement, especially tourism.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
