@@ -899,4 +899,5 @@
   <Profession id="4d31b70c-4c5c-46fe-bf83-23c563e676aa" slug="biblical-figure" value="Biblical Figure" />
   <Profession id="ac51b219-a0f5-42a3-8172-e08121ab2fc2" slug="physics-researcher" value="Physics Researcher" />
   <Profession id="b110ded8-b933-45ce-9c8c-f0ce4b019358" slug="pharmaceutical-sales-representative" value="Pharmaceutical Sales Representative" />
+  <Profession id="ab111a4f-99ef-4133-920b-2ae3253ba6fd" slug="content-moderator" value="Content Moderator" />
 </Professions>
