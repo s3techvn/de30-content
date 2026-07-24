@@ -1,0 +1,39 @@
+<Vocab id="064db47d-4bbd-4c95-83c1-342485c279b1" word="demanding" type="short" status="done">
+  <Topics>
+    <Topic id="1cb652e3-02f1-4ed5-b7f9-2517db44f313" value="Work &amp; Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="874f1e7d-a13e-471c-a0e3-329d0b4fc7e6" value="Surgeon" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2620237b-72f0-4198-92c0-378cbe132202" ipa="/dɪˈmɑːn.dɪŋ/" vi_ipa="đi-mân-đíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8cb4a8b2-621b-4f50-9027-34f3a650b59c" type="Adjective">
+          <Vi>khó khăn, đòi hỏi cao, gây mệt mỏi</Vi>
+          <En>requiring a lot of effort, skill, or attention; exhausting or challenging</En>
+          <Example>The job is physically and mentally demanding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9f6cf5e9-9683-4b4f-9339-ae37fd06f697">
+              <Vi>Mô tả một công việc đòi hỏi làm việc nhiều giờ, chịu áp lực cao và kỹ năng chuyên môn sâu.</Vi>
+              <En>Describes a job that requires long hours, high pressure, and deep technical expertise.</En>
+            </Situation>
+            <Situation id="7addf630-bed1-4d3c-87b9-dbbf92a310bf">
+              <Vi>Mô tả một người bạn hoặc đồng nghiệp có kỳ vọng rất cao và khó chiều.</Vi>
+              <En>Describes a friend or colleague who has very high expectations and is hard to please.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
