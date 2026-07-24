@@ -1,0 +1,54 @@
+<Vocab id="132472c8-99e4-4897-abf9-1e9e430255d3" word="essay" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="408f67f3-7ede-4332-8fd9-1f200043ecdd" ipa="/ˈes.eɪ/" vi_ipa="ét-xê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eeb224f0-85c3-404a-ba08-b13ebfe3b9fc" type="Noun">
+          <Vi>Bài luận (viết ngắn, thường mang tính học thuật hoặc thể hiện quan điểm cá nhân)</Vi>
+          <En>A short piece of writing on a particular subject, typically one written by a student as part of an assignment or by a writer to express opinions.</En>
+          <Example>She spent three days revising her essay before submitting it to her professor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d588668f-3132-43ab-9510-d875710e2178">
+              <Vi>Học sinh hoặc sinh viên viết bài luận để hoàn thành bài tập hoặc yêu cầu môn học.</Vi>
+              <En>A student writes a structured, argumentative or descriptive essay to fulfill course requirements.</En>
+            </Situation>
+            <Situation id="df235f76-053f-4a66-9d1e-45704893b6f1">
+              <Vi>Tác giả xuất bản bài luận trong tạp chí hoặc sách để trình bày quan điểm cá nhân.</Vi>
+              <En>A writer publishes an essay in a magazine or anthology to share personal reflections or critical analysis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="87da4d33-a4ed-4bf2-9381-9ace4a1aa35e" type="Verb">
+          <Vi>Viết bài luận; thử nghiệm, thử (một ý tưởng hoặc phương pháp)</Vi>
+          <En>To write an essay on a subject; to try or attempt something, especially as an experiment.</En>
+          <Example>The editor asked him to essay a new style of journalism that blends narrative and data.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3637f0e3-94e1-434b-8575-d3eea6978025">
+              <Vi>Sinh viên được yêu cầu essay một chủ đề trong kỳ thi cuối kỳ.</Vi>
+              <En>Students are required to essay a topic during their final exam, demonstrating critical thinking and writing skills.</En>
+            </Situation>
+            <Situation id="6ff1c012-b455-4487-b5b2-593a1959f070">
+              <Vi>Nhà nghiên cứu essay một phương pháp tiếp cận mới trong thí nghiệm.</Vi>
+              <En>The researcher decided to essay a novel experimental approach to test the hypothesis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
