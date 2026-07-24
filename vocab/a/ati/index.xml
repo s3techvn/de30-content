@@ -1,0 +1,32 @@
+<Vocab id="2392b241-766d-49d0-93c2-d22d550cb490" word="ati" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c0ea398e-ee64-4deb-ae01-c62be904577a" ipa="/ˈæt.i/" vi_ipa="át-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0211d89c-e44d-4890-ba3d-b6cfbc7e2538" type="Noun">
+          <Vi>viết tắt của Advanced Micro Devices (AMD), một công ty bán dẫn nổi tiếng</Vi>
+          <En>short for Advanced Micro Devices (AMD), a prominent semiconductor company</En>
+          <Example>ATI Technologies was acquired by AMD in 2006.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d742483c-d63c-4b70-82e8-ce2a04943591">
+              <Vi>Thường dùng trong ngữ cảnh công nghệ, đặc biệt khi nói về card đồ họa và chip xử lý.</Vi>
+              <En>Commonly used in technology contexts, especially when discussing graphics cards and processors.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
