@@ -1,0 +1,56 @@
+<Vocab id="9e071976-9c4c-499b-bffb-6dab94685f51" word="camp" type="short" status="done">
+  <Topics>
+    <Topic id="e1f6228c-e83f-406a-bd93-48e6421e375b" value="Outdoor Activities" />
+    <Topic id="10439648-e793-45f8-bf4e-ae113185a585" value="Military" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="5fe33b13-edc2-4f39-a72a-3f0ee0502cca" value="Scout Leader" />
+    <Profession id="96ee20b9-024c-47d9-8066-a6af227c8a50" value="Soldier" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="769fb1e7-5cc2-4569-91d4-762eebb61e32" ipa="/kæmp/" vi_ipa="căm-pờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="699a534b-5ff7-41d4-8ae6-e3587291de5a" type="Noun">
+          <Vi>Trại (nơi ở tạm thời, thường bằng lều hoặc nhà gỗ)</Vi>
+          <En>A place where people stay temporarily in tents, huts, or other simple shelters, often for recreation, military purposes, or training.</En>
+          <Example>We set up camp near the lake and spent the evening roasting marshmallows.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="926d7325-1425-45d0-b5b3-b96faffe6158">
+              <Vi>Người tham gia trại hè tổ chức sinh hoạt ngoài trời qua đêm.</Vi>
+              <En>Participants in a summer camp stay overnight in tents and engage in outdoor activities.</En>
+            </Situation>
+            <Situation id="65dfc349-6d38-47d8-8611-b8ffcd4fece8">
+              <Vi>Lực lượng quân đội đóng trại để huấn luyện hoặc triển khai.</Vi>
+              <En>Military personnel establish a camp for training or deployment operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e0c09e34-b161-4c96-85d6-f6a9119cdbea" type="Verb">
+          <Vi>Cắm trại; đặt trại</Vi>
+          <En>To set up a temporary shelter, especially a tent, for sleeping or staying outdoors.</En>
+          <Example>The hikers decided to camp by the river before continuing the next day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="992a4be8-dcd8-4973-b82b-1d00ce790ac4">
+              <Vi>Gia đình cắm trại vào cuối tuần để thư giãn gần thiên nhiên.</Vi>
+              <En>The family camps on weekends to relax and enjoy nature.</En>
+            </Situation>
+            <Situation id="7a0c2cae-7612-4d2c-9ac5-d8087c29c336">
+              <Vi>Quân đội cắm trại dọc biên giới trong chiến dịch huấn luyện.</Vi>
+              <En>The army camped along the border during a training exercise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

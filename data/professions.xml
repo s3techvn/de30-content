@@ -877,4 +877,5 @@
   <Profession id="108dcd12-b5b1-4fcb-8f6f-8ec7bc3c0b77" slug="sign-language-interpreter" value="Sign Language Interpreter" />
   <Profession id="85591a5b-c866-47e9-8326-ac801b85f2ba" slug="janitor" value="Janitor" />
   <Profession id="14a9cbaa-d429-4a38-8bad-fa473908bb26" slug="environmental-specialist" value="Environmental Specialist" />
+  <Profession id="5fe33b13-edc2-4f39-a72a-3f0ee0502cca" slug="scout-leader" value="Scout Leader" />
 </Professions>
