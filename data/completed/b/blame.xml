@@ -1,0 +1,54 @@
+<Vocab id="519e9b79-57f5-4b02-8a30-1706ecadaef6" word="blame" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c62430be-4c47-419f-a80a-466de9b6c85a" ipa="/bleɪm/" vi_ipa="bờ-lây-m">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5c241f7f-10d5-4daf-9797-cb53afcb571c" type="Verb">
+          <Vi>đổ lỗi cho; buộc tội</Vi>
+          <En>to hold someone responsible for a fault or wrong; to express criticism or disapproval of someone for a mistake or bad outcome</En>
+          <Example>She blamed her colleague for the missed deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b7e5ba78-1f25-414b-a1b7-9c3cb55f48b4">
+              <Vi>Sau khi dự án thất bại, sếp đã đổ lỗi cho nhóm kỹ thuật.</Vi>
+              <En>After the project failed, the manager blamed the engineering team.</En>
+            </Situation>
+            <Situation id="c148f4c1-fdaf-44be-8680-b1d12b347b76">
+              <Vi>Trẻ em thường đổ lỗi cho anh/chị/em khi làm vỡ đồ.</Vi>
+              <En>Children often blame their siblings when they break something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ca7b7d87-c7d9-4459-bd4a-274ef3824738" type="Noun">
+          <Vi>sự đổ lỗi; trách nhiệm (được gán cho người khác)</Vi>
+          <En>responsibility for a fault or wrong; something for which someone is held responsible</En>
+          <Example>The blame for the accident fell on the driver’s inattention.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fdccd155-37a9-462b-a5fc-44a68b4b842b">
+              <Vi>Sau tai nạn, cả hai bên đều từ chối nhận trách nhiệm.</Vi>
+              <En>After the accident, both parties refused to accept blame.</En>
+            </Situation>
+            <Situation id="e9750d58-5a29-46b1-80b5-889e83098fc0">
+              <Vi>Chính phủ bị đặt vào vị thế phải chịu trách nhiệm về khủng hoảng kinh tế.</Vi>
+              <En>The government was placed in a position where it had to shoulder the blame for the economic crisis.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
