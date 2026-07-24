@@ -1,0 +1,66 @@
+<Vocab id="96106641-8981-43b2-81d8-30383966aa0f" word="secure" type="short" status="done">
+  <Topics>
+    <Topic id="077d9408-8fb5-461d-8ebe-12f15b9c38a3" value="Safety and Security" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="9c01c015-424d-49e7-a805-8319c2d0a132" value="Cybersecurity Analyst" />
+    <Profession id="1cc51c4e-3dc2-4acc-ba64-431ea7b1adac" value="Law Enforcement Officer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38569266-477d-4e20-8f0d-22589095c131" ipa="/səˈkjʊr/" vi_ipa="xơ-kia-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d419393d-7b07-41b4-9299-24508de9f9da" type="Adjective">
+          <Vi>an toàn, bảo mật, chắc chắn</Vi>
+          <En>Free from danger, risk, or harm; protected against unauthorized access or theft.</En>
+          <Example>The vault is secure and can only be opened with a biometric scan.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7934c58-17e6-41fd-99b9-c4cb15dc6772">
+              <Vi>Mô tả một nơi hoặc hệ thống được bảo vệ tốt, không có nguy cơ bị xâm nhập hoặc tổn hại.</Vi>
+              <En>Describing a place or system that is well-protected from intrusion, theft, or damage.</En>
+            </Situation>
+            <Situation id="578d4250-d56b-4e5f-9ecb-9bad6d320eee">
+              <Vi>Dùng để nói về dữ liệu hoặc thông tin được mã hóa và chỉ truy cập được bởi người được phép.</Vi>
+              <En>Used to describe data or information that is encrypted and accessible only to authorized individuals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="da1217bc-21f2-4716-b1e6-65864bc8e4b7" ipa="/səˈkjʊr/" vi_ipa="xơ-kia-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9ac57734-0439-430b-9726-303619c4cd13" type="Verb">
+          <Vi>bảo vệ, đảm bảo, giành được</Vi>
+          <En>To make safe or secure; to obtain or gain possession of something, often with effort.</En>
+          <Example>The company secured a new contract with a major client.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad674b62-6950-4bfb-aba5-c08a4db0e50c">
+              <Vi>Hành động bảo vệ một người hoặc vật khỏi nguy hiểm.</Vi>
+              <En>The act of protecting a person or object from danger or harm.</En>
+            </Situation>
+            <Situation id="ad80abdb-3ff2-4a93-a0a3-fda9678182d0">
+              <Vi>Hành động giành được một cơ hội, vị trí, hoặc tài sản sau nỗ lực hoặc đàm phán.</Vi>
+              <En>The act of obtaining an opportunity, position, or asset after effort or negotiation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
