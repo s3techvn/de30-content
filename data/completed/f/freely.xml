@@ -1,0 +1,52 @@
+<Vocab id="0952e9db-09da-4ea4-8ae0-0859e4470fd0" word="freely" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9b9895f0-1d39-4135-af52-fb45ca27ae3d" ipa="/ˈfriː.li/">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9bd0b57e-4ad8-4a36-aff8-860a0e9187f0" type="Adverb">
+          <Vi>một cách tự do; một cách không bị hạn chế</Vi>
+          <En>in a free manner; without restriction or constraint</En>
+          <Example>She spoke freely about her experiences during the trip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7ce23274-5f99-4efa-b566-04359ef83311">
+              <Vi>Một người nói chuyện không e ngại, chia sẻ ý kiến cá nhân một cách cởi mở.</Vi>
+              <En>A person expresses opinions or thoughts openly and without hesitation.</En>
+            </Situation>
+            <Situation id="b00c12ce-4bc7-4b14-838d-fb81439fb1ef">
+              <Vi>Học sinh được phép tự do đặt câu hỏi trong lớp học.</Vi>
+              <En>Students are allowed to ask questions without restriction in class.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="48eddd2f-f278-440d-abad-01a4be99728b" type="Adverb">
+          <Vi>một cách dễ dàng; một cách không gặp khó khăn</Vi>
+          <En>without difficulty; easily</En>
+          <Example>The data can be transferred freely between devices.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b642354e-54cd-4177-a1a8-d55183e85115">
+              <Vi>Mô tả khả năng truy cập hoặc sử dụng công nghệ một cách thuận tiện.</Vi>
+              <En>Describing seamless access or use of technology or resources.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
