@@ -2409,3 +2409,4 @@ fool
 advisor
 fold
 universal
+electoral
