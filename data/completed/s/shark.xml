@@ -1,0 +1,56 @@
+<Vocab id="d0c12114-d5a3-42fb-8a51-5a747957b2b9" word="shark" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="3f0235b9-1028-4b5b-9e7c-95d2c5c01055" value="Marine Life" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="11d626b6-84b8-4553-bcae-d2416208d190" value="Marine Biologist" />
+    <Profession id="baa09d47-b250-4793-9d81-a23b7750f6e4" value="Fisherman" />
+    <Profession id="02c5f2d0-55c5-4ebc-adce-2be266b6a7aa" value="Conservationist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e37bebc0-0edb-4c8c-bee8-a2304bbd6d25" ipa="/ʃɑːrk/" vi_ipa="sác">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b69a28ba-c5b6-48bb-934e-165da047c2f6" type="Noun">
+          <Vi>Cá mập</Vi>
+          <En>A large, predatory fish with a streamlined body, sharp teeth, and powerful jaws, typically found in warm seas.</En>
+          <Example>Sharks play a vital role in maintaining the balance of marine ecosystems.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e7382981-f2b1-4ba1-979f-c00428657547">
+              <Vi>Mô tả loài cá mập trong tài liệu sinh học hoặc phim tài liệu về đại dương.</Vi>
+              <En>Describing sharks in a biology textbook or a documentary about the ocean.</En>
+            </Situation>
+            <Situation id="e515d2b7-c076-4366-93c4-03475a71aaad">
+              <Vi>Người ta thường sợ cá mập do ảnh hưởng của phim "Jaws".</Vi>
+              <En>People often fear sharks due to the influence of the movie "Jaws".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="acb6b209-fde1-4c9c-8f5b-66921573528e" type="Verb">
+          <Vi>Đánh bắt cá mập (để lấy da, thịt, vây); (nghĩa bóng) lừa gạt, lợi dụng người khác một cách thô bạo</Vi>
+          <En>To hunt sharks for their fins, meat, or skin; (figuratively) to exploit or swindle someone aggressively.</En>
+          <Example>The illegal shark fin trade has led to a dramatic decline in shark populations worldwide.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="950e4014-e943-4938-9403-b69581902685">
+              <Vi>Ngư dân đánh bắt cá mập để bán vây.</Vi>
+              <En>Fishermen hunt sharks to sell their fins.</En>
+            </Situation>
+            <Situation id="20620f50-bb96-4052-990c-d41050b4d40f">
+              <Vi>Các công ty tài chính từng bị cáo buộc "sharking" khách hàng dễ bị tổn thương.</Vi>
+              <En>Financial companies have been accused of "sharking" vulnerable customers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
