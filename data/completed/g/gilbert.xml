@@ -1,0 +1,33 @@
+<Vocab id="9016c7e9-52c9-4927-a838-5c8e2b5cf4f9" word="gilbert" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7e13193d-408d-4827-a3f5-26a3adccfc96" ipa="/ˈɡɪl.bərt/" vi_ipa="gíp-bớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="791796f9-7ef0-4977-8701-251f71b6545a" type="Noun">
+          <Vi>Tên riêng (họ hoặc tên đệm), thường là tên người Anh hoặc Mỹ</Vi>
+          <En>A surname or given name of English or American origin.</En>
+          <Example>Her full name is Elizabeth Gilbert, the author of *Eat, Pray, Love*.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ee616ffc-54e6-4d24-8189-09aefa60e194">
+              <Vi>Dùng khi nhắc đến một người có tên Gilbert trong văn nói hoặc văn viết.</Vi>
+              <En>Used when referring to a person named Gilbert in speech or writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
