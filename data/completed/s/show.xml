@@ -1,0 +1,81 @@
+<Vocab id="cb7d3fef-dfb7-4f58-bfe4-734be919ebe8" word="show" type="short" status="done">
+  <Topics>
+    <Topic id="d762eb1d-e8d0-47fe-8c56-1cea20c7cc52" value="Entertainment" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="cc6202a8-494e-454c-bcec-ae2f56ec9746" value="Director" />
+    <Profession id="83f36d42-1ad6-4db2-bc52-1506de99c000" value="TV Presenter" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e6e3d0f3-3441-45f9-a1a7-f15a08e02d9e" ipa="/ʃoʊ/" vi_ipa="sơ-u">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fd828b5e-70ab-42cc-ae5d-9346d55def65" type="Verb">
+          <Vi>trình diễn, biểu diễn, cho xem</Vi>
+          <En>to display, perform, or present something for others to see or experience</En>
+          <Example>She will show her new painting at the gallery opening.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="75fa3c97-49bc-4bfa-a771-308abbb3455f">
+              <Vi>Người nghệ sĩ biểu diễn một vở kịch trước khán giả.</Vi>
+              <En>An actor performs a play in front of an audience.</En>
+            </Situation>
+            <Situation id="9d0534ab-dea9-4d96-9ac3-5bfe5b22d10c">
+              <Vi>Chủ nhà cho bạn bè xem phòng khách mới được trang trí.</Vi>
+              <En>The host shows friends the newly decorated living room.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f88f8486-5093-4c45-b582-2b5ab4d80515" type="Noun">
+          <Vi>chương trình biểu diễn, buổi trình diễn, chương trình truyền hình</Vi>
+          <En>a performance, especially a theatrical or musical entertainment, or a television program</En>
+          <Example>The Broadway show sold out its weekend performances.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1dc1d40a-8a79-4df8-9682-f5d0ec468734">
+              <Vi>Khán giả hào hứng chờ đợi buổi biểu diễn ca nhạc tối nay.</Vi>
+              <En>The audience eagerly awaits tonight’s concert show.</En>
+            </Situation>
+            <Situation id="46a050d7-7f5c-4210-a3ac-d0e2421e0301">
+              <Vi>Chương trình truyền hình thực tế thu hút hàng triệu người xem.</Vi>
+              <En>The reality TV show attracts millions of viewers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="925656ac-758c-469e-813f-9ac515565c65" type="Verb">
+          <Vi>biểu lộ, thể hiện (cảm xúc, tính cách)</Vi>
+          <En>to display or express a feeling, attitude, or quality</En>
+          <Example>He showed no emotion during the difficult meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e17167a-dc26-40ca-ab8f-1dd8344c3162">
+              <Vi>Cô ấy luôn tỏ ra vui vẻ và thân thiện với mọi người.</Vi>
+              <En>She always shows happiness and friendliness toward others.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0ccfff0a-e5df-4536-974d-de79238572b3" type="Verb">
+          <Vi>chỉ dẫn, dẫn đường</Vi>
+          <En>to guide someone to a location or point out something</En>
+          <Example>Can you show me the way to the nearest subway station?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dfd56baf-9405-49bb-a0f4-3520eca24b50">
+              <Vi>Taxi lái xe chỉ đường cho khách đến khách sạn.</Vi>
+              <En>The taxi driver shows the guest the way to the hotel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

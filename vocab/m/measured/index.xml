@@ -1,0 +1,38 @@
+<Vocab id="f6a07e89-1e3c-4074-a053-ddd8410483e1" word="measured" type="short" status="done">
+  <Topics>
+    <Topic id="99046287-877d-4cae-9645-05b68d893aef" value="Science &amp; Measurement" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0b79e6a5-46c3-4763-908d-72bca7b3ddb4" ipa="/ˈmeː.ʒərd/" vi_ipa="mít-dơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7d505c79-b5b5-41f2-8023-2a89c1697bda" type="Adjective">
+          <Vi>được đo lường cẩn thận; có tính toán kỹ lưỡng</Vi>
+          <En>Done or acting with careful calculation or deliberation; not impulsive or hasty.</En>
+          <Example>She gave a measured response to the controversial question.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2201060-b2d1-44f0-a8bb-28132811f4ae">
+              <Vi>Tình huống một người phát biểu hoặc hành động một cách bình tĩnh, cân nhắc kỹ trước khi nói hoặc làm gì đó quan trọng.</Vi>
+              <En>A situation where someone speaks or acts calmly and thoughtfully, especially in a sensitive or high-stakes context.</En>
+            </Situation>
+            <Situation id="772750a1-5458-43c3-b051-e77564017e33">
+              <Vi>Tình huống đo lường chính xác kích thước, khối lượng, thời gian, v.v. trong thí nghiệm hoặc sản xuất.</Vi>
+              <En>A situation involving precise measurement of physical quantities in scientific experiments or manufacturing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
