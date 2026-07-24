@@ -1,0 +1,32 @@
+<Vocab id="35b3ccce-ff8d-4a12-841b-aecff88ef9c4" word="mon" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f83b7f44-285f-4850-8a8a-e1fb0748c254" ipa="/mɒn/" vi_ipa="môn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd9bc550-9ee6-45b5-b1f3-f63b2e8bd999" type="Noun">
+          <Vi>Phật tử nam; nhà sư (từ xưng hô trong Phật giáo Theravāda)</Vi>
+          <En>A Buddhist monk; a male Buddhist religious practitioner, especially in Theravāda traditions</En>
+          <Example>Monks wake up before dawn to begin their daily chanting and alms round.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9fdc7ef1-8965-42da-a62a-654e5dd5d642">
+              <Vi>Người dân Thái Lan gọi các tu sĩ nam là "mon" khi cúng dường hoặc hỏi chuyện.</Vi>
+              <En>Thai people address male Buddhist monks as "mon" when offering alms or speaking to them.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
