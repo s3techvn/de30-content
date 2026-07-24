@@ -1,0 +1,38 @@
+<Vocab id="d1a0a447-7b30-46b6-a8db-0de395dc59b1" word="barcelona" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="0bdc3958-9145-4cac-8c62-8108c5e90992" value="Cultural Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f3407fec-7fe6-4b66-9cde-e8cfaf7c360e" ipa="/bɑːrˈsɛlənə/" vi_ipa="bác-sen-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ab36e30a-fad0-4317-b7b3-c832dbe6cd8c" type="Proper Noun">
+          <Vi>Barcelona</Vi>
+          <En>A major city in northeastern Spain, the capital of Catalonia, known for its unique architecture, beaches, and vibrant culture.</En>
+          <Example>Barcelona is famous for Antoni Gaudí’s Sagrada Família and Park Güell.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bc2371a3-1816-4468-ad5a-1ac7321a1377">
+              <Vi>Thành phố cảng nổi tiếng ở Tây Ban Nha, nơi có kiến trúc độc đáo và văn hóa sôi động.</Vi>
+              <En>A famous port city in Spain, known for its distinctive architecture and vibrant culture.</En>
+            </Situation>
+            <Situation id="75d177c9-b3b4-4b5a-940e-bd767db5ab38">
+              <Vi>Điểm đến du lịch phổ biến cho người yêu nghệ thuật và ẩm thực Địa Trung Hải.</Vi>
+              <En>A popular travel destination for lovers of art and Mediterranean cuisine.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
