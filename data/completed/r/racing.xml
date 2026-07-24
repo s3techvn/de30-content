@@ -1,0 +1,46 @@
+<Vocab id="eae3dff9-5bb7-460b-83ef-586123ee6d5a" word="racing" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="a677f932-6a02-4a43-ad2b-5d9d4f911aaf" value="Racing Driver" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7fb6d2f1-20c4-441f-b2fa-5b9d8fd37bb1" ipa="/ˈreɪ.sɪŋ/" vi_ipa="rây-sình">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="3374febb-85ce-430d-8fd4-dc4b4fd19edc" type="Noun">
+          <Vi>cuộc đua; sự đua xe</Vi>
+          <En>A competitive contest in which participants (e.g., cars, horses, or athletes) try to be the first to reach a finish line.</En>
+          <Example>He has been training for months to compete in the Formula 1 racing.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e808fbfa-b3ed-490d-9ef2-41b94fe4439a">
+              <Vi>Sự kiện tổ chức các phương tiện hoặc vận động viên thi đấu tốc độ.</Vi>
+              <En>An event where vehicles or athletes compete in speed over a set course.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6d384e45-dc34-4079-b727-ca4a17598f07" type="Verb (present participle/gerund)">
+          <Vi>đang đua; đua xe</Vi>
+          <En>The act of competing at high speed in a race; the present participle of "race".</En>
+          <Example>She enjoys racing her friends on the track every weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e965303f-2231-407d-bfa1-f3afc1a4f932">
+              <Vi>Hành động tham gia hoặc quan sát cuộc đua đang diễn ra.</Vi>
+              <En>The action of participating in or observing an active race.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
