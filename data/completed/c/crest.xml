@@ -1,0 +1,52 @@
+<Vocab id="98999286-3ecf-463e-8be6-c5f063813d8a" word="crest" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="99b290d5-5a0b-481a-8290-b313fb5c7589" value="Heraldry" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="82349153-ab26-436f-baa0-430ebd7a7646" value="Heraldist" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="97a41939-c4d5-4052-85db-f2aefabc3bc0" ipa="/krest/" vi_ipa="crét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="48b81e62-c055-4361-ac53-c8afc9188e13" type="Noun">
+          <Vi>Ngọn, đỉnh (của ngọn núi, sóng, v.v.); mào (của động vật)</Vi>
+          <En>The top or highest point of a wave, hill, or ridge; a tuft or ridge of feathers, hair, or skin on the head of a bird or other animal.</En>
+          <Example>They watched the surging waves crash against the cliff, cresting in white foam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a28b9ed-eb65-4099-8546-08a467e4a83c">
+              <Vi>Mô tả sóng biển cao nhất trước khi vỡ</Vi>
+              <En>Describing the highest point of a wave just before it breaks.</En>
+            </Situation>
+            <Situation id="8239c9bf-f312-4c45-b905-5b8bc90197f1">
+              <Vi>Mào trên đầu gà trống hoặc chim còi</Vi>
+              <En>The red fleshy comb on top of a rooster’s head.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1b9e3a1e-dbcd-447e-b418-65e70862964c" type="Noun">
+          <Vi>Huy hiệu (trong huy hiệu gia tộc), phù hiệu</Vi>
+          <En>A heraldic emblem or symbol, especially one borne on a helmet in a coat of arms.</En>
+          <Example>The knight’s shield bore the family crest: a golden lion rampant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9238bbc-7744-4939-b168-b7263042fd12">
+              <Vi>Trên mũ giáp hoặc khiên trong huy hiệu gia tộc</Vi>
+              <En>Displayed above the helmet in a traditional European coat of arms.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
