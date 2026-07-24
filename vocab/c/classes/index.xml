@@ -1,0 +1,58 @@
+<Vocab id="254ccb29-90b3-44df-9193-88e304a3ba56" word="classes" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="29e9a450-4129-4644-872e-b99492c22378" value="Academic Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25aee9bd-d047-4b8b-9e85-7131ef9d6380" ipa="/ˈklæs.ɪz/" vi_ipa="cờ-lờ-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5373c960-0d75-4af5-a0db-c14df30354c1" type="Noun">
+          <Vi>Lớp học</Vi>
+          <En>A group of students who are taught together, typically in a school or university.</En>
+          <Example>The chemistry class met in the laboratory on Tuesdays and Thursdays.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2f9b1548-0fb6-4029-8df1-fd397d1ae681">
+              <Vi>Số lượng học sinh trong một lớp học tại trường phổ thông hoặc đại học.</Vi>
+              <En>The number of students taught together in a formal educational setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="dc8a534b-0e79-42a6-ad11-33872ba05dd0" type="Noun">
+          <Vi>Lớp (trong phân loại xã hội)</Vi>
+          <En>A large group of people within a society who share the same economic or social status.</En>
+          <Example>She comes from a working-class background.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4aa753bb-2318-4c28-9b37-2f49d5b46467">
+              <Vi>Cấp bậc xã hội dựa trên thu nhập, nghề nghiệp, và giáo dục.</Vi>
+              <En>Social strata defined by income, occupation, and education level.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="84b85c09-bb6b-4992-9dd2-5302332d97f8" type="Noun">
+          <Vi>Lớp (trong phân loại sinh học)</Vi>
+          <En>A taxonomic rank used in biology, above order and below phylum.</En>
+          <Example>Mammalia is a class of animals that includes humans, whales, and bats.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b2f9232-061c-48ab-92b2-441041d61298">
+              <Vi>Hạng phân loại trong hệ thống phân loại sinh học.</Vi>
+              <En>A rank in biological classification grouping organisms with shared characteristics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

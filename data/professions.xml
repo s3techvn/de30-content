@@ -886,4 +886,5 @@
   <Profession id="3e525cbf-01e6-4985-a38b-b75f981d01a2" slug="astrologer" value="Astrologer" />
   <Profession id="4a61f65e-3eb7-4628-8e03-3d9af6dd49e6" slug="business" value="Business" />
   <Profession id="078343ff-ace8-4667-a173-7d026ef92dda" slug="journalism" value="Journalism" />
+  <Profession id="08810bcd-e3c5-47e2-8b71-bf8afad650eb" slug="accountant-(nonprofit-sector)" value="Accountant (Nonprofit Sector)" />
 </Professions>
