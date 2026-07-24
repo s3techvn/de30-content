@@ -1,0 +1,92 @@
+<Vocab id="b56b0865-5417-4e70-bd62-1440175052f0" word="bottom" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="e6f92c2e-e5f6-4f25-9b5a-5a3ae761d988" value="Mariner" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="01546583-ccea-49b0-bd8b-b20abcded673" ipa="/ˈbɑː.təm/" vi_ipa="bốt-tờm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d68645ad-0c44-49b2-8f79-ba7b16aedeff" type="Noun">
+          <Vi>Đáy; phần dưới cùng; mông</Vi>
+          <En>The lowest or deepest part of something; the lower part of the human body below the waist.</En>
+          <Example>They found the shipwreck at the bottom of the ocean.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf0954b5-85ff-4b8e-8e77-7eb70fb71933">
+              <Vi>Mô tả vị trí thấp nhất của một vật hoặc không gian.</Vi>
+              <En>Refers to the lowest or deepest part of a container, structure, or natural feature.</En>
+            </Situation>
+            <Situation id="ba8e906e-082d-4c48-b878-8080b003bab4">
+              <Vi>Dùng để chỉ phần mông trong ngữ cảnh cơ thể người.</Vi>
+              <En>Used informally or anatomically to refer to the buttocks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="895e0387-4c5b-470a-8ca9-ab05eec8b334" type="Adjective">
+          <Vi>Ở dưới cùng; thấp nhất</Vi>
+          <En>Being at the lowest position or level.</En>
+          <Example>She stood at the bottom of the stairs.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="935cb429-396c-45c9-a889-4ff5d46e2442">
+              <Vi>Mô tả vị trí thấp nhất trong một dãy hoặc hàng.</Vi>
+              <En>Used to describe the lowest position in a line, list, or hierarchy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ab4cf1c2-4b27-4fe1-a59d-d17f0db77c2f" type="Adverb">
+          <Vi>Ở dưới cùng; xuống tận đáy</Vi>
+          <En>In or to the lowest position or level.</En>
+          <Example>The diver went bottom to search for the lost camera.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f70719c-d94e-43d8-a23a-abbb580297f3">
+              <Vi>Mô tả hành động di chuyển hoặc đặt thứ gì đó xuống vị trí thấp nhất.</Vi>
+              <En>Used when describing movement or placement to the lowest point.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="0a71855f-8692-4509-8541-8a4bdccb24d1" ipa="/bəˈtɑːm/" vi_ipa="bơ-tốt-mờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="022ea908-ec18-44ae-bafd-f686ebb78b10" type="Verb">
+          <Vi>Đặt ở dưới cùng; kết thúc bằng (một điều gì đó); đạt đến mức thấp nhất</Vi>
+          <En>To place at the bottom; to finish with a particular thing; to reach the lowest point.</En>
+          <Example>The report bottoms out with a list of recommendations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c865b738-d6bf-4aa0-a654-03d4d0389e8f">
+              <Vi>Dùng khi kết thúc một danh sách, bài báo, hoặc trình tự bằng một phần cụ thể.</Vi>
+              <En>Used when concluding a list, article, or sequence with a specific item or point.</En>
+            </Situation>
+            <Situation id="bea33338-f8f2-4821-bd95-abf1eb0e70d2">
+              <Vi>Mô tả việc giá cả, mức độ, hoặc tình hình đạt đến mức thấp nhất (thường trong kinh tế).</Vi>
+              <En>Used when describing prices, levels, or conditions reaching their lowest point (often in economic contexts).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
