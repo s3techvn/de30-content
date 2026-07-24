@@ -1,0 +1,74 @@
+<Vocab id="4ae01813-6eb8-4e21-b683-b26b29114403" word="chicken" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="27638a03-e9e8-44a7-b4b5-10a45097eeab" ipa="/ˈtʃɪk.ɪn/" vi_ipa="chíc-ken">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c1a12f90-0163-40b8-93ab-6e99b487efd7" type="Noun">
+          <Vi>Gà (con vật); thịt gà</Vi>
+          <En>A domestic fowl (Gallus gallus domesticus) kept for its eggs or meat; also, the meat of such a bird.</En>
+          <Example>She grilled a whole chicken for Sunday dinner.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="331c8ef5-8978-4722-a872-57790c12b634">
+              <Vi>Nói về con gà sống hoặc đã được làm sạch để nấu ăn.</Vi>
+              <En>Referring to a live chicken or a dressed chicken prepared for cooking.</En>
+            </Situation>
+            <Situation id="0635f6ab-9e71-47b4-8602-374bfa73e77b">
+              <Vi>Trong thực đơn nhà hàng hoặc khi mua thịt tại siêu thị.</Vi>
+              <En>On a restaurant menu or when buying meat at the supermarket.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="120b0edb-1e75-45a3-ba00-1aac7edc270f" type="Noun">
+          <Vi>Người nhút nhát, dễ sợ (thường dùng trong cụm "a chicken")</Vi>
+          <En>A cowardly or timid person (often used in phrases like "a chicken").</En>
+          <Example>Don’t be such a chicken—just ask her out!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="000bb0e7-9d8f-4ba4-b8e9-69cd793edea6">
+              <Vi>Khi chê bai ai đó quá dè dặt hoặc sợ hãi trong tình huống nguy hiểm hoặc thử thách.</Vi>
+              <En>When teasing someone for being overly cautious or fearful in a risky or challenging situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c7ef570e-c8d6-468b-9186-fb7007b8ef5d" ipa="/ˈtʃɪk.ɪn/" vi_ipa="chíc-ken">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cc4c5020-dfa5-4a6c-bcf8-c0dad3b3255d" type="Verb">
+          <Vi>Làm cho ai đó sợ hãi; làm cho ai đó nhút nhát</Vi>
+          <En>To make someone feel timid, fearful, or hesitant.</En>
+          <Example>The threatening email chilled him—he chicken’d out of the deal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a824dba-614c-462d-9a72-d44eb2dfd58f">
+              <Vi>Khi ai đó từ chối làm điều gì đó vì sợ hậu quả.</Vi>
+              <En>When someone backs out of doing something due to fear of consequences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

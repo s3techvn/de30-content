@@ -1,0 +1,48 @@
+<Vocab id="663ecfc7-7005-421b-b7b6-79a94369056c" word="brief" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="425e7a8f-6f5d-4080-bfd0-62d324fe9d16" value="Executive" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8cf1d1ab-0472-4c3a-a7f4-7512e1788609" ipa="/briːf/" vi_ipa="bri-inh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="916f82c5-863e-43bd-96ac-f4981c2ac8a6" type="Adjective">
+          <Vi>ngắn gọn, tóm tắt, súc tích</Vi>
+          <En>short in duration or extent; concise and to the point.</En>
+          <Example>The lawyer submitted a brief summary of the case.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e1d3850-066c-42ad-9aaa-d5d684dbfbf3">
+              <Vi>Mô tả một bài phát biểu, tài liệu, hoặc cuộc họp ngắn gọn, không dài dòng.</Vi>
+              <En>Describing a speech, document, or meeting that is short and to the point, without unnecessary details.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="81c23f75-8b89-4a0c-9c7e-1ca9674e741e" type="Noun">
+          <Vi>bản tóm tắt, bản tóm lược (đặc biệt trong pháp lý)</Vi>
+          <En>a summary of a legal case or argument, especially one given to a lawyer before a court hearing.</En>
+          <Example>The barrister reviewed the brief before entering the courtroom.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e0e6444-8d7c-42dc-9492-a427a4671a2a">
+              <Vi>Trong lĩnh vực pháp lý, tài liệu ngắn gọn tóm tắt các điểm pháp lý và sự kiện quan trọng của vụ án.</Vi>
+              <En>In legal contexts, a concise document summarizing key facts and legal arguments for a case.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
