@@ -1,0 +1,60 @@
+<Vocab id="9ba57490-2bdb-4a3b-97ac-98ada66b8481" word="casting" type="short" status="done">
+  <Topics>
+    <Topic id="75bf6936-248a-4c00-9bdd-6f455a63303f" value="Arts &amp; Entertainment" />
+    <Topic id="8dda0897-4bed-4eb4-aca8-d2a92b7bb011" value="Manufacturing" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="6c130b41-9ddd-44e6-be3e-e38e8a3155c2" value="Metalworker" />
+    <Profession id="9686b4e0-0ba5-4f78-a870-3c6333625767" value="Sculptor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5fbed481-c5cb-4e6a-b769-b36f207f9161" ipa="/ˈkæs.tɪŋ/" vi_ipa="cát-s-tinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b86cf2c2-449e-4f2d-80e8-d67e0e466d5c" type="Noun">
+          <Vi>Sự tuyển chọn diễn viên</Vi>
+          <En>The process of selecting actors for roles in a film, play, or television production.</En>
+          <Example>The director held auditions for the casting of the new superhero movie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1d4ebc1f-1852-46f4-af1b-6ca9c704a269">
+              <Vi>Quy trình phỏng vấn và chọn người đóng vai trong sản phẩm điện ảnh hoặc sân khấu.</Vi>
+              <En>A formal procedure where performers audition to be chosen for specific roles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5cda4040-5a4d-459b-9f6e-5db63956ce7a" type="Noun">
+          <Vi>Sản phẩm đúc (kim loại, nhựa...)</Vi>
+          <En>An object made by pouring liquid material (such as molten metal or plastic) into a mold and allowing it to solidify.</En>
+          <Example>The sculptor carefully inspected the bronze casting for imperfections.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9cedc1ec-508a-4e65-aa1e-44be719985d2">
+              <Vi>Vật thể được tạo ra bằng kỹ thuật đúc trong chế tạo cơ khí hoặc nghệ thuật điêu khắc.</Vi>
+              <En>An object produced using the casting process, commonly used in industrial parts or artistic works.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3615dde8-b0a0-420a-9464-1ce6e1a7bab9" type="Noun">
+          <Vi>Sự quăng, sự ném (trong thể thao hoặc đánh bắt cá)</Vi>
+          <En>The act of throwing or hurling something, especially a fishing line or a net.</En>
+          <Example>The fisherman practiced his casting technique to improve accuracy and distance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51678b0c-4202-4cbe-837c-365fd9759d11">
+              <Vi>Hành động ném cần câu hoặc lưới trong đánh bắt cá.</Vi>
+              <En>The motion of releasing a fishing line or net into water to catch fish.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
