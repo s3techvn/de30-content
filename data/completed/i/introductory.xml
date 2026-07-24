@@ -1,0 +1,41 @@
+<Vocab id="e098e9db-6e3d-435a-a7bd-7d744e67e8b8" word="introductory" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="97765fd4-a4e4-4515-8980-5ffffcc38f70" value="Lecturer" />
+    <Profession id="c8730790-9387-420c-8e93-47568d168888" value="Presenter" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f468fcd-201b-4cfe-bc68-19d540de3aaa" ipa="/ˌɪn.trəˈdʌk.tər.i/" vi_ipa="in-trơ-đác-tơ-rì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="616cab2f-b746-4198-b88e-64106434fee0" type="Adjective">
+          <Vi>giới thiệu, mở đầu, giới thiệu sơ bộ</Vi>
+          <En>serving as an introduction; presenting something for the first time or in a preliminary way.</En>
+          <Example>The course includes an introductory chapter on basic programming concepts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed338d21-6d3f-4e92-a38a-223ff09f394f">
+              <Vi>Được dùng để mô tả tài liệu, bài giảng, hoặc phần đầu tiên nhằm giúp người mới bắt đầu làm quen với chủ đề.</Vi>
+              <En>Used to describe materials, lectures, or the first part designed to familiarize beginners with a topic.</En>
+            </Situation>
+            <Situation id="9b466e3b-93c0-4696-82f2-838fa2795ed4">
+              <Vi>Trong hội nghị hoặc sự kiện, phần giới thiệu ngắn trước phần chính.</Vi>
+              <En>In a conference or event, a brief introduction before the main content.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
