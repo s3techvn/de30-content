@@ -1,0 +1,48 @@
+<Vocab id="c52a6e28-522f-401d-a22a-53d20fb04dc8" word="chapter" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="05532446-0078-40b5-835d-ec6c790e0179" value="Publishing" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="45ca1827-9d93-491c-ab68-014e25aaaf13" value="Author" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b8fa9a4f-de70-4b73-8f7e-713657aefff4" ipa="/ˈtʃæp.tər/" vi_ipa="cháp-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="78a96e25-4c91-4d67-9faf-271685213e96" type="Noun">
+          <Vi>Chương (trong sách)</Vi>
+          <En>A main section of a book, typically dealing with a particular subject or event.</En>
+          <Example>The novel is divided into twelve chapters, each focusing on a different phase of the protagonist’s journey.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="88c25a0e-024c-4ef8-84d0-2a10a752ac7d">
+              <Vi>Người đọc đang theo dõi nội dung trong một cuốn sách giáo khoa hoặc tiểu thuyết.</Vi>
+              <En>A reader is following the narrative or instruction in a book, referring to a numbered or titled section.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bf57621e-7ae4-4754-840b-f135af10cb38" type="Noun">
+          <Vi>Chi nhánh, hội đồng (của tổ chức, đặc biệt là hội, đoàn thể)</Vi>
+          <En>A local branch or division of a large organization, especially a society or association.</En>
+          <Example>The local chapter of the charity raised funds for disaster relief efforts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="858c39c5-b4d0-4fc8-91f0-0ed5fc2cc731">
+              <Vi>Một nhóm thành viên tổ chức hoạt động tại địa phương dưới sự liên kết của một tổ chức lớn hơn.</Vi>
+              <En>A group of members operates locally under the umbrella of a national or international organization.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
