@@ -1,0 +1,50 @@
+<Vocab id="1a6a0380-7992-4e5a-acd0-fb1e29e4f40f" word="milk" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="eec7b1f3-493a-4fa8-b35a-063ace4d2028" value="Dairy Farmer" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="84af31ec-278a-4e35-8578-748d404000a4" ipa="/mɪlk/" vi_ipa="milk">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bfb78651-e90c-4516-81e6-b3b09d2a498c" type="Noun">
+          <Vi>Sữa (chất lỏng trắng từ vú động vật, đặc biệt là bò)</Vi>
+          <En>The white liquid produced by female mammals to feed their young, especially the liquid from cows used as a beverage.</En>
+          <Example>She poured a glass of milk into her cereal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="af14c5d1-96c4-41b3-ad0d-f61f4e7139f4">
+              <Vi>Mua sữa tươi tại siêu thị để uống hoặc nấu ăn.</Vi>
+              <En>Buying fresh milk at the supermarket for drinking or cooking.</En>
+            </Situation>
+            <Situation id="2dad381d-01b2-4a4f-b6f1-246edae3aef5">
+              <Vi>Nhà nông lấy sữa từ bò vào buổi sáng.</Vi>
+              <En>A farmer milks cows early in the morning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e580a453-7b5e-4581-905a-ab3dd6dc8380" type="Verb">
+          <Vi>Điều khiển (động vật) để vắt sữa; lấy sữa từ (động vật)</Vi>
+          <En>To draw milk from the udder of a mammal, especially a cow or goat.</En>
+          <Example>They milk their cows twice a day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0e8ffc2-1115-4623-8ca9-d4bd43887245">
+              <Vi>Nông dân vắt sữa bò mỗi sáng và tối.</Vi>
+              <En>The farmer milks the cows every morning and evening.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
