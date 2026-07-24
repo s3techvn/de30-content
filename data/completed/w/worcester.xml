@@ -1,0 +1,49 @@
+<Vocab id="6c3d6140-016b-467f-9a09-dbc3c0c509cd" word="worcester" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="856adf36-7dd9-486f-a88b-b4e8654bf94a" value="Food Critic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8aa3cefc-620f-41ce-b65e-d96d18e8add4" ipa="/ˈwʊs.tər/" vi_ipa="ứt-tờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="52ec24bb-26bc-4ac8-8242-c950c542b3cf" type="Noun">
+          <Vi>Worcester (sốt Worcestershire)</Vi>
+          <En>A dark, savory, slightly sweet and tangy fermented sauce used as a condiment or ingredient, originally developed in Worcester, England.</En>
+          <Example>She added a dash of Worcestershire sauce to the beef stew for extra depth of flavor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59be0557-35b6-48ab-a6ff-ce12302a3b9c">
+              <Vi>Nhà bếp thêm sốt Worcestershire vào món nướng hoặc súp để tăng hương vị umami.</Vi>
+              <En>A chef adds Worcestershire sauce to grilled meats or soups to enhance umami and complexity.</En>
+            </Situation>
+            <Situation id="153f4cbf-c8cc-424d-8eac-df65ae06deca">
+              <Vi>Người tiêu dùng thường nhầm lẫn giữa Worcestershire và nước tương (soy sauce).</Vi>
+              <En>Consumers often confuse Worcestershire sauce with soy sauce due to similar color and savory profile.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5374e197-7a1f-4e8a-942d-56d5065a5b1e" type="Noun">
+          <Vi>Thành phố Worcester (Anh/Mỹ)</Vi>
+          <En>A city name; most notably Worcester in Worcestershire, England, or Worcester in Massachusetts, USA.</En>
+          <Example>Worcester, Massachusetts, is home to several universities and a historic downtown district.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40ee8362-eef5-43e6-80d3-a1168f7bce22">
+              <Vi>Người dân địa phương gọi tắt thành phố Worcester khi nói chuyện trong cộng đồng.</Vi>
+              <En>Locals refer to the city as “Worcester” in everyday conversation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
