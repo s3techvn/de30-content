@@ -1,0 +1,40 @@
+<Vocab id="3db619c5-29db-4cd6-8743-9d0836722f94" word="festival" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="038fbe45-7378-4e9a-8784-f2fbd21ca379" value="Celebration" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="b3491586-1807-48b6-83f1-4046913e4b0f" value="Tourism Guide" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="21c86216-85ed-436c-ad53-7d32a007d7c6" ipa="/ˈfes.tɪ.vəl/" vi_ipa="phết-ti-vờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c0904186-6e1c-46fa-9a37-dd7ff37d3cc2" type="Noun">
+          <Vi>lễ hội</Vi>
+          <En>A series of related events, typically including music, food, and cultural activities, held to celebrate a special occasion or tradition.</En>
+          <Example>The annual music festival attracted over 50,000 attendees from around the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="73076703-bc50-4af7-a3f9-794e5a0cca33">
+              <Vi>Một sự kiện cộng đồng lớn với nhiều hoạt động văn hóa, âm nhạc, và ẩm thực.</Vi>
+              <En>A large community event featuring cultural performances, music, and food.</En>
+            </Situation>
+            <Situation id="b2c13eb1-eb5c-4879-8315-24654b4b9860">
+              <Vi>Lễ hội mùa xuân truyền thống ở nhiều quốc gia châu Á.</Vi>
+              <En>A traditional spring festival in many Asian countries, such as Tet in Vietnam.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
