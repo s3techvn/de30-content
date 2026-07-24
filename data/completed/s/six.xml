@@ -1,0 +1,58 @@
+<Vocab id="aac59149-de44-4d20-93b7-edb94bec7d89" word="six" type="short" status="done">
+  <Topics>
+    <Topic id="73714b91-0ef4-43a3-a6ed-c523c52ee22b" value="Numbers and Counting" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="eaa06b65-9a1e-41ae-8fcd-7e8eeb2d58c7" ipa="/sɪks/" vi_ipa="sích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="803f7702-0e7f-4856-a8b3-b6d4f3bbd6ba" type="Noun">
+          <Vi>sáu</Vi>
+          <En>The natural number following five and preceding seven.</En>
+          <Example>She has six apples in her basket.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="423cdbc3-e871-40d1-82f3-a60e6e127efe">
+              <Vi>Đếm số lượng vật thể hoặc người.</Vi>
+              <En>Counting physical objects or people.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="90ce3b56-9b30-4e74-b096-f79c03e23692" type="Adjective">
+          <Vi>sáu</Vi>
+          <En>Denoting a quantity of six.</En>
+          <Example>We waited for six hours.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6fc72091-4c86-4bab-89d4-6c3fc86e4c86">
+              <Vi>Mô tả số lượng trong câu, thường đứng trước danh từ.</Vi>
+              <En>Describing quantity in a sentence, typically preceding a noun.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e9cc2022-5040-4e8d-986c-6b4a4a856cd0" type="Noun">
+          <Vi>số sáu</Vi>
+          <En>The digit or numeral 6.</En>
+          <Example>The winning lottery number was six.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6228b87b-991c-4067-8c09-b5daf0fcd71d">
+              <Vi>Khi nói đến chữ số hoặc số học.</Vi>
+              <En>When referring to digits or numerals in mathematics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
