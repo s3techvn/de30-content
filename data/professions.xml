@@ -820,4 +820,6 @@
   <Profession id="40371fd9-7acd-4507-a434-66d772c00bb8" slug="driller" value="Driller" />
   <Profession id="95728d7e-8d25-42f7-ab7a-a40b23743615" slug="conservation-officer" value="Conservation Officer" />
   <Profession id="5b2ea0fc-5a58-489a-aa02-10127c22b927" slug="job-seeker" value="Job Seeker" />
+  <Profession id="4bec4d88-71e6-4650-9200-9b48ef986323" slug="football-coach" value="Football Coach" />
+  <Profession id="86759250-5db8-43ab-96fe-0974d9246505" slug="american-football-player" value="American Football Player" />
 </Professions>

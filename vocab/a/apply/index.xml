@@ -1,0 +1,40 @@
+<Vocab id="30368f59-59ed-4736-9ca9-1dc85f6321a3" word="apply" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="5b2ea0fc-5a58-489a-aa02-10127c22b927" value="Job Seeker" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e17a9b32-fb2b-4554-bc06-b31f09006d13" ipa="/əˈplaɪ/" vi_ipa="ơ-plây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4a1f6c11-1941-4437-bf94-f242a55a85db" type="Verb">
+          <Vi>đăng ký, nộp đơn, áp dụng</Vi>
+          <En>to make a formal request, typically in writing, for something such as a job, position, or permission; to put something into effect or use</En>
+          <Example>I plan to apply for the graduate program next month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4871c74-161a-4466-a3b5-8aeb6b0033f6">
+              <Vi>Nộp đơn xin việc qua email hoặc cổng thông tin tuyển dụng.</Vi>
+              <En>Submitting a job application online or via email.</En>
+            </Situation>
+            <Situation id="3a3a53de-bda1-44cf-887d-079177221c4f">
+              <Vi>Áp dụng một phương pháp hoặc quy tắc vào một tình huống cụ thể.</Vi>
+              <En>Using a method or rule in a specific situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

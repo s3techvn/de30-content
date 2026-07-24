@@ -1,0 +1,61 @@
+<Vocab id="922cb409-bae7-476f-adbd-fc27a80e57f2" word="receiver" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="d5b45c6e-2e3f-4292-9315-eb8b3d8c3993" value="Telecommunications" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="8d753d3a-b01a-41fc-b357-51ac9d5b5b2b" value="Telecommunications Engineer" />
+    <Profession id="33a257d4-52c7-497e-ab42-bb99502f29cb" value="Radio Operator" />
+    <Profession id="4bec4d88-71e6-4650-9200-9b48ef986323" value="Football Coach" />
+    <Profession id="86759250-5db8-43ab-96fe-0974d9246505" value="American Football Player" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6c51ec08-21df-4d19-a752-07e7c3738bae" ipa="/rɪˈsiː.vər/" vi_ipa="rì-xi-va">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb325449-a580-4cfd-9dac-3e6eed557641" type="Noun">
+          <Vi>thiết bị thu (tín hiệu, âm thanh, hình ảnh)</Vi>
+          <En>A device that receives signals, messages, or transmissions, such as a radio or television set.</En>
+          <Example>The radio receiver picked up the signal clearly despite the interference.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="925687b6-8a8b-4aa1-b5aa-83e74cdf28aa">
+              <Vi>Người dùng kết nối tai nghe với thiết bị thu để nghe âm thanh.</Vi>
+              <En>A user connects headphones to the receiver to listen to audio.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7b81dde7-eebf-4e45-af8f-45b96f573cd2" type="Noun">
+          <Vi>người nhận (vật, tin nhắn, tín hiệu)</Vi>
+          <En>A person or thing that receives something, such as a message, package, or signal.</En>
+          <Example>The receiver of the email was surprised by the unexpected news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6645076f-4415-45e3-b6f7-9a20b016a7f5">
+              <Vi>Trong giao dịch, người nhận hàng kiểm tra bưu kiện trước khi ký nhận.</Vi>
+              <En>In a transaction, the recipient inspects the package before signing for it.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9e0231ff-20bf-4e26-b1fb-5cff86f95c3f" type="Noun">
+          <Vi>người bắt bóng (trong bóng bầu dục)</Vi>
+          <En>An offensive player whose role is to catch passes from the quarterback in American football.</En>
+          <Example>The receiver sprinted down the sideline and caught the touchdown pass.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b164f0b1-e7c5-4589-a158-38739f6dcd98">
+              <Vi>Hậu vệ đối phương đánh chặn đường chuyền khiến người bắt bóng không kịp với bóng.</Vi>
+              <En>The defender intercepted the pass, preventing the receiver from catching the ball.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
