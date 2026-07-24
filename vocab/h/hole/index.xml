@@ -1,0 +1,64 @@
+<Vocab id="0d7d40bd-4146-4679-88a6-81d1ee1902d0" word="hole" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="928c0afd-593f-4208-a708-0bb4da13af5c" value="Golfer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dfcbd322-ed34-4a4b-937f-2d596e9cd557" ipa="/həʊl/" vi_ipa="hồ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="781d72fc-1d95-4b3a-b220-e49974ee1411" type="Noun">
+          <Vi>Lỗ, lỗ hổng</Vi>
+          <En>A hollow place or opening in a surface or object.</En>
+          <Example>They dug a hole to plant the tree.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6f8e0eb3-f874-41c2-b1ee-3e3ce027ed6b">
+              <Vi>Một cái hố được đào trong đất để trồng cây hoặc đặt cọc.</Vi>
+              <En>A pit dug in the ground for planting trees or installing posts.</En>
+            </Situation>
+            <Situation id="622b19da-0010-4e9d-89cf-ef411fa1e75d">
+              <Vi>Lỗ trên áo bị rách hoặc bị mài mòn.</Vi>
+              <En>A tear or worn spot in fabric, such as a hole in a sock.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b87ad14c-5466-4a54-bc7e-03b0b80292aa" type="Noun">
+          <Vi>Lỗ trên sân golf (để đặt cờ)</Vi>
+          <En>The circular opening in the ground on a golf green where the flagstick stands and into which players aim to sink the ball.</En>
+          <Example>She sank her putt into the hole on the first try.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40439765-c99a-4149-b154-7d9ffa728ab7">
+              <Vi>Cầu thủ golf đánh bóng vào lỗ trên sân.</Vi>
+              <En>A golfer attempts to drive or putt the ball into the hole.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c1b65bd0-9897-4cdd-a1c5-9b1cf8894c88" type="Noun">
+          <Vi>Lỗ hổng (trong hệ thống, kế hoạch, v.v.)</Vi>
+          <En>A gap, flaw, or weakness in a system, plan, or argument.</En>
+          <Example>The security audit revealed a critical hole in the firewall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dae35c51-3018-4039-83bc-55c78810644d">
+              <Vi>Phát hiện điểm yếu trong bảo mật mạng.</Vi>
+              <En>Identifying a vulnerability or security flaw in a computer network.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
