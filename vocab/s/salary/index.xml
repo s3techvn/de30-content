@@ -1,0 +1,36 @@
+<Vocab id="cfc47d1b-ca8c-46ac-aa1c-f77c3ff9f8fe" word="salary" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="f230d666-034e-44af-98bb-5126f92b13ac" value="Career" />
+  </Topics>
+  <Professions>
+    <Profession id="132ba25d-2423-4112-b124-9bde14129ba7" value="Employee" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3700b084-f765-4a3f-9511-becdde14fdbb" ipa="/ˈsæl.ər.i/" vi_ipa="xờ-lờ-rì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef00e3d6-1675-49dc-8d3a-d027bacae679" type="Noun">
+          <Vi>Lương (thường chỉ mức lương cố định trả theo tháng hoặc năm)</Vi>
+          <En>A fixed, regular payment, typically paid on a monthly or biweekly basis, especially to professional or office workers.</En>
+          <Example>She received her salary on the last Friday of the month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c6063a7b-16f0-42de-8aa7-4dbebae9b4cf">
+              <Vi>Nhân viên nhận lương hàng tháng từ công ty.</Vi>
+              <En>An employee receives a monthly payment from their employer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
