@@ -1,0 +1,40 @@
+<Vocab id="6d3d3610-4ff2-4b08-8dff-fd5ced067e11" word="secondary" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7a2869bc-17e7-4aa1-9e32-78ea7cb0ced2" ipa="/ˈsek.ən.der.i/" vi_ipa="sê-cơn-đê-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7ae04f98-df7c-4330-aeaa-32c40f962bc6" type="Adjective">
+          <Vi>thứ cấp; thứ hai; phụ</Vi>
+          <En>being of a lower rank, importance, or quality; secondary to something else</En>
+          <Example>She put her career on hold to focus on her secondary responsibility: raising her children.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8d04f3f3-dcb9-4891-980d-8f8551c2cda5">
+              <Vi>Mô tả mức độ ưu tiên thấp hơn một yếu tố chính.</Vi>
+              <En>Describes something that has lower priority or importance compared to a primary factor.</En>
+            </Situation>
+            <Situation id="3846e57e-4973-49f9-96ec-0043ae87096c">
+              <Vi>Chỉ cấp học hoặc trình độ học vấn thấp hơn (ví dụ: trung học cơ sở, trung học phổ thông).</Vi>
+              <En>Refers to a lower level of education (e.g., middle school, high school).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
