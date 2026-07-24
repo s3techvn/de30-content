@@ -1,0 +1,53 @@
+<Vocab id="363e893a-c7e5-4ba3-96fb-22a35d09b3ae" word="formula" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ccc0bff7-5db7-4ff8-9439-9cb664dc3228" ipa="/ˈfɔːr.jə.lə/" vi_ipa="pho-ri-a-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8939006c-ba42-432d-9dd4-bc0f2f68951f" type="Noun">
+          <Vi>Công thức</Vi>
+          <En>A mathematical or chemical expression that shows the relationship between quantities or elements using symbols.</En>
+          <Example>The quadratic formula is used to solve equations of the form ax² + bx + c = 0.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28aaf291-288f-4daf-88f7-41f69252ed6b">
+              <Vi>Một biểu thức toán học biểu diễn mối quan hệ giữa các đại lượng.</Vi>
+              <En>A mathematical expression showing the relationship between variables.</En>
+            </Situation>
+            <Situation id="15dbc395-537d-4d4c-a7a4-85881ca90f53">
+              <Vi>Một công thức hóa học biểu diễn thành phần nguyên tử của một hợp chất.</Vi>
+              <En>A chemical notation indicating the types and numbers of atoms in a molecule.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0fa817e4-2329-45bc-b1b4-331adf80b048" type="Noun">
+          <Vi>Công thức (dùng theo nghĩa ẩn dụ hoặc trong đời sống)</Vi>
+          <En>A set formula or plan, especially one used to achieve a particular result or solve a problem.</En>
+          <Example>The company followed a tried-and-true formula for marketing its products.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0482b33c-82c2-4630-9a4f-0055a9719528">
+              <Vi>Một phương pháp hoặc kế hoạch đã được kiểm chứng và hiệu quả.</Vi>
+              <En>A proven method or strategy for achieving success.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
