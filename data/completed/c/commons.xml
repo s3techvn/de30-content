@@ -1,0 +1,60 @@
+<Vocab id="6e99c5cf-0928-4b97-9434-87f44e5670d6" word="commons" type="short" status="done">
+  <Topics>
+    <Topic id="ffd7e5f9-8473-429d-a552-4dc3a5ad28dc" value="Law &amp; Governance" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="0d3042dd-65ec-467c-b611-d77088f0d895" value="Social Sciences" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="23cf716f-17ce-4cb4-965a-0d7f494c2b47" ipa="/ˈkɑːm.ənz/" vi_ipa="côm-mờn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ecbabcd2-dd99-4792-a8a5-ad1ec934331a" type="Noun">
+          <Vi>Tài sản dùng chung; đất công; cộng đồng</Vi>
+          <En>Land or resources owned or used collectively by a community, especially land held in common by the inhabitants of a village.</En>
+          <Example>The villagers manage the commons for grazing livestock and growing crops.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="995908c6-75f8-4826-8d8f-8b76d72781c0">
+              <Vi>Mô tả đất đai hoặc tài nguyên được chia sẻ và quản lý tập thể bởi một cộng đồng địa phương.</Vi>
+              <En>Describes land or resources shared and managed collectively by a local community.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6f5e5964-4aaa-4d49-8309-828f0d409c73" type="Noun">
+          <Vi>Phần chung (trong một cấu trúc); không gian chung</Vi>
+          <En>A shared area or facility in a building, such as a hallway, stairwell, or courtyard, used by all residents or occupants.</En>
+          <Example>The apartment building’s commons includes a lounge and a kitchen for shared use.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f1c14ca4-07b9-4d7f-8cde-af2af64ccfb9">
+              <Vi>Mô tả các khu vực dùng chung trong nhà ở tập thể, ký túc xá, hoặc chung cư.</Vi>
+              <En>Describes shared areas in residential buildings such as dormitories or apartment complexes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6fcf4aa9-6080-4e5c-94da-61f4944e6515" type="Noun">
+          <Vi>Tư duy chung; quan điểm phổ biến</Vi>
+          <En>General or widely accepted opinion or belief; common sense.</En>
+          <Example>It’s common sense, not just commons, to wear a helmet when riding a motorcycle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1383dfa7-0df5-4967-8158-47322ab73dca">
+              <Vi>Mô tả những hiểu biết hoặc niềm tin được chấp nhận rộng rãi trong xã hội.</Vi>
+              <En>Describes widely accepted knowledge or beliefs in society.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
