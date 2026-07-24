@@ -1,0 +1,58 @@
+<Vocab id="fddb991e-ee80-4b1f-bb6d-be9da2f889f8" word="pink" type="short" status="done">
+  <Topics>
+    <Topic id="8e85d723-d553-46f8-82df-97e8bf57f7e0" value="Colors &amp; Appearance" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" value="Interior Decorator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d7a804a-70f1-4c4d-97a3-749ba5750d3b" ipa="/pɪŋk/" vi_ipa="pín-k">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0355b8e7-6a3b-4e2a-806b-2465803ff2d0" type="Adjective">
+          <Vi>hồng</Vi>
+          <En>Of a pale red color, between red and white.</En>
+          <Example>She wore a pink dress to the party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="256970b7-b1f3-47b6-ac93-c3367f6bfa48">
+              <Vi>Mô tả màu sắc của hoa, quần áo, hoặc đồ vật có tông hồng nhạt.</Vi>
+              <En>Describing the pale red color of flowers, clothing, or objects.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c7f5fb06-10cd-4f8b-98db-51335658ba2f" type="Noun">
+          <Vi>màu hồng</Vi>
+          <En>The color between red and white; a pale red.</En>
+          <Example>Pink is often associated with sweetness and femininity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="57153d81-ee42-472e-9c8b-3b3d29d516aa">
+              <Vi>Dùng để chỉ một tông màu cụ thể trong hội họa, thiết kế, hoặc thời trang.</Vi>
+              <En>Used to refer to a specific color in art, design, or fashion.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b9cbbb55-5663-4553-9525-e6c93c166a8d" type="Verb">
+          <Vi>làm cho chuyển sang màu hồng</Vi>
+          <En>To give something a pink color, especially by staining or dyeing.</En>
+          <Example>The fabric was pinked with a special dye.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9071bfb9-e607-43ab-b0c5-44dda05a9c4a">
+              <Vi>Mô tả hành động nhuộm hoặc làm đổi màu một vật sang màu hồng.</Vi>
+              <En>Describing the act of dyeing or coloring something pink.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
