@@ -1,0 +1,40 @@
+<Vocab id="dcdfc640-11bc-46f7-bee7-48f2f45a8bdf" word="creature" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+    <Topic id="314a41c4-eee2-4590-bf1d-6be43172a568" value="Fantasy" />
+  </Topics>
+  <Professions>
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="e2c81d92-a102-42f5-9080-76c32842181d" value="Zoologist" />
+    <Profession id="63000c25-ee78-482c-bbfe-a497ba1cc3c6" value="Writer (Fiction)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="165ce259-1404-4739-8dbe-70d7d8b6c235" ipa="/ˈkriː.tʃər/" vi_ipa="crít-chờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="90ef3af1-0ce8-4881-9db4-dbf299455b33" type="Noun">
+          <Vi>sinh vật; loài sinh vật</Vi>
+          <En>a living organism, especially an animal</En>
+          <Example>The forest is home to many rare creatures, including the elusive snow leopard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8f73d78-29d6-451b-a796-0ccb6dddbf76">
+              <Vi>Mô tả động vật hoặc sinh vật sống trong tự nhiên, thường trong bối cảnh sinh học hoặc văn học.</Vi>
+              <En>Used when describing animals or living organisms in nature, especially in biological or literary contexts.</En>
+            </Situation>
+            <Situation id="deb01e95-55e7-474f-ac87-7d69959c487a">
+              <Vi>Cách nói thân mật hoặc mỉa mai để chỉ một người (thường trong văn nói).</Vi>
+              <En>A colloquial or sometimes ironic way to refer to a person (often in spoken English).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
