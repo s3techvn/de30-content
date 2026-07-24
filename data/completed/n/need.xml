@@ -1,0 +1,56 @@
+<Vocab id="2b6c87bd-48bd-47b1-9002-e62dcfe34bd3" word="need" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ef35dc92-6fd3-46ca-9395-9d58ea690684" ipa="/niːd/" vi_ipa="ni-ít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2f7be9d6-242b-40fa-80a2-b7ecf4fb1963" type="Verb">
+          <Vi>Cần, đòi hỏi (để đạt được mục đích hoặc đáp ứng yêu cầu)</Vi>
+          <En>To require something as necessary or essential.</En>
+          <Example>She needs more time to finish the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e943d95-1de9-40ee-aab8-3aec59f1ed83">
+              <Vi>Một người đang nói về yêu cầu thiết yếu trong công việc hoặc cuộc sống.</Vi>
+              <En>A person stating something essential required for work or daily life.</En>
+            </Situation>
+            <Situation id="0420f0fd-bdd7-48c5-9475-99698daf314d">
+              <Vi>Người dùng thể hiện sự thiếu hụt một tài nguyên hoặc hỗ trợ.</Vi>
+              <En>A speaker expresses lack of a resource or support.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fafef796-fed3-49df-a104-e31f4edee1d3" type="Noun">
+          <Vi>Nhu cầu, sự cần thiết</Vi>
+          <En>A requirement or something that is needed.</En>
+          <Example>There is an urgent need for clean water in the region.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="535389e6-027d-45d4-805f-7dfc735bc9de">
+              <Vi>Người nói đề cập đến một tình huống khẩn cấp hoặc thiếu hụt nghiêm trọng.</Vi>
+              <En>A speaker refers to an urgent or critical lack of something.</En>
+            </Situation>
+            <Situation id="5cffb0ce-295f-4e5f-9625-32d8bf81b7b7">
+              <Vi>Trong lập kế hoạch hoặc phân tích, người ta xác định các nhu cầu thực tế.</Vi>
+              <En>In planning or analysis, actual needs are identified.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

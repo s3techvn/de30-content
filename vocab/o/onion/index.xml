@@ -1,0 +1,38 @@
+<Vocab id="6d40b0f8-726f-462c-9547-f762ae52a8b3" word="onion" type="short" status="done">
+  <Topics>
+    <Topic id="091596f8-fe2f-46f0-b326-e63dc3b11af6" value="Food &amp; Cooking" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="223785ee-4a54-4f1b-8094-c66e720b4bbd" value="Caterer" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fd549a95-eebc-44b0-af11-c3f37881dc64" ipa="/ˈʌn.jən/" vi_ipa="ác-ni-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1030f743-41d2-4f11-bc70-68a05300a188" type="Noun">
+          <Vi>hành tây</Vi>
+          <En>A edible plant with a brown, red, or white skin and a strong taste, commonly used as a vegetable or flavoring in cooking.</En>
+          <Example>She finely chopped an onion and added it to the stew.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4252e8d5-edcc-4f78-8d2c-b7f6169a0d95">
+              <Vi>Nấu ăn, đặc biệt khi chuẩn bị món xào, súp, hoặc nước sốt.</Vi>
+              <En>Cooking, especially when preparing stir-fries, soups, or sauces.</En>
+            </Situation>
+            <Situation id="6656d8b8-2247-4f14-a8d1-2af648b64d48">
+              <Vi>Làm nước sốt hoặc gia vị để tăng hương vị.</Vi>
+              <En>Preparing sauces or seasonings to enhance flavor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
