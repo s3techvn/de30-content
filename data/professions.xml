@@ -872,4 +872,5 @@
   <Profession id="f0e134df-b160-4d3b-9217-112766cea085" slug="import_export-specialist" value="Import-Export Specialist" />
   <Profession id="223785ee-4a54-4f1b-8094-c66e720b4bbd" slug="caterer" value="Caterer" />
   <Profession id="7faa2337-a6c8-4bbd-aee8-906f7cf29c3b" slug="digital-artist" value="Digital Artist" />
+  <Profession id="fde003ac-30b3-482a-bf2f-dedbb7c4459e" slug="conservator" value="Conservator" />
 </Professions>
