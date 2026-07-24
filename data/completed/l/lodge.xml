@@ -1,0 +1,105 @@
+<Vocab id="2634c9a3-63c8-4185-be3c-b723dbf17e71" word="lodge" type="short" status="done">
+  <Topics>
+    <Topic id="29955897-b53f-493a-a918-27822243d2cc" value="Travel and Accommodation" />
+    <Topic id="92bed670-8dbb-431e-ac84-a4bfeb447660" value="Nature and Outdoor Activities" />
+    <Topic id="274651e6-a996-43d9-ad36-2c0dfb9237be" value="Politics and Government" />
+  </Topics>
+  <Professions>
+    <Profession id="e7552598-ef22-4536-a9bd-a24b52b7b2f1" value="Tourism Worker" />
+    <Profession id="31b73273-95ba-4128-a87b-ab3d5d692afb" value="Forest Ranger" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5330bde7-acb4-4b58-8d14-8e817bc26a74" ipa="/lɑːdʒ/" vi_ipa="lốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47e7f42b-9642-423c-b62f-86a9deaa77fb" type="Noun">
+          <Vi>nhà nghỉ, lều trại (thường ở vùng núi hoặc rừng)</Vi>
+          <En>a small building or cabin used for shelter, especially in rural or wilderness areas</En>
+          <Example>We stayed in a wooden lodge near the lake for the weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ab0af4e6-31d3-42b8-bec6-3594c5804150">
+              <Vi>Mô tả nơi nghỉ chân khi đi du lịch hoặc leo núi.</Vi>
+              <En>Describes accommodation used during hiking, camping, or mountain trips.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="44465062-8dcd-4411-a303-550c39578866" type="Verb">
+          <Vi>nghỉ ngơi, trú ẩn (trong nhà nhỏ hoặc lều)</Vi>
+          <En>to stay or shelter temporarily in a small building or cabin</En>
+          <Example>The hikers decided to lodge in a remote cabin when the storm began.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3787a221-488e-4d4d-b725-b2d98c6ebd01">
+              <Vi>Tình huống tạm trú do thời tiết xấu hoặc thiếu chỗ nghỉ.</Vi>
+              <En>Temporary shelter due to bad weather or lack of accommodation options.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="360e524d-49f4-4483-8111-fafca6d3d449" ipa="/lɑːdʒ/" vi_ipa="lốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47c2dec6-55b2-4ebb-8a92-2fb7e319f751" type="Verb">
+          <Vi>đề nghị, gửi chính thức (yêu cầu, khiếu nại, đơn xin…)</Vi>
+          <En>to formally submit or file a request, complaint, or application</En>
+          <Example>The company lodged a formal complaint with the regulatory body.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e917c782-7f3e-4d0b-a3d7-ffb9ae0a0c59">
+              <Vi>Tình huống nộp đơn hoặc khiếu nại chính thức trong môi trường pháp lý hoặc hành chính.</Vi>
+              <En>Formally submitting a complaint, application, or petition in legal or administrative contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e00cd217-9fe1-4dd1-a8c1-37c53e23a31a" type="Verb">
+          <Vi>(trong chính trị) đề cử, đề tên (ứng cử viên) vào danh sách bầu cử</Vi>
+          <En>to nominate someone for a position, especially in political contexts</En>
+          <Example>The party lodged her name as their candidate for mayor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eab388d0-181c-4cfa-985e-3800b22a5f50">
+              <Vi>Tình huống đề cử ứng cử viên trong bầu cử hoặc bổ nhiệm chức vụ.</Vi>
+              <En>Nominating a candidate for election or appointment to a public office.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="59b23907-b861-4fcb-a26b-7d2319b474be" ipa="/lɑːdʒ/" vi_ipa="lốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="48a42c13-6857-4fcf-b7d2-a4d87c491877" type="Noun">
+          <Vi>(tổ chức bí mật như Freemason) hội, chi hội; nhà hội</Vi>
+          <En>a local chapter or meeting place of a secret society, especially a Masonic lodge</En>
+          <Example>The Freemasons held their monthly meeting at the lodge on Main Street.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7dcf6bbf-0d16-435e-895f-75690163c15e">
+              <Vi>Tình huống tổ chức hoặc tham gia hoạt động của hội kín (như Freemason).</Vi>
+              <En>Activities or meetings of secret societies such as Freemasons.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

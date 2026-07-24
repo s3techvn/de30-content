@@ -1,0 +1,45 @@
+<Vocab id="7d895647-aabf-4d77-91b8-b15b5f1c9283" word="execution" type="short" status="done">
+  <Topics>
+    <Topic id="8e144e89-cfc5-4e39-af74-6f86014fbf7f" value="Law &amp; Justice" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="11c8c19f-5d7c-4621-a914-02c8e6398178" value="Computing" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8ba656d-d537-4770-9ef6-185323bce52f" ipa="/ˌɛk.səˈkjuː.ʃən/" vi_ipa="éc-xờ-khi-u-đờ-nh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d9f4ff8-3253-4d5f-b8c2-a05ef42e68dd" type="Noun">
+          <Vi>hình phạt tử hình; sự thi hành (phán quyết, bản án); sự thực hiện (kế hoạch, nhiệm vụ)</Vi>
+          <En>the carrying out of a death sentence; the act of carrying out a court order, plan, or task</En>
+          <Example>The execution of the death warrant was carried out at dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="378c12f4-ebcf-4f35-8793-ee7304b0fcdd">
+              <Vi>Trong hệ thống tư pháp, bản án tử hình được thi hành sau khi tất cả các kháng cáo đều bị bác.</Vi>
+              <En>In the legal system, the death sentence is carried out after all appeals have been exhausted.</En>
+            </Situation>
+            <Situation id="eec47072-67dc-4855-9b11-a1030d247f42">
+              <Vi>Trong kinh doanh, việc thi hành chiến lược đòi hỏi sự phối hợp nhịp nhàng giữa các bộ phận.</Vi>
+              <En>In business, the execution of strategy requires seamless coordination across departments.</En>
+            </Situation>
+            <Situation id="015df0d8-07be-48a2-978a-3cb01c3c3fd1">
+              <Vi>Trong lập trình, một đoạn mã được thực thi khi chương trình chạy.</Vi>
+              <En>In programming, a code segment is executed when the program runs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

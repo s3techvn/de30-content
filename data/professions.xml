@@ -857,4 +857,6 @@
   <Profession id="44247f15-80d7-4034-94c5-903a0cf7d9c7" slug="beekeeper" value="Beekeeper" />
   <Profession id="ae653f03-f7b7-4adf-a0f6-db5a10396f90" slug="environmental-consultant" value="Environmental Consultant" />
   <Profession id="c8730790-9387-420c-8e93-47568d168888" slug="presenter" value="Presenter" />
+  <Profession id="e7552598-ef22-4536-a9bd-a24b52b7b2f1" slug="tourism-worker" value="Tourism Worker" />
+  <Profession id="31b73273-95ba-4128-a87b-ab3d5d692afb" slug="forest-ranger" value="Forest Ranger" />
 </Professions>
