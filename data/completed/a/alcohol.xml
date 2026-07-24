@@ -1,0 +1,40 @@
+<Vocab id="0db38fb9-c5df-4c02-a0e3-b600458179bc" word="alcohol" type="short" status="done">
+  <Topics>
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+    <Topic id="e27af489-57eb-48cb-be63-e412707ce607" value="Chemistry" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="22da23aa-01a1-4740-b53d-d1652f4e5aa0" value="Chemist" />
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dbc446e8-93e6-40d8-97b5-1ee249e66e5f" ipa="/ˈæl.kə.hɔːl/" vi_ipa="an-côn-rôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="fba562ef-eca5-41ab-bca4-65d22f990cc2" type="Noun">
+          <Vi>alcohol (chất cồn), đồ uống có cồn</Vi>
+          <En>A volatile, flammable liquid compound (ethanol) that is the active ingredient in alcoholic beverages; also refers to such beverages collectively.</En>
+          <Example>Drinking too much alcohol can impair your judgment and coordination.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8de154e2-9df9-4127-81e7-ba728a2487e0">
+              <Vi>Một người đang uống bia hoặc rượu vang tại quán bar.</Vi>
+              <En>A person consuming beer or wine at a bar.</En>
+            </Situation>
+            <Situation id="06ab686f-061d-44a6-8052-f250a0c3ebe1">
+              <Vi>Bác sĩ kiểm tra nồng độ cồn trong máu của bệnh nhân.</Vi>
+              <En>A doctor testing a patient’s blood alcohol level.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
