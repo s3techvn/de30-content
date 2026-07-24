@@ -1,0 +1,48 @@
+<Vocab id="28c61827-210d-468d-80b1-ad70b093f71b" word="naturally" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1d0b292f-65b6-46d9-9d68-123c69d030f7" ipa="/ˈnætʃ.ər.əl.i/" vi_ipa="nát-chơ-nơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6abfddce-c4fd-4542-9c99-884363f49b13" type="Adverb">
+          <Vi>một cách tự nhiên</Vi>
+          <En>In a natural way; as expected or usual in a given situation.</En>
+          <Example>She spoke naturally and confidently during the interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a091328-6358-47c3-9c05-70c426bb74dc">
+              <Vi>Mô tả hành động diễn ra một cách không gượng ép, phù hợp với bản chất hoặc hoàn cảnh.</Vi>
+              <En>Describing an action that occurs without artificiality, fitting the natural or expected context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="533a83e2-2011-494e-8dc3-60b1306d7d8b" type="Adverb">
+          <Vi>một cách tất yếu, tất nhiên</Vi>
+          <En>As a logical or inevitable consequence; inevitably.</En>
+          <Example>Naturally, he was upset when he lost the competition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ace25435-391d-468f-be30-1499eae0f741">
+              <Vi>Dùng để diễn đạt điều xảy ra một cách tất yếu, dễ hiểu hoặc hợp lý.</Vi>
+              <En>Used to express something that logically or predictably follows from a situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
