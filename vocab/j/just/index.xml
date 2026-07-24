@@ -1,0 +1,68 @@
+<Vocab id="86d40c2c-8ba1-4fa0-a5c3-8bbf00d894a7" word="just" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="b532785b-4554-4c6d-a130-1d1d5b81fdbf" value="Emphasis &amp; Modifiers" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49982eeb-0e51-45b1-8ee8-49705a9c970f" ipa="/dʒʌst/" vi_ipa="gi-át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c1cdb533-5338-4d12-8aec-751ae953c308" type="Adverb">
+          <Vi>chỉ, vừa mới, ngay cả, đúng lúc</Vi>
+          <En>Only; no more than; exactly at this moment; barely</En>
+          <Example>I just need five minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="adf1d296-ab4c-4ed7-a9c3-02d1e3a3ad74">
+              <Vi>Để nhấn mạnh sự giới hạn tối thiểu hoặc duy nhất.</Vi>
+              <En>To emphasize minimal quantity, degree, or exclusivity.</En>
+            </Situation>
+            <Situation id="8b4431e1-2d6f-4051-81bb-d377c5ef6ec0">
+              <Vi>Để chỉ hành động vừa xảy ra (thường với thì hiện tại hoàn thành).</Vi>
+              <En>To indicate an action that happened a moment ago (often with present perfect tense).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eddb24d2-3320-4f26-afbb-5368c97ef0df" type="Adverb">
+          <Vi>chính xác, đúng như, công bằng</Vi>
+          <En>Fairly; exactly; in accordance with truth or reason</En>
+          <Example>That’s just what I was going to say.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="072c6657-1243-408e-9b05-b314d11af774">
+              <Vi>Để thể hiện sự đồng tình hoặc phù hợp hoàn toàn.</Vi>
+              <En>To express complete agreement or exact match.</En>
+            </Situation>
+            <Situation id="f0092940-7bcb-4d79-af65-a850e77cb298">
+              <Vi>Để diễn đạt tính công bằng hoặc hợp lý.</Vi>
+              <En>To convey fairness or reasonableness.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c2bd4486-0175-4450-ae11-f18f62573161" type="Adverb">
+          <Vi>mới đây, mới thôi (trong câu hỏi hoặc phủ định)</Vi>
+          <En>Recently; a short time ago (used in questions or negatives)</En>
+          <Example>Why didn’t you just call me?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17a7a5e2-6642-4084-823d-8401e0e84218">
+              <Vi>Trong câu hỏi tu từ để chỉ hành động dễ dàng và hợp lý.</Vi>
+              <En>In rhetorical questions to suggest an obvious or easy alternative.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
