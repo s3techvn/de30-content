@@ -1,0 +1,40 @@
+<Vocab id="dca848d3-02ad-41e8-bf24-36d89a9ce192" word="drainage" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="b391a853-f50d-464d-a29f-56095b4afbfe" value="Agricultural Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1ac7191a-f9ec-4063-a149-25c1bcddadcd" ipa="/ˈdreɪn.ɪdʒ/" vi_ipa="drê-in-idh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eb663364-71ae-42f8-a1a3-f55181b079f6" type="Noun">
+          <Vi>Sự thoát nước; hệ thống thoát nước</Vi>
+          <En>The process or action of removing liquid, especially water, from something; a system for carrying off waste water or surplus water.</En>
+          <Example>The city upgraded its drainage system to prevent flooding during heavy rains.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="96c88260-6bd0-419b-b72c-a6ae12c53d03">
+              <Vi>Mô tả hệ thống cống rãnh hoặc kỹ thuật làm khô đất.</Vi>
+              <En>Describing a system of pipes or channels designed to remove excess water, or the technique of drying land.</En>
+            </Situation>
+            <Situation id="e021f4ec-55cb-4a78-b825-bf8aac6ed000">
+              <Vi>Tình trạng nước đọng trên đường sau mưa lớn.</Vi>
+              <En>The accumulation of standing water on roads after heavy rainfall, often due to poor drainage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
