@@ -1,0 +1,50 @@
+<Vocab id="773c633c-b059-4c6e-ad9f-3858b06d036d" word="suffer" type="short" status="done">
+  <Topics>
+    <Topic id="61ca3d55-edbf-4c66-8ecc-b7a3e65fdba3" value="Health &amp; Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="abd0a1fb-bcd6-415f-ac0d-b71cc965ed93" ipa="/ˈsʌf.ɚ/" vi_ipa="xáp-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4da52095-4334-404f-b815-84333cc30de1" type="Verb">
+          <Vi>chịu đựng, chịu khổ, đau đớn (về thể chất hoặc tinh thần)</Vi>
+          <En>to experience or be subjected to pain, hardship, or difficulty</En>
+          <Example>She suffered from chronic back pain for years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="719b3a0b-adbf-4ab2-881e-a6b951593396">
+              <Vi>Mô tả một người đang trải qua cơn đau thể chất hoặc cảm xúc kéo dài.</Vi>
+              <En>Describes a person enduring prolonged physical or emotional pain.</En>
+            </Situation>
+            <Situation id="071edb70-40b5-459f-9f5f-7bf78793d227">
+              <Vi>Một công ty đang gặp khó khăn tài chính nghiêm trọng.</Vi>
+              <En>A company experiencing severe financial difficulties.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="da69633f-9035-4607-b0fd-3d2396b94303" type="Verb">
+          <Vi>để xảy ra (một điều tiêu cực)</Vi>
+          <En>to allow or permit something unpleasant to happen</En>
+          <Example>The hospital suffered a major data breach last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e4965308-f33b-422b-af5e-5ed7c69a5c53">
+              <Vi>Một tổ chức bị ảnh hưởng bởi một sự cố nghiêm trọng.</Vi>
+              <En>An organization affected by a serious incident.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
