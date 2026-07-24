@@ -1,0 +1,38 @@
+<Vocab id="78f10b73-7633-4734-bc0d-884ca12eb596" word="bulletin" type="short" status="done">
+  <Topics>
+    <Topic id="9ecaf09a-3bb6-4b12-8265-85d74a5a6ac3" value="News &amp; Media" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="f20ab62b-3fcc-4102-8b56-241f2a48c561" value="Public Relations Specialist" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38a8eb0c-b0de-4019-b959-451e2f78c2eb" ipa="/ˈbʊl.ə.tɪn/" vi_ipa="bơ-lít-tin">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a092e0c6-b3ce-4e79-a5a6-504723f8e51f" type="Noun">
+          <Vi>Bản tin; thông cáo; bảng thông báo</Vi>
+          <En>A short official report or notice, especially one issued regularly by a government, organization, or news agency.</En>
+          <Example>The weather service released a severe storm bulletin at noon.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9dcc255f-99b4-453b-bdd0-f21baad5c736">
+              <Vi>Cơ quan chức năng phát hành bản tin cập nhật tình hình thiên tai.</Vi>
+              <En>Authorities issue a bulletin updating the public on a natural disaster.</En>
+            </Situation>
+            <Situation id="9ddcd9b9-a454-4aa3-a7d6-2477c60bf91e">
+              <Vi>Nhà trường treo bảng thông báo kết quả thi.</Vi>
+              <En>The school posts a bulletin with exam results in the hallway.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
