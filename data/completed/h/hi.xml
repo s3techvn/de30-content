@@ -1,0 +1,32 @@
+<Vocab id="dd2e9582-9a05-4076-bbda-a798f29e133a" word="hi" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="09261f18-a55b-4231-bbdc-0ee2e82657a1" ipa="/haɪ/" vi_ipa="hai">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="14a73ad1-cc5a-4e95-a87a-9c56a7f80f38" type="Interjection">
+          <Vi>Xin chào; chào (cách nói thân mật, không trang trọng)</Vi>
+          <En>An informal greeting used to say hello, typically in casual or friendly contexts.</En>
+          <Example>Hi, how are you doing today?</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="14959676-8ca3-400f-b003-7ecceae06fc8">
+              <Vi>Chào hỏi khi gặp bạn bè, đồng nghiệp thân thiết, hoặc trong giao tiếp không trang trọng.</Vi>
+              <En>Used when greeting friends, colleagues, or in informal conversations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

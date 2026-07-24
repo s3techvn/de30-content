@@ -1,0 +1,38 @@
+<Vocab id="b3ba2088-aefd-4cc9-9e02-7bdbd1d49641" word="explicitly" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b20abf5a-b5e5-4393-b639-7a9730e05e99" ipa="/ɪkˈsplɪs.ɪt.li/" vi_ipa="ích-xp-lít-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08bb223d-9e20-4b96-b918-66507253b847" type="Adverb">
+          <Vi>một cách rõ ràng, trực tiếp, không mơ hồ</Vi>
+          <En>in a clear and detailed way; without ambiguity</En>
+          <Example>The instructions were explicitly stated to avoid any confusion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="057f35eb-5735-4c47-ab32-93fcc4ad7df6">
+              <Vi>Trong văn bản pháp lý hoặc hướng dẫn kỹ thuật, người ta nhấn mạnh yêu cầu phải nêu rõ từng chi tiết.</Vi>
+              <En>In legal documents or technical manuals, clarity demands explicit statements.</En>
+            </Situation>
+            <Situation id="942bf79a-7133-4480-ac36-7b87250738d1">
+              <Vi>Khi cần xác nhận đồng ý một cách không thể hiểu lầm, ví dụ trong hợp đồng hoặc thỏa thuận.</Vi>
+              <En>When confirming consent unambiguously, such as in contracts or agreements.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
