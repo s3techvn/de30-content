@@ -1,0 +1,114 @@
+<Vocab id="14f9ee64-07a8-4ed1-a868-d783aa41d39e" word="dip" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="28bf211e-f39f-4301-969b-1be24ac36744" value="Cooking" />
+    <Topic id="5dd42ee6-6777-47dd-8870-5c49790b329b" value="Fashion" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="63341b8b-df91-40d6-a331-21478d52102f" value="Retail Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e9525bb6-f64d-4925-806b-81bd531655d4" ipa="/dɪp/" vi_ipa="đíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6e0c135e-3001-499f-9155-1e86bccce906" type="Verb">
+          <Vi>nhúng, chấm</Vi>
+          <En>to move something briefly into and out of a liquid or substance</En>
+          <Example>She dipped the bread into the olive oil before eating it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61b30f94-7d8f-41e0-9b83-aa99f722796b">
+              <Vi>Nhúng bánh mì vào nước sốt hoặc dầu ăn.</Vi>
+              <En>Immersing food briefly in a sauce or oil before consumption.</En>
+            </Situation>
+            <Situation id="54327c31-b977-42a2-b977-6217d70b7433">
+              <Vi>Nhúng ngón tay vào mực để in dấu.</Vi>
+              <En>Dipping a finger into ink to make a fingerprint.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c2d74ea7-81a0-416e-ac4f-a5ee4131a8ff" type="Verb">
+          <Vi>giảm nhẹ, giảm đột ngột (giá cả, mức độ, v.v.)</Vi>
+          <En>to decrease slightly or suddenly, especially in value or level</En>
+          <Example>The stock price dipped for a few days before rebounding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97afa5d2-3146-4bb0-9769-877a46e3c7f7">
+              <Vi>Giá cổ phiếu giảm nhẹ trong phiên giao dịch.</Vi>
+              <En>A temporary slight drop in stock prices during trading.</En>
+            </Situation>
+            <Situation id="47492f2d-cc82-4d7a-ab2d-9b52a35e66d4">
+              <Vi>Nhiệt độ giảm mạnh vào ban đêm.</Vi>
+              <En>A sudden drop in temperature at night.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="648cb8a3-1d40-4e95-9bf8-229fbc1e91a5" type="Noun">
+          <Vi>sự nhúng, sự chấm; lượng nhúng (thường dùng trong cooking)</Vi>
+          <En>a brief immersion of something in a liquid or substance; also a small portion of food served with a dip</En>
+          <Example>He took a dip of the salsa with a tortilla chip.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a722e2a9-4ba8-458b-873d-08c4761cb02d">
+              <Vi>Chấm bánh ngô vào sốt salsa.</Vi>
+              <En>Using a tortilla chip to scoop up salsa.</En>
+            </Situation>
+            <Situation id="63fe3277-fdfd-4f92-bb8b-15ae2cfeba62">
+              <Vi>Món khai vị với phô mai phết và rau củ nhúng.</Vi>
+              <En>A starter dish featuring cheese dip and vegetables for dipping.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="6a6fef69-ccfa-4f41-b67a-a8f15ea3b517" ipa="/dɪp/" vi_ipa="đíp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7fd1360c-1c78-4f5e-8247-ff517d847801" type="Verb">
+          <Vi>ngả về một bên, nghiêng (đầu, thân, v.v.)</Vi>
+          <En>to tilt or slant something, especially the head or body</En>
+          <Example>She dipped her head to avoid the low beam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8605fce7-d67d-4bc8-8ea1-4407089e6de2">
+              <Vi>Nghiêng đầu để tránh va chạm khi đi qua cửa thấp.</Vi>
+              <En>Tilting the head downward to pass under a low doorway.</En>
+            </Situation>
+            <Situation id="83935d95-3f5a-4ea8-8a9d-02a6ebcaaa43">
+              <Vi>Nhún vai nhẹ khi nói chuyện (biểu hiện sự bất lực hoặc không quan tâm).</Vi>
+              <En>Shrugging or slightly lowering the shoulders to show resignation or indifference.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8db371c1-0f86-412a-9a22-58bc25b45356" type="Verb">
+          <Vi>thực hiện một động tác cúi người (trong khi khiêu vũ, chào hỏi)</Vi>
+          <En>to make a quick, low movement of the body, especially as a gesture of greeting or in dancing</En>
+          <Example>The dancer dipped gracefully during the final pose.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b9be8ca-f799-4677-8a6e-78de9a1b667f">
+              <Vi>Nhảy waltz với động tác cúi người.</Vi>
+              <En>Performing a waltz with a graceful dip in the choreography.</En>
+            </Situation>
+            <Situation id="c500e9c7-76ea-4792-9400-106815b34bbf">
+              <Vi>Nam khách cúi người chào quý bà trong buổi tiệc.</Vi>
+              <En>A gentleman making a formal bow or dip to greet an elderly woman at a party.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

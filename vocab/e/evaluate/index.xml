@@ -1,0 +1,40 @@
+<Vocab id="1898056f-5ea8-4942-924f-28ab806cd8c9" word="evaluate" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="63862ae9-4a71-45de-8cad-9edb7949adb5" ipa="/ɪˈvæl.ju.eɪt/" vi_ipa="i-van-lu-ét">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a33549e2-7c1a-4a53-a7e4-85bbeeaa030f" type="Verb">
+          <Vi>đánh giá, ước lượng</Vi>
+          <En>to assess or judge the nature, quality, or ability of someone or something</En>
+          <Example>The teacher will evaluate the students’ essays based on clarity and originality.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8350cc14-8c7b-46fb-8a5e-a7143d72d0cf">
+              <Vi>Giáo viên nhận xét bài làm của học sinh để xác định mức độ hiểu bài và kỹ năng viết.</Vi>
+              <En>A teacher assesses students’ work to determine their understanding and writing skills.</En>
+            </Situation>
+            <Situation id="ff6e7b29-787f-4f32-ac12-63827aa67cfa">
+              <Vi>Quản lý đánh giá hiệu suất làm việc của nhân viên trước khi xét tăng lương.</Vi>
+              <En>A manager evaluates employee performance before deciding on salary increases.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
