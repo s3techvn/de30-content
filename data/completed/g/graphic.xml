@@ -1,0 +1,40 @@
+<Vocab id="8cec0549-37ac-42ef-8f3f-f1fb93fb4da7" word="graphic" type="short" status="done">
+  <Topics>
+    <Topic id="5cfaad63-2c21-4540-ba22-178d9a2b8dcf" value="Media &amp; Communication" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="c5805d18-ecf5-444d-9944-24d7d8eb3963" value="Art &amp; Design" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c9545cc8-4dd6-42bd-b018-506de3619e79" ipa="/ˈɡræf.ɪk/" vi_ipa="grá-phíc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="77f54f72-1f0d-406f-b237-9eed8cf35964" type="Adjective">
+          <Vi>thuộc về đồ họa; trực quan, sinh động (mô tả chi tiết, mạnh mẽ, đôi khi gây sốc)</Vi>
+          <En>relating to visual representation, especially in art or design; vivid, detailed, and sometimes shocking in its description</En>
+          <Example>The film contains graphic scenes of violence that may disturb some viewers.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="544168d0-2cbb-44c3-8bbe-0e5501acde4f">
+              <Vi>Mô tả chi tiết, rõ ràng (thường trong báo chí, phim ảnh) về những điều nhạy cảm hoặc mạnh mẽ.</Vi>
+              <En>Used to describe something in vivid, detailed, and often intense or disturbing detail, especially in media or literature.</En>
+            </Situation>
+            <Situation id="6ff6c000-4cae-4df4-af48-0d284f79abbd">
+              <Vi>Liên quan đến thiết kế hình ảnh, đồ họa máy tính, hoặc nghệ thuật thị giác.</Vi>
+              <En>Relating to the field of visual arts, such as graphic design, digital illustrations, or computer-generated imagery.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
