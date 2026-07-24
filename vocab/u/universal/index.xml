@@ -1,0 +1,54 @@
+<Vocab id="75c44fb2-f9ff-46b2-93e8-8e8246075029" word="universal" type="short" status="done">
+  <Topics>
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d37828df-3756-464e-9ddf-01cad8acfdb0" ipa="/ˌjuː.nɪˈvɜːr.səl/" vi_ipa="yu-ni-vơ-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="441f72ba-81d0-4f43-816b-d6758dad2271" type="Adjective">
+          <Vi>phổ quát; toàn cầu; chung cho mọi người/vật</Vi>
+          <En>relating to or affecting the whole of a group, class, or world; applicable or existing everywhere</En>
+          <Example>The universal language of mathematics helps scientists communicate across borders.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07ac17bb-01cc-4939-9f6e-efb9db594f39">
+              <Vi>Một quy tắc hoặc khái niệm áp dụng cho mọi trường hợp, không ngoại lệ.</Vi>
+              <En>A rule or concept that applies to all cases without exception.</En>
+            </Situation>
+            <Situation id="ec0e1194-86cc-4b4e-bece-5d465f16a425">
+              <Vi>Một sản phẩm được thiết kế để sử dụng ở mọi quốc gia (ví dụ: phích cắm điện chuẩn quốc tế).</Vi>
+              <En>A product designed for use in every country (e.g., a universal power plug).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0754a237-b890-4016-a8a2-1c426a14d83c" type="Adjective">
+          <Vi>thường được chấp nhận; được công nhận rộng rãi</Vi>
+          <En>widely accepted or held as true by most people</En>
+          <Example>It is universally agreed that climate change requires urgent action.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0fb3afae-c9f8-43a6-af38-f66cf0b71d4c">
+              <Vi>Một quan điểm hoặc giá trị được đa số đồng thuận.</Vi>
+              <En>A viewpoint or value that enjoys broad consensus.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

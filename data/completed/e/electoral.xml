@@ -1,0 +1,38 @@
+<Vocab id="346ad0e1-bbf7-488c-9ab2-90c0ca900e5f" word="electoral" type="short" status="done">
+  <Topics>
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="3f493be6-e848-4390-a6f4-3ff87e6d6ab5" value="Political Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8ed3ff8d-5f14-4088-9511-ea6835ef5e99" ipa="/ɪˈlek.tər.əl/" vi_ipa="i-léc-tơ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6be0c0e1-8a2a-4436-85a0-39f8594ab1f0" type="Adjective">
+          <Vi>thuộc bầu cử, thuộc cuộc bầu cử</Vi>
+          <En>relating to the process of electing someone, especially to a public office.</En>
+          <Example>The electoral college is responsible for formally electing the U.S. president.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="198c759f-b440-472d-9d5b-81f481865311">
+              <Vi>Liên quan đến hệ thống, quy trình, hoặc kết quả bầu cử.</Vi>
+              <En>Refers to the system, process, or outcome of elections.</En>
+            </Situation>
+            <Situation id="6f2c83cb-3a02-4450-a2d5-5a2012501cf6">
+              <Vi>Mô tả các yếu tố như địa hạt bầu cử, chiến dịch bầu cử, hoặc kết quả bầu cử.</Vi>
+              <En>Describes elements such as voting districts, election campaigns, or election results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
