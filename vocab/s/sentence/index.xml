@@ -1,0 +1,63 @@
+<Vocab id="51ed737b-f869-43b9-bb09-7940833cb44c" word="sentence" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="9e5f3878-63a7-4167-8e87-6adce97a4956" value="Judge" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e07ae235-54d8-48ad-9f55-55c3f5273b29" ipa="/ˈsen.təns/" vi_ipa="xen-tơ-nx">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bce236a1-09be-41d3-861d-b54ae770c441" type="Noun">
+          <Vi>Câu (trong ngữ pháp); bản án, hình phạt</Vi>
+          <En>A grammatical unit of words that expresses a complete thought; a judicial punishment imposed on a convicted defendant.</En>
+          <Example>The judge announced the sentence after the jury reached a verdict.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="42da3daa-66ec-4417-994e-262b0736d1cd">
+              <Vi>Giáo viên đang chấm điểm bài viết, chú ý đến cách học sinh viết câu.</Vi>
+              <En>A teacher grading a student’s essay, focusing on sentence structure.</En>
+            </Situation>
+            <Situation id="6c6f8da9-8ee2-4d01-9a5c-0f7ec1c0088c">
+              <Vi>Tòa án tuyên án một năm tù giam cho bị cáo.</Vi>
+              <En>The court sentenced the defendant to one year in prison.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="46897ad7-8499-41f0-96c6-34d08c6a0f28" ipa="/ˈsen.təns/" vi_ipa="xen-tơ-nx">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b2a4211a-0d50-42bc-a973-76ca2a9e4b32" type="Verb">
+          <Vi>đưa ra phán quyết, tuyên án</Vi>
+          <En>To impose a judicial punishment on someone convicted of a crime.</En>
+          <Example>The judge sentenced the offender to community service.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b5d67af-6a5e-4e02-be59-c7449fc227ab">
+              <Vi>Sau khi xét xử, thẩm phán đã tuyên án bị cáo.</Vi>
+              <En>After the trial, the judge sentenced the defendant.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
