@@ -1,0 +1,72 @@
+<Vocab id="f84274b3-afd0-4ece-ae17-3c550284d6b7" word="buck" type="short" status="done">
+  <Topics>
+    <Topic id="27f53bcc-2efd-4f73-8520-82754fea2ed6" value="Animals" />
+    <Topic id="f6f95944-0668-40c6-bce7-e59a836a8915" value="Currency" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="421e7572-29c3-43a5-87df-19050e2efbe0" value="Rancher" />
+    <Profession id="552f237b-f6bf-4508-a6b8-a5d9b51ef3a2" value="Wildlife Biologist" />
+    <Profession id="7349542a-2a0a-4e3d-98a5-d5191b83fb94" value="Finance Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="687e72fb-7d1a-4fbd-9292-766a85907f4e" ipa="/bʌk/" vi_ipa="bác">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f448db77-59e9-4e84-a8cb-610a5b6ac221" type="Noun">
+          <Vi>Con nai đực</Vi>
+          <En>A male deer, especially a male red deer or elk.</En>
+          <Example>The buck leapt gracefully across the meadow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e0bdd4f6-af66-455b-ade9-f49e02c13c04">
+              <Vi>Mô tả con nai đực trong tự nhiên hoặc khi săn bắn.</Vi>
+              <En>Refers to a male deer in wildlife observation or hunting contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="131680b2-2a03-4b1d-afa4-bf666e7f20e5" type="Noun">
+          <Vi>Đô la Mỹ (giản ngữ)</Vi>
+          <En>A United States dollar, especially in informal or slang usage.</En>
+          <Example>He paid me fifty bucks for the old guitar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3198192a-fa52-40b0-a992-5902d1641a8a">
+              <Vi>Sử dụng trong giao tiếp hàng ngày để chỉ tiền đô la.</Vi>
+              <En>Used colloquially in everyday speech to refer to dollars.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ae254874-b274-4a9d-afd4-d2426a436bf1" type="Verb">
+          <Vi>Đuổi theo, truy bắt (động vật hoang dã)</Vi>
+          <En>To chase or pursue, especially an animal, often in hunting.</En>
+          <Example>The hounds were bucking the rabbit through the woods.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="09e9f078-317d-413c-a84c-a187eac95b1a">
+              <Vi>Mô tả hành động săn bắt động vật hoang dã.</Vi>
+              <En>Used in hunting contexts to describe chasing prey.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7ec91157-248c-4bf1-8461-9358242056fa" type="Verb">
+          <Vi>Ngăn cản, phản đối mạnh mẽ</Vi>
+          <En>To resist or oppose strongly; to refuse to comply.</En>
+          <Example>She bucked the committee’s decision and demanded a vote.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5616ca86-dbd0-4043-b962-b0e1cdb5e704">
+              <Vi>Mô tả hành động phản đối hoặc kháng nghị trong môi trường làm việc hoặc chính trị.</Vi>
+              <En>Used when someone actively resists authority or established decisions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,47 @@
+<Vocab id="d95d52fc-840a-4496-8505-4281ece6f72e" word="yet" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e7284977-6da9-4e16-ac67-b046fe57a4e7" ipa="/jɛt/" vi_ipa="giết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="44fa1f61-64c5-4687-88ad-8ac8b240a523" type="Adverb">
+          <Vi>chưa, vẫn chưa, cho đến nay</Vi>
+          <En>Up to now or until now; not yet.</En>
+          <Example>I haven't finished the report yet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa4ad626-d828-43cd-97dd-0cbf4fc682a7">
+              <Vi>Dùng trong câu phủ định để nhấn mạnh rằng điều gì đó chưa xảy ra hoặc chưa được thực hiện.</Vi>
+              <En>Used in negative sentences to emphasize that something has not happened or been done up to the present moment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f66623ef-f93a-419b-960d-ec9d5abc9423" type="Conjunction">
+          <Vi>mặc dù, tuy nhiên, nhưng mà</Vi>
+          <En>Used to introduce a statement that adds contrast or concession to a previous statement.</En>
+          <Example>She worked hard, yet she failed the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2bd74f1-1991-4c1b-a2ab-f02e3b2dffa3">
+              <Vi>Dùng để nối hai mệnh đề có ý tương phản hoặc nghịch lý.</Vi>
+              <En>Used to connect two clauses expressing contrast or contradiction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
