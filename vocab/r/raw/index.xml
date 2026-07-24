@@ -1,0 +1,72 @@
+<Vocab id="ef3dcd89-902f-47c5-94ed-9e938d621255" word="raw" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c8c82596-7084-4521-b399-02d000cb5287" ipa="/rɔː/" vi_ipa="rao">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="32e09abf-0a88-4a32-8f72-4b4b9fcdafd5" type="Adjective">
+          <Vi>thô, chưa qua chế biến</Vi>
+          <En>in its natural state; not cooked, processed, or refined.</En>
+          <Example>She prefers to eat raw vegetables for maximum nutrient intake.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b1e6181-f4b7-4867-afdb-3b5f8830c074">
+              <Vi>Mô tả thực phẩm chưa nấu chín hoặc không qua xử lý công nghiệp.</Vi>
+              <En>Describing food that has not been cooked or industrially processed.</En>
+            </Situation>
+            <Situation id="87bf211b-1c56-40fe-9028-ce485e430cd6">
+              <Vi>Mô tả nguyên liệu thô trong nấu ăn hoặc sản xuất thực phẩm.</Vi>
+              <En>Referring to unprocessed ingredients in cooking or food production.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a3102dc7-6bbc-48eb-9501-d780df33f9b3" type="Adjective">
+          <Vi>chưa được xử lý, chưa được làm mịn (về cảm xúc, phản ứng)</Vi>
+          <En>unprocessed, unrefined, or emotionally unrestrained; showing raw emotion or instinct.</En>
+          <Example>His raw anger made it hard for him to think clearly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ae7fc2c6-fa61-4f13-944f-d9379bd9a910">
+              <Vi>Mô tả cảm xúc mạnh, chưa được kiểm soát hoặc che giấu.</Vi>
+              <En>Describing intense, unfiltered emotions such as grief, joy, or rage.</En>
+            </Situation>
+            <Situation id="f234e317-ee08-45a7-bd5d-626bfd29647d">
+              <Vi>Mô tả phản ứng tự nhiên, bẩm sinh, không qua suy nghĩ.</Vi>
+              <En>Describing instinctive, unthinking reactions or behaviors.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="684b39aa-9af7-4cf3-847b-2185d449d368" type="Adjective">
+          <Vi>chưa được xử lý, chưa được làm sạch (về dữ liệu, thông tin)</Vi>
+          <En>(of data or information) not yet processed, analyzed, or formatted.</En>
+          <Example>The researchers collected raw data from field surveys before analysis.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="47506ce9-403d-4494-9a41-34f952b05460">
+              <Vi>Mô tả dữ liệu đầu vào chưa qua xử lý trong khoa học dữ liệu.</Vi>
+              <En>Referring to unprocessed input data in data science or research.</En>
+            </Situation>
+            <Situation id="f5001186-0ff8-4c75-92e7-782874a60a1a">
+              <Vi>Mô tả báo cáo dựa trên dữ liệu nguyên thủy, chưa được tinh chỉnh.</Vi>
+              <En>Describing reports based on unrefined, original data.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

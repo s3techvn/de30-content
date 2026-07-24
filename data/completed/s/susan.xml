@@ -1,0 +1,32 @@
+<Vocab id="212b5def-8bb7-4344-b8d4-08d4954a7f69" word="susan" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5b00eae4-b435-4967-aad6-1693c137be71" ipa="/ˈsuː.zən/" vi_ipa="xu-đờ-zơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a6b42279-6ff6-4957-93c0-993eb5ccbe03" type="Proper Noun">
+          <Vi>Tên riêng, thường dùng cho nữ (tương đương Susan trong tiếng Anh)</Vi>
+          <En>A female given name, of Hebrew origin, meaning “lily” or “rose”.</En>
+          <Example>Susan Smith won the award for best teacher at the school.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4cc4baab-0c3f-4566-84e9-332b524db0d9">
+              <Vi>Dùng khi gọi hoặc đề cập đến một người phụ nữ có tên Susan.</Vi>
+              <En>Used when addressing or referring to a woman named Susan.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
