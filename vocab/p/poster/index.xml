@@ -1,0 +1,38 @@
+<Vocab id="29d0c21f-1f1d-4555-9be7-342a7862cc08" word="poster" type="short" status="done">
+  <Topics>
+    <Topic id="5cfaad63-2c21-4540-ba22-178d9a2b8dcf" value="Media &amp; Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="a365b5ac-ff33-47b0-813c-2ddbee471501" value="Event Organizer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fcd97374-9bf1-4c04-98b1-d7a8b3485468" ipa="/ˈpoʊs.t̬ɚ/" vi_ipa="pô-x-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="39a23ffc-5805-4312-8731-e784ac742267" type="Noun">
+          <Vi>Bảng áp phích; tờ áp phích</Vi>
+          <En>A large printed notice, typically containing text and images, used for advertising or decoration.</En>
+          <Example>The university put up a poster to promote the upcoming art exhibition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="19264a34-69bc-4ba1-b02b-9cb3849d6465">
+              <Vi>Đăng quảng cáo sự kiện công cộng hoặc triển lãm trên tường, trung tâm thương mại.</Vi>
+              <En>Displaying promotional or decorative printed material in public spaces like walls or shopping centers.</En>
+            </Situation>
+            <Situation id="7e5453d5-61a1-48e5-ba88-b1a5188e2acc">
+              <Vi>Trang trí phòng bằng hình ảnh hoặc câu nói truyền cảm hứng in trên giấy lớn.</Vi>
+              <En>Decorating a room with large printed images or motivational quotes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
