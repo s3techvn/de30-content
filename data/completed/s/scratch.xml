@@ -1,0 +1,72 @@
+<Vocab id="74bd6ec0-4f73-45a5-9115-03fce86615b8" word="scratch" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="6f8ecd61-74ea-4a04-80f5-a5da8b9eabcc" value="Mechanic" />
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bc5de0c5-6a87-4fe6-85be-63720b7a0577" ipa="/skrætʃ/" vi_ipa="sờ-rát-ch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8d296504-3d97-42d9-b0e3-f98b87dc4db1" type="Verb">
+          <Vi>đào, cào, xước (bề mặt); bắt đầu từ đầu (trong thể thao)</Vi>
+          <En>to cut or tear the surface of something, especially with something sharp; to start a race or competition from the beginning without prior advantage</En>
+          <Example>Be careful not to scratch the car’s paint with the keys.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="55562b41-3270-47bb-b0e2-8e575fd21d7a">
+              <Vi>Một vật sắc làm trầy bề mặt sơn xe.</Vi>
+              <En>A sharp object makes a mark on the car’s paint surface.</En>
+            </Situation>
+            <Situation id="84aeb891-f44e-435d-927a-17bcbc55560e">
+              <Vi>Trong bóng đá, trọng tài ra hiệu bắt đầu lại trận đấu từ vạch xuất phát sau khi có vi phạm.</Vi>
+              <En>In football, the referee signals to restart the match from the scratch line after a foul.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="426ad43b-7a8c-4507-b46f-ed53c28f1ffe" type="Noun">
+          <Vi>vết xước; điểm xuất phát (trong thể thao); sự bắt đầu từ đầu</Vi>
+          <En>a thin cut or mark on a surface; the starting point in a race or competition; the position of starting from zero or without advantage</En>
+          <Example>There were a few scratches on the phone screen after the fall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="09c54356-6dc8-49f5-9274-eea0b16b9bd3">
+              <Vi>Sau khi va chạm nhẹ, điện thoại xuất hiện những vết xước nhỏ.</Vi>
+              <En>After a minor collision, small scratches appeared on the phone.</En>
+            </Situation>
+            <Situation id="e6d08a8d-f738-42d5-8253-913c6ad09251">
+              <Vi>Trong giải chạy, vận động viên bị loại và phải trở về điểm xuất phát.</Vi>
+              <En>In the race, the athlete was disqualified and had to return to the scratch line.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="13770948-ca36-4ee6-872b-6fbf7c99f88e" type="Verb">
+          <Vi>gạch bỏ (văn bản); loại bỏ (danh sách)</Vi>
+          <En>to remove something by drawing a line through it; to remove someone or something from a list or competition</En>
+          <Example>Please scratch my name from the guest list—I won’t be able to attend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7f990ac-8748-47a4-9e8d-b29fdb81fe59">
+              <Vi>Người viết gạch bỏ một dòng trong bản nháp.</Vi>
+              <En>The writer crossed out a line in the draft.</En>
+            </Situation>
+            <Situation id="299d8f88-a94f-40a4-8e19-438cd8e789bd">
+              <Vi>Đội trưởng bị loại khỏi danh sách thi đấu do chấn thương.</Vi>
+              <En>The team captain was scratched from the competition list due to injury.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

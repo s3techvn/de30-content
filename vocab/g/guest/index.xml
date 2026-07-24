@@ -1,0 +1,48 @@
+<Vocab id="17a906bf-fd02-47d3-b6b6-35b3686ce080" word="guest" type="short" status="done">
+  <Topics>
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+    <Topic id="c276d0d3-deca-4b23-a0a4-98d8e528bd76" value="Hospitality" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="9325b912-ae06-4d5d-a3d4-8b557642b093" value="Hotel Manager" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="223785ee-4a54-4f1b-8094-c66e720b4bbd" value="Caterer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0aeefd30-b888-4dfb-889d-ac4cae7b6266" ipa="/ɡɛst/" vi_ipa="ghe-st">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="16b9c6db-3d1a-42a6-99f3-064a1e48da77" type="Noun">
+          <Vi>Khách (người được mời đến nhà hoặc nơi tổ chức sự kiện)</Vi>
+          <En>A person who is invited to a place, especially for a meal or stay.</En>
+          <Example>We hosted a small dinner party with five guests.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7a6be4d-879f-48e0-aaa4-ba97783daf69">
+              <Vi>Người được mời đến dự tiệc, bữa ăn, hoặc lưu trú tại nhà riêng hoặc khách sạn.</Vi>
+              <En>A person invited to attend an event, stay overnight, or dine at someone’s home or a hotel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0fc5615d-5dec-427b-88df-51503fc8ecbc" type="Adjective">
+          <Vi>Khách (thuộc về người không phải là thành viên thường xuyên hoặc chính thức)</Vi>
+          <En>Relating to or intended for visitors or temporary visitors, not permanent members.</En>
+          <Example>The hotel offers both guest rooms and staff quarters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="760a43d7-436e-48a1-9624-456d07152030">
+              <Vi>Mô tả các dịch vụ, phòng ốc, hoặc vật dụng dành riêng cho người đến thăm (không phải nhân viên hoặc chủ nhà).</Vi>
+              <En>Describing facilities, rooms, or items provided for visitors, not for permanent residents or staff.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
