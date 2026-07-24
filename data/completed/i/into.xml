@@ -1,0 +1,38 @@
+<Vocab id="1040c3cc-1c85-4bcd-9ecc-7f45c84e252a" word="into" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="99baff96-d641-40c3-b736-993349e69380" ipa="/ˈɪn.tuː/" vi_ipa="in-tu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="15701820-be54-4f53-86b2-01d7ea58caeb" type="Preposition">
+          <Vi>vào, trong, đến với</Vi>
+          <En>used to indicate movement or direction towards the inside of a place, container, or group; or a transition from one state or condition to another.</En>
+          <Example>She walked into the room and sat down.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="69fac2cb-7228-443f-9efd-d8470adc59a8">
+              <Vi>Mô tả hành động di chuyển từ bên ngoài vào bên trong một không gian vật lý.</Vi>
+              <En>Describes movement from outside to inside a physical space.</En>
+            </Situation>
+            <Situation id="58bff5e0-cb69-4897-9e12-01327b2f47c3">
+              <Vi>Mô tả sự chuyển đổi trạng thái hoặc tình huống (ví dụ: chuyển từ trạng thái không biết sang biết).</Vi>
+              <En>Describes a transition from one state or condition to another (e.g., from ignorance to knowledge).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

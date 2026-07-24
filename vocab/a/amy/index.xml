@@ -1,0 +1,32 @@
+<Vocab id="0c0f84b8-0295-4bda-9157-d42b67940009" word="amy" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="e2d8014f-df5e-417e-b6dc-d05b58e8b1cb" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e5e1f49a-cdc8-4a83-bf55-231695caee37" ipa="/ˈæ.mi/" vi_ipa="ây-mi">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ae67b50f-a95e-4e33-8450-eb53932f657e" type="Noun">
+          <Vi>Tên riêng (thường cho nữ), viết tắt của Amethyst hoặc Amalia</Vi>
+          <En>A female given name, often a short form of Amethyst or Amalia</En>
+          <Example>My neighbor’s daughter is named Amy.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c6445c6-d53d-403b-a8b3-890a9016c49f">
+              <Vi>Dùng khi gọi hoặc đề cập đến một người phụ nữ hoặc bé gái có tên Amy.</Vi>
+              <En>Used when addressing or referring to a woman or girl named Amy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
