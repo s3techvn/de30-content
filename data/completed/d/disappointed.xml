@@ -1,0 +1,32 @@
+<Vocab id="08201754-a36f-4001-9350-a891b7d503ae" word="disappointed" type="short" status="done">
+  <Topics>
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c2a4e0b6-b4da-46a9-9848-4ff11fe410b3" ipa="/ˌdɪs.əˈpɔɪnt.id/" vi_ipa="đít-sờ-đợn-tít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8fc5a6f3-c586-43e6-ad03-e81f5d93f1fd" type="Adjective">
+          <Vi>thất vọng, chán nản</Vi>
+          <En>feeling or showing disappointment; let down after having hoped or expected something</En>
+          <Example>I was disappointed when the concert was canceled due to bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f3e78480-0d52-44b7-9270-6d1304dbc93a">
+              <Vi>Một người kỳ vọng điều tốt nhưng nhận được kết quả kém hơn mong đợi.</Vi>
+              <En>A person had high expectations but received a worse-than-expected outcome.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
