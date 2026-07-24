@@ -1,0 +1,40 @@
+<Vocab id="358e7610-cce7-46e7-af7b-165bf45f87a6" word="offering" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bfdbcf84-f899-456a-ace2-4052fc574d85" ipa="/ˈɔː.fər.ɪŋ/" vi_ipa="ao-fơ-rinh">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="04f533a6-1d8e-49ac-b189-a5373e654ccd" type="Noun">
+          <Vi>Sự dâng hiến; vật dâng cúng</Vi>
+          <En>A gift, typically of money or goods, given to a religious organization or charity; also, something offered for sale or acceptance.</En>
+          <Example>The temple received a monetary offering from each worshipper during the festival.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c326478f-5b7d-4c0b-8f7b-55616b46587a">
+              <Vi>Đặt tiền hoặc đồ vật lên bàn thờ trong nghi lễ tôn giáo.</Vi>
+              <En>Placing money or items on an altar during a religious ceremony.</En>
+            </Situation>
+            <Situation id="4fbe9bd9-13e6-47b7-b010-3b5746a629f1">
+              <Vi>Công ty đưa ra một đề xuất mới cho khách hàng.</Vi>
+              <En>A company presents a new proposal or product to customers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
