@@ -1,0 +1,41 @@
+<Vocab id="bb83a027-21e6-49d3-b873-3ed1be287a47" word="mathematics" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="22a011fe-01a6-4463-840f-30e44c0e6be7" value="Academia" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="500b061c-fa9b-4cc0-9134-e0f9c5f66805" ipa="/ˌmæθ.əˈmæt.ɪks/" vi_ipa="mết-a-mát-xích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b14f2860-6cdc-4c6b-acb1-1b6a3c6feabc" type="Noun">
+          <Vi>Khoa học về các đại lượng, cấu trúc, không gian và thay đổi</Vi>
+          <En>The abstract science of number, quantity, and space, either as abstract concepts (pure mathematics) or as applied to other disciplines such as physics and engineering (applied mathematics).</En>
+          <Example>Mathematics is essential in fields like engineering, economics, and computer science.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9bc6b554-81c2-4a92-a386-ae400296f633">
+              <Vi>Môn học nghiên cứu số học, hình học, đại số và giải tích.</Vi>
+              <En>The academic subject that studies numbers, shapes, algebra, and calculus.</En>
+            </Situation>
+            <Situation id="9001e68f-e4f3-4db5-87cf-de4e73d89cdc">
+              <Vi>Công cụ nền tảng để mô hình hóa và giải quyết vấn đề trong khoa học và kỹ thuật.</Vi>
+              <En>A fundamental tool for modeling and solving problems in science and engineering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

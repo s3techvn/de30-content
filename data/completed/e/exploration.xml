@@ -1,0 +1,40 @@
+<Vocab id="9b646b22-c949-48bc-930a-2a33e11e7190" word="exploration" type="short" status="done">
+  <Topics>
+    <Topic id="c147118d-7e12-4dba-bfc3-5b73489c673c" value="Science &amp; Discovery" />
+    <Topic id="71e31248-9017-4cdf-8bd2-2557ed432515" value="Travel &amp; Adventure" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b809207b-ab94-4565-807a-f98e422d0152" ipa="/ˌek.spləˈreɪ.ʃən/" vi_ipa="éc-plô-rây-shờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a20b19cb-dd4e-43ad-a821-babed1681ec4" type="Noun">
+          <Vi>Sự khám phá; sự thám hiểm</Vi>
+          <En>The action of exploring an unknown or unfamiliar area; the process of investigating or researching something to discover new information.</En>
+          <Example>The team's exploration of the Amazon rainforest led to the discovery of several new species.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eb6c1555-971e-406f-a121-0ed9a4043cc5">
+              <Vi>Sự thám hiểm vùng đất chưa được khám phá</Vi>
+              <En>Exploring uncharted territory, such as deep jungles, caves, or outer space.</En>
+            </Situation>
+            <Situation id="9db0cca5-f22f-424a-8eb4-820bc3c76ec1">
+              <Vi>Sự nghiên cứu, tìm tòi trong khoa học hoặc công nghệ</Vi>
+              <En>Research or investigation aimed at gaining new knowledge, especially in scientific or technical fields.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
