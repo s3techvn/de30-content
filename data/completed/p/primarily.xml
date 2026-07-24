@@ -1,0 +1,38 @@
+<Vocab id="a461afde-8e3c-4005-9723-2f25f03a4894" word="primarily" type="short" status="done">
+  <Topics>
+    <Topic id="aa3aca3c-3703-421f-9962-1a95ac3d0a17" value="General Usage" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5bfb99d-6df3-4976-9bc7-ec4b61e895eb" ipa="/ˈpraɪ.mər.i.əl.i/" vi_ipa="p-rai-mơ-rơ-ri-ơ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f26da01-bd2a-4bca-ad77-022a3a364f2a" type="Adverb">
+          <Vi>chủ yếu, chủ yếu là, trước hết</Vi>
+          <En>For the most part; mainly or essentially.</En>
+          <Example>The project was successful primarily due to the team's dedication.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c63ec68-c4df-48da-8c92-407d29b6357a">
+              <Vi>Mô tả điều quan trọng nhất trong một tình huống hoặc kết quả.</Vi>
+              <En>Used to indicate the main or most important factor in a situation or outcome.</En>
+            </Situation>
+            <Situation id="60618032-c29a-4536-829b-973be54f6ff9">
+              <Vi>Liệt kê các yếu tố theo thứ tự mức độ quan trọng.</Vi>
+              <En>Used when listing factors or reasons in order of importance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

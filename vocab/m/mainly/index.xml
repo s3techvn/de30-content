@@ -1,0 +1,39 @@
+<Vocab id="ee4cc564-5350-4b9f-87a0-7ff4d0760277" word="mainly" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ec494fb-9614-4b50-ba54-e8041556a195" ipa="/ˈmeɪn.li/" vi_ipa="mê-in-li">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="81497d71-decd-4caa-b0ef-0dcc8cc2eab0" type="Adverb">
+          <Vi>chủ yếu, phần lớn</Vi>
+          <En>For the most part; mainly or primarily.</En>
+          <Example>We mainly eat vegetarian food on weekends.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39b47ced-81d0-4e06-8285-cb9ebe5e8e8a">
+              <Vi>Mô tả ưu tiên hoặc tập trung vào một yếu tố chính trong một tình huống hoặc hoạt động.</Vi>
+              <En>Used to indicate that one thing is more important or frequent than others.</En>
+            </Situation>
+            <Situation id="7bc65ffc-c288-4568-ae4c-8569ff94d37c">
+              <Vi>Dùng khi liệt kê hoặc phân loại các yếu tố, nhấn mạnh yếu tố chính.</Vi>
+              <En>Used when listing or categorizing items to highlight the dominant one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
