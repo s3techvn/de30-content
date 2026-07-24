@@ -1,0 +1,39 @@
+<Vocab id="50260166-80c7-4b48-9aaa-069c0b43b241" word="nutritional" type="short" status="done">
+  <Topics>
+    <Topic id="ef153eb1-c2fc-44c3-8d62-a5fc01777fc3" value="Health &amp; Nutrition" />
+  </Topics>
+  <Professions>
+    <Profession id="220f1c97-cca4-465a-a606-140a191518eb" value="Dietitian" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="419c5f63-6073-48e1-ae1e-c6b22ccd5b1b" value="Food Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a0f76b60-ab95-4074-89a7-afbb9433b46f" ipa="/ˌnjuːˈtrɪʃ.əl/" vi_ipa="niu-tri-shờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="92bdc3da-3161-4974-9a32-c3e509f029e1" type="Adjective">
+          <Vi>thuộc về dinh dưỡng; có giá trị dinh dưỡng</Vi>
+          <En>relating to the process by which organisms take in and utilize food substances; having value as a source of nourishment</En>
+          <Example>The nutritional label on the cereal box lists fiber, vitamins, and minerals.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c35aa233-1f81-433f-8c4a-eee16d0b02c0">
+              <Vi>Mô tả thành phần dinh dưỡng của thực phẩm hoặc chế độ ăn uống.</Vi>
+              <En>Describing the nutrient content of food or dietary patterns.</En>
+            </Situation>
+            <Situation id="837659ae-4636-4a76-b3ad-bf7313834826">
+              <Vi>Đánh giá mức độ cung cấp dưỡng chất cần thiết cho cơ thể.</Vi>
+              <En>Evaluating how well a food meets the body's nutritional needs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
