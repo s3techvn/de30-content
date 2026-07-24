@@ -1,0 +1,40 @@
+<Vocab id="7ad5c426-1688-415d-ba47-43bcfeb7fcb9" word="rome" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bb697877-e557-4380-bc7b-b36cc4aac3a0" ipa="/roʊm/" vi_ipa="rôm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1ba694bb-ee31-46d6-a044-7ec6974d2840" type="Noun">
+          <Vi>Rome</Vi>
+          <En>The capital city of Italy, known for its ancient history, architecture, and as the center of the Roman Empire and the Catholic Church.</En>
+          <Example>Many tourists visit Rome to see the Colosseum and the Vatican.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="076ab419-a187-42b8-a63c-ade173bab751">
+              <Vi>Thành phố cổ kính của Ý, nơi có nhiều di tích La Mã cổ đại.</Vi>
+              <En>A historic city in Italy featuring many ancient Roman ruins.</En>
+            </Situation>
+            <Situation id="f011c391-020c-46cd-b37c-898ee58c1b72">
+              <Vi>Trung tâm của Giáo hội Công giáo La Mã.</Vi>
+              <En>The headquarters of the Roman Catholic Church, home to the Pope.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
