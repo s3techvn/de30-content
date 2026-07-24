@@ -1,0 +1,40 @@
+<Vocab id="ebe98b9c-3612-44c4-a453-ee2d86b50bc0" word="thus" type="short" status="done">
+  <Topics>
+    <Topic id="8d3f08e8-500a-4534-861b-916429c5a278" value="Academic Writing" />
+    <Topic id="58678ed9-8386-4e32-86a0-7ad682772d36" value="Logic &amp; Reasoning" />
+    <Topic id="093db55a-043d-42e0-b009-e812b0f89a6c" value="Daily Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="85de898b-858a-4015-9150-874569d6247e" value="Academic / Researcher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="936e5c01-a8be-4567-8d9b-6f3dff8237d4" value="Editor / Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b3c3d629-3535-4e03-a4fc-df069523c7e7" ipa="/ðʌs/" vi_ipa="đờ-xớt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5da7c84-f5cf-47cb-8578-61bced09d957" type="Adverb">
+          <Vi>như vậy, do đó, vì thế</Vi>
+          <En>As a result; in this way; therefore.</En>
+          <Example>The experiment failed; thus, we had to repeat it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3b3fe184-6ced-4c3b-9690-ce584b66e3b6">
+              <Vi>Diễn đạt kết luận hoặc hệ quả từ một tình huống hoặc lập luận trước đó.</Vi>
+              <En>Used to introduce a conclusion or result derived from previous statements or reasoning.</En>
+            </Situation>
+            <Situation id="4299b5bd-1287-423f-adb2-e0188938f03a">
+              <Vi>Mô tả cách thức thực hiện một việc (thường trong văn viết học thuật).</Vi>
+              <En>Used to describe the manner in which something is done, especially in formal or academic writing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
