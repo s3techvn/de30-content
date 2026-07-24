@@ -1,0 +1,40 @@
+<Vocab id="8a4ef2a2-7fa0-4b46-a502-c4f3ad5fdf89" word="ceramic" type="short" status="done">
+  <Topics>
+    <Topic id="cf1dd170-f56b-416e-a812-b70d073a9e77" value="Materials &amp; Manufacturing" />
+    <Topic id="28da25b7-43e9-4771-8209-1ead6db88b6d" value="Home &amp; Interior" />
+    <Topic id="5ed5c5ab-3394-4a30-97c1-e70c6ac8b2ce" value="Art &amp; Craft" />
+  </Topics>
+  <Professions>
+    <Profession id="8448d274-ee36-4c64-bcdc-c4bc3bdc2107" value="Potter" />
+    <Profession id="56579990-eb95-41de-9dc8-76b82e431f9e" value="Industrial Designer" />
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5eb23e2a-bb85-4f0f-aaee-f6c119c4ccf1" ipa="/səˈræm.ɪk/" vi_ipa="xơ-rá-míc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d2a63f23-8cc0-49a4-b69b-014e8a0ad8fe" type="Adjective">
+          <Vi>thuộc về gốm; làm bằng gốm</Vi>
+          <En>made of or relating to ceramic materials, typically hard, brittle, heat-resistant, and corrosion-resistant, such as pottery, tiles, or advanced technical ceramics.</En>
+          <Example>The artist fired the ceramic vase in a kiln at over 1,200 degrees Celsius.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84e5c394-1dfd-4776-bde1-bbb61c91e896">
+              <Vi>Mô tả vật liệu, đồ vật, hoặc quy trình liên quan đến gốm sứ truyền thống hoặc hiện đại.</Vi>
+              <En>Used to describe traditional or advanced ceramic materials, objects, or manufacturing processes.</En>
+            </Situation>
+            <Situation id="65609c56-bac9-4db7-b81c-226a65759896">
+              <Vi>Chỉ tính chất vật lý của gốm: cứng, giòn, chịu nhiệt tốt.</Vi>
+              <En>Refers to the characteristic properties of ceramics: hardness, brittleness, and high thermal resistance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

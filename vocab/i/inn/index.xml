@@ -1,0 +1,37 @@
+<Vocab id="a6212c64-a6e0-484c-8e5d-fc04d4569385" word="inn" type="short" status="done">
+  <Topics>
+    <Topic id="29955897-b53f-493a-a918-27822243d2cc" value="Travel and Accommodation" />
+  </Topics>
+  <Professions>
+    <Profession id="ade3f022-0d58-47d7-b068-22093d81115f" value="Hospitality Worker" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4decec2f-708f-455d-b0a1-5a7becc016aa" ipa="/ɪn/" vi_ipa="in">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="6a7a5feb-52e3-4d2a-a3bd-7cbf120751d3" type="Noun">
+          <Vi>khách sạn nhỏ, trọ, nhà nghỉ (thường ở vùng quê hoặc ven đường)</Vi>
+          <En>a small hotel, especially one in the countryside or by a road, typically offering accommodation and meals</En>
+          <Example>We stopped at a cozy inn near the mountains for the night.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f923b706-28d1-46ad-9039-623dbddd5668">
+              <Vi>Một du khách nghỉ đêm tại một khách sạn nhỏ bên đường khi đi phượt.</Vi>
+              <En>A traveler stays overnight at a small roadside inn while road-tripping.</En>
+            </Situation>
+            <Situation id="d257d4d5-5875-4d8e-9a18-a839a5161699">
+              <Vi>Một khách sạn truyền thống ở vùng nông thôn Anh cung cấp phòng và bữa sáng.</Vi>
+              <En>A traditional countryside inn in England offers rooms and a breakfast.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

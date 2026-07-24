@@ -2207,3 +2207,4 @@ sheep
 strap
 amber
 bureau
+inn
