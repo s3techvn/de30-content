@@ -1,0 +1,106 @@
+<Vocab id="e49215cc-1a01-453e-b911-89d670a93545" word="fall" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+    <Topic id="5d1aa070-4b68-4dd5-97a8-05fa992936ef" value="Health" />
+  </Topics>
+  <Professions>
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="de4b6f77-88a8-4e1c-987a-0f03d6becd3c" ipa="/fɔːl/" vi_ipa="phol">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2842c565-2835-495a-966f-754058c04242" type="Verb">
+          <Vi>ngã, rơi, rơi xuống</Vi>
+          <En>to move downward, typically as a result of losing support or control</En>
+          <Example>She fell off the ladder while painting the ceiling.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0fd2a878-ccbf-4347-81e0-fe03a682458a">
+              <Vi>Mô tả một người bị trượt chân và rơi xuống đất.</Vi>
+              <En>Describes a person losing balance and dropping to the ground.</En>
+            </Situation>
+            <Situation id="9b132ba2-b1cf-4c80-8412-09e169870d9f">
+              <Vi>Mô tả quả táo rơi từ cây xuống đất.</Vi>
+              <En>Describes an apple dropping from a tree to the ground.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="cd5ee057-5f55-4856-984d-55d86f6f0403" type="Noun">
+          <Vi>sự rơi, sự ngã</Vi>
+          <En>an act or instance of moving downward, especially unexpectedly or uncontrollably</En>
+          <Example>The fall of the leaf signaled the arrival of autumn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5a897447-7075-4dac-a775-458f4cc607a5">
+              <Vi>Mô tả thời điểm một vật rơi từ trên cao xuống.</Vi>
+              <En>Describes the moment an object drops from a height.</En>
+            </Situation>
+            <Situation id="b29e8c68-86f3-40ec-b855-b257e00bafc8">
+              <Vi>Mô tả sự sụp đổ của một chế độ chính trị.</Vi>
+              <En>Describes the collapse of a political regime.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="13199f44-79d1-47e8-8433-5a0460baba7b" type="Noun">
+          <Vi>mùa thu (Mỹ)</Vi>
+          <En>the season between summer and winter, characterized by cooling temperatures and falling leaves</En>
+          <Example>We went hiking in the mountains during the fall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ebdf92ff-ec1a-442a-a379-35fc6f60feed">
+              <Vi>Mô tả cảnh lá cây đổi màu và rơi trong mùa thu.</Vi>
+              <En>Describes leaves changing color and falling in autumn.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5db66866-f203-48a0-869d-771a3657e208" type="Verb">
+          <Vi>giảm, sụt (giá cả, số lượng, mức độ)</Vi>
+          <En>to decrease in amount, level, or intensity</En>
+          <Example>Temperatures fell sharply overnight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="28f0ac64-d9b4-4288-9893-4c32892056cf">
+              <Vi>Mô tả giá cổ phiếu giảm mạnh trong một ngày.</Vi>
+              <En>Describes a sharp drop in stock prices in a single day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="81386fe1-0f94-458e-8c5b-a8dc73397e50" type="Adjective">
+          <Vi>thuộc mùa thu</Vi>
+          <En>relating to the autumn season</En>
+          <Example>We’re hosting the annual gala in the fall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0843f51c-e954-4676-beb1-32a83efce330">
+              <Vi>Mô tả các sự kiện diễn ra vào mùa thu.</Vi>
+              <En>Describes events scheduled during the autumn months.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2709a112-026b-48b4-a678-d6c2fa546630" type="Preposition">
+          <Vi>từ (độ cao)… xuống (đất, mặt nước…)</Vi>
+          <En>from a higher to a lower position on the surface of</En>
+          <Example>The water fell from the cliff into the pool below.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="569e84de-97db-402c-ae9b-deda11065b4e">
+              <Vi>Mô tả nước chảy từ trên vách đá xuống hồ.</Vi>
+              <En>Describes water flowing down a cliff into a pool below.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
