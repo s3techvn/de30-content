@@ -1,0 +1,40 @@
+<Vocab id="b920f363-66fe-46a8-ae04-4e1024e52648" word="improve" type="short" status="done">
+  <Topics>
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="57c8132c-64ca-471f-a9bc-ce65c36c8378" value="Healthcare Professional" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c42cde78-3290-40a3-ae63-fa0f090d82a3" ipa="/ɪmˈpruːv/" vi_ipa="im-pru-úp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b1113c53-9d27-4dd3-9af5-1ff57095657a" type="Verb">
+          <Vi>cải thiện, nâng cao</Vi>
+          <En>to make or become better; to enhance quality, performance, or condition</En>
+          <Example>She improved her English skills by practicing every day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dd255baf-d489-4f77-9134-14704c139ce3">
+              <Vi>Mô tả việc nâng cao kỹ năng, hiệu suất, hoặc chất lượng.</Vi>
+              <En>Describing the process of enhancing a skill, performance, or quality.</En>
+            </Situation>
+            <Situation id="88b8d819-965f-4cd2-956f-250657321cd2">
+              <Vi>Đề cập đến sự tiến bộ trong sức khỏe, mối quan hệ, hoặc công việc.</Vi>
+              <En>Referring to progress in health, relationships, or work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

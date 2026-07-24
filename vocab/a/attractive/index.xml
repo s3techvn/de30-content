@@ -1,0 +1,38 @@
+<Vocab id="fb2c2b42-2681-449b-9242-95381f26aa93" word="attractive" type="short" status="done">
+  <Topics>
+    <Topic id="134fb34a-758b-4d4a-8763-3150ac5025ba" value="Appearance &amp; Personality" />
+  </Topics>
+  <Professions>
+    <Profession id="6303ac22-0700-4efa-9b9d-f035847491de" value="Model" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="3b27a2cd-a30d-4882-972d-c6d9f2243205" value="Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="94929ac8-809c-4a06-8c56-fa6603734533" ipa="/əˈtræk.tɪv/" vi_ipa="ơ-trắc-típ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2fdb2fcd-081e-4db6-b7dd-5a2fb63b8bb3" type="Adjective">
+          <Vi>hấp dẫn, quyến rũ, dễ thương</Vi>
+          <En>pleasing or appealing in appearance or character; having a pleasing quality that attracts attention or interest.</En>
+          <Example>She wore an attractive dress to the party and received many compliments.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3f589fa6-40c9-4fe6-a95a-7db23e983cfd">
+              <Vi>Mô tả người hoặc vật có vẻ ngoài hoặc tính cách gây ấn tượng tốt, khiến người khác thích thú.</Vi>
+              <En>Describing a person or object whose appearance or personality creates a positive impression and draws interest.</En>
+            </Situation>
+            <Situation id="c457d2d7-146d-49a0-b0c7-92d7ad3c296b">
+              <Vi>Dùng để khen ngợi sự hấp dẫn trong giao tiếp, phong cách, hoặc sản phẩm.</Vi>
+              <En>Used to praise attractiveness in communication style, fashion, or a product’s design.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
