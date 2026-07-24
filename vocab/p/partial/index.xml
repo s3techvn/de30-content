@@ -1,0 +1,50 @@
+<Vocab id="19d48739-7c17-4358-92a7-b329aa8a13af" word="partial" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="3bfaa3a4-f064-4cd2-ab3d-2c139ff0dcc7" value="Education" />
+    <Profession id="4a61f65e-3eb7-4628-8e03-3d9af6dd49e6" value="Business" />
+    <Profession id="32cc43fb-225e-43ae-93c5-8bd114477273" value="Law" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a1d23ef0-a109-4acb-825e-17935aa29cfe" ipa="/ˈpɑːr.shəl/" vi_ipa="pác-sờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5789f704-748b-428d-b08d-efed622312ad" type="Adjective">
+          <Vi>thiên vị; một phần; chưa đầy đủ</Vi>
+          <En>favoring one side, person, or group over another, especially in an unfair way; not complete or full.</En>
+          <Example>The judge was accused of being partial to the defendant.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="27d079b2-3221-43fe-bb58-4f2f5653143e">
+              <Vi>Trong một vụ kiện, người phán quyết không công bằng, thiên về một bên.</Vi>
+              <En>In a legal case, the decision-maker shows unfair favoritism toward one party.</En>
+            </Situation>
+            <Situation id="47e15b14-be84-49ba-b125-0b08fe4c1b72">
+              <Vi>Một phần của một cái gì đó, chưa hoàn chỉnh.</Vi>
+              <En>A incomplete or incomplete portion of something.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c705f993-9e50-4cde-9fa9-fe181531eb57" type="Adjective">
+          <Vi>chỉ xử lý một phần (vấn đề, nhiệm vụ, v.v.)</Vi>
+          <En>dealing with only a part of a whole issue, task, or responsibility.</En>
+          <Example>We received only partial funding for the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3dd04441-831a-417a-bd16-df39c5edb0a7">
+              <Vi>Chương trình hỗ trợ chỉ bao gồm một phần chi phí.</Vi>
+              <En>The support program covers only part of the total cost.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
