@@ -1,0 +1,76 @@
+<Vocab id="d67bab47-1b7a-4024-95c7-6dbf04990151" word="throw" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="2944bcde-9fd9-4bf2-bf81-5a0cf509aebb" value="Idioms" />
+  </Topics>
+  <Professions>
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="582dab3b-2679-47b8-8343-2835f96b6943" ipa="/θroʊ/" vi_ipa="thrô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47b34934-4186-484f-86a7-b0bf5b30f02b" type="Verb">
+          <Vi>Ném, vứt, quăng</Vi>
+          <En>To propel something through the air using the arm and hand.</En>
+          <Example>She threw the baseball to first base.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="91d36ce4-f3f1-4264-8ad3-1faa5a976827">
+              <Vi>Trong thể thao, vận động viên ném bóng.</Vi>
+              <En>In sports, an athlete hurls a ball toward a target.</En>
+            </Situation>
+            <Situation id="138f148b-2bb5-4cf5-9d6a-0959a62af3f8">
+              <Vi>Ném rác vào thùng.</Vi>
+              <En>Discarding trash into a bin.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="003f107c-821f-4b5f-9fed-661364e3aed2" type="Verb">
+          <Vi>Đột ngột đặt, đặt vội, đưa ra (ý kiến, đề xuất)</Vi>
+          <En>To suggest or propose something suddenly or casually.</En>
+          <Example>He threw out an idea during the meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7692b130-f008-48af-b69b-bdd57ecf2981">
+              <Vi>Đưa ra ý tưởng trong brainstorming.</Vi>
+              <En>Offering a spontaneous idea during a brainstorming session.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b33c6332-6fc3-46e6-9f52-0bdf550b1b1c" type="Verb">
+          <Vi>Ném vào (một tình huống, người), gây ra (hỗn loạn, bất ngờ)</Vi>
+          <En>To cause something to happen suddenly or violently; to put someone in a particular state or situation.</En>
+          <Example>The news threw her into despair.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a4850b9-8e0c-4d8a-b7d6-848a49caebe3">
+              <Vi>Thông tin xấu khiến ai đó hoảng loạn.</Vi>
+              <En>Bad news suddenly plunges someone into shock or distress.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eebb991d-99ad-4e1f-8b09-b66158ff2baa" type="Verb">
+          <Vi>Ném (xe, người) vào một tình huống nguy hiểm hoặc khó khăn</Vi>
+          <En>To put someone or something in a difficult or dangerous situation.</En>
+          <Example>The storm threw the ship off course.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5a26166-d2a1-4327-b0fd-71c4c12521bc">
+              <Vi>Xe bị trượt khỏi đường do mưa lớn.</Vi>
+              <En>A vehicle veered off the road due to heavy rain.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
