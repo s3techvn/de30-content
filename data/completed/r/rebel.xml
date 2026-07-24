@@ -1,0 +1,68 @@
+<Vocab id="815739cf-bd67-4e56-b9c6-7706821950d9" word="rebel" type="short" status="done">
+  <Topics>
+    <Topic id="7da44326-4523-4f4b-a439-a9e7c8112695" value="Politics &amp; Society" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="3f493be6-e848-4390-a6f4-3ff87e6d6ab5" value="Political Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="48b3d698-763c-4cdf-95d7-5720868c7bc1" ipa="/ˈrɛb.əl/" vi_ipa="rhi-ben">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="278e6141-5552-4796-89b1-bd9ceb51770f" type="Noun">
+          <Vi>người nổi loạn; kẻ phản loạn</Vi>
+          <En>a person who fights against an authority, government, or established order, especially by force</En>
+          <Example>The rebels seized control of the capital city after weeks of fighting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5251a308-eb45-44b7-b561-96bec98d3863">
+              <Vi>Một nhóm người vũ trang chống lại chính quyền hiện tại trong một cuộc cách mạng.</Vi>
+              <En>A group of armed individuals opposing the current government during a revolution.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="6080db84-4bb3-4b6d-9206-1ef88e3529b7" type="Verb">
+          <Vi>nổi loạn; phản loạn; chống lại (quyền lực)</Vi>
+          <En>to resist or fight against an authority, government, or established system</En>
+          <Example>Many citizens began to rebel against the harsh tax policies.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1a1bd8ab-f843-4d22-9b52-dc1e454458be">
+              <Vi>Học sinh phản kháng quy định mới về đồng phục bằng cách mặc đồ thường ngày.</Vi>
+              <En>Students protested the new uniform policy by wearing casual clothes.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d6e0b83a-3a1e-40e6-a30c-eca567db23cc" ipa="/rɪˈbɛl/" vi_ipa="ri-ben">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f4972d73-72e2-40ba-b32e-292287f67537" type="Adjective">
+          <Vi>phản loạn; nổi loạn; bất tuân</Vi>
+          <En>characterized by or involving resistance to authority or control; defiant or unruly</En>
+          <Example>The child had a rebellious streak and often refused to follow rules.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9160203a-3e04-4192-be90-1d55527c2837">
+              <Vi>Một thanh thiếu niên thích mặc đồ kỳ lạ và tranh cãi với giáo viên.</Vi>
+              <En>A teenager who prefers unusual clothing and argues with teachers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
