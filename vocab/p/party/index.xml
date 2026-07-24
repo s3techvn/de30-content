@@ -1,0 +1,95 @@
+<Vocab id="8c9602c9-1562-4231-852a-c7e952d10fa0" word="party" type="short" status="done">
+  <Topics>
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7b5650c-56ba-424c-8bda-8565bb845e86" ipa="/ˈpɑːr.ti/" vi_ipa="pác-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8ba9db8f-5336-41e4-aa10-7c2fd55a41ef" type="Noun">
+          <Vi>tiệc, buổi tiệc</Vi>
+          <En>A social gathering of friends, family, or colleagues for celebration or entertainment.</En>
+          <Example>We’re hosting a small party for her birthday next Saturday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56dac95b-76d3-4523-9066-5c5959d3a870">
+              <Vi>Một buổi tụ họp vui vẻ với âm nhạc, đồ ăn và bạn bè.</Vi>
+              <En>A joyful gathering with music, food, and friends.</En>
+            </Situation>
+            <Situation id="f088118d-7da5-42a3-a9ac-6589a2dd44fc">
+              <Vi>Người tham gia thường mặc trang phục phù hợp chủ đề (như tiệc hóa trang).</Vi>
+              <En>Guests often wear costumes or attire matching the party theme (e.g., costume party).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="37e15390-638a-4a75-a278-5895013c3159" type="Noun">
+          <Vi>đảng phái (chính trị)</Vi>
+          <En>A political organization that seeks to influence government policy and elect candidates to office.</En>
+          <Example>The two major political parties in the U.S. are the Democratic and Republican Parties.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a9c9002d-ec21-4ceb-aac5-8a06dc759efd">
+              <Vi>Các đảng phái tổ chức đại hội để đề ra chương trình hành động.</Vi>
+              <En>Parties hold conventions to outline their platforms and policies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f7a4e176-643d-4480-b904-211691dcd2ae" type="Noun">
+          <Vi>phía, phe (trong tranh chấp)</Vi>
+          <En>A person or group involved in a dispute, negotiation, or legal proceeding.</En>
+          <Example>Both parties agreed to settle the case out of court.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39891306-1926-4c9c-b15a-7d6ddc972110">
+              <Vi>Trong hợp đồng, “party A” và “party B” chỉ các bên ký kết.</Vi>
+              <En>In contracts, “Party A” and “Party B” refer to the signatories.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a1299f60-c4fc-4002-bd21-bd78826d4662" ipa="/ˈpɑːr.ti/" vi_ipa="pác-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e2a0e289-cd7f-4f7a-a42e-365acb23bf77" type="Verb">
+          <Vi>tham gia tiệc, đi dự tiệc</Vi>
+          <En>To attend or participate in a social gathering or celebration.</En>
+          <Example>She decided to party with her friends instead of studying.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df54ee40-e06b-47fb-b177-4be8bbc5aef0">
+              <Vi>Sau một tuần làm việc căng thẳng, họ muốn party để thư giãn.</Vi>
+              <En>After a stressful week of work, they want to party and relax.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e9cee9ac-e41f-4049-b10d-9e20ff51bbb8" type="Verb">
+          <Vi>ăn uống, tiệc tùng quá mức (thường mang tính tiêu cực)</Vi>
+          <En>To engage in excessive eating, drinking, or revelry—often used informally or critically.</En>
+          <Example>They partied all night and woke up with a terrible hangover.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="252277b2-0871-4885-bdcc-9e6e064f8354">
+              <Vi>Sinh viên thường party vào cuối tuần trước kỳ thi.</Vi>
+              <En>Students often party on weekends before exams—though not always wisely.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
