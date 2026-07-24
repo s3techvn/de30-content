@@ -1,0 +1,38 @@
+<Vocab id="f10988f7-2f7d-4640-b7b2-a8741ffba439" word="surveillance" type="short" status="done">
+  <Topics>
+    <Topic id="2ffff881-d07b-4407-ab96-730bebcf7293" value="Security &amp; Law Enforcement" />
+  </Topics>
+  <Professions>
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="c7a6fb13-d6b5-4fc8-a2e6-1a17b42f5812" value="Intelligence Analyst" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="495c7848-d720-4000-9b81-ac8d7c7d3e7e" ipa="/ˈsɜːr.əɪ.ləns/" vi_ipa="xờ-rây-lờ-nờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc28654e-4adb-470b-9d21-40d10478ec1b" type="Noun">
+          <Vi>giám sát, sự giám sát (đặc biệt bằng thiết bị hoặc nhân sự chuyên nghiệp)</Vi>
+          <En>the action of monitoring someone or something, especially to prevent or detect crime or subversive activity</En>
+          <Example>The city installed cameras for surveillance of the downtown area.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f15a8dc6-6267-4cca-9cf7-acd4d614458d">
+              <Vi>Chính quyền sử dụng camera và nhân sự để giám sát khu vực công cộng nhằm đảm bảo an ninh.</Vi>
+              <En>Authorities use cameras and personnel to monitor public areas to ensure security.</En>
+            </Situation>
+            <Situation id="80b0c41b-7a4d-4741-a2ae-8b4df0954837">
+              <Vi>Trong tình báo, surveillance là một phần thiết yếu của hoạt động chống khủng bố.</Vi>
+              <En>In intelligence work, surveillance is a key part of counter-terrorism operations.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
