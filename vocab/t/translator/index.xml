@@ -1,0 +1,34 @@
+<Vocab id="30ba5bb9-2550-45d8-a892-f9bf46a770c7" word="translator" type="short" status="done">
+  <Topics>
+    <Topic id="6172afb0-8c07-4423-87c2-ab82308db2d0" value="Language &amp; Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="0d2b7a2e-0618-42b0-9226-906094999137" value="Translator" />
+    <Profession id="a37afd03-4d03-4a3b-b835-9729c309b956" value="Interpreter" />
+    <Profession id="ec1447e9-dc16-49a7-8878-a8171ee16371" value="Localization Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee65241d-e252-4193-bad0-b9fcc04bf7f7" ipa="/ˈtræn.sleɪ.tər/" vi_ipa="trờ-nờ-s-lây-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8bd6c62f-bc9a-4771-b8d6-70757bc30639" type="Noun">
+          <Vi>Người dịch thuật; người phiên dịch</Vi>
+          <En>A person who translates written or spoken text from one language to another.</En>
+          <Example>The translator carefully ensured that the nuance of the original poem was preserved in the English version.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e18af1d5-1123-4e03-9a1c-101cbfe23c22">
+              <Vi>Người làm việc trong lĩnh vực xuất bản, tổ chức sự kiện quốc tế, hoặc y tế cần chuyển ngữ tài liệu hoặc lời nói.</Vi>
+              <En>Used in publishing, international events, or healthcare settings where accurate language conversion is essential.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
