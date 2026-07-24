@@ -1,0 +1,56 @@
+<Vocab id="0ff6752f-4998-4ba8-bb3d-d983cf892675" word="dust" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="02f3f407-6193-4f03-ba62-121dd8e651fd" value="Household" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="7d540e96-067d-4f88-9f08-ecdfdceccebc" value="Cleaner" />
+    <Profession id="3d59ad46-f8fe-40bf-b841-e03260c5ef5b" value="Housekeeper" />
+    <Profession id="cb92d94e-590a-455a-8824-52cc8c7ab9c8" value="Industrial Hygienist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="49650069-27e7-4f96-a9bc-58a36f9337aa" ipa="/dʌst/" vi_ipa="đơ-st">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="28d19bd1-88ac-4866-89d6-b28cad167e21" type="Noun">
+          <Vi>Bụi (bụi bẩn, mịn, khô)</Vi>
+          <En>Small dry particles of matter, especially such particles that are blown by the wind or that settle on surfaces.</En>
+          <Example>The windowsill was covered in a thick layer of dust after the renovation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1bed9d27-5de4-4271-9256-aa9e5ce5bb7a">
+              <Vi>Mô tả lớp bụi mỏng hoặc dày bám trên đồ đạc, sàn nhà sau thời gian dài không lau dọn.</Vi>
+              <En>Describes a thin or thick layer of dust covering furniture or floors after prolonged lack of cleaning.</En>
+            </Situation>
+            <Situation id="dbee3158-4a19-4865-a646-fb7a7ac336ed">
+              <Vi>Tình huống khi bụi bay lên trong không khí, ví dụ khi quét nhà hoặc mở cửa sổ vào ngày gió.</Vi>
+              <En>Scenario where dust becomes airborne, e.g., while sweeping or opening a window on a windy day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="94551cfa-575e-47a9-8490-14a437a39a8b" type="Verb">
+          <Vi>Quét bụi, lau bụi</Vi>
+          <En>To remove dust from (a surface) using a cloth, brush, or duster.</En>
+          <Example>She dusted the shelves before placing the books back.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d71bb556-47da-45f3-a3e9-95d72aa30868">
+              <Vi>Hành động làm sạch bề mặt bằng cách loại bỏ bụi bẩn.</Vi>
+              <En>The act of cleaning a surface by removing accumulated dust.</En>
+            </Situation>
+            <Situation id="e65f1351-8847-413c-ac34-6e7b38cb18a3">
+              <Vi>Trong nấu ăn, dùng bột mì để rắc lên mặt bánh trước khi nướng (nghĩa bóng, ít dùng).</Vi>
+              <En>In cooking, to lightly sprinkle flour on a surface before rolling dough (figurative use, rare).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

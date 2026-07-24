@@ -925,4 +925,6 @@
   <Profession id="eec7b1f3-493a-4fa8-b35a-063ace4d2028" slug="dairy-farmer" value="Dairy Farmer" />
   <Profession id="8e5abce4-787f-4eb0-879c-605330351dca" slug="card-dealer" value="Card Dealer" />
   <Profession id="1bb16b36-7198-4be7-9c80-1fcca03f3122" slug="employer" value="Employer" />
+  <Profession id="7d540e96-067d-4f88-9f08-ecdfdceccebc" slug="cleaner" value="Cleaner" />
+  <Profession id="cb92d94e-590a-455a-8824-52cc8c7ab9c8" slug="industrial-hygienist" value="Industrial Hygienist" />
 </Professions>
