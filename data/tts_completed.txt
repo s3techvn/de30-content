@@ -2316,3 +2316,4 @@ equal
 salary
 family
 out
+obtain
