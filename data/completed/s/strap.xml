@@ -1,0 +1,56 @@
+<Vocab id="85bd318a-6441-4fc0-8289-967686077048" word="strap" type="short" status="done">
+  <Topics>
+    <Topic id="67668a79-8a07-44d3-874f-f8d3871ac3cc" value="Clothing &amp; Accessories" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="b878bb68-7329-404a-8d62-c8d85b67911e" value="Sports &amp; Fitness" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="76346327-8993-461c-b827-2db3d9e250d1" ipa="/stræp/" vi_ipa="străp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="61ed7c91-232c-4b15-b365-3ce32288093c" type="Noun">
+          <Vi>Dây đeo; dây buộc; dải dây</Vi>
+          <En>A narrow strip of material (such as leather, fabric, or metal) used for fastening, supporting, or holding something.</En>
+          <Example>The backpack has adjustable straps to fit different body sizes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="63ac121e-e26d-484d-86a1-87de78a01852">
+              <Vi>Mô tả các dải dây trên giày, balô, hoặc áo ngực dùng để điều chỉnh độ ôm.</Vi>
+              <En>Describes the adjustable bands on shoes, backpacks, or bras used for fit adjustment.</En>
+            </Situation>
+            <Situation id="1f64d212-dd76-4bef-b743-376124519c0b">
+              <Vi>Dây an toàn trên xe hơi hoặc máy bay.</Vi>
+              <En>The safety belt in a car or airplane.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c133a337-a49a-48f6-87ab-43a1f2d8a213" type="Verb">
+          <Vi>Đeo dây; buộc bằng dây; dùng dây để cố định</Vi>
+          <En>To fasten, secure, or attach something using a strap or straps.</En>
+          <Example>She strapped the luggage tightly to the roof of the car.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46c5a4dd-7333-4efc-bb08-c1451e355cd8">
+              <Vi>Hành động dùng dây để buộc hành lý lên xe hoặc cố định vật dụng.</Vi>
+              <En>The action of using straps to secure luggage or equipment to a vehicle or frame.</En>
+            </Situation>
+            <Situation id="712de83e-561d-4ae6-806f-5f8d361f9f64">
+              <Vi>Trong y tế: dùng dây buộc để giữ bệnh nhân hoặc thiết bị.</Vi>
+              <En>In medical contexts: using restraints or straps to secure a patient or medical device.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
