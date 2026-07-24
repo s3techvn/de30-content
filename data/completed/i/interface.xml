@@ -1,0 +1,66 @@
+<Vocab id="2789fdc9-9417-4d99-8785-f9e38162f4cd" word="interface" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="429c2b15-5046-4aae-bac7-bffdce1c445f" value="Software Development" />
+    <Topic id="cfc8f867-2cc1-47d8-a87e-b75f97f70d1a" value="Hardware" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="8ef2720d-9e40-4c28-a1c9-4a522ad9aa01" value="UI/UX Designer" />
+    <Profession id="da97e874-f343-48f1-87e9-e518361663ab" value="System Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6c58b693-84fe-40fa-83f0-7987236cc24c" ipa="/ˈɪn.t̬ɚ.feys/" vi_ipa="in-tơ-phây-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cb4fc61c-fc31-4c01-9c70-e24c565d529c" type="Noun">
+          <Vi>Giao diện</Vi>
+          <En>A point where two systems, subjects, or organizations meet and interact; especially, a shared boundary across which two or more separate components of a computer system exchange information.</En>
+          <Example>The user interface of the app is intuitive and easy to navigate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="85366ef2-7081-4577-9729-3947b6768d84">
+              <Vi>Mô tả cách người dùng tương tác với phần mềm hoặc thiết bị.</Vi>
+              <En>Describes how users interact with software or hardware devices.</En>
+            </Situation>
+            <Situation id="b88cfa77-af40-418e-b064-f4e94d6f3330">
+              <Vi>Điểm kết nối giữa hai hệ thống phần mềm hoặc phần cứng.</Vi>
+              <En>The boundary where two software or hardware systems connect and communicate.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="d670580e-0b87-43f7-b4c9-c5d4476db49e" ipa="/ˈɪn.t̬ɚ.feys/" vi_ipa="in-tơ-phây-s">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8a901d33-04ee-458d-88ff-5fd7c7096f94" type="Verb">
+          <Vi>Kết nối, tạo giao diện</Vi>
+          <En>To connect (two systems or components) by means of an interface; to provide with an interface.</En>
+          <Example>The new API will interface the legacy system with the cloud platform.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a04d4f5-7e61-4b81-b53e-f82f4275c792">
+              <Vi>Liên kết hai hệ thống kỹ thuật số để chúng có thể trao đổi dữ liệu.</Vi>
+              <En>Connecting two digital systems so they can exchange data.</En>
+            </Situation>
+            <Situation id="7da1bc0c-b2ea-4d8c-a25f-4f2c802585c1">
+              <Vi>Thiết kế hoặc tích hợp giao diện cho phần mềm hoặc thiết bị.</Vi>
+              <En>Designing or integrating an interface for software or hardware.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

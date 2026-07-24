@@ -832,4 +832,6 @@
   <Profession id="8a5e3750-ec0e-4b50-8cc2-7dcbb3791d6b" slug="market-analyst" value="Market Analyst" />
   <Profession id="884d1c0f-5fcb-407a-a3a8-9ad0d5b0149e" slug="priest" value="Priest" />
   <Profession id="23d10efb-1d5f-44d7-af93-64353b0d719b" slug="food-inspector" value="Food Inspector" />
+  <Profession id="8ef2720d-9e40-4c28-a1c9-4a522ad9aa01" slug="ui/ux-designer" value="UI/UX Designer" />
+  <Profession id="da97e874-f343-48f1-87e9-e518361663ab" slug="system-architect" value="System Architect" />
 </Professions>
