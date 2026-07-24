@@ -1,0 +1,39 @@
+<Vocab id="416342a0-a886-4f6a-9805-85a5aae7c492" word="painful" type="short" status="done">
+  <Topics>
+    <Topic id="b06d15af-0fa1-45a2-afc7-3be9ee305b3a" value="Health &amp; Body" />
+    <Topic id="fb91cb7d-6dd7-48f7-b916-8fb46c123436" value="Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a9dc0283-4f3b-4613-87a6-792487f7991a" ipa="/ˈpeɪn.fəl/" vi_ipa="pê-in-phờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f6091733-3125-4113-a15e-b7f406d7e96e" type="Adjective">
+          <Vi>đau đớn, gây đau</Vi>
+          <En>causing physical or emotional pain; unpleasantly painful to experience</En>
+          <Example>The injury left him with a painful swelling on his knee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="eae93ed9-2786-44aa-83e9-e1be898e2b8c">
+              <Vi>Mô tả một cảm giác thể chất khó chịu, thường do chấn thương hoặc bệnh tật.</Vi>
+              <En>Describing a physical sensation of discomfort or suffering, often due to injury or illness.</En>
+            </Situation>
+            <Situation id="9e7cb307-25ae-4019-a174-bc6ef32836d9">
+              <Vi>Mô tả một trải nghiệm cảm xúc khó chịu, như nhớ lại sự mất mát.</Vi>
+              <En>Describing an emotional experience that causes distress, such as recalling a loss.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

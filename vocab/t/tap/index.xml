@@ -1,0 +1,64 @@
+<Vocab id="0a3edd3f-b28c-4a0d-9001-8104575dc46b" word="tap" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="9aa4ac17-3f37-4934-b833-bb8c96bf4138" value="Drinks &amp; Dining" />
+  </Topics>
+  <Professions>
+    <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" value="Plumber" />
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9ce4575e-7a54-4af2-ab81-58fef2046300" ipa="/tæp/" vi_ipa="tép">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5bb774e3-0e43-47a7-a342-014a25e5d2f5" type="Noun">
+          <Vi>Vòi nước; vòi bia; nguồn cấp (dữ liệu, thông tin)</Vi>
+          <En>A device for controlling the flow of liquid or gas from a pipe; a source from which something is obtained.</En>
+          <Example>He turned on the tap to fill the kettle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1ff21f7-fdb0-4517-ac9d-c47c5c40583b">
+              <Vi>Ở nhà hoặc nhà vệ sinh công cộng, dùng để lấy nước.</Vi>
+              <En>Used in homes or public restrooms to draw water.</En>
+            </Situation>
+            <Situation id="c6bae700-4226-4cb4-b43a-20ff71c9f85e">
+              <Vi>Trong quán bar, vòi bia để rót bia.</Vi>
+              <En>In a bar, the beer tap used to dispense draft beer.</En>
+            </Situation>
+            <Situation id="59634baf-d1b6-4b64-b47b-63038b6fd2d7">
+              <Vi>Trong công nghệ, nguồn dữ liệu (ví dụ: tap vào nguồn tin).</Vi>
+              <En>In tech, to access or utilize a data source (e.g., tap into a network).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3299d45f-e8df-4e64-a7dd-35049adfb230" type="Verb">
+          <Vi>Mở vòi để lấy nước/bia; khai thác (nguồn); gõ nhẹ</Vi>
+          <En>To open a tap to let liquid or gas flow; to access or utilize a resource; to strike lightly.</En>
+          <Example>She tapped the bottle to release the last drops of wine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="158e2753-a87f-49e9-8a10-ad07a7e0930f">
+              <Vi>Gõ nhẹ vào vai ai đó để thu hút sự chú ý.</Vi>
+              <En>To lightly strike someone’s shoulder to get their attention.</En>
+            </Situation>
+            <Situation id="a40135ba-a5d5-40e7-a785-0d3afea66a0b">
+              <Vi>Khai thác tiềm năng hoặc nguồn lực (ví dụ: khai thác thị trường).</Vi>
+              <En>To utilize or harness a resource, such as tapping into new markets.</En>
+            </Situation>
+            <Situation id="c8f9aa0b-c676-43a2-baf8-d3623ad0835e">
+              <Vi>Rót bia từ vòi bia.</Vi>
+              <En>To pour beer directly from a tap.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
