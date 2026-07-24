@@ -1,0 +1,56 @@
+<Vocab id="f32babb8-eb18-4150-a9e5-84fe0751cdd3" word="paint" type="short" status="done">
+  <Topics>
+    <Topic id="5ed5c5ab-3394-4a30-97c1-e70c6ac8b2ce" value="Art &amp; Craft" />
+    <Topic id="d44e688a-6bf3-402c-b249-f0ef8f767a0a" value="Home &amp; Garden" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="9b136c15-5564-4114-a49b-db6c2dac9010" value="Painter" />
+    <Profession id="15b2aa3f-f3eb-4798-8770-509f1848ec1f" value="Interior Designer" />
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="070e156c-0ce1-49c6-98f9-5708175cc55b" ipa="/peɪnt/" vi_ipa="pết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e2a9a1c0-1559-49d0-9f3a-3142c983ee60" type="Noun">
+          <Vi>Sơn; chất sơn; bức tranh (nghệ thuật)</Vi>
+          <En>A colored liquid or paste used to coat surfaces, or a picture made with pigments; also, the act of applying such a substance.</En>
+          <Example>She chose a soft blue paint for the nursery walls.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="605bba23-3ac3-4574-ba1a-f0c857f3461a">
+              <Vi>Mua sơn để sơn lại tường nhà.</Vi>
+              <En>Buying paint to repaint the walls of a room.</En>
+            </Situation>
+            <Situation id="64f6d323-8ec9-4c58-95c4-cd9fcaa4e994">
+              <Vi>Ngắm một bức tranh sơn dầu nổi tiếng.</Vi>
+              <En>Admiring a famous oil painting in a museum.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bdb069e1-6b02-4203-ba7b-f083f3e693b0" type="Verb">
+          <Vi>Sơn (màu lên bề mặt); vẽ (tranh); tô màu</Vi>
+          <En>To cover a surface with pigment in the form of paint; to create a picture using paint.</En>
+          <Example>He spent the weekend painting the fence.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bdd3c02f-233f-436e-87fe-77440611d02c">
+              <Vi>Tự sơn lại phòng khách vào cuối tuần.</Vi>
+              <En>DIY painting the living room over a weekend.</En>
+            </Situation>
+            <Situation id="d2be337b-4062-4eec-b533-ee2434f1dabd">
+              <Vi>Hoạ sĩ đang vẽ chân dung bằng sơn dầu.</Vi>
+              <En>The artist is painting a portrait using oil paints.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
