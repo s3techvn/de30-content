@@ -1,0 +1,66 @@
+<Vocab id="b13e91a3-ac29-452a-981d-65e51bd0f811" word="composite" type="short" status="done">
+  <Topics>
+    <Topic id="102237ab-dd5a-4186-8524-446605512e24" value="Science and Engineering" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="8d9fb7ea-f77c-49b4-90f6-67d45a5eeb28" value="Materials" />
+  </Topics>
+  <Professions>
+    <Profession id="c9bc53eb-0ca2-4e16-9608-55aed06ca39e" value="Materials Engineer" />
+    <Profession id="dc45fc88-4f9c-4483-b1ba-3611577c43ba" value="Civil Engineer" />
+    <Profession id="824afcfc-2733-4ee4-87f2-802db282f9ec" value="Aerospace Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9959de98-941a-44c3-99b9-58011137be7c" ipa="/ˈkɑːm.pə.zɪt/" vi_ipa="côm-pô-dít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef306656-cf98-4a7f-8c6f-f97e8f4dc4b5" type="Adjective">
+          <Vi>thành phần; hỗn hợp; tổng hợp</Vi>
+          <En>made up of several different parts or elements; formed by combining different things.</En>
+          <Example>The composite material is stronger than either of its individual components.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d7d1a90a-e0b7-4ea0-9d90-9094b6e69d22">
+              <Vi>Mô tả vật liệu được tạo thành từ hai hay nhiều chất khác nhau.</Vi>
+              <En>Describing a material made from two or more different substances.</En>
+            </Situation>
+            <Situation id="45e43a02-0fc9-43d2-8cd4-1b7348df2d8d">
+              <Vi>Mô tả một cấu trúc hoặc hệ thống có nhiều yếu tố kết hợp.</Vi>
+              <En>Describing a structure or system composed of multiple integrated elements.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a3148a35-6a55-460d-b4d8-d0a2bf63adee" ipa="/ˈkɑːm.pə.zɪt/" vi_ipa="côm-pô-dít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="941b463d-cded-4f00-a64e-bd9e93a34c09" type="Noun">
+          <Vi>vật liệu tổng hợp; hợp chất</Vi>
+          <En>a material made from two or more different substances, combined to create a new substance with enhanced properties.</En>
+          <Example>Carbon fiber reinforced polymer is a common composite used in aerospace engineering.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d9ce049b-b369-4824-903b-cd3f1055818d">
+              <Vi>Ngành kỹ thuật vật liệu, khi nói về hợp chất như sợi carbon, thủy tinh.</Vi>
+              <En>In materials engineering, referring to substances like carbon fiber or fiberglass.</En>
+            </Situation>
+            <Situation id="e615ad85-56e8-43f5-94b4-782ed8ca532c">
+              <Vi>Trong xây dựng, khi nói về bê tông cốt thép hoặc vật liệu nhẹ.</Vi>
+              <En>In construction, referring to reinforced concrete or lightweight structural materials.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

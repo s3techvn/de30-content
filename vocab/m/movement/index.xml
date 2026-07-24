@@ -1,0 +1,65 @@
+<Vocab id="ee9cf5b1-7895-446b-a2bb-ca0eacfcd762" word="movement" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+  </Topics>
+  <Professions>
+    <Profession id="094e0547-b1eb-4b7f-922a-15e4cc5ea79a" value="Dancer" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="b4d72a21-31d9-4684-a14e-f7bce1aa10d9" value="Physical Therapist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30552b0c-8396-4293-a8e7-8b4f02f1d038" ipa="/ˈmuːv.mənt/" vi_ipa="mu-ven">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0d51f2a1-3b76-446d-b61d-9eaa07a178b9" type="Noun">
+          <Vi>Hoạt động, chuyển động (về thể chất)</Vi>
+          <En>Physical action or process of moving, especially of a part of the body or an object</En>
+          <Example>She made a quick movement to catch the falling glass.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="dc0a6b66-14b2-458c-9062-8fadda1652dd">
+              <Vi>Mô tả hành động cử động tay, chân, cơ thể trong thể thao, khiêu vũ hoặc sinh hoạt hàng ngày.</Vi>
+              <En>Describes physical motion of limbs or body in sports, dance, or daily activities.</En>
+            </Situation>
+            <Situation id="d28b1e89-9f5b-432c-b4a5-e4a8c7a34fc8">
+              <Vi>Chỉ sự thay đổi vị trí của vật thể trong không gian.</Vi>
+              <En>Refers to a change in position of an object in space.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="53553165-f7fd-4b59-804e-26aae1fa3c3a" type="Noun">
+          <Vi>Phong trào (xã hội, chính trị)</Vi>
+          <En>A group of people working together to achieve a shared social, political, or cultural goal</En>
+          <Example>The civil rights movement brought major legal changes in the 1960s.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="aa31dbc2-a1d9-4e47-ac25-a46c82400a66">
+              <Vi>Sử dụng khi nói về các phong trào đấu tranh vì quyền con người, bình đẳng giới, môi trường...</Vi>
+              <En>Used when referring to social campaigns for human rights, gender equality, environmental protection, etc.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fccfff34-3f54-4d9f-9ab8-84c4aa42e2f9" type="Noun">
+          <Vi>Sự thay đổi, biến chuyển (trong tư tưởng, nghệ thuật...)</Vi>
+          <En>A change or shift in ideas, trends, or styles, especially in art, music, or thought</En>
+          <Example>The Impressionist movement revolutionized painting in the late 19th century.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="166e7222-6610-4bc6-9504-102c0371cdda">
+              <Vi>Mô tả các xu hướng mới trong văn học, âm nhạc, hội họa, điện ảnh...</Vi>
+              <En>Describes new trends or schools in literature, music, painting, film, etc.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
