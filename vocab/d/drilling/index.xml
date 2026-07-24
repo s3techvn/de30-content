@@ -1,0 +1,56 @@
+<Vocab id="de21a348-c5dd-4162-9c5a-41cfe1e96759" word="drilling" type="short" status="done">
+  <Topics>
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+  </Topics>
+  <Professions>
+    <Profession id="40371fd9-7acd-4507-a434-66d772c00bb8" value="Driller" />
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c0f4353d-4cdf-400a-9cc3-631a23822c25" ipa="/ˈdrɪl.ɪŋ/" vi_ipa="đờ-rí-líng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d93e8f7e-6dc7-49e3-a1c2-3a23d046f31b" type="Noun">
+          <Vi>Việc khoan (quay钻头 để tạo lỗ)</Vi>
+          <En>The act or process of making a hole, especially with a drill bit</En>
+          <Example>The drilling of the foundation holes began at dawn.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="23e55dd1-1c1e-4342-b8cb-144ac86055fe">
+              <Vi>Quy trình khoan lỗ trong xây dựng hoặc khai thác dầu khí.</Vi>
+              <En>The process of creating holes in rock or soil for construction, mining, or oil extraction.</En>
+            </Situation>
+            <Situation id="471ec1f0-d9ad-4321-91e8-807caaf94af6">
+              <Vi>Học sinh luyện tập kỹ năng đọc hoặc kiến thức qua lặp đi lặp lại.</Vi>
+              <En>A repetitive practice method used in education to reinforce learning, such as spelling drills or math drills.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="97e0a399-cb8e-46af-869d-e5c54c650a15" type="Noun">
+          <Vi>Quá trình đào tạo, rèn luyện kỹ năng (thường là lặp lại)</Vi>
+          <En>A systematic and often repetitive training or practice session, especially in a military or educational context</En>
+          <Example>The soldiers spent hours on weapons drilling.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c25fa53c-afe9-419f-9877-e1ad6adc6a2b">
+              <Vi>Học sinh lớp 1 luyện viết chữ qua các bài tập viết mẫu nhiều lần.</Vi>
+              <En>Elementary students practicing handwriting by repeatedly copying letters and words.</En>
+            </Situation>
+            <Situation id="eedcbd3a-173f-4085-b61f-8c16d023d7b2">
+              <Vi>Lính mới luyện tập đội ngũ, bước đi theo hiệu lệnh.</Vi>
+              <En>New recruits practicing marching and formation drills under supervision.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
