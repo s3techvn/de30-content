@@ -1,0 +1,51 @@
+<Vocab id="12b30dba-6ef5-43b4-bf68-2adff860676d" word="tub" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e5416d25-e52b-4236-b08e-0ca27453fd19" value="Home &amp; Household" />
+  </Topics>
+  <Professions>
+    <Profession id="c347ea71-b611-4b46-88e9-c1073f470708" value="Plumber" />
+    <Profession id="3d59ad46-f8fe-40bf-b841-e03260c5ef5b" value="Housekeeper" />
+    <Profession id="2133bb38-8578-4e93-a591-e4854ac95c44" value="Bather (e.g., in childcare or eldercare)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="bfcfb5e7-4eb0-4db3-8456-3921ef9dd1f3" ipa="/tʌb/" vi_ipa="táp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bda59925-1b7d-49c5-a6c1-e9f841436f0e" type="Noun">
+          <Vi>Cái chậu, cái bồn (thường lớn, dùng để đựng nước hoặc ngâm mình)</Vi>
+          <En>A large container, typically made of metal, plastic, or ceramic, used for holding water, especially for bathing or washing.</En>
+          <Example>She filled the tub with warm water and added bath salts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="445aa876-2c7f-4d5c-9258-4d3c7fdcc2a3">
+              <Vi>Người ta đổ nước vào bồn tắm để ngâm mình thư giãn.</Vi>
+              <En>Someone fills the bathtub with water to soak and relax.</En>
+            </Situation>
+            <Situation id="2cdaa1da-6ff8-4ed1-b28b-ec2db3dbae91">
+              <Vi>Nhà bếp có một cái chậu lớn dùng để rửa rau củ.</Vi>
+              <En>The kitchen has a large tub for washing vegetables.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f69decd7-7e9f-404c-89ee-94a1ccfd39fb" type="Noun">
+          <Vi>(Hàng hải) Thùng chứa (dùng để vận chuyển chất lỏng hoặc hóa chất)</Vi>
+          <En>A large metal or plastic drum used for storing or transporting liquids or chemicals.</En>
+          <Example>The shipping container held 50 drums, or tubs, of industrial solvent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="67f94aac-cf13-4938-9b28-f55f28e92ae5">
+              <Vi>Các công nhân vận chuyển hóa chất dùng thùng kim loại 200 lít.</Vi>
+              <En>Workers transport chemicals in 200-liter metal tubs.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
