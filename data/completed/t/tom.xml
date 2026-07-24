@@ -1,0 +1,38 @@
+<Vocab id="95f8835b-1508-4da4-961b-faca68ca3156" word="tom" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="24341fca-54c5-4ca0-b90d-ac46590a78f5" value="Seafood Farmer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d22c669a-a214-4932-a515-e59a61ccf7a7" ipa="/tɑːm/" vi_ipa="tôm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b8912454-556f-4447-a6f3-47d2db34977f" type="Noun">
+          <Vi>con tôm</Vi>
+          <En>A small, swimming crustacean with a segmented body and a lateral tail fin, commonly eaten as food.</En>
+          <Example>She grilled the prawns and served them with garlic butter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc71c417-2d12-4c26-b7b0-99aa741a8bb4">
+              <Vi>Món ăn từ hải sản thường dùng trong bữa tối.</Vi>
+              <En>A seafood dish commonly served for dinner.</En>
+            </Situation>
+            <Situation id="719c792a-a469-42b8-b2e2-90b020b50002">
+              <Vi>Nơi bán tôm tươi tại chợ cá.</Vi>
+              <En>A place selling fresh shrimp at the fish market.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
