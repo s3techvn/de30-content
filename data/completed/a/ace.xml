@@ -1,0 +1,72 @@
+<Vocab id="14925a81-1c41-4f9a-964d-f42c819df0a9" word="ace" type="short" status="done">
+  <Topics>
+    <Topic id="496feb83-4d04-4480-acb3-252bb8d534fb" value="Games" />
+    <Topic id="5dd3b2af-d4bf-4be9-86e1-a74d4e24aef7" value="Aviation" />
+    <Topic id="aee50b03-35e0-4dad-aa91-8a10f2e6479a" value="Slang" />
+  </Topics>
+  <Professions>
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="8e5abce4-787f-4eb0-879c-605330351dca" value="Card Dealer" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="df124049-8053-4b2a-833c-0161ed0b5ab2" ipa="/eɪs/" vi_ipa="ê-xì">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47659ba0-98de-4017-9c38-1c2aa7645f54" type="Noun">
+          <Vi>con át (lá bài), người giỏi nhất, tay chuyên nghiệp hàng đầu</Vi>
+          <En>the highest card in a suit, especially the ace of spades; a person who is exceptionally skilled in a particular field</En>
+          <Example>He drew the ace of hearts and won the hand.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1fe84269-0a7a-4dd1-915d-cabc6ef2cbe4">
+              <Vi>Trong trò chơi bài, con át thường là lá bài mạnh nhất.</Vi>
+              <En>In card games, the ace is often the highest-ranking card.</En>
+            </Situation>
+            <Situation id="45be325d-08b5-4d24-aa6c-10ac9db90296">
+              <Vi>Người ta gọi một vận động viên là "ace" khi họ xuất sắc và không thể bị đánh bại.</Vi>
+              <En>Top athletes or players are sometimes called "aces" due to their dominance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3fe3713f-90c7-4fef-a31b-e18a23713a45" type="Verb">
+          <Vi>đạt điểm tuyệt đối, làm rất tốt, vượt trội</Vi>
+          <En>to succeed extremely well; to perform with outstanding skill</En>
+          <Example>She aced her final exam with a perfect score.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="27f2ec1b-db43-403c-830e-724d280c0e6a">
+              <Vi>Sinh viên "acing" một kỳ thi đồng nghĩa với việc họ đạt điểm cao nhất.</Vi>
+              <En>Students who "ace" an exam typically score near or at 100%.</En>
+            </Situation>
+            <Situation id="56fc11cd-2608-4a20-b686-283446946dc8">
+              <Vi>Trong môi trường làm việc, nhân viên được khen là "aced" một dự án khi hoàn thành xuất sắc.</Vi>
+              <En>In the workplace, employees who "ace" a project deliver exceptional results.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d0784878-99f5-4173-b0ba-9a49f05a9fe5" type="Adjective">
+          <Vi>giỏi nhất, tuyệt vời, hàng đầu</Vi>
+          <En>excellent; outstanding; top-tier</En>
+          <Example>That was an ace performance—truly unforgettable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6fcdf30f-d33a-4497-8ef9-4b27333d8453">
+              <Vi>Người ta dùng "ace" để khen một sản phẩm, dịch vụ hoặc kết quả xuất sắc.</Vi>
+              <En>"Ace" is used informally to praise something excellent, like an ace idea or ace work.</En>
+            </Situation>
+            <Situation id="5e6e2c66-d4ec-47cf-9091-7af3f0dc28fc">
+              <Vi>Trong hàng không, phi công ace là người có nhiều chiến công bắn rơi máy địch.</Vi>
+              <En>In aviation history, an "ace" pilot is one who has shot down five or more enemy aircraft.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
