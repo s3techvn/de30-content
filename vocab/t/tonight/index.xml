@@ -1,0 +1,32 @@
+<Vocab id="7772384e-af5a-41a4-b014-db480560d556" word="tonight" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2b9cf0c7-878e-4088-997e-b276082a47de" ipa="/təˈnɑːt/" vi_ipa="tơ-nốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40ca550d-b83b-43c6-a388-4c25b98c4ca3" type="Adverb">
+          <Vi>đêm nay</Vi>
+          <En>on or during the current night</En>
+          <Example>We’re having dinner at 8 tonight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="52b9b08d-e7ef-470f-9ce1-0bfc3b8bd355">
+              <Vi>Chỉ thời điểm vào buổi tối của ngày hiện tại.</Vi>
+              <En>Refers to the time period of the current night.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
