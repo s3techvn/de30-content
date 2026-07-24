@@ -1,0 +1,38 @@
+<Vocab id="c2f1d2d5-bc09-4050-bc01-4eb010da04f1" word="advice" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f8fc352a-1ccf-4714-ae41-449aae513143" ipa="/ədˈvaɪs/" vi_ipa="a-đây-vây-s">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cd77a5ec-587d-4608-b391-c9a578754814" type="Noun">
+          <Vi>Lời khuyên</Vi>
+          <En>Recommendation or guidance offered for future action, especially based on experience or knowledge.</En>
+          <Example>She gave me some valuable advice about preparing for the interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b35d1c7d-4bdd-49ed-b989-55ad0f745bba">
+              <Vi>Một người bạn hoặc chuyên gia đưa ra gợi ý để giúp bạn đưa ra quyết định tốt hơn.</Vi>
+              <En>A friend or expert offers suggestions to help you make a better decision.</En>
+            </Situation>
+            <Situation id="88e13e1a-c350-472b-a66e-60292bacb409">
+              <Vi>Người dùng tìm kiếm lời khuyên trước khi thực hiện thay đổi lớn trong cuộc sống.</Vi>
+              <En>The user seeks advice before making a major life change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

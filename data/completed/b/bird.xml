@@ -1,0 +1,52 @@
+<Vocab id="78219561-9e16-4550-8e52-13126b761cc6" word="bird" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="a4b8cabd-6ee3-48e1-966c-59e7b1785584" value="Ornithologist" />
+    <Profession id="26b29674-4a5d-42f8-9c0b-f82116c2cf89" value="Birdwatcher" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="39e7f61d-39e0-4756-970b-c82d103e9052" ipa="/bɜːrd/" vi_ipa="bờ-đao">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="48f0788e-aa34-4846-a62b-82407cd55470" type="Noun">
+          <Vi>chim (động vật có lông, đẻ trứng, biết bay hoặc không)</Vi>
+          <En>a warm-blooded egg-laying vertebrate characterized by feathers, wing, a beak, and typically able to fly</En>
+          <Example>Many species of birds migrate south for the winter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b73efeb5-63bc-409d-bb6d-495d8b7ee089">
+              <Vi>Mô tả các loài chim trong tự nhiên, như chim sẻ, chim sẻ rừng, chim cánh cụt.</Vi>
+              <En>Describing birds in nature, such as sparrows, woodpeckers, or penguins.</En>
+            </Situation>
+            <Situation id="cee72952-7329-45bb-900f-c98ba9ffae34">
+              <Vi>Trong ẩm thực: thịt chim (như gà, vịt, ngan) dùng làm món ăn.</Vi>
+              <En>In cooking: poultry meat (e.g., chicken, duck, goose) used as food.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3446b38f-a5f2-4071-89af-423134dcce50" type="Noun">
+          <Vi>người đàn ông trẻ, thường mang tính tiêu cực (lóng)</Vi>
+          <En>a young man, often used disparagingly or informally</En>
+          <Example>He’s just a young bird trying to make his way in the city.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8865bd8-7ad6-4cbc-b068-df9c0c3eb22b">
+              <Vi>Ngôn ngữ thân mật, thường trong văn nói, để chỉ một người đàn ông trẻ tuổi.</Vi>
+              <En>Informal, spoken usage to refer to a young man.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
