@@ -1,0 +1,40 @@
+<Vocab id="45604334-f134-47dc-a948-c1de65a92647" word="poultry" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="23d10efb-1d5f-44d7-af93-64353b0d719b" value="Food Inspector" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b109f929-6f6f-4299-abb2-c7d2906b51a4" ipa="/ˈpoʊl.tri/" vi_ipa="pô-lơ-tơ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e5487e09-e50a-404f-8318-5be0813156ca" type="Noun">
+          <Vi>Gia cầm (như gà, vịt, ngan, ngỗng, chim cút, chim bồ câu), đặc biệt khi được nuôi để lấy thịt hoặc trứng.</Vi>
+          <En>Birds such as chickens, ducks, geese, and turkeys, especially when raised for meat or eggs.</En>
+          <Example>She runs a small farm that raises free-range poultry for local markets.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="460b39c5-2973-405d-b76a-3f599513eeaa">
+              <Vi>Nhà nông chăm sóc đàn gà và vịt trong trang trại gia cầm.</Vi>
+              <En>A farmer feeds and tends to chickens and ducks on a poultry farm.</En>
+            </Situation>
+            <Situation id="698abe55-be6a-457f-aac9-ca1d2b2d4ae0">
+              <Vi>Nhà hàng phục vụ món gà nướng và vịt quay từ gia cầm nội địa.</Vi>
+              <En>The restaurant serves roasted chicken and duck made from locally raised poultry.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
