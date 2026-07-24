@@ -1,0 +1,36 @@
+<Vocab id="e8f24c9e-361d-42c9-8d78-6bad6e760411" word="facial" type="short" status="done">
+  <Topics>
+    <Topic id="95baef13-afc4-4b4b-8754-554cc39b0837" value="Beauty &amp; Health" />
+    <Topic id="c4c7256d-6242-4bf0-b0ef-8de5ad33aeb9" value="Anatomy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="dafab162-5209-4c57-8900-15da1a4c52b5" value="Esthetician" />
+    <Profession id="1b98c908-16a8-4da8-8da5-cd882e337c43" value="Dentist" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="006bf3dc-99ae-47cd-bd5d-6c093aefe62e" ipa="/ˈfeɪ.ʃəl/" vi_ipa="phây-sờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f0a691a4-e6ec-4b6d-b862-428943aa6efe" type="Adjective">
+          <Vi>thuộc mặt, liên quan đến khuôn mặt</Vi>
+          <En>relating to the face</En>
+          <Example>She applied a moisturizing facial mask to hydrate her skin.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="64858149-61c3-4e43-9236-a2224c871e4a">
+              <Vi>Mô tả các đặc điểm, sản phẩm, hoặc thủ thuật liên quan trực tiếp đến khuôn mặt.</Vi>
+              <En>Used to describe features, products, or procedures specifically targeting the face.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

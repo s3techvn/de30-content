@@ -1,0 +1,37 @@
+<Vocab id="a36e7535-7f4b-4f16-bf46-1b8174806839" word="confused" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cd3563e0-c17b-474c-9ca4-bef291a037ef" ipa="/kənˈfjuːzd/" vi_ipa="cơn-fju-dz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e8c0face-40a4-48af-8cbb-55d3d9afffe1" type="Adjective">
+          <Vi>bối rối, hoang mang</Vi>
+          <En>Unable to think clearly or understand something; perplexed.</En>
+          <Example>I was completely confused by the instructions on the exam.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5fd16b8b-df41-4841-9cc3-1ba6a65df04e">
+              <Vi>Khi người học gặp khó khăn trong việc hiểu một hướng dẫn hoặc tình huống mới.</Vi>
+              <En>When someone struggles to understand new instructions or unfamiliar situations.</En>
+            </Situation>
+            <Situation id="14ad12b7-d7d0-41e9-b372-e4094fc80f71">
+              <Vi>Khi thông tin mâu thuẫn hoặc quá phức tạp khiến người ta không biết phải làm gì.</Vi>
+              <En>When contradictory or overly complex information leaves someone unsure of what to do.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
