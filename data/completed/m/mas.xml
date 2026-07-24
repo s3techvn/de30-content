@@ -1,0 +1,32 @@
+<Vocab id="ba91089c-39b8-4333-80f1-05cdfe516021" word="mas" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="cad414e3-13d0-4e32-9bc9-a35d00860951" ipa="/mæs/" vi_ipa="mết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4719fb55-0d53-4898-92cd-e3831906847d" type="Noun">
+          <Vi>khối, đống (thường dùng trong văn nói, đặc biệt ở miền Nam Việt Nam)</Vi>
+          <En>a large, indistinct mass or pile (used colloquially, especially in Southern Vietnamese English-influenced speech)</En>
+          <Example>He bought a mas of durian at the market.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fb9d025a-2822-4d1d-863c-659567f215cb">
+              <Vi>Dùng để chỉ một lượng lớn đồ không được đong đếm kỹ, thường trong ngữ cảnh mua bán hàng hóa.</Vi>
+              <En>Used to refer to a large, unmeasured quantity of goods, especially in informal market transactions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

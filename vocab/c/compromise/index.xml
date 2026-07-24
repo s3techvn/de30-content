@@ -1,0 +1,70 @@
+<Vocab id="9903d8e6-e8e7-4bca-9fe5-cb476a4e3ac9" word="compromise" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="845058ea-b08e-4ff3-a525-f1443f822d2a" value="Diplomacy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b9881a80-f502-49ad-aa0c-0c3e6b949835" value="Negotiator" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="409e4435-eca7-4d92-aba3-3a102a9ca5c4" ipa="/ˈkɑːm.prə.maɪz/" vi_ipa="côm-prô-mai-dz">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="612169b5-0837-4b03-974f-ffacf58b560f" type="Verb">
+          <Vi>đạt được sự thỏa hiệp; nhượng bộ để đạt được giải pháp chung</Vi>
+          <En>to reach an agreement by mutual concession; to make concessions to resolve a dispute</En>
+          <Example>We compromised on the meeting time by agreeing to meet at 3:30 instead of 3:00 or 4:00.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8c90c00c-bda3-4a53-a106-f9c22cc0f93d">
+              <Vi>Hai bên tranh cãi về thời gian làm việc và cuối cùng đồng ý một khung giờ trung gian.</Vi>
+              <En>Two parties disagree on working hours and ultimately agree on a middle-ground time slot.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1a0925ec-524f-4847-82a2-f9a67c0faa45" type="Noun">
+          <Vi>sự thỏa hiệp; thỏa thuận đạt được sau khi nhượng bộ lẫn nhau</Vi>
+          <En>a settlement of differences in which each side makes concessions</En>
+          <Example>The labor union and management reached a compromise on wages and working conditions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6533ffa3-8233-4a4d-b73e-a07c9d1e6460">
+              <Vi>Sau nhiều ngày đàm phán căng thẳng, hai bên đưa ra một thỏa thuận thỏa hiệp.</Vi>
+              <En>After days of tense negotiations, both sides presented a mutually acceptable compromise.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5ea39895-894e-4ff1-b7a5-3322879eb01b" ipa="/ˈkɑːm.prə.mɪs/" vi_ipa="côm-prô-mít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0b83a382-f21d-4fa1-8e43-5d58d2767441" type="Noun">
+          <Vi>sự đánh đổi; sự hy sinh (đặc biệt về đạo đức hoặc nguyên tắc)</Vi>
+          <En>a reduction in the quality, value, or degree of something; often implies a weakening of principles or standards</En>
+          <Example>There can be no compromise on safety standards in nuclear power plants.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d0a2b236-7979-49d4-8329-161e5ea6a2c2">
+              <Vi>Người ta nhấn mạnh rằng không thể chấp nhận thỏa hiệp về chất lượng sản phẩm y tế.</Vi>
+              <En>It is emphasized that quality standards for medical products cannot be compromised.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
