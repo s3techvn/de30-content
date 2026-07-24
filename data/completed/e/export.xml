@@ -1,0 +1,66 @@
+<Vocab id="76b991fa-92d2-4f6f-95a2-86ab5ef7cf32" word="export" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10292ee1-14de-4791-8416-484346cffea1" value="Trade" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="e6838278-c29a-4d1b-ac58-b5ae0d371b2f" value="International Trader" />
+    <Profession id="6ffa4364-35fb-419f-8099-61ecc2b47c6d" value="Logistics Manager" />
+    <Profession id="823d7b44-09a2-439a-81a9-07583e9e3785" value="Commodity Broker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3c403baf-0d86-49e2-ada7-6e783a26d9ee" ipa="/ˈek.spɔːrt/" vi_ipa="éc-pợt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cbd4ea1e-4714-4f40-ade6-df5a3d50d506" type="Verb">
+          <Vi>xuất khẩu</Vi>
+          <En>to send goods or services to another country for sale or use</En>
+          <Example>The company plans to export its electronics to Vietnam next quarter.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="29511b0b-e196-4969-9315-61926b939826">
+              <Vi>Doanh nghiệp bán sản phẩm sang nước ngoài.</Vi>
+              <En>A business sells its products to a foreign market.</En>
+            </Situation>
+            <Situation id="1541c247-72a3-4bda-b71a-d6ee0cf8a332">
+              <Vi>Chính phủ hạn chế xuất khẩu một số mặt hàng chiến lược.</Vi>
+              <En>The government restricts the export of certain strategic goods.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="3cd921c0-9599-49dd-a028-611ba4f52500" ipa="/ɪkˈspɔːrt/" vi_ipa="ích-pợt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="94c84c97-4ae7-4355-9082-2927ad79a757" type="Verb">
+          <Vi>đưa ra, tiết lộ (thông tin, bí mật)</Vi>
+          <En>to reveal or make known (information, secrets), especially unintentionally or inappropriately</En>
+          <Example>The hacker managed to export sensitive data from the secure server.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bfcd464-6b00-4b82-b140-00132e1c1255">
+              <Vi>Người trong cuộc vô tình tiết lộ bí mật công ty.</Vi>
+              <En>An insider accidentally revealed company secrets.</En>
+            </Situation>
+            <Situation id="f4d72c0d-77d0-43b6-a778-f3de83806d4c">
+              <Vi>Phần mềm gián điệp có thể xuất (export) dữ liệu người dùng ra ngoài.</Vi>
+              <En>Spyware can export user data externally without consent.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
