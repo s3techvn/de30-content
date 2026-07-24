@@ -1,0 +1,50 @@
+<Vocab id="2eca1afa-9a01-443c-bca4-d1dff3de5df8" word="drawing" type="short" status="done">
+  <Topics>
+    <Topic id="0ade7d66-c6a5-420b-ae41-006fd5695785" value="Art &amp; Creativity" />
+  </Topics>
+  <Professions>
+    <Profession id="23bb0a55-79b3-4b87-b6c3-cff95c14d2dd" value="Artist" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="dbf5dc46-7aa9-4ec1-922d-af2d1a0f4811" value="Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f0e45891-0211-4c26-bb88-c1294b8994c2" ipa="/ˈdrɔː.ɪŋ/" vi_ipa="đờ-rờ-ning">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ce3308f7-dc1f-4656-9c05-f51779171176" type="Noun">
+          <Vi>Hình vẽ; bản vẽ; quá trình vẽ</Vi>
+          <En>A picture made with pencils, pens, or other drawing tools; the act or art of creating such a picture.</En>
+          <Example>She entered her latest drawing in the school art competition.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6174ab9d-a031-4440-98ff-2e6b366c2f48">
+              <Vi>Học sinh trưng bày tranh vẽ của mình trong triển lãm lớp.</Vi>
+              <En>A student displays their drawing in a classroom exhibition.</En>
+            </Situation>
+            <Situation id="c31f6b0d-3a48-4370-a4fe-fb3ecefbedb9">
+              <Vi>Kỹ sư xây dựng kiểm tra bản vẽ thiết kế trước khi thi công.</Vi>
+              <En>An engineer reviews the architectural drawing before construction begins.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3c463c94-327c-4877-aa4f-3a68fae28844" type="Noun">
+          <Vi>Trận đấu loại (trong thể thao); vòng loại</Vi>
+          <En>A preliminary match or contest to determine who advances to the next round in a tournament.</En>
+          <Example>The team lost in the first-round drawing and was eliminated.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a210198d-0e33-400a-8e84-8db976dc8d2a">
+              <Vi>Hội thao trường tổ chức vòng loại bốc thăm để phân cặp thi đấu.</Vi>
+              <En>The school sports day held a drawing of lots to pair teams for the preliminary matches.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
