@@ -1,0 +1,50 @@
+<Vocab id="efc690cd-d92b-48d6-80e4-1240286fb71e" word="conservation" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+    <Profession id="552f237b-f6bf-4508-a6b8-a5d9b51ef3a2" value="Wildlife Biologist" />
+    <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" value="Museum Curator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="35f6d95c-da7a-4072-a71e-9e086e6f9aa2" ipa="/ˌkɒn.səˈveɪ.ʃən/" vi_ipa="cơn-sờ-vê-i-chn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd713e6c-b443-4707-8ed9-34613a70bc73" type="Noun">
+          <Vi>Sự bảo tồn</Vi>
+          <En>The protection and preservation of natural resources, ecosystems, or cultural heritage to prevent exploitation, destruction, or decay.</En>
+          <Example>Conservation efforts have helped increase the population of endangered species like the giant panda.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f643c404-b3cf-49a3-93db-2a1fc97d68ad">
+              <Vi>Hoạt động bảo vệ rừng, động thực vật hoang dã và hệ sinh thái.</Vi>
+              <En>Activities aimed at protecting forests, wildlife, and ecosystems from human impact.</En>
+            </Situation>
+            <Situation id="4911ae54-3fcf-44e9-9ed6-756164981550">
+              <Vi>Chính sách nhằm giảm tiêu thụ năng lượng và khai thác tài nguyên bền vững.</Vi>
+              <En>Policies designed to reduce energy consumption and promote sustainable resource use.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="48afb048-6554-439d-91b4-8e0d0e87f3f9" type="Noun">
+          <Vi>Sự bảo quản (đối với hiện vật, tác phẩm nghệ thuật)</Vi>
+          <En>The preservation of artifacts, artworks, or historical objects to maintain their integrity and historical value.</En>
+          <Example>The museum’s conservation team uses specialized techniques to restore damaged paintings.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7aa1a87-d0c7-4702-a852-183e1f4be7b5">
+              <Vi>Công việc bảo quản tranh cổ, di tích khảo cổ trong bảo tàng.</Vi>
+              <En>The work of preserving ancient paintings and archaeological artifacts in museums.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
