@@ -1,0 +1,52 @@
+<Vocab id="d5aa3afe-61ee-40a5-8c95-fba7f4f2320c" word="worthy" type="short" status="done">
+  <Topics>
+    <Topic id="e90240c6-0a3e-40ce-ab19-61023ad4a463" value="Values &amp; Ethics" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+    <Topic id="3cf971d9-1243-4a91-89dc-856ccc578e1b" value="Business &amp; Finance" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="47fac884-af28-475f-bcb8-f79de18b1998" value="Human Resources Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e85e84d9-b949-443d-bc83-daa66071d1aa" ipa="/ˈwɜːr.ði/" vi_ipa="wooc-đơ-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ceef68be-0184-4db9-8e40-c6d4d1bc6675" type="Adjective">
+          <Vi>đáng giá; xứng đáng; có giá trị</Vi>
+          <En>having worth, merit, or value; deserving respect, attention, or consideration</En>
+          <Example>She is a worthy opponent in any debate.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a602f9d-055c-43f2-8584-db6a60bedcbd">
+              <Vi>Mô tả một người hoặc điều gì có phẩm chất tốt, đáng được tôn trọng hoặc đầu tư.</Vi>
+              <En>Describing a person or thing that possesses admirable qualities and deserves recognition or investment.</En>
+            </Situation>
+            <Situation id="8b09cc9e-201b-4c24-bb41-17e546fa818a">
+              <Vi>Dùng trong ngữ cảnh đánh giá mức độ xứng đáng của một đề xuất, dự án, hoặc cá nhân.</Vi>
+              <En>Used when evaluating the merit or value of a proposal, project, or individual.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="71f26a5e-ca21-4cc4-a82d-b61925460cf9" type="Adjective">
+          <Vi>đáng để (làm gì); đáng để (được nhận)</Vi>
+          <En>deserving of a particular action, treatment, or outcome</En>
+          <Example>The evidence was worthy of further investigation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3761c2a4-1f3c-43ef-8e24-f99a5d4d4106">
+              <Vi>Dùng để nhấn mạnh rằng điều gì đó đáng để được hành động hoặc xem xét kỹ hơn.</Vi>
+              <En>Used to emphasize that something merits action, attention, or further examination.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
