@@ -1,0 +1,52 @@
+<Vocab id="b9092fe3-bc92-47f6-a0b6-3e1d6b9aa5b8" word="spec" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="1e91ec6d-5ac6-4fcb-ab1b-6ffe69cf23db" value="Product Manager" />
+    <Profession id="dc0b06c3-57b6-4815-982a-ee2023bc24da" value="Mechanical Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ffe2b1f8-e53a-4812-a999-492db9b7e754" ipa="/spɛk/" vi_ipa="s-p-e-c">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="700dca52-2f09-4769-ac40-53f69f03fdad" type="Noun">
+          <Vi>Thông số kỹ thuật; đặc tả kỹ thuật; bản mô tả yêu cầu</Vi>
+          <En>A detailed description of the requirements, design, or functionality of a product, system, or component, often used in engineering and software development.</En>
+          <Example>The software team reviewed the spec before writing the first line of code.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="feb83a51-8bd8-4f81-bae1-142075bf6d7e">
+              <Vi>Đọc và phân tích bản đặc tả kỹ thuật để phát triển phần mềm.</Vi>
+              <En>Reading and analyzing a technical specification to develop software.</En>
+            </Situation>
+            <Situation id="ac96b938-78c2-4cc3-b31e-4d676a3a53a6">
+              <Vi>Soạn thảo spec để trình bày yêu cầu với nhà cung cấp.</Vi>
+              <En>Writing a spec to present requirements to a vendor.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ac80b603-3865-427c-a3d8-a707fb528260" type="Noun">
+          <Vi>Đặc điểm nổi bật; điểm nổi bật (trong quảng cáo, giới thiệu sản phẩm)</Vi>
+          <En>A distinguishing feature or prominent characteristic, especially in marketing or product descriptions.</En>
+          <Example>The phone’s standout spec is its 108-megapixel camera.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b90467f3-a644-4622-81a6-8ef42ab77578">
+              <Vi>So sánh các spec của điện thoại để chọn mua.</Vi>
+              <En>Comparing phone specs to decide which one to buy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

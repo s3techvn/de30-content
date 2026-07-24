@@ -1,0 +1,52 @@
+<Vocab id="37169d0f-1013-4684-8cbf-fda729072bf1" word="amend" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="8bddaac3-70cd-427f-95db-d62040e7a310" value="Legislator" />
+    <Profession id="c28d448f-7dfa-45fa-a51d-ad224b7712c4" value="Contract Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2d68a7d8-950f-43db-98c9-3f41ce45a4f2" ipa="/əˈmɛnd/" vi_ipa="ơ-ménd">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74078ebb-c4fd-47ed-8035-1886b1484df8" type="Verb">
+          <Vi>sửa đổi, bổ sung (đặc biệt là văn bản pháp lý hoặc chính thức)</Vi>
+          <En>to make changes to (a law, document, or speech), typically to improve or correct it</En>
+          <Example>The committee voted to amend the bill before its final passage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6fe96d0-9780-4ba3-b6db-7f6806bd9af6">
+              <Vi>Đoàn đại biểu đề xuất sửa đổi một điều khoản trong dự luật.</Vi>
+              <En>A delegation proposes revising a clause in a draft bill.</En>
+            </Situation>
+            <Situation id="0a4a89b4-ae19-4f57-9701-6a91a746232a">
+              <Vi>Công ty bổ sung điều khoản mới vào hợp đồng trước khi ký.</Vi>
+              <En>The company adds a new clause to the contract before signing.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e29fe29d-8363-490d-92d7-cd3610fbf44b" type="Verb">
+          <Vi>chuẩn bị, sửa chữa (hành vi, lời nói) để làm cho tốt hơn hoặc phù hợp hơn</Vi>
+          <En>to improve or correct one's behavior, speech, or actions, especially through self-reflection</En>
+          <Example>He stood up and amended his earlier statement after realizing the error.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="884669d2-b541-474d-9a1d-e54f1dcc2eb1">
+              <Vi>Sau khi nhận ra sai lầm, cô ấy đã rút lại phát biểu và đưa ra phiên bản đã sửa.</Vi>
+              <En>After realizing the mistake, she retracted her statement and issued a corrected version.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
