@@ -1,0 +1,52 @@
+<Vocab id="da4f5932-0152-4af1-af3d-315b82fa2130" word="canon" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="72750e7d-6750-4b6f-9d01-f8ebf04dfc80" value="Literature" />
+    <Topic id="dcee83b0-7319-4ce3-bb65-f58bd4ef64c6" value="Art" />
+  </Topics>
+  <Professions>
+    <Profession id="c8c74904-1813-46ed-9195-00f2729a409a" value="Theologian" />
+    <Profession id="3f6f09a7-cac4-4662-a0df-86241288f017" value="Literary Critic" />
+    <Profession id="4e6b9a91-5492-4733-accf-3aa0c8225571" value="Art Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ffa67849-7dba-45ec-b85e-befd35e0cd2c" ipa="/ˈkæn.ən/" vi_ipa="can-nơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40b1e71e-b4f3-4efe-be07-f02ab68254eb" type="Noun">
+          <Vi>Chính thống; chuẩn mực; kinh điển</Vi>
+          <En>A body of rules or principles by which something is judged; in religion, the officially accepted list of books of the Bible.</En>
+          <Example>The canon of English literature includes works by Shakespeare, Dickens, and Austen.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a3894a43-ed67-4234-8e17-c01c280bcf68">
+              <Vi>Trong học thuật, danh sách các tác phẩm được coi là tiêu biểu và đáng tin cậy nhất trong một thể loại.</Vi>
+              <En>In academia, the list of works considered the most representative and authoritative in a genre.</En>
+            </Situation>
+            <Situation id="659c892b-aac7-409e-ba68-eb33b78d353b">
+              <Vi>Trong Kitô giáo, danh sách các sách Kinh Thánh được công nhận là thiêng liêng và hợp lệ.</Vi>
+              <En>In Christianity, the officially accepted list of sacred books of the Bible.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="01e08b78-1fd0-4308-918b-7357342fc9ef" type="Noun">
+          <Vi>Giáo sĩ chính thức (trong Giáo hội Công giáo hoặc Anh giáo)</Vi>
+          <En>A member of the chapter of a cathedral or collegiate church, especially in the Anglican or Catholic Church.</En>
+          <Example>The canon resided in a historic house near the cathedral and participated in daily services.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2ea4e9f4-cc2a-400c-9394-d99315877b05">
+              <Vi>Một linh mục có chức vụ cao trong giáo phận, thường sống gần nhà thờ chính tòa.</Vi>
+              <En>A senior clergy member, often living near the cathedral, who holds a formal position in the church hierarchy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

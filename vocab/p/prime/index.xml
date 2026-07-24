@@ -1,0 +1,40 @@
+<Vocab id="f8840f29-a3d4-4fa6-af5a-385d7d2d0973" word="prime" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="32dc66dc-50bf-4f50-a7f2-4a58117956d8" ipa="/praɪm/" vi_ipa="prai-m">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="212db107-4f3f-4b69-ba0e-bbb9b7fc20d8" type="Adjective">
+          <Vi>nguyên tố; hàng đầu, tốt nhất</Vi>
+          <En>1. (mathematics) having no positive divisors other than 1 and itself; 2. being the best or most important of its kind</En>
+          <Example>7 is a prime number; She is the prime candidate for the job.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ebeabe3-830e-4f15-a874-a533ce1d5323">
+              <Vi>Trong toán học, số chỉ chia hết cho 1 và chính nó.</Vi>
+              <En>In mathematics, a number greater than 1 that has no positive divisors other than 1 and itself.</En>
+            </Situation>
+            <Situation id="c528a8b5-8705-49ac-bedf-ab77b8151786">
+              <Vi>Dùng để chỉ người hoặc thứ nổi bật, quan trọng nhất trong một nhóm.</Vi>
+              <En>Used to describe the most important, prominent, or best person or thing in a group or context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
