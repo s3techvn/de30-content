@@ -1,0 +1,66 @@
+<Vocab id="f63cba40-c7a7-42e0-9977-bea69c5a8597" word="intermediate" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="389cb3ca-0f39-40bb-bc10-f626de50e7ab" ipa="/ˈɪn.tər.mi.di.ət/" vi_ipa="in-tơ-mi-đi-át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0ccc6d9e-e29e-497d-8029-9ec05ec7fd36" type="Adjective">
+          <Vi>trung gian; trung cấp</Vi>
+          <En>being in the middle of a process, sequence, or level; not basic or advanced</En>
+          <Example>The course is designed for intermediate learners who already know basic grammar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0bddb273-eb21-4e68-9f13-7128bdffe72c">
+              <Vi>Mô tả trình độ học tập hoặc kỹ năng ở mức độ trung bình, không còn mới bắt đầu nhưng chưa đạt trình độ cao.</Vi>
+              <En>Describing a learning level or skill that is neither beginner nor advanced.</En>
+            </Situation>
+            <Situation id="5094da8e-2c6c-475e-9088-dda376f06434">
+              <Vi>Dùng để chỉ thiết bị, phần mềm, hoặc quy trình ở giai đoạn phát triển chưa hoàn chỉnh nhưng đã qua giai đoạn ban đầu.</Vi>
+              <En>Referring to a device, software, or process that is in a developmental stage between initial and final versions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="5cea9fe1-705e-40ce-8b35-3eb02e2f1a7f" ipa="/ˈɪn.tər.mi.di.ət/" vi_ipa="in-tơ-mi-đi-át">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="72465288-1d40-400e-9322-cab87008a581" type="Noun">
+          <Vi>người ở trình độ trung cấp; chất trung gian</Vi>
+          <En>a person with intermediate knowledge or skills; a substance or compound formed during a chemical reaction but not present in the starting or final materials</En>
+          <Example>She enrolled in an intermediate Spanish class to improve her conversational skills.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db4cfbf1-990e-4774-9376-cedd9ae5efa4">
+              <Vi>Dùng để chỉ học viên hoặc người học đang ở giai đoạn trung cấp của một môn học hoặc kỹ năng.</Vi>
+              <En>Referring to a learner who has moved beyond beginner level but has not yet reached advanced proficiency.</En>
+            </Situation>
+            <Situation id="cc1f99fd-5315-4749-9e51-b1de16b0b53f">
+              <Vi>Trong hóa học, chỉ hợp chất được tạo ra trong một phản ứng nhưng không tồn tại lâu dài.</Vi>
+              <En>In chemistry, a transient compound formed during a reaction but not present in the final product.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

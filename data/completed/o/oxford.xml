@@ -1,0 +1,39 @@
+<Vocab id="47dc4564-167f-42af-8105-ee891c3b390d" word="oxford" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3394f88c-ca13-498b-bd15-c4224fc419ec" ipa="/ˈɒks.fəd/" vi_ipa="ốc-xợ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9a7ef6c6-cb58-4668-bf57-66aeea869648" type="Noun">
+          <Vi>trường đại học Oxford (Anh); áo sơ mi cổ cứng, cổ bẻ (thường có cúc ở cổ)</Vi>
+          <En>1. a prestigious university in Oxford, England; 2. a type of shirt with a button-down collar</En>
+          <Example>The University of Oxford is one of the oldest universities in the world.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4172271f-7957-4940-8d30-5f35ad93b6f7">
+              <Vi>Người học thuật hoặc du khách tham quan một trong những trường đại học lâu đời nhất thế giới.</Vi>
+              <En>A scholar or tourist visiting one of the world’s oldest universities.</En>
+            </Situation>
+            <Situation id="1ff58e1d-3ebd-419c-9fc0-3533f8f8a68c">
+              <Vi>Nhân viên văn phòng hoặc học sinh mặc áo sơ mi cổ bẻ kín đáo, thường dùng trong môi trường học thuật hoặc công sở.</Vi>
+              <En>An office worker or student wearing a neatly buttoned collar shirt, common in academic or professional settings.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
