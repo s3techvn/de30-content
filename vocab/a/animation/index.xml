@@ -1,0 +1,57 @@
+<Vocab id="478e4522-6f39-4b6f-833d-e2c2056ab4b7" word="animation" type="short" status="done">
+  <Topics>
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="c2374e19-82bf-4429-9c60-f2238589184a" value="Graphic Designer" />
+    <Profession id="eff106f2-05f8-4f4d-b93b-cbe3b02d8b3a" value="Game Developer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="65149e82-0093-4536-bc06-6208733876b8" value="Educator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8c957627-0746-4cc4-9415-3264c760513a" ipa="/ˌæn.ɪˈmeɪ.ʃən/" vi_ipa="an-i-mê-i-shơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9f239146-a112-4360-a11c-b1c09a016191" type="Noun">
+          <Vi>Sự hoạt hình; hình ảnh chuyển động</Vi>
+          <En>The process of making moving images by photographing a series of drawings, models, or other objects with slight changes in position between each frame.</En>
+          <Example>The animation in the film was so realistic that audiences forgot it was entirely computer-generated.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bd527d0c-7aed-49f2-b19e-b791df906163">
+              <Vi>Mô tả quy trình tạo phim hoạt hình truyền thống hoặc kỹ thuật số.</Vi>
+              <En>Describing the production of animated films, whether traditional hand-drawn or digital 3D.</En>
+            </Situation>
+            <Situation id="45d14810-88f7-4de7-a81c-e8a8e9c6b72e">
+              <Vi>Chỉ tính năng chuyển động trong giao diện người dùng (UI/UX).</Vi>
+              <En>Referring to motion effects in user interface design to enhance user experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1d9ad7ad-34fe-47b4-9035-0a333863cb86" type="Noun">
+          <Vi>Sự sống động; sự náo nhiệt; sự hăng hái</Vi>
+          <En>The quality of being full of life, energy, or enthusiasm; liveliness.</En>
+          <Example>Her presentation brought animation to the otherwise dry topic of tax law.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="306d5fb7-8ce3-4494-83cf-1f75c006bc10">
+              <Vi>Mô tả sự nhiệt tình, hăng hái trong giao tiếp hoặc biểu cảm.</Vi>
+              <En>Used to describe someone’s expressive facial features or energetic tone of voice.</En>
+            </Situation>
+            <Situation id="4092c7d2-7f10-4ee8-bc8c-8256ba64e25d">
+              <Vi>Chỉ không khí sôi động, náo nhiệt tại một sự kiện.</Vi>
+              <En>Describing a vibrant, lively atmosphere at a party, meeting, or public gathering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
