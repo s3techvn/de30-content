@@ -2292,3 +2292,4 @@ embassy
 destination
 room
 rome
+alcohol
