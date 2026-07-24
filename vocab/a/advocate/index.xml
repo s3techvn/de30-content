@@ -1,0 +1,66 @@
+<Vocab id="00a9889d-832d-4b5d-9402-06c852fdc9ac" word="advocate" type="short" status="done">
+  <Topics>
+    <Topic id="f51f02db-eb81-4bc8-82f0-3001118b4def" value="Law &amp; Politics" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="fbe0905a-3244-43a8-b4f5-0debf3cfb215" value="Activist" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="01a0e946-ff7e-4fe3-89ad-b7286949823a" ipa="/ˈæd.və.keɪt/" vi_ipa="át-vơ-kê-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="08e40e95-7500-4cbf-919e-9c40a515428a" type="Noun">
+          <Vi>người bảo vệ, người ủng hộ, luật sư (người hành nghề luật và đại diện cho khách hàng)</Vi>
+          <En>A person who publicly supports or recommends a particular cause, policy, or person; in legal contexts, a lawyer who represents clients in court.</En>
+          <Example>She is a passionate advocate for climate action and speaks at international forums.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5505a562-d7e2-4fab-9175-0dd85032a523">
+              <Vi>Một cá nhân tích cực đấu tranh cho quyền lợi của một nhóm yếu thế hoặc một vấn đề xã hội.</Vi>
+              <En>A person actively campaigning for the rights of a marginalized group or a social issue.</En>
+            </Situation>
+            <Situation id="38db08c5-dafd-42ba-9d63-b7ea3a369d2e">
+              <Vi>Trong hệ thống pháp luật Anh, một luật sư chuyên bào chữa hoặc đại diện cho khách hàng tại tòa án.</Vi>
+              <En>In the English legal system, a lawyer who represents clients in court and provides legal advice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="fef0c6ae-2977-49f2-80f6-1a4b13913ce7" ipa="/ˈæd.və.keɪt/" vi_ipa="át-vơ-kê-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="91df220f-9e35-4fc8-8c3e-03b9c5203721" type="Verb">
+          <Vi>bảo vệ, ủng hộ, đề xuất (một ý tưởng, chính sách, v.v.) một cách mạnh mẽ và công khai</Vi>
+          <En>To publicly support or recommend a particular cause, policy, or idea, especially through active effort or argument.</En>
+          <Example>The organization advocates for better access to mental health services in rural areas.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="414a0713-60cb-4ed3-9362-8f2492de837e">
+              <Vi>Hành động vận động, thuyết phục chính quyền hoặc công chúng về một vấn đề quan trọng.</Vi>
+              <En>The act of lobbying or persuading authorities or the public about an important issue.</En>
+            </Situation>
+            <Situation id="1af70444-3fd0-41c9-883f-af33c2d56a57">
+              <Vi>Trong môi trường học thuật hoặc chuyên môn, việc đưa ra lập trường rõ ràng ủng hộ một lý thuyết hoặc phương pháp.</Vi>
+              <En>In academic or professional settings, taking a clear stance in support of a theory or methodology.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
