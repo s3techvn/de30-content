@@ -1,0 +1,76 @@
+<Vocab id="86bb3cbc-c29f-4ae1-9c9d-898ca9b41e0c" word="minute" type="short" status="done">
+  <Topics>
+    <Topic id="655b442d-e3c1-4230-b749-fdc04a815fc5" value="Time" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e29e7880-69ca-49af-8db4-96a098aae70c" ipa="/ˈmɪn.ɪt/" vi_ipa="mí-nít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d29ceafb-91f6-461f-ab82-806fe707a68d" type="Adjective">
+          <Vi>nhỏ bé, vi mô, cực kỳ nhỏ</Vi>
+          <En>extremely small in size, amount, or duration; microscopic.</En>
+          <Example>The scientist observed a minute speck of dust under the microscope.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e16dc5c-7aee-4bc5-9fcf-8bebaf166059">
+              <Vi>Mô tả vật thể có kích thước rất nhỏ, gần như không nhìn thấy bằng mắt thường.</Vi>
+              <En>Describing something so small it is barely visible to the naked eye.</En>
+            </Situation>
+            <Situation id="44b789e7-f7fe-402e-8209-eef68ad53703">
+              <Vi>Dùng trong khoa học để chỉ các cấu trúc vi sinh hoặc nguyên tử.</Vi>
+              <En>Used in science to refer to microscopic or atomic-scale structures.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="e32f06d2-4cf1-4dc4-8761-7ff28573c886" ipa="/mɪˈnjuːt/" vi_ipa="mih-nút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f9cf3332-3267-4b11-ac6a-dd9bf2d031f9" type="Noun">
+          <Vi>phút (đơn vị thời gian bằng 60 giây)</Vi>
+          <En>a unit of time equal to 60 seconds, or 1/60 of an hour.</En>
+          <Example>We’ll be there in five minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4c9e101e-eb6f-4e2c-9a6d-c7e1cc8dd79a">
+              <Vi>Dùng khi ước lượng hoặc lên lịch cho thời gian ngắn.</Vi>
+              <En>Used when estimating or scheduling short durations of time.</En>
+            </Situation>
+            <Situation id="cb5e593c-ea48-4716-b6f0-917ad5af149b">
+              <Vi>Trong báo cáo thời tiết, giao thông, hoặc thể thao để chỉ thời điểm cụ thể.</Vi>
+              <En>In weather reports, traffic updates, or sports to refer to a specific moment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="39896d60-647b-4272-a50b-5559db727ba1" type="Noun">
+          <Vi>biên bản (ghi chép tóm tắt cuộc họp)</Vi>
+          <En>a written record of what was said and done at a meeting.</En>
+          <Example>The secretary distributed the minutes of the last board meeting.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="13081d27-5a44-44e0-991e-d3ffe70f5fa7">
+              <Vi>Sau cuộc họp, ban tổ chức soạn và lưu trữ biên bản để làm bằng chứng.</Vi>
+              <En>After a meeting, the minutes are prepared and kept as an official record.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

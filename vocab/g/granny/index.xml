@@ -1,0 +1,48 @@
+<Vocab id="3062226d-b95b-4b22-ac42-0b54a77398b0" word="granny" type="short" status="done">
+  <Topics>
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+  </Topics>
+  <Professions>
+    <Profession id="e3f2699a-353c-454f-801c-665b369d45d9" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c59f392-7e4c-48d4-b3bf-1d5fa4872784" ipa="/ˈɡræn.i/" vi_ipa="grờ-nây">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bf3cac40-c581-4220-bbdc-ae289ce24d37" type="Noun">
+          <Vi>bà ngoại, bà nội (thân mật, thường dùng cho bà của trẻ em)</Vi>
+          <En>informal term for one's grandmother, especially used by children</En>
+          <Example>My granny makes the best apple pie.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1038128b-e351-4b7a-8e40-ebf173f21c4c">
+              <Vi>Trẻ em gọi bà nội/bà ngoại một cách thân mật và yêu thương.</Vi>
+              <En>Children affectionately refer to their grandmother in a warm, familiar way.</En>
+            </Situation>
+            <Situation id="73aea27e-83c5-4a49-a40e-a016bfe5dce7">
+              <Vi>Người lớn dùng "granny" trong văn nói thân mật, đôi khi mang sắc thái hài hước hoặc trìu mến.</Vi>
+              <En>Adults may use "granny" affectionately or humorously in informal speech.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="07d568d5-d619-4cdc-994a-33df57e3ea67" type="Noun">
+          <Vi>người phụ nữ lớn tuổi (thường mang tính mô tả, đôi khi mang sắc thái chế giễu nhẹ)</Vi>
+          <En>an older woman, sometimes used in a slightly mocking or humorous way</En>
+          <Example>Don’t be such a granny—let’s go dancing!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5edfc00f-9508-4f38-866a-a81bab1e933d">
+              <Vi>Người trẻ chê bai ai đó hành xử quá bảo thủ hoặc nhút nhát.</Vi>
+              <En>Young people teasing someone for acting overly cautious or old-fashioned.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
