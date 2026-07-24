@@ -1,0 +1,37 @@
+<Vocab id="4a47c2f0-4b4c-4b38-b3c6-ad107c06f200" word="bedford" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="6e853862-a6f3-444b-9e84-40e0574c5e4c" value="Travel Guide" />
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="053ac07f-9717-4c76-9a19-df51e0fb3816" ipa="/ˈbɛd.fərd/" vi_ipa="bét-phờ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e704ce2b-18b2-46b9-af99-6e83c4c31165" type="Proper Noun">
+          <Vi>Bedford — một thị trấn và quận tại Bedfordshire, miền Đông Nam nước Anh; còn là tên gọi của nhiều địa điểm tại Mỹ, Canada và các nước nói tiếng Anh.</Vi>
+          <En>Bedford — a market town and civil parish in Bedfordshire, South East England; also the name of several places in the United States, Canada, and other English-speaking countries.</En>
+          <Example>They visited the historic town of Bedford, known for its medieval architecture and riverside walks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e3ad673-787f-41ee-a4cb-0c09a134822a">
+              <Vi>Người dân Anh hoặc du khách nhắc đến thị trấn Bedforshire khi nói về du lịch miền Đông Nam Anh.</Vi>
+              <En>British locals or tourists referring to the town in Bedfordshire when discussing travel in South East England.</En>
+            </Situation>
+            <Situation id="4e6c62e1-b130-4776-9213-cd262295844b">
+              <Vi>Người Mỹ nói về thành phố Bedford, bang New York, nơi có trường đại học Cornell.</Vi>
+              <En>Americans referring to Bedford, New York, home to part of Cornell University’s campus.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

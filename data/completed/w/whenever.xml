@@ -1,0 +1,39 @@
+<Vocab id="76606e43-a65b-470e-bb59-a4481536114c" word="whenever" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="04a3c5fb-eaa9-4c72-940e-9d29f90da2b6" value="Grammar" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="09b1f466-4d48-48b6-a7d3-2e30ceb922e3" ipa="/ˈwen.ɪ.vɚ/" vi_ipa="u-en-i-vơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0919a1ba-3b3b-430f-bf24-0e9e27c6f49f" type="Adverb">
+          <Vi>bất cứ khi nào; mỗi khi; bất kỳ lúc nào</Vi>
+          <En>at any time that; at whatever time; on any occasion that</En>
+          <Example>I’ll call you whenever I arrive.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a41c937e-9be1-437e-88e6-5064a99b157c">
+              <Vi>Chỉ thời điểm không xác định trong tương lai hoặc lặp lại.</Vi>
+              <En>Refers to an unspecified time in the future or recurring times.</En>
+            </Situation>
+            <Situation id="a90d6bff-3379-487d-840f-89b76a35617b">
+              <Vi>Dùng trong điều kiện giả định hoặc lời hứa.</Vi>
+              <En>Used in conditional statements or promises.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
