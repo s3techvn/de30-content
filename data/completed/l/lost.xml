@@ -1,0 +1,49 @@
+<Vocab id="650df9ac-6008-483a-9288-748ba6381daf" word="lost" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="d37b0485-d88f-4af7-905d-d7696523d96b" value="Search and Rescue Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3f139172-4ec3-4034-9ec3-91378caf6833" ipa="/lɔːst/" vi_ipa="lốt">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="71e588cc-3d4e-4d32-9ce6-bf5baf297760" type="Adjective">
+          <Vi>mất, bị mất, không còn nữa</Vi>
+          <En>Not found; no longer in one's possession or control; missing.</En>
+          <Example>I can't believe I lost my keys again!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="911b3438-e1e8-4db1-bdd5-a62df38a630a">
+              <Vi>Tình huống khi bạn không còn giữ được vật gì đó, ví dụ như ví, điện thoại, hoặc chìa khóa.</Vi>
+              <En>A situation where you no longer have something in your possession, such as a wallet, phone, or keys.</En>
+            </Situation>
+            <Situation id="c0876d1f-bdc3-4763-913d-4b5578f186f3">
+              <Vi>Tình huống khi bạn không biết đường đi hoặc bị lạc trong một nơi lạ.</Vi>
+              <En>A situation where you cannot find your way or are disoriented in an unfamiliar place.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bbe86aaa-9637-4ce3-88a7-bf23f8e7a0c7" type="Adjective">
+          <Vi>đã qua, đã kết thúc (thường mang sắc thái tiêu cực)</Vi>
+          <En>No longer existing or available; gone forever (often with a negative connotation).</En>
+          <Example>The golden age of dial-up internet is long lost.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ec17566b-fe9f-4ab5-a227-548bd6c691fe">
+              <Vi>Dùng để nói về thời gian, kỷ niệm, hoặc điều gì đó không thể quay lại.</Vi>
+              <En>Used to refer to a time, memory, or experience that cannot be regained.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

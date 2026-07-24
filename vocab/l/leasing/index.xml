@@ -1,0 +1,41 @@
+<Vocab id="6b25c047-0ab7-47a6-912c-3e0b096b8dc2" word="leasing" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="c277c112-f78f-4a88-bc4a-ed9ab5e941e5" value="Automotive Salesperson" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4c1ad300-c5df-4def-a526-f951003e160b" ipa="/ˈliː.sɪŋ/" vi_ipa="li-inh-sinh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e8cf5ba-eadd-4a63-b794-afb74f368c57" type="Noun">
+          <Vi>Việc cho thuê; hợp đồng thuê (đặc biệt tài sản dài hạn như xe, máy móc, bất động sản)</Vi>
+          <En>The act of leasing property or assets, especially for long-term use, typically under a formal contract</En>
+          <Example>The company entered into a five-year leasing agreement for office equipment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="70e8e86b-7ba1-48a8-8a67-adb2c183a558">
+              <Vi>Thỏa thuận thuê thiết bị, xe cộ, hoặc bất động sản trong một thời gian dài với quyền sử dụng nhưng không sở hữu.</Vi>
+              <En>A formal arrangement where a business or individual pays to use an asset (e.g., vehicle, machinery, property) for a specified period without owning it.</En>
+            </Situation>
+            <Situation id="11ddc4a6-d6b9-47bc-87aa-83e2248deb38">
+              <Vi>Chi phí hoặc thu nhập phát sinh từ hoạt động cho thuê tài sản theo hợp đồng thuê tài chính hoặc thuê hoạt động.</Vi>
+              <En>Expenses or income arising from lease arrangements, such as operating leases or finance leases in accounting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
