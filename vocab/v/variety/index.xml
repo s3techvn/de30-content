@@ -1,0 +1,54 @@
+<Vocab id="bcfa6075-c81d-4276-b2d9-1e2cadfec052" word="variety" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="edc8656c-a84f-4938-acd6-7e477c00eeaa" value="Marketing" />
+    <Profession id="e8c38669-b790-43ca-aa6c-e96b32ab838b" value="Retail" />
+    <Profession id="5edfa1de-f3a1-4b63-a8de-f695df0759d2" value="Culinary Arts" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4d922894-2b86-4edb-b094-8c6cd4da63ad" ipa="/vəˈraɪ.ə.ti/" vi_ipa="vơ-ráy-ơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f4fb135b-494f-4197-8375-f4479bce4090" type="Noun">
+          <Vi>Sự đa dạng; nhiều loại khác nhau</Vi>
+          <En>The quality or state of being diverse or different; the presence of a range of different things or the fact that something has many different forms, types, or varieties.</En>
+          <Example>There is a wide variety of fruits available at the farmers’ market.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7aa074c9-f083-4314-851f-2eca8f92b945">
+              <Vi>Mô tả một tập hợp gồm nhiều loại sản phẩm, thực phẩm, hoặc yếu tố khác nhau.</Vi>
+              <En>Describing a collection containing many different products, foods, or elements.</En>
+            </Situation>
+            <Situation id="c2c9c52c-22ea-4ca2-94c1-133a392cead2">
+              <Vi>Dùng trong quảng cáo để nhấn mạnh sự phong phú của lựa chọn.</Vi>
+              <En>Used in advertising to emphasize the richness of choices available.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="eaaa7c0c-070a-4236-977c-03cbf736fdf7" type="Noun">
+          <Vi>Một loại cụ thể trong số nhiều loại; một biến thể</Vi>
+          <En>A particular type or form within a larger group or category; a distinct version or subtype.</En>
+          <Example>This brand offers several varieties of organic coffee.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="97287a5f-13f4-4c01-98a2-a1bafd6085d9">
+              <Vi>Khi liệt kê các loại sản phẩm cùng loại nhưng khác đặc điểm (mùi, màu, thành phần).</Vi>
+              <En>When listing different versions of the same product type (e.g., flavor, color, ingredient).</En>
+            </Situation>
+            <Situation id="33af42e7-423e-4e9d-a65d-703ec179510c">
+              <Vi>Trong sinh học: chỉ một phân loài hoặc biến thể thực vật/động vật.</Vi>
+              <En>In biology: referring to a subspecies or variant of a plant or animal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
