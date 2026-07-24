@@ -1,0 +1,32 @@
+<Vocab id="f4c52555-00f5-41e5-8c91-166ad12efeb0" word="sara" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0448d2ae-fe07-4dff-b6df-74b36b5c00b6" ipa="/ˈsɑː.rə/" vi_ipa="xà-ra">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="92ba13c0-7a07-4207-ae60-9e9106b70177" type="Noun">
+          <Vi>Tên riêng (thường là tên nữ), phiên bản tiếng Anh của tên Sarah</Vi>
+          <En>A feminine given name, the English form of Sarah</En>
+          <Example>Sara is a talented graphic designer who recently moved to Seattle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="806559ed-e307-4e69-85cf-65b367245ae1">
+              <Vi>Dùng khi gọi hoặc đề cập đến một người phụ nữ có tên Sara</Vi>
+              <En>Used when addressing or referring to a woman named Sara</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
