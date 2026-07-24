@@ -1,0 +1,38 @@
+<Vocab id="e32237c4-873e-45e2-be6b-cc2db4e0875d" word="dosage" type="short" status="done">
+  <Topics>
+    <Topic id="cf19de72-c8f4-4681-a57a-c7d8ac37bc17" value="Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e3cce510-5238-4710-94a4-f6ce0a5fdf30" ipa="/ˈdoʊ.sɪdʒ/" vi_ipa="đô-xì-đjờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d087af0-d3cd-4a31-8c12-e9d5423b03d5" type="Noun">
+          <Vi>Lượng thuốc cần dùng trong một lần hoặc trong một ngày, thường được chỉ định bởi bác sĩ</Vi>
+          <En>The amount of a drug or medicine that should be taken at one time or over a specified period, as prescribed by a doctor</En>
+          <Example>The doctor adjusted the dosage based on the patient’s weight and age.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6271382-8564-4a78-8bcb-5219c7ae741c">
+              <Vi>Bác sĩ tính toán liều lượng thuốc phù hợp cho bệnh nhân trước khi kê đơn</Vi>
+              <En>The doctor calculates the appropriate dosage for the patient before writing the prescription</En>
+            </Situation>
+            <Situation id="fba8ac68-433c-47ce-97be-da5b41088392">
+              <Vi>Nhà thuốc chuẩn bị thuốc theo đúng liều lượng được ghi trong toa</Vi>
+              <En>The pharmacy prepares the medication according to the dosage specified on the prescription</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

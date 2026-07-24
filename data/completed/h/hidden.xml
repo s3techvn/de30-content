@@ -1,0 +1,36 @@
+<Vocab id="8ed66139-f2cb-4704-93d4-eeec4f23d1bc" word="hidden" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="60d66ff0-ec97-4ed3-aa1d-3178a107d84c" value="None" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0c9cf916-cac3-418e-8ebe-425a6e90dda8" ipa="/ˈhɪd.ən/" vi_ipa="hi-đờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bee29e71-a1ed-4678-af44-8d5d4a8c63bd" type="Adjective">
+          <Vi>ẩn, bị che giấu, không dễ thấy hoặc không dễ nhận ra</Vi>
+          <En>Not discovered or revealed; kept secret or concealed.</En>
+          <Example>The hidden compartment in the desk contained old letters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a2f37524-abcf-4248-bbe6-7d6318959fe4">
+              <Vi>Mô tả một vật được giấu kỹ trong một nơi kín đáo, không dễ tìm thấy.</Vi>
+              <En>Describing an object concealed in a discreet, hard-to-find location.</En>
+            </Situation>
+            <Situation id="ed1f461c-778f-43f5-9f5c-8f3d73e49b55">
+              <Vi>Mô tả cảm xúc, động cơ, hoặc thông tin không được tiết lộ công khai.</Vi>
+              <En>Describing emotions, motives, or information that are not publicly disclosed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
