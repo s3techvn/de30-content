@@ -1,0 +1,52 @@
+<Vocab id="6c43760d-ddc6-4438-9514-be083df82341" word="dragon" type="short" status="done">
+  <Topics>
+    <Topic id="c2960f31-37a5-4aa4-978f-dca6c92f814e" value="Mythology" />
+    <Topic id="314a41c4-eee2-4590-bf1d-6be43172a568" value="Fantasy" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="8b9db4dd-0e32-4d8a-9a48-6b536414abcb" value="Game Designer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2760ceb6-1ef6-4ebc-8100-c0bf76ebda0d" ipa="/ˈdræɡ.ən/" vi_ipa="drác-gơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cc655619-0049-42c3-a42a-47ea00a7d6ef" type="Noun">
+          <Vi>con rồng</Vi>
+          <En>A large, serpentine legendary creature typically depicted as having wings, horns, and the ability to breathe fire, especially in European folklore.</En>
+          <Example>According to legend, the knight slayed the dragon to save the princess.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="163888b6-b746-432f-8657-82c927249a89">
+              <Vi>Mô tả sinh vật huyền thoại trong truyện cổ tích và thần thoại.</Vi>
+              <En>Describing a mythical creature in fairy tales and mythology.</En>
+            </Situation>
+            <Situation id="fb8d5ab6-0448-4355-9c8f-f146f168a349">
+              <Vi>Dùng để chỉ hình tượng biểu tượng trong văn hóa Đông Á (mặc dù không có cánh và không phun lửa như rồng phương Tây).</Vi>
+              <En>Used to refer to the symbolic creature in East Asian cultures (though differing from Western dragons in appearance).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d6a27ccd-ca64-4062-b0c4-bfc370f2d47b" type="Noun">
+          <Vi>người hung hãn, tàn bạo</Vi>
+          <En>A person who is cruel, violent, or domineering, especially in a position of power.</En>
+          <Example>She was known as a dragon in the boardroom, feared by her subordinates.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cb16ff18-aa37-4f2a-882b-ef265ed3a324">
+              <Vi>Dùng để chỉ một người phụ nữ mạnh mẽ, quyết đoán, đôi khi gây áp lực.</Vi>
+              <En>Used to describe a powerful, assertive, and sometimes intimidating woman.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
