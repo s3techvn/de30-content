@@ -1,0 +1,94 @@
+<Vocab id="84b52178-143f-4011-bc89-c68c183f033f" word="treat" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="89f9cb31-a9b8-4102-8167-d44be31608cd" value="Social Interactions" />
+    <Topic id="9cec49a4-276b-41b3-bea8-d73f1caba4c5" value="Healthcare" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5a6a7cad-629a-4213-9b8e-74aa0ffe7995" ipa="/triːt/" vi_ipa="t-ri-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="56e35b08-f1d4-4cf3-b208-4060d7034bd7" type="Verb">
+          <Vi>điều trị; đối đãi; đãi ngộ; coi là</Vi>
+          <En>to deal with or handle (something or someone) in a particular way; to provide medical care for an illness or injury</En>
+          <Example>Doctors treat patients with antibiotics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d3ab6c4a-2829-456f-9af4-b5e2d98bc2d0">
+              <Vi>Bác sĩ điều trị bệnh cho bệnh nhân.</Vi>
+              <En>A doctor provides medical care to a patient.</En>
+            </Situation>
+            <Situation id="00225c55-dc87-4d32-96d0-899739ea2db2">
+              <Vi>Chúng tôi đãi bạn bè thân thiết như những người bạn quý.</Vi>
+              <En>We treat close friends with kindness and respect.</En>
+            </Situation>
+            <Situation id="6ffede0b-fa89-4b8c-a164-16896f9df621">
+              <Vi>Cô ấy được coi là một chuyên gia trong lĩnh vực này.</Vi>
+              <En>She is treated as an expert in this field.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0b271b5c-cb79-4d39-849a-3fd8250af4ae" type="Verb">
+          <Vi>đưa ra (mác, bệnh) để điều trị; thử nghiệm điều trị</Vi>
+          <En>to attempt to cure or alleviate a disease or condition using a particular method or drug</En>
+          <Example>The new drug is being used to treat early-stage cancer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9ef7012c-df86-48aa-9bf0-5140bc676fd8">
+              <Vi>Bệnh nhân được điều trị bằng liệu pháp miễn dịch.</Vi>
+              <En>The patient was treated with immunotherapy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="715966c5-e07f-4123-87b6-4aa9abd380fe" type="Verb">
+          <Vi>đối xử (ai/cái gì) theo cách nào đó; coi (ai/cái gì) như…</Vi>
+          <En>to behave toward someone or something in a specified way</En>
+          <Example>He treats his employees with respect.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90ee3b5d-4e01-4e43-9b3a-e6e16040aa6c">
+              <Vi>Nhà quản lý đối xử công bằng với tất cả nhân viên.</Vi>
+              <En>The manager treats all employees fairly.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="c99a6725-be69-44fc-afde-ae1d6e0305d7" ipa="/trɛt/" vi_ipa="t-reat">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5d44bc1d-2583-4ee6-a525-cd96deffe131" type="Noun">
+          <Vi>sự đãi ngộ; phần quà; món đãi; bữa tiệc</Vi>
+          <En>a special pleasure or enjoyment, especially something sweet or delicious; a gift or entertainment provided as a pleasure</En>
+          <Example>She made chocolate chip cookies as a treat for the kids.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="46082fb6-8530-4260-9682-20c43ae932af">
+              <Vi>Đây là món quà nhỏ dành cho bản thân sau một tuần làm việc căng thẳng.</Vi>
+              <En>This ice cream is my little treat after a stressful week.</En>
+            </Situation>
+            <Situation id="049aabe2-5b4c-4f57-a1b8-de04c20ceb2d">
+              <Vi>Chúng tôi tổ chức một bữa tiệc nhỏ để đãi nhân viên vào cuối năm.</Vi>
+              <En>We’re throwing a small party as a treat for the staff at year-end.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
