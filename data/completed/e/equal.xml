@@ -1,0 +1,62 @@
+<Vocab id="e9a579f9-7e7b-421d-9ce6-2783c9277224" word="equal" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="79ceb5a4-239c-4d04-8385-1c680b026203" ipa="/ˈiː.kwəl/" vi_ipa="i:-cờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b9790de0-648e-47e9-9269-667faa68ac28" type="Adjective">
+          <Vi>bằng nhau; tương đương</Vi>
+          <En>having the same value, quantity, or status as another</En>
+          <Example>Two plus two equals four.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="20510221-1ef0-4852-adef-ff6183dcb35b">
+              <Vi>So sánh hai đại lượng có cùng giá trị trong toán học.</Vi>
+              <En>Comparing two quantities that have the same value in mathematics.</En>
+            </Situation>
+            <Situation id="6977bc36-d548-4204-a476-e293e03301f6">
+              <Vi>Mô tả sự công bằng trong quyền lợi hoặc cơ hội.</Vi>
+              <En>Describing fairness in rights or opportunities.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="4bc51281-39f3-40cf-a065-065e2b9e2301" ipa="/ɪˈkwəl/" vi_ipa="i-cờ-lờ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8c698838-3531-4101-8aa2-996b0f6269d1" type="Verb">
+          <Vi>bằng; ngang bằng; ngang hàng</Vi>
+          <En>to be or make something equal to something else</En>
+          <Example>She worked hard to equal her brother's academic achievements.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e034542b-67ea-4cce-95e9-b49def5dc225">
+              <Vi>Cố gắng đạt đến mức độ tương đương với người khác.</Vi>
+              <En>Making an effort to reach the same level as someone else.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
