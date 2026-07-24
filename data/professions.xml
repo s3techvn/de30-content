@@ -835,4 +835,5 @@
   <Profession id="8ef2720d-9e40-4c28-a1c9-4a522ad9aa01" slug="ui/ux-designer" value="UI/UX Designer" />
   <Profession id="da97e874-f343-48f1-87e9-e518361663ab" slug="system-architect" value="System Architect" />
   <Profession id="5deb4e8b-1970-433b-89ed-f7dc732af646" slug="runner" value="Runner" />
+  <Profession id="ec1447e9-dc16-49a7-8878-a8171ee16371" slug="localization-specialist" value="Localization Specialist" />
 </Professions>
