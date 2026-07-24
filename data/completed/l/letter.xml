@@ -1,0 +1,58 @@
+<Vocab id="5f3e91b8-db88-4b26-8c76-d6cce70258bb" word="letter" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="fb30e8db-0172-47a7-bd2e-12e0546e66e7" value="Secretary" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a07f6b89-9949-4e0e-b340-2ef5a2d91313" ipa="/ˈlet.ɚ/" vi_ipa="lết-tơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed7a96bd-79c2-4239-8d80-d066010b4cb5" type="Noun">
+          <Vi>thư (viết tay hoặc in trên giấy gửi qua bưu điện)</Vi>
+          <En>A written or printed message, typically on paper, sent from one person to another, especially through the postal system.</En>
+          <Example>She opened the envelope and found a handwritten letter from her grandmother.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f15a50b7-314d-433b-b4cb-334bc85ab7f6">
+              <Vi>Người nhận thư mở phong bì và đọc nội dung thư.</Vi>
+              <En>The recipient opens the envelope and reads the contents of the letter.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="47d61b71-7948-4ee2-9701-3cb1974641bd" type="Noun">
+          <Vi>chữ cái (đơn vị cơ bản của bảng chữ cái viết)</Vi>
+          <En>A symbol or character representing a speech sound and forming part of an alphabet; a basic unit of written language.</En>
+          <Example>The word “cat” contains three letters: C, A, and T.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7e7a3d61-0d7e-477a-95ab-c98a19da573f">
+              <Vi>Trẻ em học cách nhận diện từng chữ cái trong bảng chữ cái tiếng Anh.</Vi>
+              <En>Children learn to recognize each letter of the English alphabet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d65b49f6-9198-478d-8ba2-37bb484a8082" type="Noun">
+          <Vi>chữ (trong ngữ cảnh hình thức, ví dụ: nội dung thư, văn bản chính thức)</Vi>
+          <En>The text or wording of a document, especially a formal or official communication.</En>
+          <Example>He read the letter of the law but ignored its spirit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a18387ea-cb86-41c3-a5b8-406e32fa42b2">
+              <Vi>Luật sư nhấn mạnh việc tuân thủ đúng chữ của hợp đồng.</Vi>
+              <En>The lawyer emphasized strict adherence to the letter of the contract.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
