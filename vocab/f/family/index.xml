@@ -1,0 +1,55 @@
+<Vocab id="6ce18626-df6c-4bd2-b8c4-2a03cdb1232d" word="family" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="6decae19-9dc7-4a19-8a51-8bb146fc2f9f" value="Social Relations" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64149600-bc6c-4dd7-b1d6-a255db148870" ipa="/ˈfæm.əl.i/" vi_ipa="phăm-i">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad1b912a-cdc0-47b1-9d2f-689cda7d321c" type="Noun">
+          <Vi>Gia đình; bố mẹ và con cái; nhóm người có quan hệ huyết thống hoặc pháp lý sống chung</Vi>
+          <En>A group of people related by blood, marriage, or adoption, typically living together; one's parents and siblings.</En>
+          <Example>She visits her family every Sunday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="32bc8344-e86c-4ffe-a0c0-74e035f24232">
+              <Vi>Tình huống nói về cha mẹ, anh chị em, và các thành viên sống chung trong một hộ gia đình.</Vi>
+              <En>A situation referring to parents, siblings, and other members living together as a household unit.</En>
+            </Situation>
+            <Situation id="597049fe-c720-4381-86d6-28ca05bd44bc">
+              <Vi>Tình huống nói về mối quan hệ huyết thống rộng hơn (ông bà, chú bác, cô dì, v.v.).</Vi>
+              <En>A situation referring to extended blood relatives such as grandparents, aunts, uncles, etc.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="0b3fe53c-4715-40ca-870d-dfab1055cf3d" type="Noun">
+          <Vi>Nhóm có chung đặc điểm, mục đích hoặc nguồn gốc (như gia đình các loài động vật, gia đình các ngôn ngữ)</Vi>
+          <En>A group of things or people sharing common characteristics, origin, or function, such as a language family or animal family.</En>
+          <Example>The Indo-European language family includes English, Spanish, and Hindi.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9cd19fb-ab7f-4276-94d6-c6c6587f3b8e">
+              <Vi>Tình huống trong nghiên cứu ngôn ngữ học, phân loại các ngôn ngữ có nguồn gốc chung.</Vi>
+              <En>A situation in linguistics where languages with shared origins are grouped together.</En>
+            </Situation>
+            <Situation id="1b6cf304-0ce2-4359-a2e1-61f466946196">
+              <Vi>Tình huống trong sinh học, phân loại các loài có quan hệ tiến hóa gần gũi.</Vi>
+              <En>A situation in biology where closely related species are classified into the same taxonomic family.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
