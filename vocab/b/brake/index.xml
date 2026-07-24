@@ -1,0 +1,53 @@
+<Vocab id="f2cfa7b9-9fa0-43b7-85ec-7e2ad8873a93" word="brake" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="41a4fba2-1656-4d60-9afb-4bea81a257b5" value="Driver" />
+    <Profession id="528d8fba-e4bb-4c2e-bffd-58e85f7f4942" value="Automotive Mechanic" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6618ce95-d310-4403-a9a3-76d0f1e4e612" ipa="/breɪk/" vi_ipa="bờ-rê-c">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="600acf4c-4b7e-4529-9dc2-2ec7f9dc135a" type="Noun">
+          <Vi>Bộ phanh; sự hãm (xe)</Vi>
+          <En>A device for slowing or stopping a vehicle, or the act of using it.</En>
+          <Example>She pressed the brake pedal gently to avoid skidding.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="488346e5-d5b6-44be-8c32-b075ff53f92e">
+              <Vi>Tình huống lái xe cần dừng hoặc giảm tốc độ.</Vi>
+              <En>A driving situation requiring deceleration or stopping.</En>
+            </Situation>
+            <Situation id="c63bc5b9-a9b0-4a1e-9988-23809d656d6b">
+              <Vi>Kiểm tra hệ thống phanh sau khi bảo dưỡng.</Vi>
+              <En>Inspecting the braking system after maintenance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d17c8c3d-6ed9-46e9-b7ba-8ad178ce8a54" type="Verb">
+          <Vi>Hãm phanh; làm chậm lại, dừng lại đột ngột</Vi>
+          <En>To slow down or stop a vehicle by using the brakes.</En>
+          <Example>The driver braked sharply to avoid hitting the pedestrian.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e76c76a9-fc98-4897-b450-35ef9654ae31">
+              <Vi>Hãm phanh khẩn cấp khi có vật cản xuất hiện bất ngờ.</Vi>
+              <En>Emergency braking when an obstacle appears suddenly.</En>
+            </Situation>
+            <Situation id="7de695c4-eb24-4a15-846e-19a5e55b09c0">
+              <Vi>Giảm tốc độ trước khi vào cua.</Vi>
+              <En>Slowing down before entering a curve.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
