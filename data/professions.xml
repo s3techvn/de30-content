@@ -845,4 +845,5 @@
   <Profession id="97765fd4-a4e4-4515-8980-5ffffcc38f70" slug="lecturer" value="Lecturer" />
   <Profession id="3cf30b1b-7aa0-44cc-a6e9-8458c0c0a9a0" slug="gold-miner" value="Gold Miner" />
   <Profession id="e4c10cda-64c6-4986-b8fc-95c5fb682b1a" slug="aviation-pilot" value="Aviation Pilot" />
+  <Profession id="22bbd2fc-45e3-4d70-8ae6-5c3fb78fd692" slug="water-sports-instructor" value="Water Sports Instructor" />
 </Professions>

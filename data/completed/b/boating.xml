@@ -1,0 +1,39 @@
+<Vocab id="486d1273-4ffd-463b-ba74-81dd4c65f515" word="boating" type="short" status="done">
+  <Topics>
+    <Topic id="15b97384-b582-4d78-a660-40603c3f8488" value="Leisure &amp; Recreation" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="2bc61616-fa9d-4521-9995-6b174195cce5" value="Boat Captain" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="22bbd2fc-45e3-4d70-8ae6-5c3fb78fd692" value="Water Sports Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="30d166f0-6ea8-4678-9cb1-4f4ec99a438a" ipa="/ˈboʊ.tɪŋ/" vi_ipa="bờ-ting">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5bc816e-829c-4241-83f5-ed5ade9e714a" type="Noun">
+          <Vi>Hoạt động chèo thuyền, đi chơi bằng thuyền</Vi>
+          <En>The activity of traveling or recreation in a boat, especially using oars, sails, or a motor.</En>
+          <Example>We went boating on the lake early Saturday morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2aae0ba-6d7b-4580-b883-95822333e3e8">
+              <Vi>Tham gia tour thuyền dạo quanh hồ hoặc sông vào cuối tuần.</Vi>
+              <En>Joining a boat tour around a lake or river on the weekend.</En>
+            </Situation>
+            <Situation id="9f98924f-2448-4dd3-bd33-ab82e7488064">
+              <Vi>Thư giãn sau giờ làm bằng cách chèo thuyền kayak hoặc xuồng máy.</Vi>
+              <En>Relaxing after work by kayaking or motorboating.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
