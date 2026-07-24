@@ -1,0 +1,38 @@
+<Vocab id="77c60d07-b529-4312-8fa5-7e66056ac3a9" word="canyon" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="da7c40db-a6de-4a5b-a022-58abab0bc79a" value="Geologist" />
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0979452c-30e4-4d41-9bc8-2387c94e9637" ipa="/ˈkæn.jən/" vi_ipa="can-ni-an">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a76f063d-0488-4ea1-bdd1-7f4cfc889836" type="Noun">
+          <Vi>hẻm núi, thung lũng sâu có vách đá dựng đứng</Vi>
+          <En>a deep and narrow valley with steep rocky walls, typically one carved by a river</En>
+          <Example>The Grand Canyon was carved by the Colorado River over millions of years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1cc41d29-b782-4a9d-94aa-a69336b76350">
+              <Vi>Mô tả một địa hình địa chất đặc trưng ở vùng Tây Nam Hoa Kỳ.</Vi>
+              <En>Describing a characteristic geological formation in the southwestern United States.</En>
+            </Situation>
+            <Situation id="6084bdb8-9d1d-4632-bd0e-fb431a7010fc">
+              <Vi>Điểm đến du lịch nổi tiếng dành cho leo núi và thám hiểm.</Vi>
+              <En>A famous tourist destination for hiking and adventure tourism.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
