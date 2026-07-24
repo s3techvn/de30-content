@@ -1,0 +1,38 @@
+<Vocab id="e218aed7-4eb4-40fd-b83b-639dd2218086" word="unless" type="short" status="done">
+  <Topics>
+    <Topic id="006d276f-4d42-4328-8795-51213886991b" value="Logic &amp; Conditions" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b19ac018-208e-418f-bbc8-b2105f25a660" ipa="/ənˈles/" vi_ipa="ân-lít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="07d1f661-8981-4bd6-bce9-de7aa1f01fae" type="Conjunction">
+          <Vi>trừ khi, nếu không thì</Vi>
+          <En>except if; on the condition that not</En>
+          <Example>You won’t pass the exam unless you study hard.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="66158f9e-df53-4e62-9be1-796abec49afd">
+              <Vi>Đưa ra ngoại lệ hoặc điều kiện loại trừ một kết quả.</Vi>
+              <En>Introducing an exception or condition that prevents a stated outcome.</En>
+            </Situation>
+            <Situation id="c9113477-0bdb-4dd2-820b-2066b4950fe2">
+              <Vi>Trong hợp đồng hoặc quy định: điều kiện để thực hiện hoặc không thực hiện điều gì đó.</Vi>
+              <En>In contracts or rules: the condition under which something is or is not allowed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
