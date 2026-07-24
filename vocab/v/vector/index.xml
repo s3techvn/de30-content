@@ -1,0 +1,67 @@
+<Vocab id="eb16bbe3-b2d2-4701-a547-9ed1e3b2f652" word="vector" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b7137f54-d9ab-472d-af22-2de3ce613f1f" value="Physics" />
+    <Topic id="b45407fd-b327-4192-a42b-68b5409333bc" value="Computer Science" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="f5a79792-3ae4-46a1-ba06-6b25c50cdf07" value="Data Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e1bf28fd-1efa-431c-9226-49ac9113ec67" ipa="/ˈvek.tər/" vi_ipa="vê-c-tơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ad35dc06-9f8d-4c22-8913-6cf85e6e22d8" type="Noun">
+          <Vi>Véc-tơ</Vi>
+          <En>A quantity that has both magnitude and direction, typically represented by an arrow in space.</En>
+          <Example>In physics, displacement is a vector quantity because it specifies both distance and direction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d1da89aa-1c7c-43b1-9956-c458c27c6ff6">
+              <Vi>Mô tả chuyển động có hướng trong không gian hai hoặc ba chiều.</Vi>
+              <En>Describing directional motion in two- or three-dimensional space.</En>
+            </Situation>
+            <Situation id="bc289055-1873-4b6d-8c63-3242c8768189">
+              <Vi>Trong toán học, dùng để biểu diễn các phép toán trong không gian vector.</Vi>
+              <En>In mathematics, used to represent operations in vector spaces.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5d3c6292-3040-41fe-8967-4943bfceafea" type="Noun">
+          <Vi>Vector truyền bệnh</Vi>
+          <En>An organism, such as a mosquito or tick, that transmits a pathogen from one host to another.</En>
+          <Example>Mosquitoes are vectors for diseases like malaria and dengue fever.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3e6773ed-7e4a-459a-9ddc-062b851acb38">
+              <Vi>Các loài côn trùng truyền ký sinh trùng gây bệnh cho người.</Vi>
+              <En>Insects that transmit pathogens causing disease in humans.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f60552c8-23d3-4a3f-8405-309871c28fac" type="Noun">
+          <Vi>Vector trong lập trình/máy tính (méc-tơ)</Vi>
+          <En>In computing, a vector is an ordered list of numbers, often used in graphics, machine learning, or simulations.</En>
+          <Example>In machine learning, each data point is often represented as a vector in high-dimensional space.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="78105fdd-7d92-42f3-aead-25d7c286b28d">
+              <Vi>Biểu diễn dữ liệu dưới dạng mảng một chiều trong học máy.</Vi>
+              <En>Representing data as one-dimensional arrays in machine learning.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
