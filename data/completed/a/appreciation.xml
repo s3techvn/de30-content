@@ -1,0 +1,50 @@
+<Vocab id="c42606c7-684b-4fd7-be9f-97e46390a6c5" word="appreciation" type="short" status="done">
+  <Topics>
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d52ee68d-f0a5-4a59-af9c-68fdd323b76d" ipa="/əˌpriː.siˈeɪ.ʃən/" vi_ipa="ơ-prì-si-ê-i-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="51c13a07-6c2f-42f8-b3ff-4f6e2bdf6891" type="Noun">
+          <Vi>Sự đánh giá cao; sự biết ơn; sự trân trọng</Vi>
+          <En>The feeling or expression of admiration, gratitude, or value for someone or something.</En>
+          <Example>She expressed her appreciation for the team’s hard work with a heartfelt thank-you note.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3ee9bfe6-cdb2-489e-980d-edecd34dfdb8">
+              <Vi>Một người nói lời cảm ơn chân thành sau khi nhận được sự giúp đỡ.</Vi>
+              <En>Someone sincerely thanks another person after receiving help or support.</En>
+            </Situation>
+            <Situation id="327bdd12-8e48-4cd8-96dd-0360f2623f87">
+              <Vi>Khán giả vỗ tay và reo hò để thể hiện sự trân trọng với màn trình diễn xuất sắc.</Vi>
+              <En>The audience claps and cheers to show admiration for an outstanding performance.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ca8a5625-8c0a-4c63-890c-0bf3edef2b43" type="Noun">
+          <Vi>Sự tăng giá trị (về tài chính)</Vi>
+          <En>An increase in the value of an asset, such as property or investments.</En>
+          <Example>The appreciation of the house’s value over the past five years has been remarkable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1dac33e0-c231-4462-990a-c11e5cd70c40">
+              <Vi>Nhà đầu tư theo dõi sự tăng giá của cổ phiếu để tối ưu hóa lợi nhuận.</Vi>
+              <En>An investor monitors stock price appreciation to maximize returns.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
