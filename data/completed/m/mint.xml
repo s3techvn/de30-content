@@ -1,0 +1,85 @@
+<Vocab id="9a5e769a-0281-4486-a640-5b7a8ad0fb1f" word="mint" type="short" status="done">
+  <Topics>
+    <Topic id="0346c524-0bb2-4e6f-86e3-c024bb64557d" value="Food &amp; Drink" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="96c791c2-38e0-4f98-b5ce-bf5bbbfbedf3" ipa="/mɪnt/" vi_ipa="mint">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c8821911-0c04-416b-9e92-8b6eb820f52f" type="Noun">
+          <Vi>lá húng quế (loại bạc hà có vị cay mát)</Vi>
+          <En>A plant with aromatic, serrated leaves used as a herb, especially in cooking and teas.</En>
+          <Example>She added fresh mint to the mojito for a refreshing flavor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="befb31db-bf57-4108-affc-c679d95f2483">
+              <Vi>Người nội trợ hái lá mint từ chậu trong vườn để trang trí món tráng miệng.</Vi>
+              <En>A home cook picks fresh mint leaves from a potted plant to garnish a dessert.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2d0658e9-d293-4f4c-bc58-897069b8a767" type="Noun">
+          <Vi>đồng tiền mới đúc (đặc biệt là tiền xu)</Vi>
+          <En>A place where coins are manufactured; also, newly minted coins.</En>
+          <Example>The U.S. Mint produces over a billion coins each year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="156a917f-ac0d-444c-9d4f-e4fdd60c674e">
+              <Vi>Nhân viên kiểm tra chất lượng tiền xu tại xưởng đúc tiền quốc gia.</Vi>
+              <En>A technician inspects coin quality at the national mint facility.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="35f24bbc-37e0-4eac-8f05-d6fa4eccc5fc" type="Verb">
+          <Vi>đúc tiền xu</Vi>
+          <En>To manufacture coins, especially by stamping metal blanks with a design.</En>
+          <Example>The government minted new commemorative coins for the anniversary.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06dabe8a-dbcf-4a5c-aeb6-387a6c15558f">
+              <Vi>Chính phủ quyết định đúc thêm tiền xu đồng để đáp ứng nhu cầu giao dịch.</Vi>
+              <En>The government decided to mint additional copper coins to meet transaction demand.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="18ec8666-3ff2-45bb-bccf-35509c989f1d" type="Verb">
+          <Vi>đánh bóng, làm sáng (kim loại)</Vi>
+          <En>To make something, especially metal, shiny and smooth by polishing it.</En>
+          <Example>He spent hours minting the brass doorknobs until they gleamed.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36915506-9022-42ec-98db-f60aa32744ac">
+              <Vi>Người thợ kim hoàn dùng hóa chất và bàn chải để mint bề mặt nhẫn vàng.</Vi>
+              <En>The jeweler used chemicals and a brush to mint the surface of the gold ring.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e758ca18-2421-4475-9226-7d2c24e5a136" type="Verb">
+          <Vi>đưa vào circulation (tiền), tạo ra (điều gì mới mẻ)</Vi>
+          <En>To create or produce something new, especially money or ideas, often in large quantities.</En>
+          <Example>The startup minted a new business model that quickly gained traction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a8cf85e0-716b-40f3-b411-3aa6bbe95d79">
+              <Vi>Công ty đã mint hàng loạt sản phẩm công nghệ đột phá trong năm đầu tiên.</Vi>
+              <En>The company minted a series of breakthrough tech products in its first year.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
