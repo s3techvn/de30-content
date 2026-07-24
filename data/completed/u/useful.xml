@@ -1,0 +1,40 @@
+<Vocab id="7b1c07c6-2d20-4114-89d6-d4b7db41f992" word="useful" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0cc2d32b-4ab2-493a-bce4-f8316ecaee64" ipa="/ˈjuː.sə.fəl/" vi_ipa="gi-u-sơ-phờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ea7bacb1-1a24-4267-a8c1-4c2f1a248394" type="Adjective">
+          <Vi>hữu ích, có ích</Vi>
+          <En>Helpful; providing usefulness or benefit.</En>
+          <Example>This app is very useful for learning English vocabulary.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58f31136-ad1b-4857-945d-40b1fc20e1a2">
+              <Vi>Một công cụ, kiến thức, hoặc người giúp giải quyết vấn đề hoặc đạt được mục tiêu.</Vi>
+              <En>A tool, knowledge, or person that helps solve a problem or achieve a goal.</En>
+            </Situation>
+            <Situation id="f082fed8-7345-4401-8283-cb29fd34a6d0">
+              <Vi>Phản hồi hoặc hướng dẫn có giá trị trong công việc hoặc học tập.</Vi>
+              <En>Feedback or guidance that is valuable in work or study.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

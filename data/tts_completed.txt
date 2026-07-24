@@ -2188,3 +2188,4 @@ adequate
 laser
 retail
 angel
+offering
