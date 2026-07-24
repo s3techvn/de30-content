@@ -1,0 +1,36 @@
+<Vocab id="b06fad01-7bc3-479f-8c66-81e48c058759" word="stephen" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="756cd5a7-9893-47d6-877f-5c8b02252221" value="Religious Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="66636c4c-6a78-4f0a-9f93-eda7261eb85c" ipa="/ˈste.fən/" vi_ipa="xten">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="347c1b58-bdda-4524-bda4-3d39c8cce231" type="Proper Noun">
+          <Vi>Thánh Stêphanô (tên người, thường chỉ Thánh Stêphanô, vị tử đạo đầu tiên của Kitô giáo)</Vi>
+          <En>Stephen (a male given name; also refers to Saint Stephen, the first Christian martyr)</En>
+          <Example>Stephen was stoned to death for his testimony about Jesus.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cf352ef8-9ba1-4651-9fae-e601f24526f5">
+              <Vi>Dùng để chỉ Thánh Stêphanô trong bối cảnh tôn giáo hoặc lịch sử Kitô giáo.</Vi>
+              <En>Used when referring to Saint Stephen in religious or historical Christian contexts.</En>
+            </Situation>
+            <Situation id="3ea6289b-499a-48e6-b414-4a8538daac28">
+              <Vi>Dùng như tên riêng nam phổ biến ở các nước phương Tây.</Vi>
+              <En>Used as a common masculine given name in Western countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
