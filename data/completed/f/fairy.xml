@@ -1,0 +1,50 @@
+<Vocab id="3f30c5ef-7796-4292-adc8-6bf185873989" word="fairy" type="short" status="done">
+  <Topics>
+    <Topic id="9d775a7c-e659-4b6c-a3e2-9a092e8f2bc4" value="Mythology &amp; Folklore" />
+  </Topics>
+  <Professions>
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="91edfa96-5de7-4b41-a2b3-cdb13c38e0f6" value="Children's Educator" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e93336a0-4e3d-4c6b-8933-38cdf9389928" ipa="/ˈfeɪ.ər.i/" vi_ipa="phê-ê-ri">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c59d5838-25ef-45e0-bfe3-8e815050b882" type="Noun">
+          <Vi>tiên nữ; sinh vật huyền thoại nhỏ bé, thường có cánh và phép thuật</Vi>
+          <En>a mythical being of folklore and legend, typically depicted as a small, human-like figure with magical powers and often with insect-like wings</En>
+          <Example>The children believed the fairy left a coin under their pillow in exchange for a tooth.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7718dacc-963d-46d1-90da-6c8ec28ddefa">
+              <Vi>Một sinh vật kỳ ảo trong truyện cổ tích thường xuất hiện để giúp đỡ hoặc thử thách nhân vật chính.</Vi>
+              <En>A magical creature in fairy tales who often helps or tests the protagonist.</En>
+            </Situation>
+            <Situation id="77862e55-211e-4f8a-a70a-83830ebfd68d">
+              <Vi>Từ "fairy" dùng để chỉ chung các sinh vật siêu nhiên như tiên, linh hồn, hoặc quỷ nhỏ trong văn hóa phương Tây.</Vi>
+              <En>The term "fairy" refers broadly to supernatural beings such as fairies, spirits, or small magical entities in Western folklore.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="66585b3b-a7ac-4421-b9fa-c27c24865df4" type="Noun">
+          <Vi>người rất xinh đẹp (thường nói đùa hoặc thân mật)</Vi>
+          <En>an attractive or beautiful person (used playfully or affectionately)</En>
+          <Example>She looked like a fairy at the masquerade ball, glowing in her silver gown.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c330236-e0b8-4d3a-869e-e2361fdd1877">
+              <Vi>Người dùng từ "fairy" để khen ai đó xinh đẹp một cách huyền ảo, như trong truyện cổ tích.</Vi>
+              <En>Used affectionately to praise someone’s beauty in an ethereal or magical way.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
