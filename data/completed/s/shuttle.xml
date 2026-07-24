@@ -1,0 +1,57 @@
+<Vocab id="6c103556-ccc7-49fe-8150-19fb9af8ca93" word="shuttle" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="b19a8b4a-bd13-41bb-9900-178345b973ac" value="Space" />
+  </Topics>
+  <Professions>
+    <Profession id="f8976ea2-08f1-455e-bbae-a3741a0ac6a9" value="Astronaut" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="78642677-bb0a-44e4-a9ca-261a1abb4ad2" value="Airport Staff" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ebef24db-d909-4f50-9cf0-14262e456f9f" ipa="/ˈʃʌt.əl/" vi_ipa="sờ-tun">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d7826163-4142-4340-87f6-015b4f246001" type="Noun">
+          <Vi>Chuyến bay/xe đưa đón; thoi (trong dệt); phi thuyền con</Vi>
+          <En>A vehicle that makes regular trips between two places, especially between an airport and a city; a small spacecraft designed to travel between Earth and orbit; a tool used in weaving to carry the weft thread through the warp.</En>
+          <Example>The hotel provides a free shuttle to the airport every 30 minutes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c0850728-e07c-451a-b744-9db1955ad54b">
+              <Vi>Đưa đón khách giữa sân bay và trung tâm thành phố.</Vi>
+              <En>Transporting passengers between an airport and a city center.</En>
+            </Situation>
+            <Situation id="e3640c02-0969-4455-aed7-3adb779d05b8">
+              <Vi>Phi thuyền con Space Shuttle của NASA từng bay vào quỹ đạo.</Vi>
+              <En>NASA's Space Shuttle was a reusable spacecraft used for missions in low Earth orbit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f532ca8f-f511-4b99-a3a0-c8f80abf3de3" type="Verb">
+          <Vi>Đưa đón (bằng xe/thuyền/người) thường xuyên; đưa vào quỹ đạo bằng phi thuyền con</Vi>
+          <En>To transport people or goods repeatedly between two locations; to launch or return a spacecraft using a space shuttle.</En>
+          <Example>The company shuttles employees between the office and the parking lot every morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f922df3-95e9-42a9-b8a1-912e1f3cafa9">
+              <Vi>Xe đưa đón liên tục chạy giữa hai địa điểm trong một khu công nghiệp.</Vi>
+              <En>A shuttle bus continuously runs between two locations within an industrial park.</En>
+            </Situation>
+            <Situation id="bb90b800-9a4d-4df9-9569-cb696912a2e7">
+              <Vi>Phi hành gia được đưa lên quỹ đạo bằng phi thuyền con.</Vi>
+              <En>Astronauts were shuttled into orbit using the space shuttle.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
