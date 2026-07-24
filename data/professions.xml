@@ -866,4 +866,5 @@
   <Profession id="fb37c7b1-3329-43f3-a57d-d4278c0e809f" slug="architecture" value="Architecture" />
   <Profession id="ea94551a-ef27-41b2-a40a-eaff7a6de717" slug="sports" value="Sports" />
   <Profession id="51c2f402-f5c6-4bca-bb43-93c6981608f5" slug="candle-maker" value="Candle Maker" />
+  <Profession id="26eb791c-0b69-449e-a0a0-30ecbc7f81c0" slug="meat-processor" value="Meat Processor" />
 </Professions>
