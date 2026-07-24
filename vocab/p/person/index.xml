@@ -1,0 +1,36 @@
+<Vocab id="75502295-0baf-4b47-a701-835cc1b43059" word="person" type="short" status="done">
+  <Topics>
+    <Topic id="386a9869-589e-4a3e-9edf-cfccc4462ed6" value="People &amp; Society" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c38cf5b7-88e5-4293-b2c4-6b841eeb0a4c" ipa="/ˈpɜːr.sən/" vi_ipa="pờ-rờ-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82ed27c3-9f62-4c65-a43c-aa67a53850dc" type="Noun">
+          <Vi>người</Vi>
+          <En>A human being; an individual human.</En>
+          <Example>She is a kind and thoughtful person.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ca77c107-7e5c-40c6-abba-37ae382b7f2c">
+              <Vi>Mô tả một cá nhân cụ thể trong giao tiếp hoặc văn bản.</Vi>
+              <En>Referring to an individual human in everyday conversation or writing.</En>
+            </Situation>
+            <Situation id="37744d76-00da-4093-bca8-d592e7822ef1">
+              <Vi>Dùng trong các tình huống trang trọng để chỉ ai đó một cách lịch sự (ví dụ: "the person in charge").</Vi>
+              <En>Used formally or politely to refer to someone (e.g., "the person in charge").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
