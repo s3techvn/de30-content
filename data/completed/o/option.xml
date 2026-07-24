@@ -1,0 +1,62 @@
+<Vocab id="a90b0cd9-d3cc-48a0-8f72-cf735d286956" word="option" type="short" status="done">
+  <Topics>
+    <Topic id="4cea2176-a3e8-4d2d-8cf8-e89c8ae618c1" value="Decision Making" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="986edf0a-bb99-4a14-9298-250159cae3ef" value="Financial Analyst" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e555eaa-c732-4297-bd1d-384bfb31d734" ipa="/ˈɒp.ʃən/" vi_ipa="ốp-si-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31bcbf03-c7a7-4634-8389-12fc0316fd35" type="Noun">
+          <Vi>lựa chọn; tùy chọn</Vi>
+          <En>a choice or possibility among several alternatives</En>
+          <Example>You have the option to pay by credit card or PayPal.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9d0c1854-a6ff-4454-99b7-f70ac1592894">
+              <Vi>Một người đang chọn giữa các phương án trả tiền khi mua hàng trực tuyến.</Vi>
+              <En>A person choosing between payment methods during online checkout.</En>
+            </Situation>
+            <Situation id="35c86035-cac9-45cc-a1a0-c474952af702">
+              <Vi>Một lập trình viên chọn giữa các tùy chọn cài đặt phần mềm.</Vi>
+              <En>A programmer selecting software installation options (e.g., custom vs. default).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="7c8cb4a4-7e3b-479c-bd4d-0babadbb0660" ipa="/əpˈʃən/" vi_ipa="ơ-psi-ơn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d5ba551a-f8ed-4898-a1f8-62fa6c7d0d9a" type="Noun">
+          <Vi>quyền chọn (chứng khoán)</Vi>
+          <En>a financial contract that gives the buyer the right, but not the obligation, to buy or sell an asset at a predetermined price before a specified date</En>
+          <Example>The investor bought a call option on Apple stock.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="337649db-34f5-4fad-8d38-9c6a1e00e6d8">
+              <Vi>Một nhà giao dịch tài chính phân tích giá quyền chọn mua cổ phiếu.</Vi>
+              <En>A financial trader analyzes the pricing of call options for tech stocks.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
