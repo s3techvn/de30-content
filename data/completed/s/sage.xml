@@ -1,0 +1,52 @@
+<Vocab id="c63a1e52-b61d-480e-b842-0062b3f21a75" word="sage" type="short" status="done">
+  <Topics>
+    <Topic id="1e0956de-ca0c-4f6b-84d7-33a60e5b852c" value="Botany" />
+    <Topic id="f863e982-f119-4e49-93b2-460aaf79d394" value="Culinary" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="84490b98-b0a5-4bfe-8ec5-9b6ebb1efa2c" value="Herbalist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e43f3e27-0b9e-462d-b0bb-2767425aec6e" ipa="/seɪdʒ/" vi_ipa="xê-gi">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9d9eebb9-17bd-4c30-b1de-85742eead428" type="Noun">
+          <Vi>rau thơm họ bạc hà, có mùi thơm mạnh và vị đắng; người hiền triết</Vi>
+          <En>A aromatic herb with a strong, slightly bitter taste, used in cooking and traditional medicine; also refers to a wise person.</En>
+          <Example>She added fresh sage to the stuffing for the turkey.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90477cd8-bcb9-48cc-ae9c-a1f0b1a7e4ff">
+              <Vi>Người ta dùng lá sage để nêm món ăn, đặc biệt là các món thịt.</Vi>
+              <En>Sage leaves are commonly used as a seasoning, especially in meat dishes.</En>
+            </Situation>
+            <Situation id="4c878a83-5a59-4472-8e5d-8db62d886986">
+              <Vi>Trong văn học cổ điển, "sage" thường chỉ một người có trí tuệ sâu sắc và kinh nghiệm sống.</Vi>
+              <En>In classical literature, "sage" often refers to a person of profound wisdom and life experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="784d7c9e-f97d-4e60-92e0-da7b56b78049" type="Adjective">
+          <Vi>hiền minh, khôn ngoan, có trí tuệ sâu sắc</Vi>
+          <En>Having or showing great wisdom or sound judgment.</En>
+          <Example>He gave her a sage piece of advice before she made the big decision.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="06dc282f-c1b4-4057-bf50-d506325264f1">
+              <Vi>Người ta mô tả một người lớn tuổi có kinh nghiệm và bình tĩnh là "a sage figure".</Vi>
+              <En>People describe an elderly, experienced, and calm individual as "a sage figure".</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
