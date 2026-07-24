@@ -1,0 +1,65 @@
+<Vocab id="7e562f1d-48ff-4d8a-9da0-47ef7c89523d" word="fool" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="fd04f924-b6a5-4589-9718-9338c4459e10" value="Social Interaction" />
+  </Topics>
+  <Professions>
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="08cae34a-388e-4a09-bdee-a9788fee74e6" ipa="/fuːl/" vi_ipa="phun">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c1c18a13-81f6-42c5-9612-797b919d031d" type="Noun">
+          <Vi>kẻ ngốc; người ngây ngốc; người bị lừa dối</Vi>
+          <En>a person who is silly or lacks judgment; someone who is easily deceived</En>
+          <Example>He acted like a fool by trusting the scammer without question.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c52488a8-0fd5-47d3-bd8e-42942221364d">
+              <Vi>Mô tả người hành động thiếu suy nghĩ hoặc dễ bị lừa gạt.</Vi>
+              <En>Describes someone acting without careful thought or easily tricked.</En>
+            </Situation>
+            <Situation id="b5226269-c633-436b-b0f0-38c747f7a986">
+              <Vi>Trong văn học hoặc sân khấu, chỉ nhân vật hài hước thường đeo mặt nạ và chuông.</Vi>
+              <En>In literature or theater, refers to a comic character wearing a cap with bells.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9c3e256d-09ce-4145-b671-a56602535cb2" ipa="/fuːl/" vi_ipa="phun">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="06804d50-1c62-4dae-b53e-cbe1b744e4b5" type="Verb">
+          <Vi>lừa dối; đánh lừa; khiến ai đó hành động ngốc nghếch</Vi>
+          <En>to deceive or trick someone; to make someone act foolishly</En>
+          <Example>Don’t let him fool you with his smooth talk.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5825b486-9e29-41c5-88bd-741318911005">
+              <Vi>Dùng khi ai đó cố tình làm người khác tin điều sai lầm.</Vi>
+              <En>Used when someone deliberately makes another believe something false.</En>
+            </Situation>
+            <Situation id="e57a2d38-c507-452d-97a3-3a1a854b4acb">
+              <Vi>Trong trò đùa hoặc hài hước, chỉ hành vi gây cười bằng cách giả vờ ngốc nghếch.</Vi>
+              <En>In humorous contexts, refers to pretending to be foolish for comedic effect.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

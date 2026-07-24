@@ -1,0 +1,53 @@
+<Vocab id="18dfa7f6-ca5c-49e5-b806-2a2a196969f6" word="received" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="18286525-3c3a-466c-9c74-ee80cf0db02f" value="Administrative Assistant" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="dc36a40e-be63-4f32-92a4-5794524b48a1" ipa="/rɪˈsiːvd/" vi_ipa="ri-xi-íp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="57c256c6-7554-4dba-b8a9-bfb19e535ce4" type="Adjective">
+          <Vi>đã nhận được, đã được tiếp nhận</Vi>
+          <En>Having been delivered, accepted, or obtained.</En>
+          <Example>I received your email this morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2613c49-fe7e-410d-94ef-7442382acd51">
+              <Vi>Người nói xác nhận đã nhận được một món hàng, thư từ, hoặc thông tin.</Vi>
+              <En>The speaker confirms having received a package, letter, or information.</En>
+            </Situation>
+            <Situation id="d0e6ed8b-dd91-41ea-801c-51ddf05cd8db">
+              <Vi>Trong văn phòng, nhân viên báo cáo rằng họ đã nhận được chỉ thị từ cấp trên.</Vi>
+              <En>In an office setting, an employee reports having received instructions from management.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c1e060b0-bc30-4514-967b-80094256653c" type="Verb (past tense of receive)">
+          <Vi>đã nhận, đã nhận được (hành động)</Vi>
+          <En>The past tense and past participle of *receive*, meaning to take or accept something offered or delivered.</En>
+          <Example>She received the award with gratitude.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6303e353-5231-43b5-8570-1cc2f86ced71">
+              <Vi>Người nhận một món quà sinh nhật từ bạn bè.</Vi>
+              <En>Someone accepting a birthday gift from friends.</En>
+            </Situation>
+            <Situation id="729cb0f5-7812-4581-8599-ad8b79d867d7">
+              <Vi>Trong giao dịch tài chính, ngân hàng xác nhận đã nhận được khoản thanh toán.</Vi>
+              <En>In financial transactions, the bank confirms it has received the payment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
