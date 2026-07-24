@@ -1,0 +1,38 @@
+<Vocab id="aea97888-cd9a-4ff9-bf9c-94498ba3d5c3" word="television" type="short" status="done">
+  <Topics>
+    <Topic id="6e18131d-eb76-4cc1-94e3-e5f09825de58" value="Media &amp; Entertainment" />
+  </Topics>
+  <Professions>
+    <Profession id="c812f66d-9849-4306-9444-2abcca155130" value="Broadcast Journalist" />
+    <Profession id="82b1eb78-1bd9-4033-a34a-11ea1f3df32c" value="Video Editor" />
+    <Profession id="a2089c14-09e9-478c-b587-7975ed061b59" value="Television Producer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="35466717-e184-444e-b300-78424ebeb4de" ipa="/ˈtel.ɪ.vɪ.zən/" vi_ipa="tê-lê-vi-dê-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ed65dbb0-90b4-4f0b-a31d-a3e514c34702" type="Noun">
+          <Vi>máy thu hình; tivi</Vi>
+          <En>A device for receiving video and audio broadcasts, typically used for watching news, shows, and movies at home.</En>
+          <Example>She turned on the television to catch the evening news.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36b45073-722f-430c-b2cf-256ec656a606">
+              <Vi>Ngồi xem phim hoặc tin tức trên tivi sau giờ làm việc.</Vi>
+              <En>Sitting down to watch movies or news on the television after work.</En>
+            </Situation>
+            <Situation id="9a067e49-6fa2-4281-97d9-69cecad966d0">
+              <Vi>Gia đình quây quần bên tivi trong các dịp lễ Tết.</Vi>
+              <En>The family gathers around the television during holidays and Tet.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

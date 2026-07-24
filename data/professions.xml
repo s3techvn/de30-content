@@ -908,4 +908,6 @@
   <Profession id="91edfa96-5de7-4b41-a2b3-cdb13c38e0f6" slug="children_s-educator" value="Children's Educator" />
   <Profession id="475c6c5f-0269-4d84-af00-ab86d03b593a" slug="immigration-consultant" value="Immigration Consultant" />
   <Profession id="537a0d94-d995-496f-ad81-fec6e1faa130" slug="farm-owner" value="Farm Owner" />
+  <Profession id="c812f66d-9849-4306-9444-2abcca155130" slug="broadcast-journalist" value="Broadcast Journalist" />
+  <Profession id="a2089c14-09e9-478c-b587-7975ed061b59" slug="television-producer" value="Television Producer" />
 </Professions>
