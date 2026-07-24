@@ -1,0 +1,32 @@
+<Vocab id="39b7f35a-60ff-4474-add2-1e613d7af586" word="taylor" type="short" status="done">
+  <Topics>
+    <Topic id="ef4eac5c-f42d-4374-9da3-a240f95a85d2" value="Professions" />
+  </Topics>
+  <Professions>
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b3154737-20b9-4786-9b74-ad1ac866790e" ipa="/ˈteɪ.lər/" vi_ipa="tê-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="563cbdce-1622-4ffd-8573-e18ee5bc7c40" type="Noun">
+          <Vi>thợ may (họ hoặc tên riêng)</Vi>
+          <En>A surname or given name; also a variant spelling of "tailor," meaning a person who makes or alters clothing.</En>
+          <Example>John Taylor is a skilled tailor who specializes in custom suits.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ea1302b-1c74-4f9b-99d9-454ba93cce93">
+              <Vi>Dùng như họ phổ biến ở Anh-Mỹ, hoặc chỉ nghề thợ may (thường viết hoa trong tên riêng).</Vi>
+              <En>Used as a common English surname or as a variant spelling of "tailor," especially in occupational contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

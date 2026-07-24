@@ -1,0 +1,66 @@
+<Vocab id="9e16b790-58b5-400a-8060-9367db191635" word="extra" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="1f8fea3f-a32d-4ef3-944d-34540d599f2b" value="Work" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d45062de-98e8-4941-b7b6-1d1ea939988c" ipa="/ˈek.strə/" vi_ipa="éc-trơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="cf98753b-3008-4f07-b735-0cdd11b47289" type="Adjective">
+          <Vi>thêm, phụ, dự phòng</Vi>
+          <En>additional; extra, beyond what is usual or necessary</En>
+          <Example>We ordered the main dish and an extra side of fries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d623b56c-1060-4f4c-bc42-45f0fb868e92">
+              <Vi>Chỉ vật hoặc dịch vụ được cung cấp thêm ngoài tiêu chuẩn hoặc yêu cầu cơ bản.</Vi>
+              <En>Refers to something provided beyond the standard or basic requirement.</En>
+            </Situation>
+            <Situation id="dee8203b-8dd6-4421-9112-76c880475d85">
+              <Vi>Thường dùng khi đề cập đến chi phí bổ sung (ví dụ: phí extra cho hành lý quá cước).</Vi>
+              <En>Often used when referring to additional charges (e.g., extra fee for overweight luggage).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="dedbf6e3-dee1-4dd1-a59b-d41b572ffcb1" ipa="/ˈek.strə/" vi_ipa="éc-trơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="713cad20-a535-47f5-8f64-c1f77f2b2d4a" type="Adverb">
+          <Vi>thêm, phụ, ngoài ra</Vi>
+          <En>in addition; further; extra</En>
+          <Example>She worked extra hours to finish the project on time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c54d1c4-f1c7-424a-90fa-280516208504">
+              <Vi>Mô tả hành động được thực hiện vượt quá mức thông thường hoặc yêu cầu.</Vi>
+              <En>Describes an action performed beyond the usual or required level.</En>
+            </Situation>
+            <Situation id="d8feab04-fa0b-4075-b2ea-f0b13733d4b6">
+              <Vi>Thường dùng trong ngữ cảnh làm việc để chỉ thời gian làm thêm.</Vi>
+              <En>Commonly used in work contexts to indicate overtime or additional work time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
