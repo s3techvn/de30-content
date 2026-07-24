@@ -1,0 +1,40 @@
+<Vocab id="3f5a02dd-5787-4f88-85a3-8dd100cf8e10" word="electric" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="9d9cd7b2-c2e2-4518-a7b0-a17b2f424951" value="Energy" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5f6726d2-50f4-4223-997a-5277d985d325" ipa="/ɪˈlek.trɪk/" vi_ipa="i-léc-tríc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5e9b5227-68f1-417f-9df3-af713fc1d5ae" type="Adjective">
+          <Vi>điện, điện học, dùng điện</Vi>
+          <En>Relating to electricity, or powered by electricity.</En>
+          <Example>The electric car charges quickly at the new station.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c3d774a-117e-4c01-a7de-eb6b18e1a566">
+              <Vi>Mô tả thiết bị hoặc hệ thống hoạt động bằng điện.</Vi>
+              <En>Describing a device or system that operates using electricity.</En>
+            </Situation>
+            <Situation id="3c79e504-476e-4f1c-8748-38ce9e9bf5bc">
+              <Vi>Liên quan đến hiện tượng điện hoặc ngành điện học.</Vi>
+              <En>Relating to electrical phenomena or the science of electricity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

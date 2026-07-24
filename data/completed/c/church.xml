@@ -1,0 +1,54 @@
+<Vocab id="d03bd83e-0a4c-4d48-8b3e-bb53295e484d" word="church" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="4825cf81-6fbd-4782-827a-0bcbd97f2f32" value="Clergy" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ee67070d-cdaa-460b-97aa-2e8da41271b7" ipa="/tʃɜːrtʃ/" vi_ipa="chờ-ch">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ba9e3433-f959-4119-ac3d-da2b22b10a3a" type="Noun">
+          <Vi>Giáo đường; nhà thờ</Vi>
+          <En>A building for Christian worship, typically having a cross, altar, and pews.</En>
+          <Example>The community gathers at the church every Sunday for morning service.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80cbd0c5-86c1-4bdb-8b70-0262576bd260">
+              <Vi>Người dân đi dự lễ Chúa Nhật tại nhà thờ địa phương.</Vi>
+              <En>People attend Sunday Mass at their local church.</En>
+            </Situation>
+            <Situation id="2f5353f0-2860-45e6-bbde-389685768edf">
+              <Vi>Một cặp đôi tổ chức lễ cưới trong nhà thờ cổ.</Vi>
+              <En>A couple holds their wedding ceremony in a historic church.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8bcdf117-3168-4ff2-a19a-c71658c626f2" type="Noun">
+          <Vi>Cộng đồng tín đồ; giáo hội (như một tổ chức)</Vi>
+          <En>The Christian religious community as a whole, or a particular denomination.</En>
+          <Example>The church has taken a strong stance on social justice issues.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f7643cd3-b9c0-4a07-8cf8-dbdd7f00ca78">
+              <Vi>Giáo hội Công giáo tổ chức đại hội quốc tế hàng năm.</Vi>
+              <En>The Catholic Church holds an annual international convention.</En>
+            </Situation>
+            <Situation id="5102cb3a-999d-46cd-bfff-70f937028720">
+              <Vi>Những người tin vào Chúa Giêsu được gọi là tín đồ của Giáo hội.</Vi>
+              <En>Those who believe in Jesus Christ are called members of the Church.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
