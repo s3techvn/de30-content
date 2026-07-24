@@ -1,0 +1,64 @@
+<Vocab id="90cd64a8-86d3-45ef-9445-07af992bae95" word="home" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+    <Topic id="73e47371-6bd4-47aa-a2c5-8d5b0ea0f5bb" value="Real Estate" />
+  </Topics>
+  <Professions>
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="88c60185-e4f2-40af-b930-053c27896eb3" ipa="/hoʊm/" vi_ipa="hôm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1570723d-89a5-487a-93d0-5bd1286c873b" type="Noun">
+          <Vi>nhà; nơi chốn quen thuộc; quê hương</Vi>
+          <En>The place where one lives permanently, especially as a member of a family or household; a familiar or comforting place or situation.</En>
+          <Example>She finally returned home after a long trip abroad.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e01ef443-8e95-4781-9204-8eb6a5b919e6">
+              <Vi>Một ngôi nhà mà một người sống cùng gia đình.</Vi>
+              <En>A building where a person lives with their family.</En>
+            </Situation>
+            <Situation id="33eae24f-5a7b-4551-8d47-f219125ba231">
+              <Vi>Cảm giác an toàn, thân thuộc trong một môi trường quen thuộc.</Vi>
+              <En>A feeling of safety and familiarity in a familiar environment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9bf696d7-6f40-4d30-8a74-9ab7ace74699" type="Adjective">
+          <Vi>thuộc về nhà; tại nhà</Vi>
+          <En>Relating to or located at one’s home; not away or traveling.</En>
+          <Example>My brother is at home studying for his exams.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5a49a5b-b7a9-4efd-9390-7689f2ddd194">
+              <Vi>Khi ai đó không ở nơi làm việc hoặc không đi du lịch.</Vi>
+              <En>When someone is not at work or traveling.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ef7394cf-08f2-47bc-8c94-f59eea4ab70a" type="Adverb">
+          <Vi>về nhà; tại nhà</Vi>
+          <En>To or at one’s home; back to the place where one lives.</En>
+          <Example>Let’s go home early today—it’s been a long day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="206f9e97-1740-41a0-b069-f35c12f03de1">
+              <Vi>Hành động trở về nơi mình sinh sống.</Vi>
+              <En>The action of returning to one’s residence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
