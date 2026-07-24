@@ -1,0 +1,60 @@
+<Vocab id="13f8962e-7f5e-4848-8e29-5b7a89c613f8" word="alpha" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b206002e-7e19-4765-9f59-788f22d0207e" value="Astronomy" />
+  </Topics>
+  <Professions>
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+    <Profession id="7f7fbe8b-7ae5-44e1-a012-6ef01457db3e" value="Astronomer" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="68343b2f-aeaf-4637-ae66-6bb45cef9bf9" ipa="/ˈæl.fə/" vi_ipa="an-fơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="52ac4690-49bc-4475-a9bc-7d8175a5b9a5" type="Noun">
+          <Vi>chữ alpha, chữ cái đầu tiên trong bảng chữ cái Hy Lạp</Vi>
+          <En>the first letter of the Greek alphabet (Α, α)</En>
+          <Example>The Greek word "alphabet" comes from the first two letters: alpha and beta.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="72d0d1af-ca13-4061-9755-36f43f9d0fe8">
+              <Vi>Sử dụng khi học bảng chữ cái Hy Lạp trong môn toán hoặc vật lý.</Vi>
+              <En>Used when learning the Greek alphabet in mathematics or physics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="59f7f0c8-e079-4c0c-9eb8-01a0c2e9e508" type="Noun">
+          <Vi>chỉ người hoặc vật quan trọng nhất trong một nhóm</Vi>
+          <En>the most important or dominant person or thing in a group</En>
+          <Example>She is the alpha of the team—everyone looks to her for leadership.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="db958283-5169-42ae-94fc-bb584d24b147">
+              <Vi>Thường dùng trong ngữ cảnh nhóm làm việc hoặc xã hội để chỉ người lãnh đạo.</Vi>
+              <En>Often used in group or social contexts to refer to the leader or dominant member.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fab2ca68-a4e7-434d-99d4-c8885b545b76" type="Noun">
+          <Vi>chỉ tia alpha, một dạng bức xạ hạt nhân</Vi>
+          <En>a type of nuclear radiation consisting of helium nuclei, consisting of two protons and two neutrons</En>
+          <Example>Alpha particles are the least penetrating form of nuclear radiation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="704a8384-b62d-452f-a122-83891051e2bc">
+              <Vi>Xảy ra trong vật lý hạt nhân hoặc y học điều trị ung thư bằng xạ trị.</Vi>
+              <En>Occurs in nuclear physics or radiation therapy for cancer treatment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
