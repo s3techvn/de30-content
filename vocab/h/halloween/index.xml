@@ -1,0 +1,40 @@
+<Vocab id="1ffeb5ee-7bee-46c0-935a-f32481884b7d" word="halloween" type="short" status="done">
+  <Topics>
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="4ccf17bc-2251-48dc-94d5-017eb038267e" value="Holidays" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86b57477-af2a-40d4-9bc2-aa065fe2a896" ipa="/ˌhæl.əˈwɪn/" vi_ipa="hờ-lờ-vin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c2e7d6d5-39af-4139-bf60-014c86d310ff" type="Noun">
+          <Vi>Lễ Halloween, đêm trước ngày Lễ Các Thánh (31 tháng 10)</Vi>
+          <En>A holiday celebrated on October 31, involving costumes, trick-or-treating, and decorations like pumpkins and ghosts</En>
+          <Example>Children dress up in costumes and go door-to-door saying "Trick or treat!" on Halloween.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="382cca94-0893-4db0-9445-08647c5e63a3">
+              <Vi>Người dân trang trí nhà bằng bí ngô, đèn lồng và quỷ giả để chuẩn bị cho lễ hội.</Vi>
+              <En>People decorate homes with jack-o’-lanterns, cobwebs, and spooky props in preparation for the holiday.</En>
+            </Situation>
+            <Situation id="7a3748d8-815c-4366-b471-a83e0a7d12ac">
+              <Vi>Nhiều công ty tổ chức tiệc hóa trang nhân dịp Halloween.</Vi>
+              <En>Many companies host costume parties to celebrate Halloween.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
