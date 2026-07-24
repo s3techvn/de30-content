@@ -1,0 +1,33 @@
+<Vocab id="d2ae955a-1655-4743-933e-d1413a4a5c7d" word="fig" type="short" status="done">
+  <Topics>
+    <Topic id="43bd3faf-3454-4c41-a52a-98ff50b4b5c0" value="Food" />
+  </Topics>
+  <Professions>
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+    <Profession id="9e56306b-9ea7-4ea4-a374-38b29c6acd38" value="Nutritionist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9e934853-1005-460a-9ccd-e84c04a04795" ipa="/fɪɡ/" vi_ipa="phích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e3043959-36b8-4e2c-8e4a-eba86656a520" type="Noun">
+          <Vi>Cây vả; quả vả</Vi>
+          <En>A soft, sweet fruit with purple or green skin and small seeds inside, produced by the fig tree.</En>
+          <Example>She baked a delicious fig tart for dessert.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f51c11c9-76ff-4b29-b45b-6fe04a085392">
+              <Vi>Mô tả loại trái cây nhiệt đới thường dùng trong bánh ngọt hoặc ăn tươi.</Vi>
+              <En>Describing a tropical fruit commonly used in desserts or eaten fresh.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
