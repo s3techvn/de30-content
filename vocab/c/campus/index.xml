@@ -1,0 +1,38 @@
+<Vocab id="cba60f72-d78d-45e5-8caf-ddcfea6b9d07" word="campus" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="7c7707bd-01e5-40ec-8cb3-3ff26d9b87e4" value="University Administrator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ae057d67-c614-479f-9281-415973f3a101" ipa="/ˈkæm.pəs/" vi_ipa="căm-pơ-sờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1a1b8885-fa2d-403b-846b-b2e48b6849e4" type="Noun">
+          <Vi>Khuôn viên trường học (đặc biệt là đại học)</Vi>
+          <En>The grounds and buildings of a university, school, or other educational institution.</En>
+          <Example>Students often study in the library or relax on the campus lawn during breaks.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5fd17aa2-ab01-45c8-ae4b-870dad10e502">
+              <Vi>Mô tả không gian học tập và sinh hoạt của sinh viên trong một trường đại học.</Vi>
+              <En>Describing the physical environment where students attend classes, live, and socialize at a university.</En>
+            </Situation>
+            <Situation id="8011a365-ae70-4ea8-bdcb-f7fddf8c0397">
+              <Vi>Tên gọi cho khu vực chính của một cơ sở giáo dục (ví dụ: "campus map", "campus security").</Vi>
+              <En>Referring to official terms related to university infrastructure (e.g., campus map, campus security).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

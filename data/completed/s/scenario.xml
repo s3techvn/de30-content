@@ -1,0 +1,40 @@
+<Vocab id="0c191034-9061-4193-867a-ba624653cac2" word="scenario" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="27e962ba-d6e3-459c-a8e8-a07c5c5f64e2" value="Strategist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="527202a5-ff4c-47a1-9d54-a91b3730e4ae" ipa="/səˈnær.i.oʊ/" vi_ipa="xơ-na-ri-ô">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2dc08068-23e3-483d-a41b-86534a24477a" type="Noun">
+          <Vi>Kịch bản; tình huống; kịch tính</Vi>
+          <En>A sequence of events or a possible situation, especially one involving interaction among people or systems, often used for planning, analysis, or simulation.</En>
+          <Example>The team developed several scenarios to prepare for potential market disruptions.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8f25ea6f-823a-4b19-a4ca-181a962cf284">
+              <Vi>Mô phỏng các khả năng xảy ra trong tương lai để ra quyết định chiến lược.</Vi>
+              <En>Modeling possible future developments to inform strategic decisions.</En>
+            </Situation>
+            <Situation id="f0cdcbf6-22dd-40f9-aae7-ebd09f55c929">
+              <Vi>Trong lập trình, một chuỗi các sự kiện được định sẵn để kiểm tra hệ thống.</Vi>
+              <En>In programming, a predefined sequence of events used to test system behavior.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
