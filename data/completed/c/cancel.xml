@@ -1,0 +1,52 @@
+<Vocab id="f05c2738-22be-4832-b861-50fe0d44caac" word="cancel" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3942dff1-c099-4acf-9f6c-1c3019ca4e6d" ipa="/ˈkæn.səl/" vi_ipa="cann-xờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="26f42bda-6c35-44f2-81fe-3f80bf208782" type="Verb">
+          <Vi>Hủy bỏ</Vi>
+          <En>To decide or announce that something will not happen, especially officially or formally.</En>
+          <Example>We had to cancel our vacation due to bad weather.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d8f925a9-771d-4103-bfdf-d97734c41837">
+              <Vi>Hủy đặt chỗ, đặt tour, hoặc sự kiện đã lên kế hoạch.</Vi>
+              <En>Canceling a reservation, trip, or planned event, often with a notice or formal request.</En>
+            </Situation>
+            <Situation id="cb8617e0-ed10-43fa-b854-1b903f9a60a1">
+              <Vi>Hủy bỏ một thỏa thuận, hợp đồng, hoặc cam kết.</Vi>
+              <En>Terminating a contract, agreement, or commitment before it is fulfilled.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="bd08aba6-062a-48a1-8793-c4236e05cbe7" type="Verb">
+          <Vi>Xóa, gạch bỏ (văn bản, số liệu)</Vi>
+          <En>To mark something (e.g., text or a number) as invalid or incorrect by drawing a line through it.</En>
+          <Example>She canceled the incorrect entry by drawing a single line through it.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e5b67eff-c59a-4314-9bb0-e4e533d7920d">
+              <Vi>Gạch chéo một mục trong danh sách hoặc hóa đơn vì không còn cần thiết hoặc đã thanh toán.</Vi>
+              <En>Marking an item on a list or invoice as processed or no longer applicable by crossing it out.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
