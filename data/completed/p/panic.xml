@@ -1,0 +1,54 @@
+<Vocab id="13d7f76c-c3ed-40ad-a007-77e0a5822a57" word="panic" type="short" status="done">
+  <Topics>
+    <Topic id="1641149e-fa7a-42ea-84cd-442b1e119467" value="Emotions &amp; Reactions" />
+  </Topics>
+  <Professions>
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="a80c2f14-6ee7-4859-8e3a-52b1b218562a" ipa="/ˈpæn.ɪk/" vi_ipa="pan-ích">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f3d57cf-0659-41c9-ba7e-b22c3caba520" type="Noun">
+          <Vi>Sự hoảng loạn; cơn hoảng loạn</Vi>
+          <En>A sudden feeling of fear or anxiety that is so strong as to prevent clear thinking and rational behavior.</En>
+          <Example>She felt a wave of panic when she realized she had missed her flight.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e74665b1-886c-4e27-a783-6b68ae011136">
+              <Vi>Tình huống bị kẹt trong thang máy và không thể gọi giúp đỡ.</Vi>
+              <En>Being trapped in an elevator with no way to call for help.</En>
+            </Situation>
+            <Situation id="da1b0268-f007-4f48-8697-4ea99e6acaf7">
+              <Vi>Hành khách hoảng loạn khi máy bay gặp turbulence mạnh.</Vi>
+              <En>Passengers panicking when the plane encounters severe turbulence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="12dc1a18-f0de-4839-9935-4b69e21deb05" type="Verb">
+          <Vi>Hoảng loạn; hoảng sợ</Vi>
+          <En>To become overwhelmed with fear or anxiety, especially in a way that causes irrational behavior.</En>
+          <Example>He panicked when he couldn’t find his passport before the interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2dc75001-501d-43bb-b8ff-3b2687e5caaf">
+              <Vi>Nhân viên y tế hoảng loạn khi bệnh nhân đột ngột ngưng tim.</Vi>
+              <En>The medical staff panicked when the patient suddenly went into cardiac arrest.</En>
+            </Situation>
+            <Situation id="07253299-1109-4bc1-af7a-1f32ee500ad6">
+              <Vi>Cô ấy hoảng loạn khi phát hiện nhà bị trộm.</Vi>
+              <En>She panicked when she discovered her house had been burglarized.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

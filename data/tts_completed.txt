@@ -2077,3 +2077,4 @@ option
 oracle
 mar
 dig
+detect
