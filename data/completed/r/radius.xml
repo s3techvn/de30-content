@@ -1,0 +1,56 @@
+<Vocab id="bf32e093-90d7-4af4-9663-a805fafd9031" word="radius" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="de154075-55c1-4852-9c18-37c44ce05982" value="Geometry" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+  </Topics>
+  <Professions>
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="052ae3bf-3301-4eef-8678-535a2fe334cd" value="Architect" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f79c6b73-77f9-4c6f-8e42-6110094dd975" ipa="/ˈreɪ.di.əs/" vi_ipa="rây-dia">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e1f7a8dc-6242-4f86-9599-f5fd3c89e4a7" type="Noun">
+          <Vi>Bán kính</Vi>
+          <En>The distance from the center to the circumference of a circle or sphere.</En>
+          <Example>The radius of the circular garden is 5 meters.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f729cb3b-e363-45a6-bcd0-761dab01fedb">
+              <Vi>Tính toán kích thước hình tròn hoặc hình cầu trong hình học.</Vi>
+              <En>Calculating dimensions of circles or spheres in geometry.</En>
+            </Situation>
+            <Situation id="b95d72f6-4b21-4727-b8ab-a22e81e3dce0">
+              <Vi>Mô tả phạm vi ảnh hưởng hoặc hoạt động (theo nghĩa bóng).</Vi>
+              <En>Describing the scope of influence or activity (in a figurative sense).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4a4a4e60-d4e9-4a8d-b890-1f94f2983a2b" type="Noun">
+          <Vi>Xương quay (xương cẳng tay)</Vi>
+          <En>The longer and thinner of the two bones in the human forearm, located on the side of the thumb.</En>
+          <Example>The radius and ulna work together to allow rotation of the forearm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a6d3662-530e-4be3-a638-3bbd804f25be">
+              <Vi>Chấn thương hoặc gãy xương quay trong tai nạn.</Vi>
+              <En>Fracture or injury of the radius in accidents.</En>
+            </Situation>
+            <Situation id="dec4a46b-bbab-4e6b-89fa-068c45cf3f8a">
+              <Vi>Giải phẫu học và y khoa khi mô tả cấu trúc tay.</Vi>
+              <En>Anatomy and medicine when describing hand structure.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
