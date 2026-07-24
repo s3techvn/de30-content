@@ -1,0 +1,34 @@
+<Vocab id="4abf8146-bdda-49cd-9161-ca4a9634b8ff" word="joshua" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+    <Profession id="4d31b70c-4c5c-46fe-bf83-23c563e676aa" value="Biblical Figure" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="821bfc32-e12a-4327-b713-56d51b598bf5" ipa="/ˈdʒɒʃ.u.ə/" vi_ipa="giô-shu-a">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a37e1faf-8545-427c-a2ad-90f21a4f0812" type="Proper Noun">
+          <Vi>Giô-suê</Vi>
+          <En>A biblical figure; the successor of Moses who led the Israelites into the Promised Land of Canaan.</En>
+          <Example>According to the Book of Joshua in the Bible, he oversaw the conquest of Jericho.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5c5831bc-d611-4669-83dd-e02ccbf56f57">
+              <Vi>Thường được nhắc đến trong các bài giảng tôn giáo, kinh thánh học, hoặc nghiên cứu lịch sử cổ đại.</Vi>
+              <En>Commonly referenced in religious sermons, biblical studies, or ancient history discussions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
