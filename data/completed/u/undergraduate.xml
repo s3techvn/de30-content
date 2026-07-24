@@ -1,0 +1,54 @@
+<Vocab id="4d2183d1-788f-4eea-bfe7-423ee3c5d5b9" word="undergraduate" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="29619bac-bdb1-49e7-9582-8b2e748f6335" value="Student" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="9006576e-a290-4bf0-9dd0-29386ab5d004" value="Academic Advisor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8c3c4a59-62fe-4139-b88d-20751c5ba6cc" ipa="/ˌʌn.dərˈɡræd.ʃu.ət/" vi_ipa="ân-đờ-gra-đu-át">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9e0df967-cec6-43cb-852a-95d784f4df81" type="Noun">
+          <Vi>Sinh viên đại học (đang theo học chương trình cử nhân)</Vi>
+          <En>A student who is studying for their first degree at a university, typically a bachelor’s degree.</En>
+          <Example>She is an undergraduate majoring in environmental science.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="63a2dbef-ae5f-46a0-90a2-fc762ebaf9aa">
+              <Vi>Mô tả một người đang theo học chương trình đại học chưa tốt nghiệp.</Vi>
+              <En>Describes someone currently enrolled in a bachelor’s degree program but not yet graduated.</En>
+            </Situation>
+            <Situation id="b5ed9074-57b4-4c25-975a-9e1db7aa4b34">
+              <Vi>Thường dùng trong ngữ cảnh học thuật hoặc hồ sơ tuyển sinh.</Vi>
+              <En>Commonly used in academic or admissions contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5c1b873d-e565-4c34-bd93-9f15251bf666" type="Adjective">
+          <Vi>thuộc về sinh viên đại học; dành cho sinh viên đại học</Vi>
+          <En>Relating to or intended for students pursuing their first degree.</En>
+          <Example>The undergraduate library is open to all students.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac27501f-444f-4835-91b8-fb32194f5d09">
+              <Vi>Mô tả cơ sở vật chất, chương trình, hoặc hoạt động dành riêng cho sinh viên đại học.</Vi>
+              <En>Describes facilities, programs, or activities specifically for bachelor’s students.</En>
+            </Situation>
+            <Situation id="2c8bf6cf-4293-4258-b09d-e255b4c960c6">
+              <Vi>Trong học bạ hoặc bảng điểm: ghi rõ trình độ đại học (không phải sau đại học).</Vi>
+              <En>In transcripts: indicates coursework at the bachelor’s level, not graduate-level.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
