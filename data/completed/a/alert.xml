@@ -1,0 +1,98 @@
+<Vocab id="9759c78f-f48d-4e30-87f9-29cb6058df92" word="alert" type="short" status="done">
+  <Topics>
+    <Topic id="e39c6d71-82c0-4699-b950-77729363b20b" value="Safety and Emergency" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="3ebe6f32-e77d-4487-b34e-9d186cd13e50" value="Security Officer" />
+    <Profession id="6725d81b-fd21-4dcc-a681-73f5d2927b55" value="Emergency Responder" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c4727b0f-7554-4d35-912c-48ee822bad98" ipa="/əˈlɜːrt/" vi_ipa="ơ-let">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7316bb87-2b2a-401e-819f-0a58a4378bdd" type="Adjective">
+          <Vi>thận trọng, cảnh giác, sẵn sàng hành động</Vi>
+          <En>Watchful, ready to act, or aware of potential danger or opportunity.</En>
+          <Example>She remained alert during the night drive to avoid accidents.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="77b69fe9-e7fa-40d3-8161-4ad7ba4b5aae">
+              <Vi>Tình trạng tỉnh táo, sẵn sàng phản ứng khi lái xe ban đêm.</Vi>
+              <En>Being attentive and prepared to react while driving at night.</En>
+            </Situation>
+            <Situation id="06bd1900-8b78-4bd5-bc50-0337766281f5">
+              <Vi>Cảnh sát giữ tư thế cảnh giác khi tuần tra khu vực nguy hiểm.</Vi>
+              <En>Police officers stay on high alert while patrolling a high-risk area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b97fb362-23b8-4587-a76f-59f5a706627d" type="Noun">
+          <Vi>mức độ sẵn sàng hành động; cảnh báo khẩn cấp</Vi>
+          <En>A state of heightened watchfulness or readiness, especially in response to a threat or emergency.</En>
+          <Example>The military was placed on high alert after the intelligence report.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="65b7b300-32ef-44ac-b720-66f6c0697ddb">
+              <Vi>Cảnh báo bão cấp 5 khiến chính quyền nâng mức cảnh báo lên cao nhất.</Vi>
+              <En>A Category 5 hurricane warning prompted authorities to raise the alert level to maximum.</En>
+            </Situation>
+            <Situation id="b2800daf-9ea8-4aac-840f-859a4f143249">
+              <Vi>Trong hệ thống an ninh mạng, một cảnh báo (alert) được kích hoạt khi phát hiện hành vi bất thường.</Vi>
+              <En>In cybersecurity, an alert is triggered when unusual activity is detected.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="015e0427-5e0f-4941-b71d-1437cb28f0d8" type="Verb">
+          <Vi>cảnh báo, làm cho cảnh giác, đánh thức sự chú ý</Vi>
+          <En>To warn or make someone aware of possible danger or a need for action.</En>
+          <Example>The system automatically alerts users when suspicious login attempts are detected.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a5d78cbd-95f3-4bd4-9c57-fa5231f7b856">
+              <Vi>Chuông báo cháy kích hoạt để cảnh báo mọi người trong tòa nhà.</Vi>
+              <En>The fire alarm alerts everyone in the building to evacuate immediately.</En>
+            </Situation>
+            <Situation id="b7f24f2f-ff12-4c64-81ff-dccf4af0755a">
+              <Vi>Thư điện tử cảnh báo tôi về cuộc họp sắp tới.</Vi>
+              <En>An email alert reminded me of the upcoming meeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="88acab75-855d-447c-88c3-8a6bf93c07a4" ipa="/ˈæl.ɜːrt/" vi_ipa="ác-lét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="eb2ce37e-fae6-49d3-84a1-830e7cb8b766" type="Noun">
+          <Vi>một thiết bị phát tín hiệu cảnh báo (như chuông, còi, đèn)</Vi>
+          <En>A device that produces a warning sound or signal, such as a bell, siren, or flashing light.</En>
+          <Example>The smoke detector’s alert sounded when it detected smoke.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ce138101-6095-41f9-a947-1bed8e9572fb">
+              <Vi>Chuông báo trộm là một loại cảnh báo (alert) được lắp đặt trong nhà.</Vi>
+              <En>The burglar alarm is a type of alert installed in homes for security.</En>
+            </Situation>
+            <Situation id="a920e40c-6fe5-4e60-9164-5bdb0502de98">
+              <Vi>Đồng hồ báo thức là một loại cảnh báo cá nhân dùng để đánh thức người dùng.</Vi>
+              <En>An alarm clock is a personal alert used to wake the user at a set time.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
