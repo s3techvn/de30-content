@@ -1,0 +1,38 @@
+<Vocab id="d111d05d-e455-4d92-b815-9ac3c26d154c" word="minority" type="short" status="done">
+  <Topics>
+    <Topic id="02ab943c-b976-40a6-bbab-c9768d4658b1" value="Social Issues" />
+  </Topics>
+  <Professions>
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="15851238-f0d0-4276-99ec-8756897d932d" ipa="/məˈnɔːr.ə.ti/" vi_ipa="mờ-nô-rơ-ti">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="85616c0d-0696-4c82-8dae-c69b2f448289" type="Noun">
+          <Vi>thiểu số; nhóm thiểu số</Vi>
+          <En>a smaller group within a larger group, especially one that is politically, ethnically, or religiously distinct and often subject to discrimination</En>
+          <Example>Members of the ethnic minority demanded greater representation in government.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="032b823b-7834-4135-8c8e-16e747d28469">
+              <Vi>Trong bối cảnh chính trị hoặc xã hội, chỉ nhóm người chiếm tỷ lệ nhỏ trong dân số và thường bị thiệt thòi.</Vi>
+              <En>In political or social contexts, refers to a numerically smaller group that often faces marginalization or unequal treatment.</En>
+            </Situation>
+            <Situation id="cf627f63-d976-48cb-9cb7-85e14b4d4cf5">
+              <Vi>Khi nói về quyền lợi và đại diện trong cơ quan lập pháp hoặc hội đồng.</Vi>
+              <En>When discussing representation and rights in legislative or advisory bodies.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

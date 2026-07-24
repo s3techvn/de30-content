@@ -1987,3 +1987,4 @@ howard
 available
 maine
 vertical
+minority
