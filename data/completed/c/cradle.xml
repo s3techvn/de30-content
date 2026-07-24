@@ -1,0 +1,72 @@
+<Vocab id="e74fec52-4d63-41ec-ab1a-428b8cbf9828" word="cradle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="2296d19d-52be-4fca-a6db-ab38ad26c493" value="Parenting" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="a86fcb76-f813-45be-8ef9-469d98fd2201" value="Furniture Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="33f795c4-5e41-4b27-8055-b88513615395" ipa="/ˈkreɪ.dəl/" vi_ipa="crây-dờ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="679dc112-f059-400b-8b57-ce132c2eb3ef" type="Noun">
+          <Vi>Cái nôi (dành cho em bé)</Vi>
+          <En>A small bed for a baby, typically with high sides and often with a rocking motion.</En>
+          <Example>The newborn slept peacefully in the wooden cradle.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="76439946-ef97-4d2c-b7c7-aaa88743b3b3">
+              <Vi>Mẹ đặt em bé ngủ trong nôi sau khi ru hát.</Vi>
+              <En>The mother places the baby to sleep in the cradle after singing a lullaby.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3fcf1718-8195-489b-9436-7a68e87accff" type="Noun">
+          <Vi>Nơi khởi nguồn, nơi ấp ủ (cho ý tưởng, phong trào, v.v.)</Vi>
+          <En>A place, situation, or environment in which something develops or is nurtured in its early stages.</En>
+          <Example>The university has long been a cradle of political activism.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c52702af-5d18-4b6c-a93e-1a66b98893ea">
+              <Vi>Trường đại học là nơi ấp ủ nhiều ý tưởng đổi mới.</Vi>
+              <En>The university has been a cradle for many innovative ideas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="425d71bb-77d6-4054-b176-d0d48b48d1d8" type="Verb">
+          <Vi>Ươm mầm, nuôi dưỡng (ý tưởng, phong trào, v.v.) từ đầu</Vi>
+          <En>To nurture or support the development of something in its early stages.</En>
+          <Example>The program was designed to cradle young talent.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1c1c6b2c-967b-44b4-975c-a49ec9c4ad93">
+              <Vi>Chương trình hỗ trợ giúp ươm mầm tài năng trẻ.</Vi>
+              <En>The program helps cradle young talent through mentorship and resources.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e771e011-5a52-4d7d-ac14-f491e6d68bcd" type="Verb">
+          <Vi>Đặt (em bé) vào nôi, bế nhẹ nhàng như đặt vào nôi</Vi>
+          <En>To gently place or carry a baby, especially as if laying them in a cradle.</En>
+          <Example>She cradled the baby in her arms and swayed softly.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4eacc082-fc33-4836-9b48-f3e8625fca82">
+              <Vi>Người mẹ nhẹ nhàng bế con và đặt vào nôi.</Vi>
+              <En>The mother gently cradled the baby and laid them down in the crib.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
