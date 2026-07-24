@@ -1,0 +1,47 @@
+<Vocab id="734f58d0-9e21-4e82-aa58-85f7ab4aa475" word="fed" type="short" status="done">
+  <Topics>
+    <Topic id="b1e90122-53d0-41c8-b26d-b3f55e4a0e00" value="Government &amp; Politics" />
+    <Topic id="bdfbad7e-c8ae-46eb-bef0-3a5d779aa1ff" value="Economy" />
+  </Topics>
+  <Professions>
+    <Profession id="a7bac32d-ecd7-4804-a603-ab978dee5adc" value="Economist" />
+    <Profession id="7ec205c5-a066-411c-bf42-06f0101df564" value="Policy Analyst" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5c913060-09d9-45a5-8fb5-70781b8266db" ipa="/fɛd/" vi_ipa="phết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9802ce48-1c82-4931-a9f3-75931778549b" type="Adjective">
+          <Vi>liên bang; thuộc chính quyền liên bang (Mỹ)</Vi>
+          <En>Relating to the federal government, especially of the United States.</En>
+          <Example>The fed raised interest rates to combat inflation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9c95cd8-b2c6-4a7d-a297-226ee76d4ffb">
+              <Vi>Thường dùng để chỉ các cơ quan, chính sách, hoặc quyết định của chính phủ liên bang Mỹ.</Vi>
+              <En>Used to refer to institutions, policies, or decisions made by the U.S. federal government.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="13c31060-6236-4255-9895-6608b50bdbbc" type="Noun">
+          <Vi>chính phủ liên bang (Mỹ); Fed (viết tắt của Federal Reserve)</Vi>
+          <En>The federal government of the United States; also, short for the Federal Reserve, the central banking system.</En>
+          <Example>The fed intervened to stabilize the financial markets.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bcbe9e9a-22b7-411a-9ad5-26335ec555f2">
+              <Vi>Trong báo chí và phân tích tài chính, "the fed" thường ám chỉ Cục Dự trữ Liên bang Mỹ.</Vi>
+              <En>In financial journalism and analysis, "the fed" commonly refers to the U.S. Federal Reserve.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

@@ -1,0 +1,74 @@
+<Vocab id="161af1b9-0160-4576-925b-a5525462b17e" word="partner" type="short" status="done">
+  <Topics>
+    <Topic id="e738884b-0241-4406-9503-b2b8bcbc94c5" value="Relationships" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="1c9f93ca-e771-45bc-bd12-118505fa7395" value="Business Owner" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="be646377-3511-4aac-a9f7-f4977af9fb05" ipa="/ˈpɑːr.tnɚ/" vi_ipa="pác-tờ-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="89b4964c-2dff-4317-8fa9-2434a98f65a5" type="Noun">
+          <Vi>đối tác; bạn đời; bạn hợp tác</Vi>
+          <En>A person with whom one lives or has a romantic or sexual relationship; a person who is associated with another in a specific activity or enterprise.</En>
+          <Example>She has been my life partner for over ten years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0b0b9f8a-5d74-47ef-b9bf-c31f857c847e">
+              <Vi>Mô tả mối quan hệ tình cảm hoặc hôn nhân giữa hai người.</Vi>
+              <En>Describes a romantic or marital relationship between two people.</En>
+            </Situation>
+            <Situation id="fe65b6d4-bd5f-477d-b8de-2cb1ca4ced4f">
+              <Vi>Mô tả người đồng nghiệp hoặc cộng sự trong công việc kinh doanh.</Vi>
+              <En>Describes a colleague or associate in a business context.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="df345466-03e0-4c9c-87c6-3952a5b07874" type="Verb">
+          <Vi>làm đối tác; hợp tác với</Vi>
+          <En>To form a partnership with someone, especially in business or a project.</En>
+          <Example>The startup decided to partner with a larger tech company to expand its reach.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e6b0d4e9-64d3-4610-9110-5a919be76fcc">
+              <Vi>Mô tả việc hai công ty hoặc cá nhân hợp tác trong một dự án hoặc hoạt động kinh doanh.</Vi>
+              <En>Describes two companies or individuals collaborating on a business project.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="34d24179-a21e-4752-b40e-ce4d111776ba" ipa="/ˈpɑːr.tnɚ/" vi_ipa="pác-tờ-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="911641fd-a424-4a1a-8ef8-ef0da4fd8871" type="Noun">
+          <Vi>đối thủ (trong thể thao đôi)</Vi>
+          <En>In team sports, one of the two players on a side in doubles (e.g., tennis, badminton).</En>
+          <Example>Her tennis partner helped her win the championship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="49d0a0fa-7e07-4fb4-805e-fdbf872b7949">
+              <Vi>Mô tả người chơi cùng bạn trong môn thể thao đôi.</Vi>
+              <En>Describes the person who plays alongside you in a doubles sport.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
