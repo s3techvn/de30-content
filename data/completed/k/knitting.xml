@@ -1,0 +1,38 @@
+<Vocab id="7012e979-5740-441b-9a3f-9ffbcd624935" word="knitting" type="short" status="done">
+  <Topics>
+    <Topic id="df225ac7-6f36-4a84-9a38-93c8eb784457" value="Crafts and Hobbies" />
+  </Topics>
+  <Professions>
+    <Profession id="dc95aafb-9718-431d-aad8-70d4dfa3a9d8" value="Textile Designer" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="65653332-4d84-4788-9e9c-fde6607a5e99" value="Handicraft Instructor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="f7553cee-ae72-4107-bb4f-e33c048c323f" ipa="/ˈnɪt.ɪŋ/" vi_ipa="ní-tíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="12d459b6-0504-4872-8129-a83df2caad9c" type="Noun">
+          <Vi>Sự đan len; sản phẩm đan len</Vi>
+          <En>The craft of making fabric by interlocking loops of yarn with knitting needles or a machine; also, a garment made by this method.</En>
+          <Example>She spent the evening perfecting her knitting after learning the basic stitches.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e28fbbc0-04fd-408f-a0a0-7c6027526fa0">
+              <Vi>Một người đang dùng hai que đan len để tạo thành một chiếc áo len hoặc khăn quàng.</Vi>
+              <En>A person using two knitting needles to create a sweater or scarf from yarn.</En>
+            </Situation>
+            <Situation id="35db832a-254c-44b6-85fd-5845b5115792">
+              <Vi>Các lớp học đan len dành cho người mới bắt đầu tại trung tâm cộng đồng.</Vi>
+              <En>Beginner knitting classes offered at a community center.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
