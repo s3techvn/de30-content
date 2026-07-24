@@ -1,0 +1,34 @@
+<Vocab id="38e2646f-ab81-4281-8db7-8add0b2a4d91" word="chronic" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+    <Profession id="ea3e8f46-4268-4247-91ed-bc060c03a8ef" value="Pharmacist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5e5396d5-c9d3-400e-8893-9d14d4320afc" ipa="/ˈkrɑː.kək/" vi_ipa="crờ-níc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1fe50bcf-306a-4a70-b61d-52b195ff0fe9" type="Adjective">
+          <Vi>Kéo dài lâu ngày; mãn tính</Vi>
+          <En>Persisting for a long time or constantly recurring; typically used to describe long-term medical conditions.</En>
+          <Example>She has been managing chronic back pain for over ten years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="868a1b65-a9e0-46ed-bcd0-d9c2753142d9">
+              <Vi>Mô tả tình trạng bệnh lý kéo dài, không cấp tính (ví dụ: đau khớp, tiểu đường, hen suyễn).</Vi>
+              <En>Used to describe medical conditions that last for months or years, often requiring ongoing treatment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

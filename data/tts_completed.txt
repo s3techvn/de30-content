@@ -2235,3 +2235,4 @@ chief
 cleanup
 traveller
 provide
+camp
