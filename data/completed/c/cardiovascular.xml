@@ -1,0 +1,38 @@
+<Vocab id="79233555-c6b5-45aa-ba74-686b45adecc7" word="cardiovascular" type="short" status="done">
+  <Topics>
+    <Topic id="ed19affc-109c-49ed-a79e-f0c52f3c017a" value="Health &amp; Medicine" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="1763a753-c7e8-4ba0-97ca-14a71687168b" value="Cardiologist" />
+    <Profession id="dfe68b8f-7deb-4953-a43e-84380a441367" value="Nurse" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3c5d9d32-4d3b-4ffe-8f53-f736b8ae2923" ipa="/ˌkɑːr.diˈoʊ.væs.kjə.lɚ/" vi_ipa="cà-đi-ô-vát-ski-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e57548b3-3a05-49b0-9547-9e4f7dfee777" type="Adjective">
+          <Vi>thuộc hệ tim mạch</Vi>
+          <En>relating to the heart and blood vessels</En>
+          <Example>The doctor recommended lifestyle changes to improve his cardiovascular health.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4b205427-f08b-4785-bb8a-c780530d215d">
+              <Vi>Thảo luận về bệnh tim, huyết áp, hoặc sức khỏe tim mạch nói chung.</Vi>
+              <En>Discussing heart disease, blood pressure, or general heart and vessel health.</En>
+            </Situation>
+            <Situation id="9a08d472-048d-4a23-84ee-338092ee0a24">
+              <Vi>Chỉ các cấu trúc giải phẫu như tim, động mạch, tĩnh mạch.</Vi>
+              <En>Referring to anatomical structures such as the heart, arteries, and veins.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
