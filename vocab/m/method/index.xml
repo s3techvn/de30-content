@@ -1,0 +1,40 @@
+<Vocab id="b0f95b57-4af5-4a45-a4c9-8cf777f99a17" word="method" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="e6d4a3cf-94f5-4b38-ad17-646428490952" value="Software Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e150e02c-4f8e-468b-a2cc-c9c190bb03fb" ipa="/ˈmeθ.əd/" vi_ipa="mê-thốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dc57ce37-b599-4b06-98fd-72922896f515" type="Noun">
+          <Vi>Phương pháp; cách thức</Vi>
+          <En>A systematic way of doing something, especially an established or prescribed procedure.</En>
+          <Example>She developed a new method for teaching reading to children with dyslexia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="71fad452-1283-4447-a243-983f795f7a15">
+              <Vi>Mô tả cách tiếp cận có tổ chức để giải quyết một vấn đề hoặc đạt được mục tiêu.</Vi>
+              <En>Describes a structured approach to solving a problem or achieving a goal.</En>
+            </Situation>
+            <Situation id="05729d51-cea1-4f5d-8aac-dfd16a85d7fb">
+              <Vi>Trong nghiên cứu khoa học, phương pháp xác định cách thu thập và phân tích dữ liệu.</Vi>
+              <En>In scientific research, the method determines how data is collected and analyzed.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
