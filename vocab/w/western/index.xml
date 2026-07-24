@@ -1,0 +1,56 @@
+<Vocab id="a5dc09cb-a19d-452c-bd42-eaf8b73fafda" word="western" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="b3491586-1807-48b6-83f1-4046913e4b0f" value="Tourism Guide" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="38009e74-c657-4d73-bb66-ce5865d7da72" ipa="/ˈwɛs.tərn/" vi_ipa="vét-tơ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d266d97f-2a88-4b77-9f15-bddadc3d7fd4" type="Adjective">
+          <Vi>phương Tây; thuộc hoặc liên quan đến châu Âu và Bắc Mỹ</Vi>
+          <En>relating to or characteristic of the countries of Europe and North America</En>
+          <Example>Western civilization has had a profound influence on global politics and culture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6b46b5f3-1d7e-4b77-aabd-9e536b79fc22">
+              <Vi>Mô tả nền văn minh, lối sống, hoặc giá trị phổ biến ở Mỹ và Tây Âu.</Vi>
+              <En>Describing the civilization, lifestyle, or values common in the U.S. and Western Europe.</En>
+            </Situation>
+            <Situation id="4991645d-b2fc-4a90-aead-efb47c084390">
+              <Vi>Thể loại phim nói về thời kỳ khai phá miền Tây nước Mỹ.</Vi>
+              <En>A film genre depicting the American Old West frontier period.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b64f33b3-def6-41fb-84ac-6dfa60a54a8f" type="Noun">
+          <Vi>người phương Tây</Vi>
+          <En>a person from Western countries, especially Europe or North America</En>
+          <Example>Many tourists prefer to stay in hotels that cater to Western tastes.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ed33353e-fac8-4be1-8722-4f353a694feb">
+              <Vi>Chỉ người da trắng đến từ Mỹ hoặc châu Âu khi nói về bối cảnh đa văn hóa.</Vi>
+              <En>Referring to a white person from the U.S. or Europe in multicultural contexts.</En>
+            </Situation>
+            <Situation id="b3fb8744-b575-4949-a714-682d94e8e19d">
+              <Vi>Trong du lịch, dùng để chỉ du khách phương Tây.</Vi>
+              <En>In tourism, used to refer to travelers from Western countries.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
