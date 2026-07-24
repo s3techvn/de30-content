@@ -1,0 +1,52 @@
+<Vocab id="df3cbeac-5fe0-42bf-8121-230110ec265c" word="wilderness" type="short" status="done">
+  <Topics>
+    <Topic id="d976b135-2775-4c77-a646-c3d3ba887a2c" value="Nature" />
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+  </Topics>
+  <Professions>
+    <Profession id="57ebe6e0-1105-48a6-a0a9-820d7a999192" value="Ecologist" />
+    <Profession id="449735fe-0faa-4027-b5e4-93420e96b844" value="Park Ranger" />
+    <Profession id="0fef29e1-5ff6-4494-bc19-912bd36e1252" value="Outdoor Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2f933b89-4d20-4538-b64c-bf0067b15e43" ipa="/ˈwɪl.dər.nəs/" vi_ipa="uých-đờ-nơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="87afa049-240b-4c80-8a18-c77a83a14c8a" type="Noun">
+          <Vi>Khu hoang dã; vùng đất hoang vu</Vi>
+          <En>A large area of natural land that remains largely undisturbed by human activity, typically covered with forest, desert, or tundra and inhabited by wild animals.</En>
+          <Example>The hikers spent three days trekking through the wilderness without seeing another person.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f93b7391-c5b9-4590-8d48-cbc391645540">
+              <Vi>Mô tả một khu rừng nguyên sinh, sa mạc, hoặc đồng bằng tundra chưa bị con người khai phá.</Vi>
+              <En>Describing untouched natural landscapes such as forests, deserts, or tundra.</En>
+            </Situation>
+            <Situation id="91e15f5b-e844-431d-afff-f95f7b7462c1">
+              <Vi>Tình huống du lịch mạo hiểm hoặc cắm trại xa xôi.</Vi>
+              <En>A scenario involving backcountry camping or adventure travel in remote natural areas.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b112e9eb-97db-4804-95c8-6f2e79fcf31a" type="Noun">
+          <Vi>Khoảng thời gian hoặc trạng thái không rõ ràng, mất phương hướng</Vi>
+          <En>A period or state of confusion, uncertainty, or lack of direction, often used metaphorically.</En>
+          <Example>After graduation, many young adults find themselves in a wilderness of choices and no clear path forward.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="281926d6-5bb8-4e67-b0c6-ab4c8475c785">
+              <Vi>Cảm giác bối rối khi đối mặt với quyết định lớn trong cuộc sống (ví dụ: sau khi tốt nghiệp).</Vi>
+              <En>Feeling lost or uncertain during major life transitions, such as after graduation or career change.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
