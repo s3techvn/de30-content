@@ -1,0 +1,68 @@
+<Vocab id="b7f97fbd-de10-4a5a-ac19-86919093213a" word="dig" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="c0470295-f22d-457a-994d-da0160822897" value="Construction" />
+    <Topic id="6346bd3f-9e3a-4550-b6ad-592ad472fdfb" value="Archaeology" />
+  </Topics>
+  <Professions>
+    <Profession id="c49fe491-2dcc-454e-bc4e-fb8489fba8fa" value="Construction Worker" />
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="6d4bd4fa-40f5-42d4-96e6-04779949037a" value="Gardener" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5fae476-40e5-451d-8cc1-69bad898cf5e" ipa="/dɪɡ/" vi_ipa="đích">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e74ab460-ee37-4cd2-b4de-dc5fb4591b5a" type="Verb">
+          <Vi>đào, xới (đất, cát, v.v.)</Vi>
+          <En>to make a hole or hole-like depression in the ground by removing earth or other material</En>
+          <Example>They dug a deep hole to plant the tree.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b9d4ca35-08ba-4ba5-99df-be509e30e004">
+              <Vi>Người lao động đào hố để đặt cọc bê tông.</Vi>
+              <En>Workers dig a hole to place a concrete post.</En>
+            </Situation>
+            <Situation id="3a10f3f1-c4e4-48e7-905a-edb5731c4223">
+              <Vi>Trẻ em đào cát để xây lâu đài cát.</Vi>
+              <En>Children dig sand to build sandcastles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="ba26f404-eeea-4bf6-9293-bf384be375df" type="Verb">
+          <Vi>khám phá, đào bới (thông tin, bí mật)</Vi>
+          <En>to investigate or search thoroughly, especially for information</En>
+          <Example>The journalist dug deep into the company’s financial records.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2da320b9-e41f-4cc9-9cb0-b21aa44db1b4">
+              <Vi>Nhà điều tra đào sâu vào hồ sơ để tìm bằng chứng.</Vi>
+              <En>The investigator dug into the records to find evidence.</En>
+            </Situation>
+            <Situation id="6cfb66ea-6d46-48f9-a35e-2ea7cefdf1c5">
+              <Vi>Bạn cần đào sâu để hiểu rõ động cơ của họ.</Vi>
+              <En>You need to dig deeper to understand their motives.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3a37a3eb-909b-4608-a031-250aabd170da" type="Verb">
+          <Vi>đào bới (để tìm kho báu, đồ cổ)</Vi>
+          <En>to search for valuable or interesting items by digging in the ground</En>
+          <Example>Archaeologists dug up ancient pottery near the temple.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5570a9ca-be35-4ea3-8c9d-6f22deb2b4a7">
+              <Vi>Nhóm khảo cổ đào bới tại hiện trường để tìm di tích.</Vi>
+              <En>The archaeological team dug at the site to find relics.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
