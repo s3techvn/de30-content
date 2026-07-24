@@ -1,0 +1,94 @@
+<Vocab id="d0e6ea7c-4cf2-4878-aee1-482d6fae2353" word="have" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ddea3a8e-a22f-44df-92eb-ac65693e8864" ipa="/hæv/" vi_ipa="hăp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5b3cb260-0e44-456a-9ed4-cfb5e4e71520" type="Verb">
+          <Vi>có, sở hữu</Vi>
+          <En>To possess or own something; to hold or contain something.</En>
+          <Example>I have a meeting at 3 p.m. tomorrow.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="84213faa-60b2-4e86-91db-c6d95b869f25">
+              <Vi>Thể hiện sự sở hữu hoặc tồn tại một vật nào đó.</Vi>
+              <En>Expressing ownership or possession of an object.</En>
+            </Situation>
+            <Situation id="a567a12f-ca54-45af-926a-03b00e9530be">
+              <Vi>Dùng trong cấu trúc hiện tại hoàn thành (have/has + past participle).</Vi>
+              <En>Used in the present perfect tense (have/has + past participle).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8c7f0bb3-cf08-4022-b77a-79a48fdf0d73" type="Verb">
+          <Vi>được, phải (trong nghĩa bắt buộc, trách nhiệm)</Vi>
+          <En>To be required or obliged to do something; to be in a position of responsibility.</En>
+          <Example>You have to finish your homework before going out.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f9183252-35e6-4e71-b480-94a79c550fe7">
+              <Vi>Thể hiện nghĩa bắt buộc, yêu cầu (tương đương với "must" hoặc "need to").</Vi>
+              <En>Expressing obligation or necessity (equivalent to "must" or "need to").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e48ebe02-67cb-4805-bd1d-bfcee6c9d722" type="Verb">
+          <Vi>trải qua, nhận được (một sự kiện, cảm xúc)</Vi>
+          <En>To experience or undergo something, especially an event or emotion.</En>
+          <Example>We had a wonderful vacation last summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e839f9e4-0bdf-46b9-923d-fe26684d07da">
+              <Vi>Mô tả một trải nghiệm hoặc sự kiện đã xảy ra.</Vi>
+              <En>Describing an experience or event that occurred.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="37bc9c8a-9988-4f2e-a74c-f3d1108390bf" type="Verb">
+          <Vi>làm, tổ chức (một sự kiện)</Vi>
+          <En>To organize or host an event or activity.</En>
+          <Example>She’s having a birthday party next weekend.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e5ade85-3efb-4610-a784-817773a78f6c">
+              <Vi>Dùng khi nói về việc tổ chức hoặc tổ chức một sự kiện.</Vi>
+              <En>Used when referring to organizing or hosting an event.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="9e4a20b9-08ad-4b87-b46f-046160f7b671" ipa="/əv/" vi_ipa="ơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8ce8e03e-4ac0-4180-9fc3-d29f529ee7ac" type="Verb">
+          <Vi>được (dạng rút gọn trong hội thoại)</Vi>
+          <En>Weak form of "have", commonly used in connected speech (e.g., "I've", "you've").</En>
+          <Example>They’ve already left.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="87637fd5-88e0-45ec-b3f0-3a2f43160978">
+              <Vi>Xuất hiện trong phát âm tự nhiên, rút gọn của "have" trong câu nói.</Vi>
+              <En>Appears in natural speech as the reduced form of "have" (e.g., contractions).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

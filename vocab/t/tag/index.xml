@@ -1,0 +1,90 @@
+<Vocab id="938622c7-edb0-41fb-9ffd-13fbf7fb92e2" word="tag" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="f91a0903-b644-4a97-ac43-eeded783b03b" value="Social Media" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="b10ea39d-7d8e-49f9-85bd-61389977c273" value="Digital Marketer" />
+    <Profession id="0228ade9-8d1e-4f1b-b795-778b724f1918" value="Librarian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2e01d17-7550-405c-ae82-58b4ce1942ef" ipa="/tæɡ/" vi_ipa="téc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4c04af81-646f-4fff-adb6-d3cca1a12bf9" type="Noun">
+          <Vi>Thẻ, nhãn, gắn thẻ, thẻ đánh dấu</Vi>
+          <En>A small piece of paper, plastic, or metal attached to an object to identify or describe it; or the act of attaching such a label.</En>
+          <Example>The product came with a care tag inside the collar.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3bb383b1-0ec0-48ed-b0eb-7513875c7d7f">
+              <Vi>Một nhãn dán trên quần áo ghi hướng dẫn giặt giũ.</Vi>
+              <En>A label sewn into clothing providing washing instructions.</En>
+            </Situation>
+            <Situation id="f83a1093-442f-40b7-a251-0bad1b73402f">
+              <Vi>Trong lập trình, thẻ HTML xác định cấu trúc trang web.</Vi>
+              <En>In programming, an HTML tag defines the structure and elements of a web page.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a2e5eea5-cb00-4296-98e5-a9587d92fe90" type="Verb">
+          <Vi>Gắn thẻ, gắn nhãn, đánh dấu</Vi>
+          <En>To attach a tag to something, or to assign a keyword or label to digital content for categorization.</En>
+          <Example>Please tag your photos with relevant keywords like “vacation” or “family”.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5b2da16e-bd92-4dda-bb96-603e7036b58a">
+              <Vi>Gắn thẻ bạn bè vào ảnh trên mạng xã hội.</Vi>
+              <En>To mention or identify someone in a social media post or photo.</En>
+            </Situation>
+            <Situation id="5f960ea8-9b47-44ae-91e3-177d37592c2e">
+              <Vi>Đánh dấu email là “quan trọng” trong hộp thư đến.</Vi>
+              <En>To assign a label (e.g., “Important”) to an email for filtering or reference.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="45186a39-b2ca-4abb-8501-9a8cb4d58fba" ipa="/tæɡ/" vi_ipa="téc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ef693815-1b51-41ef-86d8-e3b4ab8a98a6" type="Noun">
+          <Vi>Trò chơi “đuổi bắt” (trẻ em)</Vi>
+          <En>A children’s game in which one player chases the others and tries to touch (tag) them to make them “it”.</En>
+          <Example>The kids were playing tag in the park.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d4bdc355-87d4-4ded-9843-c122e37f0b28">
+              <Vi>Những đứa trẻ chạy quanh sân trường để chơi trò “tag”.</Vi>
+              <En>Children running around the schoolyard chasing each other in a game of tag.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="02b05be8-4437-4148-8356-1e969edd864e" type="Verb">
+          <Vi>Chạm vào (để thắng trong trò chơi “tag”)</Vi>
+          <En>To touch someone quickly in the game of tag, thereby making them the new “it”.</En>
+          <Example>She tagged him just before he reached the safe zone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5da51d8c-b1df-4e8e-b630-d0ced638f23f">
+              <Vi>Chạy nhanh để tránh bị bạn tag trong trò chơi ngoài trời.</Vi>
+              <En>To run quickly to avoid being touched by another player in the outdoor game.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
