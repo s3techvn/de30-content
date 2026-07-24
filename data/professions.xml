@@ -811,4 +811,5 @@
   <Profession id="a677f932-6a02-4a43-ad2b-5d9d4f911aaf" slug="racing-driver" value="Racing Driver" />
   <Profession id="919ef71a-486b-4536-8749-b95748837b8a" slug="trader" value="Trader" />
   <Profession id="06f0bcd8-9320-4173-b299-7db206ac17a7" slug="physical-laborer" value="Physical Laborer" />
+  <Profession id="70f046f7-d1d0-4b17-ae85-63241a023d9b" slug="customer-support-representative" value="Customer Support Representative" />
 </Professions>

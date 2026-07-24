@@ -1,0 +1,52 @@
+<Vocab id="a146a00f-3c15-4324-8167-14217910aeaf" word="badly" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+    <Topic id="61ca3d55-edbf-4c66-8ecc-b7a3e65fdba3" value="Health &amp; Emotions" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="4c125392-4027-47ac-adeb-ef74bfad873a" value="Healthcare Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8a6ba716-e934-4b4a-9056-08e6d31a7198" ipa="/ˈbæd.li/" vi_ipa="bế-đờ-lì">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d6623706-1920-4fdd-9fc9-002dbd53b4e2" type="Adverb">
+          <Vi>ở mức độ xấu, không tốt; một cách tệ hại</Vi>
+          <En>in a poor or unsatisfactory way; to a bad degree</En>
+          <Example>He played badly in the match and missed several easy chances.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7a17c96c-b68f-4aeb-9e09-957fbcdc4f9e">
+              <Vi>Mô tả hành động hoặc kết quả không đạt yêu cầu, gây thất vọng.</Vi>
+              <En>Describing an action or outcome that fails to meet expectations or is unsatisfactory.</En>
+            </Situation>
+            <Situation id="c20561f7-ab58-4dbf-a583-4bcdd7cfd5e2">
+              <Vi>Chỉ mức độ nghiêm trọng của một vấn đề (ví dụ: bị thương, ốm).</Vi>
+              <En>Indicating the severity of a problem (e.g., injury or illness).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4e9e250a-0af9-456d-9ad2-880d63d087eb" type="Adverb">
+          <Vi>thiếu khéo léo, vụng về</Vi>
+          <En>in a clumsy or awkward manner</En>
+          <Example>She handled the situation badly and upset everyone.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="969ab4c7-0683-4d1b-a79f-a12f1cccd8f7">
+              <Vi>Mô tả cách xử lý tình huống thiếu kỹ năng hoặc không phù hợp.</Vi>
+              <En>Describing an unskilled or inappropriate way of handling a situation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
