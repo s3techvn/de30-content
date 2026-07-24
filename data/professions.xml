@@ -850,4 +850,5 @@
   <Profession id="408f75ab-fd58-4e80-82d8-e79e5d7f7f96" slug="import/export-specialist" value="Import/Export Specialist" />
   <Profession id="d1cb15af-1f4a-4e5f-bee6-6c7007364c9c" slug="volunteer" value="Volunteer" />
   <Profession id="823d7b44-09a2-439a-81a9-07583e9e3785" slug="commodity-broker" value="Commodity Broker" />
+  <Profession id="d56562a0-36d2-4cf1-9a9d-711d2328acc6" slug="tax-advisor" value="Tax Advisor" />
 </Professions>
