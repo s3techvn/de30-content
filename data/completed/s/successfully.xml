@@ -1,0 +1,38 @@
+<Vocab id="ab687fb7-5f3e-422c-955f-d27d68751390" word="successfully" type="short" status="done">
+  <Topics>
+    <Topic id="054958c7-f71e-42b7-a3b3-1339615c27ae" value="Achievement" />
+  </Topics>
+  <Professions>
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="d3aa264d-82f5-41d7-867a-5bc572249cd8" value="Sales Representative" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="d85819c6-f3f3-4597-b2e6-6335c1c891f7" ipa="/səkˈses.fəl.i/" vi_ipa="sờ-khét-sờ-fờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="679e6c3f-8c6e-44a8-8ed3-9a87fd0d2f02" type="Adverb">
+          <Vi>thành công; một cách thành công</Vi>
+          <En>in a successful manner; achieving the desired result</En>
+          <Example>The team completed the project successfully ahead of schedule.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="232eb5a2-db07-4283-a619-0c06f4f719e7">
+              <Vi>Mô tả một hành động hoặc quá trình đạt được kết quả mong muốn.</Vi>
+              <En>Describing an action or process that achieves the intended outcome.</En>
+            </Situation>
+            <Situation id="2fbda11c-6683-411c-8576-ab505ef05a72">
+              <Vi>Dùng để nhấn mạnh kết quả tích cực sau nỗ lực hoặc thử thách.</Vi>
+              <En>Used to emphasize a positive outcome after effort or difficulty.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
