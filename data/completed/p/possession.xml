@@ -1,0 +1,52 @@
+<Vocab id="46662d13-6d19-4196-8b0d-2480181e450a" word="possession" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="7a621022-1dca-4a85-8540-24d0e570e59b" value="Real Estate Agent" />
+    <Profession id="a0245280-c9b4-4fba-826a-9cb6fde3e961" value="Police Officer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="77e536a2-a6f5-4556-b3ed-793286515531" ipa="/pəˈzeʃ.ən/" vi_ipa="pơ-zê-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0832fa6c-920b-4e7f-8208-e225c9ca0b78" type="Noun">
+          <Vi>Sự sở hữu; vật sở hữu</Vi>
+          <En>The state of having or taking control of something as one's own; an item owned by someone.</En>
+          <Example>She regained possession of her stolen laptop after the police investigation.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3a479d79-ae3a-4791-b69b-d78b01c3abe7">
+              <Vi>Trong bối cảnh pháp lý hoặc giao dịch mua bán tài sản.</Vi>
+              <En>In legal or property transaction contexts, such as buying a house or recovering stolen items.</En>
+            </Situation>
+            <Situation id="54944b39-2554-4f28-9510-aed07c8983cd">
+              <Vi>Khi nói về quyền kiểm soát vật chất (ví dụ: đồ đạc cá nhân).</Vi>
+              <En>When referring to physical control over personal belongings, e.g., in travel or moving contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f17ff8dc-e461-4853-b5f6-fe291e8515d7" type="Noun">
+          <Vi>Sự chiếm giữ (bằng vũ lực); sự chiếm đóng</Vi>
+          <En>The act of taking and holding control of a place or object, often by force.</En>
+          <Example>The army's possession of the strategic hill gave them a tactical advantage.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="56df4e2e-4008-453a-addd-38ecbb33acd7">
+              <Vi>Trong bối cảnh quân sự hoặc xung đột lãnh thổ.</Vi>
+              <En>In military or territorial conflict contexts, e.g., news reports about conflict zones.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
