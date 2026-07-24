@@ -1,0 +1,52 @@
+<Vocab id="41c15f55-34ac-49ae-aba8-aaa4d8febe54" word="nil" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="27b6e5ae-b72a-43ae-847d-a0a5f0e2be2e" value="Programming" />
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="3d812be0-9ec5-41c1-a739-bd5aed98563c" value="Programmer" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="817952f7-3153-46b4-9da1-e4227c25c232" value="Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ea763188-59ed-4e28-8fb7-95740f71b16b" ipa="/nɪl/" vi_ipa="ních">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="7b125b68-c3a4-4671-b931-1e54a7cc0af3" type="Noun">
+          <Vi>không, không có gì, giá trị rỗng (trong lập trình)</Vi>
+          <En>Nothing; zero; the absence of any value or quantity; in programming, a special value representing no value or an empty reference.</En>
+          <Example>In many programming languages, nil is used to indicate that a variable has not been assigned a value yet.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f1529797-9254-4dcb-8d15-0bcd80be96c2">
+              <Vi>Trong lập trình, khi một biến chưa được gán giá trị hoặc hàm trả về giá trị không xác định.</Vi>
+              <En>In programming, when a variable is uninitialized or a function returns no meaningful value.</En>
+            </Situation>
+            <Situation id="27e76ead-3c4b-433a-b795-9d4814fb9fd7">
+              <Vi>Trong toán học hoặc logic, chỉ lượng bằng không hoặc không tồn tại.</Vi>
+              <En>In mathematics or logic, indicating a quantity of zero or non-existence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b4bb1c31-4064-4bd0-a759-a28f8cddd871" type="Adjective">
+          <Vi>không có giá trị, vô nghĩa, rỗng (dùng để mô tả kết quả hoặc giá trị)</Vi>
+          <En>Having no value or meaning; void; empty.</En>
+          <Example>The result of the division was nil because the divisor was zero.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="36278f4e-d016-438a-a55e-7c7765766f87">
+              <Vi>Mô tả kết quả không đạt được giá trị hợp lệ trong tính toán.</Vi>
+              <En>Describing a result that yields no valid value in computation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
