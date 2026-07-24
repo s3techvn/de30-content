@@ -1,0 +1,40 @@
+<Vocab id="6fdb6203-f21a-447e-a367-9da97eaf41db" word="goods" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="10292ee1-14de-4791-8416-484346cffea1" value="Trade" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+    <Profession id="408f75ab-fd58-4e80-82d8-e79e5d7f7f96" value="Import/Export Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="05733443-e8a9-4911-991a-5ffaf12f5208" ipa="/ɡʊdz/" vi_ipa="gút-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dde1c136-119b-483e-b3c5-2d9b4be4a3f5" type="Noun">
+          <Vi>Hàng hóa</Vi>
+          <En>Physical items that are produced for sale or trade; tangible products.</En>
+          <Example>The company ships goods to customers across the country.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="61bc3047-9f56-4868-9238-49b297f608ee">
+              <Vi>Tình huống: Giao dịch mua bán hàng hóa trong thương mại.</Vi>
+              <En>Situation: Buying and selling physical products in commerce.</En>
+            </Situation>
+            <Situation id="69d19d36-6f55-4db1-8a80-47699e28e850">
+              <Vi>Tình huống: Kiểm tra hàng hóa nhập khẩu tại cảng.</Vi>
+              <En>Situation: Inspecting imported goods at the port.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

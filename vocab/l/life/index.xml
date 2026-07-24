@@ -1,0 +1,64 @@
+<Vocab id="d1e9dfc9-d966-4854-b394-108dc4122db7" word="life" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="a5e7e406-95e0-4bab-b53b-f2c69c620f73" value="Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="a9cbdccb-6422-4859-96b5-b08e63e0c028" value="Philosopher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="44dec36a-251d-4537-be0e-1f4e6e8d36bc" ipa="/laɪf/" vi_ipa="lai-ph">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="41f56d27-b017-4ed4-a5a7-1d52d8c8429c" type="Noun">
+          <Vi>Sự sống; đời sống; cuộc sống</Vi>
+          <En>The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.</En>
+          <Example>Science seeks to understand the mysteries of life.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8228334c-484f-46e5-83dd-73b90dd992ad">
+              <Vi>Mô tả trạng thái tồn tại và hoạt động của sinh vật.</Vi>
+              <En>Describes the state of existence and activity of living organisms.</En>
+            </Situation>
+            <Situation id="ad8d595a-4aaf-41f5-adff-0218a751cbda">
+              <Vi>Chỉ toàn bộ trải nghiệm và thời gian một người sống.</Vi>
+              <En>Refers to the entire experience and time period of a person’s existence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4bf40fc7-12d9-4533-9619-a07efe41971d" type="Noun">
+          <Vi>Sự sống (trong một bối cảnh cụ thể)</Vi>
+          <En>A particular kind of existence or way of living.</En>
+          <Example>She enjoys an active life in the countryside.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2783fbf-3ef4-4faf-9ff1-eb43c05aa8a9">
+              <Vi>Dùng để nói về lối sống hoặc môi trường sống cụ thể.</Vi>
+              <En>Used to describe a specific lifestyle or living environment.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8f0c321d-8e94-4a14-bc26-4d28880b08d4" type="Noun">
+          <Vi>Tuổi thọ; thời gian tồn tại</Vi>
+          <En>The length of time that a person, animal, or thing lives or exists.</En>
+          <Example>The average life of a car battery is about five years.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e579c3fb-3cbf-4031-8f78-e0c985ff372b">
+              <Vi>Dùng trong ngữ cảnh khoa học hoặc kỹ thuật để chỉ thời gian hoạt động.</Vi>
+              <En>Used in scientific or technical contexts to indicate operational duration.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
