@@ -1,0 +1,40 @@
+<Vocab id="61efe028-63c7-4376-a20a-0844f39ce041" word="interactive" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="610bf2ce-0fcb-480a-b125-e0e2d2ad45a9" value="UX Designer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0abfe30c-d05d-45b6-bb5f-c763320b4572" ipa="/ˌɪn.tərˈæk.tɪv/" vi_ipa="in-tơ-rắc-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff02179f-fd1e-406d-a870-3003855973cc" type="Adjective">
+          <Vi>tương tác, có khả năng tương tác hai chiều</Vi>
+          <En>allowing or encouraging mutual action or communication between two or more parties; involving active participation.</En>
+          <Example>The interactive app lets users customize their learning path in real time.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e7d7319-2576-4b74-a512-a998768c6894">
+              <Vi>Mô tả phần mềm hoặc hệ thống cho phép người dùng phản hồi và điều chỉnh nội dung ngay lập tức.</Vi>
+              <En>Describing software or a system where users can respond and adjust content in real time.</En>
+            </Situation>
+            <Situation id="17388a99-9a43-43ef-b044-f381380adc1e">
+              <Vi>Mô tả lớp học hoặc bài giảng sử dụng công cụ như khảo sát trực tiếp, thảo luận nhóm, hoặc trò chơi giáo dục.</Vi>
+              <En>Describing a classroom or lecture using tools such as live polls, group discussions, or educational games.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
