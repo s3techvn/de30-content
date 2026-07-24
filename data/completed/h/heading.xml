@@ -1,0 +1,50 @@
+<Vocab id="340b1063-5f9b-4df3-8d1c-de637467600a" word="heading" type="short" status="done">
+  <Topics>
+    <Topic id="e3f1ab6f-6d49-4af2-96ac-fc9fc1030966" value="Writing &amp; Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="3b0940f0-0182-40de-80c9-700433b06708" value="Editor" />
+    <Profession id="72732d39-64e3-4944-b1a5-467648d94ede" value="Technical Writer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="71c681c4-ae0d-4ec9-aaa8-53126caa6736" ipa="/ˈhed.ɪŋ/" vi_ipa="hê-đíng">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="18d6f5df-f4c2-4258-8374-89887e36da80" type="Noun">
+          <Vi>tiêu đề; phần đầu (của bài viết, trang web, v.v.)</Vi>
+          <En>The title or heading of a piece of writing, web page, or document; the text at the top that summarizes or identifies the content.</En>
+          <Example>The article’s heading clearly states the main topic: “The Impact of Climate Change on Coastal Cities”.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d63f272a-ad2a-4785-b9aa-f4f3564ef7ad">
+              <Vi>Tình huống viết tiêu đề cho một bài báo hoặc bài thuyết trình.</Vi>
+              <En>Writing a title for an article or presentation.</En>
+            </Situation>
+            <Situation id="c5ce9a46-71c2-4af2-89ec-ff1bc7275f96">
+              <Vi>Tình huống điều chỉnh định dạng tiêu đề trong một tài liệu kỹ thuật.</Vi>
+              <En>Adjusting heading formatting in a technical document (e.g., H1, H2).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4137acb9-e3f4-490c-acc5-dd04671211cb" type="Noun">
+          <Vi>hướng đi (của tàu, máy bay, v.v.)</Vi>
+          <En>The direction in which a ship, aircraft, or vehicle is moving; its course.</En>
+          <Example>The pilot announced the plane’s heading as 270 degrees, heading west toward the Pacific coast.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e91ba80-6ad9-45f7-87be-e8fe87ed1e3d">
+              <Vi>Tình huống phi công hoặc thủy thủ báo hướng di chuyển trong quá trình bay hoặc航行.</Vi>
+              <En>A pilot or navigator reporting the direction of travel during flight or navigation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
