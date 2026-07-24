@@ -1,0 +1,90 @@
+<Vocab id="c31ba035-25cd-4b51-8b62-c8468384a6de" word="tattoo" type="short" status="done">
+  <Topics>
+    <Topic id="313fe700-9105-4e9d-b489-1d8870479c9a" value="Body Art" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="8eea4a2c-2cd0-495d-87c0-be252a0cb9ae" value="Personal Expression" />
+  </Topics>
+  <Professions>
+    <Profession id="a182d42f-4149-4556-becb-5f94d9a12e4b" value="Tattoo Artist" />
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="66fcdc88-5143-40cc-bbc9-ad40524379e7" value="Cultural Anthropologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8b02b850-aa35-4c1e-b13f-ca50151bda1e" ipa="/təˈtuː/" vi_ipa="tơ-tu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8b9cfe0e-2bd5-448e-b8c1-dbbb1a97de8e" type="Noun">
+          <Vi>Màu xăm; hình xăm</Vi>
+          <En>A permanent mark made on the skin by inserting ink beneath the surface layer.</En>
+          <Example>She got a dragon tattoo on her forearm.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="58e37446-2f42-419e-821f-f274fb368617">
+              <Vi>Người đi xăm hình chọn mẫu và vị trí trên cơ thể.</Vi>
+              <En>A person selects a design and placement for a new tattoo.</En>
+            </Situation>
+            <Situation id="9ea5914c-cf1c-4422-89d4-bab027d5e933">
+              <Vi>Người ta nói về ý nghĩa biểu tượng của hình xăm.</Vi>
+              <En>Someone discusses the symbolic meaning behind a cultural tattoo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2225b8f1-f33f-4af7-870a-cb1119d49966" type="Verb">
+          <Vi>Xăm hình</Vi>
+          <En>To mark the skin permanently with ink, typically to create a decorative or symbolic design.</En>
+          <Example>He decided to tattoo his grandmother’s initials over his heart.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="65f91fb7-2c0f-4b7a-acef-6f907e431676">
+              <Vi>Người thợ xăm đang thực hiện thao tác xăm lên da.</Vi>
+              <En>The tattoo artist is carefully inserting ink into the skin.</En>
+            </Situation>
+            <Situation id="601e8d6d-e2d1-40c2-9c6f-15e4fbb1066e">
+              <Vi>Người trẻ tuổi quyết định xăm hình để kỷ niệm một sự kiện quan trọng.</Vi>
+              <En>A young person chooses to tattoo a meaningful date to commemorate a loved one.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="32e64f90-aaf6-4d6e-8baa-f4a4d7332858" ipa="/ˈtæt.ʊ/" vi_ipa="tát-tu">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="d77891e5-c320-4f2e-a7b6-1eb81618099f" type="Noun">
+          <Vi>Nhịp gõ ngắn, đều (giống như tiếng trống nhỏ)</Vi>
+          <En>A short, regular tapping sound, such as that made by a drum or fingers on a surface.</En>
+          <Example>The rain made a steady tattoo on the roof all night.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="0505d789-ac97-49ca-a33d-a150c66819c7">
+              <Vi>Mô tả âm thanh mưa rơi trên mái nhà hoặc lá cây.</Vi>
+              <En>Describing the rhythmic tapping sound of rain or fingers drumming.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c077280b-cd1c-4c4a-b9c2-8fd3c3904aa4" type="Verb">
+          <Vi>Gõ nhịp đều (như trống nhỏ)</Vi>
+          <En>To tap rhythmically and repeatedly, especially with fingers or a light object.</En>
+          <Example>He tattooed his fingers on the table while waiting.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="dc9356db-2d12-41ce-b3f3-1f18e9002863">
+              <Vi>Người ta gõ ngón tay theo nhịp khi chờ đợi hoặc suy nghĩ.</Vi>
+              <En>Someone taps their fingers rhythmically while impatiently waiting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
