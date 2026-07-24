@@ -1,0 +1,46 @@
+<Vocab id="76ae537e-d6e3-4544-8f7d-37a0546a2ab5" word="crop" type="short" status="done">
+  <Topics>
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="4505b9f7-0022-4255-bf6d-b006cdff3d80" value="Agricultural Scientist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="31070674-4a40-4b55-af88-25adc6cc48e8" ipa="/krɑːp/" vi_ipa="cờ-róp">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9a0be1d9-e112-452b-8dcd-85de68e59ac8" type="Noun">
+          <Vi>Cây trồng; vụ mùa; sản lượng thu hoạch</Vi>
+          <En>A plant such as wheat, corn, or rice that is grown in large quantities, especially for food or commercial use.</En>
+          <Example>The rice crop was destroyed by the flood.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b723df3c-896d-4d52-b152-e420e8576708">
+              <Vi>Nông dân đang thu hoạch lúa – một vụ mùa quan trọng.</Vi>
+              <En>Farmers harvesting rice – an important seasonal crop.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c5846182-02a4-4f28-91b3-7fbdcc83d064" type="Verb">
+          <Vi>Trồng trọt; thu hoạch; cắt ngắn (tóc, lông…)</Vi>
+          <En>To grow or harvest a crop; also, to cut something short, especially hair or fur.</En>
+          <Example>They crop the sheep’s wool once a year.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3661e2b5-1bb1-448e-bff0-cf24778a8bda">
+              <Vi>Nông dân cắt ngắn cỏ để làm thức ăn cho gia súc.</Vi>
+              <En>The farmer cuts (crops) grass to feed livestock.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

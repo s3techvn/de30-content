@@ -1,0 +1,38 @@
+<Vocab id="0d1031c3-c5f8-471e-bd44-c6c06051541b" word="scenic" type="short" status="done">
+  <Topics>
+    <Topic id="93252541-16a4-436b-b1b9-f5ae155bdfea" value="Travel &amp; Nature" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8b5f0c57-0093-4db3-9d89-1c78ff4abee4" ipa="/ˈskiː.nɪk/" vi_ipa="xì-níc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="43938c1f-52be-43e2-a787-29b2a2da146d" type="Adjective">
+          <Vi>thuộc về phong cảnh đẹp; có cảnh quan đẹp mắt</Vi>
+          <En>relating to or characteristic of beautiful natural scenery; visually pleasing, especially in terms of landscape</En>
+          <Example>The scenic route along the Pacific Coast Highway offers breathtaking ocean views.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="171924c1-2ee5-4808-b3b4-a69506e21ce5">
+              <Vi>Mô tả một con đường, khu vực, hoặc khung cảnh thiên nhiên có vẻ đẹp ấn tượng.</Vi>
+              <En>Used to describe a road, area, or natural vista that features striking or picturesque beauty.</En>
+            </Situation>
+            <Situation id="eee2587b-c1f8-430e-8998-82212be7f9ba">
+              <Vi>Chỉ các yếu tố thị giác hấp dẫn trong điện ảnh hoặc sân khấu.</Vi>
+              <En>Refers to visually striking elements in film or theater, especially regarding set design or location.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
