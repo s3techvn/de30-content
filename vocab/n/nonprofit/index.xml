@@ -1,0 +1,58 @@
+<Vocab id="9c560136-2037-4626-9536-3d935fcfba96" word="nonprofit" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="36fe848e-2245-4ce0-8fbb-8f2d6876eaf1" value="Social Services" />
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+  </Topics>
+  <Professions>
+    <Profession id="386d74fa-9ac0-46f3-9fd9-04ed8211c629" value="Nonprofit Manager" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="08810bcd-e3c5-47e2-8b71-bf8afad650eb" value="Accountant (Nonprofit Sector)" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4cecde15-5831-40a9-94f2-0a32b84e877e" ipa="/ˌnɒnˈprɒf.ɪt/" vi_ipa="nôn-prô-fít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40ffa18f-a60c-4fda-a19e-65d799743439" type="Adjective">
+          <Vi>phi lợi nhuận</Vi>
+          <En>Not operating to generate profit; typically referring to organizations whose primary purpose is to serve a public or mutual benefit rather than to earn profit for owners or investors.</En>
+          <Example>The nonprofit donated all proceeds to charity.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59d47c15-c392-463f-aded-c041a6755b73">
+              <Vi>Mô tả tổ chức hoạt động vì lợi ích cộng đồng, không chia cổ tức hay lợi nhuận cho người điều hành.</Vi>
+              <En>Describing an organization that reinvests all surplus funds into its mission instead of distributing them as profit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="11659451-3723-41ee-b5f2-581f54ce7b98" ipa="/ˌnɒnˈprɒf.ɪt/" vi_ipa="nôn-prô-fít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="82a7bf19-5613-499e-80d7-efbbacf88263" type="Noun">
+          <Vi>tổ chức phi lợi nhuận</Vi>
+          <En>An organization that does not distribute its surplus funds to owners or shareholders, but instead reinvests them into its mission.</En>
+          <Example>She works for a local nonprofit that provides food to the homeless.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="a727b0ed-ae49-42ac-b700-8884a9fdd8b1">
+              <Vi>Cảnh tượng một cá nhân hoặc nhóm làm việc trong tổ chức như quỹ từ thiện, hội cứu trợ, hoặc trung tâm hỗ trợ cộng đồng.</Vi>
+              <En>A scenario involving someone volunteering or employed by an organization such as a charity, relief agency, or community support center.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
