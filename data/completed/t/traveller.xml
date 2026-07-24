@@ -1,0 +1,38 @@
+<Vocab id="498ff780-f6be-4f72-9b29-ea51a9e1da1c" word="traveller" type="short" status="done">
+  <Topics>
+    <Topic id="13af8366-7625-49e4-80be-b50da296bd0b" value="Travel" />
+  </Topics>
+  <Professions>
+    <Profession id="87429396-c66e-48aa-a0fb-1e000e09371e" value="Tour Guide" />
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="e4d3d295-21a1-4fef-b829-76a5807d1b50" value="Flight Attendant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9fc3715e-ab2b-455d-914d-0f4db58d7b04" ipa="/ˈtræv.ə.lər/" vi_ipa="tờ-rờ-vờ-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="828e7404-d3fe-42f3-b10b-063d9fe0dd90" type="Noun">
+          <Vi>Người du hành; người đi du lịch</Vi>
+          <En>A person who is travelling or has returned from a journey.</En>
+          <Example>As a frequent traveller, she always packs a compact first-aid kit.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b1c07d6e-02db-448e-acce-1fa3f0e93871">
+              <Vi>Mô tả người đang đi du lịch hoặc vừa trở về từ một chuyến đi xa.</Vi>
+              <En>Describing someone currently on a trip or who has just returned from one.</En>
+            </Situation>
+            <Situation id="d5b76909-67e6-4aba-a720-52c9f8a4dda6">
+              <Vi>Dùng trong ngữ cảnh văn chương hoặc trang trọng để chỉ người đi xa.</Vi>
+              <En>Used in literary or formal contexts to refer to someone on a journey.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
