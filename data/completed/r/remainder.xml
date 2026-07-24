@@ -1,0 +1,60 @@
+<Vocab id="dd8751c4-ef5b-4266-b2be-2a54e25d48f3" word="remainder" type="short" status="done">
+  <Topics>
+    <Topic id="f3fd86a9-6e4e-47cd-b792-aad6917e0235" value="Mathematics" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="7de7df38-bca5-4980-bfde-bdec13b5720f" value="Accountant" />
+    <Profession id="00fa1fe4-5cae-4551-9be7-3a587dffef6f" value="Mathematician" />
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b6a0210c-607b-45de-9e24-35d9ac0cba64" ipa="/rɪˈmeɪn.dər/" vi_ipa="ri-mê-in-dơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="220bb5d1-3fb3-4145-9ee0-347581780090" type="Noun">
+          <Vi>Số dư; phần còn lại</Vi>
+          <En>The amount left over after subtracting one number from another, or after dividing and taking the largest possible whole number of times.</En>
+          <Example>When 17 is divided by 5, the quotient is 3 and the remainder is 2.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0c9311dd-ee63-4f9a-ab53-83505cf6d667">
+              <Vi>Tính toán chia hết và xác định phần dư trong phép chia.</Vi>
+              <En>Performing division and identifying the leftover amount that cannot be evenly divided.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="b4e69199-2e7c-4d8d-ae96-d8617227a73e" type="Noun">
+          <Vi>Số lượng còn lại (hàng hóa, vé, v.v.); phần chưa bán được</Vi>
+          <En>The remaining stock or unsold portion of goods, tickets, or items.</En>
+          <Example>The store sold the last 10 units at a discount to clear the remainder of the inventory.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="41741189-7a25-43b1-b93e-a82ac08ae943">
+              <Vi>Cửa hàng giảm giá để bán hết phần hàng tồn kho cuối cùng.</Vi>
+              <En>A retail store offering discounts to sell the remaining unsold stock.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="de1e9b30-46e3-42a8-9af9-10dce172cd9a" type="Noun">
+          <Vi>Phần còn lại (của một tập thể, thời gian, v.v.); phần chưa được sử dụng</Vi>
+          <En>The part that remains after a portion has been used, removed, or allocated.</En>
+          <Example>She put the remainder of the soup into the refrigerator.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17ac316b-06b1-4548-9303-6af6092cbb36">
+              <Vi>Bảo quản phần thức ăn còn lại sau bữa ăn.</Vi>
+              <En>Storing leftover food after a meal.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

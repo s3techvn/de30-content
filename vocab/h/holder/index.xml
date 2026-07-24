@@ -1,0 +1,52 @@
+<Vocab id="dbbc4079-81d5-486a-af6d-da93edeba1fb" word="holder" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="c57d5e16-ce46-442f-93e2-fe3b1310905f" value="Office Worker" />
+    <Profession id="2a5400f6-33ee-4e12-a0d1-f10b70a8566d" value="Banker" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0d33ffce-4041-4aef-9eec-07cf78e57a8c" ipa="/ˈhoʊl.dər/" vi_ipa="hồ-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2bc814d1-0a9d-4855-8eea-69ea656cad43" type="Noun">
+          <Vi>Người giữ; người sở hữu; giá đỡ; giá kẹp</Vi>
+          <En>A person or thing that holds, supports, or contains something.</En>
+          <Example>The phone holder on the dashboard keeps the device secure while driving.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="17ca4441-8b84-4300-bb62-0ef2c5d6bd1b">
+              <Vi>Giá đỡ điện thoại trên xe hơi</Vi>
+              <En>A mount or stand used to secure a smartphone in a vehicle.</En>
+            </Situation>
+            <Situation id="c712c058-af70-45fb-ad12-d772692ab36e">
+              <Vi>Người nắm giữ cổ phiếu hoặc trái phiếu</Vi>
+              <En>A person or entity that legally owns and holds financial instruments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c0eb2341-172f-4144-b2b3-ca7743d9ebaf" type="Noun">
+          <Vi>Người giữ chức vụ (chưa chính thức)</Vi>
+          <En>A person who temporarily holds a position or office before an official appointment or election.</En>
+          <Example>She is currently the acting holder of the ministerial role.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5ae0a50e-69c0-44f2-9d42-fe1be332d5cb">
+              <Vi>Người đảm nhiệm chức vụ tạm thời sau khi người tiền nhiệm từ chức</Vi>
+              <En>A temporary occupant of a position following a resignation or vacancy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
