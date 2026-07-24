@@ -1,0 +1,38 @@
+<Vocab id="5ab019ac-7618-4161-a288-b23dc59621f0" word="extent" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="38d36b62-58a8-40cd-8a3a-57c1f695aa6f" value="Academic" />
+    <Profession id="0a3ce8bc-7dc0-4834-98d7-b70e9c9e2837" value="Business Analyst" />
+    <Profession id="6cf23cbf-6d56-4476-b205-6a28a1d6838b" value="Project Manager" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c3ebe446-62b1-4892-b4e9-5054624eb708" ipa="/ɪkˈstent/" vi_ipa="ích-xten">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="18beabbc-90e5-4213-ba95-f3fef1bec4fe" type="Noun">
+          <Vi>Mức độ, phạm vi, quy mô</Vi>
+          <En>The degree, magnitude, or scope of something.</En>
+          <Example>The extent of the damage was worse than they had feared.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="40198775-beab-47e1-a958-7299e7d34a74">
+              <Vi>Đánh giá mức độ thiệt hại sau thiên tai.</Vi>
+              <En>Assessing the level of damage after a natural disaster.</En>
+            </Situation>
+            <Situation id="a10df521-b7ce-49d0-b744-44aee4990072">
+              <Vi>Thảo luận về phạm vi ảnh hưởng của một chính sách mới.</Vi>
+              <En>Discussing the scope of impact of a new policy.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
