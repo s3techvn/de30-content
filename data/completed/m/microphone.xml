@@ -1,0 +1,38 @@
+<Vocab id="791ceb5a-1ef0-4adb-afdd-c8f1804af8cc" word="microphone" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="a03057c9-9507-470f-a4d5-c22d4d964dac" value="Sound Engineer" />
+    <Profession id="6b05919f-9eb5-42bc-a1e9-cce5382f9e81" value="Podcast Host" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0bf983cf-910d-45f3-b4a8-f8ecdbf81230" ipa="/ˈmaɪ.kroʊ.foʊn/" vi_ipa="mai-crô-fôn">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="90461155-e4a4-410b-aaf6-d2d2c18dc955" type="Noun">
+          <Vi>Bộ thu âm (thiết bị chuyển đổi âm thanh thành tín hiệu điện)</Vi>
+          <En>A device that converts sound into electrical signals, typically for recording, amplifying, or transmitting.</En>
+          <Example>She adjusted the microphone before beginning her speech.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0e6c0257-0474-47e8-aa19-5c7a4e4e37da">
+              <Vi>Sử dụng trong phòng thu âm để ghi lại giọng nói hoặc ca hát.</Vi>
+              <En>Used in a recording studio to capture vocals or singing.</En>
+            </Situation>
+            <Situation id="4a7ef82f-a9ea-46a9-a717-79a651f5e767">
+              <Vi>Được dùng trong hội nghị, sự kiện công cộng để phát thanh giọng nói.</Vi>
+              <En>Used at conferences or public events to amplify the speaker’s voice.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

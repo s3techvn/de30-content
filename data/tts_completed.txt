@@ -1949,3 +1949,4 @@ penalty
 settlement
 smaller
 allah
+power

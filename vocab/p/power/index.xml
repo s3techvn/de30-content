@@ -1,0 +1,80 @@
+<Vocab id="e893b882-e8d4-46f6-ad39-0464cd233cbd" word="power" type="short" status="done">
+  <Topics>
+    <Topic id="0f6bec84-7965-4717-8b83-21192946653b" value="Science" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="6fc76418-029c-405a-86e6-839ad4329f32" value="Politician" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="7bfda031-e125-4ebc-b19c-0be5f7b771fa" ipa="/ˈpaʊ.ər/" vi_ipa="pơ-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="004c8467-cf48-401b-be1a-70f25c7aee54" type="Noun">
+          <Vi>Điện năng; sức mạnh; quyền lực</Vi>
+          <En>The ability to do something or act, especially to control people or events; physical force or energy, especially electricity.</En>
+          <Example>Renewable power sources like wind and solar are becoming more common.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b7785d8-c295-4316-8439-06d791abaada">
+              <Vi>Tình huống nói về năng lượng điện trong kỹ thuật.</Vi>
+              <En>Scenario discussing electrical energy in engineering.</En>
+            </Situation>
+            <Situation id="d931b9be-3e3a-45e6-a0e9-cf70fe63d54d">
+              <Vi>Tình huống nói về quyền lực chính trị hoặc ảnh hưởng xã hội.</Vi>
+              <En>Scenario discussing political authority or social influence.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="99460fd9-cc2b-4122-81f5-f9263c51e026" type="Verb">
+          <Vi>Điều khiển bằng sức mạnh; cung cấp năng lượng</Vi>
+          <En>To supply with power, especially electrical power; to drive or operate using power.</En>
+          <Example>The boat is powered by a 200-horsepower engine.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="62a1f3fe-73d1-442e-8e67-002d677745d7">
+              <Vi>Tình huống mô tả thiết bị được cấp nguồn điện.</Vi>
+              <En>Scenario describing a device being supplied with electrical power.</En>
+            </Situation>
+            <Situation id="4dece3d5-af25-4490-b536-3fddd3496819">
+              <Vi>Tình huống nói về động cơ hoặc máy móc hoạt động nhờ năng lượng.</Vi>
+              <En>Scenario discussing engines or machines operating using power.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="3115fb30-67b8-4ab2-999b-7ab17c79b406" ipa="/ˈpaʊ.ər/" vi_ipa="pơ-đơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c003f54f-af21-4515-9638-d5575cb72493" type="Noun">
+          <Vi>Sức mạnh (vật lý); công suất</Vi>
+          <En>The rate at which work is done or energy is transferred, typically measured in watts.</En>
+          <Example>The motor has a power output of 1.5 kilowatts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="44ea7e5b-9bbb-4d4a-9675-76353169ddb1">
+              <Vi>Tình huống đo lường công suất trong vật lý hoặc kỹ thuật.</Vi>
+              <En>Scenario involving measurement of mechanical or electrical power in physics or engineering.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
