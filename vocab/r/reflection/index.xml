@@ -1,0 +1,60 @@
+<Vocab id="a6753f8c-d3ed-4913-8277-12af0f4b308b" word="reflection" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="7131715f-cc79-47f3-b3c2-2f386eac5b5a" value="Philosophy" />
+    <Topic id="70ccd8f3-1e8d-41b1-be6f-b0e1bf975f88" value="Optics" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="e2905533-6f6d-4e87-834d-097fd4d4f8a5" value="Physicist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5fa6ee22-78ae-46bb-aa74-bc141d80f888" ipa="/rɪˈflek.ʃən/" vi_ipa="ri-fléc-sờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9d145a90-c783-430e-b2ea-b2bc7f1a4487" type="Noun">
+          <Vi>Sự phản xạ (ánh sáng, âm thanh, v.v.)</Vi>
+          <En>The change in direction of a wave (such as light or sound) when it encounters a boundary between two different media.</En>
+          <Example>The mirror causes the light to produce a clear reflection on the wall.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="90095982-f84e-4b20-8743-d0d4d96b5446">
+              <Vi>Mô tả hiện tượng ánh sáng bật lại khi chiếu vào gương hoặc mặt nước.</Vi>
+              <En>Describing how light bounces back when hitting a mirror or water surface.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8e0b15f4-3453-450c-b324-f2aa3413b061" type="Noun">
+          <Vi>Sự suy ngẫm, chiêm nghiệm</Vi>
+          <En>Deep or serious thought, especially about one’s own actions, experiences, or beliefs.</En>
+          <Example>She spent the evening in quiet reflection after reading the book.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="9c148e96-2970-4567-a300-78d0294a137b">
+              <Vi>Một người ngồi yên lặng để suy nghĩ về quyết định vừa rồi hoặc trải nghiệm gần đây.</Vi>
+              <En>A person sitting quietly to think deeply about a recent decision or experience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="42b0c913-b3c3-44ad-8410-ceffc5934095" type="Noun">
+          <Vi>Hình ảnh phản chiếu; ảnh ảo</Vi>
+          <En>An image seen in a mirror, on a shiny surface, or in water.</En>
+          <Example>Her reflection in the window looked tired and pale.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54a085a2-2b27-4b42-9011-133f5348537e">
+              <Vi>Nhìn thấy hình ảnh của mình trong gương hoặc cửa sổ.</Vi>
+              <En>Seeing one’s own image in a mirror or window.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
