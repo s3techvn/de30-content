@@ -1,0 +1,38 @@
+<Vocab id="608bf759-c996-4105-905b-8703dc7f8403" word="mood" type="short" status="done">
+  <Topics>
+    <Topic id="2bd71022-ac06-4a28-8875-be9fac56de1f" value="Emotions &amp; Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="30425cd0-0e32-4925-be61-c759bf9b1309" value="Writer" />
+    <Profession id="a59464db-86a8-4091-845d-8ee46ace5ef4" value="Actor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3e427d8a-f584-4c24-a851-befd2dd0e9a7" ipa="/muːd/" vi_ipa="mút">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="efd488b8-c668-43ff-b619-c533f950d5c2" type="Noun">
+          <Vi>Tâm trạng; cảm xúc; tinh thần</Vi>
+          <En>A temporary state of mind or emotion.</En>
+          <Example>She’s in a good mood today, so she agreed to help with the project.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="bf597061-c187-4083-a601-6ffc780f7a15">
+              <Vi>Mô tả cảm xúc nhất thời của một người (vui, buồn, cáu kỉnh, hào hứng…).</Vi>
+              <En>Describing a person’s temporary emotional state (happy, sad, irritable, enthusiastic, etc.).</En>
+            </Situation>
+            <Situation id="eb2dcd58-74fc-4393-b0ae-82c3fe730455">
+              <Vi>Dùng trong nghệ thuật để chỉ tinh thần hoặc cảm xúc bao trùm một tác phẩm.</Vi>
+              <En>In art, referring to the prevailing emotional atmosphere or feeling of a work.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

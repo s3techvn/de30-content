@@ -1,0 +1,52 @@
+<Vocab id="ab16490d-4ee1-42ad-902c-91f3795de689" word="empire" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="6846ef75-1a95-45bf-8223-a32a45f8f7f0" value="Politics" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="df8f0d5b-42ce-4f47-8283-65db0f024b68" value="Political Scientist" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="64829a19-8e28-4702-b603-0120974f3c4f" ipa="/ˈem.paɪr/" vi_ipa="em-pái-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="81062d76-4cd3-42f0-860b-b7a970c02783" type="Noun">
+          <Vi>đế quốc</Vi>
+          <En>A large group of countries or territories governed by a single ruler or central authority, typically an emperor or empress.</En>
+          <Example>The Roman Empire spanned three continents at its height.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2e682b9-1e72-4a80-879c-d6f0707d22d5">
+              <Vi>Chỉ một tập đoàn lãnh thổ rộng lớn do một vị hoàng đế hoặc chính quyền trung ương kiểm soát.</Vi>
+              <En>Refers to a vast collection of territories under unified rule by a single monarch or central government.</En>
+            </Situation>
+            <Situation id="7f38244f-fda7-4b96-a596-9b2a6a07a84d">
+              <Vi>Thường dùng để nói về các đế chế lịch sử như La Mã, Ottoman, hoặc Anh.</Vi>
+              <En>Commonly used to describe historical empires such as the Roman, Ottoman, or British Empires.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c7fbbd25-6aee-4f2f-8cff-53e7deab69ec" type="Noun">
+          <Vi>quyền lực tối cao; sự thống trị tuyệt đối</Vi>
+          <En>Absolute power or dominance, especially in a particular sphere or domain.</En>
+          <Example>Her influence in the company had become an empire of its own.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="cc2fcc29-4f3c-4149-be13-7d09ecbbc5da">
+              <Vi>Mô tả một cá nhân hoặc tổ chức có sức ảnh hưởng hoặc kiểm soát vượt trội trong một lĩnh vực.</Vi>
+              <En>Used metaphorically to describe overwhelming control or influence in a specific area.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
