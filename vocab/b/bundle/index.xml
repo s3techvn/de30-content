@@ -1,0 +1,94 @@
+<Vocab id="1d5e88d2-d4b6-406a-98ee-23c6742e375b" word="bundle" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="b788bd44-007e-4910-8634-90c2b7dbe6e6" value="Retail Worker" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8d8f80b0-319e-438e-affa-cd225d20786d" ipa="/ˈbʌn.dəl/" vi_ipa="băng-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="e39e7784-a4cf-4c39-bf2c-15ee897dea0c" type="Noun">
+          <Vi>Gói, bó, kiện (gồm nhiều vật được buộc hoặc đóng gói lại)</Vi>
+          <En>A collection of items wrapped or tied together; a package.</En>
+          <Example>She carried a bundle of firewood home from the forest.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3c23417f-620b-426c-a3eb-7b7a136dbb29">
+              <Vi>Mua hàng theo gói (ví dụ: gói đồ dùng thiết yếu)</Vi>
+              <En>Buying essential items as a combined package, such as a hygiene kit or survival kit.</En>
+            </Situation>
+            <Situation id="77a48af3-7c45-46cd-bacd-ed0ad0cd60fa">
+              <Vi>Gói hàng để vận chuyển hoặc lưu trữ</Vi>
+              <En>Tying or wrapping multiple items together for transport or storage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5a726a5c-c81e-4147-906e-a724121edbd0" type="Verb">
+          <Vi>Gói, buộc, đóng gói (nhiều thứ lại với nhau)</Vi>
+          <En>To wrap or tie several items together; to pack items into a bundle.</En>
+          <Example>The farmer bundled the lettuce for market.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0eaadf02-dcba-412e-9f25-4ba22c4d6a99">
+              <Vi>Chuẩn bị hàng hóa để giao</Vi>
+              <En>Preparing goods by grouping and packaging them for delivery.</En>
+            </Situation>
+            <Situation id="004b8f36-4ccc-4a56-8a0f-80cd2e3d96ca">
+              <Vi>Tạo gói sản phẩm phần mềm (ví dụ: phần mềm tích hợp)</Vi>
+              <En>Combining software modules into a single installable package.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="170be1a0-1fb5-43f0-bdee-e06c489079fa" ipa="/ˈbʌn.dəl/" vi_ipa="băng-đờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="faaf2ef1-d19e-4085-9868-b21b0349a1e9" type="Noun">
+          <Vi>Gói hàng (trong thương mại điện tử), gói sản phẩm (đặc biệt là phần mềm)</Vi>
+          <En>A set of products or services sold together as a single unit, often at a discounted price.</En>
+          <Example>The telecom company offers a bundle of internet, TV, and phone services.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f22279e9-9325-4617-856f-401c71815d5c">
+              <Vi>Khách hàng mua combo dịch vụ viễn thông</Vi>
+              <En>A customer subscribes to a combined package of internet, cable, and mobile services.</En>
+            </Situation>
+            <Situation id="937232d5-0f92-43ab-937f-d2f1ebbe2e03">
+              <Vi>Phát hành phần mềm tích hợp (ví dụ: Microsoft Office bundle)</Vi>
+              <En>Releasing a suite of applications (e.g., Word, Excel, PowerPoint) as one product bundle.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="2f770384-a217-4c16-be38-7fbeb64a2d29" type="Noun">
+          <Vi>Số lượng lớn (thường dùng trong các cụm như "a bundle of joy" – đứa trẻ)</Vi>
+          <En>An informal term for a large amount or a person (especially a baby), often used affectionately.</En>
+          <Example>They welcomed a new bundle of joy into their family last month.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fd2ec2ad-c040-4625-b240-81b6230ca3db">
+              <Vi>Chúc mừng sinh con (cách nói thân mật)</Vi>
+              <En>Expressing joy about the birth of a baby in a lighthearted, idiomatic way.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
