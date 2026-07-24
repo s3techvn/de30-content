@@ -1,0 +1,40 @@
+<Vocab id="eca76ecf-5239-4820-add2-c029323506d3" word="folding" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e8a54817-5982-4255-b668-45b8342255e6" value="Furniture" />
+    <Topic id="8dda0897-4bed-4eb4-aca8-d2a92b7bb011" value="Manufacturing" />
+  </Topics>
+  <Professions>
+    <Profession id="a86fcb76-f813-45be-8ef9-469d98fd2201" value="Furniture Designer" />
+    <Profession id="deb32aa4-ed56-4f23-b063-073f8ce60cb9" value="Packaging Engineer" />
+    <Profession id="ba408daa-84e0-460f-b214-8294a23f52b0" value="Interior Decorator" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="6b809c98-9873-40c9-ae9b-6d53ca9c1e6d" ipa="/ˈfoʊl.dɪŋ/" vi_ipa="phờ-lđin">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4ed78402-519f-4ac9-a326-fe6852b4740a" type="Noun">
+          <Vi>Sự gấp; vật gấp được (như ghế gấp, bàn gấp)</Vi>
+          <En>The action of folding something, or an object designed to be folded (e.g., a folding chair or table)</En>
+          <Example>The folding mechanism of this chair is very smooth and reliable.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8b40fea7-bb7f-459d-9f06-fb54d7f138ea">
+              <Vi>Mô tả hành động gấp giấy, vải, hoặc đồ vật để tiết kiệm không gian.</Vi>
+              <En>Describing the action of folding paper, fabric, or objects to save space.</En>
+            </Situation>
+            <Situation id="1cce808e-949e-491f-b582-1e872c1646a3">
+              <Vi>Ghép lại thành câu mô tả đồ nội thất có thể gấp gọn.</Vi>
+              <En>Used when referring to space-saving furniture that can be folded for storage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
