@@ -1,0 +1,57 @@
+<Vocab id="e7c70f9b-717c-4ec5-b7fc-7cc12ef621e7" word="preservation" type="short" status="done">
+  <Topics>
+    <Topic id="770153dc-de36-4a2f-adda-94db4ad5603b" value="Environment" />
+    <Topic id="3c2cccc0-6a9a-4559-9608-1ed66fefff13" value="Culture" />
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+  </Topics>
+  <Professions>
+    <Profession id="79a97372-6f28-4f46-874b-3dd7b626cccb" value="Archaeologist" />
+    <Profession id="020d9706-5d62-4c00-af5f-4c7373d76c07" value="Museum Curator" />
+    <Profession id="fde003ac-30b3-482a-bf2f-dedbb7c4459e" value="Conservator" />
+    <Profession id="31513ee4-21a9-474e-87e5-ff10b141cd3e" value="Environmental Scientist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fc55bdc4-eabb-4c1b-aedf-351af1201983" ipa="/ˌpre.zərˈveɪ.ʃən/" vi_ipa="pờ-rờ-zơ-rây-vê-xờ-n">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0f841705-bfce-4ba8-af8a-34d685bd0f78" type="Noun">
+          <Vi>Sự bảo tồn, sự bảo vệ để giữ nguyên trạng</Vi>
+          <En>The action or process of preserving something, especially to protect it from decay, damage, or loss.</En>
+          <Example>The museum’s preservation efforts include climate-controlled storage for fragile artifacts.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2527b082-b581-49db-a5c6-a353c74106b9">
+              <Vi>Bảo tồn di sản văn hóa trong bảo tàng</Vi>
+              <En>Protecting cultural heritage items in a museum using controlled environmental conditions.</En>
+            </Situation>
+            <Situation id="44362a51-7ad8-43e2-a5bb-43a13556473a">
+              <Vi>Bảo tồn rừng và hệ sinh thái tự nhiên</Vi>
+              <En>Protecting natural forests and ecosystems from deforestation and degradation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="a4df366b-82de-4ec8-98d2-7c85236db3df" type="Noun">
+          <Vi>Sự giữ nguyên, sự duy trì (trạng thái, tình trạng)</Vi>
+          <En>The maintenance of a condition, practice, or status quo over time.</En>
+          <Example>The preservation of peace in the region requires continuous diplomatic engagement.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="12fe9b71-6c72-422a-b1d0-af7a3c89b50f">
+              <Vi>Duy trì hòa bình sau xung đột</Vi>
+              <En>Ensuring long-term stability and peace after a conflict ends.</En>
+            </Situation>
+            <Situation id="d8e644d7-b8c5-4a26-82f7-d3e1e8deb3cc">
+              <Vi>Bảo tồn phong tục tập quán trong cộng đồng</Vi>
+              <En>Continuing traditional customs and rituals within a community despite modern influences.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
