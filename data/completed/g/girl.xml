@@ -1,0 +1,48 @@
+<Vocab id="7b4fe9fb-240b-4c51-9feb-cb8215b3bb19" word="girl" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="92ebeec5-b445-4530-83d9-e9cd61393d28" value="Family &amp; Relationships" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="91c9f646-7d9a-4daf-8d83-c5420f3b89c8" value="Social Worker" />
+    <Profession id="e5b9782f-50ec-4e55-a0f4-1f0c4f34b9ad" value="Healthcare Provider" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9324d47f-8890-4525-b2ce-5c913e2209a4" ipa="/ɡɜːrl/" vi_ipa="gờ-ơ-ơ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="532c04f2-ea72-4ac5-9b43-ebb64c0ad783" type="Noun">
+          <Vi>Cô gái</Vi>
+          <En>A female from birth to adolescence or young adulthood.</En>
+          <Example>She met a girl from her high school at the café.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b0d02232-f2be-4ada-9aae-ed199473aa8d">
+              <Vi>Mô tả một bé gái hoặc thiếu nữ trong các tình huống học đường, gia đình, hoặc xã hội.</Vi>
+              <En>Referring to a young female in school, family, or social contexts.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d56c130e-c2b6-465e-a403-ac43c9b93b52" type="Noun">
+          <Vi>Người phụ nữ trẻ (thường mang tính chất thân mật hoặc không trang trọng)</Vi>
+          <En>A young woman, often used informally or affectionately (may be considered outdated or patronizing in some contexts).</En>
+          <Example>He greeted his daughter’s friends as “those nice girls.”</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d897a2dd-8ead-486d-905f-90f3c2e2dfe7">
+              <Vi>Sử dụng trong giao tiếp thân mật hoặc không trang trọng để chỉ phụ nữ trẻ; cần lưu ý ngữ cảnh để tránh gây mất lịch sự.</Vi>
+              <En>Used informally or affectionately for young women; context matters to avoid sounding dismissive.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
