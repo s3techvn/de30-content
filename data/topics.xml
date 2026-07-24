@@ -637,4 +637,7 @@
   <Topic id="3c9cd732-cd27-4b25-8b6e-b11ecbfed55c" slug="neuroscience" value="Neuroscience" />
   <Topic id="5d6539f0-6343-4ff4-b3e2-2ca34d7290a3" slug="childhood" value="Childhood" />
   <Topic id="2296d19d-52be-4fca-a6db-ab38ad26c493" slug="parenting" value="Parenting" />
+  <Topic id="44d302d1-2271-4e36-b4d8-5ba82b2ebc08" slug="movement-&amp;-physics" value="Movement &amp; Physics" />
+  <Topic id="749f1df7-3e9e-4b7c-9983-002a0c8540b1" slug="everyday-actions" value="Everyday Actions" />
+  <Topic id="4824261c-ebe9-474a-b47e-1f8337df4faf" slug="computing-&amp;-ui" value="Computing &amp; UI" />
 </Topics>

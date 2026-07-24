@@ -1,0 +1,84 @@
+<Vocab id="396283c2-0ffb-4972-988b-2a6ca2824a38" word="drag" type="short" status="done">
+  <Topics>
+    <Topic id="44d302d1-2271-4e36-b4d8-5ba82b2ebc08" value="Movement &amp; Physics" />
+    <Topic id="749f1df7-3e9e-4b7c-9983-002a0c8540b1" value="Everyday Actions" />
+    <Topic id="4824261c-ebe9-474a-b47e-1f8337df4faf" value="Computing &amp; UI" />
+  </Topics>
+  <Professions>
+    <Profession id="06f0bcd8-9320-4173-b299-7db206ac17a7" value="Physical Laborer" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="9388dd20-aa26-4eb2-85d3-1c5c8d130622" ipa="/dræɡ/" vi_ipa="drag">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c3a3fb27-a3b0-49d3-b1ae-a6737b64bd80" type="Verb">
+          <Vi>kéo, lôi, kéo lê</Vi>
+          <En>to pull or haul (something) with effort, especially along a surface</En>
+          <Example>He dragged the heavy suitcase across the airport floor.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="211fc57e-028b-43fc-8fe5-d8ae6172b829">
+              <Vi>Mô tả hành động kéo một vật nặng bằng tay hoặc cơ thể.</Vi>
+              <En>Describes pulling a heavy object using physical effort.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="3e91e0b4-732e-4934-8a5f-3b40aea5abee" type="Verb">
+          <Vi>làm chậm lại, kéo dài không cần thiết</Vi>
+          <En>to make something last longer than necessary, especially in an annoying way</En>
+          <Example>The meeting dragged on for three hours with no clear conclusion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="03d9bfa3-57c4-44c6-a173-f0ea31b72ade">
+              <Vi>Mô tả việc một sự kiện (buổi họp, câu chuyện...) kéo dài quá lâu và nhàm chán.</Vi>
+              <En>Describes an event (meeting, story, etc.) that is unnecessarily prolonged and tedious.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="29495557-6d8f-4e84-8ea6-6edc35db71e7" type="Noun">
+          <Vi>sự kéo lê; vật bị kéo lê; điều nhàm chán</Vi>
+          <En>the action of dragging something; something that is slow, dull, or burdensome</En>
+          <Example>The drag of the wind made sailing difficult.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c0cc0b42-bb4d-4520-84d9-c7bbde761d0d">
+              <Vi>Mô tả sức cản hoặc trở ngại (vật lý hoặc trừu tượng).</Vi>
+              <En>Describes resistance or hindrance, either physical (e.g., wind resistance) or abstract (e.g., a boring task).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="10cce294-cc8c-404b-9e6e-13d1ddbff7d2" type="Verb">
+          <Vi>thu hút (người xem, sự chú ý)</Vi>
+          <En>to attract attention or interest, especially in a compelling way</En>
+          <Example>The colorful display dragged in a huge crowd.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7b7e2322-4469-4d0a-bb42-c2a5a19de3e4">
+              <Vi>Mô tả việc một sự kiện, sản phẩm hoặc màn trình diễn thu hút đông người xem.</Vi>
+              <En>Describes an event, product, or performance that draws a large audience.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="7431f355-6fe0-450a-b660-75d74369ae7e" type="Noun">
+          <Vi>đồ trang trí treo (trong lễ hội, tiệc tùng)</Vi>
+          <En>decorative items hung from above, especially at parties or festivals</En>
+          <Example>They added streamers and confetti as drag for the birthday party.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e1f572ee-c4eb-43b2-9f34-7665650f8fe7">
+              <Vi>Mô tả vật trang trí treo lơ lửng trong không gian tổ chức sự kiện.</Vi>
+              <En>Describes hanging decorations used to enhance the festive atmosphere.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
