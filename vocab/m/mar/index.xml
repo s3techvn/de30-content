@@ -1,0 +1,52 @@
+<Vocab id="8c1e1d0d-cc92-4049-8167-f692bda19e42" word="mar" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="1c3cf42d-a41a-4da0-a438-76d0f9e4cc44" value="General" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="25a1fff3-8db9-4339-a135-12acf9300d12" ipa="/mɑːr/" vi_ipa="mà">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0bb0b77b-030a-4137-84d5-73f58e4722a1" type="Verb">
+          <Vi>làm hỏng, làm xấu, làm tổn thương</Vi>
+          <En>to damage or spoil the appearance, quality, or condition of something; to harm or impair</En>
+          <Example>The storm marred the beach, leaving debris and erosion in its wake.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4a4295c0-ee63-4aaa-8db1-2fc531dbb6a5">
+              <Vi>Mô tả một sự cố làm ảnh hưởng tiêu cực đến vẻ đẹp hoặc chức năng của một vật.</Vi>
+              <En>Describing an event that negatively affects the appearance or functionality of an object.</En>
+            </Situation>
+            <Situation id="91737efd-ca1f-4731-b225-78daed32d602">
+              <Vi>Dùng khi nói về một vết sẹo, vết trầy xước làm giảm giá trị hoặc vẻ đẹp của vật thể.</Vi>
+              <En>Used when referring to a scar or scratch that reduces the value or beauty of an object.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1a64efa5-c274-4bf3-af43-95299e2f245c" type="Verb">
+          <Vi>làm cho (mối quan hệ, kế hoạch, v.v.) không còn hoàn hảo</Vi>
+          <En>to ruin the perfect or pleasant nature of something, especially a relationship, plan, or experience</En>
+          <Example>His constant criticism began to mar their friendship.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="0a7810a8-84f4-40a3-acd6-d9fd2fe16cf7">
+              <Vi>Mô tả một yếu tố tiêu cực làm giảm chất lượng hoặc niềm vui của một trải nghiệm.</Vi>
+              <En>Describing a negative factor that diminishes the quality or enjoyment of an experience.</En>
+            </Situation>
+            <Situation id="76e25d99-4d0d-467a-9cb3-ba7c4697deef">
+              <Vi>Dùng khi nói về một xung đột làm tổn hại đến mối quan hệ.</Vi>
+              <En>Used when referring to a conflict that harms a relationship.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
