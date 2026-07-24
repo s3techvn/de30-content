@@ -1,0 +1,32 @@
+<Vocab id="cd4b0387-104e-4153-9809-1f32eee0c200" word="allah" type="short" status="done">
+  <Topics>
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+  </Topics>
+  <Professions>
+    <Profession id="804841d3-b4df-44d6-a3b4-21a3dcaccbe2" value="Religious Leader" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b275ab16-125f-4d5b-856b-f6c000465689" ipa="/ˈɑː.lɑː/" vi_ipa="ác-laa">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="0afeb5ff-42ae-4c93-b50a-0e5ca953cfc5" type="Noun">
+          <Vi>Chúa Trời (danh xưng của Đức Chúa Trời trong đạo Hồi)</Vi>
+          <En>The name of God in Islam; the one and only deity in Islamic monotheism.</En>
+          <Example>Muslims pray to Allah five times a day.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e2ca9b38-a872-4f6f-9aa1-a13604afcf45">
+              <Vi>Sử dụng khi nói về tín ngưỡng, kinh Qur’an, hoặc các nghi lễ Hồi giáo.</Vi>
+              <En>Used when discussing Islamic faith, the Qur’an, or religious rituals.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

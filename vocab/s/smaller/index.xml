@@ -1,0 +1,38 @@
+<Vocab id="c688e756-c816-4c59-a906-b40a4ccd556c" word="smaller" type="short" status="done">
+  <Topics>
+    <Topic id="445f1154-afae-4d28-b102-bd3c7b7ba92e" value="General Description" />
+  </Topics>
+  <Professions>
+    <Profession id="e8c38669-b790-43ca-aa6c-e96b32ab838b" value="Retail" />
+    <Profession id="31dff947-7654-4bb0-9283-08c84ae06345" value="Fashion Design" />
+    <Profession id="0898c4fc-79a4-4bae-8496-266f197e46c0" value="Manufacturing" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="4768ff7e-97fe-4464-b601-48f2887c0b21" ipa="/ˈsmɔːl.ɚ/" vi_ipa="xờ-mờ-rờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a452a1bc-5c07-4d15-aa0a-134dce0797e2" type="Adjective">
+          <Vi>nhỏ hơn, bé hơn</Vi>
+          <En>of a lesser size, amount, or degree; comparative of small</En>
+          <Example>This shirt is smaller than the one I tried on yesterday.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2af28fdd-cb7b-4709-b684-077694459a52">
+              <Vi>Mô tả vật có kích thước ít hơn so với một vật tham chiếu.</Vi>
+              <En>Describing an object that has less physical size or quantity compared to another.</En>
+            </Situation>
+            <Situation id="34b4a3ed-60d6-4a0d-8e69-e56957e8e11b">
+              <Vi>Dùng khi so sánh kích thước quần áo để chọn cỡ phù hợp.</Vi>
+              <En>Used when comparing clothing sizes to select the appropriate fit.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

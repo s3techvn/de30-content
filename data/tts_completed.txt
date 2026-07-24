@@ -1947,3 +1947,4 @@ toy
 audit
 penalty
 settlement
+smaller
