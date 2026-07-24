@@ -1,0 +1,37 @@
+<Vocab id="c10b1a4f-4b48-445b-8b29-f29fd98f26cf" word="retailer" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="5343f86f-a0f0-4763-bf24-963cabfede7c" value="Retail Manager" />
+    <Profession id="f8cd6614-5ce8-424f-9d0b-0b6a1a8ee1a2" value="Sales Associate" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ba3b5806-ca77-4466-8afe-8da72189071e" ipa="/ˈriː.teɪ.lər/" vi_ipa="ri-tê-lơ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="4e55f036-2ff5-424f-b7e0-884b95c4f6fc" type="Noun">
+          <Vi>người bán lẻ; cửa hàng bán lẻ</Vi>
+          <En>a business that sells goods to the public in relatively small quantities, typically in a store</En>
+          <Example>The retailer offered a discount for customers who bought three or more items.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="7715ca28-ecdd-4604-bb67-b84d31de82ed">
+              <Vi>Cửa hàng tiện lợi hoặc siêu thị bán trực tiếp sản phẩm cho người tiêu dùng cuối cùng.</Vi>
+              <En>A store or shop that sells products directly to individual consumers for personal use.</En>
+            </Situation>
+            <Situation id="65d6ca33-7fec-4ea3-b46f-843096c12012">
+              <Vi>Công ty phân phối hàng hóa từ nhà sản xuất hoặc đại lý đến tay người tiêu dùng.</Vi>
+              <En>A company that acquires goods from wholesalers or manufacturers and distributes them to end consumers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

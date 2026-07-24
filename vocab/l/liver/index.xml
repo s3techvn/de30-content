@@ -1,0 +1,38 @@
+<Vocab id="09703003-84f9-4913-9ed2-f47738f6f16f" word="liver" type="short" status="done">
+  <Topics>
+    <Topic id="d5def4be-3882-40b9-81c3-882f5545e0d5" value="Health &amp; Biology" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="2f07befb-7e2b-4e4c-8ec3-c4a6b118826d" value="Biologist" />
+    <Profession id="16ae155f-a0fb-4eb1-a619-d0cf1c3eebf4" value="Chef" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1a063437-aa67-4e81-ba5c-2a44ea8ab64f" ipa="/ˈlɪv.ɚ/" vi_ipa="lív-ơ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="95a61139-371e-42dd-be91-e046deb00d3c" type="Noun">
+          <Vi>gan (cơ quan nội tạng)</Vi>
+          <En>The large, dark red organ in the upper right side of the abdomen, which secretes bile and helps in the metabolism of fats, proteins, and carbohydrates.</En>
+          <Example>The liver filters toxins from the blood and produces bile to aid digestion.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c4642bf1-1ae5-4cc9-8457-69dbd95c3ff1">
+              <Vi>Bệnh gan do uống rượu quá mức</Vi>
+              <En>Liver disease caused by excessive alcohol consumption</En>
+            </Situation>
+            <Situation id="e8c299c7-03a7-489e-adb0-db60c12ed358">
+              <Vi>Nấu gan với hành tây và tỏi</Vi>
+              <En>Cooking liver with onions and garlic</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
