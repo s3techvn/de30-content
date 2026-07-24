@@ -860,4 +860,5 @@
   <Profession id="e7552598-ef22-4536-a9bd-a24b52b7b2f1" slug="tourism-worker" value="Tourism Worker" />
   <Profession id="31b73273-95ba-4128-a87b-ab3d5d692afb" slug="forest-ranger" value="Forest Ranger" />
   <Profession id="315d8d4b-8ca1-4726-acd8-bdef32a2e947" slug="optician" value="Optician" />
+  <Profession id="036c0137-e6a2-4b71-beee-6bac0398b6bb" slug="retail-buyer" value="Retail Buyer" />
 </Professions>
