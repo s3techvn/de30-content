@@ -1,0 +1,56 @@
+<Vocab id="0e958b1f-d291-4b00-824e-d5b76b628709" word="mill" type="short" status="done">
+  <Topics>
+    <Topic id="d312e292-41a1-41bb-9c79-4a4d73ad9999" value="Industry" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="ea9515f0-c5f9-41dd-a403-decc64ea41b6" value="Agriculture" />
+  </Topics>
+  <Professions>
+    <Profession id="d4a0fbc8-1f03-4138-9e8d-aafc9be65b31" value="Farmer" />
+    <Profession id="09206afa-1387-423a-9035-e995034c8a00" value="Engineer" />
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="85a6d151-f3b3-44a2-b499-59bbe72522a4" ipa="/mɪl/" vi_ipa="míl">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="46016b2f-14ec-489b-a561-3342f1a3bad7" type="Noun">
+          <Vi>Cối xay; nhà máy (cũ); đơn vị tiền tệ (1/1000 đô la Mỹ)</Vi>
+          <En>A machine for grinding grain into flour; a building housing such a machine; a unit of currency equal to one-thousandth of a dollar (used in pricing).</En>
+          <Example>The farmer brought his wheat to the mill to be ground into flour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="163a474d-d541-4ca4-bfa9-3905b6c36986">
+              <Vi>Mô tả một nhà máy xay lúa truyền thống ở vùng nông thôn.</Vi>
+              <En>Describing a traditional grain-milling facility in a rural area.</En>
+            </Situation>
+            <Situation id="1fd8ad2a-aa9a-43f7-afdc-727344ea85f4">
+              <Vi>Giá cả được niêm yết với độ chính xác đến 1/1000 đô la.</Vi>
+              <En>Pricing listed with precision to the nearest mill (e.g., $1.999/gallon).</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1974ccaa-2826-45fb-b045-75756f1b4638" type="Verb">
+          <Vi>Xay (lúa, ngũ cốc); nghiền nát; làm việc chăm chỉ, lao động vất vả</Vi>
+          <En>To grind grain into flour using a mill; to crush or grind something into small pieces; to work hard or persistently (often in the phrase "mill around").</En>
+          <Example>The windmill turned as it milled the wheat into fine flour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="04e43db6-4ba4-4799-ba72-cb46ee4ad820">
+              <Vi>Hành động xay ngũ cốc bằng cối xay truyền thống.</Vi>
+              <En>The process of grinding grain using a traditional mill.</En>
+            </Situation>
+            <Situation id="5574c167-2067-4112-8e3b-5be32c82f1c1">
+              <Vi>Mô tả người đi lại lo lắng hoặc bối rối trong một không gian chật chội.</Vi>
+              <En>People moving restlessly or in a confused manner in a crowded space (e.g., "They milled around the entrance").</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

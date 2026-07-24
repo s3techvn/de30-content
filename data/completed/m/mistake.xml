@@ -1,0 +1,48 @@
+<Vocab id="d486c5ed-51c3-4381-aca2-47b693b94ad4" word="mistake" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="67182267-7a2a-419a-b373-68a3b12117d3" ipa="/mɪˈsteɪk/" vi_ipa="mít-stêyk">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f53c4ab2-fc12-488e-9c57-49454c23033c" type="Noun">
+          <Vi>Sai lầm</Vi>
+          <En>An action or decision that is wrong or incorrect.</En>
+          <Example>He made a serious mistake in his calculations.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="39e7d32f-9e08-411a-adcb-bd5fe1e8250f">
+              <Vi>Người học sinh phát hiện ra sai lầm trong bài kiểm tra.</Vi>
+              <En>A student discovers an error in their test answers.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="e848c9dd-1d26-4777-84e6-d93f6a3b9abe" type="Verb">
+          <Vi>Lầm, nhầm, mắc sai lầm</Vi>
+          <En>To do something wrong or incorrect; to misunderstand or misidentify something.</En>
+          <Example>I mistook her for her sister.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="b2dcb891-d0fc-4766-a556-13a97a5ea239">
+              <Vi>Người hướng dẫn viên nhầm địa điểm tham quan.</Vi>
+              <En>The tour guide confused one historical site with another.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
