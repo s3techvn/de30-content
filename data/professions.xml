@@ -838,4 +838,5 @@
   <Profession id="ec1447e9-dc16-49a7-8878-a8171ee16371" slug="localization-specialist" value="Localization Specialist" />
   <Profession id="82349153-ab26-436f-baa0-430ebd7a7646" slug="heraldist" value="Heraldist" />
   <Profession id="d271c6cf-9c45-407f-a28e-75b70355bfb5" slug="ski-instructor" value="Ski Instructor" />
+  <Profession id="f61646fa-ee06-4f4d-b64b-acd8c806e3be" slug="project-lead" value="Project Lead" />
 </Professions>

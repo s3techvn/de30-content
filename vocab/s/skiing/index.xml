@@ -1,0 +1,38 @@
+<Vocab id="e1383fb3-c3ff-4c77-83d9-13315f63035e" word="skiing" type="short" status="done">
+  <Topics>
+    <Topic id="70e0c39b-5d53-489b-8eb4-71344671b917" value="Sports &amp; Recreation" />
+  </Topics>
+  <Professions>
+    <Profession id="d271c6cf-9c45-407f-a28e-75b70355bfb5" value="Ski Instructor" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="b3491586-1807-48b6-83f1-4046913e4b0f" value="Tourism Guide" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="e2aad275-06d2-4265-b2b8-32ca4ac87029" ipa="/ˈskiː.ɪŋ/" vi_ipa="xki-inh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8fe62458-cf7e-4cf2-994c-c891d1e7b034" type="Noun">
+          <Vi>việc trượt tuyết; môn trượt tuyết</Vi>
+          <En>The sport or activity of moving over snow on skis, typically with poles, for recreation or competition.</En>
+          <Example>She started skiing at the age of five and now competes in national championships.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="15b669d7-7af2-4ba0-8b0c-0a330e77133d">
+              <Vi>Mô tả hoạt động giải trí hoặc thi đấu trên tuyết bằng ván trượt.</Vi>
+              <En>Describes recreational or competitive activity on snow using skis and poles.</En>
+            </Situation>
+            <Situation id="b6936044-f525-48c6-8a4e-5cdef851e9c4">
+              <Vi>Chương trình huấn luyện hoặc du lịch trượt tuyết ở vùng núi.</Vi>
+              <En>Ski training program or ski tourism in mountainous regions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

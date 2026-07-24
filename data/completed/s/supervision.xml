@@ -1,0 +1,38 @@
+<Vocab id="c2d3ba65-513d-4b24-850f-e687eaa9767f" word="supervision" type="short" status="done">
+  <Topics>
+    <Topic id="c15bbe50-6226-4964-8c7d-c2c5553814d5" value="Workplace" />
+  </Topics>
+  <Professions>
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="f61646fa-ee06-4f4d-b64b-acd8c806e3be" value="Project Lead" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8fa061d5-1073-4671-83d7-cd647fda3cac" ipa="/ˌsuː.pɚˈvɪʒ.ən/" vi_ipa="xừ-pờ-vi-dơ-n">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="c481f2fd-7cce-42f9-9cd2-78d376f9cdb4" type="Noun">
+          <Vi>Giám sát; sự giám sát</Vi>
+          <En>The act of overseeing and directing the work of others, especially to ensure quality, safety, or compliance.</En>
+          <Example>The project manager provided close supervision during the construction phase.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ad097838-97dc-4490-8fa9-dcd4978b4b0b">
+              <Vi>Giám sát nhân viên trong một môi trường làm việc để đảm bảo họ hoàn thành nhiệm vụ đúng cách.</Vi>
+              <En>Oversight of employees in a workplace to ensure tasks are performed correctly and efficiently.</En>
+            </Situation>
+            <Situation id="d0b6a226-3253-4178-b6a8-9e6f47aced27">
+              <Vi>Giám sát học sinh trong lớp học hoặc trong các hoạt động ngoại khóa.</Vi>
+              <En>Oversight of students during classroom activities or extracurricular events.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
