@@ -1,0 +1,66 @@
+<Vocab id="15b2edda-d3ec-44cb-ab7a-7a4b9478a4c9" word="express" type="short" status="done">
+  <Topics>
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="a9d4dc54-94ec-433e-92d1-fde983d9b93e" value="Public Speaker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="8f60dfdc-968e-463f-8c60-d4242106b9dc" ipa="/ɪkˈspres/" vi_ipa="ích-xp-rét">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="2a94fcec-f70e-4657-9bec-d2e7f3637eb0" type="Verb">
+          <Vi>biểu đạt, thể hiện (cảm xúc, ý kiến, suy nghĩ)</Vi>
+          <En>to show or communicate a feeling, opinion, or thought, especially through words, facial expressions, or actions</En>
+          <Example>She struggled to express her gratitude after the kind gesture.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d2884958-ba3b-4e0e-8220-259d937c2af5">
+              <Vi>Một người đang nói rõ suy nghĩ hoặc cảm xúc của mình trong một cuộc trò chuyện.</Vi>
+              <En>A person clearly articulating their thoughts or emotions during a conversation.</En>
+            </Situation>
+            <Situation id="bbd48c4c-c177-4b91-b24d-64df764f8682">
+              <Vi>Người nghệ sĩ dùng tranh vẽ hoặc âm nhạc để biểu đạt cảm xúc.</Vi>
+              <En>An artist using painting or music to convey deep emotions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="779054ff-52fe-489e-80c6-2e6888edd994" type="Verb">
+          <Vi>đưa nhanh, chuyển nhanh (hàng hóa, thư tín)</Vi>
+          <En>to send something, especially goods or documents, quickly and directly to a destination</En>
+          <Example>The package was express-delivered and arrived the next morning.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d140e64a-9696-43c1-8af7-d1533df11bb1">
+              <Vi>Gửi hàng quốc tế qua dịch vụ chuyển phát nhanh như DHL hoặc FedEx.</Vi>
+              <En>Shipping international parcels via express courier services like DHL or FedEx.</En>
+            </Situation>
+            <Situation id="48783768-dd2c-477a-afc5-68f3d4f6265a">
+              <Vi>Yêu cầu gửi tài liệu khẩn cấp trong công việc.</Vi>
+              <En>Requesting urgent documents to be sent via express delivery for a time-sensitive meeting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="8c7d8dfa-31c5-4eaa-8e50-44c1f3b49321" type="Verb">
+          <Vi>đặc biệt, đặc biệt nổi bật (ít dùng, thường trong cụm từ)</Vi>
+          <En>used to emphasize that something is special, exceptional, or particularly notable</En>
+          <Example>He was the express choice of the committee for the leadership role.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="edef07a0-b83c-442b-ad6e-1d124599978d">
+              <Vi>Ngôn ngữ trang trọng, văn chương cổ để nhấn mạnh sự lựa chọn rõ ràng.</Vi>
+              <En>Formal or literary usage to highlight an unambiguous or deliberate selection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
