@@ -1,0 +1,64 @@
+<Vocab id="0734d7bd-cc93-4e11-85fb-cf9874bf1b1e" word="ton" type="short" status="done">
+  <Topics>
+    <Topic id="077d4c87-a270-476c-8952-06c536c24370" value="Measurement" />
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+    <Topic id="d312e292-41a1-41bb-9c79-4a4d73ad9999" value="Industry" />
+  </Topics>
+  <Professions>
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="c60be95d-9d98-499b-b977-5059bcac9863" value="Construction Manager" />
+    <Profession id="8908d133-558e-4cb6-a486-1914ec151b4c" value="Shipping Agent" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2d505307-ea8d-4864-8df6-4a2bfd91a8c4" ipa="/tʌn/" vi_ipa="tơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ff4898de-f0d4-4e02-a736-4ba2cbd100d6" type="Noun">
+          <Vi>1 tấn (đơn vị khối lượng bằng 1.000 kg)</Vi>
+          <En>A unit of weight equal to 1,000 kilograms (metric ton) or approximately 2,204.6 pounds (short ton).</En>
+          <Example>The truck can carry up to 20 tons of cargo.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="5985be7c-3364-4b0e-ada7-97e5e3900f90">
+              <Vi>Trong giao nhận hàng hóa, dùng để đo khối lượng hàng hóa lớn.</Vi>
+              <En>Used in logistics and freight to measure large quantities of goods.</En>
+            </Situation>
+            <Situation id="77c5402b-4c75-4c73-a1ca-f83c8c1a8496">
+              <Vi>Khi báo cáo sản lượng công nghiệp như thép, xi măng, hoặc nông sản.</Vi>
+              <En>Used when reporting industrial output, such as steel, cement, or agricultural yields.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="4dcc632d-c409-4ac0-98f7-55f7adaa9383" type="Noun">
+          <Vi>xe tải cỡ lớn (thường chỉ xe tải có tải trọng từ 1 tấn trở lên)</Vi>
+          <En>A large truck, typically one with a payload capacity of one ton or more.</En>
+          <Example>The company dispatched a ton to deliver construction materials to the site.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1caff2e6-113d-46e2-bb36-9b6103b48c3b">
+              <Vi>Trong giao thông đường bộ, chỉ phương tiện vận tải nặng.</Vi>
+              <En>In road transport, refers to heavy-duty vehicles.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="818912a4-33b2-4795-b378-b27e7730e575" type="Noun">
+          <Vi>số lượng lớn (nghĩa bóng)</Vi>
+          <En>A large amount or quantity (figurative).</En>
+          <Example>We have a ton of work to finish before the deadline.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="51eb7d1b-36d8-4e0e-b023-85fe2e346243">
+              <Vi>Dùng trong văn nói để nhấn mạnh khối lượng công việc hoặc trách nhiệm.</Vi>
+              <En>Used informally to emphasize a large amount of work or responsibility.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
