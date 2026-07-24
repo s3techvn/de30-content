@@ -1,0 +1,34 @@
+<Vocab id="f4e3704e-298d-47a3-971d-8f4ea14cfbe2" word="teaching" type="short" status="done">
+  <Topics>
+    <Topic id="e2ab23d5-42b9-4d9a-8700-fc2bcd7e730a" value="Education" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="97765fd4-a4e4-4515-8980-5ffffcc38f70" value="Lecturer" />
+    <Profession id="c2832901-3ec0-4f93-a412-9bd843423160" value="Trainer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="187d2a5b-f526-4a99-93bd-4b18db6a01e0" ipa="/ˈtiː.tʃɪŋ/" vi_ipa="tì-chíng">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="dd1b707c-91b6-4ef1-8498-ba5a35651a3c" type="Noun">
+          <Vi>Giảng dạy; sự dạy học</Vi>
+          <En>The act or profession of a teacher; the process of imparting knowledge or skills.</En>
+          <Example>Her teaching focuses on interactive methods to engage students.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="54009775-18c1-462f-b3f6-3934925beb35">
+              <Vi>Mô tả hoạt động giảng dạy trong lớp học hoặc môi trường giáo dục.</Vi>
+              <En>Describes the activity of instructing students in a classroom or educational setting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
