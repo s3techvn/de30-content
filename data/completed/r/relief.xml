@@ -1,0 +1,90 @@
+<Vocab id="f89f3c73-b273-45af-beec-141977cd3191" word="relief" type="short" status="done">
+  <Topics>
+    <Topic id="61ca3d55-edbf-4c66-8ecc-b7a3e65fdba3" value="Health &amp; Emotions" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="922f7ac0-ab71-42ea-a870-8f50e26b19d0" value="Humanitarian Aid" />
+  </Topics>
+  <Professions>
+    <Profession id="627792b8-cf91-40eb-970a-d80cec44bd2d" value="Doctor" />
+    <Profession id="b92a4351-4ec6-448a-beac-1c29fba7331c" value="Psychologist" />
+    <Profession id="20ee581e-e02a-43b5-b693-1e0c5b8c353b" value="Humanitarian Worker" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="472702a1-a32c-470c-ad80-a537f07e1cf0" ipa="/rɪˈlif/" vi_ipa="ri-líp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="47d9e9cc-2ebd-4c0f-aa11-b99017036d2f" type="Noun">
+          <Vi>Sự giảm nhẹ, sự giải tỏa (đau khổ, khó khăn, bệnh tật)</Vi>
+          <En>The reduction or removal of pain, distress, or difficulty</En>
+          <Example>She felt a wave of relief when the test results came back negative.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="4266ac7a-0077-465d-bb81-5b166a147bef">
+              <Vi>Tình huống khi một nỗi lo hoặc nỗi đau được giảm bớt</Vi>
+              <En>A situation where a source of stress or suffering is eased or removed</En>
+            </Situation>
+            <Situation id="85f87453-25b7-48ae-aa64-a58d46eb278b">
+              <Vi>Tình huống cung cấp hỗ trợ khẩn cấp (thực phẩm, thuốc men) cho người gặp thiên tai</Vi>
+              <En>A situation involving emergency aid (food, medicine) provided to people affected by disaster</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="42f68836-d69a-492e-bb43-ba4752fa3f1d" type="Noun">
+          <Vi>Người được cứu giúp (trong bối cảnh cứu trợ nhân đạo)</Vi>
+          <En>A person who receives aid, especially in a humanitarian crisis</En>
+          <Example>The relief workers distributed food and water to the displaced families.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="07460a24-62c5-4361-b3cf-70cb5574474f">
+              <Vi>Tình huống các tổ chức cứu trợ đến vùng lũ lụt để hỗ trợ người dân</Vi>
+              <En>A situation where aid organizations reach flood-affected areas to assist residents</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="5f885a59-874c-4ec2-aa75-7bb31ca0bcd6" type="Noun">
+          <Vi>Người thay thế (trong ca làm việc)</Vi>
+          <En>A person who takes over a duty or position temporarily</En>
+          <Example>The relief teacher covered the class while the regular teacher was on leave.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ba8bbd05-90d2-480e-ba33-0298739b05c1">
+              <Vi>Tình huống giáo viên thay thế xuất hiện khi giáo viên chính không có mặt</Vi>
+              <En>A situation where a substitute teacher appears when the regular teacher is absent</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+    <Pronunciation id="a0a56fea-cf30-4fbf-a8b2-dfb0f1a9d1a5" ipa="/rɪˈliːf/" vi_ipa="ri-líp">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="69050943-a17d-4732-b6cf-9d6202c0c3ab" type="Verb">
+          <Vi>Giảm bớt (đau khổ, khó khăn, bệnh tật)</Vi>
+          <En>To make suffering, difficulty, or pain less severe</En>
+          <Example>The medicine helped relieve her headache.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="27db9851-401a-4207-b49e-f85e2d58283d">
+              <Vi>Tình huống dùng thuốc để giảm cơn đau</Vi>
+              <En>A situation where medication is used to reduce physical pain</En>
+            </Situation>
+            <Situation id="777c67d0-33ee-4a6f-b4ba-149369627222">
+              <Vi>Tình huống tìm cách giảm căng thẳng tinh thần</Vi>
+              <En>A situation where someone seeks ways to ease mental or emotional stress</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
