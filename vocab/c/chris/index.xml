@@ -1,0 +1,32 @@
+<Vocab id="91c784c2-6c07-4058-8530-e705ff15787f" word="chris" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="5f4b604c-5b52-463f-874d-cd0f0db3cf47" value="N/A" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="10c105b3-661d-40b9-b457-77c97fb8d750" ipa="/krɪs/" vi_ipa="crít">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="bd10a80d-ad63-4290-9777-c0762cc7d194" type="Noun">
+          <Vi>Tên riêng (viết tắt của Christopher hoặc Christina)</Vi>
+          <En>A given name, typically short for Christopher (male) or Christina (female)</En>
+          <Example>Chris is a common nickname for Christopher in English-speaking countries.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="59e5a7f5-e523-41b8-a874-d28dd548b4e3">
+              <Vi>Dùng khi gọi người tên Christopher hoặc Christina một cách thân mật hoặc trong văn viết không trang trọng.</Vi>
+              <En>Used informally or in writing to refer to someone named Christopher or Christina.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
