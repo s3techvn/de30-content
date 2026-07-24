@@ -924,4 +924,5 @@
   <Profession id="1763a753-c7e8-4ba0-97ca-14a71687168b" slug="cardiologist" value="Cardiologist" />
   <Profession id="eec7b1f3-493a-4fa8-b35a-063ace4d2028" slug="dairy-farmer" value="Dairy Farmer" />
   <Profession id="8e5abce4-787f-4eb0-879c-605330351dca" slug="card-dealer" value="Card Dealer" />
+  <Profession id="1bb16b36-7198-4be7-9c80-1fcca03f3122" slug="employer" value="Employer" />
 </Professions>

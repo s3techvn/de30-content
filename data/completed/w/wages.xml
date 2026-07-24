@@ -1,0 +1,40 @@
+<Vocab id="5fa02949-14d8-4db4-b109-d72fd657a1ce" word="wages" type="short" status="done">
+  <Topics>
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+    <Topic id="b55d66f7-52ce-4ad0-b364-a1fac3e07697" value="Finance" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="132ba25d-2423-4112-b124-9bde14129ba7" value="Employee" />
+    <Profession id="1bb16b36-7198-4be7-9c80-1fcca03f3122" value="Employer" />
+    <Profession id="8d9be78a-08fb-4386-9455-7fc4263d94da" value="HR Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c847e40d-bbce-419b-88b4-dbb7e7a5c9c6" ipa="/ˈweɪdʒɪz/" vi_ipa="vê-i-gi-dz">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="35842dd3-aa3e-4b2b-9718-c74d09d2713d" type="Noun">
+          <Vi>Lương, tiền công (thường trả theo giờ, ngày, hoặc tuần)</Vi>
+          <En>Money paid by an employer to an employee, typically calculated on an hourly, daily, or weekly basis.</En>
+          <Example>She receives her wages every Friday in cash.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ff00d688-2388-4377-8ef7-9aca2c412ce1">
+              <Vi>Một công nhân nhận tiền lương hàng tuần từ chủ lao động.</Vi>
+              <En>A worker receives weekly pay from their employer.</En>
+            </Situation>
+            <Situation id="312107ac-c70c-48d1-931c-e01bdfbb3f44">
+              <Vi>Chính phủ đề xuất tăng mức lương tối thiểu.</Vi>
+              <En>The government proposed raising the minimum wage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
