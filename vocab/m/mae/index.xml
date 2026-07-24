@@ -1,0 +1,32 @@
+<Vocab id="6828c2db-38d6-410e-a528-32d00aeaa551" word="mae" type="short" status="done">
+  <Topics>
+    <Topic id="20dfdfce-ea7c-4308-88b4-829c99d0d920" value="Names" />
+  </Topics>
+  <Professions>
+    <Profession id="93765cfd-4363-4f27-ad87-ca8726281753" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c170258e-2191-4692-98da-88486d67c2e4" ipa="/meɪ/" vi_ipa="mê">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="b10d22ae-cc12-4771-b124-cba3ab417c2b" type="Noun">
+          <Vi>Tên riêng (thường là tên đệm hoặc tên lót trong tiếng Welsh, mang nghĩa "ngọn lửa" hoặc "người nhỏ bé")</Vi>
+          <En>A Welsh given name, often used as a middle name, meaning "fire” or “little one”.</En>
+          <Example>Mae is a popular middle name in Wales, often chosen for its cultural significance.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="205c3ca8-97e9-4e88-be89-6212cbbbbb08">
+              <Vi>Được dùng trong các gia đình người Wales để tôn vinh di sản văn hóa và ngôn ngữ.</Vi>
+              <En>Used by Welsh families to honor cultural and linguistic heritage.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
