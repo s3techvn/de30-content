@@ -1946,3 +1946,4 @@ unique
 toy
 audit
 penalty
+settlement

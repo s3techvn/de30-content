@@ -1,0 +1,60 @@
+<Vocab id="5fccc601-47f9-48e8-9218-288a2ddeb8f6" word="settlement" type="short" status="done">
+  <Topics>
+    <Topic id="13d5418e-5480-4b2f-8286-65be0ff80efe" value="Law" />
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+    <Topic id="b80e94fb-4160-4e86-aaa4-49e867fd754a" value="Business" />
+  </Topics>
+  <Professions>
+    <Profession id="1ddcea78-09ad-40a4-b735-6a418bfdd3fc" value="Lawyer" />
+    <Profession id="bf3ac573-a75a-491c-98d3-e22ae89ea1de" value="Urban Planner" />
+    <Profession id="9a3de48c-5eb3-4d96-8ad7-b1fae9a6f0e3" value="Diplomat" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="86e8b6fa-6e85-4e8f-824a-1f0a103f9291" ipa="/ˈset.əl.mənt/" vi_ipa="sét-lơ-men-t">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a0981ad2-fbf3-4097-a1b9-a1192d51e514" type="Noun">
+          <Vi>Thỏa thuận giải quyết (tranh chấp)</Vi>
+          <En>An agreement reached to resolve a dispute or conflict, often legally binding.</En>
+          <Example>The two companies reached a settlement out of court to avoid a lengthy trial.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="163fb0d8-b1d9-497e-bdd1-0f0dfec1d5ca">
+              <Vi>Trong một vụ kiện dân sự, hai bên đồng ý một khoản bồi thường để chấm dứt tranh chấp.</Vi>
+              <En>In a civil lawsuit, both parties agree on compensation to end the dispute.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d48a342d-e01a-4339-9981-77db92cf8186" type="Noun">
+          <Vi>Khu định cư</Vi>
+          <En>A place where people establish a community, especially in a new or frontier region.</En>
+          <Example>The early settlers founded a small settlement near the river.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f6899c04-c4d2-46b8-87d6-a08d222640b6">
+              <Vi>Các nhà thám hiểm thành lập một khu định cư ven biển vào thế kỷ 17.</Vi>
+              <En>Explorers established a coastal settlement in the 17th century.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="d5311944-e6bb-46fd-acaf-bd2fb4321d36" type="Noun">
+          <Vi>Sự định cư; việc cư trú ổn định</Vi>
+          <En>The action or process of establishing residence in a place; a stable residence.</En>
+          <Example>After years of travel, he finally found a settlement in a quiet mountain town.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1e3155ee-7b34-4d99-9ac0-59577e6c2a27">
+              <Vi>Sau khi rời thành phố, cô ấy tìm thấy sự ổn định trong một ngôi làng nhỏ.</Vi>
+              <En>After leaving the city, she found stability in a small village.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
