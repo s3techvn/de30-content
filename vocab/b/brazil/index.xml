@@ -1,0 +1,34 @@
+<Vocab id="631be95a-845a-43ef-bc04-0051e35b1600" word="brazil" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="58898f52-6ab6-4700-baf5-3ce60475127a" value="Travel Agent" />
+    <Profession id="a200f282-0c2a-4466-99c7-431311c6af6d" value="Geographer" />
+    <Profession id="a8443f74-c010-461d-94a4-f3144cd984d1" value="International Trade Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="af93854d-d2ac-4aeb-a055-c765c1b605f7" ipa="/ˈbrɑː.zɪl/" vi_ipa="bờ-rây-zil">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="934e32c7-ef00-44df-973d-79f1e1a12346" type="Noun">
+          <Vi>Brazil (quốc gia ở Nam Mỹ)</Vi>
+          <En>A country in South America, the largest in Latin America, known for the Amazon rainforest, Carnival, and soccer.</En>
+          <Example>Brazil hosted the 2014 FIFA World Cup and the 2016 Summer Olympics.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e8a873c7-8156-49a6-b0d1-2b0c5cbc36d6">
+              <Vi>Thảo luận về du lịch, văn hóa, hoặc kinh tế liên quan đến quốc gia này.</Vi>
+              <En>Discussing travel, culture, or economy related to this South American nation.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
