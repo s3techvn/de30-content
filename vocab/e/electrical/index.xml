@@ -1,0 +1,40 @@
+<Vocab id="23679f02-fc3e-4cb1-9f38-4453045576e2" word="electrical" type="short" status="done">
+  <Topics>
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+    <Topic id="2e2a724c-095a-445a-89ee-a04522602b59" value="Engineering" />
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="014b10af-bf18-44b4-a888-1c6bb7ba3faa" value="Electrical Engineer" />
+    <Profession id="609479f0-3b22-4a55-9b93-a0488da21d26" value="Electrician" />
+    <Profession id="ac51b219-a0f5-42a3-8172-e08121ab2fc2" value="Physics Researcher" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="1717a078-7724-46ae-b46c-9d616436d0d0" ipa="/ɪˈlek.trɪ.kəl/" vi_ipa="i-léc-tơ-ríc">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="1d3f0595-f9d2-4ec3-930e-51e294ca2653" type="Adjective">
+          <Vi>thuộc về điện, liên quan đến điện</Vi>
+          <En>relating to electricity, especially in terms of its use in machines, equipment, or systems.</En>
+          <Example>The electrical wiring in this house needs to be upgraded for safety.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1af6ca6c-f3bd-491b-ac7a-37ec514a7779">
+              <Vi>Mô tả các thiết bị, hệ thống, hoặc hiện tượng liên quan đến dòng điện.</Vi>
+              <En>Describing devices, systems, or phenomena involving electric current.</En>
+            </Situation>
+            <Situation id="2c4457d8-e67e-457a-9ff6-ed9c1d610d34">
+              <Vi>Chỉ tính chất vật lý hoặc kỹ thuật của điện.</Vi>
+              <En>Referring to the physical or engineering properties of electricity.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

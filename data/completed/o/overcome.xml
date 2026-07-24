@@ -1,0 +1,52 @@
+<Vocab id="cb78f818-3f97-4bde-b135-7a70b4536175" word="overcome" type="short" status="done">
+  <Topics>
+    <Topic id="0a040872-59fe-4025-973c-2655ccca631d" value="Personal Development" />
+    <Topic id="d5c5f24d-b497-4876-8d0c-c67a96a99505" value="Challenges &amp; Problems" />
+    <Topic id="52e30d7e-1450-4e76-a3a0-c745ac16ed27" value="Psychology" />
+  </Topics>
+  <Professions>
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+    <Profession id="3c96a403-214f-47f6-9528-79b2daaa0b04" value="Coach" />
+    <Profession id="19d3a7b4-f5a7-4417-91f8-b9e6fda890d8" value="Athlete" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="0ba16969-0181-453e-86c1-87628a851e52" ipa="/ˌoʊ.vərˈkʌm/" vi_ipa="ô-vờ-rợ-kăm">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="a3805ae9-28df-4ffe-bfa4-c9df067a6e8d" type="Verb">
+          <Vi>vượt qua, chiến thắng</Vi>
+          <En>to successfully reach a goal or deal with a difficulty, especially after a struggle</En>
+          <Example>She managed to overcome her fear of public speaking after months of practice.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="fe73b058-ccec-411c-82a9-680d59dd797f">
+              <Vi>Tình huống một người vượt qua nỗi sợ hãi, trở ngại, hoặc khó khăn trong cuộc sống.</Vi>
+              <En>A situation where a person successfully deals with a personal fear, obstacle, or hardship.</En>
+            </Situation>
+            <Situation id="f2525a5a-7aed-4f44-b719-f42b68d14f0c">
+              <Vi>Tình huống một vận động viên vượt qua chấn thương để trở lại thi đấu.</Vi>
+              <En>A situation where an athlete returns to competition after recovering from an injury.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="9b3cdd35-d3d1-4814-b126-61571001541c" type="Verb">
+          <Vi>thắng thế, áp đảo (đối thủ)</Vi>
+          <En>to defeat an opponent or rival, especially in a contest or competition</En>
+          <Example>The underdog team managed to overcome their rivals in the final match.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="05eec600-d8fa-4604-8d5e-ea07da25ac93">
+              <Vi>Tình huống một đội yếu hơn thắng đội mạnh hơn trong thể thao.</Vi>
+              <En>A situation where a weaker team defeats a stronger one in sports.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
