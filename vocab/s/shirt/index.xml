@@ -1,0 +1,38 @@
+<Vocab id="5b8c9cb6-c08c-4219-9b0f-b73c6244aab0" word="shirt" type="short" status="done">
+  <Topics>
+    <Topic id="d6863a6a-d6af-4964-8356-9c4822bfba5e" value="Clothing" />
+  </Topics>
+  <Professions>
+    <Profession id="a365bed5-1efb-4093-92e9-b6ff61cbcd7e" value="Fashion Designer" />
+    <Profession id="8a6f0600-e40e-4aa2-b37f-ddc6fd11a46c" value="Retail Sales Associate" />
+    <Profession id="11cb49a7-1092-47d2-81e9-d8858b53edc6" value="Tailor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c25c6a6c-14af-4243-b8d1-0e8d66b75893" ipa="/ʃɜːrt/" vi_ipa="sờ-rợt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="74bc84ff-0aa9-4112-a89f-562f8a117559" type="Noun">
+          <Vi>Cái áo (thường có cổ, tay dài hoặc ngắn, mặc ở trên thân trên)</Vi>
+          <En>A garment worn on the upper body, typically with a collar, sleeves, and buttons down the front.</En>
+          <Example>He ironed his white shirt before the job interview.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="518944e5-7918-4e0c-8c4e-c9720b7dae88">
+              <Vi>Một người mặc áo sơ mi để đi làm hoặc dự tiệc trang trọng.</Vi>
+              <En>Someone wearing a shirt for work or a formal event.</En>
+            </Situation>
+            <Situation id="96d57b2c-93dc-46eb-844b-07bed0c4bace">
+              <Vi>Người thợ may đo cắt vải may áo sơ mi theo kích thước khách hàng.</Vi>
+              <En>A tailor measures and cuts fabric to make a custom shirt for a customer.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

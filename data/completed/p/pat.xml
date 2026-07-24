@@ -1,0 +1,44 @@
+<Vocab id="868cb5f7-8dc0-4c38-8389-3ea2f9680253" word="pat" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+  </Topics>
+  <Professions>
+    <Profession id="f7e557ec-cf76-4b22-bf31-21b5bb9ee0f1" value="" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="fe26b151-e3b6-4b40-b016-13c15afd0ddf" ipa="/pæt/" vi_ipa="pết">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="5a3a8642-13cc-49cc-b841-3b1b616792c1" type="Noun">
+          <Vi>Cái vỗ nhẹ; cái vỗ tay nhẹ</Vi>
+          <En>A light, quick tap or stroke, especially with the hand.</En>
+          <Example>She gave the dog a comforting pat on the head.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="447b7629-bcfb-4725-b3db-b9faeb0cabf4">
+              <Vi>Mô tả hành động vỗ nhẹ lên lưng, đầu, hoặc vật gì đó để thể hiện sự an ủi, khen ngợi, hoặc thân mật.</Vi>
+              <En>Describes a light tap, often on the head or back, to comfort, praise, or show affection.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="12162126-1abf-4544-9d89-aeaa27986051" type="Verb">
+          <Vi>Vỗ nhẹ; vỗ tay nhẹ</Vi>
+          <En>To strike lightly and quickly with the hand, especially in a friendly or affectionate way.</En>
+          <Example>He patted the child’s shoulder to reassure him.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="d39ed12e-9b8e-43e4-8d2b-21a9c3ac031d">
+              <Vi>Hành động vỗ nhẹ lên người khác để thể hiện sự thân thiện, an ủi, hoặc khen ngợi.</Vi>
+              <En>A light, friendly tap on someone to comfort, encourage, or praise them.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
