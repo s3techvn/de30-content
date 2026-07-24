@@ -1,0 +1,64 @@
+<Vocab id="c36f38d7-688d-4900-8dad-1bf13d89c698" word="shot" type="short" status="done">
+  <Topics>
+    <Topic id="a861d191-78c2-41a0-bf37-9de7bcff3cb5" value="Sports" />
+    <Topic id="ca14d9db-36fc-473f-84c6-30ee31a31d56" value="Photography" />
+    <Topic id="38523066-f0bc-4794-a5f6-f7e49a048ca0" value="Firearms" />
+    <Topic id="1c0ecef3-34ce-4cc6-9ce1-29830c922e74" value="Film &amp; Media" />
+    <Topic id="2a75ca66-50b4-46ee-a05e-c341df49c2c1" value="Alcohol" />
+  </Topics>
+  <Professions>
+    <Profession id="44449fb3-1b6f-4c5a-b7f5-3ce6421122a0" value="Photographer" />
+    <Profession id="41a4e91a-4666-4430-9b6a-8b79453558ab" value="Film Director" />
+    <Profession id="c418e666-d3b2-49f1-883f-8b6aabd8bbaa" value="Sports Coach" />
+    <Profession id="e1f1c37a-30e4-4955-a131-5d496cb180cc" value="Marksmanship Trainer" />
+    <Profession id="d20f4884-5eef-4f55-9034-7294a785b464" value="Bartender" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="3be2ae36-4def-4667-a00a-911ba68182c7" ipa="/ʃɑːt/" vi_ipa="sốt">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="376f2726-2ea9-401b-93c4-4f000413920e" type="Noun">
+          <Vi>Viên đạn; Một lần bắn; Một lần chụp ảnh; Một lần quay phim; Một lượng nhỏ đồ uống (thường rượu)</Vi>
+          <En>A single bullet or pellet; a single act of firing a gun; a single photograph; a single take in filmmaking; a small serving of liquor</En>
+          <Example>The hunter fired a shot at the deer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="8a56fdd6-ba26-4ca0-80a9-4057e4cb86ce">
+              <Vi>Một vận động viên bắn súng chuẩn bị bắn phát đầu tiên.</Vi>
+              <En>A marksman prepares to fire their first shot.</En>
+            </Situation>
+            <Situation id="c244ce4d-1791-424a-b95f-51d23b74ca34">
+              <Vi>Nhà nhiếp ảnh chụp một bức ảnh đẹp trong một lần bấm máy.</Vi>
+              <En>The photographer captured a stunning image in a single shot.</En>
+            </Situation>
+            <Situation id="0e3bd816-19be-4e56-9bcd-980a7e977f49">
+              <Vi>Người đàn ông uống một ngụm rượu mạnh sau khi làm việc mệt mỏi.</Vi>
+              <En>The man drank a shot of whiskey after a tiring day.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="67c49265-7c19-4bab-9f11-ae9159a24b9c" type="Verb">
+          <Vi>Bắn (đạn); Chụp (ảnh); Quay (phim); Đổ đầy (ly) với lượng nhỏ đồ uống</Vi>
+          <En>To fire a gun; to take a photograph; to film a scene; to fill a glass with a small serving of liquor</En>
+          <Example>The director yelled, “Action!” and the actor was shot in the scene.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="80b9217d-82e0-47e9-aad7-ea4ef3fc7bc0">
+              <Vi>Nhà báo quay phim sự kiện bằng điện thoại.</Vi>
+              <En>The journalist shot footage of the event on their phone.</En>
+            </Situation>
+            <Situation id="cbb959e2-d16b-4243-a5d0-37963caf7e98">
+              <Vi>Người phục vụ rót một lượng nhỏ rượu vào ly cho khách.</Vi>
+              <En>The bartender shot a measure of tequila into the glass.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
