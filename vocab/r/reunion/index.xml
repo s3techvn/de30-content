@@ -1,0 +1,34 @@
+<Vocab id="4f39f765-a2d3-42a5-be81-b6044616272b" word="reunion" type="short" status="done">
+  <Topics>
+    <Topic id="8c381087-3c45-40e0-bd25-5deaae007fae" value="Social Life" />
+  </Topics>
+  <Professions>
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="47fac884-af28-475f-bcb8-f79de18b1998" value="Human Resources Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="2f296849-cbbf-4f55-b9cd-0ef35e696dc9" ipa="/ˌriː.juːˈniː.ən/" vi_ipa="ri-yu-ni-ơn">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="40ec7fe2-cfcf-48f7-9d6f-9e1aef5c252e" type="Noun">
+          <Vi>cuộc gặp lại, buổi sum họp</Vi>
+          <En>A gathering of people who have not seen each other for a long time, especially former classmates, colleagues, or members of an organization.</En>
+          <Example>Our high school class held its 20-year reunion last summer.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="f2def175-a801-4cb9-9157-916d906bbda9">
+              <Vi>Sự kiện tổ chức để các cựu học sinh, đồng nghiệp, hoặc thành viên cũ gặp gỡ và reconnect sau nhiều năm xa cách.</Vi>
+              <En>An event organized for former classmates, colleagues, or members to meet and reconnect after many years apart.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>

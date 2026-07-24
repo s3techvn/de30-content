@@ -1,0 +1,52 @@
+<Vocab id="d96d3b75-1160-49c4-ad91-81493ae34826" word="native" type="short" status="done">
+  <Topics>
+    <Topic id="b5352a81-540f-4cf3-8e63-dce02ae322c6" value="People &amp; Identity" />
+    <Topic id="3fdb8649-ca8f-465f-a92f-b75d2411c673" value="Geography &amp; Places" />
+    <Topic id="6172afb0-8c07-4423-87c2-ab82308db2d0" value="Language &amp; Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="2fa8152b-ddd7-4edc-8457-ade7d2d80481" value="Linguist" />
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="475c6c5f-0269-4d84-af00-ab86d03b593a" value="Immigration Consultant" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ebe0537c-7b96-4648-a1c2-1103707d553a" ipa="/ˈneɪ.tɪv/" vi_ipa="nê-i-típ">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="aa073eab-f02e-4883-a040-c19bb14ee422" type="Adjective">
+          <Vi>Bản địa; sinh ra ở nơi nào đó; làm chủ một ngôn ngữ từ khi sinh ra</Vi>
+          <En>Born in a particular place or country; having a language as one’s first language from birth.</En>
+          <Example>She is a native speaker of Spanish.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="ac8d0056-ce42-409a-8900-c46d5f6dc661">
+              <Vi>Mô tả người sinh ra và lớn lên tại một quốc gia cụ thể.</Vi>
+              <En>Describing someone born and raised in a specific country.</En>
+            </Situation>
+            <Situation id="53bd10bc-3268-4ff1-a821-f89252cdec2e">
+              <Vi>Mô tả người sử dụng một ngôn ngữ như ngôn ngữ mẹ đẻ.</Vi>
+              <En>Describing someone who uses a language as their mother tongue.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="f442c478-e38a-4236-bbc7-5d54eda41a86" type="Adjective">
+          <Vi>Tự nhiên, có sẵn trong khu vực đó (thực vật, động vật, văn hóa...)</Vi>
+          <En>Occurring naturally in a particular place; indigenous.</En>
+          <Example>The koala is a native animal of Australia.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="996a933f-3c86-4aa3-8b74-89d4ce32312c">
+              <Vi>Mô tả loài thực vật hoặc động vật không phải du nhập mà có từ xưa trong khu vực.</Vi>
+              <En>Describing plants or animals that naturally occur in a region without human introduction.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
