@@ -1,0 +1,46 @@
+<Vocab id="7bff1f2d-4996-4c3e-99a2-be55fc7d1ac6" word="northeast" type="short" status="done">
+  <Topics>
+    <Topic id="971f9e20-7df5-4cfa-95be-c29bcf907308" value="Geography" />
+  </Topics>
+  <Professions>
+    <Profession id="97af847a-74ef-4667-8577-89f34613b517" value="Cartographer" />
+    <Profession id="aed3b65d-d41e-4342-8720-71d6dd5ce12f" value="Pilot" />
+    <Profession id="2192f46d-2ab0-4307-a7b1-8d2dc9249c78" value="Meteorologist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="85cc1853-e216-47d2-96b2-4ba17186221f" ipa="/ˌnɔːrθˈiːst/" vi_ipa="nóc-ít-tít">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="8131743e-2538-4e50-b526-f10d13a956aa" type="Adjective">
+          <Vi>thuộc về hướng đông bắc; ở phía đông bắc</Vi>
+          <En>relating to or situated in the direction halfway between north and east</En>
+          <Example>The storm is moving toward the northeast at 20 miles per hour.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="478099f3-b25e-4ec9-aeea-7916cdab25ab">
+              <Vi>Mô tả vị trí hoặc hướng di chuyển trong địa lý, hàng hải, hoặc thời tiết.</Vi>
+              <En>Used to describe location or direction in geography, navigation, or weather forecasting.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="df178d31-757c-43b3-93d5-6e7ec0c1562d" type="Noun">
+          <Vi>hướng đông bắc</Vi>
+          <En>the direction halfway between north and east</En>
+          <Example>We set off in the northeast direction.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e11ee727-ab7e-4433-b5f7-b855dcdbcf08">
+              <Vi>Dùng khi chỉ một hướng cụ thể trong bản đồ, định hướng, hoặc du lịch.</Vi>
+              <En>Used when specifying a compass direction in maps, orientation, or travel.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
