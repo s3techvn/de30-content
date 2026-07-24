@@ -830,4 +830,5 @@
   <Profession id="f8cd6614-5ce8-424f-9d0b-0b6a1a8ee1a2" slug="sales-associate" value="Sales Associate" />
   <Profession id="5d0f09ef-2c64-4f21-bced-c22d06450b51" slug="coastal-engineer" value="Coastal Engineer" />
   <Profession id="8a5e3750-ec0e-4b50-8cc2-7dcbb3791d6b" slug="market-analyst" value="Market Analyst" />
+  <Profession id="884d1c0f-5fcb-407a-a3a8-9ad0d5b0149e" slug="priest" value="Priest" />
 </Professions>

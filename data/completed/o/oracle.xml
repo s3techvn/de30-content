@@ -1,0 +1,60 @@
+<Vocab id="35a3d074-e9a7-4fb2-8553-80befbe4c6f3" word="oracle" type="short" status="done">
+  <Topics>
+    <Topic id="f2a38db6-5600-4a70-b683-e070f0330daa" value="History" />
+    <Topic id="7a9d003b-240a-4c7c-80fe-09c289b99b3a" value="Religion" />
+    <Topic id="085b2651-e3b7-438b-8ea4-750755ca7ae5" value="Technology" />
+  </Topics>
+  <Professions>
+    <Profession id="0c7b45ce-afbf-4afb-8432-f90fe2261ce8" value="Historian" />
+    <Profession id="884d1c0f-5fcb-407a-a3a8-9ad0d5b0149e" value="Priest" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b923d643-e0cd-4c80-b052-1cb4c1749512" ipa="/ˈɔː.rəl/" vi_ipa="ô-rơ-l">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="232d0792-213b-42a7-9b50-e0731d6e4841" type="Noun">
+          <Vi>ông hoàng, người phán xét, người tiên tri (trong thần thoại Hy Lạp)</Vi>
+          <En>in ancient Greece, a person or place through which a god was believed to speak, especially the priestess at Delphi who gave prophecies</En>
+          <Example>The Pythia, the high priestess of the Temple of Apollo at Delphi, was considered the oracle of the ancient world.</Example>
+          <IsArchaic>true</IsArchaic>
+          <Situations>
+            <Situation id="a48d52dd-6aa2-45ea-8999-a46d9a4df410">
+              <Vi>Người Hy Lạp cổ đại đến đền Apollo tại Delphi để tham vấn vị nữ tư tế, người được tin là truyền đạt lời tiên tri từ thần Apollo.</Vi>
+              <En>Ancient Greeks visited the Temple of Apollo at Delphi to consult the priestess, believed to convey prophecies from the god Apollo.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="c3ce806c-75db-4761-b45f-a5b5a8be488b" type="Noun">
+          <Vi>người (hoặc tổ chức) được tin là có trí tuệ siêu phàm, nguồn thông tin đáng tin cậy</Vi>
+          <En>a person or organization regarded as an authoritative source of information or advice</En>
+          <Example>She is considered an oracle of fashion in the industry.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="895ff34a-1415-4428-bb10-f9255c5b6ed9">
+              <Vi>Trong giới truyền thông, một chuyên gia nổi tiếng thường được gọi là "oracle" khi mọi người tin tưởng vào nhận định của họ.</Vi>
+              <En>In media circles, a renowned expert is often called an "oracle" when people trust their insights.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="51268828-2d58-4892-9b6c-918b4955953b" type="Noun">
+          <Vi>hệ thống phần mềm doanh nghiệp tích hợp (Oracle Database, Oracle ERP)</Vi>
+          <En>a suite of enterprise software products developed by Oracle Corporation, especially its relational database management system</En>
+          <Example>The company migrated its legacy systems to Oracle to improve data security and scalability.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2e2329a0-c5aa-490c-844d-da7c09fd8f41">
+              <Vi>Trong công ty công nghệ, đội ngũ kỹ sư thường nói "deploy on Oracle" khi triển khai hệ thống cơ sở dữ liệu doanh nghiệp.</Vi>
+              <En>In tech companies, engineers often say "deploy on Oracle" when rolling out enterprise database systems.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
