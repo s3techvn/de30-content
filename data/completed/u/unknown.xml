@@ -1,0 +1,38 @@
+<Vocab id="f8ef1c82-b75f-4416-a591-824f9c933f76" word="unknown" type="short" status="done">
+  <Topics>
+    <Topic id="193a03b9-8caa-44e0-84c4-7e39ae136655" value="General" />
+  </Topics>
+  <Professions>
+    <Profession id="f7c73974-50e8-4825-991f-586e1ac97e10" value="Researcher" />
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="d732a0a7-04cc-4586-b0fd-70989e7387ba" value="Software Developer" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="674013b6-ffea-4bda-90ed-b519bd58e014" ipa="/ʌnˈnoʊn/" vi_ipa="ăn-nô-un">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="ca19ebdc-8537-4077-b043-a05dad5e5b16" type="Adjective">
+          <Vi>không xác định; chưa biết; vô danh</Vi>
+          <En>not known or identified; not discovered or revealed.</En>
+          <Example>The attacker remains unknown to the police.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3eb3a26d-8065-4390-abaf-c187ab3c0f46">
+              <Vi>Mô tả một người hoặc sự vật mà danh tính hoặc bản chất chưa được tiết lộ hoặc chưa thể xác định.</Vi>
+              <En>Describes a person or thing whose identity or nature has not been revealed or cannot be determined.</En>
+            </Situation>
+            <Situation id="07372755-7688-428e-b238-411aedea1dcb">
+              <Vi>Dùng trong bối cảnh khoa học hoặc điều tra khi dữ liệu hoặc nguyên nhân chưa rõ.</Vi>
+              <En>Used in scientific or investigative contexts when data or causes are unclear.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
