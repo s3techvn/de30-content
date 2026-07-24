@@ -1,0 +1,40 @@
+<Vocab id="d3a99f49-756b-4f60-9f0c-67da5888662e" word="upcoming" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="5eb5e746-a8fd-4aa4-abfc-b5dbb4c3a78f" value="Events" />
+    <Topic id="c781859b-3861-4e7c-8a4b-f142c7db14c9" value="Media" />
+  </Topics>
+  <Professions>
+    <Profession id="789367aa-7cd9-4d0c-bea9-686a2a5b4841" value="Journalist" />
+    <Profession id="a1a05eb9-10eb-4238-822a-b2cb09df132c" value="Event Planner" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="c5e4cd83-53d5-4c60-a2be-cc03cb7e7cee" ipa="/ˌʌpˈkʌm.ɪŋ/" vi_ipa="ác-pkăm-inh">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="f1744319-dda8-4a66-b152-a09ee5e290fe" type="Adjective">
+          <Vi>Sắp tới, sẽ diễn ra trong tương lai gần</Vi>
+          <En>Happening or arriving in the near future.</En>
+          <Example>The upcoming concert has already sold out tickets.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="3fd29c78-aecf-482d-97d2-e0693f9a58e4">
+              <Vi>Mô tả sự kiện, chương trình, hoặc sản phẩm sẽ diễn ra trong thời gian gần.</Vi>
+              <En>Used to describe events, programs, or products scheduled to happen soon.</En>
+            </Situation>
+            <Situation id="ffd6414c-1b61-49c9-90bb-ecedcd94b349">
+              <Vi>Dùng trong dự báo, kế hoạch, hoặc thông báo về những thay đổi hoặc phát triển sắp xảy ra.</Vi>
+              <En>Used in forecasts, plans, or announcements about imminent changes or developments.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
