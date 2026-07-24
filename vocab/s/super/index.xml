@@ -1,0 +1,34 @@
+<Vocab id="12ca2cd7-2501-431e-8ab0-45b7e1f9a3dc" word="super" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="130bc728-6b8d-489f-9fa3-9ac65578a282" value="Teacher" />
+    <Profession id="03e08e8a-7d72-4f3d-ac01-f7c498d1780c" value="Marketing Specialist" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="ce2b64d2-4b2b-4ec3-96fe-ab4437f604f9" ipa="/ˈsuː.pɚ/" vi_ipa="xìu-pờ">
+      <Audios>
+        <Audio type="male_normal" value="./male_normal.mp3" />
+        <Audio type="male_slow" value="./male_slow.mp3" />
+        <Audio type="female_normal" value="./female_normal.mp3" />
+        <Audio type="female_slow" value="./female_slow.mp3" />
+      </Audios>
+      <Meanings>
+        <Meaning id="9cd6c9b8-eb1b-417e-8447-ce7dce5a7be2" type="Adjective">
+          <Vi>siêu, cực kỳ, tuyệt vời</Vi>
+          <En>extremely good; excellent; outstanding</En>
+          <Example>That movie was super interesting—I couldn’t stop watching it!</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="2280199b-f5bf-447f-ab9e-c53b66132ea0">
+              <Vi>Mô tả điều gì đó rất tuyệt hoặc ấn tượng trong giao tiếp hàng ngày.</Vi>
+              <En>Used informally to emphasize how positive or impressive something is in casual speech.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
