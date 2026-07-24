@@ -1,0 +1,39 @@
+<Vocab id="15bacf10-1df0-4218-9dd9-e4dbc625be95" word="personally" type="short" status="done">
+  <Topics>
+    <Topic id="04d51715-6e34-40ad-837f-37305e4054d6" value="Daily Life" />
+    <Topic id="a972af86-ce0c-4721-a04a-d77d4cff702e" value="Communication" />
+  </Topics>
+  <Professions>
+    <Profession id="659a3177-4be4-4928-a9eb-bd639b11c5c6" value="Customer Service Representative" />
+    <Profession id="490ece0c-3de1-467a-b8cd-2e284dc30709" value="Manager" />
+    <Profession id="af3d5fde-4176-4196-a5d8-275dcf615a87" value="Counselor" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="b77f7ea7-1bac-49b3-82eb-0dad4973bfea" ipa="/ˈpɜːr.sən.əl.i/" vi_ipa="pờ-nờ-nờ-lờ-i">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="995168af-7d3d-4c47-b148-f4e5fa1bacbc" type="Adverb">
+          <Vi>theo cách cá nhân tôi; theo quan điểm cá nhân</Vi>
+          <En>in a personal manner; from one's own perspective or experience</En>
+          <Example>I personally think the new policy is unfair to frontline staff.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="c175ed79-9952-427e-b8d3-c366f10bd34b">
+              <Vi>Đưa ra ý kiến cá nhân trong thảo luận nhóm hoặc phỏng vấn.</Vi>
+              <En>Expressing a personal opinion during a group discussion or interview.</En>
+            </Situation>
+            <Situation id="1ff36030-da0f-47c7-951e-9dd22eb8f800">
+              <Vi>Phân biệt giữa quan điểm cá nhân và quan điểm chung hoặc chính thức.</Vi>
+              <En>Distinguishing between personal views and official or collective positions.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
