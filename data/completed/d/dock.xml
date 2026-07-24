@@ -1,0 +1,70 @@
+<Vocab id="cd9d5e83-5dfa-45f8-899e-ac575414c697" word="dock" type="short" status="done">
+  <Topics>
+    <Topic id="e6983166-8504-484f-859c-e968ddcde32f" value="Transportation" />
+  </Topics>
+  <Professions>
+    <Profession id="02dc48b6-5369-45ff-9395-7377c9b2e1fd" value="Maritime Worker" />
+    <Profession id="72f5f81b-d2f6-4afa-8143-dc2d135099a3" value="Logistics Coordinator" />
+    <Profession id="3f4aaa3e-ac28-4f72-ac4d-ad3e6275e4f3" value="Ship Captain" />
+  </Professions>
+  <Pronunciations>
+    <Pronunciation id="5e1af07a-e77b-4a68-8760-25a21130ef66" ipa="/dɑːk/" vi_ipa="đốc">
+      <Audios>
+        <Audio type="male_normal" value="" />
+        <Audio type="male_slow" value="" />
+        <Audio type="female_normal" value="" />
+        <Audio type="female_slow" value="" />
+      </Audios>
+      <Meanings>
+        <Meaning id="31c2f012-50d9-4fd0-aae3-e8437351c0cb" type="Noun">
+          <Vi>Cảng, bến tàu, bến cảng</Vi>
+          <En>A structure built along the shore of a harbor, river, or canal where ships can dock and load or unload cargo and passengers.</En>
+          <Example>The cruise ship pulled into the dock just before sunset.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="df53ec21-a975-4998-985b-157e7ce031bb">
+              <Vi>Hình ảnh tàu thủy neo đậu tại bến để hành khách lên xuống hoặc hàng hóa được bốc dỡ.</Vi>
+              <En>An image of a ship anchored at a pier for passenger embarkation/disembarkation or cargo handling.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="fbf02f4d-d065-4b58-b5b1-1fdeaeec28a6" type="Verb">
+          <Vi>Bến đậu, neo tàu; đưa tàu vào bến</Vi>
+          <En>To bring a ship or boat alongside a dock or pier and secure it there.</En>
+          <Example>The captain ordered the crew to dock the vessel at Pier 3.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="e10778c7-a503-48e8-b98e-854dd75502ff">
+              <Vi>Hành động tàu cập cảng và buộc dây vào cọc hoặc bến để ổn định.</Vi>
+              <En>The action of a vessel approaching and tying up at a dock to remain stationary.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="09a10d58-bbbe-4ec7-b776-d5635b6195f4" type="Verb">
+          <Vi>Tạm giữ (người), nhốt (vào tù)</Vi>
+          <En>To confine someone, especially a suspect or prisoner, in a holding cell or jail.</En>
+          <Example>The police docked the suspect overnight before arraignment.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="1cb7eee0-5ebf-4db2-822a-439dac39be28">
+              <Vi>Cảnh sát giữ nghi phạm trong buồng giam tạm thời.</Vi>
+              <En>Police temporarily holding a suspect in a detention cell before formal charges.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+        <Meaning id="1140e4a7-8d86-4641-941b-4cf18e9a4809" type="Verb">
+          <Vi>Giảm (tiền lương, quyền lợi) do vi phạm</Vi>
+          <En>To reduce someone’s pay or benefits as a penalty for misconduct.</En>
+          <Example>The manager docked his pay for arriving late three times in one week.</Example>
+          <IsArchaic>false</IsArchaic>
+          <Situations>
+            <Situation id="6ed9215b-ee23-41c3-a4c8-cd1a41a60611">
+              <Vi>Nhà quản lý trừ lương nhân viên vì vi phạm quy định.</Vi>
+              <En>An employer deducting wages from an employee’s paycheck as disciplinary action.</En>
+            </Situation>
+          </Situations>
+        </Meaning>
+      </Meanings>
+    </Pronunciation>
+  </Pronunciations>
+</Vocab>
